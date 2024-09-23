@@ -1,48 +1,39 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find proxyip.cfdns.cloudns.ch: NXDOMAIN
+Non-authoritative answer:
+Name:	789ys.com
+Address: 172.67.200.176
+Name:	789ys.com
+Address: 104.21.85.11
+Name:	789ys.com
+Address: 2606:4700:3030::ac43:c8b0
+Name:	789ys.com
+Address: 2606:4700:3032::6815:550b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	hk.rweek.top
-Address: 91.195.240.12
+Name:	m.womyt.com
+Address: 172.232.31.180
+Name:	m.womyt.com
+Address: 172.232.4.213
+Name:	m.womyt.com
+Address: 172.232.25.148
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-bestcfip.34310889.xyz	canonical name = bestproxy.onecf.eu.org.
-Name:	bestproxy.onecf.eu.org
-Address: 8.212.41.98
-Name:	bestproxy.onecf.eu.org
-Address: 141.147.85.167
-Name:	bestproxy.onecf.eu.org
-Address: 152.70.59.90
-Name:	bestproxy.onecf.eu.org
-Address: 132.145.54.84
-Name:	bestproxy.onecf.eu.org
-Address: 193.123.252.170
-Name:	bestproxy.onecf.eu.org
-Address: 140.238.158.238
-Name:	bestproxy.onecf.eu.org
-Address: 47.243.35.200
-Name:	bestproxy.onecf.eu.org
-Address: 143.47.243.144
-Name:	bestproxy.onecf.eu.org
-Address: 141.147.47.32
-Name:	bestproxy.onecf.eu.org
-Address: 141.147.61.116
-Name:	bestproxy.onecf.eu.org
-Address: 193.123.69.77
-Name:	bestproxy.onecf.eu.org
-Address: 193.122.1.0
-Name:	bestproxy.onecf.eu.org
-Address: 132.226.236.61
-Name:	bestproxy.onecf.eu.org
-Address: 150.230.20.156
-Name:	bestproxy.onecf.eu.org
-Address: 144.24.169.81
+www.51jion.com	canonical name = img.dns.ubu-kdi8.com.
+img.dns.ubu-kdi8.com	canonical name = cdn.5yy2.com.
+Name:	cdn.5yy2.com
+Address: 104.21.68.144
+Name:	cdn.5yy2.com
+Address: 172.67.196.43
+Name:	cdn.5yy2.com
+Address: 2606:4700:3036::6815:4490
+Name:	cdn.5yy2.com
+Address: 2606:4700:3037::ac43:c42b
 
