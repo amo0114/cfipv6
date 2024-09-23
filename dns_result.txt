@@ -1,49 +1,28 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	sg.921219.xyz
-Address: 172.64.84.235
-Name:	sg.921219.xyz
-Address: 190.93.245.175
-Name:	sg.921219.xyz
-Address: 172.66.43.91
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find achk2.cloudflarest.link: NXDOMAIN
+** server can't find wap.qffydt.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ph3.kingdo.eu.org
-Address: 141.144.198.113
-Name:	ph3.kingdo.eu.org
-Address: 158.101.169.13
-Name:	ph3.kingdo.eu.org
-Address: 8.222.145.43
-Name:	ph3.kingdo.eu.org
-Address: 132.145.54.84
-Name:	ph3.kingdo.eu.org
-Address: 129.151.198.3
-Name:	ph3.kingdo.eu.org
-Address: 132.226.163.224
-Name:	ph3.kingdo.eu.org
-Address: 150.230.20.156
-Name:	ph3.kingdo.eu.org
-Address: 131.186.60.210
-Name:	ph3.kingdo.eu.org
-Address: 103.137.63.2
-Name:	ph3.kingdo.eu.org
-Address: 152.69.210.245
-Name:	ph3.kingdo.eu.org
-Address: 130.162.128.34
-Name:	ph3.kingdo.eu.org
-Address: 168.138.141.235
-Name:	ph3.kingdo.eu.org
-Address: 141.147.85.167
-Name:	ph3.kingdo.eu.org
-Address: 129.146.47.72
+Name:	down.okdown6.com
+Address: 172.67.221.56
+Name:	down.okdown6.com
+Address: 104.21.24.244
+Name:	down.okdown6.com
+Address: 2606:4700:3031::6815:18f4
+Name:	down.okdown6.com
+Address: 2606:4700:3037::ac43:dd38
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.zhongyunyang.com	canonical name = cf.czonkgc.com.
+Name:	cf.czonkgc.com
+Address: 104.19.62.52
+Name:	cf.czonkgc.com
+Address: 104.19.45.89
 
