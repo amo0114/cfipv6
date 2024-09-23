@@ -1,10 +1,11 @@
-# 标准库
 import os
 import re
 import random
 import ipaddress
 import subprocess
 import concurrent.futures
+import random
+import subprocess
 
 # 第三方库
 import requests
@@ -15,9 +16,9 @@ from urllib3.util.retry import Retry
 
 # 文件配置
 ips = "Fission_ip.txt"
+ips_backup = "Fission_ip_backup.txt"  # 新增的备份文件
 domains = "Fission_domain.txt"
 dns_result = "dns_result.txt"
-
 
 # 并发数配置
 max_workers_request = 20   # 并发请求数量
@@ -161,17 +162,53 @@ def perform_dns_lookups(domain_filename, result_filename, unique_ipv4_filename):
     except Exception as e:
         print(f"Error performing DNS lookups: {e}")
 
+# 下载IP列表
+def download_ip_list():
+    url = "https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestproxy.txt"
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        ip_list = response.text.splitlines()
+
+        # 写入IP到Fission_ip.txt
+        with open(ips, 'w') as file:
+            for ip in ip_list:
+                file.write(ip + '\n')
+        
+        # 同时备份到Fission_ip_backup.txt
+        with open(ips_backup, 'w') as backup_file:
+            for ip in ip_list:
+                backup_file.write(ip + '\n')
+
+        print(f"Downloaded {len(ip_list)} IPs from {url}")
+
+    except Exception as e:
+        print(f"Failed to download IP list: {e}")
+
+# 自动上传到GitHub仓库
+def upload_to_github():
+    try:
+        # 将所有更改添加到暂存区
+        subprocess.run(["git", "add", "."], check=True)  # 添加所有文件
+
+        # 提交更改
+        subprocess.run(["git", "commit", "-m", "Update project files"], check=True)
+        
+        # 推送到 main 分支
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+        print("Project files uploaded to GitHub successfully.")
+        
+    except subprocess.CalledProcessError as e:
+        print(f"Error uploading to GitHub: {e}")
+
+
+
+
+
 # 主函数
 def main():
-    # 判断是否存在IP文件
-    if not os.path.exists(ips):
-        with open(ips, 'w') as file:
-            file.write("")
-    
-    # 判断是否存在域名文件
-    if not os.path.exists(domains):
-        with open(domains, 'w') as file:
-            file.write("")
+    # 下载最新IP列表到Fission_ip.txt
+    download_ip_list()
 
     # IP反查域名
     with open(ips, 'r') as ips_txt:
@@ -180,13 +217,23 @@ def main():
     domain_list = fetch_domains_concurrently(ip_list)
     print("域名列表为")
     print(domain_list)
-    with open("Fission_domain.txt", "r") as file:
+
+    with open(domains, "r") as file:
         exist_list = [domain.strip() for domain in file]
 
     domain_list = list(set(domain_list + exist_list))
 
-    with open("Fission_domain.txt", "w") as output:
-        for domain in domain_list:
+    # 随机选择3个域名（如果域名列表不足3个，选择全部）
+    selected_domains = random.sample(domain_list, min(3, len(domain_list)))
+
+    # 记录随机选择的域名到选定的文件
+    with open("selected_domains.txt", "w") as selected_file:
+        for domain in selected_domains:
+            selected_file.write(domain + "\n")
+    print("随机选择的域名已保存到 selected_domains.txt")
+
+    with open(domains, "w") as output:
+        for domain in selected_domains:
             output.write(domain + "\n")
     print("IP -> 域名 已完成")
 
@@ -194,6 +241,26 @@ def main():
     perform_dns_lookups(domains, dns_result, ips)
     print("域名 -> IP 已完成")
 
+    # 备份
+    try:
+        with open(ips, 'r') as file:
+            ip_backup_content = file.read()
+        with open("Fission_ip_backup.txt", 'w') as backup_file:
+            backup_file.write(ip_backup_content)
+        print("Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.")
+    except Exception as e:
+        print(f"Error backing up Fission_ip.txt: {e}")
+
+    # 清空Fission_ip.txt和Fission_domain.txt文件内容
+    with open(ips, 'w') as file:
+        file.write("")
+    with open(domains, 'w') as file:
+        file.write("")
+
+    # 上传 Fission_ip_backup.txt 到 GitHub
+    upload_to_github()
+
 # 程序入口
 if __name__ == '__main__':
     main()
+
