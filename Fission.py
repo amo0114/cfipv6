@@ -171,17 +171,20 @@ def download_ip_list():
         response.raise_for_status()
         ip_list = response.text.splitlines()
 
-        # 写入IP到Fission_ip.txt
+        # 随机选择三个 IP
+        selected_ips = random.sample(ip_list, min(3, len(ip_list)))
+
+        # 写入选中的IP到Fission_ip.txt
         with open(ips, 'w') as file:
-            for ip in ip_list:
+            for ip in selected_ips:
                 file.write(ip + '\n')
-        
+
         # 同时备份到Fission_ip_backup.txt
         with open(ips_backup, 'w') as backup_file:
             for ip in ip_list:
                 backup_file.write(ip + '\n')
 
-        print(f"Downloaded {len(ip_list)} IPs from {url}")
+        print(f"Downloaded {len(ip_list)} IPs from {url}, selected {len(selected_ips)} IPs.")
 
     except Exception as e:
         print(f"Failed to download IP list: {e}")

@@ -2,38 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	789ys.com
-Address: 172.67.200.176
-Name:	789ys.com
-Address: 104.21.85.11
-Name:	789ys.com
-Address: 2606:4700:3030::ac43:c8b0
-Name:	789ys.com
-Address: 2606:4700:3032::6815:550b
+Name:	28et.com
+Address: 66.29.136.78
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.womyt.com
-Address: 172.232.31.180
-Name:	m.womyt.com
-Address: 172.232.4.213
-Name:	m.womyt.com
-Address: 172.232.25.148
+Name:	www.fnyyw.net
+Address: 162.209.175.122
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.51jion.com	canonical name = img.dns.ubu-kdi8.com.
-img.dns.ubu-kdi8.com	canonical name = cdn.5yy2.com.
-Name:	cdn.5yy2.com
-Address: 104.21.68.144
-Name:	cdn.5yy2.com
-Address: 172.67.196.43
-Name:	cdn.5yy2.com
-Address: 2606:4700:3036::6815:4490
-Name:	cdn.5yy2.com
-Address: 2606:4700:3037::ac43:c42b
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
