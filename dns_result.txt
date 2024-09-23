@@ -2,81 +2,48 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	hk.tingfeng.shop
-Address: 104.16.63.11
-Name:	hk.tingfeng.shop
-Address: 172.66.40.190
-Name:	hk.tingfeng.shop
-Address: 104.19.166.80
-Name:	hk.tingfeng.shop
-Address: 104.21.27.57
-Name:	hk.tingfeng.shop
-Address: 104.26.4.155
-Name:	hk.tingfeng.shop
-Address: 104.21.231.18
-Name:	hk.tingfeng.shop
-Address: 104.18.6.53
-Name:	hk.tingfeng.shop
-Address: 154.197.121.99
-Name:	hk.tingfeng.shop
-Address: 104.26.11.244
-Name:	hk.tingfeng.shop
-Address: 154.197.121.248
-Name:	hk.tingfeng.shop
-Address: 172.67.187.26
-Name:	hk.tingfeng.shop
-Address: 27.50.48.108
-Name:	hk.tingfeng.shop
-Address: 172.67.172.197
-Name:	hk.tingfeng.shop
-Address: 104.18.1.107
-Name:	hk.tingfeng.shop
-Address: 104.21.30.35
+Name:	sg.921219.xyz
+Address: 172.64.84.235
+Name:	sg.921219.xyz
+Address: 190.93.245.175
+Name:	sg.921219.xyz
+Address: 172.66.43.91
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find achk2.cloudflarest.link: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	proxyip.dabo.free.hr
-Address: 168.138.165.174
-Name:	proxyip.dabo.free.hr
-Address: 131.186.60.210
-Name:	proxyip.dabo.free.hr
-Address: 129.153.126.67
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-lz.moonriver.sbs	canonical name = bestproxy.onecf.eu.org.
-Name:	bestproxy.onecf.eu.org
-Address: 144.24.169.81
-Name:	bestproxy.onecf.eu.org
-Address: 141.147.61.116
-Name:	bestproxy.onecf.eu.org
-Address: 140.238.158.238
-Name:	bestproxy.onecf.eu.org
-Address: 193.123.69.77
-Name:	bestproxy.onecf.eu.org
-Address: 193.123.252.170
-Name:	bestproxy.onecf.eu.org
-Address: 141.147.47.32
-Name:	bestproxy.onecf.eu.org
-Address: 193.122.1.0
-Name:	bestproxy.onecf.eu.org
-Address: 132.226.236.61
-Name:	bestproxy.onecf.eu.org
-Address: 8.212.41.98
-Name:	bestproxy.onecf.eu.org
-Address: 143.47.243.144
-Name:	bestproxy.onecf.eu.org
-Address: 152.70.59.90
-Name:	bestproxy.onecf.eu.org
+Name:	ph3.kingdo.eu.org
+Address: 141.144.198.113
+Name:	ph3.kingdo.eu.org
+Address: 158.101.169.13
+Name:	ph3.kingdo.eu.org
+Address: 8.222.145.43
+Name:	ph3.kingdo.eu.org
 Address: 132.145.54.84
-Name:	bestproxy.onecf.eu.org
+Name:	ph3.kingdo.eu.org
+Address: 129.151.198.3
+Name:	ph3.kingdo.eu.org
+Address: 132.226.163.224
+Name:	ph3.kingdo.eu.org
 Address: 150.230.20.156
-Name:	bestproxy.onecf.eu.org
+Name:	ph3.kingdo.eu.org
+Address: 131.186.60.210
+Name:	ph3.kingdo.eu.org
+Address: 103.137.63.2
+Name:	ph3.kingdo.eu.org
+Address: 152.69.210.245
+Name:	ph3.kingdo.eu.org
+Address: 130.162.128.34
+Name:	ph3.kingdo.eu.org
+Address: 168.138.141.235
+Name:	ph3.kingdo.eu.org
 Address: 141.147.85.167
-Name:	bestproxy.onecf.eu.org
-Address: 47.243.35.200
+Name:	ph3.kingdo.eu.org
+Address: 129.146.47.72
 
