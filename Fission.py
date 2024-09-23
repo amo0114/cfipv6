@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import os
 import re
 import random
@@ -7,7 +9,6 @@ import concurrent.futures
 import random
 import subprocess
 
-# 第三方库
 import requests
 from lxml import etree
 from fake_useragent import UserAgent
@@ -164,7 +165,7 @@ def perform_dns_lookups(domain_filename, result_filename, unique_ipv4_filename):
 
 # 下载IP列表
 def download_ip_list():
-    url = "https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/proxy.txt"
+    url = "https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestproxy.txt"
     try:
         response = requests.get(url)
         response.raise_for_status()

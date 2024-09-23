@@ -1,17 +1,48 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find wjy.wvqjjou.cn: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find cf1.eryayun.tk: NXDOMAIN
+** server can't find proxyip.cfdns.cloudns.ch: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	hk16.yscard.gq
-Address: 8.218.181.189
+Name:	hk.rweek.top
+Address: 91.195.240.12
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+bestcfip.34310889.xyz	canonical name = bestproxy.onecf.eu.org.
+Name:	bestproxy.onecf.eu.org
+Address: 8.212.41.98
+Name:	bestproxy.onecf.eu.org
+Address: 141.147.85.167
+Name:	bestproxy.onecf.eu.org
+Address: 152.70.59.90
+Name:	bestproxy.onecf.eu.org
+Address: 132.145.54.84
+Name:	bestproxy.onecf.eu.org
+Address: 193.123.252.170
+Name:	bestproxy.onecf.eu.org
+Address: 140.238.158.238
+Name:	bestproxy.onecf.eu.org
+Address: 47.243.35.200
+Name:	bestproxy.onecf.eu.org
+Address: 143.47.243.144
+Name:	bestproxy.onecf.eu.org
+Address: 141.147.47.32
+Name:	bestproxy.onecf.eu.org
+Address: 141.147.61.116
+Name:	bestproxy.onecf.eu.org
+Address: 193.123.69.77
+Name:	bestproxy.onecf.eu.org
+Address: 193.122.1.0
+Name:	bestproxy.onecf.eu.org
+Address: 132.226.236.61
+Name:	bestproxy.onecf.eu.org
+Address: 150.230.20.156
+Name:	bestproxy.onecf.eu.org
+Address: 144.24.169.81
 
