@@ -2,33 +2,23 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.33mov.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 162.159.141.60
+Name:	ips.993888.xyz
+Address: 162.159.136.142
+Name:	ips.993888.xyz
+Address: 162.159.134.122
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.pm56.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	mem.lyellcollection.org
-Address: 172.64.153.14
-Name:	mem.lyellcollection.org
-Address: 104.18.34.242
-Name:	mem.lyellcollection.org
-Address: 2606:4700:4400::6812:22f2
-Name:	mem.lyellcollection.org
-Address: 2606:4700:4400::ac40:990e
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 162.209.149.30
+Name:	4319265.com
+Address: 23.224.59.194
 
