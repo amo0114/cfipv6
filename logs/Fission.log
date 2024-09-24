@@ -51,3 +51,25 @@ Performing DNS lookup for www.iios.me...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1b96e68] Update project files
+ 4 files changed, 70 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   4ba8018..1b96e68  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.5.234...
+Fetching domains for 104.18.25.98...
+Fetching domains for 104.18.72.172...
+succeed to fetch domains for 104.18.72.172 from https://dnsdblookup.com/
+succeed to fetch domains for 104.26.5.234 from https://site.ip138.com/
+succeed to fetch domains for 104.18.25.98 from https://ipchaxun.com/
+域名列表为
+['www.75uw.com', 'www.zpdyw.com', 'www.groheshop.com', 'www.xinjuc.com', 'c789m.com', 'www.tabletennis11.com', '663dy.com', 'www.g4c3.com', 'rinaorc.com', 'www.5234zz.com', 'javfor.me', 'www.cx888my.com', 'www.nsisfans.com', 'www.360kfw.com', 'www.vodbd.com', 'www.kbss888.com', 'www.iios.club', 'www.f789a.com', 'g4c3.com', '5456yo.com', 'bbwxvip.com', 'blog.bestip.one', '1.namesilo123.top', 'iosapp8.net', 'www.erolabs.co', 'www.meiju11.com', '4hu32y.com', 'm.niuerzs.com', 'tongkg.top', '65bao2.com', 'www.javfor.me', '5234zz.com', 'www.sxtymm.com', 'www.663dy.com', 'f789a.com', 'www.yy6080y.net', 'www.c789m.com', 'moakt.com', 'www.nba01.com', 'www.91m.cc', 'www.sf123.mobi', 'www.4hu32y.com', 'www.lyys8.com', 'www.allmag.hk', 'www.motherporno.com', 'mast.dragon-fly.club', 'www.5456yo.com', '4563nn.com', 'www.6988tv.com', 'www.thechildren.com', 'www.sipwps.com', 'sipwps.com', '360kfw.com', 'cpv.rtxrtb.com', 'batteryuniversity.com', 'jpvsavhyu.76898102.xyz', 'techbigs.com', 'www.dhamma.com', 'www.dzy66666.com', 'eltonjames.com', 'www.456gg.com', 'dragon-fly.club', 'dhamma.com', 'www.moakt.com', 'tabletennis11.com', 'm.6988tv.com', 'navixy.com', '99wx.cc', 'img.yihgj.com', 'www.5ddy.cc', 'lifezette.com', 'www.e789f.com', 'motherporno.com', 'www.bbwxvip.com', 'www.cbcv.cc', 'www.sf52l.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.91m.cc...
+Performing DNS lookup for 4hu32y.com...
+Performing DNS lookup for www.xinjuc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
