@@ -2,23 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 162.159.141.60
-Name:	ips.993888.xyz
-Address: 162.159.136.142
-Name:	ips.993888.xyz
-Address: 162.159.134.122
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.pm56.top: NXDOMAIN
+yundunwawablogcdn1dx.wawacm.com	canonical name = blogwaf.yava.pw.
+Name:	blogwaf.yava.pw
+Address: 104.25.128.0
+Name:	blogwaf.yava.pw
+Address: 104.18.224.0
+Name:	blogwaf.yava.pw
+Address: 104.17.120.0
+Name:	blogwaf.yava.pw
+Address: 104.24.18.0
+Name:	blogwaf.yava.pw
+Address: 104.17.152.0
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	4319265.com
-Address: 23.224.59.194
+Name:	www.nmgtzb.org.cn
+Address: 38.14.165.27
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.iios.me	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 

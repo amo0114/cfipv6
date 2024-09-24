@@ -1,0 +1,30 @@
+Downloaded 4 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.11.137...
+Fetching domains for 172.67.75.74...
+Fetching domains for 104.16.105.203...
+succeed to fetch domains for 104.26.11.137 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.75.74 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.105.203 from https://ipchaxun.com/
+域名列表为
+['freepdfconvert.com', 'cf.zmdhc.com', '789kp.com', 'www.cdjyhm.com', 'docwirenews.com', 'www.ncex.pro', 'cruisersforum.com', '1.kw955.com', 'invesa.com', 'www.paizipai.top', 'www.huakai2018.com', 'noticiasaominuto.com.br', 'mmoui.com', 'www.catcar.info', 'pps.uingusdur.ac.id', 'm.y3600.cc', 'jhpcza.66666654.xyz', 'www.61ww.com', 'www.boyangjt.com', 'www.6i5.com', 'm.11txt.com', 'www.11txt.com', 'www.jsdrtzn.com', '7diyibanzhu.xyz', 'www.7sc.cc', 'www.iios.club', 'tv4644.com', 'www.ddwhm.com', 'www.90dushu.com', 'www.7diyibanzhu.xyz', 'www.whpaiger.com', 'www.docwirenews.com', 'iem.org.mx', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.freepdfconvert.com', 'www.szjysmy.com', 'www.tv9090.com', 'hookup.com', 'minion.mmoui.com', 'www.hnxinlian.org', 'www.yy4080dy.com', 'm.50zw.co', 'www.yiqianhg.com', 'www.hosemicon.com', 'carbondesignsystem.com', 'm.28dushu.com', 'nettikone.com', 'm.jingshuai888.com', 'oaksmart.com', 'a392.cc', 'cf1.492745.xyz', 'iios.fun', 'www.gzcfmy.com', 'www.luwangyangrong.com', 'www.grimper.ch', 'ss78a.com', 'balkanweb.com', 'www.cocanwelding.com', 'www.nycxdesign.com', 'skymanga.co', 'www.zzgszz.com', 'www.gaycn.top', 'cocopanda.de', 'shop.hostmonit.com', 'www.iios.me', 'www.hr0354.com', 'www.hanmatv.com', 'st-pl-1.brocdn.com', 'williamhill2050.com', 'www.nangua55.com', 'www.fxnewstoday.ae', 'm.niuerzs.com', 'usnew.lbxjc.site', 'www.295k.com', 'nft.xwg.games', 'www.4148.net', 'www.web120.org', 'www.noticiasaominuto.com.br', 'www.91m.cc', 'www.17kty.com', 'www.carbondesignsystem.com', 'cf.cmliu.cf', 'www.xwg.games', 'www.talkfx.com', 'www.nsisfans.com', 'themepalace.com', 'www.lumina.com.ph', 'www.hxsy888.com', 'www.nettikone.com', 'www.pgslot168.com', 'www.skymanga.co', 'yyxycn.com', 'www.52biqv.com', 'fxnewstoday.ae', 'genstone.com', 'www.qchkj.com', '182ge.com', 'www.28dushu.com', 'www.themepalace.com', 'www.93xscc.com', 'www.0550cq.com', 'www.qumiyun.com', 'yundunwawablogcdn1dx.wawacm.com', 'default.cfnode.eu.org', 'www.summerpockets.com', 'www.xkstxt.com', 'g432.cc', 'dsxys.com', 'zi0.cc', 'www.asmrgay.com', 'yh7.dtku41.xyz', 'www.kelownanow.com', 'stock.hostmonit.com', 'www.balkanweb.com', 'www.33r.com', 'iplt.52pokemon.cc', 'xwg.games', 'www.wn01.cc', 'adult.xyz', 'www.tianyabook.com', 'mymyads.net', 'whpaiger.com', 'www.naimilu.com', 'talkfx.com', 'www.wxxzzs.com', 'www.92mili.com', 'www.tuyuyun.com', 'www.dgytlt.com']
+Traceback (most recent call last):
+  File "/root/ipfission/CloudflareCDNFissionNew/Fission.py", line 269, in <module>
+    main()
+  File "/root/ipfission/CloudflareCDNFissionNew/Fission.py", line 225, in main
+    with open(domains, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'Fission_domain.txt'
+Downloaded 4 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.105.203...
+Fetching domains for 172.67.75.74...
+Fetching domains for 104.18.191.88...
+succeed to fetch domains for 104.16.105.203 from https://site.ip138.com/
+succeed to fetch domains for 172.67.75.74 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.191.88 from https://ipchaxun.com/
+域名列表为
+['www.gzcfmy.com', 'www.kelownanow.com', 'www.boyangjt.com', 'www.baokanwang.com', 'www.nmgtzb.org.cn', 'www.wxxzzs.com', 'www.7sc.cc', 'iem.org.mx', 'zi0.cc', 'www.yy4080dy.com', 'www.kanunu2.com', 'xwg.games', 'www.yiqianhg.com', 'pps.uingusdur.ac.id', 'www.zzkdhb.com', 'www.6i5.com', 'www.jjxsxs.com', 'www.tv9090.com', '789kp.com', 'www.nangua55.com', 'www.paizipai.top', 'yyxycn.com', 'freepdfconvert.com', 'www.75xs.cc', 'www.hnxinlian.org', 'www.cdjyhm.com', 'www.xwg.games', 'www.catcar.info', 'm.28dushu.com', 'cf1.492745.xyz', 'carbondesignsystem.com', 'www.zzgszz.com', 'www.hanmatv.com', 'www.ncex.pro', 'www.zongcaixs.cc', 'www.52biqv.com', 'www.17kty.com', 'iios.fun', 'www.themepalace.com', 'www.7diyibanzhu.xyz', 'www.77zw.cc', 'dsxys.com', 'www.dgytlt.com', 'm.y3600.cc', 'www.93xscc.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.0550cq.com', 'www.iios.club', 'www.szjysmy.com', 'nft.xwg.games', 'www.carbondesignsystem.com', 'www.iios.me', 'stock.hostmonit.com', 'www.qchkj.com', 'www.asmrgay.com', 'hookup.com', 'cf.zmdhc.com', 'm.11txt.com', 'www.gangsiwang.org', 'noticiasaominuto.com.br', 'www.28dushu.com', 'invesa.com', 'm.niuerzs.com', 'cruisersforum.com', 'www.90dushu.com', 'www.nycxdesign.com', 'www.99wx.cc', 'm.50zw.co', 'www.hosemicon.com', 'default.cfnode.eu.org', 'adult.xyz', 'www.jsdrtzn.com', '7diyibanzhu.xyz', 'www.web120.org', 'talkfx.com', 'www.xkstxt.com', 'www.freepdfconvert.com', 'm.jingshuai888.com', 'www.cocanwelding.com', 'www.92mili.com', 'www.hxsy888.com', 'themepalace.com', 'www.pgslot168.com', 'whpaiger.com', 'www.4148.net', 'shop.hostmonit.com', 'www.ddwhm.com', 'www.hr0354.com', 'www.noticiasaominuto.com.br', 'www.talkfx.com', 'www.11txt.com']
+Traceback (most recent call last):
+  File "/root/ipfission/CloudflareCDNFissionNew/Fission.py", line 269, in <module>
+    main()
+  File "/root/ipfission/CloudflareCDNFissionNew/Fission.py", line 225, in main
+    with open(domains, "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'Fission_domain.txt'
