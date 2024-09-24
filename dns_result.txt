@@ -2,44 +2,19 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.456gg.com	canonical name = 456gg.haofanghu123.com.
-456gg.haofanghu123.com	canonical name = www.456gg.com.cdn.cloudflare.net.
-Name:	www.456gg.com.cdn.cloudflare.net
-Address: 104.21.76.67
-Name:	www.456gg.com.cdn.cloudflare.net
-Address: 172.67.190.240
-Name:	www.456gg.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:bef0
-Name:	www.456gg.com.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:4c43
+xiaobai.live	canonical name = xiaobai.live.cdn.cloudflare.net.
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		1.1.1.1
+Address:	1.1.1.1#53
 
-Non-authoritative answer:
-www.iios.me	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+** server can't find www.lewen5.com: SERVFAIL
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		1.1.1.1
+Address:	1.1.1.1#53
 
-Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+** server can't find www.piaotian.org: SERVFAIL
 
