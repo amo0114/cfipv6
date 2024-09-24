@@ -2,34 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.tvfff.com	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.187.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.186.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:ba1f
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:bb1f
+www.33mov.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.dy420.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
+Name:	mem.lyellcollection.org
+Address: 172.64.153.14
+Name:	mem.lyellcollection.org
+Address: 104.18.34.242
+Name:	mem.lyellcollection.org
+Address: 2606:4700:4400::6812:22f2
+Name:	mem.lyellcollection.org
+Address: 2606:4700:4400::ac40:990e
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.meijui.net: SERVFAIL
+Non-authoritative answer:
+Name:	www.zzztch.com
+Address: 162.209.149.30
 
