@@ -2,35 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-raw.gitmirror.com	canonical name = cdn.401403404.xyz.
-Name:	cdn.401403404.xyz
-Address: 172.67.221.5
-Name:	cdn.401403404.xyz
-Address: 104.21.24.234
-Name:	cdn.401403404.xyz
-Address: 2606:4700:3036::6815:18ea
-Name:	cdn.401403404.xyz
-Address: 2606:4700:3036::ac43:dd05
-
-Server:		8.8.4.4
-Address:	8.8.4.4#53
-
-Non-authoritative answer:
-Name:	draft5.gg
-Address: 104.26.14.94
-Name:	draft5.gg
-Address: 104.26.15.94
-Name:	draft5.gg
-Address: 172.67.68.244
-Name:	draft5.gg
-Address: 2606:4700:20::681a:f5e
-Name:	draft5.gg
-Address: 2606:4700:20::681a:e5e
-Name:	draft5.gg
-Address: 2606:4700:20::ac43:44f4
+m.tvfff.com	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.4hudy177.com: NXDOMAIN
+Non-authoritative answer:
+www.dy420.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		1.1.1.1
+Address:	1.1.1.1#53
+
+** server can't find www.meijui.net: SERVFAIL
 
