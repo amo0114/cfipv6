@@ -1,38 +1,34 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-yundunwawablogcdn1dx.wawacm.com	canonical name = blogwaf.yava.pw.
-Name:	blogwaf.yava.pw
-Address: 104.25.128.0
-Name:	blogwaf.yava.pw
-Address: 104.18.224.0
-Name:	blogwaf.yava.pw
-Address: 104.17.120.0
-Name:	blogwaf.yava.pw
-Address: 104.24.18.0
-Name:	blogwaf.yava.pw
-Address: 104.17.152.0
+** server can't find www.91m.cc: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.nmgtzb.org.cn
-Address: 38.14.165.27
+Name:	4hu32y.com
+Address: 76.223.67.189
+Name:	4hu32y.com
+Address: 13.248.213.45
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.me	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+www.xinjuc.com	canonical name = xinju.cloudflare.182682.xyz.
+Name:	xinju.cloudflare.182682.xyz
+Address: 104.17.204.67
+Name:	xinju.cloudflare.182682.xyz
+Address: 104.16.69.173
+Name:	xinju.cloudflare.182682.xyz
+Address: 104.18.93.4
+Name:	xinju.cloudflare.182682.xyz
+Address: 104.17.200.133
+Name:	xinju.cloudflare.182682.xyz
+Address: 104.17.43.47
+Name:	xinju.cloudflare.182682.xyz
+Address: 2606:4700:90ce::1e:320b
+Name:	xinju.cloudflare.182682.xyz
+Address: 2606:4700:3038::cd2:7d37
 

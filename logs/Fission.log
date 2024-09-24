@@ -28,3 +28,26 @@ Traceback (most recent call last):
   File "/root/ipfission/CloudflareCDNFissionNew/Fission.py", line 225, in main
     with open(domains, "r") as file:
 FileNotFoundError: [Errno 2] No such file or directory: 'Fission_domain.txt'
+[main 4ba8018] Update project files
+ 4 files changed, 82 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (61%)
+ create mode 100644 logs/Fission.log
+To github.com:amo0114/cfipv6.git
+   2a9a863..4ba8018  main -> main
+Downloaded 4 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.75.74...
+Fetching domains for 104.16.105.203...
+Fetching domains for 104.18.191.88...
+succeed to fetch domains for 172.67.75.74 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.191.88 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.105.203 from https://ipchaxun.com/
+域名列表为
+['iios.fun', 'www.dgytlt.com', 'www.ddwhm.com', 'www.75xs.cc', 'www.28dushu.com', 'www.qchkj.com', 'stock.hostmonit.com', 'cruisersforum.com', 'www.zzgszz.com', 'www.kelownanow.com', 'www.yy4080dy.com', 'default.cfnode.eu.org', 'www.tv9090.com', 'www.nmgtzb.org.cn', 'www.hr0354.com', 'www.carbondesignsystem.com', 'yyxycn.com', 'www.jjxsxs.com', 'www.hnxinlian.org', 'www.92mili.com', 'www.zongcaixs.cc', 'www.szjysmy.com', '789kp.com', 'cf.zmdhc.com', 'www.boyangjt.com', 'www.themepalace.com', 'shop.hostmonit.com', 'pps.uingusdur.ac.id', 'www.cocanwelding.com', 'www.nycxdesign.com', 'www.gangsiwang.org', 'www.hosemicon.com', 'iem.org.mx', 'm.50zw.co', 'dsxys.com', 'www.4148.net', 'www.0550cq.com', 'www.cdjyhm.com', 'www.6i5.com', 'zi0.cc', 'www.90dushu.com', 'www.paizipai.top', 'www.yiqianhg.com', 'www.kanunu2.com', 'themepalace.com', 'www.wxxzzs.com', 'www.baokanwang.com', 'www.hanmatv.com', 'www.93xscc.com', 'www.xkstxt.com', 'www.zzkdhb.com', 'www.77zw.cc', 'm.niuerzs.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.web120.org', 'm.28dushu.com', 'www.17kty.com', 'www.hxsy888.com', 'www.11txt.com', 'www.iios.me', 'm.jingshuai888.com', 'www.jsdrtzn.com', 'whpaiger.com', 'www.7sc.cc', 'www.99wx.cc', 'www.iios.club', 'cf1.492745.xyz', 'm.11txt.com', 'www.gzcfmy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yundunwawablogcdn1dx.wawacm.com...
+Performing DNS lookup for www.nmgtzb.org.cn...
+Performing DNS lookup for www.iios.me...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
