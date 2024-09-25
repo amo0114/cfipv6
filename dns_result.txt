@@ -2,47 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.266958.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.103.99
-Name:	cf.zmdhc.com
-Address: 172.67.44.7
-Name:	cf.zmdhc.com
-Address: 172.67.86.27
-Name:	cf.zmdhc.com
-Address: 172.67.10.49
+Name:	52biqv.com
+Address: 172.67.214.157
+Name:	52biqv.com
+Address: 104.21.53.154
+Name:	52biqv.com
+Address: 2606:4700:3032::6815:359a
+Name:	52biqv.com
+Address: 2606:4700:3034::ac43:d69d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tlbb888.com	canonical name = yt9995.c2.hycdn.xyz.
-yt9995.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.19.239.173
-Name:	dcs.jqddos.xyz
-Address: 104.19.179.223
-Name:	dcs.jqddos.xyz
-Address: 104.25.18.5
-Name:	dcs.jqddos.xyz
-Address: 104.19.230.111
-Name:	dcs.jqddos.xyz
-Address: 104.25.228.8
-Name:	dcs.jqddos.xyz
-Address: 104.17.36.140
-Name:	dcs.jqddos.xyz
-Address: 104.19.177.29
-Name:	dcs.jqddos.xyz
-Address: 104.18.245.2
-Name:	dcs.jqddos.xyz
-Address: 104.17.116.6
-Name:	dcs.jqddos.xyz
-Address: 104.25.43.199
+blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	97777pk.com
-Address: 47.244.221.51
+** server can't find 17.namesilo123.top: NXDOMAIN
 

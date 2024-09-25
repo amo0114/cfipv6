@@ -194,3 +194,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 806b3a9] Update project files
+ 4 files changed, 103 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   eb15a4c..806b3a9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.66.170...
+Fetching domains for 104.21.236.182...
+Fetching domains for 104.21.239.147...
+succeed to fetch domains for 172.67.66.170 from https://site.ip138.com/
+succeed to fetch domains for 104.21.239.147 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.236.182 from https://dnsdblookup.com/
+域名列表为
+['cf.openxai.link', 'www.zhiqihuo.com', 'www.295k.com', 'ipdb.rr.nu', 'www.iios.fun', 'www.imeiju.net', '52dvd.cn', '66se24.com', 'www.nitianxieshen.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.zpdyw.com', 'www.zcgs668.com', 'furrina.team', 'www.iios.club', 'jhpcza.66666654.xyz', 'hkaa.sectigo.pp.ua', 'gaogejian.cn', 'www.999998.vip', 'www.888dyy.cc', 'dm84.tv', 'man.luwangyangrong.com', 'www.266958.com', 'www.xalfqzj.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.6i5.com', 'www.6988tv.com', 'achk.cloudflarest.link', 'www.meijukan.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.yy4080dy.com', 'www.luwangyangrong.com', 'www.heinu.cc', 'www.k77yy.com', 'www.lyys8.com', 'www.blwdy.com', 'www.lewen5.com', 'www.58ha.com', 'www.ttamj.com', 'www.50zw.co', 'www.7sc.cc', 'www.yiqianhg.com', 'www.gushijingdian.com', 'cfip.xxxxxxxx.tk', 'iios.club', 'www.66se24.com', 'www.bjfqmj.com', 'www.k77kk.cc', 'yh6.dtku41.xyz', 'www.0550cq.com', 'm.cbcv.cc', 'www.shsxjzzs.com', 'www.30hu.com', 'www.7lq.com', 'tunneltransfer.bpyjc.com', 'www.jsdrtzn.com', 'cf-lt.sharecentre.online', 'stock.hostmonit.com', 'baxtc.66666654.xyz', 'www.c333.net', 'www.66se0.com', 'kkyx.yydsii.com', '999696.xyz', 'www.pk299.com', 'freeyx.cloudflare88.eu.org', 'w23us.com', 'www.4148.net', 'www.lnudz.com', 'www.kmbenma.com', '7sc.cc', 'www.hengnan520.com', 'v4.cfnode.eu.org', 'www.iios.me', 'www.hxsy888.com', 'www.gzcfmy.com', 'm.jingshuai888.com', 'www.sevtinge.cn', 'www.tinghen.com', 'www.tlbb888.com', 'cloudflares.666999.world', 'www.17kty.com', 'www.hosemicon.com', 'zl.aitrjc.xyz', 'www.hm13.lol', '295k.com', 'www.shecnudec.com', 'www.nb6080.com', 'nuu.988188.xyz', '97777pk.com', 'www.szjysmy.com', 'www.11txt.com', 'www.993my.com', 'www.cdjyhm.com', 'www.yunbtv.com', 'www.huanyaad.com', 'www.lyzdzy.com', 'www.dgytlt.com', 'www.niyady.com', 'www.fftv8.com', 'www.szxjsj.com', 'www.x52bq.com', 'cfcdn1.sanfencdn9.com', 'www.gzgafk.com', 'www.zhongyunyang.com', 'www.paizipai.top', 'm.y3600.cz', 'www.mm5517.com', '3dckck.com', 'www.lvhuisb.com', 'www.dilidili8.com', 'www.xworldadmin.com', 'cloudflare.cfgo.cc', 'www.90dushu.com', 'www.tv9090.com', 'www.cbcv.cc', 'www.ddwhm.com', 'dsxys.pro', 'www.bm158.com', 'www.tanhuazu.com', 'www.163my.com', 'bm158.com', 'www.91m.cc', 'www.ugome.com', '0550cq.com', 'www.cfhuagong.com', 'yyxycn.com', 'www.77yeye.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.266958.com...
+Performing DNS lookup for www.tlbb888.com...
+Performing DNS lookup for 97777pk.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
