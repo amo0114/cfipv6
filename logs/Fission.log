@@ -95,3 +95,25 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5227526] Update project files
+ 4 files changed, 50 insertions(+), 55 deletions(-)
+ rewrite dns_result.txt (94%)
+To github.com:amo0114/cfipv6.git
+   c027fe7..5227526  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.34.120...
+Fetching domains for 104.24.75.95...
+Fetching domains for 104.24.227.104...
+succeed to fetch domains for 104.24.75.95 from https://site.ip138.com/
+succeed to fetch domains for 104.24.227.104 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.34.120 from https://dnsdblookup.com/
+域名列表为
+['xiaobai.live', 'www.28et.com', 'www.piaotian.org', 'www.gyhbhq.com', 'www.9ekk.com', 'www.lewen5.com', 'dsxys.com', 'www.295k.com', 'www.52ys.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for xiaobai.live...
+Performing DNS lookup for www.lewen5.com...
+Performing DNS lookup for www.piaotian.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

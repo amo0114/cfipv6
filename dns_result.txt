@@ -2,19 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-xiaobai.live	canonical name = xiaobai.live.cdn.cloudflare.net.
+*** Can't find ku5558.net: No answer
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.lewen5.com: SERVFAIL
+Non-authoritative answer:
+Name:	rc.rcjournal.com
+Address: 172.64.151.54
+Name:	rc.rcjournal.com
+Address: 104.18.36.202
+Name:	rc.rcjournal.com
+Address: 2606:4700:4400::6812:24ca
+Name:	rc.rcjournal.com
+Address: 2606:4700:4400::ac40:9736
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.piaotian.org: SERVFAIL
+Non-authoritative answer:
+Name:	namu.news
+Address: 104.18.22.222
+Name:	namu.news
+Address: 104.18.23.222
+Name:	namu.news
+Address: 2606:4700::6812:16de
+Name:	namu.news
+Address: 2606:4700::6812:17de
 
