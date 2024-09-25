@@ -259,3 +259,25 @@ Performing DNS lookup for www.jsdrtzn.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1cf48d6] Update project files
+ 4 files changed, 55 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   2ebed32..1cf48d6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.30.177...
+Fetching domains for 104.21.235.205...
+Fetching domains for 104.18.37.41...
+succeed to fetch domains for 104.21.30.177 from https://site.ip138.com/
+succeed to fetch domains for 104.21.235.205 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.37.41 from https://ipchaxun.com/
+域名列表为
+['yayin.canlitv.com', 'www.kkb888.icu', 'icdn.juvefc.com', 'www.bugmafiaoficial.ro', 'wap.ymg798p.top', 'xtw123.com', 'tryporn.info', 'www.canlitv.com', 'thea1287.cc', 'locarama.eu', 'www.qhixs.cn', 'share.tamako.space', 'hlstw.ihome.tokyo', 'www3.fv1hh.com', '3uz2ec.top', '50r3lt.69xx0089.xyz', 'bdsmtv.cc', '69maoff.com', 'www.lshyyz.com', 'm.8br9gh.top', 'cmvnvzyoan.xyz', '91p52.com', '123315.cc', 'allanime.to', 'www.byym21.com', 'jjjjjj151.com', 'www.8br9gh.top', 'xvidoes.aff91av.cc', 'www.jjj94.com', 'www.300porn.pro', 'www.3uz2ec.top', 'foodarticles.net', 'www.dghsjd.com', 'dv65.com', 'news.torlife.com', 'www.93xs.net', 'hw9rz2.fv1hh.com', 'blockchain-webapp.com', 'www.kuudy.com', 'www.lgfcmk.cn', 'www.northbrookfbrv.tk', 'sv.thehealthypost.com', 'www.vodbd.com', 'www.hovidos.com', 'uqbqkyf.top', 'cccat.io', 'video.tinhhoa.net', 'www.33r.com', 'sezhanxx.com', 'emtv1.xyz', 'www.wl239.cn', 'www.tpyyc.com', 'www.ymg798p.top', 'hentaipicsworld.com', 'eggporncomics.com', 'ccs.cash', 'wpphone.ru', '3g.8br9gh.top', 'www.szqudou.cn', '336258.xyz', 'www.asiansextrip.com', 'h4e2z4.fv1hh.com', 'queerpixels.com', 'budgetofchina.cn', 'htnrz2.fv1hh.com', 'www.jskuaimao.com', 'yueaa.xyz', 'www.xxth158.cn', 'mav389.xyz', 'gd168team003.tab.workers.dev', 'asianfreeporns.com', 'img.91p52.com', 'tom661.com', 'tom636.com', 'www.hw9rz2.fv1hh.com', 'wap.8br9gh.top', 'livetv.mylifeisgood.ml', '3g.uqbqkyf.top', 'www.x9760i.com', 'www.asianfreeporns.com', 'eroanthology.com', 'ymg798p.top', 'thematuresex.net', 'byym21.com', 'm.ymg798p.top', 'www.zzljhxe.cn', 'cps.qianyimwl.top', 'www.hentaipicsworld.com', 'cyijia.com', 'sr14.douphy.com', '300porn.pro', 'dvd.taiwan-sex.com', '3g.3uz2ec.top', 'redaksi.co.id', 'm.3uz2ec.top', 'aridosmaipo.cl', 'www.69maoff.com', 'www.6988tv.com', 'dgyh.jjyun.ren', 'www.tom661.com', 'taiwan-sex.com', 'tinhhoa.net', 'www.dunsh.net', 'sr13.douphy.com', 'kfomoney.xyz', 'www.budgetofchina.cn', 'wap.uqbqkyf.top', 'pornfoxvr.com', '225577.net', 'pic.ihome.tokyo', 'ccm.91p52.com', 'www.bdsmtv.cc', 'www.igihe.tv', 'igihe.tv', 'puporn.com', 'jjj94.com', 'www.iios.club', 'hovidos.com', 'wap.3uz2ec.top', 'sbembed.com', 'xiguafb.xyz', 'qunok.com', 'wx1.jjyun.ren', 'www.lyzdzy.com', 'www.q2042.com', 'www.moyusifu.com', 'www.sezhanxx.com', 'zsq77.com', '8br9gh.top', 'flux.qianyimwl.top', 'www.dv65.com', 'tsmz7.buzz', 'canlitv.com', 'homeorgy.party', 'www.tom636.com', 'www.cinform.com.br', 'cdn.juvefc.com', 'www.58ha.com', 'www.xbhuijia02.life', 'sstk.xyz', 'm.uqbqkyf.top', 'm.korz.cf', '88ky444.com', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 300porn.pro...
+Performing DNS lookup for 3g.3uz2ec.top...
+Performing DNS lookup for xiguafb.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
