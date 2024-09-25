@@ -2,31 +2,40 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	52biqv.com
-Address: 172.67.214.157
-Name:	52biqv.com
-Address: 104.21.53.154
-Name:	52biqv.com
-Address: 2606:4700:3032::6815:359a
-Name:	52biqv.com
-Address: 2606:4700:3034::ac43:d69d
+www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 172.67.172.249
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 104.21.30.140
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:acf9
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:1e8c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
+Name:	3g.knjebc.top
+Address: 172.67.144.44
+Name:	3g.knjebc.top
+Address: 104.21.47.32
+Name:	3g.knjebc.top
+Address: 2606:4700:3037::ac43:902c
+Name:	3g.knjebc.top
+Address: 2606:4700:3031::6815:2f20
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 17.namesilo123.top: NXDOMAIN
+Non-authoritative answer:
+www.jsdrtzn.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.168.175
+Name:	cf.zmdhc.com
+Address: 172.67.130.151
+Name:	cf.zmdhc.com
+Address: 172.67.71.19
+Name:	cf.zmdhc.com
+Address: 172.67.73.35
 

@@ -215,3 +215,25 @@ Performing DNS lookup for 97777pk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main aeb26f7] Update project files
+ 4 files changed, 63 insertions(+), 69 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   806b3a9..aeb26f7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.125.156...
+Fetching domains for 172.67.64.18...
+Fetching domains for 104.17.249.31...
+succeed to fetch domains for 104.17.249.31 from https://site.ip138.com/
+succeed to fetch domains for 172.67.64.18 from https://site.ip138.com/
+succeed to fetch domains for 104.18.125.156 from https://ipchaxun.com/
+域名列表为
+['www.manhuadb.com', 'jpvsavhyu.76898102.xyz', 'www.hunansxw.com', 'm.jingshuai888.com', 'm.y3600.cz', '26.namesilo123.top', 'www.yy4080dy.com', 'cloudflare.182682.xyz', 'www.0550cq.com', 'www.imeiju.net', 'www.163my.com', 'www.kbss888.com', 'www.qire88.com', 'jhpcza.66666654.xyz', 'm.qianlimaerp.com', 'www.k77kk.cc', 'www.lewen5.com', 'speed.marisalnc.com', 'www.11txt.com', 'www.ai2moe.org', 'www.czlbfrp.com', 'www.50zw.org', 'www.meijubo.com', 'freeyx.cloudflare88.eu.org', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'cdn.didi8.com', 'www.lzhdsn.com', 'www.gzcfmy.com', 'iios.club', 'www.tvyb10.com', 'www.huaszj.cn', 'piaku.cc', 'www.881dy.com', 'www.jingshuai888.com', 'spca.114514782.xyz', 'www.6i5.com', 'shy6666.com', 'www.91m.cc', 'www.sf123.mobi', 'www.sp6080.com', 'www.gzlatin.com', 'www.shsxjzzs.com', 'fq.990107.xyz', 'www.maotxt.net', 'www.6988tv.com', 'mlsub.net', 'www.kunzedu.com', 'www.zgjmw.net', '999696.xyz', 'a.zilingmio3.cf', 'www.xinpian8.com', 'baxtc.66666654.xyz', 'yundunwawablogcdn1yd.wawacm.com', 'nlsdwsz.66666654.xyz', 'zm7.m3u8list.top', 'www.kx10.com', '17.namesilo123.top', 'stock.hostmonit.com', 'www.k77yy.com', 'menmaza.76898102.xyz', 'cf.openxai.link', 'www.tlbb888.com', 'www.zhongyunyang.com', 'www.hosemicon.com', 'www.szxjsj.com', 'www.tinghen.com', 'www.ddwhm.com', 'www.7749tv.cc', 'www.4148.net', 'www.v2raz.vip', 'pic.yydsmh.com', 'xs.wxtv.cc', 'cfip.201043.xyz', 'www.jjtyss.com', 'www.sxyzxh.com', 'www.92mili.com', 'blog.hostmonit.com', 'cf1.492745.xyz', 'www.ydxs.cc', 'www.17kty.com', 'www.c333.net', 'www.652tv.com', 'jpaa.sectigo.pp.ua', 'www.paizipai.top', 'www.luwangyangrong.com', '52biqv.com', 'www.kanju8.com', 'www.dy420.com', 'www.zhiqihuo.com', 'www.17ttx.com', 'www.iios.club', 'fldsubgigtujuy.76898102.xyz', 'xuyan.cc', 'laxdscaa.76898102.xyz', 'www.tv9090.com', '56th.cc', 'www.wn01.cc', 'www.yiqianhg.com', 'www.zzgszg.com', 'www.zddytt.com', 'www.myvod360.com', 'www.dgytlt.com', 'frsadubidd.76898102.xyz', 'bdyy2.xyz', 'www.hxsy888.com', 'www.dafuhao.com', 'www.28dushu.com', 'www.266958.com', 'www.888dyy.cc', 'www.wlxinde.com', 'www.51jion.com', 'www.szjysmy.com', 'm.niuerzs.com', 'www.zsych.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 52biqv.com...
+Performing DNS lookup for blog.hostmonit.com...
+Performing DNS lookup for 17.namesilo123.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
