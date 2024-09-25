@@ -2,31 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find ku5558.net: No answer
+Name:	www.gvn6.com
+Address: 23.224.168.213
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find nudfs.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	rc.rcjournal.com
-Address: 172.64.151.54
-Name:	rc.rcjournal.com
-Address: 104.18.36.202
-Name:	rc.rcjournal.com
-Address: 2606:4700:4400::6812:24ca
-Name:	rc.rcjournal.com
-Address: 2606:4700:4400::ac40:9736
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	namu.news
-Address: 104.18.22.222
-Name:	namu.news
-Address: 104.18.23.222
-Name:	namu.news
-Address: 2606:4700::6812:16de
-Name:	namu.news
-Address: 2606:4700::6812:17de
+Name:	boomerang-casino.com
+Address: 94.242.231.219
 
