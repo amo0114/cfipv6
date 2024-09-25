@@ -139,3 +139,25 @@ Performing DNS lookup for namu.news...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 238ebba] Update project files
+ 4 files changed, 49 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   8f5f971..238ebba  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.75.54...
+Fetching domains for 104.18.27.234...
+Fetching domains for 104.21.224.204...
+succeed to fetch domains for 104.18.75.54 from https://site.ip138.com/
+succeed to fetch domains for 104.18.27.234 from https://site.ip138.com/
+succeed to fetch domains for 104.21.224.204 from https://site.ip138.com/
+域名列表为
+['6686ty994.app', 'www.humantech.com', 'www.yqkbook.com', '73zzh.com', 'jpadwinfs.114514782.xyz', 'weixinf5.com', '6988tv.com', 'www.gytouch.com.cn', 'galzy.eu.org', 'sdd73.com', '36dm.com', 'www.75uw.com', 'm.gadgets.bhaskar.com', '7234rr.com', 'www.gvn6.com', 'www.zumaoffice.com', 'www.sjzsckj.com', '29.namesilo123.top', 'humantech.com', 'm.luwangyangrong.com', '176sf999.com', 'blog.bestip.one', 'www.52dgm.cn', 'yankeecandle.de', 'www.74ms.com', 'www.x3t22.com', '194ku.com', 'www.194ku.com', 'ipdb.rr.nu', 'wee76.com', 'www.sdd73.com', '26.namesilo123.top', 'acus.cloudflarest.link', 'www.6988tv.com', 'www.luwangyangrong.com', 'www.7234rr.com', 'h678f.com', 'nudfs.com', 'freeyx.cloudflare88.eu.org', 'boomerang-casino.com', 'blitz.be', 'gadgets.bhaskar.com', 'www.73zzh.com', 'www.h678f.com', 'www.wee76.com', 'tunneltransfer.bpyjc.com', 'www.cxnage.com', 'gvn6.com', 'www.33r.com', '52dvd.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.gvn6.com...
+Performing DNS lookup for nudfs.com...
+Performing DNS lookup for boomerang-casino.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
