@@ -2,40 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 172.67.172.249
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 104.21.30.140
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:acf9
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:1e8c
+Name:	300porn.pro
+Address: 104.21.235.206
+Name:	300porn.pro
+Address: 104.21.235.205
+Name:	300porn.pro
+Address: 2606:4700:3038::6815:ebce
+Name:	300porn.pro
+Address: 2606:4700:3038::6815:ebcd
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find 3g.3uz2ec.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	3g.knjebc.top
-Address: 172.67.144.44
-Name:	3g.knjebc.top
-Address: 104.21.47.32
-Name:	3g.knjebc.top
-Address: 2606:4700:3037::ac43:902c
-Name:	3g.knjebc.top
-Address: 2606:4700:3031::6815:2f20
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.jsdrtzn.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.168.175
-Name:	cf.zmdhc.com
-Address: 172.67.130.151
-Name:	cf.zmdhc.com
-Address: 172.67.71.19
-Name:	cf.zmdhc.com
-Address: 172.67.73.35
+Name:	xiguafb.xyz
+Address: 74.63.241.30
 

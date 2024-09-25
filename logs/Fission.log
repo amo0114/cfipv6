@@ -237,3 +237,25 @@ Performing DNS lookup for 17.namesilo123.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2ebed32] Update project files
+ 4 files changed, 76 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   aeb26f7..2ebed32  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.49.188...
+Fetching domains for 172.67.144.44...
+Fetching domains for 104.21.230.21...
+succeed to fetch domains for 172.67.144.44 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.49.188 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.230.21 from https://dnsdblookup.com/
+域名列表为
+['263663.com', 'wl398.com', 'www.tinghen.com', 'www.zdqx.com', '626ch.com', 'www.52dgm.cn', 'm.luwangyangrong.com', 'www.zhiqihuo.com', 'www.zhongyunyang.com', 'sgv7.com', 'www.hxsy888.com', 'www.cocanwelding.com', 'www.whpaiger.com', 'm.knjebc.top', 'www.yiqianhg.com', 'www.28dushu.com', 'www.6i5.com', 'm.vodbd.com', 'halalgoogling.com', 'www.ccaacs.top', 'www.wl398.com', 'yx.887141.xyz', 'yjg8n3.top', 'www.hmsgipt.cn', 'blog.slqwq.cn', '3g.knjebc.top', 'www.iios.me', 'www.7sc.cc', 'www.jsdrtzn.com', 'jingyan.demathieuplumbing.com', '350nn.com', 'nlsdwsz.66666654.xyz', '3g.ccaacs.top', 'baxtc.66666654.xyz', 'www.lvhuisb.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.gzgafk.com', 'iios.club', 'www.knjebc.top', '256oo.com', 'wap.yjg8n3.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'h4njz2.xn9tav.com', 'www.yjg8n3.top', 'xs.wxtv.cc', '3g.yjg8n3.top', 'www.telbook.com.tw', 'yh6.dtku41.xyz', 'www.75uw.com', 'login.jisou.xyz', 'www.263663.com', '086181.xyz', 'remote.raptorr.org', 'www.17kty.com', 'kkyx.yydsii.com', 'www.iios.club', 'cloudreve.slqwq.cn', 'www.dgytlt.com', '999696.xyz', 'www.x52bq.com', '39171155.com', 'www.11txt.com', 'www.qilishusong.cn', 'ygdy8.cc', 'www.ikantv.net', 'mmkav13.com', 'www.626ch.com', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tinghen.com...
+Performing DNS lookup for 3g.knjebc.top...
+Performing DNS lookup for www.jsdrtzn.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
