@@ -1,0 +1,48 @@
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.266958.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.103.99
+Name:	cf.zmdhc.com
+Address: 172.67.44.7
+Name:	cf.zmdhc.com
+Address: 172.67.86.27
+Name:	cf.zmdhc.com
+Address: 172.67.10.49
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.tlbb888.com	canonical name = yt9995.c2.hycdn.xyz.
+yt9995.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.19.239.173
+Name:	dcs.jqddos.xyz
+Address: 104.19.179.223
+Name:	dcs.jqddos.xyz
+Address: 104.25.18.5
+Name:	dcs.jqddos.xyz
+Address: 104.19.230.111
+Name:	dcs.jqddos.xyz
+Address: 104.25.228.8
+Name:	dcs.jqddos.xyz
+Address: 104.17.36.140
+Name:	dcs.jqddos.xyz
+Address: 104.19.177.29
+Name:	dcs.jqddos.xyz
+Address: 104.18.245.2
+Name:	dcs.jqddos.xyz
+Address: 104.17.116.6
+Name:	dcs.jqddos.xyz
+Address: 104.25.43.199
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	97777pk.com
+Address: 47.244.221.51
+
