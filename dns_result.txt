@@ -2,24 +2,40 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	luwangyangrong.com
-Address: 172.232.4.213
-Name:	luwangyangrong.com
-Address: 172.232.25.148
-Name:	luwangyangrong.com
-Address: 172.232.31.180
+Name:	voter.svrs.nj.gov
+Address: 45.60.68.47
+Name:	voter.svrs.nj.gov
+Address: 45.60.62.47
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.ke9999.fun: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.5ddy.cc
-Address: 64.32.10.22
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.tpyyc.com
-Address: 107.148.242.9
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.19.246.191
+Name:	dcs.jqddos.xyz
+Address: 104.16.89.143
+Name:	dcs.jqddos.xyz
+Address: 104.18.111.251
+Name:	dcs.jqddos.xyz
+Address: 104.16.195.180
+Name:	dcs.jqddos.xyz
+Address: 104.16.85.220
+Name:	dcs.jqddos.xyz
+Address: 104.19.184.2
+Name:	dcs.jqddos.xyz
+Address: 104.16.226.180
+Name:	dcs.jqddos.xyz
+Address: 104.17.246.124
+Name:	dcs.jqddos.xyz
+Address: 104.24.31.123
+Name:	dcs.jqddos.xyz
+Address: 104.17.153.193
 
