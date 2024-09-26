@@ -303,3 +303,25 @@ Performing DNS lookup for www.tpyyc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b873f98] Update project files
+ 4 files changed, 81 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   98d8b08..b873f98  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.43.253...
+Fetching domains for 172.64.144.18...
+Fetching domains for 104.16.197.24...
+succeed to fetch domains for 172.64.144.18 from https://site.ip138.com/
+succeed to fetch domains for 104.18.43.253 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.197.24 from https://ipchaxun.com/
+域名列表为
+['52ggd.com', 'www.9889my.com', 'www.898my.vip', 'www.sy5151.com', 'www.512yyds.com', 'vassend.com', 'production-eshop-skechersasia.demandware.net', 'www.mutefun.com', 'www.7277tl.com', 'www.uc338.com', 'www.ikantv.net', 'www.xsgkfq.com', 'www.zxc999.cn', 'www.kan51.com', 'xvideos005.com', 'ww1.cujifb.xyz', 'www.51uuoo.com', 'cfip.xxxxxxxx.tk', 'www.iios.me', 'www.90tsg.com', 'www.511mj.com', 'economywatch.com', 'www.nitianxieshen.com', 'www.52110my.com', '91dajin.com', 'www.cxzhfj.net', 'hya133.com', 'www.hhyy028.com', 'www.wanmei2.net', 'www.iios.ga', 'www.99qhmy.com', 'www.apex521.com', 'www.cqguxiang.com', '8xfi.com', 'www.ahsign.com.cn', 'www.rxjh520.cc', 'www.7moon.net', '512yyds.com', 'www.pk299.com', 'www.511my.com', 'www.caitam.com', 'www.baoysoft.vip', 'www.77wg.vip', 'www.ke9999.fun', 'www.nc5y.com', 'gt.0826tl.top', '333rou.com', 'www.zddzd.top', 'sy5151.com', 'wjbizhi.com', 'voter.svrs.nj.gov', 'www.9805tl.xyz', 'www.wbei666.com', 'www.prosehat.com', 'wanmei2.net', 'www.717zfsf.com', 'www.fh9hw2.cn', 'www.579my.com', 'www.down28.cn', 'www.tockt.com', 'manchesteruniversitypress.co.uk', 'www.avalon78.online', '722wg.com', 'www.lolfz.com', 'www.xjiujiu99.com', 'www.huashubao.org', '730fz.com', 'www.gx6080.com', 'www.obfizbusent.tk', 'www2011india.com', 'www.91dajin.com', 'www.nwtlbb.cn', 'www.kanxi5.com', 'www.galzy.eu.org', '991tl.xyz', 'dyflw01.top', 'www.666dy.org', '52weibo.cn', 'dyzj18.com', 'www.novaragnarok.com', 'www.kbss888.com', 'www.lyzdzy.com', 'www.www2011india.com', 'www.6xr.com', 'prosehat.com', 'www.manchesteruniversitypress.co.uk', 'cujifb.xyz', 'jileciyuan.top', 'www.sy790.com', 'www.picacgo.cn', '1.yaseww7.com', 'ganclass.jp', 'xieef.cc', 'hvg1jfxup43lan2zbyok.sdfmnbvcoxz.top', 'www.58zztl.xyz', 'www.iios.club', 'kelongwo.com', 'www.182qw.com', 'ipvanish.com', 'nc5y.com', 'www.dyflw01.top', 'www.570660.com', 'www.economywatch.com', 'api.mutefun.com', 'www.arkoselabs.com.cdn.cloudflare.net', 'www.5699my.cn', 'www.8xfi.com', 'www.arkoselabs.com', 'www.ipvanish.com', 'm.niuerzs.com', 'www.zzztch.com', 'www.dyzj18.com', '77ty.com', 'www.wjbizhi.com', 'www.534yy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for voter.svrs.nj.gov...
+Performing DNS lookup for www.ke9999.fun...
+Performing DNS lookup for www.kbss888.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
