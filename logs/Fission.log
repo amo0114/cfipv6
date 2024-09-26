@@ -500,3 +500,25 @@ Performing DNS lookup for www.cocanwelding.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 593965a] Update project files
+ 4 files changed, 108 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   12fff5e..593965a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.182.206...
+Fetching domains for 104.17.213.129...
+Fetching domains for 104.17.154.207...
+succeed to fetch domains for 104.17.154.207 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.182.206 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.213.129 from https://dnsdblookup.com/
+域名列表为
+['www.nitianxieshen.com', 'kxgdyw.com', 'www.33mov.com', 'www.wanmeikankan.net', 'www.31bz.com', 'www.5522tl.com', 'www.xinpian8.com', 'www.uu93.com', '17ttx.com', 'www.888dyy.cc', 'www.awanmy.com', 'www.30moyu.top', 'www.pianku5.com', 'www.cx888my.com', 'www.881dy.com', 'www.c333.net', 'www.shy6666.com', '33mov.com', 'www.sc-citf.com', 'www.7749tv.com', 'www.cgfxw.com', 'www.modaozushi.cc', 'www.zhuizhuiju.com', 'www.whpaiger.com', 'www.kanju8.com', 'www.dy420.com', 'www.bfb3.com', 'www.tv9090.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.awanmy.com...
+Performing DNS lookup for www.zhuizhuiju.com...
+Performing DNS lookup for www.sc-citf.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
