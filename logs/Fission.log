@@ -446,3 +446,25 @@ Performing DNS lookup for haha0096.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 326f01a] Update project files
+ 4 files changed, 57 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   338d228..326f01a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.164.76...
+Fetching domains for 104.21.21.146...
+Fetching domains for 104.25.167.12...
+succeed to fetch domains for 104.25.164.76 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.21.146 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.167.12 from https://ipchaxun.com/
+域名列表为
+['69xx.jokujcd.top', 'www.yhddsb.com', '8888.jokujcd.top', 'www.hcq1066.top', '91xx.jokujcd.top', 'tradebet.pro', 'www.jokujcd.top', 'www.882110077.com', 'www.lyzdzy.com', 'hzmadian.com', 'bwin0038.com', 'www.6682bet.com', '06s06.com', 'sese.jokujcd.top', 'edigital.bg', 'triboona.ru', 'edigital.hu', 'bzhan.us', 'www.sxe21.cn', 'manwa1.com', 'anshihua.com', 'ubugs.cn', 't719.cc', 'lady2345.com', 'www.lady2345.com', 'x0x0x.jokujcd.top', 'www.chengchaoshi.cn', 'ccav.jokujcd.top', 'hk887.vip', 'www.fnyyw.net', 'xxxtubezoo.com', 'av91.jokujcd.top', 'www.tpyyc.com', 'www.symcyx.com', 'wap.hcq1066.top', 'fanchens.top', 'kk44kk.jokujcd.top', 'm.hcq1066.top', '3g.hcq1066.top', '52mm.jokujcd.top', 'www.ycppwh.org', 'www.669170.com', 'mrporngeek.com', '669170.com', 'hcq1066.top', 'www.crmdcicmcpt.com', 'powerbank20.com', 'www.snowsweat.co.nz', 'www.yupinhui.com.cn', 'yyds.jokujcd.top', 'cctv.jokujcd.top', 'www.mrporngeek.com', 'www.ipgezcf.cn', 'aavv.jokujcd.top', '882110077.com', 'rxdde5vd8s.com', 'www.edigital.hu', 'mizhitv121.buzz', 'jokujcd.top', '064hh.com', 'edigital.at', '88av1475.cc', 'xxx.jokujcd.top', 'static1.edigital.hu', 'vyh1.com', 'zmizj.top', 'www.btbdys.com', '6682bet.com', 'caobb.jokujcd.top', '17se.jokujcd.top', '17cg4.co', '1okr53.tw', '9999.jokujcd.top', 'xxbb.jokujcd.top', 'www.zmizj.top', 'aa603.com', '84maott.com', 'xxoo.jokujcd.top', 'sxe21.cn', 'www.manwa1.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.edigital.hu...
+Performing DNS lookup for www.882110077.com...
+Performing DNS lookup for zmizj.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
