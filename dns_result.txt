@@ -1,39 +1,24 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find tgbpjc-artchat.bpjc.site: NXDOMAIN
-
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
-
-** server can't find www.tockt.com: SERVFAIL
+Non-authoritative answer:
+Name:	jj2otl2f2l.xyz
+Address: 13.248.213.45
+Name:	jj2otl2f2l.xyz
+Address: 76.223.67.189
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.25.88.252
-Name:	dcs.jqddos.xyz
-Address: 104.25.73.184
-Name:	dcs.jqddos.xyz
-Address: 104.16.114.203
-Name:	dcs.jqddos.xyz
-Address: 104.16.91.182
-Name:	dcs.jqddos.xyz
-Address: 104.19.224.114
-Name:	dcs.jqddos.xyz
-Address: 104.19.254.16
-Name:	dcs.jqddos.xyz
-Address: 104.25.95.189
-Name:	dcs.jqddos.xyz
-Address: 104.18.166.164
-Name:	dcs.jqddos.xyz
-Address: 104.19.182.255
-Name:	dcs.jqddos.xyz
-Address: 104.25.210.239
+www.fhsjly.com	canonical name = api3.oooooooooo213.com.
+Name:	api3.oooooooooo213.com
+Address: 103.149.144.199
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	hj54cd.top
+Address: 103.224.182.208
 
