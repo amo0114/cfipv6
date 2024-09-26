@@ -2,24 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	juniaoba.xyz
-Address: 199.115.116.216
+Name:	www.edigital.hu
+Address: 172.67.199.252
+Name:	www.edigital.hu
+Address: 104.21.44.129
+Name:	www.edigital.hu
+Address: 2606:4700:3031::6815:2c81
+Name:	www.edigital.hu
+Address: 2606:4700:3037::ac43:c7fc
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	5waxf.top
-Address: 104.21.36.104
-Name:	5waxf.top
-Address: 172.67.192.145
-Name:	5waxf.top
-Address: 2606:4700:3037::6815:2468
-Name:	5waxf.top
-Address: 2606:4700:3037::ac43:c091
+Name:	www.882110077.com
+Address: 172.67.199.33
+Name:	www.882110077.com
+Address: 104.21.21.146
 
-Server:		8.8.4.4
-Address:	8.8.4.4#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find haha0096.xyz: NXDOMAIN
+** server can't find zmizj.top: NXDOMAIN
 

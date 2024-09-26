@@ -425,3 +425,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 338d228] Update project files
+ 4 files changed, 69 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   11ea029..338d228  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.192.145...
+Fetching domains for 104.17.252.134...
+Fetching domains for 172.66.44.118...
+succeed to fetch domains for 172.66.44.118 from https://site.ip138.com/
+succeed to fetch domains for 172.67.192.145 from https://site.ip138.com/
+succeed to fetch domains for 104.17.252.134 from https://ipchaxun.com/
+域名列表为
+['gaoyangqi.com', 'kan234.com', 'player.awvvvvw.live', 'hj299e2.top', 'www.whzlad.com', 'www.dgytlt.com', 'www.tushencn.com', 'www.toopaper.com', 'www.xspadaq.cn', '5waxf.top', '3g.5tv6-mv.top', 'meilicoco.com', 'www.to5l.cn', 'www.sql.org', '3g.chrzkf.top', 'www.gzlatin.com', 'sql.org', 'www.ddwhm.com', 'www.jsdrtzn.com', 'www.zsych.net', 'wap.chrzkf.top', 'www.gzgafk.com', 'xcc426.com', 'four.ymy.gay', '6e59e.com', 'hg0996.com', 'chrzkf.top', 'www.mmevdlco.cn', 'www.lphblog.top', 'wsp.cool', 'cdn.cmliu.net', 'm.niuerzs.com', 'www.xinpian8.com', 'm.czlbfrp.com', 'www.vodbd.com', 'www.b7yy.cc', 'vip.eeusscq.com', 'www.18comic1.biz', 'clouds.lphblog.top', 'www.c333.net', 'xsfldh.xyz', 'clm321.buzz', 'www.90dushu.com', 'www.caodh64.sbs', 'www.yfun.top', 'cfip.xxxxxxxx.tk', 'www.whpaiger.com', 'ss566.xyz', 'www.vcd.la', 'cloud.lphblog.top', 'www.07mpp.com', '1030ws.com', '999696.xyz', 'ijichinijika.asia', 'www.dzy66666.com', 'haha0096.xyz', 'juniaoba.xyz', 'www.x52bq.com', 'm.eeusscq.com', 'www.90qr.com', 'www.266958.com', 'www.jhhtech.com', 'www.tvccc.org', 'www.imeiju.net', 'thewatertownmall.com', 'luodihao.top', 'bags.allwomenstalk.com', 'www.hosemicon.com', 'm.69shuba.cc', 'nintendoeverything.com', 'eth2-merged.pages.dev', '20240322pages-7m8.pages.dev', 'danzi.xyz', 'youneon.de', 'www.tv9090.com', 'www.cuoluo.com', 'www.laowang.co', 'chi.co.th', 'www.chi.co.th', 'sgv7.com', 'www.bjfqmj.com', 'wwwhk4666.com', 'www.chocolatechinaatfhc.com', 'www.1030ws.com', '22222.hk', 'pimpmovs.net', 'm.chrzkf.top', 'www.paizipai.top', 'www.17kty.com', 'www.jjtyss.com', 'mxfree.ao-x.cn', '668mpu.top', 'www.szaitai.com', 'zgtlbe.com', '18comic1.biz', 'www.28et.com', 'www.hhyy028.com', 'video.awvvvvw.live', 'www.ydptapp.com', 'm.zhiqihuo.cc', 'www.shenmapian.net', 'cdn.didi8.com', 'm.tushencn.com', 'www.chrzkf.top', 'www.gaycn.top', 'www.bmpi.dev', 'www.6e59e.com', 'www.92mili.com', 'www.22222.hk', 'www.tockt.com', 'forums.likebd.com', 'www.luodihao.top', 'boom-520.pages.dev', 'www.pimpmovs.net', 'www.zhongyunyang.com', 'www.hxsy888.com', 'www.0550cq.com', 'www.iios.me', 'xcc195.com', 'slot1131.pages.dev', '07mpp.com', 'www.xigua5.com', 'cdn-msp.18comic1.biz', 'kk6801.com', 'pastory.org', 'lphblog.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for juniaoba.xyz...
+Performing DNS lookup for 5waxf.top...
+Performing DNS lookup for haha0096.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
