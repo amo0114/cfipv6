@@ -2,34 +2,55 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	iios.club
-Address: 172.67.201.86
-Name:	iios.club
-Address: 104.21.52.166
-Name:	iios.club
-Address: 2606:4700:3036::ac43:c956
-Name:	iios.club
-Address: 2606:4700:3032::6815:34a6
+www.awanmy.com	canonical name = host1112782a.c2.huyuncdn.xyz.
+host1112782a.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+www.zhuizhuiju.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+www.sc-citf.com	canonical name = yt4158.c2.hycdn.xyz.
+yt4158.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.18.36.48
+Name:	dcs.jqddos.xyz
+Address: 104.16.206.171
+Name:	dcs.jqddos.xyz
+Address: 104.19.202.212
+Name:	dcs.jqddos.xyz
+Address: 104.16.197.159
+Name:	dcs.jqddos.xyz
+Address: 104.19.179.28
+Name:	dcs.jqddos.xyz
+Address: 104.19.167.18
+Name:	dcs.jqddos.xyz
+Address: 104.16.224.102
+Name:	dcs.jqddos.xyz
+Address: 104.17.118.238
+Name:	dcs.jqddos.xyz
+Address: 104.17.0.21
+Name:	dcs.jqddos.xyz
+Address: 104.16.45.142
 
