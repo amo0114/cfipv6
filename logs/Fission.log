@@ -369,3 +369,25 @@ Performing DNS lookup for www.hhyy028.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f13154a] Update project files
+ 4 files changed, 56 insertions(+), 57 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   392eb8b..f13154a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.32.203...
+Fetching domains for 104.21.5.10...
+Fetching domains for 104.20.192.86...
+succeed to fetch domains for 104.20.192.86 from https://site.ip138.com/
+succeed to fetch domains for 104.21.5.10 from https://site.ip138.com/
+succeed to fetch domains for 104.19.32.203 from https://site.ip138.com/
+域名列表为
+['www.zzztch.com', 'rixcloud.io', '3331616.com', '00rr11.com', '8m2319.com', 'www.vodbd.com', 'lyzdzy.com', 'sms.dxyun.xyz', 'xiaoyeye.cc', 'cdltj.cn', 'www.mumu2000.vip', 'www.gs678.cn', 'zhizu.feicuizf.com', 'vless.gdsglczw.sbs', 'www.sjzsckj.com', 'hj54cd.top', 'cfhuagong.com', 'mason.club', 'www.lyzdzy.com', 'www.e686b.com', 'www.huakai2018.com', 'www.iios.club', 'nev86.com', 'www.tt853.cn', 'cf.zhetengsha.eu.org', '18mmw.com', 'www.yangjunvr.com', 'www.dsdou.com', 'www.ednytoz.cn', '88a2085.cc', 'm.niuerzs.com', 'www.hm17.lol', 'abc.fex3l9q.com', 'dash.zofixer.com', 'm.f6kr8h9.top', 'pttime.org', 'mumu2000.vip', 'www.5yxi.com', 'www.tanhuazu.com', 'www.6988tv.com', 'www.hhyy028.com', 'www.hmoeh.com', 'jp57.cc', 'wap.jrrx5t.top', '456gg.com', 'n6666.top', 'azzlee.com.au', 'wt0196.com', 'www.hj54cd.top', 'bdx100.com', 'www.176sf999.com', 'www.lotto.ge', 'dsdou.com', 'www.al885.com', 'cf.aaok.vip', 'www.pttime.org', 'm.5yxi.com', 'ykjisu.com', 'aseansec.org', 'www.yeffhsdi2.tk', 'img.pttime.org', 'wap.f6kr8h9.top', 'cf.090227.xyz', 'xuyan.cc', 'www.lqivl.com', 'm.dsdou.com', 'www.nev86.com', 'www.pk299.com', 'ssmeijia.com', 'cf.cdn.cmliu.net', 'www.cocanwelding.com', 'm.tpyyc.com', 'yanlelqcai.top', 'omofun.link', 'www.whpaiger.com', 'www.cx888my.com', 'www.tt593.cn', 'www.jiu-cao.xyz', 'hypercol.xyz', 'grabells.bg', 'www.kbss888.com', 'www.fhsjly.com', '5yxi.com', 'www.00rr11.com', 'www.vbwdwpi.cn', 'niuniu9.com', 'web.bankweb1.cloud', 'www.ykjisu.com', 'www.cdltj.cn', 'plus-cc.cc', 'www.zutlowj.cn', 'kz22.cc', 'm.jrrx5t.top', 'e686b.com', 'fuliwang.me', 'www.knvod.com', 'jj2otl2f2l.xyz', 'www.yxxielian.com', 'www.nangua5.com', 'www.tsdingxin.com', 'cdn.cmliu.net', 'www.hypercol.xyz', 'www.xhzysh.com', '3g.f6kr8h9.top', '819v.net', 'www.fuliwang.me', 'shrugs.com', 'www.inscriptionalliance.com', 'www.ub888.com', 'www.yanlelqcai.top', 'hftz28.com', 'www.jrrx5t.top', 'www.wn05.cc', 'japanavdb.com', 'vsrijec.top', 'www.pianku5.com', 'ss.moonriver.sbs', 'www.vsrijec.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jj2otl2f2l.xyz...
+Performing DNS lookup for www.fhsjly.com...
+Performing DNS lookup for hj54cd.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
