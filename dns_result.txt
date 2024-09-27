@@ -1,42 +1,21 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.kanju8.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
+** server can't find cf.yx.alue.link: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-efanccyun.org	canonical name = gtm-sg-vfp3iqm2y07.dns86526.xyz.
-gtm-sg-vfp3iqm2y07.dns86526.xyz	canonical name = cf.cf556677881.com.
-Name:	cf.cf556677881.com
-Address: 104.21.95.211
-Name:	cf.cf556677881.com
-Address: 172.67.148.158
-Name:	cf.cf556677881.com
-Address: 2606:4700:3037::ac43:949e
-Name:	cf.cf556677881.com
-Address: 2606:4700:3035::6815:5fd3
+Name:	www.boyangjt.com
+Address: 104.16.104.218
+Name:	www.boyangjt.com
+Address: 104.16.72.177
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	iios.club
-Address: 104.21.52.166
-Name:	iios.club
-Address: 172.67.201.86
-Name:	iios.club
-Address: 2606:4700:3032::6815:34a6
-Name:	iios.club
-Address: 2606:4700:3036::ac43:c956
+Name:	www.0550cq.com
+Address: 103.150.11.223
 
