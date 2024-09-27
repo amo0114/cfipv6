@@ -549,3 +549,25 @@ Performing DNS lookup for iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 756861a] Update project files
+ 4 files changed, 57 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   0fce13c..756861a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.121.21...
+Fetching domains for 198.41.220.57...
+Fetching domains for 104.16.241.31...
+succeed to fetch domains for 198.41.220.57 from https://site.ip138.com/
+succeed to fetch domains for 104.16.241.31 from https://site.ip138.com/
+succeed to fetch domains for 104.17.121.21 from https://ipchaxun.com/
+域名列表为
+['btlshb.com', 'm.mgwheelaxle.com', 'www.huanyaad.com', '606977.com', 'qiangkouzhao.com', 'cfip.201043.xyz', 'www.paizipai.top', 'www.uu93.com', 'jpvsavhyu.76898102.xyz', 'www.11txt.com', 'usshsaba.114514782.xyz', 'www.sxyzxh.com', 'www.yunyou4.com', 'www.zsych.net', 'www.weizhijc.com', 'blog.hostmonit.com', 'www.zhengxumedia.com', 'vvccpp.com', 'www.pianku5.com', 'zi0.cc', 'www.0550cq.com', 'www.tv9090.com', 'loadbalancing.yutou.store', 'www.sztimi.com', 'www.myvod360.com', 'www.6988tv.com', 'www.679077.com', 'www.pwcai.com', 'www.boyangjt.com', 'www.lyzdzy.com', 'cfip.xxxxxxxx.tk', 'www.tushencn.com', 'speedcl.5489265.xyz', 'stock.hostmonit.com', 'www.zhiqihuo.com', 'www.mandco.com', 'cf.yx.alue.link', 'hnyhy.com', 'www.woaiqi.com', '0550cq.com', 'www.ssh889.com', 'ssh889.com', 'www.606977.com', 'www.ddwhm.com', 'm.zhiqihuo.cc', 'tushencn.com', 'iios.club', 'm.0550cq.com', 'blog.201043.xyz', 'www.33mov.com', 'www.tuozhan22.com', 'm.okdi.net', 'www.4gdiy.com', 'www.b7yy.cc', 'www.kunzedu.com', 'www.tinghen.com', 'uu93.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cf.yx.alue.link...
+Performing DNS lookup for www.boyangjt.com...
+Performing DNS lookup for www.0550cq.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
