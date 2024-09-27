@@ -2,38 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.idealclinic.org.za
-Address: 104.21.36.108
-Name:	www.idealclinic.org.za
-Address: 172.67.192.149
-Name:	www.idealclinic.org.za
-Address: 2606:4700:3037::6815:246c
-Name:	www.idealclinic.org.za
-Address: 2606:4700:3035::ac43:c095
+jcbdfyy-cn.cfcdn.cc	canonical name = lunhuan.24cdn.top.
+Name:	lunhuan.24cdn.top
+Address: 104.24.23.184
+Name:	lunhuan.24cdn.top
+Address: 104.21.80.72
+Name:	lunhuan.24cdn.top
+Address: 104.18.137.110
+Name:	lunhuan.24cdn.top
+Address: 104.16.167.251
+Name:	lunhuan.24cdn.top
+Address: 172.67.34.29
+Name:	lunhuan.24cdn.top
+Address: 104.20.53.201
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	pubsonline.informs.org
-Address: 104.18.38.141
-Name:	pubsonline.informs.org
-Address: 172.64.149.115
-Name:	pubsonline.informs.org
-Address: 2606:4700:4400::6812:268d
-Name:	pubsonline.informs.org
-Address: 2606:4700:4400::ac40:9573
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 162.159.141.83
+Name:	ips.993888.xyz
+Address: 162.159.140.240
+Name:	ips.993888.xyz
+Address: 162.159.141.200
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	iios.club
-Address: 172.67.201.86
-Name:	iios.club
-Address: 104.21.52.166
-Name:	iios.club
-Address: 2606:4700:3036::ac43:c956
-Name:	iios.club
-Address: 2606:4700:3032::6815:34a6
+*** Can't find syshuangxing.com: No answer
 

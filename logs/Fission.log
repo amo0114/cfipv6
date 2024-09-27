@@ -592,3 +592,25 @@ Performing DNS lookup for g9roa.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f51a023] Update project files
+ 4 files changed, 71 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   9499f9d..f51a023  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.194.149...
+Fetching domains for 104.18.38.141...
+Fetching domains for 104.19.126.212...
+succeed to fetch domains for 104.19.126.212 from https://site.ip138.com/
+succeed to fetch domains for 104.25.194.149 from https://site.ip138.com/
+succeed to fetch domains for 104.18.38.141 from https://ipchaxun.com/
+域名列表为
+['www.254411.com', '234zuo.com', 'zhijin6.xyz', 'saohu363.com', 'dotrinh.com', 'feifeiys.cc', 'afaf5.com', 'iios.club', 'www.knjdz.com', 'iios.fun', 'www.zhijin6.xyz', 'www.234zuo.com', '2342dd.com', 'memtech.in', 'www.sanli666.com', 'www.huochain.com.cn', 'www.2342dd.com', 'www.iios.club', 'www.75uw.com', 'www.91m.cc', 'www.idealclinic.org.za', 'www.feifeiys.cc', 'www.entrust.com', 'pubsonline.informs.org', 'www.rd.com', 'www.zzztch.com', 'www.saohu363.com', 'www.hajj.gov.bd']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.idealclinic.org.za...
+Performing DNS lookup for pubsonline.informs.org...
+Performing DNS lookup for iios.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
