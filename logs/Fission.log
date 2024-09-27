@@ -717,3 +717,25 @@ Performing DNS lookup for www.cbcv.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 56831fb] Update project files
+ 4 files changed, 63 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   30ea35f..56831fb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.42.121...
+Fetching domains for 104.17.210.113...
+Fetching domains for 104.17.24.106...
+succeed to fetch domains for 104.17.24.106 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.42.121 from https://site.ip138.com/
+succeed to fetch domains for 104.17.210.113 from https://ipchaxun.com/
+域名列表为
+['www.77ff88.com', 'tv06.xyz', 'interlogix.com', 'jj.002xf.com', 'www.hhyy028.com', 'vloveys.com', 'www.rprinc.cn', 'www.futian6.com', 'www.cocanwelding.com', 'www.xddos.co', '66888wow.com', 'www.lyzdzy.com', 'www.dmbj.cc', 'www.8xrt.com', 'qingse66.com', 'www.nitianxieshen.com', 'www.zongcaiwx.com', 'www.uu93.com', 'www.longwangchuanshuo.net', 'www.454hu.com', 'bzjysf.com', 'www.ehear.club', 'www.93xscc.com', 'xf.002xf.com', 'javhus.com', 'www.vloveys.com', 'www.xwbhk.com', 'www.kbss888.com', 'www.xiuluoxiaoshuo.com', 'www.4hu.tv', '454hu.com', 'www.javhus.com', 'www.4j4j.cn', '8xrt.com', 'm.niuerzs.com', 'www.92mili.com', 'is1069.com', 'www.byfdop.cn', 'xddos.co', 'cfip.xxxxxxxx.tk', 'www.xuanqishi.cc', 'www.qingganbook.com', '13yyyy.com', 'm.ehear.club', '77ff88.com', 'www.nitianzw.com', 'www.lorealparis.ch', 'www.is1069.com', 'www.bzjysf.com', 'www.fathurhoho.id', 'www.qingse66.com', 'www.52kandy.com', 'alkedn.com', 'www.tockt.com', 'fathurhoho.id', 'www.99wxw.cc', 'hg2096.com', 'www.652tv.com', 'www.jacobi.net', 'larocheposay.hu', 'www.zhimawx.com', 'javsv.com', '4hu.tv', 'www.xxootl.com', 'ehear.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.uu93.com...
+Performing DNS lookup for bzjysf.com...
+Performing DNS lookup for www.qingganbook.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
