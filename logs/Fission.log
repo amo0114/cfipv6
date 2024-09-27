@@ -571,3 +571,24 @@ Performing DNS lookup for www.0550cq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9499f9d] Update project files
+ 4 files changed, 48 insertions(+), 17 deletions(-)
+To github.com:amo0114/cfipv6.git
+   756861a..9499f9d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.151.140...
+Fetching domains for 162.159.38.106...
+Fetching domains for 104.21.24.148...
+succeed to fetch domains for 104.21.24.148 from https://site.ip138.com/
+succeed to fetch domains for 162.159.38.106 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.151.140 from https://site.ip138.com/
+域名列表为
+['www.8x8x.me', 'www.luxurytime.top', 'www.g9roa.com', 'www.5742m.com', 'download-bit.top', 'aaavu.com', 'kzisv.com', 'c7pp.com', 'oo428.com', 'www.tinghen.com', 'd2303k.work', 'www.akgsbu.cn', 'www.szaitai.com', 'www.re53.com', 'www.ddwhm.com', 'm.yutuyb.top', 'animal.iswitch.app', 'x4tfpv.com', 'tr300999bd.fweiifuweiofoi.xyz', 'www.gzgafk.com', 'sms-activate.org', 'www.gypsha.cn', 'www.lewa.so', 'zznlzrnp.top', 'www.nsisfans.com', 'www.2123le.com', 'www.888xjxj.com', 'www.bqg789.co', 'xing8.mav466.xyz', '166ge.com', 'www.zzgszg.com', 'av38.cc', 'www14417.com', 'www.ttcpt.fun', 'www.keniuchacha.com', 'www.266958.com', 'gajas18.com', 'www.zhaofeizi99.com', 'thep726.cc', 'nlsdwsz.66666654.xyz', 'www.60maosb.com', 'www.whpaiger.com', 'fs01f4yr9bcyg.xyz', '32706650.com', '493335.com', 'www.lyzdzy.com', 'www.b7yy.cc', 'luxurytime.top', 'www.tpyyc.com', 'www.summerpockets.com', 'ribenav.szznhr.com', 'tslvm.tk', 'www.c7pp.com', 'www.hjtcare.com', 'www.zhongyunyang.com', 'piggy-gold-pg.com', 'taosf.com', 'thegreatfan.com', '51chainen.com', '60maosb.com', 'www.qevlife.cn', 'www.hy12.app', 'fweiifuweiofoi.xyz', 'www.hbszr.cn', 'm.eeusstd.com', 'www.lzhdsn.com', 'www.lnudz.com', '5742m.com', '26zipai.com', 'www.lvhuisb.com', 'tuyuanzi.com', 'fuli3.net', 'www.4t5n.cn', 'canovel.com', 'www.b3x88.com', 'www.bjfqmj.com', 'www.huibiman.com', 'gulkdydr.xyz', '32maobf.com', 'www.jsdrtzn.com', 'll448.com', 'back-proc.g9roa.com', 'www.gzcfmy.com', 'www.syyfbb.com', '8x8x.me', 'hbszr.cn', 'www.jingshuai888.com', 'yundunwawablogcdn1dx.wawacm.com', 'yh6.dtku41.xyz', 'm.tvfff.com', 'www.wxcco.cn', 'www.baisuishu.com', 'yt267.com', 'wap.8x8x.me', '888xjxj.com', 'macvbb.555556789.xyz', 'www.x52bq.com', 'avlulu705.xyz', 'cable1066.cc', 'm.jingshuai888.com', 'www.dgytlt.com', 'www.yynz8.world', '3g.zznlzrnp.top', 'www.tuyuanzi.com', 'www.blogjav.net', 'www.kmbenma.com', 'speed.marisalnc.com', 'www.easondaycare.com', '489234.com', 'b3x88.com', 'www.4p4.cn', 'www.lhman.com', 'www.zznlzrnp.top', 'www.taosf.com', 'vip.eeusstd.com', 'www.hosemicon.com', 'www.0550cq.com', 'www.canovel.com', 'www.cocanwelding.com', 'wap.slnzjzp.top', '69x2739.cc', 'www.32maobf.com', 'www.valarsemi.com', 'www.xworldadmin.com', 'mav466.xyz', 'wwwv.zhaofeizi99.com', 're53.com', 'www.wuanhj.com', 'www.11txt.com', 'keniuchacha.com', '744451.com', 'www.fuli3.net', 'mini.javaa.cc', 'zhaofeizi99.com', 'szznhr.com', '3g.yutuyb.top', 'www.guodongx.com', 'wap.zznlzrnp.top', '103633.com', 'www.4148.net', '2123le.com', 'www.kzisv.com', '9528473.com', 'www.6i5.com', 'vs4620.com', 'https.avlulu705.xyz', 'yx.887141.xyz', 'www.brandemia.org', 'uukanshu.info', 'www.80yy.org', 'g0bk45.jiuse2598.xyz', 'g9roa.com', 'easondaycare.com', 'www.imeiju.net', 'www.web120.org', 'www.shuimutv.com', 'www.17kty.com', 'www.gajas18.com', 'jpvsavhyu.76898102.xyz', 'hy12.app', 'www.szxjsj.com', '7.namesilo123.top', 'jiuse2598.xyz', 'zjmidas.com', 'www.paizipai.top', 'www.nc-tcm.com', 'www.gulkdydr.xyz', 'www.166ge.com', 'www.3c8848.com', 'pan.zyipk.top', '999696.xyz', '131oo.com', 'm.zznlzrnp.top', 'www.cbcv.cc', 'www.cxleyuan.xyz', 'www.hxsy888.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.keniuchacha.com...
+Performing DNS lookup for www.xworldadmin.com...
+Performing DNS lookup for g9roa.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
