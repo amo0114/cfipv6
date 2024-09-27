@@ -1,32 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find pc.ulzdk.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.uu93.com
+Address: 104.21.35.197
+Name:	www.uu93.com
+Address: 172.67.179.23
+Name:	www.uu93.com
+Address: 2606:4700:3033::6815:23c5
+Name:	www.uu93.com
+Address: 2606:4700:3037::ac43:b317
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find bzjysf.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.mahua110.com
-Address: 172.232.4.213
-Name:	www.mahua110.com
-Address: 172.232.31.180
-Name:	www.mahua110.com
-Address: 172.232.25.148
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.cbcv.cc	canonical name = cbcv.cc.
-cbcv.cc	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+Name:	www.qingganbook.com
+Address: 104.21.39.88
+Name:	www.qingganbook.com
+Address: 172.67.170.25
+Name:	www.qingganbook.com
+Address: 2606:4700:3031::ac43:aa19
+Name:	www.qingganbook.com
+Address: 2606:4700:3033::6815:2758
 
