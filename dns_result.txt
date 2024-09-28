@@ -1,88 +1,37 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
-** server can't find hkhcbc.com: NXDOMAIN
+Non-authoritative answer:
+hkaa.sectigo.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global3.66666654.xyz.
+Name:	cfcn-a-global3.66666654.xyz
+Address: 172.67.70.2
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	57924.com
-Address: 18.167.72.72
-Name:	57924.com
-Address: 43.198.185.181
-Name:	57924.com
-Address: 16.163.140.93
-Name:	57924.com
-Address: 43.198.247.73
-Name:	57924.com
-Address: 16.162.160.145
-Name:	57924.com
-Address: 18.163.191.100
-Name:	57924.com
-Address: 43.198.21.154
-Name:	57924.com
-Address: 43.198.109.206
-Name:	57924.com
-Address: 18.166.223.166
-Name:	57924.com
-Address: 43.198.111.52
-Name:	57924.com
-Address: 16.162.88.137
-Name:	57924.com
-Address: 43.198.22.25
-Name:	57924.com
-Address: 43.198.250.148
-Name:	57924.com
-Address: 18.163.80.103
-Name:	57924.com
-Address: 18.162.243.234
-Name:	57924.com
-Address: 18.166.58.59
+raw.gitmirror.com	canonical name = cdn.401403404.xyz.
+Name:	cdn.401403404.xyz
+Address: 104.21.24.234
+Name:	cdn.401403404.xyz
+Address: 172.67.221.5
+Name:	cdn.401403404.xyz
+Address: 2606:4700:3036::ac43:dd05
+Name:	cdn.401403404.xyz
+Address: 2606:4700:3036::6815:18ea
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.679077.com	canonical name = nb2.f7chinavip.com.
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.11
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.22
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.13
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.16
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.38
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.20
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.41
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.35
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.19
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.37
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.40
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.21
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.14
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.10
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.12
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.15
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.18
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.17
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.39
-Name:	nb2.f7chinavip.com
-Address: 103.149.153.36
+Name:	pyramydair.com
+Address: 104.18.17.2
+Name:	pyramydair.com
+Address: 104.18.16.2
+Name:	pyramydair.com
+Address: 2606:4700::6812:1102
+Name:	pyramydair.com
+Address: 2606:4700::6812:1002
 

@@ -810,3 +810,26 @@ Performing DNS lookup for www.fctables.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 77a9d4f] Update project files
+ 4 files changed, 158 insertions(+), 53 deletions(-)
+ rewrite Fission_ip_backup.txt (94%)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   b1c2e2b..77a9d4f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.81.117...
+Fetching domains for 172.64.98.26...
+Fetching domains for 104.17.248.123...
+succeed to fetch domains for 172.64.98.26 from https://site.ip138.com/
+succeed to fetch domains for 104.25.81.117 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.248.123 from https://site.ip138.com/
+域名列表为
+['stock.hostmonit.com', 'www.69bag1.com', 'jy889a.com', 'tom1172.com', 'sarapbabe.com', 'www.klassieksanitair.com', 'www.92mili.com', 'www.679077.com', 'www.11txt.com', 'dyxs11.com', 'chaturbate.com.tw', 'www.huzanxiaobao.cn', 'www.dyxs11.com', 'www.iios.club', 'www.hkhcbc.com', 'www.6i5.com', '888rry.com', '116.ag', 'www.lyzdzy.com', 'm.cmtravel.com.cn', 'ikanmv.com', 'www.dbt61.com', 'sgv7.com', 'www.tggwtgc.com', 'cmtravel.com.cn', 'loader.to', 'm.dbt61.com', 'www.qilishusong.cn', 'www.66se14.com', 'www.chaturbate.com.tw', 'www.50zw.co', 'www.skiespro.net', '7sc.cc', 'www.pngegg.com', 'ip.wvw.mom', 'www.tom325.com', 'yiliuxue.com', 'tom325.com', 'm.50zw.com', 'hj2a482.top', 'www.cmtravel.com.cn', 'dbt61.com', 'www.yiliuxue.com', 'pornl.com', 'www.99pp81.com', 'xs.wxtv.cc', 'm.hz7788.com', 'www.zhenhunxiaoshuo.com', 'hj9d81.top', 'www.888rry.com', 'app.bitstarchain.com', 'pornobae.com', 'dm84.tv', 'blz29.com', 'm.chaturbate.com.tw', 'www.2y2y.net', 'cdnbus.zone', 'appdownload.goodgaming.org', 'www.jjtyss.com', 'lai796.com', '57924.com', '606977.com', 'www.tom545.com', 'www.0550cq.com', 'www.lai796.com', 'wemp.app', 's7.lovebit.top', 'www.57924.com', 'www.rosesoffashion.nl', 'luwangyangrong.com', 'tracker.nanoha.org', 'steprimo.com', 'klassieksanitair.com', 'xcy.moe', 'www.tv9090.com', 'www.tom1172.com', 'www.hnxinlian.org', 'www.cdnbus.zone', 'www.tinghen.com', 'www.lewen5.com', 'www.gaycn.top', 'www.28dushu.com', 'www.ikanmv.com', 'www.whpaiger.com', 'rosesoffashion.nl', 'hwtcz1.rirott.com', 'hkhcbc.com', 'www.espressoenglish.net', 'civitai.com', 'www.90dushu.com', 'www.295k.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for hkhcbc.com...
+Performing DNS lookup for 57924.com...
+Performing DNS lookup for www.679077.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
