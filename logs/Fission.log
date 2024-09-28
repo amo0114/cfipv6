@@ -739,3 +739,25 @@ Performing DNS lookup for www.qingganbook.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main eac9be6] Update project files
+ 4 files changed, 64 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   56831fb..eac9be6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.55.124...
+Fetching domains for 198.41.220.13...
+Fetching domains for 104.18.39.83...
+succeed to fetch domains for 104.18.39.83 from https://site.ip138.com/
+succeed to fetch domains for 104.17.55.124 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.220.13 from https://ipchaxun.com/
+域名列表为
+['www.wxxzzs.com', 'uu93.com', 'subowu.com', 'tunneltransfer.bpyjc.com', 'hub.vroid.com', 'www.99wx.cc', 'tube8.net.co', 'www.sirene-holding.com', 'www.8001mk.com', 'tushencn.com', 'www.tinghen.com', 'nlsdwsz.66666654.xyz', 'auto.ccccdn.tk', 'stock.hostmonit.com', 'www.jsmx999.com', 'm.6988tv.com', 'www.cbcv.cc', 'www.tube8.net.co', 'appbob.com', 'www.92mili.com', 'freeyx.cloudflare88.eu.org', '296ff.com', 'www.sxyzxh.com', 'www.50zw.co', 'www.xiuluo942.com', 'da80198.com', 'www.vcd.la', 'baxtc.66666654.xyz', 'jpvsavhyu.76898102.xyz', 'm.0550cq.com', 'www.296ff.com', 'www.chenxuwangluo.cn', 'www.kukedy.tv', 'www.cskcrf.com', 'cf-lt.sharecentre.online', 'www.4gdiy.com', '8001mk.com', 'qqkepao.com', 'www.bomb01.cc', 'bestseller.monster', 'www.cameragopro.com.br', 'e0101.com', 'www.cocanwelding.com', 'acus.cloudflarest.link', 'thegioivatlieu.net', 'volimpodgoricu.me', 'www.lyzdzy.com', 'wei333.com', 'yh6.dtku41.xyz', 'teachli.top', 'www.0550cq.com', 'www.6988tv.com', 'cfip.xxxxxxxx.tk', '0550cq.com', 'www.ddwhm.com', 'www.tejiawan.com', 'www.shemale-cum-tube.com', 'm.cbcv.cc', 'www.aaaing.com', 'www.paizipai.top', 'www.qqkepao.com', 'www.tv9090.com', 'vroid.com', 'shemale-cum-tube.com', 'laoxu.net', '7.namesilo123.top', 'cdn.dujiazy.com', 'www.11txt.com', 'www.tushencn.com', 'saohu325.com', 'nznrs.com', 'www.b7yy.cc', 'underholdningforalle.dk', 'www.manhuadb.com', 'jhpcza.66666654.xyz', 'www.tuozhan021.com', 'zi0.cc', 'www.cfhuagong.com', 'www.6i5.com', 'zmkan.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for qqkepao.com...
+Performing DNS lookup for baxtc.66666654.xyz...
+Performing DNS lookup for cf-lt.sharecentre.online...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
