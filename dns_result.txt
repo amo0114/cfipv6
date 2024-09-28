@@ -1,29 +1,9 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find yx.887141.xyz: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
 Non-authoritative answer:
-Name:	www.cn-jianan.com
-Address: 104.18.55.114
-Name:	www.cn-jianan.com
-Address: 172.67.64.110
-Name:	www.cn-jianan.com
-Address: 104.17.240.129
-Name:	www.cn-jianan.com
-Address: 104.19.95.147
-Name:	www.cn-jianan.com
-Address: 172.67.66.211
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global31.66666654.xyz.
-Name:	cfcn-a-global31.66666654.xyz
-Address: 172.67.70.95
+cfcdn1.sanfencdn9.com	canonical name = us.uxzbpycsaekzxdwd.xyz.
+us.uxzbpycsaekzxdwd.xyz	canonical name = us.ct.pdkqulmi.xyz.
+Name:	us.ct.pdkqulmi.xyz
+Address: 104.16.136.167
 
