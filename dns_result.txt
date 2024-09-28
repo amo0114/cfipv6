@@ -2,8 +2,11 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-cfcdn1.sanfencdn9.com	canonical name = us.uxzbpycsaekzxdwd.xyz.
-us.uxzbpycsaekzxdwd.xyz	canonical name = us.ct.pdkqulmi.xyz.
-Name:	us.ct.pdkqulmi.xyz
-Address: 104.16.136.167
+Name:	www.295k.com
+Address: 208.98.40.74
+
+Server:		8.8.4.4
+Address:	8.8.4.4#53
+
+** server can't find www.91m.cc: NXDOMAIN
 
