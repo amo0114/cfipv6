@@ -761,3 +761,25 @@ Performing DNS lookup for cf-lt.sharecentre.online...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 607d12f] Update project files
+ 4 files changed, 60 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   eac9be6..607d12f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.105.162...
+Fetching domains for 104.16.244.145...
+Fetching domains for 104.17.20.51...
+succeed to fetch domains for 104.17.105.162 from https://site.ip138.com/
+succeed to fetch domains for 104.16.244.145 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.20.51 from https://ipchaxun.com/
+域名列表为
+['www.tractorhouse.co.uk', 'www.xpsxs.com', 'www.k77yy.com', 'www.xinpian8.com', 'www.bfb3.com', 'acjp.cloudflarest.link', 'iios.club', 'www.zgjmw.net', 'zzztch.com', 'www.k77kk.cc', 'www.baokanwang.com', 'www.93xscc.com', 'jpadwinfs.114514782.xyz', 'cfip.xxxxxxxx.tk', '28et.com', 'zaizaiap.com', 'www.888dyy.cc', '26.namesilo123.top', 'www.7749tv.com', 'www.kanju8.com', 'www.doupobook.com', 'dp.huimoxs.com', 'ipdb.rr.nu', 'www.zongcaiwx.com', '33mov.com', 'www.cfhuagong.com', 'www.iios.club', 'www.gaycn.top', 'www.cocanwelding.com', 'www.77zw.cc', 'hkgsdz.66666654.xyz', 'www.xuanqishi.com', 'letu9.com', 'm.xinpian8.com', 'gangsiwang.org', 'www.33mov.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.xinpian8.com...
+Performing DNS lookup for www.xpsxs.com...
+Performing DNS lookup for www.cocanwelding.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
