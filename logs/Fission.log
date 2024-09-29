@@ -987,3 +987,25 @@ Performing DNS lookup for www.ddwhm.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 69dfe55] Update project files
+ 4 files changed, 68 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   ad26ffc..69dfe55  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.254.173...
+Fetching domains for 104.25.127.60...
+Fetching domains for 104.20.180.145...
+succeed to fetch domains for 104.20.180.145 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.127.60 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.254.173 from https://dnsdblookup.com/
+域名列表为
+['shendu.tv', 'www.qindixs.com', 'www.qilishusong.cn', 'dbz.im', 'www.xkstxt.com', 'i.she.vc', 'www.cocanwelding.com', 'www.jjxsxs.com', 'www.huakai2018.com', 'www.cfhuagong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qilishusong.cn...
+Performing DNS lookup for i.she.vc...
+Performing DNS lookup for www.qindixs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

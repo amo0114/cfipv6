@@ -2,34 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qilishusong.cn	canonical name = www.jdzjq.cn.
-Name:	www.jdzjq.cn
-Address: 172.232.112.221
+www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 104.21.53.57
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 172.67.209.38
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:d126
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:3539
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-i.she.vc	canonical name = ips.333600.xyz.
-ips.333600.xyz	canonical name = fib.322555.xyz.
-Name:	fib.322555.xyz
-Address: 172.67.188.106
-Name:	fib.322555.xyz
-Address: 104.21.33.6
-Name:	fib.322555.xyz
-Address: 2606:4700:3031::ac43:bc6a
-Name:	fib.322555.xyz
-Address: 2606:4700:3034::6815:2106
+*** Can't find www.zhjy119.com: No answer
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qindixs.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 162.159.143.50
-Name:	ips.993888.xyz
-Address: 162.159.134.22
-Name:	ips.993888.xyz
-Address: 162.159.128.105
+Name:	www.03572.com
+Address: 172.67.207.121
+Name:	www.03572.com
+Address: 104.21.42.179
+Name:	www.03572.com
+Address: 2606:4700:3031::ac43:cf79
+Name:	www.03572.com
+Address: 2606:4700:3036::6815:2ab3
 
