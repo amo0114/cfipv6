@@ -2,32 +2,21 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 104.21.53.57
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 172.67.209.38
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:d126
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:3539
+Name:	m.sangwu8.com
+Address: 45.199.82.99
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find www.zhjy119.com: No answer
+Name:	www.ygdy8.cc
+Address: 208.98.40.13
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.03572.com
-Address: 172.67.207.121
-Name:	www.03572.com
-Address: 104.21.42.179
-Name:	www.03572.com
-Address: 2606:4700:3031::ac43:cf79
-Name:	www.03572.com
-Address: 2606:4700:3036::6815:2ab3
+m.niuerzs.com	canonical name = www.jdzjq.cn.
+Name:	www.jdzjq.cn
+Address: 172.232.112.221
 
