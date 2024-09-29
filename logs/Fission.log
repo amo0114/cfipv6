@@ -1036,3 +1036,25 @@ Performing DNS lookup for www.03572.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7f79f72] Update project files
+ 4 files changed, 58 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   e197170..7f79f72  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.128.215...
+Fetching domains for 104.16.63.90...
+Fetching domains for 104.26.10.92...
+succeed to fetch domains for 104.20.128.215 from https://site.ip138.com/
+succeed to fetch domains for 104.26.10.92 from https://site.ip138.com/
+succeed to fetch domains for 104.16.63.90 from https://ipchaxun.com/
+域名列表为
+['www.yezi.art', 'm.niuerzs.com', 'bestdealplus.com', 'www.linnuozs.com', 'www.fondsk.ru', 'www.d.838my.com', 'm.nvzox.com', 'jjshouse.es', 'www.mailovedoll.com', 'www.c2cx.me', 'www.btdft.com', 'www.838my.com', 'www.iios.club', 'ru.bestdealplus.com', 'www.nvzox.com', 'fmovies.ps', 'www.insauga.com', 'www.lateshow.net', 'www.ok.838my.com', 'gloryholesecrets.com', 'nlsdwsz.66666654.xyz', 'pdzmre77473.sanfen001.top', 'www.xworldadmin.com', 'juji.tv', 'btdft.com', 'c2cx.me', 'hall1c.com', 'www.ygdy8.cc', 'insauga.com', 'm.sangwu8.com', 'www.iios.me', 'www.ykmov.cc', 'www.stagescycling.com', '60u1x.app', 'asianinvestor.net', 'www.99wx.cc', 'www.goldreporter.de', 'www.91m.cc', 'gfxtra31.com', 'lfqyw.com', 'www.hofbraeu-muenchen.de', '26.namesilo123.top', 'www.gfxtra31.com', 'www.bestdealplus.com', 'www.fernexpo.com', 'stagescycling.com', 'www.n7ss.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.sangwu8.com...
+Performing DNS lookup for www.ygdy8.cc...
+Performing DNS lookup for m.niuerzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
