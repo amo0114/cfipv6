@@ -1101,3 +1101,25 @@ Performing DNS lookup for aifreegame.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e5d7068] Update project files
+ 4 files changed, 77 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   365f70b..e5d7068  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.128.215...
+Fetching domains for 172.67.167.97...
+Fetching domains for 104.21.233.157...
+succeed to fetch domains for 172.67.167.97 from https://site.ip138.com/
+succeed to fetch domains for 104.20.128.215 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.233.157 from https://dnsdblookup.com/
+域名列表为
+['www.cess.cloud', 'www.cocanwelding.com', 'u5lbs.xyz', 'www.tudajie.com', 'www.96dushu.com', 'www.tinghen.com', 'www.50zw.co', 'www.ddwhm.com', 'www.cfhuagong.com', 'www.kswlqjdwx.com', '934399.com', 'www.hxsy888.com', 'www.huakai2018.com', 'cdn.3ae.jp', 'bjjuteng.com', 'cess.cloud', 'www.11txt.com', 'www.wyxs.cc', 'm.niuerzs.com', 'www.ydxs.cc', 'm.6i5.com', 'hddolby.com', 'usdo.eu.org', 'www.hosemicon.com', 'jpvsavhyu.76898102.xyz', 'cdn.didi8.com', 'www.0550cq.com', 'freeyx.cloudflare88.eu.org', 'us1.v2ma.com', 'www.runy91.com', 'icdn.football-espana.net', 'www.yiqianhg.com', 'www.bgie.cc', 'gofuckgirls.com', 'ipdb.rr.nu', 'femjoybabes.com', 'zoomtv.work', 'www.gzgafk.com', 'jhpcza.66666654.xyz', 'www.ciligui.cc', 'blog.hostmonit.com', 'xxxmmm.online', 'zl.aitrjc.xyz', 'i2.hdslb.com.aoxtv.com', '1028.workarea7.live', 'www.yy4080dy.com', 'serialdata.ru', 'tudajie.com', 'yh6.dtku41.xyz', 'www.xxxmmm.online', 'tunneltransfer.bpyjc.com', 'www.11dx.cc', 'runy91.com', 'www.cbcv.cc', 'm.0550cq.com', 'www.17kty.com', 'www.11xfw.com', 'www.gofuckgirls.com', 'www.lvhuisb.com', 'animalsexpornxxxmovies.com', 'www.ykmov.cc', 'www.tv9090.com', '627.workarea7.live', 'www.biquge.tel', 'baxtc.66666654.xyz', 'www.whpaiger.com', 'yx.887141.xyz', 'www.shsxjzzs.com', 'www.v2raz.vip', 'www.hnxinlian.org', 'zo.ee', '0550cq.com', 'www.xxxindiansex.net', 'pinayot.com', 'testnet-rpc0.cess.cloud', '6856227.top', 'cfip.xxxxxxxx.tk', 'www.zhongyunyang.com', 'm.csmjjz.com', 'm.6988tv.com', 'wnet.one', '11dx.cc', 'www.guilin51766.com', 'gayboytube.org', 'www.shfeicui.cn', 'www.szxjsj.com', 'newblood.anonops.com', '820.workarea7.live', 'www.jsdrtzn.com', 'cf1.492745.xyz', 'www.dgxiaoxiang.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.china-luyitong.com', 'www.k77yy.com', 'www.linnuozs.com', 'www.gaze.run', 'sgv3.com', 'wife-swap.co.uk', 'www.xworldadmin.com', 'pc28.cn', 'cnotc.net', 'www.6988tv.com', 'yellowwarmsand.com', '91.workarea7.live', 'm.jingshuai888.com', '037zz.com', 't.hddolby.com', 'xxxindiansex.net', 'frsadubidd.76898102.xyz', 'app.keeweb.info', '0118.workarea7.live', '0828.workarea7.live', 'www.hddolby.com', '810.workarea7.live', 'yundunwawablogcdn1dx.wawacm.com', 'www.92mili.com', 'www.dgytlt.com', 'xs.wxtv.cc', 'www.4148.net', 'www.cnotc.net', 'www.lyzdzy.com', 'www.mengyihulan.com', 'www.xxsm227.com', 'stock.hostmonit.com', 'www.qumiyun.com', 'bk.jdkg.fun', 'workarea7.live', 'testnet-rpc1.cess.cloud', 'www.baota.me', 'ukr.segodnya.ua', 'ultratubehd.com', 'www.xinjuc.com', 'cdn-xxx.com', 'www.atfkmwm.com', 'm.biquge.tel', 'www.99wxw.cc', 'hdhairytube.com', 'www.paizipai.top', 'fldsubgigtujuy.76898102.xyz', 'sugirl.info', 'www.91m.cc', 'www.6i5.com', 'www.lxxq888.com', '3g.botiancloud.top', '086181.xyz', 'www.28dushu.com', 'www.szaitai.com', 'www.90dushu.com', 'guilin51766.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.90dushu.com...
+Performing DNS lookup for serialdata.ru...
+Performing DNS lookup for cess.cloud...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
