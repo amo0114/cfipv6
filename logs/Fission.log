@@ -1079,3 +1079,25 @@ Performing DNS lookup for m.0550cq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 365f70b] Update project files
+ 4 files changed, 66 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   ec907aa..365f70b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.207.121...
+Fetching domains for 104.16.63.90...
+Fetching domains for 104.20.128.215...
+succeed to fetch domains for 172.67.207.121 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.128.215 from https://site.ip138.com/
+succeed to fetch domains for 104.16.63.90 from https://ipchaxun.com/
+域名列表为
+['www.9aa4.com', 'www.tinghen.com', 'wap.uecece.top', 'www.6i5.com', 'www.keewob.top', 'guden3.yufen.eu.org', 'www.qingyoujixie.com', 'www.ynrjs.cn', 'www.91m.cc', 'nlsdwsz.66666654.xyz', 'cf-lt.sharecentre.online', 'm.niuerzs.com', 'www.starvertu.com', 'www.11txt.com', 'www.03572.com', '9aa4.com', 'uecece.top', 'bpb.yufen.eu.org', 'www.zhjy119.com', 'www.iios.club', 'www.paizipai.top', 'muysga.top', 'www.muysga.top', 'm.28dushu.com', 'aifreegame.com', 'www.hzguangai.com', 'zz-plan.com', 'stock.hostmonit.com', 'www.uecece.top', 'www.s0312.cn', 'tzsr8x.com', 'www.yukaaawk.top', 'wap.muysga.top', 'www.ykmov.cc', 'www.50zw.co', 'yundunwawablogcdn1yd.wawacm.com', 'cesu.yufen.eu.org', 'www.bjmeiyiyuan.com', 'www.sojuanba.com', 'thep1599.cc', 'www.aifreegame.com', 'www.4148.net', 'workinmm.xyz', 'z.daoyyy.com', 'cfip.xxxxxxxx.tk', 'dirtysarah.com', 'wap.keewob.top', 'www.b7yy.cc', 'lfqyw.com', 'keewob.top', 'www.lalawtq.cn', 'www.linnuozs.com', 'v.yufen.eu.org', 'www.sxzyczs.com', 'www.vnpkxxk.cn', 'www.iios.me', 'yukaaawk.top', 'www.99wx.cc', 'walletshop.bg']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.starvertu.com...
+Performing DNS lookup for www.11txt.com...
+Performing DNS lookup for aifreegame.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
