@@ -966,3 +966,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ad26ffc] Update project files
+ 4 files changed, 81 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   927ef4f..ad26ffc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.221.198...
+Fetching domains for 104.16.205.111...
+Fetching domains for 104.17.22.51...
+succeed to fetch domains for 198.41.221.198 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.205.111 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.22.51 from https://site.ip138.com/
+域名列表为
+['m.junhunbook.com', 'www.80yy.la', '295k.com', 'www.hnxinlian.org', 'hjiaw.com', '923055.com', 'xs.2lxs.com', '8810868.com', 'www.sp6080.cc', 'www.uu93.com', 'www.0550cq.com', 'www.cfhuagong.com', 'www.qp666.com', 'www.kbss888.com', 'www.zhimawx.com', 'speed.marisalnc.com', 'wei333.com', 'vvccpp.com', 'yh6.dtku41.xyz', 'www.k77kk.cc', 'm.zhuxianbook.com', 'www.qingganbook.com', 'www.iios.club', 'www.niuniu9.com', 'm.gaoxiaotxt.com', 'www.boyangjt.com', 'ball.iju888.net', 'kan234.com', '669acg.com', 'www.whwanet.com', 'jqggzyjy.com.cn', 'www.whpaiger.com', 'www.jianlaibook.com', 'www.tv9090.com', 'www.ganqingbook.com', 'www.paizipai.top', 'uu93.com', 'laowang.co', 'www.tvccc.org', 'www.iju888.net', 'iju888.net', 'm.shengxuread.com', 'www.116.ag', 'www.sf52l.com', '7.namesilo123.top', 'www.pk299.com', 'www.m6y6.com', 'www.30moyu.top', 'cf.090227.xyz', 'www.11txt.com', 'www.90dushu.com', 'ihanju.com', 'qp66.com', 'm.118read.com', 'www.junhunbook.com', 'www.qire88.com', 'vcd.la', 'www.295k.com', 'www.ddwhm.com', 'www.679077.com', 'www.chuanyueread.com', 'bdx100.com', 'ag.hg2096.com', 'www.991kan.com', 'www.993my.com', 'qdm8.com', 'www.wxxzzs.com', 'cf-lt.sharecentre.online', 'www.nvzongbook.com', 'www.kx10.com', 'www.6i5.com', 'www.mm5517.com', 'www.qf527.com', 'tv.ci', 'www.sglrjc.com', 'm.longbulo.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wxxzzs.com...
+Performing DNS lookup for m.junhunbook.com...
+Performing DNS lookup for www.ddwhm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
