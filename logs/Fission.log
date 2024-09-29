@@ -1058,3 +1058,24 @@ Performing DNS lookup for m.niuerzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ec907aa] Update project files
+ 4 files changed, 54 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7f79f72..ec907aa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.167.97...
+Fetching domains for 104.21.232.93...
+Fetching domains for 104.25.164.122...
+succeed to fetch domains for 104.25.164.122 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.232.93 from https://site.ip138.com/
+succeed to fetch domains for 172.67.167.97 from https://ipchaxun.com/
+域名列表为
+['m.6988tv.com', 'www.cbcv.cc', 'baxtc.66666654.xyz', 'www.bgie.cc', 'app.keeweb.info', 'yellowwarmsand.com', 'www.cnotc.net', 'www.gaze.run', 'www.4148.net', 'www.rom.gay', 'bjjuteng.com', 'guilin51766.com', 'xxxmmm.online', 'www.szaitai.com', 'www.11txt.com', 'jhpcza.66666654.xyz', 'sugirl.info', 'yh6.dtku41.xyz', 'www.gzgafk.com', 'www.lvhuisb.com', 'testnet-rpc0.cess.cloud', 'www.lxxq888.com', 'www.shsxjzzs.com', 'www.tv9090.com', 'www.96dushu.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.xxxmmm.online', 'www.kswlqjdwx.com', 'www.hosemicon.com', 'www.92mili.com', 'usdo.eu.org', 'freeyx.cloudflare88.eu.org', 't.hddolby.com', 'hdhairytube.com', 'runy91.com', 'www.daomubiji.cc', '934399.com', '22.6bnw.top', 'www.cess.cloud', 'www.77zw.cc', '0550cq.com', 'www.k77yy.com', 'm.163fahao.com', 'www.11dx.cc', '037zz.com', 'www.28dushu.com', 'sgv3.com', 'www.mengyihulan.com', 'tunneltransfer.bpyjc.com', 'www.50zw.co', 'www.99wxw.cc', 'us1.v2ma.com', 'ipdb.rr.nu', 'www.v2raz.vip', 'm.0550cq.com', 'm.6i5.com', 'www.paizipai.top', 'www.xxsm227.com', '6856227.top', 'cnotc.net', 'www.0550cq.com', 'www.hxsy888.com', 'www.hnxinlian.org', 'www.atfkmwm.com', 'www.yiqianhg.com', 'www.yy4080dy.com', 'm.csmjjz.com', 'blog.hostmonit.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.ciligui.cc', 'www.tinghen.com', 'www.runy91.com', 'www.cocanwelding.com', 'www.guilin51766.com', 'cdn.3ae.jp', 'www.shfeicui.cn', 'yx.887141.xyz', 'www.szxjsj.com', 'www.biquge.tel', 'm.biquge.tel', 'www.17kty.com', '45zw.org', 'pc28.cn', 'www.douluodalu1.com', 'www.90dushu.com', 'www.dgytlt.com', 'stock.hostmonit.com', '3g.botiancloud.top', 'www.99wx.cc', 'hzefss.66666654.xyz', 'www.china-luyitong.com', 'www.6i5.com', 'www.dgxiaoxiang.com', 'www.xworldadmin.com', 'www.yunfanyi.net', 'testnet-rpc1.cess.cloud', 'u5lbs.xyz', 'www.jsdrtzn.com', 'www.11xfw.com', 'www.whpaiger.com', 'www.hddolby.com', 'www.6988tv.com', 'serialdata.ru', 'cfip.xxxxxxxx.tk', 'xs.wxtv.cc', 'cess.cloud', 'pan.009idc.cn', 'www.91m.cc', 'hddolby.com', 'm.jingshuai888.com', 'www.dmbj.cc', 'cf1.492745.xyz', '11dx.cc', 'www.zhongyunyang.com', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.china-luyitong.com...
+Performing DNS lookup for www.gzgafk.com...
+Performing DNS lookup for m.0550cq.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,33 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.china-luyitong.com
-Address: 172.67.168.128
-Name:	www.china-luyitong.com
-Address: 104.21.26.196
-Name:	www.china-luyitong.com
-Address: 2606:4700:3033::ac43:a880
-Name:	www.china-luyitong.com
-Address: 2606:4700:3032::6815:1ac4
+www.starvertu.com	canonical name = api3.oooooooooo213.com.
+Name:	api3.oooooooooo213.com
+Address: 103.149.144.199
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.gzgafk.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.166.159
-Name:	cf.zmdhc.com
-Address: 172.67.108.170
-Name:	cf.zmdhc.com
-Address: 172.67.16.198
-Name:	cf.zmdhc.com
-Address: 172.67.96.28
+www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 172.67.203.171
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 104.21.44.202
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:cbab
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:2cca
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.0550cq.com
-Address: 103.150.11.223
+Name:	aifreegame.com
+Address: 104.21.42.179
+Name:	aifreegame.com
+Address: 172.67.207.121
+Name:	aifreegame.com
+Address: 2606:4700:3031::ac43:cf79
+Name:	aifreegame.com
+Address: 2606:4700:3036::6815:2ab3
 
