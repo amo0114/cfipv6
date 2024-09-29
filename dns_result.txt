@@ -2,24 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-ddwhm.com	canonical name = speed.marisalnc.com.
-speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global30.66666654.xyz.
-Name:	cfcn-b-global30.66666654.xyz
-Address: 172.67.64.5
+Name:	www.66zw.cc
+Address: 127.0.0.1
+Name:	www.66zw.cc
+Address: ::1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tichain.cc
-Address: 199.59.243.227
+www3.m1000y.com	canonical name = www3.m1000y.com.cdn.dnsv1.com.
+www3.m1000y.com.cdn.dnsv1.com	canonical name = cdn.dispatch.spcdntip.com.
+Name:	cdn.dispatch.spcdntip.com
+Address: 122.189.171.115
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.50zw.co: SERVFAIL
+Non-authoritative answer:
+www2.m1000y.com	canonical name = www2.m1000y.com.cdn.dnsv1.com.
+www2.m1000y.com.cdn.dnsv1.com	canonical name = cdn.dispatch.spcdntip.com.
+Name:	cdn.dispatch.spcdntip.com
+Address: 122.189.171.115
 
