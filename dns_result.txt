@@ -2,19 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 162.209.149.30
+www.t9gm.com	canonical name = scdn.90jd.cn.
+Name:	scdn.90jd.cn
+Address: 172.67.139.35
+Name:	scdn.90jd.cn
+Address: 104.21.87.12
+Name:	scdn.90jd.cn
+Address: 2606:4700:3033::6815:570c
+Name:	scdn.90jd.cn
+Address: 2606:4700:3030::ac43:8b23
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find www.kunzedu.com: No answer
+Name:	tv9090.com
+Address: 107.167.27.87
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find wap.xbiquge.me: SERVFAIL
+** server can't find 1.namesilo123.top: NXDOMAIN
 
