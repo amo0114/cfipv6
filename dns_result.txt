@@ -2,26 +2,47 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.66zw.cc
-Address: 127.0.0.1
-Name:	www.66zw.cc
-Address: ::1
+www.tlbb888.com	canonical name = yt9995.c2.hycdn.xyz.
+yt9995.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.25.4.189
+Name:	dcs.jqddos.xyz
+Address: 104.16.197.147
+Name:	dcs.jqddos.xyz
+Address: 104.18.245.149
+Name:	dcs.jqddos.xyz
+Address: 104.16.205.255
+Name:	dcs.jqddos.xyz
+Address: 104.19.231.149
+Name:	dcs.jqddos.xyz
+Address: 104.25.46.17
+Name:	dcs.jqddos.xyz
+Address: 104.19.188.121
+Name:	dcs.jqddos.xyz
+Address: 104.24.55.75
+Name:	dcs.jqddos.xyz
+Address: 104.16.227.79
+Name:	dcs.jqddos.xyz
+Address: 104.25.213.238
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www3.m1000y.com	canonical name = www3.m1000y.com.cdn.dnsv1.com.
-www3.m1000y.com.cdn.dnsv1.com	canonical name = cdn.dispatch.spcdntip.com.
-Name:	cdn.dispatch.spcdntip.com
-Address: 122.189.171.115
+Name:	vcd.la
+Address: 38.55.48.194
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www2.m1000y.com	canonical name = www2.m1000y.com.cdn.dnsv1.com.
-www2.m1000y.com.cdn.dnsv1.com	canonical name = cdn.dispatch.spcdntip.com.
-Name:	cdn.dispatch.spcdntip.com
-Address: 122.189.171.115
+www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 104.21.53.57
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 172.67.209.38
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:d126
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:3539
 

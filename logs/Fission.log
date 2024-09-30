@@ -1178,3 +1178,25 @@ Performing DNS lookup for www.50zw.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0660599] Update project files
+ 4 files changed, 55 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   3ede5a1..0660599  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.20.247...
+Fetching domains for 104.17.27.243...
+Fetching domains for 104.16.246.57...
+succeed to fetch domains for 104.16.246.57 from https://site.ip138.com/
+succeed to fetch domains for 104.17.27.243 from https://site.ip138.com/
+succeed to fetch domains for 104.17.20.247 from https://ipchaxun.com/
+域名列表为
+['dsxys.com', 'www.66zw.cc', 'www3.m1000y.com', 'www2.m1000y.com', 'www.1080p.club', 'lxxm.m1000y.com', 'www.nitianzw.com', 'www.casitabi.com', 'pan.axxpan.com', 'ipdb.rr.nu', 'www.75uw.com', 'www.99wx.cc', 'www.sjzsckj.com', 'www.kunzedu.com', 'casitabi.com', 'm.niuerzs.com', 'cfip.xxxxxxxx.tk', 'www.iios.club', 'www.nitianxieshen.com', 'www.zzztch.com', 'okdytt6.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.66zw.cc...
+Performing DNS lookup for www3.m1000y.com...
+Performing DNS lookup for www2.m1000y.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
