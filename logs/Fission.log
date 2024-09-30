@@ -1321,3 +1321,25 @@ Performing DNS lookup for wap.xbiquge.me...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2e190f2] Update project files
+ 4 files changed, 57 insertions(+), 29 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   a914978..2e190f2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.212.234...
+Fetching domains for 104.17.186.59...
+Fetching domains for 104.22.45.122...
+succeed to fetch domains for 104.22.45.122 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.186.59 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.212.234 from https://ipchaxun.com/
+域名列表为
+['www.btsj5.com', 'www.6988tv.com', 'www.sintingtoys.com', '01zj.com', 'www.uu93.com', 'www.wei333.com', 'baxtc.66666654.xyz', 'g273.cc', 'cfhuagong.com', 'www.paizipai.top', 'jpvsavhyu.76898102.xyz', 'www.kk554.com', '1.namesilo123.top', 'fus1.uuv2.co.uk', 'www.hnxinlian.org', 'cfip.xxxxxxxx.tk', 'www.jsmx999.com', 'www.t9gm.com', 'cf-lt.sharecentre.online', 'www.yjeky.com', 'www.4gdiy.com', 'www.tinghen.com', 'yx.887141.xyz', 'archives.vip', 'www.baiitv.com', 'www.suboji.com', 'www.tv9090.com', 'www.55evd.com', 'www.haqiandu.com', 'tv9090.com', 'sgaa.sectigo.pp.ua', 'hnhcbw.com', 'cf1.492745.xyz', 'm.6988tv.com', 'www.ddwhm.com', 'www.4148.net', 'm.28dushu.com', 'dsxys.pro', 'kkyx.yydsii.com', 'www.nsisfans.com', 'ddwhm.com', 'www.boyangjt.com', 'cf.090227.xyz', 'cfcdn2.sanfencdn9.com', 'acus.cloudflarest.link', 'www.iios.club', 'yh6.dtku41.xyz', 'subodi.com', 'www.90dushu.com', 'cmcc.34310889.xyz', 'suboji.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.t9gm.com...
+Performing DNS lookup for tv9090.com...
+Performing DNS lookup for 1.namesilo123.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
