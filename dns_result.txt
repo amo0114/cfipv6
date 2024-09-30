@@ -2,33 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
-Name:	www.jdzjq.cn
-Address: 172.232.112.221
+Name:	www.tuozhan22.com
+Address: 103.224.182.251
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	dsxys.pro
-Address: 172.67.127.229
-Name:	dsxys.pro
-Address: 172.67.71.163
-Name:	dsxys.pro
-Address: 172.67.26.152
-Name:	dsxys.pro
-Address: 172.67.76.130
+Name:	www.sintingtoys.com
+Address: 65.108.205.61
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cdn.cf.clun.top
-Address: 172.66.47.128
-Name:	cdn.cf.clun.top
-Address: 172.66.44.128
-Name:	cdn.cf.clun.top
-Address: 2606:4700:310c::ac42:2f80
-Name:	cdn.cf.clun.top
-Address: 2606:4700:310c::ac42:2c80
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
 
