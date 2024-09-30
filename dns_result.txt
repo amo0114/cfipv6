@@ -2,32 +2,19 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jpvsavhyu.76898102.xyz
-Address: 172.67.168.191
+Name:	www.lyzdzy.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	iios.club
-Address: 104.21.52.166
-Name:	iios.club
-Address: 172.67.201.86
-Name:	iios.club
-Address: 2606:4700:3032::6815:34a6
-Name:	iios.club
-Address: 2606:4700:3036::ac43:c956
+*** Can't find www.kunzedu.com: No answer
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		1.1.1.1
+Address:	1.1.1.1#53
 
-Non-authoritative answer:
-Name:	www.nb6080.com
-Address: 172.67.212.180
-Name:	www.nb6080.com
-Address: 104.21.16.127
-Name:	www.nb6080.com
-Address: 2606:4700:3031::6815:107f
-Name:	www.nb6080.com
-Address: 2606:4700:3037::ac43:d4b4
+** server can't find wap.xbiquge.me: SERVFAIL
 

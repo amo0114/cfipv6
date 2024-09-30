@@ -1278,3 +1278,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 77bb97e] Update project files
+ 4 files changed, 79 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   d7bd2db..77bb97e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.25.87...
+Fetching domains for 104.16.163.113...
+Fetching domains for 104.16.171.73...
+succeed to fetch domains for 104.16.171.73 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.163.113 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.25.87 from https://ipchaxun.com/
+域名列表为
+['hongkong.qing1999.eu.org', 'www.xinpian8.com', '29.namesilo123.top', 'www.nb6080.com', 'www.993my.com', '11.namesilo123.top', 'jpadwinfs.114514782.xyz', 'www.whpaiger.com', 'jpvsavhyu.76898102.xyz', 'www.whjinwu.com', 'cf.yx.alue.link', 'www.tlbb888.com', 'www.881dy.com', 'chuncc.sectigo.pp.ua', 'go.zibie.link', 'www.iios.club', 'www.k77yy.com', 'usshsaba.114514782.xyz', 'm.kanmanhuala.cc', 'www.gdriustb.com', 'iios.club', 'm.niuerzs.com', 'www.3dck.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jpvsavhyu.76898102.xyz...
+Performing DNS lookup for iios.club...
+Performing DNS lookup for www.nb6080.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
