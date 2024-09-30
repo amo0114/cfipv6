@@ -1200,3 +1200,25 @@ Performing DNS lookup for www2.m1000y.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9367366] Update project files
+ 4 files changed, 89 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   0660599..9367366  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.124.105...
+Fetching domains for 104.17.191.227...
+Fetching domains for 198.41.212.172...
+succeed to fetch domains for 104.17.191.227 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.124.105 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.212.172 from https://ipchaxun.com/
+域名列表为
+['www.xxpg888.com', 'www.4gdiy.com', 'www.x52bq.com', 'www.iios.club', 'www.xwjpack.com', 'laowang.co', 'www.web120.org', 'www.tushencn.com', 'www.33mov.com', 'subodi.com', '55evd.com', 'www.uu93.com', 'm.ytdccc.com', 'xs.wxtv.cc', 'www.woaiqi.com', 'www.tinghen.com', 'www.77ty.com', 'www.6i5.com', 'www.wjxbj.com', 'www.28dushu.com', 'www.cskji.com', 'apk.tv.ci', 'www.shengwanggongcheng.com', 'www.whpaiger.com', 'wz.weishao2023.uk.eu.org', 'www.sxyzxh.com', 'www.weizhijc.com', 'www.75uw.com', 'www.678pao.com', 'stock.hostmonit.com', 'loos.yzdbqcpj-com.cfcdn.cc', 'www.ddaculture.com', 'www.haqiandu.com', 'www.31bz.com', 'm.9sha.com', 'www.hengdawatch.com', 'e0101.com', 'www.tvccc.org', 'www.hr0354.com', 'www.65bao2.com', 'www.tlbb888.com', 'www.4148.net', 'www.789kp.com', 'www.177kb.com', 'www.xkx999.com', 'www.5522tl.com', 'vvv05.vvip.top', 'img.hostmonit.com', 'vvv03.vvip.top', 'www.zgjmw.net', 'www.paizipai.top', '1080kk.com', 'www.tv9090.com', 'cf-lt.sharecentre.online', 'www.sztimi.com', 'uu93.com', 'm.bqg789.co', 'hk2.hhhhh.fn-node.site', 'www.0550cq.com', 'www.dybox1.com', 'www.huakai2018.com', 'www.706i.com', 'www.linnuozs.com', 'www.zhiqihuo.com', 'www.haochi6.com', 'vcd.la', 'm.kuaikan66.com', 'm.mgwheelaxle.com', 'www.tuozhan22.com', 'cf1.492745.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tlbb888.com...
+Performing DNS lookup for vcd.la...
+Performing DNS lookup for www.6i5.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
