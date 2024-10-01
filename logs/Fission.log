@@ -1554,3 +1554,25 @@ Performing DNS lookup for gsrcity2u.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3a05749] Update project files
+ 4 files changed, 88 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   1d0c225..3a05749  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.30.171...
+Fetching domains for 104.17.16.87...
+Fetching domains for 104.20.150.84...
+succeed to fetch domains for 104.20.150.84 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.30.171 from https://site.ip138.com/
+succeed to fetch domains for 104.17.16.87 from https://dnsdblookup.com/
+域名列表为
+['pkk.iswitch.app', 'www.cx888my.com', 'y.onlic.top', 'dzy66666.com', 'www.mv432.com', 'www.cocanwelding.com', 'www.kuaikan66.com', 'xfltd.net', 'www.iios.me', 'www.whjinwu.com', 'www.wei333.com', 'www.iios.club', 'www.8877fz.com', 'pixar-tech.com', 'www.tockt.com', 'www.lyzdzy.com', 'www.calmlab.com', 'www.75uw.com', 'www.6988tv.com', 'www.115fhd.com', 'www.huakai2018.com', 'www.tlbb888.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.me...
+Performing DNS lookup for www.cx888my.com...
+Performing DNS lookup for www.6988tv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
