@@ -1420,3 +1420,24 @@ Performing DNS lookup for www.wxxzzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 03d63fe] Update project files
+ 4 files changed, 41 insertions(+), 17 deletions(-)
+To github.com:amo0114/cfipv6.git
+   b614029..03d63fe  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.64.229.174...
+Fetching domains for 198.41.221.52...
+Fetching domains for 104.17.100.11...
+succeed to fetch domains for 172.64.229.174 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.100.11 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.221.52 from https://ipchaxun.com/
+域名列表为
+['yx.cloudflare.182682.xyz', 'www.doupobook.com', 'www.zongcaiwx.com', '7sc.cc', 'uu93.com', 'www.tinghen.com', 'xms45.com', 'www.musicju.com', 'ru01.nttkk.com', 'www.ytdccc.com', 'www.tvccc.org', 'www.77zw.cc', 'www.huakai2018.com', 'ycbzcl.com', 'www.review-australia.com', 'www.7sc.cc', 'm.6i5.com', 'report.qwer.top', 'www.tv9090.com', 'www.wn01.cc', 'www.tuozhan22.com', 'ag43u.cn', 'new.cjfaka.com', 'www.qianmianxs.com', 'www.11txt.com', 'www.bjyongcheng.com', 'www.huanyaad.com', 'cfip.xxxxxxxx.tk', 'qiangkouzhao.com', 'www.6i5.com', 'download.yzzpan.com', 'www.sxyzxh.com', 'stock.hostmonit.com', 'blog.hostmonit.com', 'www.c333.net', 'www.x52bq.com', 'jp03.nttkk.com', 'www.ycbzcl.com', 'quincy1.cn', 'www.wodzudio.com', 'd5l0dvt14r5h8.eu.org', 'www.web120.org', 'www.zmsub.top', 'www.cgfxw.com', 'download.aichunjing.com', 'hmoe.top', '0550cq.com', 'www.xms45.com', '66se.tv', 'upload.yzzpan.com', 'mp4.demo.009808.xyz', 'www.taiwanheguo.com', 'www.tuozhan021.com', 'abc.cloudflare.182682.xyz', 'www.zjhainashoes.com', 'www.weizhijc.com', 'www.qilaixiaoshuo.com', 'me8gs.app', 'www.99wx.cc', 'm.118read.com', 'www.93xscc.com', 'www.wxxzzs.com', 'www.28dushu.com', 'www.lvfengsh.com', 'www.ddwhm.com', 'www.xxpg888.com', 'tw02.nttkk.com', 'kkyx.yydsii.com', 'www.28et.com', 'yyxycn.com', 'api.lzlxzs.com', 'www.706i.com', 'www.iios.club', 'www.hnxinlian.org', 'tv9090.com', 'www.yanqin8.com', 'download.yunzhongzhuan.com', 'www.xcao.top', 'ej22g.com', 'www.zongcaixs.com', 'www.zgjmw.net', 'www.yjeky.com', 'www.yyxycn.com', 'pan.wehaox.com', 'upload.yunzhongzhuan.com', 'web120.org', 'www.4148.net', 'quincy123.cn', 'hg1599.com', 'www.paizipai.top', 'www.a57.net', 'www.96dushu.com', 'bestcf.onecf.eu.org', 'www.connoisseurtravel.com', 'qp66.com', 'www.4gdiy.com', 'cloud.axe.ink', 'cf-lt.sharecentre.online', 'www.116.ag', 'm.dy1000.com', 'zi0.cc', 'yx.brucean.cn', 'cf.bihai.gq', 'www.lyzdzy.com', 'sgv7.com', 'jqb.com', 'www.uu93.com', 'msjh520.com', 'acus.cloudflarest.link', 'xcao.top', 'cdn.lzcard.eu.org', 'www.0550cq.com', 'www.606977.com', 'nlsdwsz.66666654.xyz', 'yh6.dtku41.xyz', 'kk554.com', 'm.shengxuread.com', 'www.qf527.com', 'www.iios.me', 'www.lailai360.com', 'www.e0101.com', 'download.kinhdrive.com', 'www.cskji.com', 'www.zzgszg.com', 'hnxinlian.org', '8810868.com', 'www.summerpockets.com', 'www.yedu360.com', 'yx.887141.xyz', '6i5.com', 'shop.hostmonit.com', 'www.ravi.cool']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tuozhan22.com...
+Performing DNS lookup for www.cgfxw.com...
+Performing DNS lookup for www.yjeky.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
