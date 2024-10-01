@@ -2,22 +2,40 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jpvsavhyu.76898102.xyz
-Address: 172.67.70.190
-Name:	jpvsavhyu.76898102.xyz
-Address: 172.67.70.100
+Name:	www.lyzdzy.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xsfsp.com
-Address: 23.225.36.2
+Name:	www.xigua5.com
+Address: 64.32.14.141
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.biqune.com
-Address: 23.225.75.22
+www.tlbb888.com	canonical name = yt9995.c2.hycdn.xyz.
+yt9995.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.19.242.226
+Name:	dcs.jqddos.xyz
+Address: 104.27.196.34
+Name:	dcs.jqddos.xyz
+Address: 104.16.251.188
+Name:	dcs.jqddos.xyz
+Address: 104.19.241.171
+Name:	dcs.jqddos.xyz
+Address: 104.16.237.86
+Name:	dcs.jqddos.xyz
+Address: 104.16.34.95
+Name:	dcs.jqddos.xyz
+Address: 104.19.181.164
+Name:	dcs.jqddos.xyz
+Address: 104.25.218.0
+Name:	dcs.jqddos.xyz
+Address: 104.24.3.220
+Name:	dcs.jqddos.xyz
+Address: 104.18.107.33
 
