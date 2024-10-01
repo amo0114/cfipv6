@@ -2,16 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	www.urbandecay.co.kr
+Address: 172.67.209.188
+Name:	www.urbandecay.co.kr
+Address: 104.21.34.219
+Name:	www.urbandecay.co.kr
+Address: 2606:4700:3032::ac43:d1bc
+Name:	www.urbandecay.co.kr
+Address: 2606:4700:3034::6815:22db
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find didiyunhu.com: NXDOMAIN
+Non-authoritative answer:
+Name:	penglecheng.com
+Address: 134.122.184.247
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 1.namesilo123.top: NXDOMAIN
+** server can't find gsrcity2u.com: NXDOMAIN
 
