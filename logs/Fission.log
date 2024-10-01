@@ -1398,3 +1398,25 @@ Performing DNS lookup for cdn.cf.clun.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b614029] Update project files
+ 4 files changed, 57 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   b06867e..b614029  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.27.137...
+Fetching domains for 104.17.114.124...
+Fetching domains for 198.41.209.178...
+succeed to fetch domains for 104.17.114.124 from https://site.ip138.com/
+succeed to fetch domains for 104.17.27.137 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.209.178 from https://dnsdblookup.com/
+域名列表为
+['www.51jion.com', 'stock.hostmonit.com', 'www.51kgs.com', '8810868.com', 'wz.weishao2023.uk.eu.org', 'hk.tingfeng.shop', 'www.cbcv.cc', 'ios.jinniuddos.com', 'www.paizipai.top', 'www.7sc.cc', 'www.706i.com', 'speed.marisalnc.com', 'www.kunzedu.com', 'www.4gdiy.com', 'nlsdwsz.66666654.xyz', 'www.iios.club', 'www.tuozhan22.com', 'www.sztimi.com', 'f8yy.com', 'clouddown.xyz', 'www.6i5.com', 'www.zzztch.com', 'www.xxpg888.com', 'm.0550cq.com', 'www.soraneko.cn', 'www.ssclw.com', 'zmkan.top', 'www.pwcai.com', 'www.zzgszz.com', '4gdiy.com', 'wei333.com', 'www.yava.pw', 'www.googles.ltd', '2345ti.com', 'www.wxxzzs.com', 'www.sxyzxh.com', 'bwjjgl.com', 'www.scxdex.com', 'pay000.com', 'www.iios.me', 'cf-lt.sharecentre.online', 'www.sintingtoys.com', 'www.4148.net', 'www.tv9090.com', 'www.6988tv.com', 'www.dowelle.com', 'www.uu93.com', 'www.schmotion.com', 'www.10zhanpai.com', 'www.shukucn.com', '606977.com', 'www.chongxinpet.com', 'vcd.la', 'www.hengdawatch.com', 'www.0550cq.com', 'auto.ccccdn.tk', 'www.75uw.com', 'freeyx.cloudflare88.eu.org', 'www.ddwhm.com', 'suboji.com', 'www.lyzdzy.com', 'yundunwawablogcdn1dx.wawacm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tuozhan22.com...
+Performing DNS lookup for www.sintingtoys.com...
+Performing DNS lookup for www.wxxzzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -9,17 +9,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.sintingtoys.com
-Address: 65.108.205.61
+www.cgfxw.com	canonical name = js.qpas.eu.org.
+Name:	js.qpas.eu.org
+Address: 172.67.145.248
+Name:	js.qpas.eu.org
+Address: 104.21.55.82
+Name:	js.qpas.eu.org
+Address: 2606:4700:3037::6815:3752
+Name:	js.qpas.eu.org
+Address: 2606:4700:3031::ac43:91f8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.wxxzzs.com
-Address: 104.18.75.142
-Name:	www.wxxzzs.com
-Address: 104.18.109.224
-Name:	www.wxxzzs.com
-Address: 104.19.81.91
+Name:	www.yjeky.com
+Address: 154.219.142.235
 
