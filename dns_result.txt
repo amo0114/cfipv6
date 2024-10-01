@@ -2,24 +2,51 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.urbandecay.co.kr
-Address: 172.67.209.188
-Name:	www.urbandecay.co.kr
-Address: 104.21.34.219
-Name:	www.urbandecay.co.kr
-Address: 2606:4700:3032::ac43:d1bc
-Name:	www.urbandecay.co.kr
-Address: 2606:4700:3034::6815:22db
+www.iios.me	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	penglecheng.com
-Address: 134.122.184.247
+www.cx888my.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find gsrcity2u.com: NXDOMAIN
+Non-authoritative answer:
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:1e::4147:118
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:1a::b7e:450b
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3028::1ea2:7ceb
 
