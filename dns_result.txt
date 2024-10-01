@@ -2,40 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 162.209.149.30
+Name:	www2011india.com
+Address: 156.224.24.108
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xigua5.com
-Address: 64.32.14.141
+www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 104.21.53.57
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 172.67.209.38
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:3539
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:d126
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tlbb888.com	canonical name = yt9995.c2.hycdn.xyz.
-yt9995.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.19.242.226
-Name:	dcs.jqddos.xyz
-Address: 104.27.196.34
-Name:	dcs.jqddos.xyz
-Address: 104.16.251.188
-Name:	dcs.jqddos.xyz
-Address: 104.19.241.171
-Name:	dcs.jqddos.xyz
-Address: 104.16.237.86
-Name:	dcs.jqddos.xyz
-Address: 104.16.34.95
-Name:	dcs.jqddos.xyz
-Address: 104.19.181.164
-Name:	dcs.jqddos.xyz
-Address: 104.25.218.0
-Name:	dcs.jqddos.xyz
-Address: 104.24.3.220
-Name:	dcs.jqddos.xyz
-Address: 104.18.107.33
+www.sp6080.com	canonical name = www.tuoniaoyy.com.cdn.cloudflare.net.
+Name:	www.tuoniaoyy.com.cdn.cloudflare.net
+Address: 104.21.29.137
+Name:	www.tuoniaoyy.com.cdn.cloudflare.net
+Address: 172.67.149.57
+Name:	www.tuoniaoyy.com.cdn.cloudflare.net
+Address: 2606:4700:3030::ac43:9539
+Name:	www.tuoniaoyy.com.cdn.cloudflare.net
+Address: 2606:4700:3034::6815:1d89
 
