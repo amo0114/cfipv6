@@ -1576,3 +1576,25 @@ Performing DNS lookup for www.6988tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ae0f8d7] Update project files
+ 4 files changed, 73 insertions(+), 67 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   3a05749..ae0f8d7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.2.40...
+Fetching domains for 172.67.146.23...
+Fetching domains for 104.21.239.171...
+succeed to fetch domains for 172.67.146.23 from https://site.ip138.com/
+succeed to fetch domains for 104.18.2.40 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.239.171 from https://ipchaxun.com/
+域名列表为
+['www.bjfqmj.com', 'haiwaishubao.com', 'a789xs.com', 'www.jygelec.com', 'www.cbcv.cc', 'xn22.cc', 'www.zhongyunyang.com', 'www.4148.net', 'm.tcfpnxzkjvk.cc', 'www.haiwaishubao.com', '604425.com', 'www.labcompare.com', 'm.0550cq.com', 'ub888.com', 'www.bdeapp.vip', 'b1s77.com', 'duesseldorf-tourismus.de', 'hub.gitmirror.com', 'ipdb.app.tc', 'www.bb33pp.com', 'www.hxsy888.com', 'jiuse9102.com', 'www.yp5brq.jiuse9102.com', 'herbalyzer.com', 'lubaoshuini.com', 'www.brandwatch.com', 'www.lvhuisb.com', 'www.gxchangchun.cn', 'www.osmeyduu.cn', 'www.szxjsj.com', 'www.qq78.net', 'www.xbdwzhs.com', 'www.yiqianhg.com', 'www.czcdc.com', 'www.wn01.cc', 'www.imeiju.net', 'www.suno.ai', 'ggmap01.bosim.top', 'www.663dy.com', 'www.a789z.com', 'www.tinghen.com', 'www.22xxf.com', 'www.boxiu.tv', 'www.se0659.com', 'www.yiyunfaka.com', 'gb.jiuse9102.com', 'a789z.com', 'www.mqvisa.com', 'www.570ch.com', 'www.a789xs.com', 'www.srlla.com', 'www.0550cq.com', 'www.9054hu.com', 'a.xueren.tv', 'www.ddwhm.com', 'scqianlian.com', 'iios.club', 'cf-lt.sharecentre.online', 'labcompare.com', 'www.99wx.cc', 'kissmovies.net', 'www.paizipai.top', 'www.630qq.com', 'brandonsanderson.com', 'ydxd76.jiuse9102.com', 'www.scqianlian.com', 'suno.ai', 'www.cdjyhm.com', 'www.234lia.com', 'guochan.jiuse9102.com', 'b56lp4d26tje.xyz', 'wxwxwx01.com', 'www.789kp.com', '570ch.com', '234lia.com', 'www.11txt.com', 'mf1.135105.xyz', 'www.tv9090.com', 'se0659.com', 'www.jsdrtzn.com', 'www.xinpian8.com', 'jincp3.com', 'kkyx.yydsii.com', 'www.b1s77.com', 'www.31maogf.com', 'www.17kty.com', 'www.333nnq.com', 'bb33pp.com', 'www.6i5.com', 'www.baokanwang.com', 'speed.marisalnc.com', 'www.hosemicon.com', '31maogf.com', '9054hu.com', 'www.tpyyc.com', 'acnezine.herbalyzer.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.75yy.net', '999696.xyz', 'v11av1237.xyz', 'baxtc.66666654.xyz', 'avdy.cn', '3345na.com', 'www.szaitai.com', 'www.biqune.com', '8849tk.cc', 'pan.axxpan.com', 'www.295k.com', 'raw.gitmirror.com', '50nr.com', 'www.dafuhao.com', 'www.3345na.com', '22xxf.com', 'www.266958.com', 'www.cocanwelding.com', 'www.web120.org', 'www.gzcfmy.com', 'blog.hostmonit.com', '630qq.com', 'www.gzgafk.com', 'www.jiuse9102.com', 'm.6i5.com', 'www.3dck.com', '6662c.com', 'www.herbalyzer.com', 'www.virrobot.com', 'www.5123mu.com', '333nnq.com', 'www.q2042.com', 'cf.zmdhc.com', 'admin.bdeapp.vip', 'giantsnakehr.cn', 'www.avdy.cn', 'www.jingshuai888.com', 'www.symqm.cc', 'm.jingshuai888.com', '100tv23.xyz', 'm.8vdy.com', 'www.cakee.mobi']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xinpian8.com...
+Performing DNS lookup for www.5123mu.com...
+Performing DNS lookup for 570ch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
