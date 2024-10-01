@@ -1489,3 +1489,25 @@ Performing DNS lookup for www.tlbb888.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9db5a01] Update project files
+ 4 files changed, 67 insertions(+), 59 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   28c5de5..9db5a01  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.64.170.202...
+Fetching domains for 104.17.248.1...
+Fetching domains for 104.27.194.221...
+succeed to fetch domains for 104.17.248.1 from https://site.ip138.com/
+succeed to fetch domains for 104.27.194.221 from https://ipchaxun.com/
+succeed to fetch domains for 172.64.170.202 from https://ipchaxun.com/
+域名列表为
+['www.iios.club', 'www.88wwk.com', 'www.zzztch.com', 'hanjudui.com', 'www.sy790.com', 'www.9889my.com', 'app.ios2023.top', 'www.182qw.com', 'mutefun.com', 'www.6xr.com', 'www.7749tv.com', 'picacgo.cn', 'www.www2011india.com', 'www.tvyb02.com', 'www.wbei666.com', 'www.717zfsf.com', 'cg.22yy7.com', 'yx.887141.xyz', 'www.20zn.com', 'www.wangzaitl.com', 'www.pk299.com', 'www.9415sf.com', 'www.rxjh520.cc', 'www.appuq.com', 'www.nsisfans.com', 'baxtc.66666654.xyz', 'www.ikantv.net', '511my.com', 'www.99qhmy.com', 'www.jxss688.com', 'www.fengyun180.cn', 'my270.xyz', 'www.zxc999.cn', 'm.niuerzs.com', 'www.7lq.com', '666tv.org', 'hvg1jfxup43lan2zbyok.sdfmnbvcoxz.top', 'www.jgtm998.com', 'www.5699my.cn', 'm.6988tv.com', 'jpvsavhyu.76898102.xyz', 'www.iios.me', 'www.0550cq.com', 'www.sy5151.com', 'www.huashubao.org', 'www.511mj.com', 'www.666tv.org', 'yundunwawablogcdn1dx.wawacm.com', 'www.58zztl.xyz', 'nlsdwsz.66666654.xyz', 'www.niuniuidc.com', 'www2011india.com', 'www.kanju8.com', 'www.sp6080.com', 'www.ggtl.xyz', 'www.11txt.com', 'www.92mili.com', 'www.898my.vip', 'www.yh9pk.com', 'www.zdqx.com', 'www.luwangyangrong.com', 'www.91m.cc', 'sy5151.com', 'www.gx6080.com', 'www.51uuoo.com', '512yyds.com', 'www.gxg-cn.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.4148.net', 'www.dyzj18.com', '91dajin.com', 'www.szphfy.com', 'www.apex521.com', 'www.zhsq666.com', 'www.77moyu.com', 'www.xwjpack.com', 'm.letu9.com', 'wap.luwangyangrong.com', 'www.tv9090.com', 'www.75uw.com', 'www.paizipai.top', 'ikantv.net', 'www.metinjf.com', 'wysfw.com', '77wg.vip', 'www.jj9cq.com', 'www.9805tl.xyz', 'www.579my.com', 'www.tinghen.com', 'www.0789pk.com', 'www.c333.net', 'www.91dajin.com', 'www.cocanwelding.com', 'www.511my.com', 'www.cfhuagong.com', 'www.16888cs.cn', 'www.ymcq176.com', 'www.77wg.vip', 'www.0808my.com', 'www.lyys8.com', 'www.ddwhm.com', 'www.qumiyun.com', 'www.512yyds.com', 'www.cqguxiang.com', 'www.xsgkfq.com', 'www.6i5.com', 'www.307q.com', 'm.sxu3.com', 'www.picacgo.cn', 'www.kbss888.com', 'www.116mh.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www2011india.com...
+Performing DNS lookup for www.6i5.com...
+Performing DNS lookup for www.sp6080.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

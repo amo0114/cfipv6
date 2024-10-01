@@ -2,34 +2,16 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www2011india.com
-Address: 156.224.24.108
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 104.21.53.57
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 172.67.209.38
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:3539
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:d126
+** server can't find didiyunhu.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.sp6080.com	canonical name = www.tuoniaoyy.com.cdn.cloudflare.net.
-Name:	www.tuoniaoyy.com.cdn.cloudflare.net
-Address: 104.21.29.137
-Name:	www.tuoniaoyy.com.cdn.cloudflare.net
-Address: 172.67.149.57
-Name:	www.tuoniaoyy.com.cdn.cloudflare.net
-Address: 2606:4700:3030::ac43:9539
-Name:	www.tuoniaoyy.com.cdn.cloudflare.net
-Address: 2606:4700:3034::6815:1d89
+** server can't find 1.namesilo123.top: NXDOMAIN
 
