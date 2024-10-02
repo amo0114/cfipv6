@@ -1,19 +1,22 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find m.myxigua.cc: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
 Non-authoritative answer:
-Name:	www.gdriustb.com
+Name:	www.zzztch.com
 Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jpvsavhyu.76898102.xyz
-Address: 172.67.70.104
+Name:	www.kuaikan66.com
+Address: 162.210.196.168
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+m.niuerzs.com	canonical name = www.jdzjq.cn.
+Name:	www.jdzjq.cn
+Address: 172.232.112.221
 
