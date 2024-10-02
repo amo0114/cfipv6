@@ -1641,3 +1641,25 @@ Performing DNS lookup for hanmanzj.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c27ddcc] Update project files
+ 4 files changed, 59 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   79f44f6..c27ddcc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.2.175...
+Fetching domains for 104.21.1.27...
+Fetching domains for 104.20.57.201...
+succeed to fetch domains for 104.20.57.201 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.2.175 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.1.27 from https://ipchaxun.com/
+域名列表为
+['www.f2app.com', 'www.2a6ba.com', 'accutechbio.com', 'bbs.1vlqg.com', 'tskj.vip', 'ledong99.tv', '68dj8.com', 'porhub.online', 'copart-mall.com', 'www.zmxx99.com', '8mei36.xyz', 'www.igc-network.com', 'www.8mei36.xyz', '8n8n.com', 'www.fkboiler.com', 'www.sxhlwp.cn', '69av7335.cc', 'd80c4d.zgjyeitq.news', 'www.cnhb.org', 'sg.sglan.asia', '2a6ba.com', '8cm0gjzy.top', 'zpix.tv', 'gamana.lk', 'morning-bar-7434.doubia.workers.dev', 'ali.85kj.com', 'www.yncareer.com', 'topporni.com', 'h5.ledong99.tv', 'www.lalamvf.cn', 'myehk.com', 'uoydb44.fun', 'philology.by', '3g.wcapsz.top', 'www.lai750.com', 'yibige.cc', 'www.68dj8.com', '26v6.com', 'wxbao6.com', 'img169.com', 'pwxxx.site', 'm.elvaneedham.top', 'xx33pp.com', '118111222.com', 'wap.wnag009.top', 'www.accutechbio.com', 'vidspeeds.com', 'k66.es', 'www.nanayd.cc', 'www.pwxxx.site', 'elvaneedham.top', 'www.kronos.net.cn', '8mav.8mei36.xyz', 'azaz9.com', 'www.kvoksd.top', 'www.yibige.cc', '8ef.zgjyeitq.news', 'physics1024.tk', 'wzsxm.tk', 'm.kvoksd.top', '123.cloudns.org', '9999103.com', 'zmxx99.com', 'www.45zw.org', 'spark.bg', '5555dyy.com', 'www.epwadynk.cc', 'cwzogcp.cn', 'blog.myue.nl', 'www.myehk.com', 'ww842.com', 'www.26v6.com', 'f0.zgjyeitq.news', 'wp.myue.nl', 'www.gamana.lk', '100801.tsn848.com', '696737m.com', 'sea.zgjyeitq.news', 'xvideoporno.blog', 'm.wnag009.top', '89f01.zgjyeitq.news', 'www.caoxinlddts.com', 'lai750.com', 'f2app.com', '8ywn8gg.fmlethe.com', 'thep619.cc', 'www.qddeao.com', 'degaullepool.com', '1.sglan.asia', 'ha018.com', 'm.yibige.cc', 'm.cnhb.org', 'cnhb.org', 'www.beiduoye.com', '48k7.us', 'suyuangc.com', 'kronos.net.cn', '0c1.zgjyeitq.news', '12voltiosdigital.com', '7847b.com', 'chat.12138996.xyz', 'www.fsnvh.cn', 'chat.js0.cc', 'www.8935562.com', '10uutiipp.life', 'www.xx33pp.com', 'marjisgarden.com', 'www.8n8n.com', 'kk.zyams.top', 'www.ytyishu.com', 'www.9999103.com', 'kvoksd.top', 'www.zfumao.com', 'tv12.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ha018.com...
+Performing DNS lookup for www.8n8n.com...
+Performing DNS lookup for 1.sglan.asia...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

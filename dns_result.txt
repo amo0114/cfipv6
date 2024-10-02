@@ -2,30 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ha018.com
-Address: 172.67.129.130
-Name:	ha018.com
-Address: 104.21.2.175
-Name:	ha018.com
-Address: 2606:4700:3034::ac43:8182
-Name:	ha018.com
-Address: 2606:4700:3030::6815:2af
+www.iios.me	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.8n8n.com
-Address: 172.67.129.130
-Name:	www.8n8n.com
-Address: 104.21.2.175
-Name:	www.8n8n.com
-Address: 2606:4700:3030::6815:2af
-Name:	www.8n8n.com
-Address: 2606:4700:3034::ac43:8182
+Name:	www.kan234.com
+Address: 172.67.211.76
+Name:	www.kan234.com
+Address: 104.21.23.133
+Name:	www.kan234.com
+Address: 2606:4700:3036::6815:1785
+Name:	www.kan234.com
+Address: 2606:4700:3031::ac43:d34c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 1.sglan.asia: NXDOMAIN
+** server can't find www.awanmy.com: NXDOMAIN
 
