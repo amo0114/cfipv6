@@ -1598,3 +1598,25 @@ Performing DNS lookup for 570ch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9ab1328] Update project files
+ 4 files changed, 52 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   ae0f8d7..9ab1328  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.64.34.199...
+Fetching domains for 104.21.22.8...
+Fetching domains for 104.21.239.171...
+succeed to fetch domains for 172.64.34.199 from https://site.ip138.com/
+succeed to fetch domains for 104.21.239.171 from https://site.ip138.com/
+succeed to fetch domains for 104.21.22.8 from https://dnsdblookup.com/
+域名列表为
+['bullshit.agency', 'www.99wx.cc', 'www.whxfznmc.com', 'wmtzd.com', 'open.wkin.cn', 'www.295k.com', 'jjhwjs.com', 'wap.35hr6.top', '08fq.cn', 'wkin.cn', 'vbwuqrvk.xyz', 'www.avaq.com', 'cfip.xxxxxxxx.tk', 'www.35hr6.top', 'forum.hardwarebase.net', 'www.wn01.cc', 'www.ws151.cn', 'wxwxwx01.com', 'm.8vdy.com', 'npk7w4y6.memuzaodai.cc', 'www.kunzedu.com', 'mirror.bullshit.agency', 'www.whpaiger.com', 'ozgurgelecek3.net', 'imadpuntomosaico.it', 'www.663dy.com', 'm.35hr6.top', 'lyzdzy.com', 'javtrex.com', 'www.wmtzd.com', 'www.huayouhuagong.com', 'lemovies.net', 'www.789kp.com', 'www.malianmlu.info', 'hjd34b.com', 'www.597pu36.com', 'arm.wkin.cn', 'www.guorenbaoqianbao.com', 'tvke1vbq.top', 'dm-918kiss.com', 'www.diandongdashi.com', 'www.q2042.com', 'job581.com', 'www.vbwuqrvk.xyz', 'macaujc55.com', 'lzlgny.com', 'avlulu512.xyz', 'www.tpyyc.com', 'ads-game-api.daozhai.online', 'yunchukong.com', 'masterflac.com', 'avaq.com', 'www.xbdwzhs.com', 'bb769.com', 'www.cocanwelding.com', 'www.lzlgny.com', 'www.cfhuagong.com', 'www.ikantv.net', 'www.boxiu.tv', '49wang.com', '91p1050.cc', 'zhaiwan.wang', 'www.goldmindaiub.com', 'api.daozhai.online', 'www.jdzjhyh.com', 'www.whwqz.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.diandongdashi.com...
+Performing DNS lookup for m.8vdy.com...
+Performing DNS lookup for www.jdzjhyh.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
