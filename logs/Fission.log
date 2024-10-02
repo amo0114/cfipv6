@@ -1751,3 +1751,24 @@ Performing DNS lookup for jpvsavhyu.76898102.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bbcd72b] Update project files
+ 4 files changed, 38 insertions(+), 12 deletions(-)
+To github.com:amo0114/cfipv6.git
+   086fbac..bbcd72b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.215.228...
+Fetching domains for 104.21.213.142...
+Fetching domains for 104.21.231.235...
+succeed to fetch domains for 104.21.231.235 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.213.142 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.215.228 from https://ipchaxun.com/
+域名列表为
+['www.kanju8.com', 'www.dapian1234.com', 'www.k77yy.com', 'achk.cloudflarest.link', 'www.720pmp4.com', 'www.dy420.com', 'www.bkmanhuas.com', 'nlsdwsz.66666654.xyz', '28et.com', 'm.niuerzs.com', 'www.dy1255.com', 'www.zdqx.com', 'www.wuhuyh.net', 'cdn.freecdn.free.hr', 'www.manhuadb.com', 'www.88wwk.com', 'luwangyangrong.com', 'www.m6y6.com', 'www.zpdyw.com', 'www.zzztch.com', 'www.tpyyc.com', 'www.id9yy.com', 'www.sf52l.com', '663dy.com', 'www.cocanwelding.com', 'www.881dy.com', 'www.sec2.com', 'www.80yy.org', 'www.lyys8.com', 'www.cfhuagong.com', 'www.kuaikan66.com', 'www.k77kk.cc', 'man.luwangyangrong.com', 'www.888dyy.cc', 'www.yncareer.com', 'www.luwangyangrong.com', 'www.7749tv.com', 'www.meijukan.com', 'www.lyzdzy.com', 'www.295k.com', 'www.shenlong76.com', 'www.zzkdhb.com', 'www.7749tv.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.kuaikan66.com...
+Performing DNS lookup for m.niuerzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
