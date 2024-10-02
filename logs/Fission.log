@@ -1685,3 +1685,25 @@ Performing DNS lookup for www.awanmy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cc5fa4e] Update project files
+ 4 files changed, 62 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   4830004..cc5fa4e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.78.213...
+Fetching domains for 172.64.80.26...
+Fetching domains for 104.22.60.227...
+succeed to fetch domains for 104.22.78.213 from https://dnsdblookup.com/
+succeed to fetch domains for 172.64.80.26 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.60.227 from https://ipchaxun.com/
+域名列表为
+['www.66se14.com', 'www.666tv.org', 'www.zongcaidarentilihaoya.com', 'yjyfdc.com', 'btbdys.com', 'www.0550cq.com', 'www.11txt.com', 'yh.yjyfdc.com', 'zi0.cc', 'www.iios.club', 'www.6i5.com', 'cfhuagong.com', 'www.manhuadb.com', 'www.qbxsb.com', 'www.7749tv.com', 'www.77kp.com', 'www.pk299.com', 'sgv7.com', '663dy.com', 'www.sxyzxh.com', 'www.3dckck.com', '77kp.com', 'www.gmmpic.com', 'www.yy4080dy.com', '789kp.com', 'www.paizipai.top', 'www.ugome.com', 'donnamoderna.com', 'www.789kp.com', 'www.dy1255.com', 'www.295k.com', '0550cq.com', 'www.tl123123.com', 'mp3m.ysxs.top', 'www.74ms.com', '91dajin.com', 'www.4148.net', 'cdn.didi8.com', 'www.tv9090.com', 'jcbdfyy-cn.cfcdn.cc', 'www.w23us.com', 'www.630book.com', 'www.appuq.com', 'stock.hostmonit.com', 'www.huashubao.org', 'www.down28.cn', 'www.thesimsresource.com', 'www.smdyy.cc', 'www.xinpian8.com', 'yh.fgmjm.com', 'www.91m.cc', 'www.donnamoderna.com', 'i.duaixs.com', 'www.315kc.com', 'yumiaowang.cn', 'www.yh9pk.com', 'www.luwangyangrong.com', 'kxgdyw.com', 'm.77kp.com', 'www.shecnudec.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.pk299.com...
+Performing DNS lookup for www.appuq.com...
+Performing DNS lookup for www.huashubao.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
