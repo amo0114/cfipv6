@@ -1663,3 +1663,25 @@ Performing DNS lookup for 1.sglan.asia...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4830004] Update project files
+ 4 files changed, 65 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   c27ddcc..4830004  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.168.121...
+Fetching domains for 104.17.21.253...
+Fetching domains for 104.17.19.59...
+succeed to fetch domains for 104.17.21.253 from https://site.ip138.com/
+succeed to fetch domains for 104.17.168.121 from https://site.ip138.com/
+succeed to fetch domains for 104.17.19.59 from https://ipchaxun.com/
+域名列表为
+['www.gzh444.com', 'hndhgxcredit.com', 'www.iios.me', 'www.kan234.com', 'tv.ci', 'www.awanmy.com', 'www.piaotian.org', 'www.iios.club', 'www.ddwhm.com', 'www.btbdys.com', 'www.hhyy028.com', 'answers.webmd.com', 'www.xchick.cloud', 'www.zongcaixs.cc', 'www.daomubiji.cc', 'www.yh9pk.com', '789kp.com', 'index1.xxm3u8.top', 'www.gdriustb.com', 'www.whpaiger.com', 'www.zgwangzhan.com', 'www.xinjuc.com', '300cha.com', 'www.cx888my.com', 'www.kbss888.com', 'www.yanshan33.com', 'www.pk299.com', 'www.kunzedu.com', 'www.pk8888.top', 'www.tlbb888.com', 'www.cfhuagong.com', 'www.77zw.cc', 'www.300cha.com', 'pan.axxpan.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.me...
+Performing DNS lookup for www.kan234.com...
+Performing DNS lookup for www.awanmy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
