@@ -1707,3 +1707,25 @@ Performing DNS lookup for www.huashubao.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a198ff4] Update project files
+ 4 files changed, 66 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   cc5fa4e..a198ff4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.108.21...
+Fetching domains for 104.24.172.241...
+Fetching domains for 104.27.120.243...
+succeed to fetch domains for 104.24.172.241 from https://dnsdblookup.com/
+succeed to fetch domains for 104.27.120.243 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.108.21 from https://ipchaxun.com/
+域名列表为
+['87tvju.com', 'www.7749tv.com', 'www.yncareer.com', 'www.7749tv.cc', 'www.k77yy.com', 'www.24xunlei.com', 'www.sp6080.cc', 'www.sf123.mobi', 'dsxys.com', 'www.kanju8.com', 'www.mm5517.com', 'www.28et.com', 'www.sec2.com', '17ttx.com', 'www.888dyy.cc', 'www.yy4080dy.com', 'www.991kan.com', 'www.dy420.com', 'www.881dy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.888dyy.cc...
+Performing DNS lookup for 17ttx.com...
+Performing DNS lookup for dsxys.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
