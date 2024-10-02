@@ -1772,3 +1772,24 @@ Performing DNS lookup for m.niuerzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7903202] Update project files
+ 4 files changed, 44 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   bbcd72b..7903202  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.115.120...
+Fetching domains for 172.67.116.230...
+Fetching domains for 172.67.111.245...
+succeed to fetch domains for 172.67.111.245 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.116.230 from https://site.ip138.com/
+succeed to fetch domains for 172.67.115.120 from https://ipchaxun.com/
+域名列表为
+['m.shuzw.com', 'www.80yy.org', 'www.66se25.com', 'www.hnxinlian.org', 'www.991kan.com', 'panel3.touhou.tel', 'www.92mili.com', 'www.dy420.com', 'www.paizipai.top', 'www.1717tv.com', 'www.d8kj.com', 'cf-lt.sharecentre.online', 'www.3dckck.com', 'newapi.k908.top', 'www.asmrgay.com', 'www.rrdytt.com', 'www.lzhdsn.com', 'www.6988tv.com', 'www.dgytlt.com', 'www.tv9090.com', 'www.7sc.cc', 'www.295k.com', 'www.881dy.com', 'www.c333.net', 'www.50zw.co', 'm.0550cq.com', 'www.hxsy888.com', 'www.jsdrtzn.com', 'm.zhiqihuo.cc', 'www.meifuchem.com', '0550cq.com', 'speed.marisalnc.com', 'www.biinn.com', 'www.33mov.com', 'www.hosemicon.com', 'dl.playxf.top', 'www.tuozhan021.com', 'www.lanyucy.com', 'stock.hostmonit.com', 'www.tvccc.org', '66se.tv', 'www.17kty.com', 'www.sxyzxh.com', 'usshsaba.114514782.xyz', 'asmrfs.top', 'www.888dyy.cc', 'testtikb.bnxb.cf', 'm.17800.net', 'www.jjtyss.com', 'www.k77yy.com', 'www.90dushu.com', 'www.266958.com', 'www.cbcv.cc', 'www.boyangjt.com', 'www.tinghen.com', 'www.630book.com', 'www.hanmatv.com', 'www.tv4.cc', 'www.szxjsj.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.28dushu.com', 'www.x52bq.com', 'www.gzcfmy.com', 'www.whpaiger.com', 'www.0550cq.com', 'www.ycppwh.org', 'www.6i5.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.17800.net...
+Performing DNS lookup for www.x52bq.com...
+Performing DNS lookup for 0550cq.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
