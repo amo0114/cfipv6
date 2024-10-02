@@ -2,31 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-sgaa.sectigo.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global23.66666654.xyz.
-Name:	cfcn-a-global23.66666654.xyz
-Address: 172.67.70.75
+Name:	ha018.com
+Address: 172.67.129.130
+Name:	ha018.com
+Address: 104.21.2.175
+Name:	ha018.com
+Address: 2606:4700:3034::ac43:8182
+Name:	ha018.com
+Address: 2606:4700:3030::6815:2af
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	suno.ai
-Address: 172.67.37.86
-Name:	suno.ai
-Address: 104.22.43.134
-Name:	suno.ai
-Address: 104.22.42.134
-Name:	suno.ai
-Address: 2606:4700:10::6816:2a86
-Name:	suno.ai
-Address: 2606:4700:10::6816:2b86
-Name:	suno.ai
-Address: 2606:4700:10::ac43:2556
+Name:	www.8n8n.com
+Address: 172.67.129.130
+Name:	www.8n8n.com
+Address: 104.21.2.175
+Name:	www.8n8n.com
+Address: 2606:4700:3030::6815:2af
+Name:	www.8n8n.com
+Address: 2606:4700:3034::ac43:8182
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find hanmanzj.top: NXDOMAIN
+** server can't find 1.sglan.asia: NXDOMAIN
 
