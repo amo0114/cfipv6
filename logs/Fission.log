@@ -1862,3 +1862,25 @@ Performing DNS lookup for www.c333.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0a6d1c3] Update project files
+ 4 files changed, 51 insertions(+), 57 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   deb0862..0a6d1c3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.118.88...
+Fetching domains for 104.20.159.89...
+Fetching domains for 104.21.96.75...
+succeed to fetch domains for 104.20.118.88 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.159.89 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.96.75 from https://site.ip138.com/
+域名列表为
+['www.igxedrop.cn', 'mimiwangzhan.com', 'ii434.com', 'www.trustcb.com', 'www.luwangyangrong.com', 'a.liujack.sbs', 'www.xwjhd.com', 'v.saohuo.la', 'yg058.com', '6soccer.com', '36maoeb.com', 'zzgryl.com', 'amchamchile.cl', 'v7.hostcli.com', 'armantahvieh.com', 'www.sf123.mobi', 'gg1006g.cc', 'm.u7z4fca.top', 'www.a234kf.com', 'hostcli.com', 'ptshra85h1e.top', 'dsxys.com', 'www.hostcli.com', 'www.xbhuijia69.life', '111222bk.com', 'www.ohrid.gov.mk', 'esjzone.net', 'www.gavbus10.com', 'zhongguohongjin.com', 'd4.com', 'www.6soccer.com', 'www.55xxhh.com', 'www.js0100.com', 'apicf.dpz181.xyz', 'wpdrtlmyzmaaetec.com', 'www.kunzedu.com', '55xxhh.com', 'www.shgongjia.com', 'smtt.xyz', 'wt.tepis.me', 'www.50maoxx.com', 'cloud.free1999.cc', 'xwjhd.com', '828saohu.com', 'iydrnhfbdx.com', 'wap.u7z4fca.top', 'we-ha.com', 'www.d4.com', 'www.36maoeb.com', 'xz002.org', 'tianyabook.com', 'www.hlbesjsgcjczx.com', 'www.mimiwangzhan.com', 'nmsp191.com', 'trustcb.com', 'www.esjzone.net', 'cow-token.com', '3g.u7z4fca.top', '50maoxx.com', 'gayrelax.com', 'www.hlfuliyes.buzz', 'www.18comic-gura.vip', 'xn--8mrx6wxwv3xo.xyz', 'www.u7z4fca.top', 'chatg.io', '18comic-gura.vip', 'maiyatuan.cn', 'download.hostcli.com', 'familycock.com', 'zardyang.xyz', 'aa789a.com', 'www.61xe.cn', '8mei464.xyz', 'www.familycock.com', 'flameslots.net', '3g.beghhp.top', 'miaoyedesign.com', 'wjysds.com', 'catchthemes.com', 'a234kf.com', 'u7z4fca.top', 'www.zardyang.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for zardyang.xyz...
+Performing DNS lookup for www.igxedrop.cn...
+Performing DNS lookup for www.mimiwangzhan.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

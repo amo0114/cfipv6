@@ -1,23 +1,32 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find zardyang.xyz: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.igxedrop.cn: NXDOMAIN
+Non-authoritative answer:
+pltv2.2cf.x10.mx	canonical name = cdn.199066.xyz.
+cdn.199066.xyz	canonical name = www.visa.com.hk.
+www.visa.com.hk	canonical name = www.visa.com.hk.cdn.cloudflare.net.
+Name:	www.visa.com.hk.cdn.cloudflare.net
+Address: 104.18.21.69
+Name:	www.visa.com.hk.cdn.cloudflare.net
+Address: 104.18.20.69
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.mimiwangzhan.com
-Address: 104.21.96.75
-Name:	www.mimiwangzhan.com
-Address: 172.67.174.71
-Name:	www.mimiwangzhan.com
-Address: 2606:4700:3034::ac43:ae47
-Name:	www.mimiwangzhan.com
-Address: 2606:4700:3036::6815:604b
+www.qp666.com	canonical name = dvd.qpbbq.com.
+dvd.qpbbq.com	canonical name = bcname.mgrm044.cc.
+Name:	bcname.mgrm044.cc
+Address: 43.198.32.139
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.606977.com
+Address: 172.232.25.148
+Name:	www.606977.com
+Address: 172.232.31.180
+Name:	www.606977.com
+Address: 172.232.4.213
 
