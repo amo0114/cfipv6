@@ -1,20 +1,43 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.66tl.com: NXDOMAIN
+Non-authoritative answer:
+92mili.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	pictureslook.com
-Address: 67.21.89.53
+www.szxjsj.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.63.186
+Name:	cf.zmdhc.com
+Address: 172.67.179.143
+Name:	cf.zmdhc.com
+Address: 172.67.49.121
+Name:	cf.zmdhc.com
+Address: 172.67.78.134
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qilishusong.cn	canonical name = www.jdzjq.cn.
-Name:	www.jdzjq.cn
-Address: 172.232.112.221
+www.c333.net	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 

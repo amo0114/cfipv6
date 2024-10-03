@@ -1820,3 +1820,24 @@ Performing DNS lookup for fnyyw.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ab7b1d9] Update project files
+ 4 files changed, 41 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   5a1fdcb..ab7b1d9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.76.23...
+Fetching domains for 104.20.80.74...
+Fetching domains for 104.20.99.183...
+succeed to fetch domains for 104.20.76.23 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.80.74 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.99.183 from https://ipchaxun.com/
+域名列表为
+['qiandu567.com', 't141.cc', 'www.qilishusong.cn', 'agrow.agribusinessintelligence.informa.com', 'www.cocanwelding.com', 'www.nba01.com', 'syshuangxing.com', 'm.y3600.cz', 'www.66tl.com', 'pink.pharmaintelligence.informa.com', 'scrip.pharmaintelligence.informa.com', 'lloydslist.maritimeintelligence.informa.com', 'www.630book.com', 'www.obama.org', 'pictureslook.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.66tl.com...
+Performing DNS lookup for pictureslook.com...
+Performing DNS lookup for www.qilishusong.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
