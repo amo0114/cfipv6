@@ -1,21 +1,20 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.1a1v.com
-Address: 45.58.161.171
+** server can't find www.66tl.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	pictureslook.com
+Address: 67.21.89.53
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	fnyyw.net
-Address: 162.209.175.122
+www.qilishusong.cn	canonical name = www.jdzjq.cn.
+Name:	www.jdzjq.cn
+Address: 172.232.112.221
 
