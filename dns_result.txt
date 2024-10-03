@@ -1,17 +1,35 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 991tl.xyz: NXDOMAIN
+Non-authoritative answer:
+www.b7yy.cc	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.28et.com
-Address: 66.29.136.78
+m.zhiqihuo.cc	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
 
-Server:		8.8.4.4
-Address:	8.8.4.4#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find vip.30my.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	www.huanyaad.com
+Address: 107.167.27.82
 

@@ -1928,3 +1928,25 @@ Performing DNS lookup for 28et.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5ca3abb] Update project files
+ 4 files changed, 47 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   b34a1a2..5ca3abb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.195.58...
+Fetching domains for 104.21.204.37...
+Fetching domains for 172.64.175.14...
+succeed to fetch domains for 104.21.195.58 from https://site.ip138.com/
+succeed to fetch domains for 172.64.175.14 from https://site.ip138.com/
+succeed to fetch domains for 104.21.204.37 from https://ipchaxun.com/
+域名列表为
+['www.xinpian8.com', 'www.511my.com', 'mini.dianshizb.com', 'taoismhome.com', 'zpdyw.com', 'www.ldssz.com', 'www.xworldadmin.com', 'www.77wg.vip', 'jhpcza.66666654.xyz', 'yx.887141.xyz', 'blog.hostmonit.com', 'pt.btschool.club', 'www.hm11.lol', 'vip.30my.xyz', 'frbb.geotrust.pp.ua', 'cloudflare.cfgo.cc', 'www.mutefun.tv', 'www.nba01.com', 'www.sy5151.com', 'ddwhm.com', 'deaa.geotrust.pp.ua', 'www.75uw.com', '91dajin.com', 'www.dafuhao.com', 'wap.luwangyangrong.com', 'www.ccinet.com.cn', 'www.tbib.org', 'picacgo.cn', 'cf.krkr.vip', 'www.zxc999.cn', 'mutefun.com', 'www.ydkj088.com', 'www.0808my.com', 'speed.marisalnc.com', 'www.93xscc.com', 'yh6.dtku41.xyz', 'baxtc.66666654.xyz', 'www.ikantv.net', 'www.50zw.co', 'www.11txt.com', 'www.summerpockets.com', 'mangasee123.com', 'www.28et.com', 'hj4203f.top', 'www.sy790.com', 'www.c333.net', 'www.182qw.com', 'www.4148.net', 'daft.sex', '12.namesilo123.top', 'nlsdwsz.66666654.xyz', 'www.htpcwjn.com', 'www.down28.cn', 'www.ddwhm.com', 'www.apex521.com', 'www.92mili.com', 'www.gxg-cn.com', 'www.lyys8.com', 'www.jxss688.com', 'sy5151.com', 'www.cqguxiang.com', 'zl.aitrjc.xyz', 'www.99qhmy.com', '7.namesilo123.top', 'xzsfdc.com', 'www.pk299.com', 'www.mutefun.com', 'm.6i5.com', 'hjc314.top', '991tl.xyz', 'turdtlii2z.snl9yturdtlii2zwery4.top', 'www.kanxi123.net', '182qw.com', 'www.xiaonatl.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.doupozw.com', 'www.qumiyun.com', 'www.9889my.com', 'www.xsgkfq.com', '111.app2023.top', 'tbib.org', 'www.jhhtech.com', 'www.cgtlbb.com', 'www.gx6080.com', 'www.116mh.com', 'www.jyyz.cn', 'www.tv9090.com', 'www.www2011india.com', 'www.picacgo.cn', 'www.tpyyc.com', 'freeyx.cloudflare88.eu.org', 'fldsubgigtujuy.76898102.xyz', 'jpvsavhyu.76898102.xyz', 'www.717zfsf.com', 'www.cfhuagong.com', '315wow.com', 'www.6i5.com', 'macvbb.555556789.xyz', 'www.511mj.com', 'www.my270.xyz', '1.namesilo123.top', 'www.nsisfans.com', 'www.xzsfdc.com', 'www.90dushu.com', 'www.91dajin.com', 'www.898my.vip', 'www.wangzaitl.com', 'spca.114514782.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 991tl.xyz...
+Performing DNS lookup for www.28et.com...
+Performing DNS lookup for vip.30my.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
