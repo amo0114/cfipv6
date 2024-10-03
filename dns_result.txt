@@ -1,43 +1,23 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-92mili.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
+** server can't find zardyang.xyz: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.igxedrop.cn: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.szxjsj.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.63.186
-Name:	cf.zmdhc.com
-Address: 172.67.179.143
-Name:	cf.zmdhc.com
-Address: 172.67.49.121
-Name:	cf.zmdhc.com
-Address: 172.67.78.134
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.c333.net	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	www.mimiwangzhan.com
+Address: 104.21.96.75
+Name:	www.mimiwangzhan.com
+Address: 172.67.174.71
+Name:	www.mimiwangzhan.com
+Address: 2606:4700:3034::ac43:ae47
+Name:	www.mimiwangzhan.com
+Address: 2606:4700:3036::6815:604b
 

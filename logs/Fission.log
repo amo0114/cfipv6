@@ -1841,3 +1841,24 @@ Performing DNS lookup for www.qilishusong.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main deb0862] Update project files
+ 4 files changed, 64 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   ab7b1d9..deb0862  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.80.160...
+Fetching domains for 172.67.71.177...
+Fetching domains for 172.67.102.71...
+succeed to fetch domains for 172.67.102.71 from https://site.ip138.com/
+succeed to fetch domains for 172.67.80.160 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.71.177 from https://dnsdblookup.com/
+域名列表为
+['www.jsdrtzn.com', 'm.jingshuai888.com', 'tv9090.com', 'heylingo.com', 'www.bjyongcheng.com', 'www.tinghen.com', 'www.0550cq.com', 'www.fujencapital.com', 'www.4j4j.cn', 'www.hxsy888.com', 'www.70ts.com', 'www.7sc.cc', 'www.92mili.com', '92mili.com', 'oxy-shop.com', 'kbhgames.com', '6988tv.com', 'www.266958.com', 'm.4j4j.cn', 'www.51jion.com', 'stock.hostmonit.com', 'www.66se18.com', 'www.yy4080dy.com', 'dj5157.com', 'www.yiqianhg.com', 'www.91m.cc', 'sgv3.com', '1kr.ua', 'www.jingshuai888.com', 'www.888dyy.cc', 'bigrep.com', 'www.11txt.com', 'www.szxjsj.com', 'www.jjtyss.com', 'www.50zw.co', 'www.lzhdsn.com', 'www.630book.com', 'wz.weishao2023.uk.eu.org', 'www.gzcfmy.com', 'www.dy1255.com', 'www.17kty.com', 'www.c333.net', 'm.niuerzs.com', 'www.zhongyunyang.com', 'www.881dy.com', 'm.czlbfrp.com', 'm.6988tv.com', 'www.6i5.com', 'www.iios.club', '4j4j.cn', 'www.lvhuisb.com', 'www.ydxs.cc', 'www.panet.co.il', 'momlovesbest.com', 'www.enesup.com', 'www.zgjmw.net', 'xs.wxtv.cc', 'www.domain.ma', 'www.x52bq.com', 'www.laowang.co', 'interlaken.ch', 'www.bjfqmj.com', '888dyy.cc', 'www.xinpian8.com', 'www.90dushu.com', 'www.tv9090.com', '278ys.cc', 'www.interlaken.ch', 'www.hosemicon.com', 'www.gzgafk.com', '999696.xyz', 'www.kbhgames.com', 'www.dgytlt.com', 'www.kukedy.tv', 'www.paizipai.top', 'www.ranwen8.com', 'www.cbcv.cc', 'www.szaitai.com', 'www.2955kk.com', 'cf.zmdhc.com', 'zmkan.top', 'huescalottery.com', 'www.imeiju.net', 'm.y3600.cz', 'm.bbiquge.cc', 'www.33mov.com', 'www.web120.org', 'www.tuozhan22.com', 'www.tvccc.org', 'www.6988tv.com', 'qiangkouzhao.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 92mili.com...
+Performing DNS lookup for www.szxjsj.com...
+Performing DNS lookup for www.c333.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
