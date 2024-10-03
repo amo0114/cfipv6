@@ -1,29 +1,17 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.cimfinance.mu
-Address: 172.67.71.140
-Name:	www.cimfinance.mu
-Address: 104.26.5.172
-Name:	www.cimfinance.mu
-Address: 104.26.4.172
-Name:	www.cimfinance.mu
-Address: 2606:4700:20::681a:4ac
-Name:	www.cimfinance.mu
-Address: 2606:4700:20::ac43:478c
-Name:	www.cimfinance.mu
-Address: 2606:4700:20::681a:5ac
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.tiancai888.cc: NXDOMAIN
+** server can't find 991tl.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	28et.com
+Name:	www.28et.com
 Address: 66.29.136.78
+
+Server:		8.8.4.4
+Address:	8.8.4.4#53
+
+** server can't find vip.30my.xyz: NXDOMAIN
 
