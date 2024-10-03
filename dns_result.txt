@@ -1,29 +1,25 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
-Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
+** server can't find dh.jzavdh.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.pk299.com	canonical name = host1110362a.c2.huyuncdn.xyz.
-host1110362a.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
+Name:	yuanyangzpw.com
+Address: 172.67.178.91
+Name:	yuanyangzpw.com
+Address: 104.21.91.190
+Name:	yuanyangzpw.com
+Address: 2606:4700:3035::6815:5bbe
+Name:	yuanyangzpw.com
+Address: 2606:4700:3032::ac43:b25b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.gangsiwang.org
-Address: 38.12.38.44
+Name:	www.xajxjd.com
+Address: 38.11.195.98
 
