@@ -1,0 +1,27 @@
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.manhuadb.com
+Address: 104.21.46.121
+Name:	www.manhuadb.com
+Address: 172.67.138.140
+Name:	www.manhuadb.com
+Address: 2606:4700:3032::ac43:8a8c
+Name:	www.manhuadb.com
+Address: 2606:4700:3037::6815:2e79
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.pwcai.com
+Address: 54.67.42.145
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.licenseplatefind.com
+Address: 15.197.240.20
+
