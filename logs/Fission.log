@@ -2136,3 +2136,24 @@ Performing DNS lookup for ww.ddddky.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8aef18d] Update project files
+ 4 files changed, 40 insertions(+), 11 deletions(-)
+To github.com:amo0114/cfipv6.git
+   c4cf46a..8aef18d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.43.61...
+Fetching domains for 104.18.47.87...
+Fetching domains for 104.17.56.209...
+succeed to fetch domains for 104.17.56.209 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.43.61 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.47.87 from https://ipchaxun.com/
+域名列表为
+['code.i-harness.com', 'www.dy8c.com', 'www.658be.com', 'www.6614hu.com', 'www.aiwan188.com', '51lyzc.com', 'www.f2d333.com', '333aad.com', 'cargoinchina.com', 'www.btbdys.com', 'www.competitionplus.com', 'www.797584.com', 'www.330ii.com', '6614hu.com', 'www8.descontoglobal.me', 'dy8c.com', 'sekongge4.com', 'rbzwzm.space', '330ii.com', 'www.2kyb.com', 'now.tunnelling.xyz', 'q6717y.com', 'm.w888456.com', 'www.wwcc33.com', 'www.cfhuagong.com', 'www.theamericanconservative.com', '136ka.com', 'www.buyyouji.com', 'theamericanconservative.com', '2020.zj829.com', 'dailytelescope.com', 'aiwan188.com', 'speedcl.5489265.xyz', 'www.alemarah.org', '37zq.com', 'www.lyzdzy.com', 'www1.descontoglobal.me', 'www.2022cma.com', '00112244.com', 'raw.gitmirror.com', 'www.xrt.com', 'www.49k18.com', '4455ps.com', 'xrt.com', 'www2.descontoglobal.me', 'www.caa1i1a.top', 'www.frostvpn.com', 'www.420285.com', 'jpadwinfs.114514782.xyz', 'frostvpn.com', '797584.com', 'buyyouji.com', 'daniela-il.co.il', 'f2d333.com', 'ww.ddddky.com', 'www.gsy867.icu', 'www5.descontoglobal.me', 'www.worksg.xyz', 'www.4455ps.com', 'manamoa34.net', '658be.com', 'jpvsavhyu.76898102.xyz', 'www.ehozwr2u.cn', 'eco-beauty.dior.cn.cdn.cloudflare.net', 'www.katlos.com', 'www.q6717y.com', 'se0162.com', 'www.sekongge4.com', 'i-harness.com', '4.sanfen001.top', 'cfcdn3.sanfencdn9.com', '2022cma.com', 'm.niuerzs.com', 'ufoport.com', 'cf.yx.alue.link', 'www.se0162.com', 'www.rbzwzm.space', 'kkk141.com', 'www.dh295yk.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 4455ps.com...
+Performing DNS lookup for www8.descontoglobal.me...
+Performing DNS lookup for www.competitionplus.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
