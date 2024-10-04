@@ -2191,3 +2191,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4ce9b74] Update project files
+ 4 files changed, 72 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   30f16a1..4ce9b74  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.44.48...
+Fetching domains for 104.16.251.132...
+Fetching domains for 198.41.221.138...
+succeed to fetch domains for 104.18.44.48 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.221.138 from https://site.ip138.com/
+succeed to fetch domains for 104.16.251.132 from https://site.ip138.com/
+域名列表为
+['www.tinghen.com', '953kk.com', 'www.btbdys.com', 'www.btv98.com', 'www.qf527.com', 'www.zzztch.com', 'www.99wx.cc', 'www.0550cq.com', 'www.01zj.com', 'tushencn.com', 'www.zgcckw.cn', 'llss.live', 'cfip.xxxxxxxx.tk', 'www.zongcaixs.com', 'www.whpaiger.com', 'yy4080dy.com', 'www.4gdiy.com', 'www.pwcai.com', 'www.6i5.com', 'www.oxq232.com', '789ys.com', 'www.jingziwo.tv', 'www.llss.live', 'jingziwo.tv', 'yx.887141.xyz', 'www.uu93.com', 'qp66.com', 'www.953kk.com', 'www.kan234.com', '8810868.com', 'www.116.ag', 'cgcc.digicert.pp.ua', 'licenseplatefind.com', '4gdiy.com', 'gggggyy.com', '1111gz.com', 'www.linknews.gr', 'ag.hg2096.com', 'www.wallstreettt.com', 'www.11txt.com', '923055.com', 'blog.hostmonit.com', 'btv98.com', 'www.manhuadb.com', 'www.dmzg-cn.com', 'jhpcza.66666654.xyz', 'www.langyue777.com', 'truiton.com', '12maoxx.com', 'cf-lt.sharecentre.online', 'www.xjjhny.cn', 'www.licenseplatefind.com', 'www.qp666.com', 'www.hnxinlian.org', 'cf.yx.alue.link', 'www.wanyuyun.cn', 'cl.vttg.pw', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.manhuadb.com...
+Performing DNS lookup for www.pwcai.com...
+Performing DNS lookup for www.licenseplatefind.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
