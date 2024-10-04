@@ -2,34 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	hulige7.com
-Address: 76.223.67.189
-Name:	hulige7.com
-Address: 13.248.213.45
+Name:	28et.com
+Address: 66.29.136.78
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	lili.4xbxb.top
-Address: 172.67.145.225
-Name:	lili.4xbxb.top
-Address: 104.21.28.112
-Name:	lili.4xbxb.top
-Address: 2606:4700:3034::ac43:91e1
-Name:	lili.4xbxb.top
-Address: 2606:4700:3033::6815:1c70
+Name:	www.vz.kiev.ua
+Address: 172.67.183.94
+Name:	www.vz.kiev.ua
+Address: 104.21.18.211
+Name:	www.vz.kiev.ua
+Address: 2606:4700:3033::6815:12d3
+Name:	www.vz.kiev.ua
+Address: 2606:4700:3033::ac43:b75e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	mmm.4xbxb.top
-Address: 172.67.145.225
-Name:	mmm.4xbxb.top
-Address: 104.21.28.112
-Name:	mmm.4xbxb.top
-Address: 2606:4700:3033::6815:1c70
-Name:	mmm.4xbxb.top
-Address: 2606:4700:3034::ac43:91e1
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
