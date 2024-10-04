@@ -2092,3 +2092,25 @@ Performing DNS lookup for www.cfhuagong.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b8df3bc] Update project files
+ 4 files changed, 54 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   9e04aa0..b8df3bc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.164...
+Fetching domains for 172.67.200.230...
+Fetching domains for 104.21.220.2...
+succeed to fetch domains for 172.67.200.230 from https://site.ip138.com/
+succeed to fetch domains for 104.17.127.164 from https://site.ip138.com/
+succeed to fetch domains for 104.21.220.2 from https://ipchaxun.com/
+域名列表为
+['www.969dd.com', 'soybeanjs.cn', 'www.163my.com', 'www.80yy.org', 'zetabite.com', 'www.wenzidi.com', 'cg.22yy7.com', 'www.wxxzzs.com', 'www.bm.zt66.cc', 'www.nangua55.com', 'www.zsych.net', 'www.dahuhg.net', 'yy4080dy.com', 'www.uceyfag.cn', 'shoppingdutyfree.com', 'www.cfhuagong.com', 'www.a93m.com', 'www.zt25jdw.com', '8652157.com', '31rrrr.com', 'www.31rrrr.com', 'stock.hostmonit.com', '1024188.xyz', 'agent.seven7b.cc', 'www.wap.zt66.cc', 'zt66.cc', 'ys.qinyi.pw', '8vdy.com', 'www.zuinuanxin.com', 'www.991kan.com', 'www.meijubo.com', 'www.686686.com', 'mypan.ml', 'xn--6fr1mpyw26jlgza.top', 'www.50zw.co', 'antd.soybeanjs.cn', '28maoee.com', 'm.50zw.co', 'docs.soybeanjs.cn', 'xh2c1hu3hn6.com', 'm.163fahao.com', 'rrdytt.com', 'seven7b.cc', 'www.kanju8.com', 'www.zt66.cc', 'www.wanke2003.net', 'www.qiaoqiaotubjd.com', 'avnori1.com', 'www.tellegram.zone', 'www.sopasia.com', 'www.manhuadb.com', 'sgv3.com', 'www.dy420.com', 'www.dvvjccr.cn', 'alist.xn--6fr1mpyw26jlgza.top', 'tellegram.zone', 'sopasia.com', 'thep424.xyz', '78918z.com', 'dd739.com', 'www.kx10.com', 'www.95ab.vip', 'www.28maoee.com', 'www.91m.cc', 'www.zjgamy.com', 'clun.top', 'www.xhzysh.com', '0550cq.com', '286hm.com', '969dd.com', 'www.718dyw.com', 'admin-docs.soybeanjs.cn', 'www.x52bq.com', 'laoma.aifk.tk', 'www.taopianwu.com', 'www.qudaomsg.com', 'www.archyworldys.com', 'www.17ttx.com', 'my.huayu1288.com', 'www.881dy.com', 'www.96dushu.com', 'www.iios.club', 'www.16dyy.cc', 'x.liaox.ai', 'www.51jion.com', 'www.753r.com', 'egone.org', 'www.99.zt66.cc', 'www.k77yy.com', 'www.6988tv.com', 'www.433yjrc2u.com', '5851267.vip', 'www.3dck.com', 'baimao.aifk.tk', 'www.11txt.com', 'www.x8g88.com', 'cdn.didi8.com', '686686.com', 'www.tv9090.com', 'www.0550cq.com', 'admin.soybeanjs.cn', 'cdn.cf.clun.top', 'mbxvip11.com', 'www.exiaoshuo.com', 'pc.ulzdk.com', 'www.888dyy.cc', 'wanke2003.net', 'xs.wxtv.cc', 'm.0550cq.com', '46maoek.com', 'www.paizipai.top', 'www.33mov.cc', 'wp.qinyi.pw', 'www.zlpack.cn', 'www.k77kk.cc', 'tushencn.com', 'www.kxgdyw.com', 'www.yy4080dy.com', 'www.xinpian8.com', 'm.exiaoshuo.com', 'sejie230.buzz', 'yd.qinyi.cc', 'zi0.cc', '95ab.vip', 'naive.soybeanjs.cn', 'www.tvccc.org', 'www.meijukan.com', 'www.dd739.com', 'www.33mov.com', 'm.tvfff.com', 'cf-gf.heinu.cc', 'elp.soybeanjs.cn', 'www.heinu.cc', 'www.lyzdzy.com', 'www.90dushu.com', 'www.c333.net', 'nationalexhaust.com', 'www.ydxs.cc', 'www.zzztch.com', 'exiaoshuo.com', 'xvides.co', 'www.skyqn.com', '7749tv.com', 'www.46maoek.com', 'www.dy1255.com', 'x8g88.com', 'www.286hm.com', 'www.7749tv.com', '5043r.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for mypan.ml...
+Performing DNS lookup for www.kanju8.com...
+Performing DNS lookup for www.uceyfag.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
