@@ -2114,3 +2114,25 @@ Performing DNS lookup for www.uceyfag.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c4cf46a] Update project files
+ 4 files changed, 46 insertions(+), 32 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   b8df3bc..c4cf46a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.150.194...
+Fetching domains for 104.18.43.61...
+Fetching domains for 104.17.56.209...
+succeed to fetch domains for 104.17.56.209 from https://site.ip138.com/
+succeed to fetch domains for 104.17.150.194 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.43.61 from https://ipchaxun.com/
+域名列表为
+['www.xrt.com', 'www.sekongge4.com', 'cfcdn3.sanfencdn9.com', 'www.cocanwelding.com', 'www.wwcc33.com', 'frostvpn.com', '333aad.com', 'www.lyzdzy.com', 'www.btbdys.com', 'www.75uw.com', 'www.6614hu.com', 'www.dh295yk.cn', 'now.tunnelling.xyz', 'm.w888456.com', 'i-harness.com', '136ka.com', 'rbzwzm.space', 'www.330ii.com', 'www8.descontoglobal.me', 'www.797584.com', 'www.rbzwzm.space', 'www.worksg.xyz', 'www2.descontoglobal.me', 'www.dy8c.com', 'www.658be.com', '330ii.com', '6614hu.com', 'www5.descontoglobal.me', '2020.zj829.com', 'eco-beauty.dior.cn.cdn.cloudflare.net', 'www.q6717y.com', 'www.katlos.com', 'www.frostvpn.com', '797584.com', 'www.cpofein.com', '658be.com', 'q6717y.com', 'ww.ddddky.com', 'www.caa1i1a.top', 'm.niuerzs.com', 'www.alemarah.org', 'dy8c.com', 'code.i-harness.com', 'www.cfhuagong.com', 'www1.descontoglobal.me', 'xrt.com', 'sekongge4.com', 'jpaa.sectigo.pp.ua']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for dy8c.com...
+Performing DNS lookup for www1.descontoglobal.me...
+Performing DNS lookup for ww.ddddky.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
