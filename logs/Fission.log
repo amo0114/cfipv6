@@ -2371,3 +2371,24 @@ Performing DNS lookup for bdx100.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 32991da] Update project files
+ 4 files changed, 59 insertions(+), 18 deletions(-)
+To github.com:amo0114/cfipv6.git
+   2410361..32991da  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.24.219.67...
+Fetching domains for 141.101.123.221...
+Fetching domains for 198.41.214.135...
+succeed to fetch domains for 198.41.214.135 from https://dnsdblookup.com/
+succeed to fetch domains for 104.24.219.67 from https://site.ip138.com/
+succeed to fetch domains for 141.101.123.221 from https://ipchaxun.com/
+域名列表为
+['www.17ttx.com', 'www.hnxinlian.org', 'sgv7.com', 'www.tvccc.org', 'm.0550cq.com', 'www.tinghen.com', 'dsxys.com', 'm.bbiquge.cc', 'www.bzzxxx.net', 'www.zzgszg.com', 'uboy.run', 'zl.aitrjc.xyz', 'www.jinyongwuxia.com', 'www.90dushu.com', 'archives.vip', 'sf123.mobi', 'www.apboxi.com', 'www.cu518.com', 'www.295k.com', 'www.33mov.com', 'chino.cloudns.org', 'www.11txt.com', 'www.tv9090.com', '7sc.cc', 'www.xwsxs.com', 'www.4148.net', 'www.kanju8.com', '6.namesilo123.top', 'tv9090.com', 'www.93xscc.com', 'www.cskji.com', '13.sanfen001.top', 'www.yqkbook.com', 'www.jjtyss.com', 'www.tuozhan021.com', 'yyxycn.com', 'www.bgzzx.com', 'stock.hostmonit.com', 'www.mqvisa.com', 'www.wanmeikankan.net', 'www.dy420.com', 'cf-lt.sharecentre.online', 'xs.wxtv.cc', 'www.bj-jq.com', 'm.28dushu.com', 'm.ytdccc.com', 'www.50zw.co', 'yundunwawablogcdn1dx.wawacm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for sgv7.com...
+Performing DNS lookup for m.28dushu.com...
+Performing DNS lookup for yyxycn.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

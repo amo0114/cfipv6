@@ -1,34 +1,46 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find sgv7.com: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
 Non-authoritative answer:
-m.28dushu.com	canonical name = back.jdsharecodes.top.
-Name:	back.jdsharecodes.top
-Address: 104.21.40.125
-Name:	back.jdsharecodes.top
-Address: 172.67.151.167
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3036::6815:287d
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3036::ac43:97a7
+www.cbcv.cc	canonical name = cbcv.cc.
+cbcv.cc	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 
 Server:		8.8.4.4
 Address:	8.8.4.4#53
 
 Non-authoritative answer:
-yyxycn.com	canonical name = sbcdn.cc.
-sbcdn.cc	canonical name = dash.cloudflare.com.
-Name:	dash.cloudflare.com
-Address: 104.17.110.184
-Name:	dash.cloudflare.com
-Address: 104.17.111.184
-Name:	dash.cloudflare.com
-Address: 2606:4700::6811:6fb8
-Name:	dash.cloudflare.com
-Address: 2606:4700::6811:6eb8
+Name:	www.huanyaad.com
+Address: 64.32.10.23
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:12::5136:548a
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8de2::4b05:3b05
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:9ae6::3ac2:5ba0
 
