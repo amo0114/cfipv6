@@ -2278,3 +2278,25 @@ Performing DNS lookup for 13.sanfen001.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 48b9573] Update project files
+ 4 files changed, 53 insertions(+), 21 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   c2a3f07..48b9573  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.181.89...
+Fetching domains for 104.17.191.182...
+Fetching domains for 104.17.217.226...
+succeed to fetch domains for 104.17.217.226 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.181.89 from https://site.ip138.com/
+succeed to fetch domains for 104.17.191.182 from https://ipchaxun.com/
+域名列表为
+['vcd.la', 'cfip.xxxxxxxx.tk', 'proxyip.tw.fxxk.dedyn.io', 'www.yncareer.com', 'www.vcd.la', 'ipdb.rr.nu', 'xxcoco.com', 'www.cocanwelding.com', 'ynjms.com', 'mayerpowerproducts.stihldealer.net', 'yardbirdequipment.stihldealer.net', 'www.28et.com', 'stroupspower.stihldealer.net', 'www.zzztch.com', 'gladieuxhomecenter.stihldealer.net', 'proxyip.us.fxxk.dedyn.io', 'www.79xh.cn', 'jtlawnequipment.stihldealer.net', 'm.bbiquge.cc', 'proxyip.sg.fxxk.dedyn.io', 'www.cfhuagong.com', 'uu93.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ynjms.com...
+Performing DNS lookup for m.bbiquge.cc...
+Performing DNS lookup for www.cocanwelding.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
