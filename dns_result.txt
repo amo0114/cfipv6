@@ -1,21 +1,34 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.nba01.com
-Address: 103.234.54.73
+** server can't find sgv7.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.whwanet.com
-Address: 162.209.149.30
+m.28dushu.com	canonical name = back.jdsharecodes.top.
+Name:	back.jdsharecodes.top
+Address: 104.21.40.125
+Name:	back.jdsharecodes.top
+Address: 172.67.151.167
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3036::6815:287d
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3036::ac43:97a7
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
 Non-authoritative answer:
-Name:	bdx100.com
-Address: 162.209.175.122
+yyxycn.com	canonical name = sbcdn.cc.
+sbcdn.cc	canonical name = dash.cloudflare.com.
+Name:	dash.cloudflare.com
+Address: 104.17.110.184
+Name:	dash.cloudflare.com
+Address: 104.17.111.184
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6fb8
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6eb8
 
