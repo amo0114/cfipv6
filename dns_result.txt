@@ -1,15 +1,21 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find yd.xingsu.fun: NXDOMAIN
+Non-authoritative answer:
+Name:	ynjms.com
+Address: 67.229.224.92
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		1.1.1.1
+Address:	1.1.1.1#53
+
+** server can't find m.bbiquge.cc: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find alist.cfline.embyhub.tech: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find 13.sanfen001.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
