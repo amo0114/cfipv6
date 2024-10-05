@@ -1,49 +1,29 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find speedip.tuyoyo.link: NXDOMAIN
+Non-authoritative answer:
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.19.168.150
-Name:	dcs.jqddos.xyz
-Address: 104.16.200.105
-Name:	dcs.jqddos.xyz
-Address: 104.25.78.66
-Name:	dcs.jqddos.xyz
-Address: 104.24.194.254
-Name:	dcs.jqddos.xyz
-Address: 104.24.90.165
-Name:	dcs.jqddos.xyz
-Address: 104.17.7.84
-Name:	dcs.jqddos.xyz
-Address: 104.24.13.13
-Name:	dcs.jqddos.xyz
-Address: 104.25.211.40
-Name:	dcs.jqddos.xyz
-Address: 104.17.2.135
-Name:	dcs.jqddos.xyz
-Address: 104.24.85.131
+Name:	www.manhuadb.com
+Address: 172.67.138.140
+Name:	www.manhuadb.com
+Address: 104.21.46.121
+Name:	www.manhuadb.com
+Address: 2606:4700:3037::6815:2e79
+Name:	www.manhuadb.com
+Address: 2606:4700:3032::ac43:8a8c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	clun.top
-Address: 104.22.52.235
-Name:	clun.top
-Address: 172.67.27.46
-Name:	clun.top
-Address: 104.22.53.235
-Name:	clun.top
-Address: 2606:4700:10::ac43:1b2e
-Name:	clun.top
-Address: 2606:4700:10::6816:35eb
-Name:	clun.top
-Address: 2606:4700:10::6816:34eb
+www.tvyb02.com	canonical name = cdn000138.banode301.com.
+cdn000138.banode301.com	canonical name = cdn000138.qsnode301.com.
+Name:	cdn000138.qsnode301.com
+Address: 192.151.224.168
 

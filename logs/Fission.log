@@ -2212,3 +2212,25 @@ Performing DNS lookup for www.licenseplatefind.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0f88406] Update project files
+ 4 files changed, 89 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   4ce9b74..0f88406  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.161.76...
+Fetching domains for 198.41.212.92...
+Fetching domains for 104.17.104.2...
+succeed to fetch domains for 104.17.161.76 from https://site.ip138.com/
+succeed to fetch domains for 198.41.212.92 from https://site.ip138.com/
+succeed to fetch domains for 104.17.104.2 from https://ipchaxun.com/
+域名列表为
+['www.tvccc.org', 'clun.top', 'cfip.201043.xyz', 'www.id9yy.com', 'www.60tl.cn', 'zl.aitrjc.xyz', 'www.50zw.co', 'www.uu93.com', 'www.xz898my.com', 'www.8899tl.com', 'www.cx888my.com', 'www.zf663.com', 'speedip.tuyoyo.link', 'www.6988tv.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.cfhuagong.com', 'www.ug180.com', '77tyj.com', '2345ti.com', 'www.wei333.com', 'cf-lt.sharecentre.online', 'www.50zw.com', 'usshsaba.114514782.xyz', 'www.xxootl.com', 'vcd.la', '606977.com', '7.namesilo123.top', 'dsxys.com', 'www.lewen5.com', 'nlsdwsz.66666654.xyz', 'm.0550cq.com', '923055.com', 'www.tv9090.com', 'cfip.xxxxxxxx.tk', 'm.6i5.com', 'www.5aihh.cn', 'www.4gdiy.com', 'm.bbiquge.cc', 'www.yh9pk.com', 'subodi.com', 'www.ranwen8.com', 'www.wubei520.com', 'www.dy420.com', 'sgv3.com', 'yx.887141.xyz', 'cf.yx.alue.link', 'www.hljja.com', 'www.xigua5.net', 'www.wxxzzs.com', 'www.1717tv.com', 'zi0.cc', 'www.0550cq.com', 'www.zzztch.com', 'stock.hostmonit.com', 'www.paizipai.top', 'wei333.com', 'www.vodbd.com', 'www.2511my.com', 'fzxianli.com', 'www.lyzdzy.com', 'cf1.492745.xyz', 'www.x52bq.com', 'www.k77yy.com', 'm.niuerzs.com', 'www.11txt.com', 'www.tl123123.com', 'dafuweng.com', 'baxtc.66666654.xyz', 'www.hhyy028.com', 'www.tvyb02.com', 'www.fcwei.com', 'www.yy4080dy.com', 'www.77ty.com', 'www.3dck.com', 'acus.cloudflarest.link']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for speedip.tuyoyo.link...
+Performing DNS lookup for www.hhyy028.com...
+Performing DNS lookup for clun.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
