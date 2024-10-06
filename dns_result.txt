@@ -2,27 +2,55 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	web.mltrode.org
-Address: 172.67.158.69
-Name:	web.mltrode.org
-Address: 104.21.73.57
-Name:	web.mltrode.org
-Address: 2606:4700:3031::6815:4939
-Name:	web.mltrode.org
-Address: 2606:4700:3031::ac43:9e45
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.17.162.79
+Name:	dcs.jqddos.xyz
+Address: 104.16.117.15
+Name:	dcs.jqddos.xyz
+Address: 104.19.190.229
+Name:	dcs.jqddos.xyz
+Address: 104.17.223.130
+Name:	dcs.jqddos.xyz
+Address: 104.16.238.160
+Name:	dcs.jqddos.xyz
+Address: 104.19.251.77
+Name:	dcs.jqddos.xyz
+Address: 104.24.202.45
+Name:	dcs.jqddos.xyz
+Address: 104.24.59.195
+Name:	dcs.jqddos.xyz
+Address: 104.17.115.114
+Name:	dcs.jqddos.xyz
+Address: 104.19.228.114
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.ychxwsjd.cn
-Address: 137.175.21.105
+www.k77kk.cc	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.223ss.com	canonical name = v1.ma92027311.com.
-Name:	v1.ma92027311.com
-Address: 23.224.59.194
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 

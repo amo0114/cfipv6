@@ -2471,3 +2471,25 @@ Performing DNS lookup for 0550cq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8368df9] Update project files
+ 4 files changed, 60 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   d36d1b0..8368df9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.233.175...
+Fetching domains for 172.67.158.69...
+Fetching domains for 104.18.12.89...
+succeed to fetch domains for 172.67.158.69 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.12.89 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.233.175 from https://site.ip138.com/
+域名列表为
+['www.17kty.com', 'lcwlyx.com', 'www.shsxjzzs.com', 'm.11txt.com', 'web.mltrode.org', '580859.com', 'prglq4.x27nli.com', 'www.td.gov.hk', 'www.jingshuai888.com', 'www.szxjsj.com', 'www.0550cq.com', 'www.aalapnu.cn', 'www.266958.com', 'www.vcwzob.cn', 'dsxys.pro', 'www.52ys.cc', 'www.xigua5.com', 'www.and678.com', 'www.223ss.com', 'www.7sc.cc', 'jpmorgan0915.vv8rgxx.com', '91p798.xyz', 'www.zhaoshaobi.com', 'www.6i5.com', 'wdlyb.com', 'www.11txt.com', 'www.mltrode.org', 'www.1567jj.com', '781789.com', 'www.scauer.cn', 'bidong25.com', 'sougayilang.com', 'www.bidong25.com', 'www.xinjuc.com', 'hanser.com', 'and678.com', 'www.purmo.com', 'www.706aa.com', 'hnhcbw.com', 'zhaoshaobi.com', 'www.50zw.co', 'www.x52bq.com', 'code1.markog.uk', 'www.tinghen.com', 'www.tichain.cc', 'www.hosemicon.com', '706aa.com', 'www.jsdrtzn.com', 'blackmewa.8gzni.com', 'nadyabbw.com', 'www.6988tv.com', 'www.v2raz.vip', 'wbwbw.com', 'www.90dushu.com', 'izacgs.x27nli.com', 'www.lvhuisb.com', 'www.781789.com', 'www.zhongyunyang.com', 'thp39.cc', 'sgv3.com', 'www.ychxwsjd.cn', 'purmo.com', 'www.908ii.com', 'www.gzgafk.com', 'fiskarscanada.com', 'cne.qualcomm.com', '908ii.com', 'ammhh.cc', 'www.jjtyss.com', 'ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for web.mltrode.org...
+Performing DNS lookup for www.ychxwsjd.cn...
+Performing DNS lookup for www.223ss.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
