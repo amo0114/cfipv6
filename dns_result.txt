@@ -2,39 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 172.67.209.38
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 104.21.53.57
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:d126
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:3539
+www.jsdrtzn.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.17.48
+Name:	cf.zmdhc.com
+Address: 172.67.97.183
+Name:	cf.zmdhc.com
+Address: 172.67.148.195
+Name:	cf.zmdhc.com
+Address: 172.67.182.23
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find l9qd.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	izacgs.x27nli.com
-Address: 104.21.73.57
-Name:	izacgs.x27nli.com
-Address: 172.67.158.69
-Name:	izacgs.x27nli.com
-Address: 2606:4700:3031::6815:4939
-Name:	izacgs.x27nli.com
-Address: 2606:4700:3031::ac43:9e45
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.bidong25.com
-Address: 104.21.73.57
-Name:	www.bidong25.com
-Address: 172.67.158.69
-Name:	www.bidong25.com
-Address: 2606:4700:3031::6815:4939
-Name:	www.bidong25.com
-Address: 2606:4700:3031::ac43:9e45
+Name:	bedbugbmps.org
+Address: 76.223.54.146
+Name:	bedbugbmps.org
+Address: 13.248.169.48
 
