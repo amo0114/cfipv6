@@ -2,27 +2,40 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.jsdrtzn.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.17.48
-Name:	cf.zmdhc.com
-Address: 172.67.97.183
-Name:	cf.zmdhc.com
-Address: 172.67.148.195
-Name:	cf.zmdhc.com
-Address: 172.67.182.23
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find l9qd.com: NXDOMAIN
+www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 104.21.44.202
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 172.67.203.171
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:cbab
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:2cca
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	bedbugbmps.org
-Address: 76.223.54.146
-Name:	bedbugbmps.org
-Address: 13.248.169.48
+Name:	yc66661.com
+Address: 172.67.149.142
+Name:	yc66661.com
+Address: 104.21.29.174
+Name:	yc66661.com
+Address: 2606:4700:3035::ac43:958e
+Name:	yc66661.com
+Address: 2606:4700:3034::6815:1dae
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.jsdrtzn.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.126.94
+Name:	cf.zmdhc.com
+Address: 172.67.148.36
+Name:	cf.zmdhc.com
+Address: 172.67.73.52
+Name:	cf.zmdhc.com
+Address: 172.67.88.67
 

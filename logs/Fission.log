@@ -2559,3 +2559,25 @@ Performing DNS lookup for www.bidong25.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 83a0859] Update project files
+ 4 files changed, 62 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   f0fe543..83a0859  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.158.69...
+Fetching domains for 104.21.26.133...
+Fetching domains for 104.21.233.106...
+succeed to fetch domains for 104.21.233.106 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.158.69 from https://site.ip138.com/
+succeed to fetch domains for 104.21.26.133 from https://site.ip138.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'r2wind.cn', 'www.978109.com', 'wwd.159.buzz', 'www.imeiju.net', 'readboxing.com', 'www.xzy5.plus', 'www.zdqx.com', 'paas.d2cgo.com', 'dljy.tq56.xyz', 'wbwbw.com', 'www.ychxwsjd.cn', 'yh123ss.com', 'www.91m.cc', 'porno7.xxx', 'www.ukjfkdr.cn', '781789.com', 'mmdzr1v.xyz', 'm.246as.top', 'bidong25.com', 'www.hosemicon.com', 'www.652tv.com', 'm.11txt.com', 'www.xx77ww.com', 'ss112233.com', 'm.kisycq.top', 'www.11txt.com', 'ipolloverse.com', 'bedbugbmps.org', 'www.szxjsj.com', 'www.v2raz.vip', 'm.luwangyangrong.com', 'janrs.com', 'jdav1573.xyz', 'cylink.moe', 'lings.icu', 'www.naimilu.com', 'www.gxttdl.com', 'www.ipolloverse.com', 'www.266958.com', 'www.baota.me', 'drogra.159.buzz', 'hjc60e.com', 'www.heetu.cn', 'thp39.cc', 'www.66se24.com', 'yunmappdaxxvie.159.buzz', 'www.japal.it', 'www.csg99.com', 'www.aalapnu.cn', '51contain.xyz', 'bandar55slot.us', '3g.246as.top', 'www.fenews.co.uk', 'www.asmrgay.com', 'www.bidong25.com', 'ipdb.rr.nu', '5986215.com', 'baoyu116.net', 'www.tinghen.com', 'wangzy.cc', 'www.zhaoshaobi.com', 'hmoe.top', 'lemangeyin.com', '91p798.xyz', 'www.shsxjzzs.com', 'yx.887141.xyz', 'www.mltrode.org', 'sgv3.com', 'code1.markog.uk', 'izacgs.x27nli.com', 'fiskarscanada.com', 'en.sexmovies247.com', 'www.c678v.com', 'www.1dfx.com', 'nearfood.it', 'www.sociosite.net', 'www.scauer.cn', 'www.nopve.com', 'avhpp.com', 'www.xinjuc.com', 'dsxys.pro', 'www.mega-traffic.com', 'www.0550cq.com', 'www.q.h965.cc', 'zwebspace.ru', 'www.smdyy.cc', 'www.706i.com', 'ttt.159.buzz', 'api.d2cgo.com', 'frsadubidd.76898102.xyz', 'www.66m.top', 's2-10623-kwimgs.52520.xyz', 'www.yh123ss.com', 'www.21tvb.com', 'cugimigwfvico.com', 'www.zhongyunyang.com', 'www.jjtyss.com', '978109.com', '65caoab.com', 'waf996.cf', 'lingshilian.com', 'www.ylc20.com', 'wikipedia.hk.cn', 'smdh18.xyz', 'www.yqkbook.com', 'www.6988tv.com', 'www.246as.top', 'www.8dh1.xyz', 'ddwhm.com', 'www.7sc.cc', '8mav252.com', 'www.ss112233.com', '75maoad.com', 'douyincdn-6mirror-aliyuncs.52520.xyz', 'u.h965.cc', 'sociosite.net', 'ammhh.cc', 'wap.luwangyangrong.com', 'nadyabbw.com', 'go.wumaojichang.com', 'www.sluyou.com', '28y5j8.tw', '66m.top', '3g.kisycq.top', 'www.jygelec.com', 'www.jhbuyu.com', 'chadyp.com', 'www.669153.com', 'www.tvyb10.com', 'h965.cc', 'www.gns3.com', 'l9qd.com', 'www.6i5.com', 'www.jyz1121.com', 'www.cfhuagong.com', 'jwltw.com', '580859.com', 'www.x52bq.com', 'prglq4.x27nli.com', 'www.17kty.com', 'www.jwltw.com', 'dragonb.net', 'www.668003300.com', 'lcwlyx.com', 'www.iraqjobtender.com', 'www.781789.com', 'www.92mili.com', 'sougayilang.com', '159.buzz', 'www.avhpp.com', 'c678v.com', '668679.xyz', 'hanser.com', 'www.lvhuisb.com', 'www.66se14.com', 'xzy5.plus', 'www.ytjinghan.com', 'xx77ww.com', 'www.90dushu.com', 'www.qiuxiaw.com', 'gg.159.buzz', 'web.mltrode.org', 'www.159.buzz', '8dh1.xyz', 'jssssss.cc', '556.159.buzz', 'v6-web-douyincdn-mirror-aliyuncs.52520.xyz', 'www.hxsy888.com', 'sekar4d.com', 'www.kuaikan66.com', 'www.hjc60e.com', 'zhaoshaobi.com', 'www.dgytlt.com', 'www.sxyzxh.com', 'longhua.news.i6zq2d.cn', 'www.56dy8.com', 'www.jingshuai888.com', 'wdlyb.com', 's875un2f5.com', '246as.top', 'www.iwenzhang.cc', 'abroad.schutzkraft.com', 'www.gzgafk.com', 'www.vcwzob.cn', 'xswl.app', 'jhbuyu.com', 'wap.246as.top', 'www.jsdrtzn.com', 'yunmappdavie.159.buzz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.jsdrtzn.com...
+Performing DNS lookup for l9qd.com...
+Performing DNS lookup for bedbugbmps.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
