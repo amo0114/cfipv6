@@ -2602,3 +2602,25 @@ Performing DNS lookup for www.jsdrtzn.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2d5cc36] Update project files
+ 4 files changed, 70 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   6cc0661..2d5cc36  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.196.136...
+Fetching domains for 104.21.26.133...
+Fetching domains for 104.20.235.175...
+succeed to fetch domains for 104.16.196.136 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.26.133 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.235.175 from https://ipchaxun.com/
+域名列表为
+['www.iwenzhang.cc', '668679.xyz', '65caoab.com', 'waf996.cf', 'hjc60e.com', 'www.q.h965.cc', 'dljy.tq56.xyz', '51contain.xyz', 'www.laowang.co', 'xx77ww.com', 'm.246as.top', 'www.ytjinghan.com', 'www.ukjfkdr.cn', 'www.669153.com', 'www.ylc20.com', '75maoad.com', 'www.xx77ww.com', 'm.kisycq.top', '5986215.com', '3g.246as.top', 'lyzdzy.com', 'cqedu.tv', 'www.hjc60e.com', 'www.vodbd.com', 'abroad.schutzkraft.com', '66m.top', 'www.6988tv.com', '3g.kisycq.top', 'dragonb.net', 'www.8dh1.xyz', '8dh1.xyz', 'zwebspace.ru', 'lemangeyin.com', 'www.mega-traffic.com', 's2-10623-kwimgs.52520.xyz', 'jssssss.cc', 'sociosite.net', 'u.h965.cc', '8mav252.com', 'h965.cc', 'www.zzztch.com', 'readboxing.com', 'www.246as.top', 'laowang.co', 'www.japal.it', 'wap.246as.top', 'cfip.xxxxxxxx.tk', 'www.heetu.cn', 'www.sociosite.net', '246as.top', 'www.jyz1121.com', 'v6-web-douyincdn-mirror-aliyuncs.52520.xyz', 'cylink.moe', 'www.sluyou.com', 'www.66m.top', 'acjp2.cloudflarest.link', 'douyincdn-6mirror-aliyuncs.52520.xyz', 'chadyp.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.laowang.co...
+Performing DNS lookup for www.japal.it...
+Performing DNS lookup for jssssss.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

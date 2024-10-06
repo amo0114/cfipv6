@@ -2,39 +2,21 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.laowang.co	canonical name = lwdy.xyz.
-Name:	lwdy.xyz
-Address: 172.67.181.109
-Name:	lwdy.xyz
-Address: 104.21.56.80
-Name:	lwdy.xyz
-Address: 2606:4700:3033::ac43:b56d
-Name:	lwdy.xyz
-Address: 2606:4700:3034::6815:3850
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.japal.it
-Address: 172.67.136.73
-Name:	www.japal.it
-Address: 104.21.26.133
-Name:	www.japal.it
-Address: 2606:4700:3035::ac43:8849
-Name:	www.japal.it
-Address: 2606:4700:3037::6815:1a85
+kytyy.com	canonical name = sdrm9bz5.cdn-files.net.
+sdrm9bz5.cdn-files.net	canonical name = hmgxzkdu.n.cdn-files.net.
+Name:	hmgxzkdu.n.cdn-files.net
+Address: 45.151.133.185
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jssssss.cc
-Address: 172.67.136.73
-Name:	jssssss.cc
-Address: 104.21.26.133
-Name:	jssssss.cc
-Address: 2606:4700:3037::6815:1a85
-Name:	jssssss.cc
-Address: 2606:4700:3035::ac43:8849
+*** Can't find www.kunzedu.com: No answer
 
