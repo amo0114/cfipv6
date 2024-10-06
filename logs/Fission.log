@@ -2493,3 +2493,25 @@ Performing DNS lookup for www.223ss.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e8d084f] Update project files
+ 4 files changed, 98 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   8368df9..e8d084f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.48.12...
+Fetching domains for 104.17.101.214...
+Fetching domains for 104.16.51.41...
+succeed to fetch domains for 104.17.101.214 from https://site.ip138.com/
+succeed to fetch domains for 104.17.48.12 from https://site.ip138.com/
+succeed to fetch domains for 104.16.51.41 from https://ipchaxun.com/
+域名列表为
+['www.33mov.com', 'www.ddwhm.com', 'www.kbss888.com', 'www.iios.club', 'jpvsavhyu.76898102.xyz', 'www.k77kk.cc', 'www.223ss.com', 'cfip.xxxxxxxx.tk', 'www.993my.com', 'www.tlbb888.com', 'www.hhyy028.com', 'www.longwangchuanshuo.com', 'yx.887141.xyz', 'www.99wx.cc', 'www.cfhuagong.com', 'www.quanji55.com', 'www.c333.net', 'cfcdn3.sanfencdn9.com', 'yy4080dy.com', 'www.9415hf.com', 'fa1.fun', 'www.dy420.com', 'www.kunzedu.com', 'www.dy1255.com', 'www.iios.me', 'www.888dyy.cc', 'www.lyzdzy.com', 'www.6988tv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.hhyy028.com...
+Performing DNS lookup for www.k77kk.cc...
+Performing DNS lookup for www.iios.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
