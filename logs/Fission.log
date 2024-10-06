@@ -2515,3 +2515,25 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 47135fd] Update project files
+ 4 files changed, 76 insertions(+), 76 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   e8d084f..47135fd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.235.175...
+Fetching domains for 104.16.196.136...
+Fetching domains for 104.21.26.133...
+succeed to fetch domains for 104.20.235.175 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.196.136 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.26.133 from https://ipchaxun.com/
+域名列表为
+['www.naimilu.com', 'abroad.schutzkraft.com', 'www.japal.it', '3g.246as.top', 'bedbugbmps.org', 'www.csg99.com', 'www.668003300.com', 'www.ukjfkdr.cn', 'www.21tvb.com', 'u.h965.cc', 'wap.246as.top', 'ipolloverse.com', 'www.sociosite.net', '3g.kisycq.top', 'dljy.tq56.xyz', 'avhpp.com', 'laowang.co', 'www.ytjinghan.com', 'www.246as.top', 'www.6988tv.com', 'baoyu116.net', '8mav252.com', 'lyzdzy.com', 'hjc60e.com', '51contain.xyz', 'www.ipolloverse.com', '28y5j8.tw', 'sociosite.net', 'www.q.h965.cc', 'dragonb.net', 'zwebspace.ru', '246as.top', 'h965.cc', 'm.kisycq.top', 'lingshilian.com', 'lings.icu', 'chadyp.com', 'www.iraqjobtender.com', 'r2wind.cn', 'nearfood.it', 'www.heetu.cn', 'www.laowang.co', '75maoad.com', 'm.246as.top', '66m.top', 'www.fenews.co.uk', 'xx77ww.com', 'readboxing.com', 'xswl.app', 'www.ylc20.com', '5986215.com', 'wikipedia.hk.cn', 'lemangeyin.com', 'cylink.moe', 'www.iwenzhang.cc', 'www.xx77ww.com', 'www.669153.com', 'v6-web-douyincdn-mirror-aliyuncs.52520.xyz', 'waf996.cf', 'mmdzr1v.xyz', 'www.8dh1.xyz', '668679.xyz', 'www.jyz1121.com', '65caoab.com', '8dh1.xyz', 'www.avhpp.com', 'jssssss.cc', 'cqedu.tv', 'www.66m.top', 'www.vodbd.com', 'l9qd.com', 'www.mega-traffic.com', 's2-10623-kwimgs.52520.xyz', 'www.sluyou.com', 'douyincdn-6mirror-aliyuncs.52520.xyz', 'www.zzztch.com', 'wap.luwangyangrong.com', 'www.hjc60e.com', 'cfip.xxxxxxxx.tk', 'acjp2.cloudflarest.link']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.21tvb.com...
+Performing DNS lookup for jssssss.cc...
+Performing DNS lookup for cqedu.tv...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
