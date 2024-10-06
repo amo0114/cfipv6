@@ -2581,3 +2581,24 @@ Performing DNS lookup for bedbugbmps.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6cc0661] Update project files
+ 4 files changed, 61 insertions(+), 25 deletions(-)
+To github.com:amo0114/cfipv6.git
+   83a0859..6cc0661  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.233.175...
+Fetching domains for 172.67.149.142...
+Fetching domains for 104.18.12.89...
+succeed to fetch domains for 172.67.149.142 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.233.175 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.12.89 from https://ipchaxun.com/
+域名列表为
+['www.52ys.cc', 'blackmewa.8gzni.com', 'www.waimaoren.org', 'www.visitkorea.or.id', 'www.50zw.co', 'www.bjfqmj.com', 'www.purmo.com', 'cf-lt.sharecentre.online', 'www.td.gov.hk', 'www.908ii.com', 'www.706aa.com', 'i2.manhuacdn.com', 'www.tkb85a.life', 'www.tinghen.com', 'www.hxsy888.com', 'www.266958.com', 'www.feijiji.com', 'www.jsdrtzn.com', 'www.tichain.cc', 'www.223ss.com', '206jj.com', 'yq.lj5cr5.xyz', 'www.szxjsj.com', 'www.and678.com', '908ii.com', 'www.cnyzhc.com', 'www.shsxjzzs.com', 'feijiji.com', 'www.11txt.com', 'cf1.492745.xyz', 'www.x52bq.com', 'cne.qualcomm.com', 'and678.com', 'sese8281.com', 'www.jjtyss.com', '999696.xyz', '55pv.xyz', 'www.mjgss.com', 'www.206jj.com', 'www.sssppppay1.com', 'www.sese8281.com', 'www.17kty.com', 'www.64maoaw.com', 'www.xigua5.com', 'www.4148.net', 'www.szjysmy.com', '64maoaw.com', 'wanghongquanji.com', 'yundunwawablogcdn1dx.wawacm.com', 'purmo.com', 'stock.hostmonit.com', 'yc66661.com', 'waimaoren.org', 'jpmorgan0915.vv8rgxx.com', 'sssppppay1.com', 'm.meledxs.com', '706aa.com', 'www.1567jj.com', '666ssy.com', 'www.whxifa.com', 'www.lzhdsn.com', 'www.jingshuai888.com', 'caiwu0553.com', 'mjgss.com', 'www.666ssy.com', 'www.zhongyunyang.com', 'www.hosemicon.com', 'chaoji31.buzz', 'hnhcbw.com', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.11txt.com...
+Performing DNS lookup for yc66661.com...
+Performing DNS lookup for www.jsdrtzn.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
