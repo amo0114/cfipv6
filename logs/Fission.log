@@ -2448,3 +2448,26 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d36d1b0] Update project files
+ 4 files changed, 81 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   e7ee3d0..d36d1b0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.211.132...
+Fetching domains for 104.17.28.139...
+Fetching domains for 198.41.208.28...
+succeed to fetch domains for 198.41.208.28 from https://site.ip138.com/
+succeed to fetch domains for 104.17.211.132 from https://site.ip138.com/
+Error fetching domains for 104.17.28.139 from https://ipchaxun.com/: HTTPSConnectionPool(host='ipchaxun.com', port=443): Max retries exceeded with url: /104.17.28.139/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='ipchaxun.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 104.17.28.139...
+succeed to fetch domains for 104.17.28.139 from https://dnsdblookup.com/
+域名列表为
+['e0101.com', 'www.hg0389.com', 'www.letu9.com', 'www.xiaoywz.com', 'www.wanmeikankan.net', 'xcteam.net', 'www.k77kk.cc', 'www.pianku5.com', 'www.xinpian8.com', 'www.65bao2.com', 'nosoxo.com', 'www.ykdyj.com', '0550cq.com', 'www.uu93.com', 'cdn-download.yunzhongzhuan.xyz', 'w3d.host', 'tencent.nosoxo.com', 'uu93.com', 'yx.887141.xyz', 'www.huanyaad.com', 'www.asmrzy8.net', 'www.7749tv.com', 'cdn.mp4.fit', 'www.ayuer.com', '606977.com', 'www.bikugo.com', 'yh6.dtku41.xyz', 'www.33mov.com', 'cf1.492745.xyz', 'subowu.com', 'download.yunzhongzhuan.com', 'www.abu22.com', 'www.dy1255.com', 'www.4gdiy.com', 'www.wxxzzs.com', 'www.28et.com', 'www.hg098.com', 'video.danappdsklya8663.top', 'www.kanju8.com', 'www.6i5.com', 'www.0550cq.com', 'www.50zw.co', 'manhuadb.com', 'www.web120.org', 'www.tv9090.com', 'loukky.com', 'www.cocanwelding.com', 'down.loukky.com', 'www.lyzdzy.com', 'bikugo.com', 'www.xinjuc.com', 'www.wodzudio.com', 'upload.yzzpan.com', 'upload.yunzhongzhuan.com', 'www.xkyy899.com', 'www.zzztch.com', 'www.ug180.com', 'www.meijukan.com', 'www.c333.net', 'www.11txt.com', 'www.888dyy.cc', 'www.881dy.com', 'live.mytvsuper.us.kg', 'www.yy4080dy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.meijukan.com...
+Performing DNS lookup for www.kanju8.com...
+Performing DNS lookup for 0550cq.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

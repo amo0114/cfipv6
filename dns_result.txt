@@ -2,34 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.meijukan.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+Name:	web.mltrode.org
+Address: 172.67.158.69
+Name:	web.mltrode.org
+Address: 104.21.73.57
+Name:	web.mltrode.org
+Address: 2606:4700:3031::6815:4939
+Name:	web.mltrode.org
+Address: 2606:4700:3031::ac43:9e45
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.kanju8.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
+Name:	www.ychxwsjd.cn
+Address: 137.175.21.105
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	0550cq.com
-Address: 103.150.11.223
+www.223ss.com	canonical name = v1.ma92027311.com.
+Name:	v1.ma92027311.com
+Address: 23.224.59.194
 
