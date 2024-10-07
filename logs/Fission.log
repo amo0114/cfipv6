@@ -2701,3 +2701,29 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1a9fb07] Update project files
+ 4 files changed, 73 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   fb48066..1a9fb07  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.1.127...
+Fetching domains for 104.25.102.126...
+Fetching domains for 104.21.4.101...
+succeed to fetch domains for 104.21.4.101 from https://dnsdblookup.com/
+Error fetching domains for 172.66.1.127 from https://ipchaxun.com/: No domains found
+Fetching domains for 172.66.1.127...
+Error fetching domains for 172.66.1.127 from https://dnsdblookup.com/: No domains found
+Fetching domains for 172.66.1.127...
+Error fetching domains for 172.66.1.127 from https://site.ip138.com/: No domains found
+Fetching domains for 172.66.1.127...
+succeed to fetch domains for 104.25.102.126 from https://ipchaxun.com/
+域名列表为
+['www.cdswqs.cn', '529032.xyz', 'explorer.quadratic.me', 'www.av2021y.com', 'www.xmread.cn', 'heo.7ffarm.com', 'www.reav1.com', 'www.elitescorthatun.com', 'y408.com', 'hgmmdn.com', 'shyx2020.com', 'www.057aa.com', 'kuonupi.com', 'www.gzz68.com', 'zxowgf.com', 'www.y408.com', 'c.idown.app', 'www.hznuanchun.cn', 'www.ns100.cn', 'www.rhskim.com', 'app.biomatrix.ai', 'yallalivetop.com', 'av2021y.com', 'www.cfhuagong.com', 'fcw26.cc', '7j45.cn', 'www.maixi9.com', '678aa678.com', 'www.cocanwelding.com', 'fuliap.xyz', 'www.xzqyyl.com', 'reav1.com', 'www.plusmewe.com', 'www.tonglaikeji.com', 'www.jh8fm.com', 'biomatrix.ai', 'www.irxsw4.com', 'exam4training.com', 'www.gcjpcm15.xyz', 'trsellov.xyz', '9j8.7ffarm.com', 'www.28et.com', '77tk5.com', '057aa.com', 'juzijun158.com', 'www.hnst9.com', 'b.idown.app', 'ld5.7ffarm.com', 'gunslingertv.org', 'gzz68.com', 'www.7j45.cn', 'm.qqvod.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for kuonupi.com...
+Performing DNS lookup for www.rhskim.com...
+Performing DNS lookup for biomatrix.ai...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

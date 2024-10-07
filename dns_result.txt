@@ -1,31 +1,39 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find kuonupi.com: NXDOMAIN
+Non-authoritative answer:
+Name:	bondagevalley.cc
+Address: 104.21.235.96
+Name:	bondagevalley.cc
+Address: 104.21.235.95
+Name:	bondagevalley.cc
+Address: 2606:4700:3038::6815:eb5f
+Name:	bondagevalley.cc
+Address: 2606:4700:3038::6815:eb60
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.rhskim.com
-Address: 172.67.153.252
-Name:	www.rhskim.com
-Address: 104.21.4.101
-Name:	www.rhskim.com
-Address: 2606:4700:3033::6815:465
-Name:	www.rhskim.com
-Address: 2606:4700:3037::ac43:99fc
+www.ppxdm.com	canonical name = ppdns.hai888.top.
+ppdns.hai888.top	canonical name = dns02.hddm.cc.
+Name:	dns02.hddm.cc
+Address: 104.26.13.93
+Name:	dns02.hddm.cc
+Address: 104.26.12.93
+Name:	dns02.hddm.cc
+Address: 172.67.73.243
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	biomatrix.ai
-Address: 104.21.4.101
-Name:	biomatrix.ai
-Address: 172.67.153.252
-Name:	biomatrix.ai
-Address: 2606:4700:3033::6815:465
-Name:	biomatrix.ai
-Address: 2606:4700:3037::ac43:99fc
+nanhuyt.com	canonical name = lfsydns.hai888.top.
+lfsydns.hai888.top	canonical name = dns123.xin6.top.
+Name:	dns123.xin6.top
+Address: 104.26.12.83
+Name:	dns123.xin6.top
+Address: 172.67.75.125
+Name:	dns123.xin6.top
+Address: 104.26.13.83
 
