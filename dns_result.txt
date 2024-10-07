@@ -1,19 +1,26 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.fd9z2aad.cn: NXDOMAIN
+Non-authoritative answer:
+mefrp.com	canonical name = dnspod-free.beian.mydnspod.net.
+Name:	dnspod-free.beian.mydnspod.net
+Address: 180.163.28.105
+Name:	dnspod-free.beian.mydnspod.net
+Address: 140.207.177.207
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	1069e.com
-Address: 64.32.10.26
+muhanfrp.cn	canonical name = 1b6697d9.muhan.ltd.
+1b6697d9.muhan.ltd	canonical name = qcdn.muhan.ltd.
+Name:	qcdn.muhan.ltd
+Address: 154.37.153.228
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
 Non-authoritative answer:
-Name:	rn.cneupa.com
-Address: 91.195.240.12
+Name:	pan.muhanpan.ga
+Address: 103.224.182.243
 

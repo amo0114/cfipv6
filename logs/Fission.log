@@ -2841,3 +2841,25 @@ Performing DNS lookup for cdn.hmvod.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b91ecd5] Update project files
+ 4 files changed, 53 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   1eb7030..b91ecd5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.217.74...
+Fetching domains for 104.17.165.233...
+Fetching domains for 104.18.43.10...
+succeed to fetch domains for 104.17.165.233 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.217.74 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.43.10 from https://ipchaxun.com/
+域名列表为
+['www.onlinedoctranslator.com', 'www.8123jj.com', 'www.xfyy619.com', 'tom1386.com', 'www.shy6666.com', 'bodu365.com', 'www.cx888my.com', 'cloudflare.182682.xyz', 'www.tlbb888.com', 'www.789kp.com', 'www.4gdiy.com', 'www.ajstireshop.com', 'www.cocanwelding.com', 'taoismhome.com', 'maisondesartistes.mb.ca', 'www.extrastoresoffers.com', 'safakhabar.com', 'p1.cfvn66.com', '17job8.cn', 'www.29qihu.com', 'k.xl8661.com', '888ss.cc', 'www.whpaiger.com', 'ajstireshop.com', 'xfyy619.com', 'katiousa.gr', 'www.iios.club', 'www.5522tl.com', 'www.d0006.com', 'www.fd9z2aad.cn', 'achk.cloudflarest.link', 'pltv2.2cf.x10.mx', 'www.bodu365.com', '8123jj.com', 'www.e8asrbh.cn', 'www.888ss.cc', 'rn.cneupa.com', 'cdn.cfvn66.com', 'd0006.com', '0s7x0.com', 'www.xkx999.com', '835it.com', 'www.katiousa.gr', '1069e.com', 'leggmason.com.au', 'www.cfhuagong.com', '29qihu.com', 'www.leggmason.com.au', 'www.kbss888.com', 'www.1069e.com', 'www.pw9p6yg.cn', 'www.pk299.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.fd9z2aad.cn...
+Performing DNS lookup for 1069e.com...
+Performing DNS lookup for rn.cneupa.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
