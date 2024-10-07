@@ -2815,3 +2815,29 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1eb7030] Update project files
+ 4 files changed, 71 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   bd291c8..1eb7030  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.64.194.52...
+Fetching domains for 104.24.151.29...
+Fetching domains for 104.20.163.215...
+succeed to fetch domains for 172.64.194.52 from https://dnsdblookup.com/
+succeed to fetch domains for 104.24.151.29 from https://site.ip138.com/
+Error fetching domains for 104.20.163.215 from https://ipchaxun.com/: No domains found
+Fetching domains for 104.20.163.215...
+Error fetching domains for 104.20.163.215 from https://site.ip138.com/: No domains found
+Fetching domains for 104.20.163.215...
+Error fetching domains for 104.20.163.215 from https://dnsdblookup.com/: No domains found
+Fetching domains for 104.20.163.215...
+域名列表为
+['jinri.3cm.us', 'www.csgoob.com', 'cf.345673.xyz', 'www.x52bq.com', '96dushu.com', 'nlsdwsz.66666654.xyz', 'yh7.dtku41.xyz', 'stock.hostmonit.com', 'www.ddwhm.com', 'cf-lt.sharecentre.online', 'xs.wxtv.cc', 'cdn.hmvod.cc', 'www.6i5.com', 'www.11txt.com', 'acus.cloudflarest.link', 'www.lyys8.com', 'yh6.dtku41.xyz', 'www.qumiyun.com', 'www.96dushu.com', 'www.hnxinlian.org', 'www.92mili.com', 'www.38yy.cn', 'hmoe.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.bm158.com', 'www.iios.club', 'www.xinjuc.com', 'www.33mov.com', '7sc.cc', '345673.xyz', 'yx.887141.xyz', 'hzefss.66666654.xyz', 'jpvsavhyu.76898102.xyz', 'www.dafuhao.com', '4.namesilo123.top', 'cdn.didi8.com', 'baxtc.66666654.xyz', '1.namesilo123.top', 'www.xworldadmin.com', 'www.ttamj.com', 'cloudflare.cfgo.cc', 'pan.axxpan.com', 'www.wxxzzs.com', 'ygbb.rapidssl.pp.ua', 'www.tv1080.com', 'www.yyxycn.com', 'www.ynsqx.com', 'www.summerpockets.com', 'acjp2.cloudflarest.link', 'speed.marisalnc.com', 'cdn.hkdvb.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yh6.dtku41.xyz...
+Performing DNS lookup for 4.namesilo123.top...
+Performing DNS lookup for cdn.hmvod.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

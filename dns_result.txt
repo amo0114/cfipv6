@@ -1,27 +1,19 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-yh6.dtku41.xyz	canonical name = 77980.bodis.com.
-Name:	77980.bodis.com
-Address: 199.59.243.227
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find 4.namesilo123.top: NXDOMAIN
+** server can't find www.fd9z2aad.cn: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-cdn.hmvod.cc	canonical name = origin.7758153.xyz.
-Name:	origin.7758153.xyz
-Address: 172.67.203.130
-Name:	origin.7758153.xyz
-Address: 104.21.85.73
-Name:	origin.7758153.xyz
-Address: 2606:4700:3036::6815:5549
-Name:	origin.7758153.xyz
-Address: 2606:4700:3030::ac43:cb82
+Name:	1069e.com
+Address: 64.32.10.26
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	rn.cneupa.com
+Address: 91.195.240.12
 
