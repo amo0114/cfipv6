@@ -1,39 +1,27 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	bondagevalley.cc
-Address: 104.21.235.96
-Name:	bondagevalley.cc
-Address: 104.21.235.95
-Name:	bondagevalley.cc
-Address: 2606:4700:3038::6815:eb5f
-Name:	bondagevalley.cc
-Address: 2606:4700:3038::6815:eb60
+** server can't find warp.dcxx.work: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.ppxdm.com	canonical name = ppdns.hai888.top.
-ppdns.hai888.top	canonical name = dns02.hddm.cc.
-Name:	dns02.hddm.cc
-Address: 104.26.13.93
-Name:	dns02.hddm.cc
-Address: 104.26.12.93
-Name:	dns02.hddm.cc
-Address: 172.67.73.243
+www.acgycy.com	canonical name = www.acgycy.com.volcgslb-mlt.com.
+www.acgycy.com.volcgslb-mlt.com	canonical name = sz-sourcetail-v4.volcmlt.com.
+Name:	sz-sourcetail-v4.volcmlt.com
+Address: 61.163.8.224
+Name:	sz-sourcetail-v4.volcmlt.com
+Address: 111.7.103.96
+Name:	sz-sourcetail-v4.volcmlt.com
+Address: 116.207.181.224
+Name:	sz-sourcetail-v4.volcmlt.com
+Address: 175.6.165.100
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-nanhuyt.com	canonical name = lfsydns.hai888.top.
-lfsydns.hai888.top	canonical name = dns123.xin6.top.
-Name:	dns123.xin6.top
-Address: 104.26.12.83
-Name:	dns123.xin6.top
-Address: 172.67.75.125
-Name:	dns123.xin6.top
-Address: 104.26.13.83
+** server can't find yh.fgma.top: SERVFAIL
 
