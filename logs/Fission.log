@@ -2624,3 +2624,25 @@ Performing DNS lookup for jssssss.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5282e6b] Update project files
+ 4 files changed, 52 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   2d5cc36..5282e6b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.152.190...
+Fetching domains for 104.16.203.210...
+Fetching domains for 104.16.51.41...
+succeed to fetch domains for 104.16.51.41 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.203.210 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.152.190 from https://ipchaxun.com/
+域名列表为
+['www.hhyy028.com', 'www.quanji55.com', 'jpvsavhyu.76898102.xyz', 'tv.ci', 'tysx.cc', 'www.yan176.com', 'www.99wxw.cc', 'relx8.com', 'www.longwangchuanshuo.com', 'www.cfhuagong.com', 'www.ddwhm.com', 'www.99wx.cc', 'www.kunzedu.com', 'www.55xs.cc', 'cfip.xxxxxxxx.tk', 'www.xinjuc.com', 'yx.887141.xyz', 'www.pianku5.com', 'www.75xs.cc', 'kytyy.com', 'www.hanhanyun.com', 'www.tysx.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for kytyy.com...
+Performing DNS lookup for www.kunzedu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

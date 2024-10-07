@@ -2,21 +2,44 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+*** Can't find www.zhiqihuo.com: No answer
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-kytyy.com	canonical name = sdrm9bz5.cdn-files.net.
-sdrm9bz5.cdn-files.net	canonical name = hmgxzkdu.n.cdn-files.net.
-Name:	hmgxzkdu.n.cdn-files.net
-Address: 45.151.133.185
+www.652tv.com	canonical name = 652.cloudflare.182682.xyz.
+Name:	652.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	652.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	652.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	652.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	652.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:3033::73e2:7e83
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:3034::124e:5ae4
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:9a91::4747:7b3c
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:22::82e:49df
+Name:	652.cloudflare.182682.xyz
+Address: 2a06:98c1:3121::6144:613b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find www.kunzedu.com: No answer
+Name:	www.011b.com
+Address: 104.21.32.209
+Name:	www.011b.com
+Address: 172.67.155.35
+Name:	www.011b.com
+Address: 2606:4700:3030::6815:20d1
+Name:	www.011b.com
+Address: 2606:4700:3037::ac43:9b23
 
