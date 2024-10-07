@@ -2646,3 +2646,24 @@ Performing DNS lookup for www.kunzedu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 07baefe] Update project files
+ 4 files changed, 65 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   5282e6b..07baefe  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.233.106...
+Fetching domains for 104.17.21.61...
+Fetching domains for 198.41.208.253...
+succeed to fetch domains for 104.17.21.61 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.208.253 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.233.106 from https://site.ip138.com/
+域名列表为
+['www.96dushu.com', 'www.tvyb10.com', 'www.011b.com', 'www.wei333.com', 'cf-lt.sharecentre.online', 'www.4gdiy.com', '17kyun.com', 'www.56th.cc', 'www.ganpian.com', 'www.zdqx.com', '3g8ywh.evve.shop', 'www.cfhuagong.com', 'www.x52bq.com', 'www.sf123.mobi', 'www.gxttdl.com', 'www.6988tv.com', 'download.yunzhongzhuan.com', 'pwcai.com', '8810868.com', 'www.baota.me', 'www.652tv.com', 'www.kuaikan66.com', 'www.hanmatv.com', 'www.uu93.com', 'www.suboji.com', 'www.ayuer.com', 'www.56dy8.com', 'www.0550cq.com', 'yx.887141.xyz', 'www.92mili.com', 'ipdb.rr.nu', 'm.luwangyangrong.com', 'www.qiuxiaw.com', 'upload.yunzhongzhuan.com', '606977.com', 'www.zzztch.com', 'uu93.com', 'www.abu22.com', 'stock.hostmonit.com', 'www.sxyzxh.com', 'www.vcd.la', 'www.606977.com', 'hmoe.top', 'www.yqkbook.com', 'www.91m.cc', 'www.gangsiwang.org', 'a.download.yunzhongzhuan.com', 'www.b7yy.cc', 'www.scxdexx.com', 'www.1dfx.com', 'www.ddwhm.com', 'www.xinjuc.com', 'suboji.com', 'www.235t.com', '4gdiy.com', 'go.wumaojichang.com', 'cfip.xxxxxxxx.tk', 'www.zhiqihuo.com', 'www.6i5.com', 'frsadubidd.76898102.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zhiqihuo.com...
+Performing DNS lookup for www.652tv.com...
+Performing DNS lookup for www.011b.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
