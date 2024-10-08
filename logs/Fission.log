@@ -3015,3 +3015,25 @@ Performing DNS lookup for www.lyzdzy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5c59bbf] Update project files
+ 4 files changed, 85 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   4a8a395..5c59bbf  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.88.4...
+Fetching domains for 104.17.111.55...
+Fetching domains for 104.17.126.246...
+succeed to fetch domains for 104.17.126.246 from https://site.ip138.com/
+succeed to fetch domains for 104.17.111.55 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.88.4 from https://ipchaxun.com/
+域名列表为
+['www.singlesnuething.com', 'www.cocanwelding.com', 'hgwc.xyz', 'www.50zw.co', 'www.75uw.com', 'iios.club', 'www.xinjuc.com', 'tcdn1.youku.icu', 'www.iios.club', 'www.888dyy.cc', 'www.7749tv.com', 'cdn.didi8.com', 'www.99wx.cc', 'zi0.cc', 'asmrfs.top', 'jp.921219.xyz', 'www.whpaiger.com', 'xichahe.com', 'jpvsavhyu.76898102.xyz', 'www.zzztch.com', 'www.6988tv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jpvsavhyu.76898102.xyz...
+Performing DNS lookup for www.xinjuc.com...
+Performing DNS lookup for www.99wx.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
