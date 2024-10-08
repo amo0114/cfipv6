@@ -2971,3 +2971,25 @@ Performing DNS lookup for nlsdwsz.66666654.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0ca6919] Update project files
+ 4 files changed, 63 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   14422db..0ca6919  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.20.196...
+Fetching domains for 104.17.25.47...
+Fetching domains for 104.17.18.125...
+succeed to fetch domains for 104.17.25.47 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.18.125 from https://site.ip138.com/
+succeed to fetch domains for 104.17.20.196 from https://dnsdblookup.com/
+域名列表为
+['jp02.nttkk.com', 'wz.weishao2023.dk.eu.org', 'speedip.tuyoyo.eu.org', 'jpvsavhyu.76898102.xyz', 'www.nitianzw.com', 'www.93xscc.com', '7.namesilo123.top', 'www.lyzdzy.com', 'www.85xs.cc', 'www.5aihh.cn', 'nangua55.com', 'pdzmre77473.sanfen001.top', '6988tv.com', 'usshsaba.114514782.xyz', 'zl.aitrjc.xyz', 'www.zzztch.com', 'a2.nttkk.com', 'files.superbed.cc', 'www.cocanwelding.com', '6.namesilo123.top', 'superbed.cc', 'jpnewacs.114514782.xyz', 'www.superbed.cc', '80.cf.bestl.de', 'cbsedu.com.cn', '26.namesilo123.top', 'jpadwinfs.114514782.xyz', 'speedcl.5489265.xyz', 'www.jsljd.com', 'www.heinu.cc', 'www.iios.club', '333.666999.world', 'amstdhebb.76898102.xyz', 'zz.easylink.work']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jpvsavhyu.76898102.xyz...
+Performing DNS lookup for www.85xs.cc...
+Performing DNS lookup for www.93xscc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

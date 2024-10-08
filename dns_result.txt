@@ -2,30 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jpvsavhyu.76898102.xyz
-Address: 104.20.18.214
+Name:	www.avtozapchasti24.lv
+Address: 172.64.145.78
+Name:	www.avtozapchasti24.lv
+Address: 104.18.42.178
+Name:	www.avtozapchasti24.lv
+Address: 2606:4700:4400::ac40:914e
+Name:	www.avtozapchasti24.lv
+Address: 2606:4700:4400::6812:2ab2
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.85xs.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.45.49
-Name:	ips.993888.xyz
-Address: 104.17.75.100
-Name:	ips.993888.xyz
-Address: 104.17.68.183
+Name:	www.pezzidiricambio24.it
+Address: 172.64.150.36
+Name:	www.pezzidiricambio24.it
+Address: 104.18.37.220
+Name:	www.pezzidiricambio24.it
+Address: 2606:4700:4400::ac40:9624
+Name:	www.pezzidiricambio24.it
+Address: 2606:4700:4400::6812:25dc
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.75.100
-Name:	ips.993888.xyz
-Address: 104.16.45.49
-Name:	ips.993888.xyz
-Address: 104.17.68.183
+Name:	www.lyzdzy.com
+Address: 162.209.149.30
 
