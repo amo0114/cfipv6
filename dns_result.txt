@@ -1,35 +1,15 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.sztimi.com
-Address: 64.32.14.150
+** server can't find kalafon.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.manhuadb.com
-Address: 172.67.138.140
-Name:	www.manhuadb.com
-Address: 104.21.46.121
-Name:	www.manhuadb.com
-Address: 2606:4700:3032::ac43:8a8c
-Name:	www.manhuadb.com
-Address: 2606:4700:3037::6815:2e79
+** server can't find 924xkvt.gwjfpw.work: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.hnxinlian.org	canonical name = sbcdn.cc.
-sbcdn.cc	canonical name = dash.cloudflare.com.
-Name:	dash.cloudflare.com
-Address: 104.17.111.184
-Name:	dash.cloudflare.com
-Address: 104.17.110.184
-Name:	dash.cloudflare.com
-Address: 2606:4700::6811:6fb8
-Name:	dash.cloudflare.com
-Address: 2606:4700::6811:6eb8
+** server can't find inaout.top: NXDOMAIN
 
