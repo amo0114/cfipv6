@@ -2,32 +2,46 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.avtozapchasti24.lv
-Address: 172.64.145.78
-Name:	www.avtozapchasti24.lv
-Address: 104.18.42.178
-Name:	www.avtozapchasti24.lv
-Address: 2606:4700:4400::ac40:914e
-Name:	www.avtozapchasti24.lv
-Address: 2606:4700:4400::6812:2ab2
+Name:	jpvsavhyu.76898102.xyz
+Address: 104.20.22.203
+Name:	jpvsavhyu.76898102.xyz
+Address: 172.67.70.174
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.pezzidiricambio24.it
-Address: 172.64.150.36
-Name:	www.pezzidiricambio24.it
-Address: 104.18.37.220
-Name:	www.pezzidiricambio24.it
-Address: 2606:4700:4400::ac40:9624
-Name:	www.pezzidiricambio24.it
-Address: 2606:4700:4400::6812:25dc
+www.xinjuc.com	canonical name = xinju.cloudflare.182682.xyz.
+Name:	xinju.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	xinju.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	xinju.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	xinju.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	xinju.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	xinju.cloudflare.182682.xyz
+Address: 2606:4700:99e0::57e7:7d3c
+Name:	xinju.cloudflare.182682.xyz
+Address: 2606:4700:3034::51fe:5e8b
+Name:	xinju.cloudflare.182682.xyz
+Address: 2606:4700:27::6846:19e4
+Name:	xinju.cloudflare.182682.xyz
+Address: 2606:4700:3037::d84:4ac2
+Name:	xinju.cloudflare.182682.xyz
+Address: 2606:4700:3115::31f0:66a5
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 162.209.149.30
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.220.106
+Name:	ips.993888.xyz
+Address: 104.17.75.207
+Name:	ips.993888.xyz
+Address: 162.159.152.2
 

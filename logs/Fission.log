@@ -2993,3 +2993,25 @@ Performing DNS lookup for www.93xscc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4a8a395] Update project files
+ 4 files changed, 66 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   0ca6919..4a8a395  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.93.79...
+Fetching domains for 104.17.120.24...
+Fetching domains for 104.17.87.122...
+succeed to fetch domains for 104.17.120.24 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.87.122 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.93.79 from https://dnsdblookup.com/
+域名列表为
+['ga66.net', 'www.linnuozs.com', 'www.pezzidiricambio24.it', 'www.teile-direkt.ch', 'zoobio.es', 'www.rezervniavtodeli24.si', 'www.btbdys.com', 'www.zzztch.com', 'www.piecesautodiscount.fr', 'euautoosad.ee', 'teile-direkt.ch', 'www.euautodele.dk', 'euvaraosat.fi', 'www.euvaraosat.fi', 'www.motordoctor.dk', 'www.lyzdzy.com', 'euautodele.dk', 'piecesautodiscount.fr', 'kan234.com', 'www.kuaikan66.com', 'avtozapchasti24.lv', 'www.sjzsckj.com', 'www.laroche-posay.co.uk', 'dsxys.com', 'pezzidiricambio24.it', 'vcd.la', 'www.avtozapchasti24.lv', 'www.euautodeler.co.no', 'abcde1.82xm.com', '1.namesilo123.top', 'www.nangua55.com', 'www.cfhuagong.com', 'domp4.net', 'www.i4yy.com', 'www.zoobio.es', 'www.autodoc.lu', 'autodoc.lu', 'euautodeler.co.no', 'www.euautoosad.ee', 'client.ehcgrad.com', 'www.bildelar-online.se', '789kp.com', 'tv.ci']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.avtozapchasti24.lv...
+Performing DNS lookup for www.pezzidiricambio24.it...
+Performing DNS lookup for www.lyzdzy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
