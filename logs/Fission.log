@@ -3037,3 +3037,25 @@ Performing DNS lookup for www.99wx.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a374b34] Update project files
+ 4 files changed, 48 insertions(+), 63 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   5c59bbf..a374b34  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.54.24...
+Fetching domains for 104.17.108.186...
+Fetching domains for 104.17.101.98...
+succeed to fetch domains for 104.17.108.186 from https://site.ip138.com/
+succeed to fetch domains for 104.17.101.98 from https://site.ip138.com/
+succeed to fetch domains for 104.17.54.24 from https://ipchaxun.com/
+域名列表为
+['www.iios.club', 'www.95ck.net', 'www.nmhydz.com', 'pubgmoblielite.help.com', 'help.com', 'tencentgames.help.com', 'offline.help.com', 'www.nitianxieshen.com', 'google.help.com', '28et.com', 'www.cfhuagong.com', 'msjh520.com', 'www.zzztch.com', 'www.xigua5.com', 'www.88wwk.com', 'www.fnyyw.net', 'www.help.com', 'm.niuerzs.com', 'www.whpaiger.com', 'www.lyzdzy.com', 'pubgmoblielite.help']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.88wwk.com...
+Performing DNS lookup for tencentgames.help.com...
+Performing DNS lookup for help.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

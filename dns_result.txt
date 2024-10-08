@@ -1,19 +1,35 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.88wwk.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.sztimi.com
+Address: 64.32.14.150
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	tencentgames.help.com
-Address: 103.224.212.247
+Name:	www.manhuadb.com
+Address: 172.67.138.140
+Name:	www.manhuadb.com
+Address: 104.21.46.121
+Name:	www.manhuadb.com
+Address: 2606:4700:3032::ac43:8a8c
+Name:	www.manhuadb.com
+Address: 2606:4700:3037::6815:2e79
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	help.com
-Address: 103.224.212.247
+www.hnxinlian.org	canonical name = sbcdn.cc.
+sbcdn.cc	canonical name = dash.cloudflare.com.
+Name:	dash.cloudflare.com
+Address: 104.17.111.184
+Name:	dash.cloudflare.com
+Address: 104.17.110.184
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6fb8
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6eb8
 
