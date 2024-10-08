@@ -2949,3 +2949,25 @@ Performing DNS lookup for www.04045858.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 14422db] Update project files
+ 4 files changed, 60 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   091b1fb..14422db  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.58.167...
+Fetching domains for 104.21.17.8...
+Fetching domains for 198.41.220.73...
+succeed to fetch domains for 198.41.220.73 from https://site.ip138.com/
+succeed to fetch domains for 104.21.17.8 from https://site.ip138.com/
+succeed to fetch domains for 104.17.58.167 from https://dnsdblookup.com/
+域名列表为
+['www.tvyb02.com', '778217.com', 'www.cskji.com', 'www.xxx7766.com', 'cf1.492745.xyz', 'www.wxxzzs.com', 'taoiptv.com', 'www.ozstudynet.com', 'wnebrue300.top', 'www.gycsy88.top', 'wap.wnebrue300.top', 'm.ndcwex.top', 'sht.fi', 'wap.nzbxlnph.top', 'www.tuozhan22.com', 'www.50zw.co', '17quhi.com', 'm.tushencn.com', '51play3.me', 'www.75uw.com', 'www.scxdex.com', 'cbfha.com', 'www.weiying0470.cn', 'zongxiu.lsevaqdc.com', '606977.com', 'www.28dushu.com', 'www.leo321.com', 'www.99wx.cc', 'www.sintingtoys.com', 'm.nzbxlnph.top', '3g.nzbxlnph.top', 'www.65bao2.com', 'www.suboji.com', 'www.fqsp8.com', 'www.biinn.com', 'stock.hostmonit.com', 'www.hkhk387.cfd', 'www.lhman.com', 'uu93.com', '8mav1703.com', 'delook.io', 'www.tpyyc.com', 'www.0760go.com', 'm.1i4e969.top', 'www.vcd.la', 'www.madoucm.me', 'yx.887141.xyz', 'wap.1i4e969.top', '77722008.com', 'taijw.com', 'tushencn.com', '2061490.com', 'www.xiaozhishuo.com', 'www.ydxs.cc', '994116.com', 'www.606977.com', 'www.lyzdzy.com', 'hkhk387.cfd', '7.namesilo123.top', 'www.gxyenuo.cn', '3g.gycsy88.top', 'www.lxhtd.cn', 'raw.gitmirror.com', 'www.sxyzxh.com', 'kkyx.yydsii.com', 'ypms5.com', 'www.nsisfans.com', 'www.zzgszz.com', 'nh05b6.com', 'www.66se6.com', 'ycbicycle.com', '5g15s.xyz', 'www.sht.fi', 'www.yunyou4.com', 'fqsp8.com', 'www.tushencn.com', 'nzbxlnph.top', 'wap.gycsy88.top', '558.cc', 'www.4148.net', 'hpx.world', 'www.wxtiyou.cn', '3g.1i4e969.top', 'longli.online', 'hongkong.qing1999.eu.org', 'www.uu93.com', 'www.123kgs.com', 'www.xxpg888.com', 'www.nzbxlnph.top', 'www.ndcwex.top', '3g.wnebrue300.top', 'www.50zw.org', 'www.4890555.com', 'm.luwangyangrong.com', 'winkbj09.com', 'www.njapec.com', 'www.hihi123.com', 'wap.ndcwex.top', 'www.90dushu.com', 'www.maskupnh.com', 'www.96dushu.com', 'www.wnebrue300.top', 'www.cbfha.com', '66se14.com', 'www.paizipai.top', '778899zhg.xyz', 'leo321.com', 'xxx7766.com', 'aa280.com', 'www.dtmm.sg', 'www.ddwhm.com', 'www.1i4e969.top', 'www.10zhanpai.com', 'www.706i.com', 'm.ytdccc.com', 'www.bfb3.com', 'cdn.didi8.com', 'awcg05.com', 'madoucm.me', 'gycsy88.top', 'blog.hostmonit.com', 'tbghjkke.com', 'xs.wxtv.cc', 'msjh520.com', 'www.tangwgo.com', 'www.gaytap.com', 'btmy115.buzz', 'www.xworldadmin.com', 'www.0550cq.com', '1i4e969.top', 'www.tinghen.com', 'nlsdwsz.66666654.xyz', 'www.6i5.com', 'm.gycsy88.top', 'www.ycbicycle.com', 'm.28dushu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tpyyc.com...
+Performing DNS lookup for www.wxxzzs.com...
+Performing DNS lookup for nlsdwsz.66666654.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
