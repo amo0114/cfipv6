@@ -3123,3 +3123,25 @@ Performing DNS lookup for www.whpaiger.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d80f388] Update project files
+ 4 files changed, 64 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   0c817e6..d80f388  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.48.149...
+Fetching domains for 104.16.202.198...
+Fetching domains for 104.16.199.77...
+succeed to fetch domains for 104.16.202.198 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.199.77 from https://site.ip138.com/
+succeed to fetch domains for 104.17.48.149 from https://ipchaxun.com/
+域名列表为
+['www.jinwanchiji.top', 'www.zzztch.com', 'www.hnxtx.com', 'www.dcs99.com', 'yt9995.c2.hycdn.xyz', 'www.awanmy.com', 'www.m6y6.com', 'f.hubspotusercontent20.net', 'www.zlcq520.com', 'www.8828pk.com', 'www.kxgdyw.com', 'www.5522tl.com', 'm.niuerzs.com', 'www.yh9pk.com', 'www.yan176.com', 'www.30moyu.top', 'cfpro.record.yfun.top', 'www.kbss888.com', 'www.wubei520.com', 'www.5120tl.top', 'www.88wwk.com', '4gdiy.com', 'www.dzy66666.com', 'www.9dingmy.com', 'www.xinyi176.com', 'www.cx888my.com', 'www.tlbb888.com', 'yxy176.com', 'www.xkx999.com', 'www.xz898my.com', 'cfip.xxxxxxxx.tk', 'www.whpaiger.com', 'www.993my.com', 'zlcq520.com', '8877fz.com', 'dcs99.com', 'zm7.m3u8list.top', 'www.999998.vip', '17kyun.com', 'www.8899tl.com', 'www.hhyy028.com', 'www.shy6666.com', 'm.letu9.com', 'www.pk299.com', 'www.720p.tv', 'www.cocanwelding.com', 'www.jg666.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.5522tl.com...
+Performing DNS lookup for m.letu9.com...
+Performing DNS lookup for m.niuerzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
