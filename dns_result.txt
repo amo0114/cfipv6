@@ -1,25 +1,18 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find wylh08.com: NXDOMAIN
+** server can't find www.zlcq520.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.tl123123.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	6768.918518.xyz
-Address: 172.64.130.8
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	loftmag.cz
-Address: 172.67.167.168
-Name:	loftmag.cz
-Address: 104.21.42.227
-Name:	loftmag.cz
-Address: 2606:4700:3033::ac43:a7a8
-Name:	loftmag.cz
-Address: 2606:4700:3035::6815:2ae3
+www.yan176.com	canonical name = host1108236b.host1068.zhamerica.com.
+Name:	host1108236b.host1068.zhamerica.com
+Address: 23.224.10.238
 

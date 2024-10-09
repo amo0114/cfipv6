@@ -3220,3 +3220,25 @@ Performing DNS lookup for 96cwf.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 16ea85c] Update project files
+ 4 files changed, 56 insertions(+), 32 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   03a0a77..16ea85c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.52.140...
+Fetching domains for 104.18.63.220...
+Fetching domains for 104.16.104.85...
+succeed to fetch domains for 104.22.52.140 from https://site.ip138.com/
+succeed to fetch domains for 104.16.104.85 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.63.220 from https://ipchaxun.com/
+域名列表为
+['kz22.cc', '5yess.com', 'jhpcza.66666654.xyz', 'ca-074.top', 'www.victorypcb.com', 'www.976596.com', 'cfip.xxxxxxxx.tk', 'm.anluyg.net', 'www.210vb.com', 'www.mesos4u.com', '976596.com', 'ipdb.rr.nu', 'www.yumenglashshop.com', 'tripyar.com', 'henyep.com', 'edm.henyep.com', 'yh6.dtku41.xyz', '6768.918518.xyz', 'cfcdn2.sanfencdn9.com', 'm.niuerzs.com', 'www.tongque.net', 'victorypcb.com', 'www.busfan.club', 'wylh08.com', 'mesos4u.com', 'www.wylh08.com', 'loftmag.cz', 'www.luwangyangrong.com', 'www.wdgoc6d1.cn', 'www.93xscc.com', 'sjlrsckvl.tk', '210vb.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wylh08.com...
+Performing DNS lookup for 6768.918518.xyz...
+Performing DNS lookup for loftmag.cz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
