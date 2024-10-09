@@ -3198,3 +3198,25 @@ Performing DNS lookup for cfip.xxxxxxxx.tk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 03a0a77] Update project files
+ 4 files changed, 63 insertions(+), 69 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   0e4c367..03a0a77  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.79.10...
+Fetching domains for 104.18.30.8...
+Fetching domains for 172.64.102.195...
+succeed to fetch domains for 104.18.30.8 from https://dnsdblookup.com/
+succeed to fetch domains for 172.64.102.195 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.79.10 from https://ipchaxun.com/
+域名列表为
+['x5n88.com', 'www.wenzidi.com', '3567ya.com', 'm.niuerzs.com', 'www.omd2008.com', 'www.6i5.com', '50zw.com', 'www.x5n88.com', 'www.58ha.com', 'www.luwangyangrong.com', 'www.my-hammer.de', 'ai388.com', 'een58.com', 'www.tpyyc.com', 'www.eee264.com', '7.namesilo123.top', 'www.printful.com', 'cfcdn3.sanfencdn9.com', 'yncareer.com', 'www.4huk51.com', 'www.bt4kyy.com', 'm.6i5.com', 'nlsdwsz.66666654.xyz', 'www.tinghen.com', 'www.grantthornton.kz', 'www.66se2.com', 'www.knutlieas.no', 'www.630book.com', 'www.pddpdd.cn', 'www.riogrande.com', '96cwf.com', 'jpadwinfs.114514782.xyz', 'www.zzztch.com', 'www.yunfanyi.net', 'www.ekahau.com', 'bwin.189988.xyz', 'www.3567ya.com', 'ukcc.digicert.pp.ua', 'www.drhorton.com', 'www.96cwf.com', '28et.com', 'www.ai388.com', '1cric.com', 'cache.matche.us', 'www.lijunys.com', 'dsxys.com', 'cfcdn2.sanfencdn9.com', 'www.czcdc.com', 'eee264.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.3567ya.com...
+Performing DNS lookup for www.eee264.com...
+Performing DNS lookup for 96cwf.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

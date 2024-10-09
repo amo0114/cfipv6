@@ -1,23 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.3567ya.com: NXDOMAIN
+** server can't find wylh08.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.eee264.com
-Address: 194.53.53.249
-Name:	www.eee264.com
-Address: 194.53.53.7
+Name:	6768.918518.xyz
+Address: 172.64.130.8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-96cwf.com	canonical name = dr1c.301yunshuju.com.
-dr1c.301yunshuju.com	canonical name = 77980.bodis.com.
-Name:	77980.bodis.com
-Address: 199.59.243.227
+Name:	loftmag.cz
+Address: 172.67.167.168
+Name:	loftmag.cz
+Address: 104.21.42.227
+Name:	loftmag.cz
+Address: 2606:4700:3033::ac43:a7a8
+Name:	loftmag.cz
+Address: 2606:4700:3035::6815:2ae3
 
