@@ -3102,3 +3102,24 @@ Performing DNS lookup for inaout.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0c817e6] Update project files
+ 4 files changed, 51 insertions(+), 9 deletions(-)
+To github.com:amo0114/cfipv6.git
+   026de44..0c817e6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.108.0...
+Fetching domains for 104.17.97.147...
+Fetching domains for 104.17.106.216...
+succeed to fetch domains for 104.17.106.216 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.97.147 from https://site.ip138.com/
+succeed to fetch domains for 104.17.108.0 from https://site.ip138.com/
+域名列表为
+['dsxys.com', 'www.xiuluo942.com', 'www.stashinvest.com', 'www.kanunu2.com', 'zzztch.com', 'ipdb.rr.nu', 'yzhma.com', '104-17-108-0.ip.flares.cloud', 'cfip.xxxxxxxx.tk', 'www.whpaiger.com', 'www.yzhma.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yzhma.com...
+Performing DNS lookup for 104-17-108-0.ip.flares.cloud...
+Performing DNS lookup for www.whpaiger.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
