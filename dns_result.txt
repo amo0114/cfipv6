@@ -1,49 +1,50 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
+** server can't find www.qq33jj.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 162.209.149.30
+99999xam.com	canonical name = 301fq.2018yiqifa.com.
+301fq.2018yiqifa.com	canonical name = billy.cname66.com.
+billy.cname66.com	canonical name = billy.jumpserver.xyz.
+Name:	billy.jumpserver.xyz
+Address: 107.148.1.218
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.209.182
+Address: 104.24.160.124
 Name:	cfip.xxxxxxxx.tk
-Address: 104.19.56.19
+Address: 172.66.169.211
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.103.56
+Address: 198.41.218.111
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.154.233
+Address: 104.24.190.198
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.99.197
+Address: 108.162.196.145
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.215.163
+Address: 104.20.217.226
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.191.9
+Address: 104.20.210.173
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.104.99
+Address: 104.25.50.130
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.220.58
+Address: 104.25.28.249
 Name:	cfip.xxxxxxxx.tk
-Address: 104.19.38.42
+Address: 104.18.9.240
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.25.234
+Address: 104.17.171.98
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.165.25
+Address: 104.18.114.48
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.214.195
+Address: 104.25.33.227
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.208.216
+Address: 104.25.96.77
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.221.161
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 162.209.149.30
+Address: 104.18.47.238
 
