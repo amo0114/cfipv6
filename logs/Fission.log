@@ -3080,3 +3080,25 @@ Performing DNS lookup for www.hnxinlian.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 026de44] Update project files
+ 4 files changed, 42 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   d33d52e..026de44  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.35.154...
+Fetching domains for 104.18.42.68...
+Fetching domains for 104.18.92.73...
+succeed to fetch domains for 104.18.42.68 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.35.154 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.92.73 from https://ipchaxun.com/
+域名列表为
+['www.culinary-heritage.com', 'btdigg5.pw', 'www.qbl020.com', 'www.xz12.com', 'alpari.com', '818o.com', 'www.831av.com', 'bestcf.onecf.eu.org', '158499.com', 'www.567a.com', 'www.28yuce.com', 'giorgioarmanibeauty.com.hk', 't9gm.com', 'www.bu228.com', '909re.com', 'urbahne.tk', '924xkvt.gwjfpw.work', 'm.163fahao.com', '91sezhan.com', 'ggsddp.tk', 'www.ggsddp.tk', 'bu228.com', 'ka.iz.mk', '28yuce.com', 'www.818o.com', 'qbl020.com', 'www.0104hu.com', '0104hu.com', 'www.giorgioarmanibeauty.com.hk', 'edzr.cn', 'www.creepypasta.com', 'h-loli.cc', 'www.gaoqingdiguo.com', 'www.909re.com', '831av.com', 'www.7789922.com', 'abrajnet.com', 'www.alpari.com', '6bc6bc.com', 'www.6bc6bc.com', 'watchfree.com', 'kalafon.com', 'uibieyang.com', 'inaout.top', 'www.1001it.com', 'dayjianzhu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for kalafon.com...
+Performing DNS lookup for 924xkvt.gwjfpw.work...
+Performing DNS lookup for inaout.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
