@@ -1,36 +1,29 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.researchgate.net
-Address: 104.17.32.105
-Name:	www.researchgate.net
-Address: 104.17.33.105
-Name:	www.researchgate.net
-Address: 2606:4700::6811:2069
-Name:	www.researchgate.net
-Address: 2606:4700::6811:2169
+** server can't find www.filaffinity.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wei333.com
-Address: 75.2.115.196
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-yundunwawablogcdn1dx.wawacm.com	canonical name = blogwaf.yava.pw.
-Name:	blogwaf.yava.pw
-Address: 104.18.224.0
-Name:	blogwaf.yava.pw
-Address: 104.17.152.0
-Name:	blogwaf.yava.pw
-Address: 104.25.128.0
-Name:	blogwaf.yava.pw
-Address: 104.17.120.0
-Name:	blogwaf.yava.pw
-Address: 104.24.18.0
+www.xf187.com	canonical name = seo301vpn.com.
+seo301vpn.com	canonical name = hw4.xiaodns.com.
+Name:	hw4.xiaodns.com
+Address: 23.225.2.53
+Name:	hw4.xiaodns.com
+Address: 23.225.2.54
+Name:	hw4.xiaodns.com
+Address: 23.225.2.50
+Name:	hw4.xiaodns.com
+Address: 23.225.2.51
+Name:	hw4.xiaodns.com
+Address: 23.225.2.52
 

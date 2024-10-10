@@ -3310,3 +3310,24 @@ Performing DNS lookup for www.88viptl.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9f178f1] Update project files
+ 4 files changed, 58 insertions(+), 11 deletions(-)
+To github.com:amo0114/cfipv6.git
+   93bfb87..9f178f1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.212.184...
+Fetching domains for 104.17.33.105...
+Fetching domains for 198.41.220.85...
+succeed to fetch domains for 104.17.33.105 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.220.85 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.212.184 from https://ipchaxun.com/
+域名列表为
+['www.biinn.com', 'blog.201043.xyz', 'ayuer.com', 'bestcf.onecf.eu.org', 'www.tv9090.com', 'www.k77yy.com', 'www.11txt.com', '0550cq.com', 'cfip.201043.xyz', 'www.nsisfans.com', 'www.881dy.com', 'acus.cloudflarest.link', 'tmp.fzxx.xyz', 'www.50zw.com', 'wei333.com', 'www.hg0389.com', 'www.zzztch.com', 'www.7749tv.cc', 'www.woaiqi.com', 'm.xinpian8.com', 'www.suboji.com', 'www.paizipai.top', 'www.92mili.com', 'www.706i.com', '606977.com', 'www.boyangjt.com', 'www.65bao2.com', 'wxxzzs.com', 'www.tinghen.com', 'bounce.researchgate.net', 'www.zzgszg.com', 'www.606977.com', 'www.aiquyy.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.vodbd.com', 'www.vcd.la', 'www.dafuhao.com', 'www.630book.com', 'qb50.com', 'sanli666.com', 'fzxx.xyz', 'explore.researchgate.net', 'www.0550cq.com', 'www.wei333.com', 'www.fzxx.xyz', 'researchgate.net', 'www.4gdiy.com', 'cfip.xxxxxxxx.tk', 'www.b7yy.cc', 'qiangkouzhao.com', '4gdiy.com', 'cdn.cntun.cf', 'suboji.com', 'www.researchgate.net', 'www.6i5.com', 'm.0550cq.com', 'www.e0101.com', 'www.ncdwzs.com', '923055.com', 'www.28dushu.com', 'www.owlook.com.cn', 'x.xianbaoyun.cc', 'www.ddwhm.com', 'www.lnudz.com', 'www.lyzdzy.com', 'www.uu93.com', 'vcd.la', 'www.xxpg888.com', 'www.dy420.com', 'www.hihi123.com', 'ipdb.rr.nu', 'm.niuerzs.com', 'tv.ci', 'www.96dushu.com', 'ganpian.com', 'www.923055.com', 'tunneltransfer.bpyjc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.researchgate.net...
+Performing DNS lookup for wei333.com...
+Performing DNS lookup for yundunwawablogcdn1dx.wawacm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
