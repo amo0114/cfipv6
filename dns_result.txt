@@ -2,20 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	gaoxiaoe.com
-Address: 104.160.169.210
-
-Server:		8.8.4.4
-Address:	8.8.4.4#53
-
-Non-authoritative answer:
-Name:	www.huanyaad.com
-Address: 104.160.169.201
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.183.139
+Name:	cfip.xxxxxxxx.tk
+Address: 172.64.152.137
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.254.159
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
+Name:	www.nxyxzl.com
 Address: 162.209.149.30
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.nangua55.com
+Address: 192.157.56.141
 

@@ -3443,3 +3443,25 @@ Performing DNS lookup for www.p777d.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c06628c] Update project files
+ 4 files changed, 53 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   bee4421..c06628c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.239.149...
+Fetching domains for 172.64.86.66...
+Fetching domains for 104.20.248.185...
+succeed to fetch domains for 172.64.86.66 from https://site.ip138.com/
+succeed to fetch domains for 104.20.239.149 from https://site.ip138.com/
+succeed to fetch domains for 104.20.248.185 from https://ipchaxun.com/
+域名列表为
+['www.paizipai.top', 'www.xinyi176.com', 'www.tv9090.com', 'www.huanyaad.com', 'm.luwangyangrong.com', '2499kp.com', 'www.wxxzzs.com', '65bao.com', 'www.5522tl.com', 'www.luwangyangrong.com', 'www.hhyy028.com', 'yncareer.com', 'www.whpaiger.com', 'm.0550cq.com', 'www.dy420.com', 'gaoxiaoe.com', 'www.cfhuagong.com', 'www.sf123.mobi', 'stock.hostmonit.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for gaoxiaoe.com...
+Performing DNS lookup for www.huanyaad.com...
+Performing DNS lookup for www.cfhuagong.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
