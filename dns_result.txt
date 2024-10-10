@@ -2,26 +2,36 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.8xg030.com	canonical name = wo1q7yzl.nbnnn.xyz.
-Name:	wo1q7yzl.nbnnn.xyz
-Address: 27.124.4.246
-Name:	wo1q7yzl.nbnnn.xyz
-Address: 23.225.159.42
-Name:	wo1q7yzl.nbnnn.xyz
-Address: 202.79.161.151
-Name:	wo1q7yzl.nbnnn.xyz
-Address: 23.225.160.132
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find egd.dshsw.com: NXDOMAIN
+Name:	p777d.com
+Address: 172.64.153.96
+Name:	p777d.com
+Address: 104.18.34.160
+Name:	p777d.com
+Address: 2606:4700:4400::6812:22a0
+Name:	p777d.com
+Address: 2606:4700:4400::ac40:9960
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.8xg022.com
-Address: 38.239.187.180
-** server can't find www.8xg022.com: NXDOMAIN
+ddwhm.com	canonical name = speed.marisalnc.com.
+speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global29.66666654.xyz.
+Name:	cfcn-a-global29.66666654.xyz
+Address: 104.20.21.187
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.p777d.com
+Address: 104.18.34.160
+Name:	www.p777d.com
+Address: 172.64.153.96
+Name:	www.p777d.com
+Address: 2606:4700:4400::ac40:9960
+Name:	www.p777d.com
+Address: 2606:4700:4400::6812:22a0
 

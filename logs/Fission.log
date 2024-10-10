@@ -3399,3 +3399,25 @@ Performing DNS lookup for www.3dck.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d9dbbbb] Update project files
+ 4 files changed, 60 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   eb976d7..d9dbbbb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.8.228...
+Fetching domains for 104.17.226.36...
+Fetching domains for 104.18.17.221...
+succeed to fetch domains for 104.18.17.221 from https://site.ip138.com/
+succeed to fetch domains for 104.17.226.36 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.8.228 from https://dnsdblookup.com/
+域名列表为
+['www.8xder.com', '8xlf.com', 'www.jai8.com', 'www.hm11.lol', '96.96-h.com', 'mu.muyyw.com', '8xh015.com', 'www.2019sa.com', 'nimpapps.com', '9085.co', '8xh002.com', 'www.3355m.com', 'mre.mrews.com', '8xjf.com', 'www.a6.com', 'www.8xh015.com', '580.com', 'bax9933.com', 'www.765h765.com', 'www.x9h22.com', 'ccs06.com', 'xinbi.me', '4huav777.com', '8xha.com', 'www.8xlg.com', '8xg012.com', '1585888.com', 'bxzhuo.com', '981cf.com', 'xinbo.vip', 'www.zhiqihuo.com', 'www.333ssl.com', 'www.4humm10.com', 'ww.ddddky.com', 'xinshijidp.com', 'www.grantthornton.com.cy', '8xg022.com', 'www.580.com', 'x9h22.com', '6345mu.com', 'daw.nbbnd.com', 'sbrc1.mou1688.net', '8xge.com', 'bax0701.com', 'bxdas.com', 'hpp777.com', 'www.8xlp.com', '8xh001.com', 'apk.awww124.com', '6345lo.com', 'www.ccs06.com', 'www.lyzdzy.com', 'uu.uueeka.com', 'down.bggfk.com', 'www.p52.com', '799nv.com', 'www.125568.com', '8xh007.com', 'iios.club', 'www.8xk026.com', 'www.6345mu.com', '3m.3mdq.com', 'njr77.com', 'pfizerforprofessional.com', 'bax9988.com', 'winniepoq.com', 'www.8xg029.com', 'www.799nv.com', '8xh006.com', 'defjk.dnmsa.com', 'penaten.ca', 'www.8xlu.com', 'www.8xlf.com', '8xlo.com', 'bax8866.com', '8xgc.com', 'jwkb.chaochui001.com', 'bax6677.com', 'www.8xh019.com', 'www.vaser.com', '8xlu.com', 'blgj7.vip', 'huanyuf.com', '8xlp.com', '8xh021.com', 'dwa.dshsw.com', 'bax8855.com', 'www.bax9933.com', '8xh030.com', 'rgd.kkhdwd.com', 'xinshijiap.com', 'bax0633.com', 'www.8xg018.com', '8xh019.com', 'm.zhiqihuo.cc', 'www.bax6611.com', '8xg029.com', 'cdnapiif.blgj7.vip', 'xtbet.com', 'www.8xh014.com', '8xg023.com', 'jkw.kkhdwd.com', 'dkpea.deahklw.com', 'www.saensukcity.go.th', 'www.8xjb.com', '76ee.net', '988jg.com', '8xder.com', 'xbyl.org', 'www.9085.co', 'www.bax7733.com', '8xg025.com', '8xkb.com', 'jgyl.me', '8xkc.com', '8xg019.com', '2019sa.com', 'jai8.com', 'xinshijibp.com', 'jilrapp.com', 'qmwipa.com', 'p52.com', 'id.loc.gov', 'www.zzztch.com', 'wnsr1618.com', 'hrf.nbbnd.com', 'www.981cf.com', 'www.8xg030.com', '8xjb.com', 'www.4hupp21.com', 'egd.dshsw.com', 'bkvip77.com', 'iios.fun', 'cc.ccepws.com', '8xk013.com', 'a6.com', 'zaizaiap.com', '8xg018.com', 'bxdeg.com', 'www.8xlo.com', 'web.wnsr1618a.com', '777tiger4.com', 'www.8xg023.com', '112371.com', 'www.8xh021.com', 'www.8xg022.com', '8xding.com', '8s5s.cn.viplink.maigcloud.com', 'www.6345lo.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.8xg030.com...
+Performing DNS lookup for egd.dshsw.com...
+Performing DNS lookup for www.8xg022.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
