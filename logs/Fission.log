@@ -3377,3 +3377,25 @@ Performing DNS lookup for b4g22.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main eb976d7] Update project files
+ 4 files changed, 59 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   642dfa6..eb976d7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.26.103...
+Fetching domains for 198.41.221.173...
+Fetching domains for 104.21.20.155...
+succeed to fetch domains for 198.41.221.173 from https://site.ip138.com/
+succeed to fetch domains for 104.21.26.103 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.20.155 from https://dnsdblookup.com/
+域名列表为
+['www.75xs.cc', 'kinonline.hk', 'avlulu913.xyz', 'fcpjqd.top', 'emdz626.com', 'vip1168.com', 'yh6.dtku41.xyz', 'wap.cldsiv.top', 'wap.fcpjqd.top', 'www.0550cq.com', 'fastplayer.uk', 'www.82sehua.com', 'www.taoliantao365.com', 'www.hg098.com', 'www.4hux87.com', 'www.90dushu.com', 'novaswap.finance.org', '8810868.com', 'uu93.com', 'www.longwangchuanshuo.net', 'bestcf.onecf.eu.org', 'cdn.didi8.com', 'cf1.492745.xyz', 'www.paizipai.top', '7.namesilo123.top', 'ishihypnosis.com', '3g.fcpjqd.top', '8tdugnl.jiuse6666.xyz', 'qiangkouzhao.com', 'www.gzlatin.com', 'maifis.top', 'www.xztaoxi.com', 'wap.jessiy.top', 'www.wxxzzs.com', 'www.xjhfqz.com', 'www.longwangchuanshuo.com', 'www.btlshb.com', 'shop-ecu.com', 'www.dddae11.top', 'www.woaiqi.com', 'www.6i5.com', 'm.puucdpzn.top', 'www.puucdpzn.top', 'www.gaierqiyy.com', 'www.kk1199.net', 'tingshucn.com', 'www.tengyunpic.com', 'ray119.com', 'www.tasteshow.com', 'zmkan.top', 'yyds666.top', 'efcloud3.cc', 'www.gezlx.top', 'cctv6.eu.org', '9797.88188.fun', 'www.11txt.com', 'www.rijiyize.com', 'cldsiv.top', 'w1.rocketgo.vip', 'uboy.run', 'www.4148.net', 'www.7749tv.com', '7sc.cc', '3g.cldsiv.top', 'www.hengdawatch.com', 'www.fsvwq.cn', 'tlh.rollstockpac.com', '82sehua.com', 'www.tingshucn.com', 'www.qf527.com', 'www.3dck.com', 'www.cskji.com', 'www.tv9090.com', 'www.hr0354.com', 'www.cbcv.cc', 'www.futebolinterior.com.br', 'iios.club', 'www.hqfrold.cn', 'www.uu93.com', 'www.80yy.org', 'cf-lt.sharecentre.online', 'www.ugome.com', 'stock.hostmonit.com', 'egsxw8.jiuse6666.xyz', 'www.bjyongcheng.com', 'm.tingshucn.com', 'jiuse6666.xyz', 'www.93xscc.com', '606977.com', '8dkk.cn', 'www.fcpjqd.top', '4h90rx.jiuse6666.xyz', 'zshlhg.com', 'www.lailai360.com', '233e365.com', 'www.99wx.cc', 'www.cfhuagong.com', 'www.darloer.com', 'www.asianperfectfood.com', 'm.fcpjqd.top', '5zbtef.jiuse6666.xyz', 'gezlx.top', 'img.hostmonit.com', 's3.rocketgo.vip', 'm.huahua37.top', 'xjhfqz.com', 'puucdpzn.top', '6scricket.com', 'm.gezlx.top', 'www.efcloud3.cc', 'ew9ze.cc', 'www.923055.com', 'www.tinghen.com', 'netstat.club', 'raw.gitmirror.com', 'www.77zw.cc', 'www.pwcai.com', '3g.puucdpzn.top', 'www.278ys.cc', '4hux87.com', 'n1.rocketgo.vip', 'v3.rocketgo.vip', 'u2.rocketgo.vip', 'blog.hostmonit.com', 'www.lijunys.com', 'byrutdb.org', 's.team-mnc.com', 'www.gslhy168.com', 'www.yingshixiaoshuo.com', 'www.zysrsw.cn', 'www.hz63e.cn', '3g.jessiy.top', 'genesis-market.com', 'www.qp666.com', 'www.xzpie.cn', 'xs.wxtv.cc', 'www.706i.com', 'www.shlunsi.com', '9111906.com', '3g.gezlx.top', '3963ccc.xyz', 'www.chongxinpet.com', 'wap.puucdpzn.top', '4148.net', 'www.pnjzrhv.cn', 'xw7.net', 'www.cldsiv.top', 'qp66.com', 'coin-1.netstat.club', 'm.jessiy.top', 'www.4gdiy.com', 'shlunsi.com', 'www.wanhaocable.com', 'r4.rocketgo.vip', 'www.ddwhm.com', 'www.rocketgo.vip', 'www.8dkk.cn', 'badavpn.co.kr', 'm.0550cq.com', 'www.zhongtuohr.com', 'www.1v4d.cn', 'nbt6.com', 'www.116.ag', 'baxtc.66666654.xyz', 'msjh520.com', 'www.96dushu.com', 'tasteshow.com', 'www.boyangjt.com', 'www.tvccc.org', 'sub1.timeneverchanges.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yh6.dtku41.xyz...
+Performing DNS lookup for www.hr0354.com...
+Performing DNS lookup for www.3dck.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
