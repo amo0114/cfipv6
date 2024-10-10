@@ -1,29 +1,27 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.filaffinity.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.a234bs.com
+Address: 172.67.213.99
+Name:	www.a234bs.com
+Address: 104.21.53.138
+Name:	www.a234bs.com
+Address: 2606:4700:3032::6815:358a
+Name:	www.a234bs.com
+Address: 2606:4700:3035::ac43:d563
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
+Name:	www.lyzdzy.com
 Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xf187.com	canonical name = seo301vpn.com.
-seo301vpn.com	canonical name = hw4.xiaodns.com.
-Name:	hw4.xiaodns.com
-Address: 23.225.2.53
-Name:	hw4.xiaodns.com
-Address: 23.225.2.54
-Name:	hw4.xiaodns.com
-Address: 23.225.2.50
-Name:	hw4.xiaodns.com
-Address: 23.225.2.51
-Name:	hw4.xiaodns.com
-Address: 23.225.2.52
+Name:	b4g22.com
+Address: 103.224.212.212
 
