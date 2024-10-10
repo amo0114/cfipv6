@@ -3421,3 +3421,25 @@ Performing DNS lookup for www.8xg022.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bee4421] Update project files
+ 4 files changed, 68 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   d9dbbbb..bee4421  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.50.122...
+Fetching domains for 104.18.21.188...
+Fetching domains for 104.18.22.117...
+succeed to fetch domains for 104.18.21.188 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.22.117 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.50.122 from https://ipchaxun.com/
+域名列表为
+['www.decathlon.in', 'www.269yu.com', 'hkaa.sectigo.pp.ua', '7.namesilo123.top', 'www.liebaonet63.com', 'www.93zzy.com', 'www.heute.at', 'www.chindomart.com', 'p777d.com', 'www.5456yi.com', 'www.jjtyss.com', 'www.zzkdhb.com', 'www.planetwatch.us', '93zzy.com', 'www.iios.club', 'tierisch.heute.at', 'www.vu.edu.au', 'mmhimages.com', 'mv432.com', 'heute.at', 'liebaonet63.com', 'www.larotondapalace.com', '366ti.com', 'up.gdqeb.club', '4huav244.com', 'nlsdwsz.66666654.xyz', 'www.4huav244.com', '269yu.com', 'ipdb.rr.nu', 'www.366ti.com', 'www.kanju8.com', 'www.4hus77.com', 'www.ddwhm.com', 'fastupload.io', 'wap.xbiquge.me', 'www.manhuadb.com', 'www.tw321.com', 'www.4hu23n.com', '4hu23n.com', 'www.p777d.com', 'zl.aitrjc.xyz', 'www.630book.com', 'www.iios.me', 'appapi.zhonghuamulanhui.com', 'tv8box.com', '4hus77.com', 'www.hanfangxiang.com', 'api1000.gdqeb.club', 'www.lewen5.com', 'www.456gg.com', 'ddwhm.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.6988tv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for p777d.com...
+Performing DNS lookup for ddwhm.com...
+Performing DNS lookup for www.p777d.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

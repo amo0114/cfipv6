@@ -2,36 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	p777d.com
-Address: 172.64.153.96
-Name:	p777d.com
-Address: 104.18.34.160
-Name:	p777d.com
-Address: 2606:4700:4400::6812:22a0
-Name:	p777d.com
-Address: 2606:4700:4400::ac40:9960
+Name:	gaoxiaoe.com
+Address: 104.160.169.210
+
+Server:		8.8.4.4
+Address:	8.8.4.4#53
+
+Non-authoritative answer:
+Name:	www.huanyaad.com
+Address: 104.160.169.201
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-ddwhm.com	canonical name = speed.marisalnc.com.
-speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global29.66666654.xyz.
-Name:	cfcn-a-global29.66666654.xyz
-Address: 104.20.21.187
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.p777d.com
-Address: 104.18.34.160
-Name:	www.p777d.com
-Address: 172.64.153.96
-Name:	www.p777d.com
-Address: 2606:4700:4400::ac40:9960
-Name:	www.p777d.com
-Address: 2606:4700:4400::6812:22a0
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
