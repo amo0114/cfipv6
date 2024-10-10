@@ -1,17 +1,36 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.99xkxtl.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.researchgate.net
+Address: 104.17.32.105
+Name:	www.researchgate.net
+Address: 104.17.33.105
+Name:	www.researchgate.net
+Address: 2606:4700::6811:2069
+Name:	www.researchgate.net
+Address: 2606:4700::6811:2169
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ysz8.com
-Address: 103.224.212.212
+Name:	wei333.com
+Address: 75.2.115.196
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.88viptl.com: NXDOMAIN
+Non-authoritative answer:
+yundunwawablogcdn1dx.wawacm.com	canonical name = blogwaf.yava.pw.
+Name:	blogwaf.yava.pw
+Address: 104.18.224.0
+Name:	blogwaf.yava.pw
+Address: 104.17.152.0
+Name:	blogwaf.yava.pw
+Address: 104.25.128.0
+Name:	blogwaf.yava.pw
+Address: 104.17.120.0
+Name:	blogwaf.yava.pw
+Address: 104.24.18.0
 
