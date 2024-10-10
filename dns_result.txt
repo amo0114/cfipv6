@@ -2,24 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.183.139
-Name:	cfip.xxxxxxxx.tk
-Address: 172.64.152.137
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.254.159
+taolunbo3.cfcdn.cc	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.155.77
+Name:	cf.zmdhc.com
+Address: 172.67.52.147
+Name:	cf.zmdhc.com
+Address: 172.67.5.203
+Name:	cf.zmdhc.com
+Address: 172.67.63.158
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.nxyxzl.com
-Address: 162.209.149.30
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.nangua55.com
-Address: 192.157.56.141
+Name:	kanww.com
+Address: 208.98.40.70
 
