@@ -2,26 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.a234bs.com
-Address: 172.67.213.99
-Name:	www.a234bs.com
-Address: 104.21.53.138
-Name:	www.a234bs.com
-Address: 2606:4700:3032::6815:358a
-Name:	www.a234bs.com
-Address: 2606:4700:3035::ac43:d563
+Name:	yh6.dtku41.xyz
+Address: 72.52.178.23
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.hr0354.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 162.209.149.30
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	b4g22.com
-Address: 103.224.212.212
+www.3dck.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
