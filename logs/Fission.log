@@ -3659,3 +3659,24 @@ Performing DNS lookup for m.niuerzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 13eb72b] Update project files
+ 4 files changed, 84 insertions(+), 8 deletions(-)
+To github.com:amo0114/cfipv6.git
+   822e4c9..13eb72b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.119.145...
+Fetching domains for 104.24.249.198...
+Fetching domains for 104.23.132.183...
+succeed to fetch domains for 104.24.249.198 from https://ipchaxun.com/
+succeed to fetch domains for 104.23.132.183 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.119.145 from https://dnsdblookup.com/
+域名列表为
+['www.hhyy028.com', 'www.sglkj.com.cn', 'm.iwzmanhua.com', 'www.cfhuagong.com', 'wap.luwangyangrong.com', 'www.91mjw.com', 'www.pianku5.com', 'www.ygdy8.cc', 'www.lyzdzy.com', 'www.nmhydz.com', 'www.linnuozs.com', 'www.yhddsb.com', 'www.zpdyw.com', 'www.pk299.com', 'www.91m.cc', 'www.30hu.com', 'www.28et.com', 'www.kbss888.com', 'www.88viptl.com', '91mjw.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.hhyy028.com...
+Performing DNS lookup for www.91mjw.com...
+Performing DNS lookup for www.cfhuagong.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

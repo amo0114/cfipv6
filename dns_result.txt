@@ -2,41 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.16.197.45
-Name:	dcs.jqddos.xyz
-Address: 104.18.104.219
-Name:	dcs.jqddos.xyz
-Address: 104.24.6.85
-Name:	dcs.jqddos.xyz
-Address: 104.16.197.20
-Name:	dcs.jqddos.xyz
-Address: 104.24.56.71
-Name:	dcs.jqddos.xyz
-Address: 104.25.13.87
-Name:	dcs.jqddos.xyz
-Address: 104.25.40.4
-Name:	dcs.jqddos.xyz
-Address: 104.26.13.102
-Name:	dcs.jqddos.xyz
-Address: 104.16.192.173
-Name:	dcs.jqddos.xyz
-Address: 104.25.65.168
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.227.10
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.114.125
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.56.95
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.253.208
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.91mjw.com
-Address: 45.114.11.238
-** server can't find www.91mjw.com: NXDOMAIN
+Name:	www.moller.no
+Address: 104.16.44.75
+Name:	www.moller.no
+Address: 104.16.45.75
+Name:	www.moller.no
+Address: 2606:4700::6810:2c4b
+Name:	www.moller.no
+Address: 2606:4700::6810:2d4b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+Name:	dsxys.com
+Address: 192.64.119.232
 
