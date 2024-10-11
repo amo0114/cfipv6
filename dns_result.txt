@@ -2,20 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.1026tv.com
-Address: 174.139.26.45
+Name:	ah-mingde.com
+Address: 38.181.148.179
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	lbaotv.com
-Address: 174.139.100.141
+qr99.cc	canonical name = chzko.c4bla.bond.
+Name:	chzko.c4bla.bond
+Address: 172.67.219.29
+Name:	chzko.c4bla.bond
+Address: 104.21.62.29
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3034::6815:3e1d
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3030::ac43:db1d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.dzmitv.com
-Address: 67.198.235.138
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
