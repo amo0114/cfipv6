@@ -3507,3 +3507,25 @@ Performing DNS lookup for kanww.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 403eee2] Update project files
+ 4 files changed, 67 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   340eed5..403eee2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.191.99...
+Fetching domains for 104.17.55.207...
+Fetching domains for 198.41.208.129...
+succeed to fetch domains for 104.17.191.99 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.208.129 from https://site.ip138.com/
+succeed to fetch domains for 104.17.55.207 from https://dnsdblookup.com/
+域名列表为
+['www.77dv.com', 'nlsdwsz.66666654.xyz', 'www.dy1255.com', 'www.kingdicg.com', 'www.zsych.net', '778992.com', 'cf-lt.sharecentre.online', 'cfip.xxxxxxxx.tk', 'www.ddwhm.com', 'www.7749tv.com', 'www.tv9090.com', '115155.xyz', 'www.93xscc.com', 'www.named.com', 'cdn-download.yunzhongzhuan.xyz', '606977.com', 'asmrfs.top', 'subowu.com', 'www.fcwei.com', 'www.yx521.net', 'named.com', 'suboji.com', 'www.qp666.com', 'upload.yunzhongzhuan.com', 'www.abu22.com', 'cgcc.digicert.pp.ua', 'www.65bao2.com', 'www.7sc.cc', 'www.99wx.cc', 'clun.top', 'www.smdyy.cc', 'www.cocanwelding.com', 'www.zongcaixs.cc', 'www.tinghen.com', 'upload.yzzpan.com', 'www.33mov.com', 'download.yunzhongzhuan.com', 'www.k77yy.com', 'qhg444.com', 'kz22.cc', 'www.50zw.co', 'www.nsisfans.com', 'www.4gdiy.com', 'www.doupobook.cc', 'www.hanmatv.com', 'm.qianlimaerp.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for www.k77yy.com...
+Performing DNS lookup for subowu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
