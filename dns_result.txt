@@ -2,32 +2,54 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.227.10
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.114.125
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.56.95
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.253.208
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.17.144.25
+Name:	dcs.jqddos.xyz
+Address: 104.16.88.31
+Name:	dcs.jqddos.xyz
+Address: 104.25.35.231
+Name:	dcs.jqddos.xyz
+Address: 104.25.39.34
+Name:	dcs.jqddos.xyz
+Address: 104.25.89.78
+Name:	dcs.jqddos.xyz
+Address: 104.24.31.50
+Name:	dcs.jqddos.xyz
+Address: 104.17.117.196
+Name:	dcs.jqddos.xyz
+Address: 104.17.2.52
+Name:	dcs.jqddos.xyz
+Address: 104.19.191.158
+Name:	dcs.jqddos.xyz
+Address: 104.18.234.131
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.moller.no
-Address: 104.16.44.75
-Name:	www.moller.no
-Address: 104.16.45.75
-Name:	www.moller.no
-Address: 2606:4700::6810:2c4b
-Name:	www.moller.no
-Address: 2606:4700::6810:2d4b
+www.m6y6.com	canonical name = host1111776b.c2.huyuncdn.xyz.
+host1111776b.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
+Name:	www.uuu449.com
+Address: 104.21.75.29
+Name:	www.uuu449.com
+Address: 172.67.167.2
+Name:	www.uuu449.com
+Address: 2606:4700:3034::6815:4b1d
+Name:	www.uuu449.com
+Address: 2606:4700:3037::ac43:a702
 
