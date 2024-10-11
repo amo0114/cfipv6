@@ -2,7 +2,41 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
-Name:	www.jdzjq.cn
-Address: 172.232.112.221
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.16.197.45
+Name:	dcs.jqddos.xyz
+Address: 104.18.104.219
+Name:	dcs.jqddos.xyz
+Address: 104.24.6.85
+Name:	dcs.jqddos.xyz
+Address: 104.16.197.20
+Name:	dcs.jqddos.xyz
+Address: 104.24.56.71
+Name:	dcs.jqddos.xyz
+Address: 104.25.13.87
+Name:	dcs.jqddos.xyz
+Address: 104.25.40.4
+Name:	dcs.jqddos.xyz
+Address: 104.26.13.102
+Name:	dcs.jqddos.xyz
+Address: 104.16.192.173
+Name:	dcs.jqddos.xyz
+Address: 104.25.65.168
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.91mjw.com
+Address: 45.114.11.238
+** server can't find www.91mjw.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
