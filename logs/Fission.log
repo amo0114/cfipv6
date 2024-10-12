@@ -3812,3 +3812,24 @@ Performing DNS lookup for www.meijui.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ba9793c] Update project files
+ 4 files changed, 48 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   bfeed88..ba9793c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.12.162...
+Fetching domains for 104.21.27.178...
+Fetching domains for 198.41.197.164...
+succeed to fetch domains for 104.21.27.178 from https://site.ip138.com/
+succeed to fetch domains for 104.21.12.162 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.197.164 from https://ipchaxun.com/
+域名列表为
+['www.mmwz8.com', 'www.whpaiger.com', 'han888.cn', 'www.jiuse392.xyz', 'ccc60.com', 'yanzhaom7.xyz', 'nlsdwsz.66666654.xyz', 'bbs.minebox.store', 'jufengnr.com', 'joacademy.com', 'pddk8i.com', 'nv.cx', 'macvbb.555556789.xyz', 'www.jinnangyoumiaoji.com', 'www.cscblpc.com', 'bit.jiuse392.xyz', 'onlytight.com', '521vr.com', 'abn.al', 'www.kan9051.com', 'v1.hjsqjx.top', 'www.g55h.com', 'ht.gam9.com', 'app.067976.com', 'www.xaggwszxxy.com', 'gam9.com', 'www.lalacpr.cn', 'by.gam9.com', 'www.wm216.cn', 'www.x2qe.cn', 'efkpv8.tw', 'www.liveslimmer.com', 'yunokma.com', '8t49qbv.jiuse392.xyz', 'v5ys.com', 'video.hjsqjx.top', 'hebsnsmgs.top', '922an.com', 'www.ps23.com', 'www.mengnuowenhua.com', '91hdg.com', '067976.com', '122609.com', 'yx.887141.xyz', 'my11135.com', 'www.taerri.cn', 'www.api464950a-wwwjipotv.xyz', '10.tf', 'pan.axxpan.com', 'mmwz8.com', '676xyz.xyz', 'www.122609.com', 'hj55c02.top', 'www.ddsjfc.com', 'ynoto.com', 'wakuwakutv3.cfd', 'ecwon8.com', 'quaylen.club', '1016w.pipigv.gay', 'www.99wx.cc', 'www.52ys.cc', 'q88321.com', 'www.jinpingmei7.com', 'www.mhoxfuw.cn', 'www.fadzl.com', '12yyy.com', 'fadzl.com', 'www.foodtechnology.co.nz', 'somkserov.ru', 'speed.marisalnc.com', 'cm.p877zdau.xyz', 'www.daomubiji.cc', 'www.my11135.com', 'ps23.com', 'all1876.cc', 'www.676xyz.xyz', 'www.xwsxs.com', 'www.github.jiuse392.xyz', 'baxtc.66666654.xyz', '7by22.xyz', 'www.tpyyc.com', 'pd711.com', 'labtik.com', 'www.v5ys.com', 'www.xworldadmin.com', 'www.luwangyangrong.com', 'youyouxs.com', '669.pw', 'ti6b7.com', 'jubt5.one', '4885bb.com', 'kan9051.com', 'www.yanzhaom7.xyz', 'www.zzztch.com', 'www.jufengnr.com', '0n.com', 'www.zhilianwifi.com', 'acus.cloudflarest.link', 'g55h.com', 'lemonprefect.cn', 'www.sks656.com', 'hatudo.pt', '12dwas.xyz', 'img.minebox.store', '444ddt.com', 'mdmall.com.au', 'jiuse392.xyz', 'mc.minebox.store', 'www.12yyy.com', 'www.hebsnsmgs.top', 'wap.hebsnsmgs.top', 'www.mcwlkw.com', 'www.0n.com', 'jinpingmei7.com', '2018.navalny.com', 'www.ccc60.com', 'github.jiuse392.xyz', 'www.ddwhm.com', 'hd.dpzzc.com', 'www.dcaxq999.cn', 'www.dmbj.cc', 'www.a57.net', 'www.922an.com', 'blm555.net', 'www.ti6b7.com', 'www.tudoujiasu.com', 'am.404093.cc', 'cable225.cc', '7.namesilo123.top', 'freeyx.cloudflare88.eu.org', 'www.ynoto.com', 'fotoun.com', 'cpyskidrow.com', 'hm.dpzzc.com', 'tudoujiasu.com', '8t7lwsf.jiuse392.xyz', 'www.abn.al', 'aewa6.cf', 'hw92dd.jiuse392.xyz', 'www.nyykwet.cn', 'www.4199.win', 'www.lyzdzy.com', 'alkaffaryfurniture.com', 'www.99wxw.cc', 'navalny.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ecwon8.com...
+Performing DNS lookup for mmwz8.com...
+Performing DNS lookup for han888.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
