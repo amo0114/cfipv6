@@ -2,22 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qp666.com	canonical name = dvd.qpbbq.com.
-dvd.qpbbq.com	canonical name = bcname.mgrm044.cc.
-Name:	bcname.mgrm044.cc
-Address: 43.198.32.139
+www.qdxqgc.com	canonical name = qddns.hnyjg.top.
+qddns.hnyjg.top	canonical name = dns456.wsyhu.top.
+Name:	dns456.wsyhu.top
+Address: 104.21.3.234
+Name:	dns456.wsyhu.top
+Address: 172.67.131.82
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 91.195.240.12
+www.damidm.com	canonical name = damidns.hnyjg.top.
+damidns.hnyjg.top	canonical name = dns456.wsyhu.top.
+Name:	dns456.wsyhu.top
+Address: 104.21.3.234
+Name:	dns456.wsyhu.top
+Address: 172.67.131.82
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
+** server can't find 778992.com: SERVFAIL
 
