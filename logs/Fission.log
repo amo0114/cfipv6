@@ -3746,3 +3746,25 @@ Performing DNS lookup for www.whpaiger.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main de312d5] Update project files
+ 4 files changed, 60 insertions(+), 32 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   4b4bdb1..de312d5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.237.136...
+Fetching domains for 104.17.208.192...
+Fetching domains for 104.18.188.115...
+succeed to fetch domains for 104.17.237.136 from https://site.ip138.com/
+succeed to fetch domains for 104.17.208.192 from https://site.ip138.com/
+succeed to fetch domains for 104.18.188.115 from https://site.ip138.com/
+域名列表为
+['www.damidm.com', 'didamh.com', 'www.lyzdzy.com', 'www.ppxdm.com', 'ppxdm.com', 'dingdingdm.com', '781890.com', 'mcdns.hnyjg.top', 'qdbangsen.com', 'www.cfhuagong.com', 'www.663dy.com', 'www.6988tv.com', 'www.cn46.com', 'www.qdbangsen.com', 'www.xiuluo942.com', 'qdtsdp.com', 'www.zzztch.com', 'www.93xscc.com', 'dns4.hai888.top', 'www.xinjuc.com', 'www.qdtsdp.com', 'www.kanmanhuala.cc', 'www.nitianxieshen.com', 'www.52dym.com', 'dhlparcel.nl', 'www.dongguanchangfang.com', 'www.kunzedu.com', 'dockerpull.com', 'www.qdzhongbei.com', 'www.85xs.cc', '74fan.com', 'www.74fan.com', '778992.com', 'www.qdxqgc.com', 'www.dingdingdm.com', 'www.cocanwelding.com', 'xczq1.top', 'damidm.com', 'www.kuaikan66.com', 'yh6.dtku41.xyz', 'txydd.com', 'www.zongcaiwx.com', 'www.99wx.cc', 'zhyv.net', 'www.saimayang.com', 'qdxqgc.com', 'www.wuhanzoo.com', 'www.rencaipinghu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qdxqgc.com...
+Performing DNS lookup for www.damidm.com...
+Performing DNS lookup for 778992.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

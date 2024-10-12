@@ -2,28 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qdxqgc.com	canonical name = qddns.hnyjg.top.
-qddns.hnyjg.top	canonical name = dns456.wsyhu.top.
-Name:	dns456.wsyhu.top
-Address: 104.21.3.234
-Name:	dns456.wsyhu.top
-Address: 172.67.131.82
+www.arlo.com	canonical name = www.arlo.com.cdn.cloudflare.net.
+Name:	www.arlo.com.cdn.cloudflare.net
+Address: 104.18.43.99
+Name:	www.arlo.com.cdn.cloudflare.net
+Address: 172.64.144.157
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.damidm.com	canonical name = damidns.hnyjg.top.
-damidns.hnyjg.top	canonical name = dns456.wsyhu.top.
-Name:	dns456.wsyhu.top
-Address: 104.21.3.234
-Name:	dns456.wsyhu.top
-Address: 172.67.131.82
+Name:	vch219.com
+Address: 104.18.20.222
+Name:	vch219.com
+Address: 104.18.21.222
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find 778992.com: SERVFAIL
+Non-authoritative answer:
+Name:	www.kuaikan66.com
+Address: 162.210.199.85
 
