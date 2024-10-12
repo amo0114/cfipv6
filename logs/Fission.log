@@ -3768,3 +3768,25 @@ Performing DNS lookup for 778992.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 69c67d9] Update project files
+ 4 files changed, 58 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   de312d5..69c67d9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.31.231...
+Fetching domains for 104.18.21.222...
+Fetching domains for 104.17.238.169...
+succeed to fetch domains for 104.17.238.169 from https://site.ip138.com/
+succeed to fetch domains for 104.18.31.231 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.21.222 from https://dnsdblookup.com/
+域名列表为
+['www.4hus81.com', 'www.m6y6.com', 'www.882ba.com', 'hve3.com', 'www.gpay.com', 'www.69afy.com', 'bk.jdkg.fun', 'img.acgycy.com', 'vch219.com', 'www.jinwanchiji.top', 'www.hve3.com', 'www.gaycn.top', 'www.tlbb888.com', 'www.kbss888.com', 'www.geomix.at', 'www.cleanandclear.com', 'www.91m.cc', 'www.xkx999.com', 'a234tx.com', 'www.iios.club', 'www.dzy66666.com', 'www.arlo.com', '4huf23.com', '69afy.com', 'www.hotfm.com.my', 'www.xtrawine.com', 'www.metalpay.com', 'hub.gitmirror.com', 'www.kuaikan66.com', 'mitchellsplain.yalwa.co.za', 'www.amcmud.com', 'yyxxi.com', 'yxy176.com', 'www.lfcxmy.top', 'kimberley.yalwa.co.za', 'www.yyxxi.com', '26.namesilo123.top', 'xtrawine.com', 'yx.887141.xyz', 'www.a234tx.com', 'mlpoki.com', 'jhpcza.66666654.xyz', 'alj1s9j1.com', 'www.vch219.com', 'www.4huf23.com', 'gpay.com', '882ba.com', 'www.yh9pk.com', 'www.sjzsckj.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.arlo.com...
+Performing DNS lookup for vch219.com...
+Performing DNS lookup for www.kuaikan66.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

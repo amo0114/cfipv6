@@ -2,25 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.arlo.com	canonical name = www.arlo.com.cdn.cloudflare.net.
-Name:	www.arlo.com.cdn.cloudflare.net
-Address: 104.18.43.99
-Name:	www.arlo.com.cdn.cloudflare.net
-Address: 172.64.144.157
+Name:	4huf77.com
+Address: 172.247.193.90
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	vch219.com
-Address: 104.18.20.222
-Name:	vch219.com
-Address: 104.18.21.222
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kuaikan66.com
-Address: 162.210.199.85
+Name:	www.meijui.com
+Address: 162.210.196.166
 
