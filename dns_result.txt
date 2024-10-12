@@ -1,43 +1,29 @@
-Server:		8.8.4.4
-Address:	8.8.4.4#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
 Non-authoritative answer:
-index1.xxm3u8.top	canonical name = proxy.xxxm3u8.top.
-Name:	proxy.xxxm3u8.top
-Address: 104.21.8.24
-Name:	proxy.xxxm3u8.top
-Address: 172.67.138.66
-Name:	proxy.xxxm3u8.top
-Address: 2606:4700:3035::ac43:8a42
-Name:	proxy.xxxm3u8.top
-Address: 2606:4700:3036::6815:818
+Name:	www.btbdys.com
+Address: 74.63.241.25
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.ycppwh.org	canonical name = ycppwh.haofanghu123.com.
-ycppwh.haofanghu123.com	canonical name = www.ycppwh.org.cdn.cloudflare.net.
-Name:	www.ycppwh.org.cdn.cloudflare.net
-Address: 104.21.26.138
-Name:	www.ycppwh.org.cdn.cloudflare.net
-Address: 172.67.168.75
-Name:	www.ycppwh.org.cdn.cloudflare.net
-Address: 2606:4700:3035::6815:1a8a
-Name:	www.ycppwh.org.cdn.cloudflare.net
-Address: 2606:4700:3031::ac43:a84b
+Name:	sa.aqar.fm
+Address: 172.66.40.204
+Name:	sa.aqar.fm
+Address: 172.66.43.52
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.msig.co.id	canonical name = www.msig.co.id.cdn.cloudflare.net.
-Name:	www.msig.co.id.cdn.cloudflare.net
-Address: 104.18.12.214
-Name:	www.msig.co.id.cdn.cloudflare.net
-Address: 104.18.13.214
-Name:	www.msig.co.id.cdn.cloudflare.net
-Address: 2606:4700::6812:dd6
-Name:	www.msig.co.id.cdn.cloudflare.net
-Address: 2606:4700::6812:cd6
+Name:	www.marijuana-seeds.nl
+Address: 172.66.40.56
+Name:	www.marijuana-seeds.nl
+Address: 172.66.43.200
+Name:	www.marijuana-seeds.nl
+Address: 2606:4700:3108::ac42:2bc8
+Name:	www.marijuana-seeds.nl
+Address: 2606:4700:3108::ac42:2838
 
