@@ -2,23 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 91.195.240.12
+www.hnyhy.com	canonical name = traff-6.hugedomains.com.
+traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
+Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
+Address: 3.140.13.188
+Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
+Address: 18.119.154.66
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nynashamnsposten.se	canonical name = bonniernews.map.fastly.net.
-Name:	bonniernews.map.fastly.net
-Address: 146.75.117.91
-Name:	bonniernews.map.fastly.net
-Address: 2a04:4e42:1f::347
+Name:	www.tuozhan22.com
+Address: 103.224.182.251
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.fnyyw.net
-Address: 162.209.175.122
+www.gushijingdian.com	canonical name = ipss.333600.xyz.
+ipss.333600.xyz	canonical name = fib.322555.xyz.
+Name:	fib.322555.xyz
+Address: 172.67.188.106
+Name:	fib.322555.xyz
+Address: 104.21.33.6
+Name:	fib.322555.xyz
+Address: 2606:4700:3031::ac43:bc6a
+Name:	fib.322555.xyz
+Address: 2606:4700:3034::6815:2106
 
