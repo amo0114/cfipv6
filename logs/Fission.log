@@ -4105,3 +4105,24 @@ Performing DNS lookup for www.fnyyw.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0a9e82c] Update project files
+ 4 files changed, 56 insertions(+), 18 deletions(-)
+To github.com:amo0114/cfipv6.git
+   2f5b7bc..0a9e82c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.146.162...
+Fetching domains for 104.17.19.51...
+Fetching domains for 198.41.220.113...
+succeed to fetch domains for 198.41.220.113 from https://site.ip138.com/
+succeed to fetch domains for 104.17.19.51 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.146.162 from https://ipchaxun.com/
+域名列表为
+['www.28dushu.com', 'www.gushijingdian.com', 'uhanju.com', 'cf1.492745.xyz', 'www.606977.com', 'www.679077.com', 'www.boyangjt.com', 'www.haqiandu.com', 'www.cocanwelding.com', 'www.tockt.com', 'raw.gitmirror.com', 'www.k77yy.com', 'sgv7.com', 'acus.cloudflarest.link', 'www.hnyhy.com', 'www.gaycn.top', 'cf-lt.sharecentre.online', 'ihanju.com', 'www.dy420.com', 'freeyx.cloudflare88.eu.org', 'e0101.com', 'subowu.com', 't9gm.com', 'www.ddwhm.com', 'iios.club', 'm.0550cq.com', 'www.tuozhan22.com', 'www.tinghen.com', 'xs.wxtv.cc', 'www.lyzdzy.com', 'www.pianku5.com', 'www.0550cq.com', 'www.kx10.com', 'www.hhyy028.com', 'uu93.com', 'www.zgwangzhan.com', 'suboji.com', 'tv9090.com', 'www.shsanrui.com', 'yx.887141.xyz', 'www.11txt.com', 'yh6.dtku41.xyz', 'www.ydxs.cc', 'stock.hostmonit.com', 'www.yncareer.com', 'www.ekvod.com', 'www.axxsjx.com', 'www.zzztch.com', 'www.iios.club', 'www.sxyzxh.com', 'baxtc.66666654.xyz', 'nlsdwsz.66666654.xyz', 'www.pk299.com', '606977.com', 'www.tv9090.com', 'sdgxwy.com', 'www.yh9pk.com', 'm.niuerzs.com', 'www.paizipai.top', 'www.k77kk.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.hnyhy.com...
+Performing DNS lookup for www.tuozhan22.com...
+Performing DNS lookup for www.gushijingdian.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
