@@ -4035,3 +4035,25 @@ Performing DNS lookup for www.9s.nz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5203222] Update project files
+ 4 files changed, 47 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   1094938..5203222  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.232.227...
+Fetching domains for 104.21.22.69...
+Fetching domains for 104.18.37.198...
+succeed to fetch domains for 104.18.37.198 from https://site.ip138.com/
+succeed to fetch domains for 104.25.232.227 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.22.69 from https://ipchaxun.com/
+域名列表为
+['8j4syhz.jiuse970.com', 'miiqkx.jiuse970.com', 'iiwo84.jiuse970.com', 'm.jiuse970.com', 'ansdy1.jiuse970.com', 'www.iios.club', '8tcc823.jiuse970.com', 'm.haitaobei.com', 'www.33sebo.com', 'i15leg.gb.jiuse970.com', 'j96.jiuse970.com', 'am.jiuse970.com', 'a.jiuse970.com', 'chming.net', 'digitrk.net', 'iuj6pc.jiuse970.com', 'axjhd.com', '5zev63.jiuse970.com', '8tf9ja0.jiuse970.com', 'http.jiuse970.com', '8tulk63.jiuse970.com', '8015lmy.jiuse970.com', '8ahj8yr.jiuse970.com', 'cn96.jiuse970.com', 'm.royal558.com', 'e2kklu.jiuse970.com', 'www.royal558.com', '08ku6h.gb.jiuse970.com', 'am1bdl.jiuse970.com', '17maovip.com', '8zktiz8.jiuse970.com', 'htips.jiuse970.com', 'ehuj28.jiuse970.com', 'coolinet.net', '4akzly.jiuse970.com', 'xgyw.monster', 'xotd8c.jiuse970.com', '52qb8j.jiuse970.com', 'www.17maovip.com', '8tbumpe.jiuse970.com', '8014gef.jiuse970.com', 'i15leg.jiuse970.com', 'c16ghf.jiuse970.com', 'www.carsdirect.com', 'dizhi.jiuse970.com', 'jiuse970.com', '5nud3h.jiuse970.com', '8vte8xh.jiuse970.com', 'royal558.com', '8t45cua.jiuse970.com', '8j2xa78.jiuse970.com', 'ipwww.jiuse970.com', 'amkbgb.jiuse970.com', '8b95toa.jiuse970.com', '6q2are.jiuse970.com', 'hpvl12.jiuse970.com', '50r3ug.jiuse970.com', 'ydqvcl.jiuse970.com', 'bbongtv.com', 'ke192.cc', 'www.bbongtv.com', 'naturalmat.co.uk', 'www.chming.net', '9kjkdm.jiuse970.com', '52vnp0.jiuse970.com', 'luckypool.io', 'gim2016.eu', '5k2r35.jiuse970.com', 'www.jiuse970.com', '7dgyff.jiuse970.com', 'dlfzo4.jiuse970.com', 'iiwo84.gb.jiuse970.com', '831z8o9.jiuse970.com', 'ansdy1.gb.jiuse970.com', 'www.299ze.com', 'vndhat.gb.jiuse970.com', 'iiwgh3.jiuse970.com', 'nnmyshopify.xyz', '0ke9oc.gb.jiuse970.com', '33sebo.com', '50r3ug.gb.jiuse970.com', '80wu6q3.jiuse970.com', '08ku6h.jiuse970.com', 'obj.me', 'xn--6u6a7c.net', 'www.luwangyangrong.com', '299ze.com', 'davyql.jiuse970.com', 'www.axjhd.com', '8tc6zsg.jiuse970.com', '9kj8ni.jiuse970.com', 'xotcrm.jiuse970.com', 'tianya.jiuse970.com', 'www.28et.com', 'www.8j630no.jiuse970.com', '450nfr.jiuse970.com', 'www.52ys.cc', '28jbay.jiuse970.com', '8j630no.jiuse970.com', 'en44at.jiuse970.com', '8mjfuv8.jiuse970.com', '8zk9tb2.jiuse970.com', 'shengweihuagong.com.cn', 'cf5fxr.jiuse970.com', 'e2snwm.jiuse970.com', 'ansev4.jiuse970.com', 'cp9tfv.jiuse970.com', '8tf36x9.jiuse970.com', 'www.ybjfkf.icu', '8tcxri0.jiuse970.com', 'httpshpvl12.jiuse970.com', '8t4cp1w.jiuse970.com', '0kdtzz.jiuse970.com', 'anhm.cc', '18gaoab.com', '879xngw.jiuse970.com', '8vbgfxo.jiuse970.com', 'ans53r.jiuse970.com', '8j630n.jiuse970.com', 'vndhat.jiuse970.com', 'a5j00.jiuse970.com', '8vbf0y6.jiuse970.com', 'cdn03.quay.io', 'k8console.com', '8j2opvy.jiuse970.com', 'gb.jiuse970.com', 'www.genealogy.com', 'api.wecall.info', 'michen02.app', '8vbmcg9.jiuse970.com', '8j441x9.jiuse970.com', '0ke9oc.jiuse970.com', '8twipn8.jiuse970.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 879xngw.jiuse970.com...
+Performing DNS lookup for cp9tfv.jiuse970.com...
+Performing DNS lookup for nnmyshopify.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

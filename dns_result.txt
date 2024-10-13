@@ -2,18 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	879xngw.jiuse970.com
-Address: 72.52.178.23
+www.kanunu2.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cp9tfv.jiuse970.com
-Address: 72.52.178.23
+yundunwawablogcdn1dx.wawacm.com	canonical name = blogwaf.yava.pw.
+Name:	blogwaf.yava.pw
+Address: 104.24.18.0
+Name:	blogwaf.yava.pw
+Address: 104.17.152.0
+Name:	blogwaf.yava.pw
+Address: 104.25.128.0
+Name:	blogwaf.yava.pw
+Address: 104.18.224.0
+Name:	blogwaf.yava.pw
+Address: 104.17.120.0
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find nnmyshopify.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	yh6.dtku41.xyz
+Address: 72.52.178.23
 
