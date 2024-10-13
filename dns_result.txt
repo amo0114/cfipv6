@@ -2,34 +2,23 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.kanunu2.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
+Name:	www.lyzdzy.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-yundunwawablogcdn1dx.wawacm.com	canonical name = blogwaf.yava.pw.
-Name:	blogwaf.yava.pw
-Address: 104.24.18.0
-Name:	blogwaf.yava.pw
-Address: 104.17.152.0
-Name:	blogwaf.yava.pw
-Address: 104.25.128.0
-Name:	blogwaf.yava.pw
-Address: 104.18.224.0
-Name:	blogwaf.yava.pw
-Address: 104.17.120.0
+www.nynashamnsposten.se	canonical name = bonniernews.map.fastly.net.
+Name:	bonniernews.map.fastly.net
+Address: 146.75.117.91
+Name:	bonniernews.map.fastly.net
+Address: 2a04:4e42:1f::347
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yh6.dtku41.xyz
-Address: 72.52.178.23
+Name:	www.fnyyw.net
+Address: 162.209.175.122
 
