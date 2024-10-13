@@ -3916,3 +3916,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 295d581] Update project files
+ 4 files changed, 75 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   c2552ef..295d581  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.86.106...
+Fetching domains for 104.17.222.136...
+Fetching domains for 104.16.202.91...
+succeed to fetch domains for 104.16.202.91 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.222.136 from https://site.ip138.com/
+succeed to fetch domains for 104.18.86.106 from https://ipchaxun.com/
+域名列表为
+['www.93xscc.com', 'www.kan234.com', 'www.btbdys.com', 'www.4gdiy.com', 'www.tvk88.com', 'www.99wxw.cc', 'm.6988tv.com', 'www.iios.me', 'www.sp6080.com', 'iios.fun', 'www.lyzdzy.com', 'www.qindixs.com', 'www.207my.com', 'www.nitianxieshen.com', 'www.zpdyw.com', 'www.iios.club', '789kp.com', 'www.92mili.com', 'www.789kp.com', 'www.tpyyc.com', 'hawtaigroup.com', 'www.whpaiger.com', 'ysz8.com', 'www.zongcaixs.cc', 'btbdys.com', 'www.6988tv.com', 'm.niuerzs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.4gdiy.com...
+Performing DNS lookup for www.tpyyc.com...
+Performing DNS lookup for www.92mili.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
