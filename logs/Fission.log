@@ -3993,3 +3993,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c0bc18c] Update project files
+ 4 files changed, 65 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   3a19822..c0bc18c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.16.213...
+Fetching domains for 104.18.13.35...
+Fetching domains for 104.18.15.5...
+succeed to fetch domains for 104.18.15.5 from https://site.ip138.com/
+succeed to fetch domains for 104.18.13.35 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.16.213 from https://ipchaxun.com/
+域名列表为
+['videohive.net', 'www.dongguanchangfang.com', 'occasions.vanhappenautos.nl', 'vanhappenautos.nl', '83hh.net', '985dm.com', 'www.207my.com', 'www.damidm.com', 'www.zlprut.icu', '1f.youku.icu', 'mymticlub.com', 'www.tl123123.com', 'httpwww.x.com', 'ldy5130888.cc', 'kurnf.top', 'idamidm.com', 'msqjls.com', 'my3119.cn', 'www.52ys.cc', '119g.net', 'www.saimayang.com', 'jitsi.org', 'www.wuhanzoo.com', '693cf.com', 'www.x.com', '4huxx966.com', 'imgx.acgget.com', 'zi0.cc', 'mcdns.hnyjg.top', '4hu28m.com', '1rwyt.org', 'www.ambito.com', 'pan.axxpan.com', 'www.1123wu.com', 'nxhzkj.com', 'www.wn01.cc', 'www.119g.net', 'www.zlcq520.com', 'www.4hu54z.com', 'www.pk299.com', 'www.693cf.com', 'www.18avav.x.com', 'www.iios.fun', 'yinshuaji1688.com', 'dongguanchangfang.com', 'hotelscan.com', 'www.1123di.com', 'yiqi1234.com', 'libertex.fxclub.org', 'www.yh9pk.com', 'www.985dm.com', '66se22.com', 'www.4hu28m.com', 'wwwkuaimao.x.com', 'www.4438.x.com', 'vivastreet.it', 'www.ysz8.com', 'euler.finance', 'www.kbss888.com', 'www.tlbb888.com', 'hmoe.top', 'hotbitcn.com', 'index.dk123.tw', 'a456x.com', 'www.qdxqgc.com', '678.x.com', 'www.83hh.net', 'www.boraportal.com', 'www.7lq.com', 'wwwx.x.com', 'www.4huxx966.com', 'zlprut.icu', 'd789i.com', '78hhe.com', 'www.xghhw.com', 'nfs.faireconomy.media', 'www.78hhe.com', 'www.my3119.cn', 'www.d789i.com', 'app.hotbitcn.com', '4huaa73.com', 'yd1868.com', 'x.com', 'www.m6y6.com', 'www.rencaipinghu.com', 'saimayang.com', 'finebi.hotbitcn.com', '4hu54z.com', '4455un.com', 'wuhanzoo.com', 'damidm.com', '1123di.com', 'www.gay.x.com', 'www.xiaozhidy.com', 'www.xiaozhuge.x.com', 'wwwwwwwww.x.com', 'apse.wr.sgp.riotgames.com', 'www.4huaa73.com', 'www.4455un.com', 's1.getdual.net', 'www.yinshuaji1688.com', 'www.sgexitvoucher.com', '1123wu.com', '91online.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for nxhzkj.com...
+Performing DNS lookup for 1rwyt.org...
+Performing DNS lookup for videohive.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

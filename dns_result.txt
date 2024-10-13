@@ -2,20 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	nxhzkj.com
-Address: 23.248.204.201
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find 1rwyt.org: NXDOMAIN
+Name:	so.today.ng
+Address: 104.21.48.94
+Name:	so.today.ng
+Address: 172.67.183.64
+Name:	so.today.ng
+Address: 2606:4700:3031::6815:305e
+Name:	so.today.ng
+Address: 2606:4700:3032::ac43:b740
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	videohive.net
-Address: 172.64.148.223
-Name:	videohive.net
-Address: 104.18.39.33
+Name:	ztwx3.com
+Address: 198.2.194.121
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.9s.nz
+Address: 104.21.17.63
+Name:	www.9s.nz
+Address: 172.67.222.253
+Name:	www.9s.nz
+Address: 2606:4700:3032::6815:113f
+Name:	www.9s.nz
+Address: 2606:4700:3031::ac43:defd
 
