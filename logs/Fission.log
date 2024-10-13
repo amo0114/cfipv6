@@ -3937,3 +3937,25 @@ Performing DNS lookup for www.92mili.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a96b4ca] Update project files
+ 4 files changed, 59 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   295d581..a96b4ca  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.157.191...
+Fetching domains for 104.24.168.216...
+Fetching domains for 198.41.209.214...
+succeed to fetch domains for 198.41.209.214 from https://dnsdblookup.com/
+succeed to fetch domains for 104.24.168.216 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.157.191 from https://ipchaxun.com/
+域名列表为
+['cf-lt.sharecentre.online', 'www.6i5.com', 'uu93.com', 'www.biqune.com', 'www.wxxzzs.com', 'www.iios.club', 'www.paizipai.top', 'm.tvfff.com', 'www.uu93.com', 'www.ganpian.com', 'iios.club', 'www.cbcv.cc', 'www.uzheba.com', 'www.lewen5.com', 'www.boyangjt.com', 'www.90dushu.com', 'www.0550cq.com', 'qiangkouzhao.com', 'www.tinghen.com', 'cfip.xxxxxxxx.tk', 'www.web120.org', 'www.ddwhm.com', 'www.50zw.co', 'laoxu.net', 'iios.fun', 'www.706i.com', 'www.lnfitness.com', 'www.haqiandu.com', 'www.emuaustralia.com', 'suboji.com', '77dv.com', 'www.ddaculture.com', 'stock.hostmonit.com', 'ganpian.com', 'www.iios.me', 'm.niuerzs.com', 'www.huanyaad.com', 'www.tv9090.com', 'www.pwcai.com', 'www.sxyzxn.com', 'www.ycbzcl.com', 'www.4148.net', '0550cq.com', 'www.6988tv.com', 'www.11txt.com', 'cmdy6.cc', 'www.lyzdzy.com', 'www.7sc.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.wei333.com', 'm.zhiqihuo.cc', 'www.4gdiy.com', 'www.96dushu.com', 'tj-gm.com', 'nlsdwsz.66666654.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.lyzdzy.com...
+Performing DNS lookup for www.11txt.com...
+Performing DNS lookup for www.sxyzxn.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
