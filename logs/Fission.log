@@ -4371,3 +4371,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7d569ed] Update project files
+ 4 files changed, 76 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   b128e32..7d569ed  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.58.131...
+Fetching domains for 104.17.216.109...
+Fetching domains for 104.17.209.115...
+succeed to fetch domains for 104.17.216.109 from https://site.ip138.com/
+succeed to fetch domains for 104.17.209.115 from https://site.ip138.com/
+succeed to fetch domains for 104.17.58.131 from https://site.ip138.com/
+域名列表为
+['www.cocanwelding.com', 'www.whpaiger.com', 'www.rmsxs.com', 'www.zzztch.com', 'www.pk299.com', 'www.xwsxs.com', 'www.92mili.com', 'www.tlbb888.com', 'www.psy.net.cn', 'www.shy6666.com', 'www.sjzsckj.com', 'www.awanmy.com', 'www.cfhuagong.com', '456gg.com', 'www.qkmov.com', 'www.tichain.cc', 'www.kanunu2.com', 'www.75uw.com', 'www.xiuluo942.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.kanunu2.com...
+Performing DNS lookup for www.shy6666.com...
+Performing DNS lookup for www.xwsxs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
