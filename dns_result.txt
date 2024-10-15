@@ -2,46 +2,48 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	achk.cloudflarest.link
-Address: 104.247.82.50
+Name:	www.gdriustb.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wope.com
-Address: 104.18.23.244
-Name:	wope.com
-Address: 104.18.22.244
-Name:	wope.com
-Address: 2606:4700::6812:16f4
-Name:	wope.com
-Address: 2606:4700::6812:17f4
+21tvb.com	canonical name = 7mevfcxy.maxptgol.com.
+7mevfcxy.maxptgol.com	canonical name = gc24rt3x.n.maxptgol.com.
+Name:	gc24rt3x.n.maxptgol.com
+Address: 143.92.56.235
+Name:	gc24rt3x.n.maxptgol.com
+Address: 143.92.56.236
+Name:	gc24rt3x.n.maxptgol.com
+Address: 118.107.40.125
+Name:	gc24rt3x.n.maxptgol.com
+Address: 118.107.40.126
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-zhenbuka666.com	canonical name = cloudflare.182682.xyz.
-cloudflare.182682.xyz	canonical name = xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz.
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.17.146.67
+Name:	dcs.jqddos.xyz
+Address: 104.25.15.200
+Name:	dcs.jqddos.xyz
+Address: 104.16.127.128
+Name:	dcs.jqddos.xyz
+Address: 104.18.99.87
+Name:	dcs.jqddos.xyz
+Address: 104.16.83.123
+Name:	dcs.jqddos.xyz
+Address: 104.25.84.50
+Name:	dcs.jqddos.xyz
+Address: 104.18.98.242
+Name:	dcs.jqddos.xyz
+Address: 104.16.124.27
+Name:	dcs.jqddos.xyz
+Address: 104.16.80.36
+Name:	dcs.jqddos.xyz
+Address: 104.25.108.163
 
