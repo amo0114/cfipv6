@@ -4572,3 +4572,24 @@ Performing DNS lookup for www.boyangjt.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d09a2db] Update project files
+ 4 files changed, 46 insertions(+), 21 deletions(-)
+To github.com:amo0114/cfipv6.git
+   b6176e8..d09a2db  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.193.203...
+Fetching domains for 104.21.209.13...
+Fetching domains for 104.21.198.43...
+succeed to fetch domains for 198.41.193.203 from https://site.ip138.com/
+succeed to fetch domains for 104.21.198.43 from https://site.ip138.com/
+succeed to fetch domains for 104.21.209.13 from https://ipchaxun.com/
+域名列表为
+['dsxys.com', 'speed.marisalnc.com', 'cgdd.digicert.pp.ua', 'acus.cloudflarest.link', 'www.yizidy.com', 'yx.887141.xyz', '26.namesilo123.top', 'www.99wx.cc', 'spca.114514782.xyz', 'jp.784654.xyz', '1.namesilo123.top', 'www.295k.com', 'www.qindi.net', 'www.1080hj.com', 'www.ygdy8.cc', 'www.tvyb02.com', 'www.85xs.cc', 'www.99wxw.cc', '778992.com', 'cgcc.digicert.pp.ua', 'www.clun.top', 'www.rijiyize.com', 'u.uboy03.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 1.namesilo123.top...
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for www.1080hj.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
