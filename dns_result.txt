@@ -2,29 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.huakai2018.com	canonical name = dns.m3u8cache.top.
-Name:	dns.m3u8cache.top
-Address: 172.67.209.78
-Name:	dns.m3u8cache.top
-Address: 104.21.74.254
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::6815:4afe
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::ac43:d14e
+Name:	b372.cc
+Address: 138.199.9.104
+Name:	b372.cc
+Address: 2400:52e0:1a01::900:1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global3.66666654.xyz.
-Name:	cfcn-b-global3.66666654.xyz
-Address: 104.20.17.147
-Name:	cfcn-b-global3.66666654.xyz
-Address: 172.67.64.12
+Name:	zshjba.com
+Address: 104.160.169.207
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.xxootl.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.boyangjt.com
+Address: 104.16.104.218
+Name:	www.boyangjt.com
+Address: 104.16.72.177
 

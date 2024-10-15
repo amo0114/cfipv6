@@ -4525,3 +4525,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bad37d2] Update project files
+ 4 files changed, 74 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   34af661..bad37d2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.179.74...
+Fetching domains for 104.19.21.227...
+Fetching domains for 162.159.160.28...
+succeed to fetch domains for 104.19.21.227 from https://ipchaxun.com/
+succeed to fetch domains for 162.159.160.28 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.179.74 from https://dnsdblookup.com/
+域名列表为
+['m.86zw.co', 'map.luav.org', 'www.xkceo.com', 'ddwhm.com', 'upload.yzzpan.com', 'dafuhao.com', '3387788.com', '22vc.top', 'www.0550cq.com', 'yh6.dtku41.xyz', '60u1x.app', 'www.qnuyp.cc', '5zmcnn.xyz', 'www.xxootl.com', 't141.cc', 'cdn.mp4.fit', 'www.huakai2018.com', 'www.dafuhao.com', 'www.88wwk.com', 'upload.yunzhongzhuan.com', 'www.6i5.com', 'www.xinjuc.com', 'www.zhongyunyang.com', 'm.tvccc.org', 'www.dgytlt.com', 'www.baota.me', 'www.linnuozs.com', 'www.hmoeh.com', 'www.dcs99.com', 'yxip.now.cc', 'www.huanyaad.com', 'www.cocanwelding.com', 'speed.marisalnc.com', '46gj.com', 'cfcn-d-guangdong3.66666654.xyz', 'v213.cc', 'stock.hostmonit.com', 'acus.cloudflarest.link', 'www.asmrgay.com', 'www.jiayichem.com', 'www.hnxinlian.org', 'www.hv47.com', 'www.whpaiger.com', 'jpvsavhyu.76898102.xyz', 'huakai2018.com', 'www.paizipai.top', 'download.yunzhongzhuan.com', 'www.heinu.cc', 'kkhentai.cn', 'www.cbcv.cc', 'www.ddwhm.com', 'hv47.com', 'www.5522tl.com', 'www.hhyy028.com', 'www.51jion.com', 'cf-lt.sharecentre.online', 'bkparimatch.com', 'www.leqeeshop.top', 'ak47.ltd', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'yx.887141.xyz', 'www.zzztch.com', 'www.4148.net', 'ttxyy.com', 'www.tlbb888.com', 'www.tv1080.com', 'www.haobns.com', 'www.b7yy.cc', 'yysubs.com', 'www.jg666.top', 'www.163my.com', 'www.kingdicg.com', 'www.hm17.lol', 'www.tinghen.com', 'a.cloudflare.182682.xyz', 'yyxycn.com', 'samuel.643333.xyz', 'cloudflare.182682.xyz', 'yeke6.com', 'www.hanmatv.com', 'www.gaycn.top', 'www.92mili.com', 'nlsdwsz.66666654.xyz', 'www.75uw.com', 'www.hm12.lol', 'download.yzzpan.com', 'emby2.kikovo.xyz', 'm.leqeeshop.top', 'g265.cc', 'www.geliapa.com', 'www.bjyongcheng.com', 'cdn-download.yunzhongzhuan.xyz', 'www.hxsy888.com', 'www.tvccc.org', 'www.wxxzzs.com', 'www.97777pk.com', 'www.6988tv.com', 'www.zgjmw.net', 'www.gzcfmy.com', 'www.5meye.com', 'www.sixyin.com', 'hmoe.top', 'www.ai2moe.org', 'www.xworldadmin.com', 'www.iios.club', 'www.11txt.com', 'heinu.cc', 'www.bkparimatch.com', 'm.niuerzs.com', 'www.gzgafk.com', 'www.jsdrtzn.com', 'www.df180pk.com', 'www.sishuirencai.com', 'www.kbss888.com', 'www.lyys8.com', 'www.xiaoshuofen.com', 'www.yeke6.com', 'www.cn46.com', 'www.bjfqmj.com', 'go.wumaojichang.com', 'www.kanmanhuala.cc', 'ts.mp4.fit', 'm.11txt.com', 'www.gzlatin.com', 'www.ttxyy.com', 'www.lyzdzy.com', 'www.pk299.com', '233dm.net', 'awtb7.com', 'niaoge3.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.huakai2018.com...
+Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz...
+Performing DNS lookup for www.xxootl.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
