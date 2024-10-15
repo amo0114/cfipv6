@@ -1,25 +1,24 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	b372.cc
-Address: 138.199.9.104
-Name:	b372.cc
-Address: 2400:52e0:1a01::900:1
+** server can't find 1.namesilo123.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	zshjba.com
-Address: 104.160.169.207
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.77.244
+Name:	ips.993888.xyz
+Address: 104.21.77.33
+Name:	ips.993888.xyz
+Address: 104.21.236.65
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.boyangjt.com
-Address: 104.16.104.218
-Name:	www.boyangjt.com
-Address: 104.16.72.177
+Name:	www.1080hj.com
+Address: 37.48.65.154
 

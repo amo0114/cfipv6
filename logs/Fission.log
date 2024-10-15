@@ -4546,3 +4546,29 @@ Performing DNS lookup for www.xxootl.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b6176e8] Update project files
+ 4 files changed, 56 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   bad37d2..b6176e8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.195.152...
+Fetching domains for 198.41.223.45...
+Fetching domains for 141.101.121.103...
+succeed to fetch domains for 141.101.121.103 from https://ipchaxun.com/
+Error fetching domains for 198.41.195.152 from https://dnsdblookup.com/: HTTPSConnectionPool(host='dnsdblookup.com', port=443): Max retries exceeded with url: /198.41.195.152/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='dnsdblookup.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 198.41.195.152...
+succeed to fetch domains for 198.41.195.152 from https://site.ip138.com/
+Error fetching domains for 198.41.223.45 from https://dnsdblookup.com/: HTTPSConnectionPool(host='dnsdblookup.com', port=443): Max retries exceeded with url: /198.41.223.45/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='dnsdblookup.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 198.41.223.45...
+succeed to fetch domains for 198.41.223.45 from https://ipchaxun.com/
+域名列表为
+['m.dp6080.com', 'm.vodbd.com', 'jpnewacs.114514782.xyz', 'www.90dushu.com', 'www.3c8848.com', 'www.48wk.com', 'www.icehua.cc', 'www.tv125.com', 'kkyx.yydsii.com', 'zshjba.com', 'www.679077.com', 'www.web120.org', 'www.wuda.cf', 'www.dy1255.com', 'blog.hostmonit.com', 'www.888dyy.cc', '1.cdnfree.cloudns.org', 'hkaa.sectigo.pp.ua', '29.namesilo123.top', 'm.cbcv.cc', 'pan.y520y.cn', 'www.hanmatv.com', 'smdyy.cc', 'm.boyangjt.com', 'www.116.ag', 'www.woaiqi.com', 'www.652tv.com', 'www.tv9090.com', 'cfv4.kj-1.com', 'baxtc.66666654.xyz', 'hg1599.com', 'm.11txt.com', 'yx.sulink.one', 'www.boyangjt.com', 'pic.tmsmh.com', 'www.xworldadmin.com', 'yyxycn.com', 'd8kj.com', 'www.kingdicg.com', 'cdn.0578.eu.org', 'www.lijunys.com', 'www.tuozhan021.com', 'hnxinlian.org', 'www.nsisfans.com', 'b372.cc', 'www.d8kj.com', 'www.atao.me', 'hk.cloudflare.182682.xyz', 'xs.wxtv.cc', 'cgdd.digicert.pp.ua', '7.namesilo123.top', 'www.dafuhao.com', 'www.991kan.com', 'gamegamept.com', 'www.7sc.cc', 'nlsdwsz.66666654.xyz', 'www.92mili.com', 'stock.hostmonit.com', 'usshsaba.114514782.xyz', 'manhuadb.com', 'cf-lt.sharecentre.online', 'yundunwawablogcdn1dx.wawacm.com', 'cf1.trojan.tel', 'www.wxxzzs.com', 'www.myvod360.com', 'm.bqg789.co', 'wxxzzs.com', 'mmiyy.com', 'jpvsavhyu.76898102.xyz', 'lfk.cc', '521vr.com', 'www.qiuxiaw.com', 'www.x52bq.com', 'm.28dushu.com', 'www.zzgszg.com', 'www.yava.pw', 'cfip.201043.xyz', '606977.com', 'www.ycbzcl.com', 'jjtyss.com', 'cbcv.cc', 'pan.axxpan.com', 'www.gzlatin.com', 'amoebi.com', 'chat.wawacm.com', 'acus.cloudflarest.link', '6i5.com', 'freeyx.cloudflare88.eu.org', 'www.sglrjc.com', 'www.yjeky.com', 'www.vodbd.com', 'speed.marisalnc.com', 'www.wn01.cc', 'yh6.dtku41.xyz', 'www.ddwhm.com', 'www.dj5157.com', 'www.bjyongcheng.com', 'www.jhhtech.com', 'www.lnudz.com', 'm.6988tv.com', 'www.wn04.cc', 'www.zjgamy.com', 'www.taijuwang.com', 'www.28dushu.com', 'www.cbcv.cc', '92mili.com', 'm.wxxzzs.com', 'www.paizipai.top', 'www.iios.club', 'www.oroe.top', 'www.tinghen.com', 'www.sxyzxh.com', 'www.hnxinlian.org', '7sc.cc', 'www.scxdexx.com', 'www.tanhuazu.com', '923055.com', 'www.5isi.com', 'www.xinpian8.com', 'www.6i5.com', 'www.hm11.lol', 'm.xinpian8.com', 'www.cxnage.com', 'www.qp666.com', 'www.4148.net', 'cgcc.digicert.pp.ua', 'jpadwinfs.114514782.xyz', 'www.huanyaad.com', 'sgv7.com', 'shop.hostmonit.com', '0550cq.com', '6988tv.com', 'www.11txt.com', 'www.33mov.com', 'www.0550cq.com', 'pic.yydsmh.com', 'hongkong.qing1999.eu.org', 'cloudflares.666999.world', 'boyangjt.com', 'www.zivps.com', 'tv9090.com', 'qp66.com', 'm.0550cq.com', 'www.6988tv.com', 'yundunwawablogcdn1yd.wawacm.com', 'dj5157.com', 'www.qf527.com', 'www.connoisseurtravel.com', 'www.baiitv.com', 'www.zhizhuxia520.com', '8810868.com', 'www.k77yy.com', 'wz.weishao2023.uk.eu.org', 'pan.lyc8503.site']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for b372.cc...
+Performing DNS lookup for zshjba.com...
+Performing DNS lookup for www.boyangjt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
