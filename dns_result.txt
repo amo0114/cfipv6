@@ -2,48 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.gdriustb.com
-Address: 162.209.149.30
+m.niuerzs.com	canonical name = www.jdzjq.cn.
+Name:	www.jdzjq.cn
+Address: 172.232.112.221
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www6.tom851.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-21tvb.com	canonical name = 7mevfcxy.maxptgol.com.
-7mevfcxy.maxptgol.com	canonical name = gc24rt3x.n.maxptgol.com.
-Name:	gc24rt3x.n.maxptgol.com
-Address: 143.92.56.235
-Name:	gc24rt3x.n.maxptgol.com
-Address: 143.92.56.236
-Name:	gc24rt3x.n.maxptgol.com
-Address: 118.107.40.125
-Name:	gc24rt3x.n.maxptgol.com
-Address: 118.107.40.126
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
-yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.17.146.67
-Name:	dcs.jqddos.xyz
-Address: 104.25.15.200
-Name:	dcs.jqddos.xyz
-Address: 104.16.127.128
-Name:	dcs.jqddos.xyz
-Address: 104.18.99.87
-Name:	dcs.jqddos.xyz
-Address: 104.16.83.123
-Name:	dcs.jqddos.xyz
-Address: 104.25.84.50
-Name:	dcs.jqddos.xyz
-Address: 104.18.98.242
-Name:	dcs.jqddos.xyz
-Address: 104.16.124.27
-Name:	dcs.jqddos.xyz
-Address: 104.16.80.36
-Name:	dcs.jqddos.xyz
-Address: 104.25.108.163
+Name:	tom851.com
+Address: 23.225.160.132
+Name:	tom851.com
+Address: 202.79.161.151
+Name:	tom851.com
+Address: 27.124.4.246
+Name:	tom851.com
+Address: 23.225.159.42
 

@@ -4615,3 +4615,25 @@ Performing DNS lookup for zhenbuka666.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 93480b6] Update project files
+ 4 files changed, 92 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (94%)
+To github.com:amo0114/cfipv6.git
+   69a74b9..93480b6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.151.2...
+Fetching domains for 104.17.115.253...
+Fetching domains for 104.17.155.146...
+succeed to fetch domains for 104.17.155.146 from https://site.ip138.com/
+succeed to fetch domains for 104.17.151.2 from https://site.ip138.com/
+succeed to fetch domains for 104.17.115.253 from https://dnsdblookup.com/
+域名列表为
+['www.tsdingxin.com', 'www.gdriustb.com', 'www.pk299.com', 'www.6988tv.com', '21tvb.com', 'www.789ys.com', 'www.kbss888.com', '07zx.me', 'www.lyzdzy.com', '18ys.com', 'm.niuerzs.com', 'www.cx888my.com', 'www.yh9pk.com', 'www.cocanwelding.com', 'www.28et.com', 'www.bfb3.com', 'www.993my.com', 'gangsiwang.org', 'www.k77kk.cc', 'www.kunzedu.com', 'www.17ttx.com', 'dsxys.com', 'ipdb.rr.nu', 'www.volvat.no', 'www.sf52l.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.gdriustb.com...
+Performing DNS lookup for 21tvb.com...
+Performing DNS lookup for www.kbss888.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
