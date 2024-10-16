@@ -1,19 +1,22 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find livecdn.bingkitchen.net: NXDOMAIN
+Non-authoritative answer:
+Name:	lb2.www.science.org
+Address: 104.18.34.21
+Name:	lb2.www.science.org
+Address: 172.64.153.235
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	911pu.com
-Address: 162.209.175.125
+creaform3d.com.cn	canonical name = www.creaform3d.com.cn.
+Name:	www.creaform3d.com.cn
+Address: 47.103.139.111
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	678f.net
-Address: 104.201.14.82
+** server can't find www.nwagh3u3.cn: NXDOMAIN
 

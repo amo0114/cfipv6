@@ -4693,3 +4693,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cec3329] Update project files
+ 4 files changed, 62 insertions(+), 3 deletions(-)
+To github.com:amo0114/cfipv6.git
+   cb1615c..cec3329  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.248.236...
+Fetching domains for 104.18.180.13...
+Fetching domains for 104.18.11.69...
+succeed to fetch domains for 104.16.248.236 from https://site.ip138.com/
+succeed to fetch domains for 104.18.180.13 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.11.69 from https://ipchaxun.com/
+域名列表为
+['www.comptoirdescotonniers.co.uk', '779fz.com', 'www.tockt.com', '77ty.com', 'www.tbxnet.com', 'okosx.com', 'www.a678ah.com', 'a678ah.com', 'www.678f.net', 'baxtc.66666654.xyz', 'www.yh9pk.com', 'www.755mi.com', 'www.zddzd.top', 'www.g4776s.com', '911pu.com', 'www.7896cc.com', '7896cc.com', 'www.kbss888.com', 'v6.11txt.com', 'www.e8110.com', 'www.90qr.com', 'www.ee66.com', 'livecdn.bingkitchen.net', 'www.91m.cc', 'tbxnet.com', 'e8110.com', '755mi.com', 'g4776s.com', 'ee66.com', 'achk.cloudflarest.link', '678f.net', 'www.jg666.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for livecdn.bingkitchen.net...
+Performing DNS lookup for 911pu.com...
+Performing DNS lookup for 678f.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
