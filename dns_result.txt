@@ -2,36 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.m888k.com
-Address: 172.67.161.93
-Name:	www.m888k.com
-Address: 104.21.9.224
-Name:	www.m888k.com
-Address: 2606:4700:3034::ac43:a15d
-Name:	www.m888k.com
-Address: 2606:4700:3032::6815:9e0
+Name:	4hudd66.com
+Address: 23.225.148.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.luwangyangrong.com
-Address: 172.232.4.213
-Name:	www.luwangyangrong.com
-Address: 172.232.25.148
-Name:	www.luwangyangrong.com
-Address: 172.232.31.180
+Name:	www.295k.com
+Address: 104.160.169.207
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	chainstack.com
-Address: 104.18.4.35
-Name:	chainstack.com
-Address: 104.18.5.35
-Name:	chainstack.com
-Address: 2606:4700::6812:423
-Name:	chainstack.com
-Address: 2606:4700::6812:523
+Name:	www.223po.com
+Address: 172.247.193.90
 

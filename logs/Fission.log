@@ -4757,3 +4757,29 @@ Performing DNS lookup for 4husp122.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 87e4764] Update project files
+ 4 files changed, 71 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   634e7e8..87e4764  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.238.22...
+Fetching domains for 104.18.17.109...
+Fetching domains for 104.18.4.35...
+succeed to fetch domains for 104.18.17.109 from https://site.ip138.com/
+Error fetching domains for 104.18.4.35 from https://dnsdblookup.com/: HTTPSConnectionPool(host='dnsdblookup.com', port=443): Max retries exceeded with url: /104.18.4.35/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='dnsdblookup.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 104.18.4.35...
+succeed to fetch domains for 104.18.4.35 from https://ipchaxun.com/
+Error fetching domains for 104.21.238.22 from https://dnsdblookup.com/: HTTPSConnectionPool(host='dnsdblookup.com', port=443): Max retries exceeded with url: /104.21.238.22/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='dnsdblookup.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 104.21.238.22...
+succeed to fetch domains for 104.21.238.22 from https://site.ip138.com/
+域名列表为
+['www.xiuluo942.com', '58bb.net', 'hostmonit.com', 'm.163fahao.com', 'www.kanunu2.com', 'www.ufreegames.com', 'eniro.se', 'www.700kan.com', '338u.net', 'cdn.freecdn.free.hr', 'www.295k.com', 'www.hhz262.com', 'xclgd.com', 'www.wbdy.tv', '42824.com', 'www.m888k.com', 'www.52ys.cc', 'www.whwanet.com', 'chainstack.com', 'www.6456pu.com', 'm888k.com', '16x.tv', 'www.42824.com', 'jujingmao.42824.com', 'm.42824.com', 'www.i543q.com', 'www.u756w.com', 'www.lyzdzy.com', 'ethereum-mainnet.core.chainstack.com', 'www.338u.net', 'www.b5073j.com', 'www.c789d.com', 'www.eniro.se', '6456pu.com', 'gm.efortuna.pl', 'i543q.com', 'cfip.xxxxxxxx.tk', 'ipdb.rr.nu', 'spaceiq.com', 'achk.cloudflarest.link', 'www.xuanqishi.cc', 'tv.ci', 'www.91m.cc', 'cc44jj.com', 'www.cc44jj.com', 'www.efortuna.pl', 'www.16x.tv', 'www.numericacu.com', 'b5073j.com', 'www.nitianzw.com', 'www.d7694t.com', 'www.yedu360.com', 'www.modaozushi.cc', 'hhz262.com', 'sqweis.com', 'www.luwangyangrong.com', 'www.58bb.net', 'www.douluodaluxs.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'ip.tv.ci', 'ufreegames.com', 'bsc-mainnet.core.chainstack.com', 'www.iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.m888k.com...
+Performing DNS lookup for www.luwangyangrong.com...
+Performing DNS lookup for chainstack.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
