@@ -4826,3 +4826,24 @@ Performing DNS lookup for mn.mnxsa.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5d0e77d] Update project files
+ 4 files changed, 97 insertions(+), 9 deletions(-)
+To github.com:amo0114/cfipv6.git
+   870e3d1..5d0e77d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.208.209...
+Fetching domains for 104.18.85.178...
+Fetching domains for 198.41.220.106...
+succeed to fetch domains for 198.41.208.209 from https://site.ip138.com/
+succeed to fetch domains for 198.41.220.106 from https://site.ip138.com/
+succeed to fetch domains for 104.18.85.178 from https://ipchaxun.com/
+域名列表为
+['pwcai.com', 'www.77dv.com', 'www.suboji.com', '923055.com', 'm.e99w.com', 'www.zzgszg.com', 'www.huashubao.org', 'www.kingdicg.com', 'www.uu93.com', 'm.6988tv.com', 'm.11txt.com', 'www.paizipai.top', 'cfip.xxxxxxxx.tk', 'uu93.com', 'www.nitianxieshen.com', 'www.ylsbzs.com', 'www.tinghen.com', 'm.6i5.com', 'www.lnfitness.com', 'www.wxxzzs.com', 'ayuer.com', 'www.hg098.com', 'www.4148.net', 'www.mmiyy.com', 'www.gdzhongju.com', 'www.e0101.com', 'auto.ccccdn.tk', 'www.sglrjc.com', 'www.28dushu.com', 'wei333.com', 'www.tv9090.com', 'e0101.com', '9900k.cn', 'www.axxsjx.com', 'www.pwcai.com', 'cfyes.2021214.xyz', '086181.xyz', 'download.yunzhongzhuan.com', 'www.sztimi.com', 'www.ngjqjx.com', '7.namesilo123.top', 'www.viptlbb.com', 'www.btbdys.com', 'www.hanmatv.com', 'freeyx.cloudflare88.eu.org', 'vcd.la', 'www.6i5.com', 'www.80yy.org', 'v99yh5.com', 'yx.887141.xyz', 'www.sxyzxh.com', 'cgcc.digicert.pp.ua', 'stock.hostmonit.com', '909855.com', 'www.11txt.com', 'qp66.com', 'www.ailanmude.com', 'qiangkouzhao.com', 'yh6.dtku41.xyz', 'www.boyangjt.com', 'www.tj-gm.com', 'ddwhm.com', 'z2py.com', 'www.6988tv.com', 'www.hnxinlian.org', 'www.gzlatin.com', 'www.679077.com', 'ceshi.cqzjtd.com', 'www.xinpian8.com', 'cf-lt.sharecentre.online', '4gdiy.com', 'www.shsanrui.com', 'www.zgwangzhan.com', 'www.huanyaad.com', '606977.com', 'www.ddaculture.com', 'www.50zw.co', 'www.4gdiy.com', 'www.tvyb02.com', 'www.yongheng.cyou', 'www.xkyy899.com', 'acus.cloudflarest.link', 'cf1.492745.xyz', 'www.0550cq.com', 'www.nsisfans.com', 'www.93xscc.com', 'www.90dushu.com', 'm.0550cq.com', 'www.qp666.com', 'sgv7.com', 'www.tuozhan021.com', 'www.881dy.com', 'www.jqggzyjy.com.cn', 'sgv3.com', 'www.99wxw.cc', 'www.xcyy696.com', 'k77yy.com', 'www.36dm.com', 'ipdb.app.tc', 'upload.yunzhongzhuan.com', 'www.yjeky.com', 'www.zhanglao8.fun', 'www.978c.com', 'www.wei333.com', 'm.myvod360.com', 'gangsiwang.org', 'www.ddwhm.com', 'jqggzyjy.com.cn', 'www.z2py.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for z2py.com...
+Performing DNS lookup for www.mmiyy.com...
+Performing DNS lookup for www.679077.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
