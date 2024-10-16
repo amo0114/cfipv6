@@ -4783,3 +4783,25 @@ Performing DNS lookup for chainstack.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 92b21fc] Update project files
+ 4 files changed, 55 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   87e4764..92b21fc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.25.143...
+Fetching domains for 104.21.238.22...
+Fetching domains for 104.18.12.0...
+succeed to fetch domains for 104.21.238.22 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.25.143 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.12.0 from https://dnsdblookup.com/
+域名列表为
+['cdn.freecdn.free.hr', '4hu12z.com', 'udowndomain.com', 'ffm97.com', 'www.wayutan023.com', '4hudd66.com', 'xclgd.com', 'www.aag23.com', 'pt2.xyyjc.top', '104-18-12-0.ip.flares.cloud', 'www.luwangyangrong.com', 'www.ffm97.com', 'otc-api.huobipro.com', 'm.163fahao.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'dsxys.com', 'www.338j.net', '58x.tv', 'www.whwanet.com', 'fold3.com', 'www.223po.com', 'www.58x.tv', 'www.295k.com', 'www.lyzdzy.com', 'www.fjallraven.eu', 'aag23.com', 'ipdb.rr.nu', 'www.91m.cc', 'www.4hu12z.com', 'www.4hudd66.com', 'otc.huobipro.com', 'api.huobipro.com', '223po.com', 'www.huobipro.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 4hudd66.com...
+Performing DNS lookup for www.295k.com...
+Performing DNS lookup for www.223po.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

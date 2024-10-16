@@ -1,21 +1,15 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	4hudd66.com
-Address: 23.225.148.166
+** server can't find www.4844hu.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.295k.com
-Address: 104.160.169.207
+** server can't find jpadwinfs.114514782.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.223po.com
-Address: 172.247.193.90
+** server can't find mn.mnxsa.com: NXDOMAIN
 
