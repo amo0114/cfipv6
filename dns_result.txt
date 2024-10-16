@@ -1,0 +1,19 @@
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find livecdn.bingkitchen.net: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	911pu.com
+Address: 162.209.175.125
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	678f.net
+Address: 104.201.14.82
+
