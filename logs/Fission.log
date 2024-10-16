@@ -4714,3 +4714,24 @@ Performing DNS lookup for 678f.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3c58f8e] Update project files
+ 4 files changed, 38 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   cec3329..3c58f8e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.114.39...
+Fetching domains for 104.18.34.21...
+Fetching domains for 104.18.33.66...
+succeed to fetch domains for 104.17.114.39 from https://site.ip138.com/
+succeed to fetch domains for 104.18.34.21 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.33.66 from https://ipchaxun.com/
+域名列表为
+['wuyouzhan.com', 'go.inmobi.com', 'www.116auto.com', 'viberout-lp.viber.com', 'www.beemotors.com.cn', 'promo.lionsroar.com', 'www.jjsevip.com', 'ipdb.rr.nu', 'creaform3d.com.cn', '72y2p7.cg7.co', 'info.uajy.ac.id', 'register.fxtm.info', 'lb2.www.science.org', 'carpolisher.chengkang.com', 'subscribe.bevnet.com', 'learn.khanacademy.org', 'www.science.org', 'www.789kp.com', 'try.tp-link.com', 'blx9.com', 'staging.www.science.org', 'www.domp4.net', 'driver.baly.iq', 'gggggyy.com', 'www.onlinetaichilessons.com', 'www.nwagh3u3.cn', 'vip54977.net', 'cfip.xxxxxxxx.tk', 'i-ub.cc', 'app.imx.chat', '5g24.com', 'www.beast.com', 'install.zcodetech.com', 'go.ooredoo.com', 'cess.cg7.co', 'www.zongcaixs.com', 'explore.yealink.com', 'try.imagix.com', 'programs.nexford.org', 'www.679077.com', 'www.565tv.space', 'wg6h.club', 'www.bva-lp.com', 'www.gold2020.com', 'experienceleague-li.adobe.com', 'go.yealink.com', 'www.zzztch.com', 'www.deheater.com', 'www.321jav.com', '321jav.com', 'www.hg098.com', 'lynbayfishandchipsilfracombe.co.uk', 'try.q4inc.com', 'avzj.me', 'api.antoutside.com', 'ip.antoutside.com', 'hanime.tv', 'get.serverhub.com', 'apuestas.betfred.es', 'partners.1bet.com', 'www.woritslilo.tk', 'www.inlinecreative.co.uk', 'www.makelovenotporn.com', 'ramadan.ooredoo.com', 'www.vip54977.net', 'get.later.com', 'www.nmgtzb.org.cn', '789kp.com', 'go.helixsleep.com', 'go.zawya.com', 'www.55xs.cc', 'www.superbid.com.pe', 'go.ooredoo.dz', 'parentsnm.graduationalliance.com', 'almanassa.com', 'go.distrokid.com', 'allblackshop.com', 'spj.science.org', 'messi.ooredoo.com', 'motoristas.99app.com', 'www.lyzdzy.com', 'duo.online.drexel.edu', 'www.blx9.com', 'www.pari-lp.com', '167gg.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for lb2.www.science.org...
+Performing DNS lookup for creaform3d.com.cn...
+Performing DNS lookup for www.nwagh3u3.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
