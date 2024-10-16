@@ -4805,3 +4805,24 @@ Performing DNS lookup for www.223po.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 870e3d1] Update project files
+ 4 files changed, 31 insertions(+), 18 deletions(-)
+To github.com:amo0114/cfipv6.git
+   92b21fc..870e3d1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.56.185...
+Fetching domains for 104.18.7.251...
+Fetching domains for 104.18.27.1...
+succeed to fetch domains for 104.18.27.1 from https://site.ip138.com/
+succeed to fetch domains for 104.16.56.185 from https://site.ip138.com/
+succeed to fetch domains for 104.18.7.251 from https://ipchaxun.com/
+域名列表为
+['m.niuerzs.com', 'wsq.bilieeli.com', 'jp.784654.xyz', '17.namesilo123.top', 'jpbb.sectigo.pp.ua', 'hzefss.66666654.xyz', '27.namesilo123.top', 'www.iios.club', 'xbxb88.s8k.cc', 'support.cloudflare.com', '1.namesilo123.top', 'hillsbrade.com', 'lsys.ckepeqhqro.com', 'down.dawdop.com', 'www.pk299.com', 'nlsdwsz.66666654.xyz', 'www.hnxtx.com', '766cu.com', 'xxsws.jwtdhl.com', 'wannimtn.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', '26.namesilo123.top', 'www.4hug15.com', 'www.234nen.com', '6.namesilo123.top', '3dmoxing.cn', 'speed.marisalnc.com', 'www.ssh889.com', 'mn.mnxsa.com', 'tengbo398.com', 'pay.com', 'usshsaba.114514782.xyz', 'yx.887141.xyz', '7.namesilo123.top', 'tengbo686.com', 'www.38ffa.com', 'www.993my.com', 'tbh60.com', 'ddwhm.com', 'blackmorasv.com', 'www.sixt.de', 'shoueraa.76898102.xyz', 'jpadwinfs.114514782.xyz', 'www.gmdvd.com', 'wz.weishao2023.uk.eu.org', 'acus.cloudflarest.link', 'app.d.id', 'bornhut.com', '4844hu.com', 'd.id', '234nen.com', '38ffa.com', 'www.51jion.com', 'freeyx.cloudflare88.eu.org', 'd123a.com', 'www.d123a.com', 'ydhdlbain.114514782.xyz', '29.namesilo123.top', 'baxtc.66666654.xyz', 'mrxz.tkdpefhgjr.com', '4huxx02.com', 'www.88wwk.com', 'ww.kh8d.com', 'zl.aitrjc.xyz', 'x4y77.com', 'www.99wx.cc', 'wklr.leavesp.com', 'cajdydinje.com', 'fga.ivnnswhkvv.com', 'www.ddwhm.com', 'talk.d.id', 'www.x4y77.com', '2.868896.xyz', 'www.kbss888.com', 'gjzz.jwtdhl.com', 'tengbo618.com', 'www.pay.com', 'www.4844hu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.4844hu.com...
+Performing DNS lookup for jpadwinfs.114514782.xyz...
+Performing DNS lookup for mn.mnxsa.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

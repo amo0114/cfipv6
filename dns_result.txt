@@ -1,15 +1,60 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.4844hu.com: NXDOMAIN
+Non-authoritative answer:
+Name:	z2py.com
+Address: 104.247.81.52
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find jpadwinfs.114514782.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	www.mmiyy.com
+Address: 103.224.212.210
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find mn.mnxsa.com: NXDOMAIN
+Non-authoritative answer:
+www.679077.com	canonical name = nb2.f7chinavip.com.
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.37
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.28
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.36
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.39
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.31
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.29
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.41
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.34
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.11
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.33
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.38
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.12
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.27
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.32
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.40
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.35
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.30
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.14
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.13
+Name:	nb2.f7chinavip.com
+Address: 103.149.153.10
 
