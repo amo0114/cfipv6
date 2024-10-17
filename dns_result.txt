@@ -1,34 +1,22 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.baisuishu.com	canonical name = www.jsdrtzn.com.
-www.jsdrtzn.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.150.49
-Name:	cf.zmdhc.com
-Address: 172.67.89.131
-Name:	cf.zmdhc.com
-Address: 172.67.187.40
-Name:	cf.zmdhc.com
-Address: 172.67.184.114
+** server can't find www.207my.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.7749tv.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+Name:	www.7277tl.com
+Address: 127.0.0.1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.xxootl.com: NXDOMAIN
+Non-authoritative answer:
+www.2v8d.com	canonical name = 2v8d.com.cdn.cloudflare.net.
+Name:	2v8d.com.cdn.cloudflare.net
+Address: 172.67.130.49
+Name:	2v8d.com.cdn.cloudflare.net
+Address: 104.21.7.112
 
