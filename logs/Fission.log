@@ -4992,3 +4992,25 @@ Performing DNS lookup for cfip.xxxxxxxx.tk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bd8bea3] Update project files
+ 4 files changed, 75 insertions(+), 70 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   0040b90..bd8bea3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.98.51...
+Fetching domains for 198.41.221.224...
+Fetching domains for 104.17.105.123...
+succeed to fetch domains for 198.41.221.224 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.98.51 from https://site.ip138.com/
+succeed to fetch domains for 104.17.105.123 from https://dnsdblookup.com/
+域名列表为
+['www.50zw.com', 'www.sxyzxh.com', '0550cq.com', 'www.6i5.com', 'www.paizipai.top', 'www.iios.club', 'www.cbcv.cc', 'www.boyangjt.com', 'www.tinghen.com', 'yundunwawablogcdn1dx.wawacm.com', 'tushencn.com', 'cdn.didi8.com', 'sgv7.com', 'www.vodbd.com', 'www.dmbj.cc', 'www.116.ag', 'www.myvod360.com', 'yx.887141.xyz', 'www.hnxinlian.org', 'cfip.xxxxxxxx.tk', 'www.ayuer.com', 'www.tushencn.com', 'longli.online', 'sgv3.com', 'acus.cloudflarest.link', 'www.wxxzzs.com', 'www.zgjmw.net', 'www.xigua5.net', 'wap.sp6080.com', 'ag.hg2096.com', '8810868.com', 'www.ydxs.cc', 'jpvsavhyu.76898102.xyz', 'www.tv9090.com', 'www.0550cq.com', 'www.92mili.com', 'm.0550cq.com', 'cf-lt.sharecentre.online', 'uu93.com', 'vod114.com', 'www.jjtyss.com', 'www.7sc.cc', 'stock.hostmonit.com', '92mili.com', 'www.uu93.com', '7sc.cc', 'www.qp666.com', 'www.qf527.com', 'fldsubgigtujuy.76898102.xyz', 'yyxycn.com', 'www.iios.me', 'www.11txt.com', 'm.6988tv.com', 'vvccpp.com', 'yxym.erpang-china.cloudns.biz', 'www.ynradiology.net', 'www.ddwhm.com', 'www.vcd.la', 'www.6988tv.com', 'd8kj.com', 'www.4148.net', 'www.web120.org', 'qp66.com', 'www.hbvl.be', 'boyangjt.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.4148.net...
+Performing DNS lookup for www.hnxinlian.org...
+Performing DNS lookup for sgv3.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

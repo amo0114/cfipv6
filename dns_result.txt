@@ -2,39 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.4148.net	canonical name = www.4148.net.cdn.cloudflare.net.
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 172.67.184.20
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 104.21.59.212
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 2606:4700:3031::ac43:b814
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:3bd4
+Name:	wap.cdd7nck.top
+Address: 104.21.82.26
+Name:	wap.cdd7nck.top
+Address: 172.67.151.114
+Name:	wap.cdd7nck.top
+Address: 2606:4700:3030::6815:521a
+Name:	wap.cdd7nck.top
+Address: 2606:4700:3032::ac43:9772
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hnxinlian.org	canonical name = sbcdn.cc.
-sbcdn.cc	canonical name = dash.cloudflare.com.
-Name:	dash.cloudflare.com
-Address: 104.17.110.184
-Name:	dash.cloudflare.com
-Address: 104.17.111.184
-Name:	dash.cloudflare.com
-Address: 2606:4700::6811:6eb8
-Name:	dash.cloudflare.com
-Address: 2606:4700::6811:6fb8
+Name:	3g.jstetl.top
+Address: 104.21.22.186
+Name:	3g.jstetl.top
+Address: 172.67.206.158
+Name:	3g.jstetl.top
+Address: 2606:4700:3032::6815:16ba
+Name:	3g.jstetl.top
+Address: 2606:4700:3030::ac43:ce9e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	sgv3.com
-Address: 172.232.25.148
-Name:	sgv3.com
-Address: 172.232.4.213
-Name:	sgv3.com
-Address: 172.232.31.180
+Name:	chiyou119.buzz
+Address: 103.224.182.208
 
