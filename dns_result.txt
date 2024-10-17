@@ -2,36 +2,50 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.85xs.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.140.81
-Name:	ips.993888.xyz
-Address: 104.16.125.145
-Name:	ips.993888.xyz
-Address: 104.17.67.99
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find cdn-download.yunzhongzhuan.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.huakai2018.com	canonical name = dns.m3u8cache.top.
-Name:	dns.m3u8cache.top
-Address: 172.67.209.78
-Name:	dns.m3u8cache.top
-Address: 104.21.74.254
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::6815:4afe
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::ac43:d14e
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	lekmer.dk
-Address: 54.246.207.44
-Name:	lekmer.dk
-Address: 34.250.245.189
-Name:	lekmer.dk
-Address: 54.171.227.22
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.30.70
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.30.250
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.26.195
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.22.171
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.49.108
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.22.186
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.221.224
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.220.219
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.98.51
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.51.179
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.16
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.50.179
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.124.126
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.208.81
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.105.123
 
