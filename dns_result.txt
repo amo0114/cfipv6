@@ -1,34 +1,17 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.vcd.la
-Address: 38.55.48.194
+** server can't find ilhheq.com.cn: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 162.159.140.243
-Name:	ips.993888.xyz
-Address: 162.159.130.198
-Name:	ips.993888.xyz
-Address: 162.159.130.96
+Name:	zgwangzhan.com
+Address: 45.9.109.194
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.wowway.com
-Address: 104.16.144.122
-Name:	www.wowway.com
-Address: 104.19.255.251
-Name:	www.wowway.com
-Address: 104.16.160.122
-Name:	www.wowway.com
-Address: 104.16.128.122
-Name:	www.wowway.com
-Address: 104.19.239.251
+** server can't find uhexya.live: NXDOMAIN
 
