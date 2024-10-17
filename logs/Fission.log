@@ -5036,3 +5036,25 @@ Performing DNS lookup for chiyou119.buzz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 88a801f] Update project files
+ 4 files changed, 87 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   3fdb7ac..88a801f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.124.126...
+Fetching domains for 104.17.49.108...
+Fetching domains for 104.17.22.171...
+succeed to fetch domains for 104.17.49.108 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.22.171 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.124.126 from https://ipchaxun.com/
+域名列表为
+['www.whpaiger.com', 'www.bdx100.com', 'bazhan.wang', 'cfip.xxxxxxxx.tk', 'www.85xs.cc', 'www.kunzedu.com', 'www.qwysvip.com', '628000.xyz', 'www.93xscc.com', 'www.chinarlb.com', 'www.lyzdzy.com', 'www.cfhuagong.com', 'm.bbiquge.cc', 'm.niuerzs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.bdx100.com...
+Performing DNS lookup for m.bbiquge.cc...
+Performing DNS lookup for 628000.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

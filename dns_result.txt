@@ -2,46 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.bdx100.com
-Address: 162.209.175.122
-
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
-
-** server can't find m.bbiquge.cc: SERVFAIL
+Name:	lekmer.dk
+Address: 34.250.245.189
+Name:	lekmer.dk
+Address: 54.246.207.44
+Name:	lekmer.dk
+Address: 54.171.227.22
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	628000.xyz
-Address: 198.41.208.81
-Name:	628000.xyz
-Address: 104.17.124.126
-Name:	628000.xyz
-Address: 104.17.105.123
-Name:	628000.xyz
-Address: 198.41.212.16
-Name:	628000.xyz
-Address: 104.17.51.179
-Name:	628000.xyz
-Address: 104.17.98.51
-Name:	628000.xyz
-Address: 198.41.221.224
-Name:	628000.xyz
-Address: 104.17.22.171
-Name:	628000.xyz
-Address: 198.41.220.219
-Name:	628000.xyz
-Address: 104.17.26.195
-Name:	628000.xyz
-Address: 104.17.30.70
-Name:	628000.xyz
-Address: 104.17.50.179
-Name:	628000.xyz
-Address: 104.21.22.186
-Name:	628000.xyz
-Address: 104.17.49.108
+Name:	www.sumedangkab.go.id
+Address: 104.21.30.250
+Name:	www.sumedangkab.go.id
+Address: 172.67.174.59
+Name:	www.sumedangkab.go.id
+Address: 2606:4700:3032::ac43:ae3b
+Name:	www.sumedangkab.go.id
+Address: 2606:4700:3036::6815:1efa
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find aixxx.red: NXDOMAIN
 
