@@ -1,22 +1,37 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.207my.com: NXDOMAIN
+Non-authoritative answer:
+www.85xs.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.140.81
+Name:	ips.993888.xyz
+Address: 104.16.125.145
+Name:	ips.993888.xyz
+Address: 104.17.67.99
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.7277tl.com
-Address: 127.0.0.1
+www.huakai2018.com	canonical name = dns.m3u8cache.top.
+Name:	dns.m3u8cache.top
+Address: 172.67.209.78
+Name:	dns.m3u8cache.top
+Address: 104.21.74.254
+Name:	dns.m3u8cache.top
+Address: 2606:4700:3030::6815:4afe
+Name:	dns.m3u8cache.top
+Address: 2606:4700:3030::ac43:d14e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.2v8d.com	canonical name = 2v8d.com.cdn.cloudflare.net.
-Name:	2v8d.com.cdn.cloudflare.net
-Address: 172.67.130.49
-Name:	2v8d.com.cdn.cloudflare.net
-Address: 104.21.7.112
+Name:	lekmer.dk
+Address: 54.246.207.44
+Name:	lekmer.dk
+Address: 34.250.245.189
+Name:	lekmer.dk
+Address: 54.171.227.22
 
