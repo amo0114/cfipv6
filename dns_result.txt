@@ -2,32 +2,46 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wap.cdd7nck.top
-Address: 104.21.82.26
-Name:	wap.cdd7nck.top
-Address: 172.67.151.114
-Name:	wap.cdd7nck.top
-Address: 2606:4700:3030::6815:521a
-Name:	wap.cdd7nck.top
-Address: 2606:4700:3032::ac43:9772
+Name:	www.bdx100.com
+Address: 162.209.175.122
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+** server can't find m.bbiquge.cc: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	3g.jstetl.top
+Name:	628000.xyz
+Address: 198.41.208.81
+Name:	628000.xyz
+Address: 104.17.124.126
+Name:	628000.xyz
+Address: 104.17.105.123
+Name:	628000.xyz
+Address: 198.41.212.16
+Name:	628000.xyz
+Address: 104.17.51.179
+Name:	628000.xyz
+Address: 104.17.98.51
+Name:	628000.xyz
+Address: 198.41.221.224
+Name:	628000.xyz
+Address: 104.17.22.171
+Name:	628000.xyz
+Address: 198.41.220.219
+Name:	628000.xyz
+Address: 104.17.26.195
+Name:	628000.xyz
+Address: 104.17.30.70
+Name:	628000.xyz
+Address: 104.17.50.179
+Name:	628000.xyz
 Address: 104.21.22.186
-Name:	3g.jstetl.top
-Address: 172.67.206.158
-Name:	3g.jstetl.top
-Address: 2606:4700:3032::6815:16ba
-Name:	3g.jstetl.top
-Address: 2606:4700:3030::ac43:ce9e
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	chiyou119.buzz
-Address: 103.224.182.208
+Name:	628000.xyz
+Address: 104.17.49.108
 
