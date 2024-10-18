@@ -5124,3 +5124,24 @@ Performing DNS lookup for www.991kan.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d36f29c] Update project files
+ 4 files changed, 77 insertions(+), 52 deletions(-)
+To github.com:amo0114/cfipv6.git
+   19f90ab..d36f29c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.220.219...
+Fetching domains for 104.17.50.179...
+Fetching domains for 198.41.212.16...
+succeed to fetch domains for 104.17.50.179 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.220.219 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.212.16 from https://dnsdblookup.com/
+域名列表为
+['cdn.cmliu.net', 'wz.weishao2023.uk.eu.org', 'm.6988tv.com', 'www.k77kk.cc', 'www.bj-jq.com', 'm.niuerzs.com', 'www.92mili.com', 'baxtc.66666654.xyz', '92mili.com', 'nlsdwsz.66666654.xyz', 'freeyx.cloudflare88.eu.org', 'm.6i5.com', '628000.xyz', 'www.paizipai.top', '6i5.com', 'www.dapian1234.com', 'www.28dushu.com', 'yundunwawablogcdn1dx.wawacm.com', 'zl.aitrjc.xyz', 'stock.hostmonit.com', 'wz.weishao2023.dk.eu.org', 'www.6i5.com', 'us6.uuuuu.fn-node.site', 'acus.cloudflarest.link', '4148.net', 'www.laimanhua8.com', 'www.vodbd.com', 'cdn.didi8.com', 'yh6.dtku41.xyz', 'www.k77yy.com', 'sgv3.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.7749tv.cc', 'www.wxxzzs.com', 'blog.hostmonit.com', 'tgbpjc-artchat.bpjc.site', 'cf-lt.sharecentre.online', 'tushencn.com', 'www.6988tv.com', 'zmkan.top', 'www.0550cq.com', 'www.nsisfans.com', 'www.dy420.com', '7086.org', 'www.c333.net', 'www.4148.net', 'nas.juzyz.com', 'www.wanmeikankan.net', 'www.tinghen.com', 'www.jjtyss.com', 'www.50zw.co', 'www.881dy.com', 'jpvsavhyu.76898102.xyz', 'm.0550cq.com', 'www.zgjmw.net', 'cfip.xxxxxxxx.tk', 'www.17ttx.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.tushencn.com', 'cfip.201043.xyz', 'cbcv.cc', 'yx.887141.xyz', 'www.kanju8.com', '0550cq.com', 'm.laimanhua8.com', 'pan.axxpan.com', 'cg.33xf.cc', 'www.991kan.com', 'www.xinpian8.com', 'www.11txt.com', 'www.hm11.lol', '6988tv.com', 'spca.114514782.xyz', 'www.yy4080dy.com', 'cloudflare.pxiz.site', 'ipdb.rr.nu', 'www.tvccc.org', 'lekmer.dk', 'www.tvyb02.com', '7.namesilo123.top', 'sgv7.com', 'www.cbcv.cc', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for www.paizipai.top...
+Performing DNS lookup for 6988tv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
