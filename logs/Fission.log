@@ -5231,3 +5231,25 @@ Performing DNS lookup for www.ydxs.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3cd5fca] Update project files
+ 4 files changed, 67 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   7e2962e..3cd5fca  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.208.81...
+Fetching domains for 104.21.30.250...
+Fetching domains for 104.17.124.126...
+succeed to fetch domains for 198.41.208.81 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.30.250 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.124.126 from https://site.ip138.com/
+域名列表为
+['stock.hostmonit.com', 'hudnemo.com', 'freeyx.cloudflare88.eu.org', 'jpdd.entrust.pp.ua', 'zooporn.video', '2tfafn8x.xyz', 'www.eeyizo.top', 'www.hb168.net', 'm.cdd7nck.top', 'cdn.mp4.fit', 'ibuyclub.com', 'www.cxsyfz.com', 'www.pk299.com', 'www.tl123123.com', 'www.4148.net', 'www.lyzdzy.com', 'www.90dushu.com', 'baxtc.66666654.xyz', 'sysresccd.org', 'eeyizo.top', 'www.80yy.org', 'www.xinpian8.com', 'cdn-download.yunzhongzhuan.xyz', 'www.wxxzzs.com', 'www.cbcv.cc', 'www.706dd.com', 'www.0550cq.com', 'www.tinghen.com', 'www.6i5.com', 'www.k77kk.cc', 'aixxx.red', 'www.24xunlei.com', 'bj008.com', 'duihuanzhipiao.com', 'www.7sc.cc', 'www.rxjh520.cc', 'www.baihexingkj.com', 'www.lyqilicloths.com', 'xs.wxtv.cc', 'www.85xs.cc', 'chiyou119.buzz', 'www.lgzpde.xyz', '92mili.com', 'mail.zombacus.com', 'www.abu22.com', 'bisuxs.com', 'progavrichenko.ru', 'www.ddwhm.com', 'www.skddzkj.com', 'cdd7nck.top', '628000.xyz', 'sgv7.com', 'wap.eeyizo.top', 'www.6988tv.com', 'm.pianku5.me', 'vehicless.cn', 'www.sumedangkab.go.id', 'vn9866.com', 'aq.safe301.lol', 'www.vodbd.com', '706dd.com', 'nas.juzyz.com', 'www.paizipai.top', 'blog.hostmonit.com', 'download.yunzhongzhuan.com', 'jbbrother.com', '746rr.com', 'nlsdwsz.66666654.xyz', 'www.tv9090.com', 'm.niuerzs.com', 'www.881dy.com', 'www.qwysvip.com', 'www.ydxs.cc', 'wyxs.cc', 'www.cdd7nck.top', '3g.cdd7nck.top', 'ppid.sumedangkab.go.id', 'cfip.xxxxxxxx.tk', 'unirune.xyz', '3g.eeyizo.top', 'www.yava.pw', 'cf.1-human-2.com', 'www.630book.com', 'hb168.net', 'www.wodzudio.com', 'pornodemon.com', 'www.smdyy.cc', 'wxwchj.com', 'www.yhcetd.cn', 'cf-dx-dns.sharecentre.online', 'www.huanyaad.com', 'www.manhuadb.com', 'www.south-dt.com', '4echat1001.com', 'www.k77yy.com', 'www.fwntc.com', 'www.zhixingzhiju.cn', 'www.cs5472.com', 'wap.cdd7nck.top', 'www.11txt.com', 'www.boyangjt.com', 'daishu02.com', 'm.eeyizo.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cf-dx-dns.sharecentre.online...
+Performing DNS lookup for www.881dy.com...
+Performing DNS lookup for freeyx.cloudflare88.eu.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

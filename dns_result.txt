@@ -2,34 +2,29 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cf-dx-dns.sharecentre.online
-Address: 172.67.5.100
+Name:	mail.zombacus.com
+Address: 104.21.30.250
+Name:	mail.zombacus.com
+Address: 172.67.174.59
+Name:	mail.zombacus.com
+Address: 2606:4700:3032::ac43:ae3b
+Name:	mail.zombacus.com
+Address: 2606:4700:3036::6815:1efa
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.lgzpde.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.881dy.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-freeyx.cloudflare88.eu.org	canonical name = xn--vjqp6xkwblzeyv2h.cn.
-xn--vjqp6xkwblzeyv2h.cn	canonical name = asvfgg.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-asvfgg.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global34.66666654.xyz.
-Name:	cfcn-b-global34.66666654.xyz
-Address: 172.67.64.42
-Name:	cfcn-b-global34.66666654.xyz
-Address: 104.20.17.22
+www.dmbj.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 162.159.133.139
+Name:	ips.993888.xyz
+Address: 162.159.138.254
+Name:	ips.993888.xyz
+Address: 162.159.135.122
 
