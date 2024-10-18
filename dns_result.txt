@@ -2,63 +2,65 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-cbcv.cc	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.30.70
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.49.108
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.51.179
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.221.224
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.22.171
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.124.126
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.220.219
 Name:	cfip.xxxxxxxx.tk
 Address: 104.17.26.195
 Name:	cfip.xxxxxxxx.tk
 Address: 198.41.208.81
 Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.16
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.22.171
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.220.219
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.50.179
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.49.108
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.124.126
+Address: 104.21.22.186
 Name:	cfip.xxxxxxxx.tk
 Address: 104.21.30.250
 Name:	cfip.xxxxxxxx.tk
-Address: 104.21.22.186
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.221.224
-Name:	cfip.xxxxxxxx.tk
 Address: 104.17.98.51
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.30.70
+Address: 104.17.50.179
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.51.179
+Address: 198.41.212.16
 Name:	cfip.xxxxxxxx.tk
 Address: 104.17.105.123
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
+** server can't find www.paizipai.top: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
 Non-authoritative answer:
-www.991kan.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
 

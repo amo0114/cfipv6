@@ -5102,3 +5102,25 @@ Performing DNS lookup for uu93.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 19f90ab] Update project files
+ 4 files changed, 107 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   14ce682..19f90ab  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.26.195...
+Fetching domains for 104.17.51.179...
+Fetching domains for 198.41.220.219...
+succeed to fetch domains for 104.17.26.195 from https://site.ip138.com/
+succeed to fetch domains for 198.41.220.219 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.51.179 from https://dnsdblookup.com/
+域名列表为
+['cg.33xf.cc', 'www.yy4080dy.com', 'cfip.201043.xyz', '92mili.com', 'cfip.xxxxxxxx.tk', 'www.652tv.com', 'www.77zw.cc', 'www.vodbd.com', 'www.cocanwelding.com', 'www.tvccc.org', 'm.niuerzs.com', 'www.hm11.lol', 'stock.hostmonit.com', 'www.tv9090.com', 'www.93xscc.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.k77kk.cc', 'm.6i5.com', 'www.ddwhm.com', 'sgv3.com', 'www.zqyyz.com', '628000.xyz', 'nlsdwsz.66666654.xyz', 'www.wxxzzs.com', 'wz.weishao2023.dk.eu.org', 'm.6988tv.com', 'www.6988tv.com', 'www.kanju8.com', 'www.xinpian8.com', 'www.dy420.com', 'www.881dy.com', 'best.cdn.sqeven.cn', 'www.paizipai.top', 'www.huakai2018.com', 'www.6i5.com', 'ipdb.rr.nu', 'www.4148.net', 'www.0550cq.com', 'www.k77yy.com', '6988tv.com', '0550cq.com', 'pdzmre77473.sanfen001.top', 'tushencn.com', 'www.wanmeikankan.net', 'wz.weishao2023.uk.eu.org', 'www.tushencn.com', 'www.50zw.co', 'zmkan.top', 'cf-lt.sharecentre.online', 'www.92mili.com', 'www.17ttx.com', 'www.991kan.com', 'www.c333.net', 'sgv7.com', 'yx.887141.xyz', 'lekmer.dk', 'm.0550cq.com', 'www.cbcv.cc', 'cbcv.cc', 'baxtc.66666654.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cbcv.cc...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for www.991kan.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
