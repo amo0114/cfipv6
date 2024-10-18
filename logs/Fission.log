@@ -5058,3 +5058,25 @@ Performing DNS lookup for 628000.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ead77de] Update project files
+ 4 files changed, 59 insertions(+), 64 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   88a801f..ead77de  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.50.179...
+Fetching domains for 104.21.30.250...
+Fetching domains for 104.17.105.123...
+succeed to fetch domains for 104.17.50.179 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.105.123 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.30.250 from https://dnsdblookup.com/
+域名列表为
+['bisuxs.com', 'www.tl123123.com', 'chiyou119.buzz', 'www.yhcetd.cn', 'zooporn.video', 'bj008.com', 'www.lyqilicloths.com', 'wap.eeyizo.top', '3g.eeyizo.top', 'hb168.net', 'www.6988tv.com', 'www.skddzkj.com', 'cdd7nck.top', 'm.cdd7nck.top', 'www.fwntc.com', 'jbbrother.com', 'ibuyclub.com', 'www.south-dt.com', 'www.eeyizo.top', 'www.zhixingzhiju.cn', '746rr.com', '4echat1001.com', 'm.niuerzs.com', 'aq.safe301.lol', 'm.eeyizo.top', 'eeyizo.top', 'www.zgjmw.net', 'www.lgzpde.xyz', 'yxym.erpang-china.cloudns.biz', 'www.cdd7nck.top', 'www.rxjh520.cc', '3g.cdd7nck.top', 'cfip.xxxxxxxx.tk', '628000.xyz', 'pornodemon.com', 'www.jjtyss.com', 'mail.zombacus.com', 'wxwchj.com', 'www.baihexingkj.com', 'www.hb168.net', 'ppid.sumedangkab.go.id', 'sysresccd.org', 'www.706dd.com', 'www.cs5472.com', 'wap.cdd7nck.top', 'vn9866.com', 'aixxx.red', 'unirune.xyz', 'vehicless.cn', 'daishu02.com', '2tfafn8x.xyz', 'progavrichenko.ru', '706dd.com', 'hudnemo.com', 'lekmer.dk', 'www.dmbj.cc', 'www.pk299.com', 'www.ynradiology.net', 'www.xigua5.net', 'www.sumedangkab.go.id']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for lekmer.dk...
+Performing DNS lookup for www.sumedangkab.go.id...
+Performing DNS lookup for aixxx.red...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

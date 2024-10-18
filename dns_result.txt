@@ -2,28 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	lekmer.dk
-Address: 34.250.245.189
-Name:	lekmer.dk
-Address: 54.246.207.44
-Name:	lekmer.dk
-Address: 54.171.227.22
+Name:	606977.com
+Address: 172.232.25.148
+Name:	606977.com
+Address: 172.232.31.180
+Name:	606977.com
+Address: 172.232.4.213
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.sumedangkab.go.id
-Address: 104.21.30.250
-Name:	www.sumedangkab.go.id
-Address: 172.67.174.59
-Name:	www.sumedangkab.go.id
-Address: 2606:4700:3032::ac43:ae3b
-Name:	www.sumedangkab.go.id
-Address: 2606:4700:3036::6815:1efa
+Name:	www.sxyzxh.com
+Address: 104.160.169.202
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find aixxx.red: NXDOMAIN
+Non-authoritative answer:
+Name:	uu93.com
+Address: 104.21.35.197
+Name:	uu93.com
+Address: 172.67.179.23
+Name:	uu93.com
+Address: 2606:4700:3033::6815:23c5
+Name:	uu93.com
+Address: 2606:4700:3037::ac43:b317
 
