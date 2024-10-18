@@ -2,30 +2,63 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	606977.com
-Address: 172.232.25.148
-Name:	606977.com
-Address: 172.232.31.180
-Name:	606977.com
-Address: 172.232.4.213
+cbcv.cc	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.sxyzxh.com
-Address: 104.160.169.202
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.26.195
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.208.81
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.16
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.22.171
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.220.219
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.50.179
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.49.108
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.124.126
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.30.250
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.22.186
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.221.224
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.98.51
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.30.70
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.51.179
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.105.123
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	uu93.com
-Address: 104.21.35.197
-Name:	uu93.com
-Address: 172.67.179.23
-Name:	uu93.com
-Address: 2606:4700:3033::6815:23c5
-Name:	uu93.com
-Address: 2606:4700:3037::ac43:b317
+www.991kan.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
 
