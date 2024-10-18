@@ -2,67 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kunzedu.com
-Address: 103.88.187.196
+Name:	mail.zombacus.com
+Address: 104.21.30.250
+Name:	mail.zombacus.com
+Address: 172.67.174.59
+Name:	mail.zombacus.com
+Address: 2606:4700:3036::6815:1efa
+Name:	mail.zombacus.com
+Address: 2606:4700:3032::ac43:ae3b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.652tv.com	canonical name = 652.cloudflare.182682.xyz.
-Name:	652.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	652.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	652.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	652.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	652.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	652.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
+Name:	chiyou119.buzz
+Address: 103.224.182.208
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-nas.juzyz.com	canonical name = cdn.330421.xyz.
-cdn.330421.xyz	canonical name = cf.iam8.shop.
-Name:	cf.iam8.shop
-Address: 104.17.30.70
-Name:	cf.iam8.shop
-Address: 104.17.50.179
-Name:	cf.iam8.shop
-Address: 198.41.220.219
-Name:	cf.iam8.shop
-Address: 198.41.212.16
-Name:	cf.iam8.shop
-Address: 104.21.22.186
-Name:	cf.iam8.shop
-Address: 104.17.124.126
-Name:	cf.iam8.shop
-Address: 104.17.105.123
-Name:	cf.iam8.shop
-Address: 198.41.221.224
-Name:	cf.iam8.shop
-Address: 104.17.51.179
-Name:	cf.iam8.shop
-Address: 104.17.98.51
-Name:	cf.iam8.shop
-Address: 104.17.26.195
-Name:	cf.iam8.shop
-Address: 104.17.49.108
-Name:	cf.iam8.shop
-Address: 104.17.22.171
-Name:	cf.iam8.shop
-Address: 198.41.208.81
+www.ydxs.cc	canonical name = xs.wxtv.cc.
+Name:	xs.wxtv.cc
+Address: 104.21.227.211
+Name:	xs.wxtv.cc
+Address: 104.19.136.169
+Name:	xs.wxtv.cc
+Address: 104.16.112.168
+Name:	xs.wxtv.cc
+Address: 104.16.112.141
+Name:	xs.wxtv.cc
+Address: 104.19.135.154
 
