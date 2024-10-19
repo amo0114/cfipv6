@@ -5432,3 +5432,25 @@ Performing DNS lookup for www.cfhuagong.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5d2433b] Update project files
+ 4 files changed, 52 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   0977291..5d2433b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.15.250...
+Fetching domains for 104.18.13.245...
+Fetching domains for 104.17.249.201...
+succeed to fetch domains for 104.17.249.201 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.15.250 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.13.245 from https://site.ip138.com/
+域名列表为
+['www.total.nl', 'www.cn46.com', 'een63.com', 'royal.io', 'v3.zabeis.com', 'yx.887141.xyz', '95ndy.com', 'bmclapi10.melon.icu', 'visumservice.dk', 'tofucloud.net', 'bmclapi9.melon.icu', 'ddy29.com', 'azsos.gov', 'tai-vvv.bobostrong5.com', 'www.cfhuagong.com', 'www.1e5e.com', 'www.lyzdzy.com', '5234ci.com', 'chimeratool.com.cn', 'www.kbhome.com', 'www.55xs.cc', 'www.6988tv.com', 'www.f123g.com', 'y666x.com', 'www.b345i.com', 'www.589aa.com', 'mma.se', 'www.ddy29.com', 'www.sage.com', 'a567sn.com', 'monex.com', 'www.4hu17w.com', 'www.monex.com', 'thatgamecompany.com', 'www.een63.com', 'www.cbcv.cc', 'www.28et.com', 'bb365.club', 'piexgo.com', 'yh6.dtku41.xyz', 'www.95ndy.com', 'f123g.com', 'm3u814.shenyum3u8.top', 'www.piexgo.com', 'www.y666x.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for y666x.com...
+Performing DNS lookup for f123g.com...
+Performing DNS lookup for www.4hu17w.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
