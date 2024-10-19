@@ -5296,3 +5296,25 @@ Performing DNS lookup for pornodemon.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9f1175a] Update project files
+ 4 files changed, 48 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   2e61a2c..9f1175a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.49.108...
+Fetching domains for 198.41.220.219...
+Fetching domains for 104.17.51.179...
+succeed to fetch domains for 104.17.51.179 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.49.108 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.220.219 from https://ipchaxun.com/
+域名列表为
+['cf-lt.sharecentre.online', 'www.yy4080dy.com', 'cfip.201043.xyz', 'www.tvccc.org', 'www.wei333.com', 'okdytt6.com', 'cfip.xxxxxxxx.tk', 'www.93xscc.com', 'cg.33xf.cc', 'www.uu93.com', 'www.qf527.com', '0550cq.com', 'www.ddwhm.com', 'www.0550cq.com', 'www.17ttx.com', 'ayuer.com', 'www.50zw.co', 'www.881dy.com', 'ipdb.rr.nu', 'tushencn.com', 'qp66.com', 'www.6988tv.com', 'm.niuerzs.com', 'www.xinpian8.com', 'www.6i5.com', 'm.bbiquge.cc', 'yx.887141.xyz', 'www.cfhuagong.com', 'baxtc.66666654.xyz', 'www.991kan.com', 'www.66se2.com', 'www.boyangjt.com', 'wz.weishao2023.uk.eu.org', 'nlsdwsz.66666654.xyz', 'sgv3.com', 'www.92mili.com', 'zmkan.top', 'm.6988tv.com', 'www.huakai2018.com', '6988tv.com', 'ganpian.com', 'sgv7.com', 'www.whpaiger.com', 'www.cbcv.cc', 'www.4148.net', 'www.hm11.lol', 'www.65bao2.com', 'www.c333.net', 'www.tushencn.com', 'cbcv.cc', 'www.tv9090.com', 'www.kanju8.com', 'www.wanmeikankan.net', 'www.wxxzzs.com', 'best.cdn.sqeven.cn', 'stock.hostmonit.com', 'suboji.com', 'm.6i5.com', '92mili.com', '628000.xyz', 'img.hostmonit.com', 'wz.weishao2023.dk.eu.org', 'uu93.com', 'nas.juzyz.com', 'www.vodbd.com', 'www.dy420.com', 'www.paizipai.top', 'www.652tv.com', 'm.0550cq.com', 'www.k77kk.cc', 'www.k77yy.com', 'lekmer.dk', 'yundunwawablogcdn1yd.wawacm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.66se2.com...
+Performing DNS lookup for www.qf527.com...
+Performing DNS lookup for m.bbiquge.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
