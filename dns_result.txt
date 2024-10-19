@@ -2,37 +2,55 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-ios.chat.openai.com	canonical name = ios.chat.openai.com.cdn.cloudflare.net.
-Name:	ios.chat.openai.com.cdn.cloudflare.net
-Address: 172.64.148.171
-Name:	ios.chat.openai.com.cdn.cloudflare.net
-Address: 104.18.39.85
-Name:	ios.chat.openai.com.cdn.cloudflare.net
-Address: 2606:4700:4400::ac40:94ab
-Name:	ios.chat.openai.com.cdn.cloudflare.net
-Address: 2606:4700:4400::6812:2755
+5xs.org	canonical name = ccc.seogg.com.
+Name:	ccc.seogg.com
+Address: 104.21.22.14
+Name:	ccc.seogg.com
+Address: 172.67.201.211
+Name:	ccc.seogg.com
+Address: 2606:4700:3033::ac43:c9d3
+Name:	ccc.seogg.com
+Address: 2606:4700:3035::6815:160e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.131.138
-Name:	ips.993888.xyz
-Address: 104.17.138.93
-Name:	ips.993888.xyz
-Address: 104.17.74.191
+www.m6y6.com	canonical name = host1111776b.c2.huyuncdn.xyz.
+host1111776b.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.138.93
-Name:	ips.993888.xyz
-Address: 104.17.131.138
-Name:	ips.993888.xyz
-Address: 104.17.74.191
+dmk18.com	canonical name = yt7739.c2.hycdn.xyz.
+yt7739.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.18.78.153
+Name:	dcs.jqddos.xyz
+Address: 104.16.41.107
+Name:	dcs.jqddos.xyz
+Address: 104.19.166.8
+Name:	dcs.jqddos.xyz
+Address: 104.17.29.126
+Name:	dcs.jqddos.xyz
+Address: 104.25.33.176
+Name:	dcs.jqddos.xyz
+Address: 104.19.183.196
+Name:	dcs.jqddos.xyz
+Address: 104.16.225.115
+Name:	dcs.jqddos.xyz
+Address: 104.16.2.95
+Name:	dcs.jqddos.xyz
+Address: 104.16.46.15
+Name:	dcs.jqddos.xyz
+Address: 104.21.239.236
 
