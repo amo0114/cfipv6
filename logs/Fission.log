@@ -5318,3 +5318,25 @@ Performing DNS lookup for m.bbiquge.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2c2131f] Update project files
+ 4 files changed, 49 insertions(+), 27 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   9f1175a..2c2131f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.49.108...
+Fetching domains for 104.17.50.179...
+Fetching domains for 198.41.212.16...
+succeed to fetch domains for 104.17.49.108 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.212.16 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.50.179 from https://ipchaxun.com/
+域名列表为
+['m.niuerzs.com', 'www.tushencn.com', 'hg1599.com', 'jpvsavhyu.76898102.xyz', '7.namesilo123.top', 'www.sxyzxh.com', 'pan.axxpan.com', '4148.net', '923055.com', 'nlsdwsz.66666654.xyz', 'uu93.com', 'www.4148.net', 'cf-lt.sharecentre.online', 'sgv7.com', 'spca.114514782.xyz', 'lekmer.dk', 'www.tinghen.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.bj-jq.com', '6i5.com', 'www.paizipai.top', 'stock.hostmonit.com', 'baxtc.66666654.xyz', 'www.laimanhua8.com', 'm.laimanhua8.com', 'acus.cloudflarest.link', '7086.org', 'yx.887141.xyz', 'www.606977.com', 'suboji.com', 'cdn.cmliu.net', '0550cq.com', 'zl.aitrjc.xyz', 'www.tv9090.com', 'www.tvyb02.com', 'nas.juzyz.com', 'www.bdyy1.xyz', 'm.6i5.com', 'vcd.la', 'www.zgjmw.net', 'yh6.dtku41.xyz', 'tgbpjc-artchat.bpjc.site', 'www.65bao2.com', 'www.55evd.com', '606977.com', 'www.jjtyss.com', 'www.uu93.com', 'cdn.didi8.com', 'cloudflare.pxiz.site', 'www.28dushu.com', 'www.11txt.com', 'm.0550cq.com', 'us6.uuuuu.fn-node.site', 'cfip.xxxxxxxx.tk', 'm.bbiquge.cc', 'www.wei333.com', 'www.cfhuagong.com', 'www.whpaiger.com', 'www.6i5.com', 'www.92mili.com', 'www.lnudz.com', 'www.93xscc.com', '55evd.com', 'freeyx.cloudflare88.eu.org', 'www.7749tv.cc', 'www.duihuanzhipiao.com', 'zmkan.top', '628000.xyz', 'www.nsisfans.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.0550cq.com', 'blog.hostmonit.com', 'www.dapian1234.com', 'www.4gdiy.com', 'www.vcd.la', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.0550cq.com...
+Performing DNS lookup for www.bdyy1.xyz...
+Performing DNS lookup for 7.namesilo123.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

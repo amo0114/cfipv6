@@ -2,18 +2,45 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.0550cq.com
-Address: 103.150.11.223
+www.ikantv.net	canonical name = lunxun.chunqiu25.com.
+Name:	lunxun.chunqiu25.com
+Address: 104.26.10.48
+Name:	lunxun.chunqiu25.com
+Address: 104.20.20.43
+Name:	lunxun.chunqiu25.com
+Address: 172.64.81.102
+Name:	lunxun.chunqiu25.com
+Address: 172.67.126.127
+Name:	lunxun.chunqiu25.com
+Address: 104.26.11.48
+Name:	lunxun.chunqiu25.com
+Address: 173.245.49.162
+Name:	lunxun.chunqiu25.com
+Address: 172.67.54.136
+Name:	lunxun.chunqiu25.com
+Address: 172.64.193.13
+Name:	lunxun.chunqiu25.com
+Address: 104.22.17.6
+Name:	lunxun.chunqiu25.com
+Address: 198.41.198.132
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.bdyy1.xyz
-Address: 35.241.21.52
+Name:	wudeyy.com
+Address: 172.67.161.128
+Name:	wudeyy.com
+Address: 104.21.66.156
+Name:	wudeyy.com
+Address: 2606:4700:3035::ac43:a180
+Name:	wudeyy.com
+Address: 2606:4700:3034::6815:429c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 7.namesilo123.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.75uw.com
+Address: 23.225.148.166
 
