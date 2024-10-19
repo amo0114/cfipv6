@@ -5253,3 +5253,25 @@ Performing DNS lookup for freeyx.cloudflare88.eu.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0c9d003] Update project files
+ 4 files changed, 61 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (90%)
+To github.com:amo0114/cfipv6.git
+   3cd5fca..0c9d003  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.30.250...
+Fetching domains for 104.17.105.123...
+Fetching domains for 104.17.124.126...
+succeed to fetch domains for 104.17.124.126 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.105.123 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.30.250 from https://site.ip138.com/
+域名列表为
+['www.lgzpde.xyz', 'www.qwysvip.com', 'hpvaway.com.tw', 'progavrichenko.ru', 'm.cdd7nck.top', '3g.eeyizo.top', 'www.cs5472.com', 'hentai2w.com', 'aixxx.red', 'www.zhixingzhiju.cn', 'www.fzit.net', 'm.yctianze.com', 'wap.eeyizo.top', '4echat1001.com', 'unirune.xyz', '746rr.com', 'g711.hk', 'jbbrother.com', 'www.yctianze.com', 'www.706dd.com', 'bj008.com', '3g.cdd7nck.top', 'www.yhcetd.cn', 'pornodemon.com', 'www.hb168.net', 'www.pk299.com', 'fzit.net', 'wap.cdd7nck.top', 'wxwchj.com', 'ibuyclub.com', 'www.tl123123.com', 'www.xigua5.net', 'sgdhdres.com', 'wechatmarketing.com.sg', 'www.south-dt.com', 'www.cdd7nck.top', 'modxapk.ru', 'www.ypccc.com', 'www.lyzdzy.com', 'www.sumedangkab.go.id', 'yz2mmgkfyv.com', 'wq.xg626.xyz', 'zooporn.video', 'sysresccd.org', '4433333.com', '1em0n.com', 'vn9866.com', '628000.xyz', '706dd.com', 'yxym.erpang-china.cloudns.biz', 'bisuxs.com', 'jdav.buzz', 'cdd7nck.top', 'www.marinecommunications.com', 'www.avob02.space', 'www.baihexingkj.com', 'avob02.space', 'm.niuerzs.com', 'www.6988tv.com', 'www.eeyizo.top', 'www.tpyyc.com', 'www.lyqilicloths.com', 'yctianze.com', 'eeyizo.top', 'chiyou119.buzz', 'www.rxjh520.cc', 'www.hhs23.com', 'ypccc.com', 'www.nrenterprisespune.com', 'm.bisuxs.com', 'www.4433333.com', 'www.85xs.cc', '2tfafn8x.xyz', 'nas.juzyz.com', 'www.fwntc.com', 'ppid.sumedangkab.go.id', 'www.ynradiology.net', 'www.skddzkj.com', 'hb168.net', 'hudnemo.com', 'hhs23.com', '6yf2o47t.xyz', 'aq.safe301.lol', 'm.eeyizo.top', 'cfip.xxxxxxxx.tk', 'www.dmbj.cc', 'mail.zombacus.com', 'vehicless.cn', 'www.luwangyangrong.com', 'daishu02.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for mail.zombacus.com...
+Performing DNS lookup for www.lgzpde.xyz...
+Performing DNS lookup for www.dmbj.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

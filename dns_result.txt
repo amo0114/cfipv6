@@ -2,29 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	mail.zombacus.com
-Address: 104.21.30.250
-Name:	mail.zombacus.com
+Name:	sysresccd.org
 Address: 172.67.174.59
-Name:	mail.zombacus.com
+Name:	sysresccd.org
+Address: 104.21.30.250
+Name:	sysresccd.org
 Address: 2606:4700:3032::ac43:ae3b
-Name:	mail.zombacus.com
+Name:	sysresccd.org
 Address: 2606:4700:3036::6815:1efa
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.lgzpde.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	daishu02.com
+Address: 172.67.174.59
+Name:	daishu02.com
+Address: 104.21.30.250
+Name:	daishu02.com
+Address: 2606:4700:3032::ac43:ae3b
+Name:	daishu02.com
+Address: 2606:4700:3036::6815:1efa
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.dmbj.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 162.159.133.139
-Name:	ips.993888.xyz
-Address: 162.159.138.254
-Name:	ips.993888.xyz
-Address: 162.159.135.122
+Name:	pornodemon.com
+Address: 104.21.67.132
+Name:	pornodemon.com
+Address: 172.67.176.231
+Name:	pornodemon.com
+Address: 2606:4700:3035::6815:4384
+Name:	pornodemon.com
+Address: 2606:4700:3034::ac43:b0e7
 
