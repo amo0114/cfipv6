@@ -2,45 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.ikantv.net	canonical name = lunxun.chunqiu25.com.
-Name:	lunxun.chunqiu25.com
-Address: 104.26.10.48
-Name:	lunxun.chunqiu25.com
-Address: 104.20.20.43
-Name:	lunxun.chunqiu25.com
-Address: 172.64.81.102
-Name:	lunxun.chunqiu25.com
-Address: 172.67.126.127
-Name:	lunxun.chunqiu25.com
-Address: 104.26.11.48
-Name:	lunxun.chunqiu25.com
-Address: 173.245.49.162
-Name:	lunxun.chunqiu25.com
-Address: 172.67.54.136
-Name:	lunxun.chunqiu25.com
-Address: 172.64.193.13
-Name:	lunxun.chunqiu25.com
-Address: 104.22.17.6
-Name:	lunxun.chunqiu25.com
-Address: 198.41.198.132
+ios.chat.openai.com	canonical name = ios.chat.openai.com.cdn.cloudflare.net.
+Name:	ios.chat.openai.com.cdn.cloudflare.net
+Address: 172.64.148.171
+Name:	ios.chat.openai.com.cdn.cloudflare.net
+Address: 104.18.39.85
+Name:	ios.chat.openai.com.cdn.cloudflare.net
+Address: 2606:4700:4400::ac40:94ab
+Name:	ios.chat.openai.com.cdn.cloudflare.net
+Address: 2606:4700:4400::6812:2755
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wudeyy.com
-Address: 172.67.161.128
-Name:	wudeyy.com
-Address: 104.21.66.156
-Name:	wudeyy.com
-Address: 2606:4700:3035::ac43:a180
-Name:	wudeyy.com
-Address: 2606:4700:3034::6815:429c
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.131.138
+Name:	ips.993888.xyz
+Address: 104.17.138.93
+Name:	ips.993888.xyz
+Address: 104.17.74.191
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.138.93
+Name:	ips.993888.xyz
+Address: 104.17.131.138
+Name:	ips.993888.xyz
+Address: 104.17.74.191
 
