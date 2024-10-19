@@ -2,29 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 172.66.135.238
-Name:	cfip.xxxxxxxx.tk
-Address: 172.64.108.185
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.15.180
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.110.42
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.42.113
+Name:	y666x.com
+Address: 38.60.103.229
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
-Name:	www.jdzjq.cn
-Address: 172.232.112.221
+Name:	f123g.com
+Address: 172.247.26.10
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+Name:	www.4hu17w.com
+Address: 162.209.175.126
 
