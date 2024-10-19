@@ -2,55 +2,29 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-5xs.org	canonical name = ccc.seogg.com.
-Name:	ccc.seogg.com
-Address: 104.21.22.14
-Name:	ccc.seogg.com
-Address: 172.67.201.211
-Name:	ccc.seogg.com
-Address: 2606:4700:3033::ac43:c9d3
-Name:	ccc.seogg.com
-Address: 2606:4700:3035::6815:160e
+Name:	cfip.xxxxxxxx.tk
+Address: 172.66.135.238
+Name:	cfip.xxxxxxxx.tk
+Address: 172.64.108.185
+Name:	cfip.xxxxxxxx.tk
+Address: 104.20.15.180
+Name:	cfip.xxxxxxxx.tk
+Address: 172.67.110.42
+Name:	cfip.xxxxxxxx.tk
+Address: 172.67.42.113
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.m6y6.com	canonical name = host1111776b.c2.huyuncdn.xyz.
-host1111776b.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
+m.niuerzs.com	canonical name = www.jdzjq.cn.
+Name:	www.jdzjq.cn
+Address: 172.232.112.221
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-dmk18.com	canonical name = yt7739.c2.hycdn.xyz.
-yt7739.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.18.78.153
-Name:	dcs.jqddos.xyz
-Address: 104.16.41.107
-Name:	dcs.jqddos.xyz
-Address: 104.19.166.8
-Name:	dcs.jqddos.xyz
-Address: 104.17.29.126
-Name:	dcs.jqddos.xyz
-Address: 104.25.33.176
-Name:	dcs.jqddos.xyz
-Address: 104.19.183.196
-Name:	dcs.jqddos.xyz
-Address: 104.16.225.115
-Name:	dcs.jqddos.xyz
-Address: 104.16.2.95
-Name:	dcs.jqddos.xyz
-Address: 104.16.46.15
-Name:	dcs.jqddos.xyz
-Address: 104.21.239.236
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
