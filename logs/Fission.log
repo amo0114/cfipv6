@@ -5475,3 +5475,25 @@ Performing DNS lookup for www.915ya.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c4c3c4e] Update project files
+ 4 files changed, 57 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   f4696ef..c4c3c4e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.113.10...
+Fetching domains for 104.19.86.149...
+Fetching domains for 104.16.242.17...
+succeed to fetch domains for 104.16.242.17 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.86.149 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.113.10 from https://dnsdblookup.com/
+域名列表为
+['www.zddzd.top', 'www.zzztch.com', 'www.huakai2018.com', 'www.dzy66666.com', 'www.7277tl.com', 'www.tockt.com', 'www.iios.club', '778992.com', 'www.75uw.com', 'www.88wwk.com', 'www.shy6666.com', 'www.hhyy028.com', 'www.huashubao.org', 'www.lewen5.com', 'www.99xkxtl.com', 'www.rxjh520.cc', 'dzy66666.com', 'www.207my.com', 'www.myvod360.com', 'www.lyzdzy.com', 'i.she.vc', 'www.tlbb888.com', 'www.kbss888.com', 'www.cocanwelding.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.shy6666.com...
+Performing DNS lookup for www.75uw.com...
+Performing DNS lookup for i.she.vc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
