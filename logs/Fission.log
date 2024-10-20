@@ -5524,3 +5524,25 @@ Performing DNS lookup for m.50zw.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 892a218] Update project files
+ 4 files changed, 73 insertions(+), 27 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   4383962..892a218  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.94.63...
+Fetching domains for 172.67.53.156...
+Fetching domains for 104.17.29.246...
+succeed to fetch domains for 172.67.53.156 from https://ipchaxun.com/
+succeed to fetch domains for 104.20.94.63 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.29.246 from https://site.ip138.com/
+域名列表为
+['www.gzcfmy.com', 'lunhuan.24cdn.top', 'www.lvhuisb.com', 'www.lzhdsn.com', 'www.266958.com', 'www.17kty.com', 'www.bjfqmj.com', 'www.xigua5.com', 'www.jsdrtzn.com', 'yh.yjyfdc.com', 'yncareer.com', 'k77yy.com', '77kp.com', 'www.dgytlt.com', 'www.kanju8.com', 'www.80yy.org', 'yjyfdc.com', 'www.yiqianhg.com', 'www.888dyy.cc', 'www.tv9090.com', 'www.gmmpic.com', '789kp.com', '888dyy.cc', 'www.77kp.com', 'm.77kp.com', 'www.qchkj.com', 'www.zhongyunyang.com', 'www.hxsy888.com', 'www.7749tv.com', 'www.k77yy.com', 'www.hosemicon.com', 'kytyy.com', 'www.66tl.com', 'www.szxjsj.com', 'm.17800.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.kanju8.com...
+Performing DNS lookup for 789kp.com...
+Performing DNS lookup for www.tv9090.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

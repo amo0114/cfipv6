@@ -2,34 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.kanju8.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.66.171
+Name:	ips.993888.xyz
+Address: 104.17.135.202
+Name:	ips.993888.xyz
+Address: 104.17.140.46
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	789kp.com
-Address: 104.21.52.35
-Name:	789kp.com
-Address: 172.67.194.200
-Name:	789kp.com
-Address: 2606:4700:3033::ac43:c2c8
-Name:	789kp.com
-Address: 2606:4700:3033::6815:3423
+Name:	28et.com
+Address: 66.29.136.78
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tv9090.com
-Address: 64.32.14.144
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
+Name:	www.zzztch.com
+Address: 162.209.149.30
 
