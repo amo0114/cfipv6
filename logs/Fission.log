@@ -5633,3 +5633,25 @@ Performing DNS lookup for xfltd.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 64092bd] Update project files
+ 4 files changed, 65 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   68dd873..64092bd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.248.226...
+Fetching domains for 104.16.246.208...
+Fetching domains for 104.16.251.49...
+succeed to fetch domains for 104.16.246.208 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.248.226 from https://site.ip138.com/
+succeed to fetch domains for 104.16.251.49 from https://ipchaxun.com/
+域名列表为
+['www.28et.com', 'www.kx10.com', 'www.666tl.com', 'www.zzztch.com', 'yh.fgmjm.com', 'gmmpic.com', 'cfip.xxxxxxxx.tk', 'www.dafuhao.com', 'www.jjtyss.com', 'www.77kpo.com', 'www.knvod.com', 'www.gmmpic.com', 'lunhuan.24cdn.top', 'www.whpaiger.com', 'www.kbss888.com', 'm.77kp.com', 'www.kanju8.com', 'yh.yjyfdc.com', 'www.shy6666.com', 'ysz8.com', 'www.zongcaixs.cc', 'www.6988tv.com', 'www.cocanwelding.com', 'www.993my.com', 'www.lyzdzy.com', 'www.sbdm.net', 'www.zgjmw.net', 'yjyfdc.com', 'www.rxjh520.cc', 'www.jinbozhiyue.com', 'www.77kp.com', 'www.3dck.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.rxjh520.cc...
+Performing DNS lookup for yh.yjyfdc.com...
+Performing DNS lookup for www.77kp.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
