@@ -5590,3 +5590,24 @@ Performing DNS lookup for jpadwinfs.114514782.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ffb9836] Update project files
+ 4 files changed, 41 insertions(+), 11 deletions(-)
+To github.com:amo0114/cfipv6.git
+   96f1bdc..ffb9836  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.242.150...
+Fetching domains for 172.67.196.144...
+Fetching domains for 198.41.196.240...
+succeed to fetch domains for 198.41.196.240 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.242.150 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.196.144 from https://site.ip138.com/
+域名列表为
+['947ff.com', 'crm.wdsgranite.com', 'www.huanyaad.com', 'www.zhongyunyang.com', 'www.wpsjrw.cn', 'gv2019.one', 'netbank.top', '69shu.org', 'www.pk1128.com', 'weizhiyu.org', 'muyu.in', '7cxntcbrt2f.xyz', 'www.qchkj.com', 'www.hosemicon.com', 'perros.com', 'panel3.touhou.tel', 'www.renhekangbao.com', 'pk1128.com', 'www.sbbby.xyz', 'www.biqupao.com', '2052.cf.bestl.de', 'www.66xdxd.com', 'www.3eaa5.com', 'ailuuuba.com', 'freeyx.cloudflare88.eu.org', 'www.03169.com', 'www.timo04.com', 'www.tv9090.com', 'www.09kf.com', 'thep4658.cc', 'zi0.cc', 'www.alfahax.com', 'www.yiqianhg.com', 'yuqiao3d.com', 'timo04.com', 'jpsp114.xyz', 'cn2.2lw.life', 'm.jingshuai888.com', 'vivud.com', '3eaa5.com', 'www.630book.com', 'sp.tearemix.com', 'uu447.com', '756512.com', 'ledai66.com', 'yx.887141.xyz', '91dizhi-at-gmail-com-0531.w24.rocks', 'www.pudongxinzhaopin.com', 'www.yjeky.com', '183177.com', 'www.eegginl.cn', 'www.cdjyhm.com', 'lamiu.muyu.in', 'ky3c2vhtzms9de.xyz', 'www.dgytlt.com', 'www.0550cq.com', 'www.manhuadb.com', 'cbok.com', 'uk1.ovdgzfpg.xyz', 'www.poweizz.com', 'www.50zw.co', 'unki1.com', 'rcojojup.asia', 'wdsgranite.com', 'www.kuaikan66.com', 'gwcgamefi.com', 'www.huibiaodian.com', 'www.295k.com', 'www.5vip.top', '3exc.com', 'www.shsxjzzs.com', 'mary.kevinmx.tk', '999696.xyz', 'www.hxsy888.com', 'unt.yakeyake.net', 'www.jingshuai888.com', 'www.iios.club', 'www.3exc.com', 'pudongxinzhaopin.com', '13maoat.com', 'bvtravel.com', 'www.jmdy.net', 'www.uu447.com', 'www.jsdrtzn.com', 'www.17kty.com', 'www.90dushu.com', 'www.ddwhm.com', 'www.tinghen.com', 'alfahax.com', 'steelroofingmachine.com', 'www.lewen5.com', 'www.lzhdsn.com', 'www.947ff.com', 'www.ydxs.cc', '66xdxd.com', 'tearemix.com', 'f.w24.rocks', 'sbbby.xyz', 'jmdy.net', 'm.shuzw.com', 'unimeta.pro', 'm.czlbfrp.com', 'p.muyu.in', 'www.baisuishu.com', 'www.bjfqmj.com', 'ovdgzfpg.xyz', 'www.ovdgzfpg.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3exc.com...
+Performing DNS lookup for uk1.ovdgzfpg.xyz...
+Performing DNS lookup for unt.yakeyake.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

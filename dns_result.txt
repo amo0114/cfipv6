@@ -2,24 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	3exc.com
-Address: 45.199.35.83
+Name:	www.ekvod.com
+Address: 162.209.175.126
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	uk1.ovdgzfpg.xyz
-Address: 172.67.196.144
-Name:	uk1.ovdgzfpg.xyz
-Address: 104.21.92.169
-Name:	uk1.ovdgzfpg.xyz
-Address: 2606:4700:3031::ac43:c490
-Name:	uk1.ovdgzfpg.xyz
-Address: 2606:4700:3034::6815:5ca9
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find unt.yakeyake.net: NXDOMAIN
+Non-authoritative answer:
+xfltd.net	canonical name = b7399d28.zf.edu.ge.
+b7399d28.zf.edu.ge	canonical name = cdncnnode.zf.edu.ge.
+Name:	cdncnnode.zf.edu.ge
+Address: 81.70.26.5
+Name:	cdncnnode.zf.edu.ge
+Address: 132.232.104.6
 
