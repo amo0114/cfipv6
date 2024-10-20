@@ -5611,3 +5611,25 @@ Performing DNS lookup for unt.yakeyake.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 68dd873] Update project files
+ 4 files changed, 56 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   ffb9836..68dd873  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.23.122...
+Fetching domains for 104.17.150.118...
+Fetching domains for 104.17.145.166...
+succeed to fetch domains for 104.17.23.122 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.150.118 from https://site.ip138.com/
+succeed to fetch domains for 104.17.145.166 from https://ipchaxun.com/
+域名列表为
+['www.ekvod.com', 'www.xcyy696.com', 'www.cfhuagong.com', '6988tv.com', 'iios.club', 'www.xiuluo2.com', 'xfltd.net', 'ipdb.rr.nu', 'www.iios.club', 'www.lyzdzy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ekvod.com...
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for xfltd.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
