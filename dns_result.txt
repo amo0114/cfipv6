@@ -2,25 +2,17 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.66.171
-Name:	ips.993888.xyz
-Address: 104.17.135.202
-Name:	ips.993888.xyz
-Address: 104.17.140.46
+cdn.xf.kg	canonical name = hkgsdz.66666654.xyz.
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	28et.com
-Address: 66.29.136.78
+Name:	www.sxchinasoft.com
+Address: 45.142.158.98
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 162.209.149.30
+** server can't find jpadwinfs.114514782.xyz: NXDOMAIN
 
