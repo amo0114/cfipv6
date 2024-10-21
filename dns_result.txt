@@ -2,28 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	28et.com
-Address: 66.29.136.78
+Name:	www.btbdys.com
+Address: 192.157.56.141
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	empregare.com
-Address: 104.22.37.240
-Name:	empregare.com
-Address: 104.22.36.240
-Name:	empregare.com
-Address: 172.67.26.165
-Name:	empregare.com
-Address: 2606:4700:10::6816:24f0
-Name:	empregare.com
-Address: 2606:4700:10::ac43:1aa5
-Name:	empregare.com
-Address: 2606:4700:10::6816:25f0
+** server can't find www.jg666.top: NXDOMAIN
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-** server can't find www.hcq99999.com: NXDOMAIN
+** server can't find www.50zw.co: SERVFAIL
 
