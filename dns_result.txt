@@ -2,34 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
-Name:	www.jdzjq.cn
-Address: 172.232.112.221
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.iios.me	canonical name = 1357900.xyz.
+www.iios.club	canonical name = 1357900.xyz.
 1357900.xyz	canonical name = back.246000.xyz.
 Name:	back.246000.xyz
 Address: 172.67.201.86
 Name:	back.246000.xyz
 Address: 104.21.52.166
 Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
 Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.140.88
-Name:	ips.993888.xyz
-Address: 104.21.237.167
-Name:	ips.993888.xyz
-Address: 104.19.55.126
+Name:	lyzdzy.com
+Address: 91.195.240.12
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.75uw.com
+Address: 23.225.148.166
 
