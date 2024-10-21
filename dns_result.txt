@@ -1,21 +1,27 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	kxgdyw.com
-Address: 208.98.40.204
+** server can't find www.xinjiangye.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	acjp2.cloudflarest.link
-Address: 104.247.82.50
+Name:	zzwmyl.com
+Address: 206.119.69.70
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.28et.com
-Address: 66.29.136.78
+www.hlfgd.com	canonical name = qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.
+qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc	canonical name = qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net.
+Name:	qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net
+Address: 104.21.10.221
+Name:	qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net
+Address: 172.67.146.206
+Name:	qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net
+Address: 2606:4700:3034::ac43:92ce
+Name:	qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:add
 

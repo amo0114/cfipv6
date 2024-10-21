@@ -5655,3 +5655,25 @@ Performing DNS lookup for www.77kp.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 09ef7f0] Update project files
+ 4 files changed, 52 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   64092bd..09ef7f0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.47.176...
+Fetching domains for 104.17.112.181...
+Fetching domains for 104.17.156.180...
+succeed to fetch domains for 104.19.47.176 from https://site.ip138.com/
+succeed to fetch domains for 104.17.112.181 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.156.180 from https://ipchaxun.com/
+域名列表为
+['www.wn01.cc', 'www.ttxyy.com', 'tl654.com', 'www.ws123.cc', 'www.wayutan023.com', 'qqqdy.com', 'bqg34.com', 'www.nsisfans.com', 'xyd78.com', 'm.niuerzs.com', 'www.cfhuagong.com', 'www.1a1v.com', 'st1122.com', 'us02.nttkk.com', 'riluu.com', 'ylw123.cc', 'www.28et.com', 'www.ylw123.cc', '75uw.com', 'www.maotxt.net', 'www.whpaiger.com', 'www.kanmanhuala.cc', 'saodong.cc', 'xi15.com', 'www.kunzedu.com', 'zyyy.cc', 'www.xinjuc.com', 'www.lyzdzy.com', 'www.ifineair.com', 'cf1.492745.xyz', 'www.e0101.com', 'td876.com', 'www.saodong.cc', 'www.zyyy.cc', 'www.steemedu.com', '1f.youkuvip.xyz', 'all3dp.com', 'www.cocanwelding.com', 'www.csgoob.com', 'irving021.top', 'www.ub888.cc', 'www.nangua55.com', '518720.xyz', 'www.xyd78.com', 'dsxys.com', 'www.cn46.com', 'www.75uw.com', 'ws123.cc', 'acjp2.cloudflarest.link', 'www.td876.com', 'kxgdyw.com', 'www.zzztch.com', 'www.50zw.co', 'www.xaodi.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for kxgdyw.com...
+Performing DNS lookup for acjp2.cloudflarest.link...
+Performing DNS lookup for www.28et.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
