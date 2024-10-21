@@ -2,31 +2,21 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global33.66666654.xyz.
-Name:	cfcn-b-global33.66666654.xyz
-Address: 104.20.19.80
+*** Can't find 0414dj.com: No answer
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-img.zhongguolian.vip	canonical name = cf.bingdou.com.cn.
-cf.bingdou.com.cn	canonical name = cf.bingdou.com.cn.cdn.cloudflare.net.
-Name:	cf.bingdou.com.cn.cdn.cloudflare.net
-Address: 172.67.184.70
-Name:	cf.bingdou.com.cn.cdn.cloudflare.net
-Address: 104.21.18.250
-Name:	cf.bingdou.com.cn.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:12fa
-Name:	cf.bingdou.com.cn.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:b846
+Name:	bwjjgl.com
+Address: 23.225.196.26
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xworldadmin.com
-Address: 127.0.0.1
+www.nsisfans.com	canonical name = 5bkgaj4t.cname-cdn.vip.
+5bkgaj4t.cname-cdn.vip	canonical name = srechjbn.n.cname-cdn.vip.
+Name:	srechjbn.n.cname-cdn.vip
+Address: 23.224.111.159
 
