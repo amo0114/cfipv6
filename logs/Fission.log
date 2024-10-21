@@ -5778,3 +5778,24 @@ Performing DNS lookup for www.nsisfans.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9ca67e1] Update project files
+ 4 files changed, 62 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   62d3234..9ca67e1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.11.124...
+Fetching domains for 104.16.246.55...
+Fetching domains for 104.16.242.118...
+succeed to fetch domains for 104.25.11.124 from https://site.ip138.com/
+succeed to fetch domains for 104.16.246.55 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.242.118 from https://dnsdblookup.com/
+域名列表为
+['docs.layer3.xyz', 'readme.readme.io', 'docs.cashfree.com', 'developer.medallia.com', 'reap.readme.io', 'docs.dlocal.com', 'cn.developers.v.network', 'nexus.edenred.com', 'lazada-sellercenter.readme.io', 'paylater-docs.akulaku.com', 'developer-docs.amazon.com', 'metamind.readme.io', 'api-docs.omnisend.com', 'cn.developers.tron.network', 'secure.cisco.com', 'www.ikantv.net', 'docs.heygen.com', 'chimp.readme.io', 'iris-docs.midtrans.com', 'docs.wonderpush.com', 'oclazyload.readme.io', 'cname.readmessl.com', 'dash.readme.io', 'docs.bitfinex.com', 'www.continuum.io', 'repo.continuum.io', 'yt.sweaterpink.my.id', 'developer.themoviedb.org', 'dev.appsflyer.com', 'coinglass.readme.io', 'docs.coingecko.com', 'www.93xscc.com', 'www.whpaiger.com', 'hardware-integrations.readme.io', 'www.proxy.readme.io', 'developers.tron.network', 'docs.siliconflow.cn', 'secpay.readme.io', 'tophatter.readme.io', 'docs.instabug.com', 'apidocs.skydio.com', 'www.55xs.cc', 'docs.aiqua.appier.com', 'www.iios.club', 'changelog.readme.io', 'readme.io', 'resilience4j.readme.io', 'laravel-backpack.readme.io', 'docs.bunny.net', 'lan.developer.lifx.com', 'cloudflare.readmessl.com', 'openwebdoc.readme.io', 'm.kuaikan66.com', 'www.cocanwelding.com', 'archive.readme.io', 'docs.transak.com', 'docs.upbit.com', 'proxy.readme.io', 'cdn.readme.io']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for repo.continuum.io...
+Performing DNS lookup for cdn.readme.io...
+Performing DNS lookup for dash.readme.io...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
