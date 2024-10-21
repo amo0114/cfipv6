@@ -2,21 +2,40 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find 0414dj.com: No answer
+Name:	repo.continuum.io
+Address: 104.18.177.84
+Name:	repo.continuum.io
+Address: 104.18.176.84
+Name:	repo.continuum.io
+Address: 2606:4700::6812:b054
+Name:	repo.continuum.io
+Address: 2606:4700::6812:b154
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	bwjjgl.com
-Address: 23.225.196.26
+cdn.readme.io	canonical name = ssl.readmessl.com.
+Name:	ssl.readmessl.com
+Address: 104.16.241.118
+Name:	ssl.readmessl.com
+Address: 104.16.242.118
+Name:	ssl.readmessl.com
+Address: 2606:4700::6810:f176
+Name:	ssl.readmessl.com
+Address: 2606:4700::6810:f276
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nsisfans.com	canonical name = 5bkgaj4t.cname-cdn.vip.
-5bkgaj4t.cname-cdn.vip	canonical name = srechjbn.n.cname-cdn.vip.
-Name:	srechjbn.n.cname-cdn.vip
-Address: 23.224.111.159
+dash.readme.io	canonical name = cname.readmessl.com.
+Name:	cname.readmessl.com
+Address: 104.16.241.118
+Name:	cname.readmessl.com
+Address: 104.16.242.118
+Name:	cname.readmessl.com
+Address: 2606:4700::6810:f176
+Name:	cname.readmessl.com
+Address: 2606:4700::6810:f276
 
