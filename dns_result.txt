@@ -1,27 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.xinjiangye.com: NXDOMAIN
+Non-authoritative answer:
+Name:	jinshi73.com
+Address: 107.148.8.55
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	zzwmyl.com
-Address: 206.119.69.70
+Name:	www.lyzdzy.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hlfgd.com	canonical name = qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.
-qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc	canonical name = qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net.
-Name:	qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net
-Address: 104.21.10.221
-Name:	qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net
-Address: 172.67.146.206
-Name:	qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net
-Address: 2606:4700:3034::ac43:92ce
-Name:	qq123456-_-baidu-cdn-jingdong-cdn-aliyuncdn-wudicdn_gaofangcdn.zlzlzl.cc.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:add
+Name:	www.luwangyangrong.com
+Address: 172.232.25.148
+Name:	www.luwangyangrong.com
+Address: 172.232.4.213
+Name:	www.luwangyangrong.com
+Address: 172.232.31.180
 

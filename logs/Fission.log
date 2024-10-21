@@ -5677,3 +5677,24 @@ Performing DNS lookup for www.28et.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8cad471] Update project files
+ 4 files changed, 44 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   09ef7f0..8cad471  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.152.158...
+Fetching domains for 104.19.148.220...
+Fetching domains for 104.25.198.227...
+succeed to fetch domains for 104.19.148.220 from https://dnsdblookup.com/
+succeed to fetch domains for 104.25.198.227 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.152.158 from https://ipchaxun.com/
+域名列表为
+['www.jinanfs.com', 'www.rxjh520.cc', 'www.aichangan.com', 'pdyytc.com', 'chinaalb.com', 'haoshitjj.com', 'ytdd.net', 'atv.top', 'www.gwcable.com', 'www.gxdream.com', 'www.sxlxzzx.cn', 'www.jlf399.com', 'www.haoshitjj.com', 'www.hlfgd.com', 'dsye.com.cn', 'fzxianli.com', 'www.jianzhushijia123.top', 'gwcable.com', 'www.beimengyikao.com', 'www.cqyxzl.com', 'www.chinastera.com', 'www.aobangjt.com', 'www.zlcq520.com', 'www.pk299.com', 'yangzhi688.com', 'zhenhua17.com', '28et.com', 'www.njjsjx.com', 'tzzdjx.com', 'jlf399.com', 'www.zhqszq.com', 'www.g2h.cn', 'www.mebike.cc', 'hapol.cn', 'www.fzxianli.com', 'www.cit168.com', 'wolunwoganjsj.com', 'beimengyikao.com', 'maitiangy.com', 'www.trustsoc.com', 'www.wjxbj.com', 'www.jgybxgyxgs.com', 'www.wolunwoganjsj.com', 'www.maitiangy.com', 'www.shhaomo.com', 'www.uniartedu.com', 'www.kye365.com', 'gyswlj.com', 'www.hklmc.com', 'www.xinjiangye.com', 'trustsoc.com', 'kye365.com', 'chinastera.com', 'm.ytdd.net', 'shhaomo.com', 'xinjiangye.com', 'm.gxdream.com', 'g2h.cn', 'www.tockt.com', 'www.nnfcw.com', 'www.jingdu666.com', 'www.pptmao.com', 'pptmao.com', 'www.gyswlj.com', 'cit168.com', 'www.360hoo.com', 'www.xixuehui.com', 'zzwmyl.com', 'bpex.com.cn', '360hoo.com', 'm.fzxianli.com', 'www.esjun.com', 'cdhbxy.com', 'www.yangzhi688.com', 'www.cnxfzb.com', 'www.ztgg.org', 'jingdu666.com', 'www.chinaalb.com', 'zfutest.com', 'www.caishenonline.com', 'www.ytdd.net', 'cnxfzb.com', 'jtkj-yc.com', 'www.jtkj-yc.com', 'www.cocanwelding.com', 'caishenonline.com', 'www.nxyxzl.com', 'www.ageestrip.com', 'jianzhushijia.com', 'hkshuibao.com', 'www.zfutest.com', 'zhqszq.com', 'wap.mob-1.com', 'www.sanylvy.com', 'www.dt02.cn', 'nnfcw.com', 'www.whpaiger.com', 'aichangan.com', 'www.zzwmyl.com', '31md.com', 'www.jianzhushijia.com', 'www.zzztch.com', 'mebike.cc', 'roletools.com', 'www.31md.com', 'acjp.cloudflarest.link', 'gdchinaaa.org.cn', 'www.roletools.com', 'ln-mj.com', 'njjsjx.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xinjiangye.com...
+Performing DNS lookup for zzwmyl.com...
+Performing DNS lookup for www.hlfgd.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
