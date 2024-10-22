@@ -5870,3 +5870,24 @@ Performing DNS lookup for www.99wx.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c227edd] Update project files
+ 4 files changed, 43 insertions(+), 29 deletions(-)
+To github.com:amo0114/cfipv6.git
+   27a1661..c227edd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.82.204...
+Fetching domains for 104.19.41.125...
+Fetching domains for 104.19.44.85...
+succeed to fetch domains for 104.18.82.204 from https://site.ip138.com/
+succeed to fetch domains for 104.19.44.85 from https://site.ip138.com/
+succeed to fetch domains for 104.19.41.125 from https://ipchaxun.com/
+域名列表为
+['www.lyzdzy.com', 'www.48wk.com', 'www.yncareer.com', 'www.28et.com', 'www.jg666.top', 'www.acg.rw', 'www.v2raz.vip', 'www.iios.me', 'www.meiju11.com', 'www.cocanwelding.com', 'www.hm17.lol', 'gia.vb.lc', 'www.bfb3.com', 'www.75uw.com', 'www.schtbz.com', 'www.j8dy.org', 'www.m6y6.com', 'gaze.run', 'm.vodbd.com', 'www.vcd.la', 'www.93xscc.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'kz22.cc', 'www.yiyudb.com', 'www.gggggyy.com', 'www.whpaiger.com', 'longzemy.com', 'lyzdzy.com', 'www.cfhuagong.com', 'www.ddwhm.com', 'back.kaijia999.online', '5aihh.cn', 'www.6988tv.com', '14.sanfen001.top', 'www.vodbd.com', 'ks20.cc', 'm.niuerzs.com', 'www.5aihh.cn', 'go.wumaojichang.com', 'raw.gitmirror.com', '52ys.cc', 'www.sdmdp.com', 'www.ub888.cc', 'www.99wxw.cc', 'www.wn01.cc', 'www.cn46.com', 'www.tl123123.com', 'freeyx.cloudflare88.eu.org', 'www.zzztch.com', 'www.jmxhbgc.com', 'www.ai2moe.org', 'www.apmlt.com', 'www.kanmanhuala.cc', 'www.iios.club', 'hkaa.sectigo.pp.ua', 'www.kbss888.com', 'www.sixyin.com', 'www.188187.xyz', 'skypay.fu1666.com', 'www.nangua55.com', 'index1.xxm3u8.top', 'www.luwangyangrong.com', 'furrina.team', 'www.iios.ga', 'kanmanhuala.cc', 'woms.top', 'www.phantomidc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for lyzdzy.com...
+Performing DNS lookup for www.75uw.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

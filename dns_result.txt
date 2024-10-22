@@ -2,28 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	lyzdzy.com
-Address: 91.195.240.12
+Name:	www.bbo567.com
+Address: 107.148.50.44
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+Name:	578ku.com
+Address: 104.21.7.195
+Name:	578ku.com
+Address: 172.67.187.253
+Name:	578ku.com
+Address: 2606:4700:3033::ac43:bbfd
+Name:	578ku.com
+Address: 2606:4700:3037::6815:7c3
 
