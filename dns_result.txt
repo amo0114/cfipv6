@@ -1,16 +1,28 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find zm7.m3u8list.top: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find 8810868.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find www.116.ag: No answer
+www.sixyin.com	canonical name = itdd.top.
+Name:	itdd.top
+Address: 172.67.151.132
+Name:	itdd.top
+Address: 104.21.12.34
+Name:	itdd.top
+Address: 2606:4700:3033::ac43:9784
+Name:	itdd.top
+Address: 2606:4700:3037::6815:c22
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+** server can't find www.50zw.co: SERVFAIL
 

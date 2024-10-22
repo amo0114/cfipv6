@@ -5967,3 +5967,25 @@ Performing DNS lookup for blog.f2pool.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 72562ab] Update project files
+ 4 files changed, 49 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   965c966..72562ab  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.158.174...
+Fetching domains for 104.17.24.127...
+Fetching domains for 104.24.146.28...
+succeed to fetch domains for 104.24.146.28 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.158.174 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.24.127 from https://dnsdblookup.com/
+域名列表为
+['mp4vod.com', '8810868.com', 'www.mp4vod.com', 'ag.hg2096.com', 'www.lyzdzy.com', 'www.93xscc.com', 'zm7.m3u8list.top', 'www.116.ag', 'www.52dym.com', 'bestcf.onecf.eu.org', 'www.77zw.cc', 'www.qchd5.com', 'xing101.com', 'www.xumin.cc', 'www.qf527.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for zm7.m3u8list.top...
+Performing DNS lookup for 8810868.com...
+Performing DNS lookup for www.116.ag...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
