@@ -2,27 +2,41 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-91mayi.com	canonical name = hk.jump-center.com.
-Name:	hk.jump-center.com
-Address: 154.197.4.18
+www.991kan.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	v.saohuo.la
-Address: 45.150.165.226
+www.home66.net	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	789kp.com
-Address: 172.67.194.200
-Name:	789kp.com
-Address: 104.21.52.35
-Name:	789kp.com
-Address: 2606:4700:3033::6815:3423
-Name:	789kp.com
-Address: 2606:4700:3033::ac43:c2c8
+www.agribiztv.com	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
 
