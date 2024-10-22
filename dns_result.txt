@@ -2,27 +2,44 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	ph2.kingdo.eu.org
+Address: 104.18.181.119
+Name:	ph2.kingdo.eu.org
+Address: 172.64.96.15
+Name:	ph2.kingdo.eu.org
+Address: 104.20.162.204
+Name:	ph2.kingdo.eu.org
+Address: 104.16.244.126
+Name:	ph2.kingdo.eu.org
+Address: 104.20.244.179
+Name:	ph2.kingdo.eu.org
+Address: 172.64.174.155
+Name:	ph2.kingdo.eu.org
+Address: 104.17.166.195
+Name:	ph2.kingdo.eu.org
+Address: 104.17.235.63
+Name:	ph2.kingdo.eu.org
+Address: 104.25.115.92
+Name:	ph2.kingdo.eu.org
+Address: 104.17.233.18
+Name:	ph2.kingdo.eu.org
+Address: 172.64.106.248
+Name:	ph2.kingdo.eu.org
+Address: 104.24.188.117
+Name:	ph2.kingdo.eu.org
+Address: 104.24.240.200
+Name:	ph2.kingdo.eu.org
+Address: 104.20.185.162
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find cfip.xxxxxxxx.tk: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.sixyin.com	canonical name = itdd.top.
-Name:	itdd.top
-Address: 172.67.151.132
-Name:	itdd.top
-Address: 104.21.12.34
-Name:	itdd.top
-Address: 2606:4700:3033::ac43:9784
-Name:	itdd.top
-Address: 2606:4700:3037::6815:c22
-
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
-
-** server can't find www.50zw.co: SERVFAIL
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 

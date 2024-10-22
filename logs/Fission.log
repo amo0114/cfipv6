@@ -5989,3 +5989,25 @@ Performing DNS lookup for www.116.ag...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main af0a0e9] Update project files
+ 4 files changed, 60 insertions(+), 22 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   72562ab..af0a0e9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.115.92...
+Fetching domains for 172.64.174.155...
+Fetching domains for 104.17.166.195...
+succeed to fetch domains for 172.64.174.155 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.166.195 from https://dnsdblookup.com/
+succeed to fetch domains for 104.25.115.92 from https://ipchaxun.com/
+域名列表为
+['www.tinghen.com', 'www.iios.club', 'www.yh9pk.com', 'www.4148.net', 'stock.hostmonit.com', 'zi0.cc', 'www.lyzdzy.com', 'www.6i5.com', 'www.8877fz.com', 'www.11txt.com', 'm.8vdy.com', 'www.97777pk.com', 'www.cfhuagong.com', 'cf1.492745.xyz', 'www.92mili.com', 'www.kytdy.com', 'm.0550cq.com', 'www.vodbd.com', 'www.cocanwelding.com', 'www.dzy66666.com', 'www.90dushu.com', 'www.haqiandu.com', 'www.b7yy.cc', 'www.50zw.co', 'www.0550cq.com', 'www.zzztch.com', 'xs.wxtv.cc', 'www.yhddsb.com', 'm.niuerzs.com', 'www.sixyin.com', 'www.28dushu.com', 'www.93xscc.com', 'www.gaze.run', 'www.paizipai.top', 'www.xxpg888.com', 'www.maotxt.net', 'm.pay000.com', 'cf.krkr.vip', 'blog.hostmonit.com', 'www.96dushu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for www.sixyin.com...
+Performing DNS lookup for www.50zw.co...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
