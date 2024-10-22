@@ -6055,3 +6055,25 @@ Performing DNS lookup for 789kp.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 73c315b] Update project files
+ 4 files changed, 74 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   5f00f7d..73c315b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.53.122...
+Fetching domains for 104.19.47.253...
+Fetching domains for 104.19.50.198...
+succeed to fetch domains for 104.19.50.198 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.47.253 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.53.122 from https://ipchaxun.com/
+域名列表为
+['www.caisetv.com', 'www.k77yy.com', 'test.zapi.us.kg', 'www.kk554.com', 'www.zhuizhuiju.com', 'cf.openxai.link', 'www.iios.club', 'www.yy4080dy.com', 'www.5dyme.com', 'www.yh9pk.com', 'm.niuerzs.com', 'www.wanmeikankan.net', 'www.iflow.work', 'www.92mili.com', 'wsm.wwysw.cn', '678pao.com', 'www.nangua55.com', 'bk.jdkg.fun', '9ehao.com', 'www.24xunlei.com', 'www.75uw.com', 'index1.xxm3u8.top', 'www.8877fz.com', 'www.dy1255.com', 'kmtv123.com', 'www.77yeye.com', 'www.whpaiger.com', 'www.51jion.com', 'www.tvccc.org', 'www.cfhuagong.com', 'wyxs.cc', 'www.xinjuc.com', 'www.b7yy.cc', 'www.xinpian8.com', 'www.kbss888.com', 'galzy.eu.org', 'iios.club', 'steps.030101.xyz', 'www.zhiqihuo.com', 'www.3wkan.com', 'yy4080dy.com', 'www.881dy.com', 'www.zsych.net', 'www.33mov.com', 'www.3dck.com', 'cdn.didi8.com', 'www.yx521.net', 'www.vodbd.com', 'm.tvccc.org', 'www.991kan.com', 'www.88wwk.com', 'www.agribiztv.com', 'www.7277tl.com', 'www.omd2008.com', 'cf.681111.xyz', 'raw.gitmirror.com', 'acjp2.cloudflarest.link', 'www.k77kk.cc', 'yxy176.com', 'm.8vdy.com', 'c333.net', '92mili.com', 'dsxys.pro', 'www.dy420.com', 'www.80yy.org', 'www.163my.com', 'www.zzztch.com', 'www.321dianying.com', 'www.888dyy.cc', 'www.28et.com', 'www.lyzdzy.com', 'www.cbcv.cc', 'www.xkx999.com', 'panel3.touhou.tel', 'ss.sulink.one', 'xs.wxtv.cc', 'www.yhddsb.com', 'www.dapian1234.com', 'www.home66.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.991kan.com...
+Performing DNS lookup for www.home66.net...
+Performing DNS lookup for www.agribiztv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
