@@ -6011,3 +6011,25 @@ Performing DNS lookup for www.50zw.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e426476] Update project files
+ 4 files changed, 84 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   af0a0e9..e426476  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.233.18...
+Fetching domains for 172.64.106.248...
+Fetching domains for 104.17.235.63...
+succeed to fetch domains for 104.17.233.18 from https://site.ip138.com/
+succeed to fetch domains for 104.17.235.63 from https://dnsdblookup.com/
+succeed to fetch domains for 172.64.106.248 from https://dnsdblookup.com/
+域名列表为
+['m.11txt.com', 'www.33mov.com', 'www.6i5.com', 'www.11txt.com', 'www.nsisfans.com', 'www.cfhuagong.com', 'zi0.cc', 'www.tv9090.com', '176sf999.com', 'blog.hostmonit.com', 'www.tinghen.com', 'acjp2.cloudflarest.link', 'www.iios.fun', 'cloudflare.182682.xyz', 'www.qdyxsd.com', 'www.hanmatv.com', 'cfip.xxxxxxxx.tk', 'ph2.kingdo.eu.org', 'www.hnxinlian.org', 'www.17ttx.com', 'tushencn.com', 'www.zpdyw.com', 'www.iios.club', 'yundunwawablogcdn1yd.wawacm.com', 'xs.wxtv.cc', 'www.chongxinpet.com', 'm.niuerzs.com', 'bestcf.onecf.eu.org', 'www.96dushu.com', 'm.vodbd.com', 'yhsqxy.com', 'www.92mili.com', 'yundunwawablogcdn1lt.wawacm.com', 'www.jjtyss.com', 'www.93xscc.com', 'www.bt4kyy.com', 'sgv7.com', 'www.mgbwhome.com', 'www.cocanwelding.com', 'www.4148.net', 'www.1a1v.com', 'www.lyzdzy.com', '6988tv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ph2.kingdo.eu.org...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for www.cfhuagong.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

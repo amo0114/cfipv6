@@ -2,44 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ph2.kingdo.eu.org
-Address: 104.18.181.119
-Name:	ph2.kingdo.eu.org
-Address: 172.64.96.15
-Name:	ph2.kingdo.eu.org
-Address: 104.20.162.204
-Name:	ph2.kingdo.eu.org
-Address: 104.16.244.126
-Name:	ph2.kingdo.eu.org
-Address: 104.20.244.179
-Name:	ph2.kingdo.eu.org
-Address: 172.64.174.155
-Name:	ph2.kingdo.eu.org
-Address: 104.17.166.195
-Name:	ph2.kingdo.eu.org
-Address: 104.17.235.63
-Name:	ph2.kingdo.eu.org
-Address: 104.25.115.92
-Name:	ph2.kingdo.eu.org
-Address: 104.17.233.18
-Name:	ph2.kingdo.eu.org
-Address: 172.64.106.248
-Name:	ph2.kingdo.eu.org
-Address: 104.24.188.117
-Name:	ph2.kingdo.eu.org
-Address: 104.24.240.200
-Name:	ph2.kingdo.eu.org
-Address: 104.20.185.162
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find cfip.xxxxxxxx.tk: NXDOMAIN
+91mayi.com	canonical name = hk.jump-center.com.
+Name:	hk.jump-center.com
+Address: 154.197.4.18
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+Name:	v.saohuo.la
+Address: 45.150.165.226
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	789kp.com
+Address: 172.67.194.200
+Name:	789kp.com
+Address: 104.21.52.35
+Name:	789kp.com
+Address: 2606:4700:3033::6815:3423
+Name:	789kp.com
+Address: 2606:4700:3033::ac43:c2c8
 
