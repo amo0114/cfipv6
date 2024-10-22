@@ -2,30 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-baxtc.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global38.66666654.xyz.
-Name:	cfcn-a-global38.66666654.xyz
-Address: 172.67.70.227
-Name:	cfcn-a-global38.66666654.xyz
-Address: 104.20.22.175
+Name:	static.f2pool.com.cdn.cloudflare.net
+Address: 172.64.146.156
+Name:	static.f2pool.com.cdn.cloudflare.net
+Address: 104.18.41.100
+Name:	static.f2pool.com.cdn.cloudflare.net
+Address: 2606:4700:4400::ac40:929c
+Name:	static.f2pool.com.cdn.cloudflare.net
+Address: 2606:4700:4400::6812:2964
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-dropbooks.tv	canonical name = 7450.bodis.com.
-Name:	7450.bodis.com
-Address: 199.59.243.227
+Name:	fcww37.com
+Address: 137.220.137.149
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.ddwhm.com	canonical name = speed.marisalnc.com.
-speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global27.66666654.xyz.
-Name:	cfcn-a-global27.66666654.xyz
-Address: 104.20.20.231
+blog.f2pool.com	canonical name = blog.f2pool.com.cdn.cloudflare.net.
+Name:	blog.f2pool.com.cdn.cloudflare.net
+Address: 104.18.41.100
+Name:	blog.f2pool.com.cdn.cloudflare.net
+Address: 172.64.146.156
+Name:	blog.f2pool.com.cdn.cloudflare.net
+Address: 2606:4700:4400::6812:2964
+Name:	blog.f2pool.com.cdn.cloudflare.net
+Address: 2606:4700:4400::ac40:929c
 
