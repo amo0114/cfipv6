@@ -1,34 +1,16 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	static.f2pool.com.cdn.cloudflare.net
-Address: 172.64.146.156
-Name:	static.f2pool.com.cdn.cloudflare.net
-Address: 104.18.41.100
-Name:	static.f2pool.com.cdn.cloudflare.net
-Address: 2606:4700:4400::ac40:929c
-Name:	static.f2pool.com.cdn.cloudflare.net
-Address: 2606:4700:4400::6812:2964
+** server can't find zm7.m3u8list.top: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find 8810868.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	fcww37.com
-Address: 137.220.137.149
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-blog.f2pool.com	canonical name = blog.f2pool.com.cdn.cloudflare.net.
-Name:	blog.f2pool.com.cdn.cloudflare.net
-Address: 104.18.41.100
-Name:	blog.f2pool.com.cdn.cloudflare.net
-Address: 172.64.146.156
-Name:	blog.f2pool.com.cdn.cloudflare.net
-Address: 2606:4700:4400::6812:2964
-Name:	blog.f2pool.com.cdn.cloudflare.net
-Address: 2606:4700:4400::ac40:929c
+*** Can't find www.116.ag: No answer
 
