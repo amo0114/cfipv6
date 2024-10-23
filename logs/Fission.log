@@ -6099,3 +6099,24 @@ Performing DNS lookup for www.qp666.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4007e0c] Update project files
+ 4 files changed, 86 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   81022a2..4007e0c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.148.176...
+Fetching domains for 104.16.158.53...
+Fetching domains for 104.16.248.211...
+succeed to fetch domains for 104.16.248.211 from https://site.ip138.com/
+succeed to fetch domains for 104.16.158.53 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.148.176 from https://dnsdblookup.com/
+域名列表为
+['thys2.com', 'www.92mili.com', 'www.tszhongzhi.com', 'www.zzztch.com', 'www.iios.club', 'www.whpaiger.com', 'www.jjtyss.com', 'www.cocanwelding.com', 'www.tv1080.com', 'jq.jiaqiang888.top', 'www.75uw.com', 'www.93xscc.com', '628000.xyz', 'www.dy420.com', 'ios.jinniumdm168.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.75uw.com...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for 628000.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
