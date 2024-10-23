@@ -6120,3 +6120,25 @@ Performing DNS lookup for 628000.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2677751] Update project files
+ 4 files changed, 51 insertions(+), 78 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   4007e0c..2677751  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.26.155...
+Fetching domains for 104.19.80.153...
+Fetching domains for 104.27.108.154...
+succeed to fetch domains for 104.19.80.153 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.26.155 from https://ipchaxun.com/
+succeed to fetch domains for 104.27.108.154 from https://ipchaxun.com/
+域名列表为
+['www.yncareer.com', 'a2.hh.887733.xyz', 'ffn76.com', 'www.36dm.club', 'www.sixt.com.br', 'gospelmais.com.br', 'www.cocanwelding.com', 'www.295k.com', 'www.b8n55.com', 'www.234ran.com', 'www.trannytube.tv', 'br.sheingsp.com', 'achk.cloudflarest.link', 'b8n55.com', 'www.75uw.com', '234ran.com', 'www.langeland.dk', 'www.stonex.com', 'www.7094hu.com', 'msjh520.com', 'bestcf.onecf.eu.org', 'www.28et.com', 'trannytube.tv', 'www.lyzdzy.com', 'www.ffn76.com', 'ipdb.rr.nu', 'www.kongsberg.com', 'www.b6s77.com', 'dsxys.pro', 'poweizu.com', '511nj.org', 'a678af.com', 'www.tpyyc.com', 'www.a678af.com', 'm.niuerzs.com', 'www.770dy.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tpyyc.com...
+Performing DNS lookup for msjh520.com...
+Performing DNS lookup for www.cocanwelding.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
