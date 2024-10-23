@@ -2,33 +2,41 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find ctj.988188.xyz: No answer
+Name:	eq7bs.com
+Address: 172.67.132.168
+Name:	eq7bs.com
+Address: 104.21.4.249
+Name:	eq7bs.com
+Address: 2606:4700:3036::ac43:84a8
+Name:	eq7bs.com
+Address: 2606:4700:3034::6815:4f9
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 104.21.30.140
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 172.67.172.249
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:1e8c
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:acf9
+www.96dushu.com	canonical name = back.52biqv.com.
+Name:	back.52biqv.com
+Address: 104.21.53.154
+Name:	back.52biqv.com
+Address: 172.67.214.157
+Name:	back.52biqv.com
+Address: 2606:4700:3032::6815:359a
+Name:	back.52biqv.com
+Address: 2606:4700:3034::ac43:d69d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 104.21.53.57
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 172.67.209.38
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:d126
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:3539
+m.jingshuai888.com	canonical name = www.jsdrtzn.com.
+www.jsdrtzn.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.171.34
+Name:	cf.zmdhc.com
+Address: 172.67.179.60
+Name:	cf.zmdhc.com
+Address: 172.67.158.70
+Name:	cf.zmdhc.com
+Address: 172.67.132.136
 
