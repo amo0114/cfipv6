@@ -2,20 +2,54 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.aoyuge.com
-Address: 0.0.0.0
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.qf527.com: NXDOMAIN
+Name:	www.75uw.com
+Address: 23.225.148.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qp666.com	canonical name = dvd.qpbbq.com.
-dvd.qpbbq.com	canonical name = bcname.mgrm044.cc.
-Name:	bcname.mgrm044.cc
-Address: 54.65.253.8
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	628000.xyz
+Address: 104.24.27.127
+Name:	628000.xyz
+Address: 104.16.203.195
+Name:	628000.xyz
+Address: 104.16.198.81
+Name:	628000.xyz
+Address: 104.20.152.207
+Name:	628000.xyz
+Address: 198.41.198.164
+Name:	628000.xyz
+Address: 198.41.218.202
+Name:	628000.xyz
+Address: 104.24.228.194
+Name:	628000.xyz
+Address: 198.41.194.11
+Name:	628000.xyz
+Address: 198.41.197.146
+Name:	628000.xyz
+Address: 141.101.121.125
+Name:	628000.xyz
+Address: 104.23.135.253
+Name:	628000.xyz
+Address: 104.20.163.81
+Name:	628000.xyz
+Address: 104.19.172.90
+Name:	628000.xyz
+Address: 141.101.122.86
 
