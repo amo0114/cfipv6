@@ -2,43 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-img.shu88.cc	canonical name = kk.cloudflare.182682.xyz.
-Name:	kk.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	kk.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	kk.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	kk.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	kk.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	kk.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	kk.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	kk.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	kk.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	kk.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
+www.sedou3.xyz	canonical name = 77980.bodis.com.
+Name:	77980.bodis.com
+Address: 199.59.243.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global14.66666654.xyz.
-Name:	cfcn-a-global14.66666654.xyz
-Address: 104.20.20.99
+cdn.hmvod.cc	canonical name = origin.7758153.xyz.
+Name:	origin.7758153.xyz
+Address: 172.67.203.130
+Name:	origin.7758153.xyz
+Address: 104.21.85.73
+Name:	origin.7758153.xyz
+Address: 2606:4700:3030::ac43:cb82
+Name:	origin.7758153.xyz
+Address: 2606:4700:3036::6815:5549
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.txxx.com	canonical name = txxx.com.
-Name:	txxx.com
-Address: 62.122.168.133
+Name:	34.wf
+Address: 104.21.80.57
+Name:	34.wf
+Address: 172.67.174.181
+Name:	34.wf
+Address: 2606:4700:3031::6815:5039
+Name:	34.wf
+Address: 2606:4700:3031::ac43:aeb5
 
