@@ -2,41 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	eq7bs.com
-Address: 172.67.132.168
-Name:	eq7bs.com
-Address: 104.21.4.249
-Name:	eq7bs.com
-Address: 2606:4700:3036::ac43:84a8
-Name:	eq7bs.com
-Address: 2606:4700:3034::6815:4f9
+Name:	v.saohuotv.com
+Address: 45.150.165.226
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.96dushu.com	canonical name = back.52biqv.com.
-Name:	back.52biqv.com
-Address: 104.21.53.154
-Name:	back.52biqv.com
-Address: 172.67.214.157
-Name:	back.52biqv.com
-Address: 2606:4700:3032::6815:359a
-Name:	back.52biqv.com
-Address: 2606:4700:3034::ac43:d69d
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.jingshuai888.com	canonical name = www.jsdrtzn.com.
-www.jsdrtzn.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.171.34
-Name:	cf.zmdhc.com
-Address: 172.67.179.60
-Name:	cf.zmdhc.com
-Address: 172.67.158.70
-Name:	cf.zmdhc.com
-Address: 172.67.132.136
+Name:	poweizu.com
+Address: 162.209.175.122
 
