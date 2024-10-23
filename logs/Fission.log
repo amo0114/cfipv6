@@ -6233,3 +6233,25 @@ Performing DNS lookup for m.txxx.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e20d89f] Update project files
+ 4 files changed, 66 insertions(+), 57 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   7c64fd5..e20d89f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.246.91...
+Fetching domains for 104.19.166.186...
+Fetching domains for 172.67.174.181...
+succeed to fetch domains for 172.67.174.181 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.246.91 from https://site.ip138.com/
+succeed to fetch domains for 104.19.166.186 from https://dnsdblookup.com/
+域名列表为
+['www.romiosini.org.gr', 'gs06.icu', 'www.bjfqmj.com', '12zodiacgame.com', 'znvj8cqov4.cc', '34.wf', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.jhaoft.cn', 'all538.cc', 'www.23xd.com', 'sedou3.xyz', 'www.yy4080dy.com', 'www.cocanwelding.com', 'www.ydxs.cc', 'www.11txt.com', 'cdn.hmvod.cc', 'hk.leyz.top', 'www-1m.cc', 'www.ddwhm.com', 'www.zzztch.com', 'dljiuzhou.cn', 'www.28dushu.com', 'www.avlulu197.xyz', 'romiosini.org.gr', 'oyzjme.top', 'www.v2raz.vip', 'www.lyys8.com', 'y2ev.cn', 'xs.wxtv.cc', 'fangzhengjiaoyu.com', 'tp638.cc', 'www.gzgafk.com', 'www.editoraaleph.com.br', 'www.lyzdzy.com', 'www.sedou3.xyz', 'yx.887141.xyz', 'td4.yese3388.com', 'www.shsxjzzs.com', 'avlulu197.xyz', 'www.hxsy888.com', 'cfip.xxxxxxxx.tk', 'www.fanc3.top', 'fanc3.top', 'www.17kty.com', 'rrys1.com', 'www.hosemicon.com', 'www.jsdrtzn.com', 'm.jingshuai888.com', 'www.yzgib.cn', 'n4xz.com', 'www.cxk8.com', 'www.50zw.co', 'www.paizipai.top', 'www.266958.com', 'baxtc.66666654.xyz', 'www.ahtj.com.cn', 'cf1.492745.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.sedou3.xyz...
+Performing DNS lookup for cdn.hmvod.cc...
+Performing DNS lookup for 34.wf...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
