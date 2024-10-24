@@ -6299,3 +6299,24 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 854bf31] Update project files
+ 4 files changed, 54 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   d895033..854bf31  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.46.222...
+Fetching domains for 172.67.161.89...
+Fetching domains for 104.26.15.194...
+succeed to fetch domains for 172.67.161.89 from https://site.ip138.com/
+succeed to fetch domains for 104.26.15.194 from https://ipchaxun.com/
+succeed to fetch domains for 104.27.46.222 from https://ipchaxun.com/
+域名列表为
+['www.yy4080dy.com', 'indec.qkhbyf.tech', 'www.meifuchem.com', 'www.8mqa6.top', '94se.net', 'www.basketnews.lt', 'www.dafuhao.com', 'newmobilelife.com', 'www.lelemh.com', 'groove.pl', 'www.lyys8.com', 'amazon0326.shop', 'www.hxsy888.com', 'sgv7.com', 'www.90dushu.com', 'spca.114514782.xyz', 'rat-l-trap.com', 'www.czcdc.com', 'fransverige.se', 'labstack.com', 'starterstory.com', 'blog.netrouting.com', 'www.hosemicon.com', 'kfs.amazon0326.shop', 'www.hhyy028.com', 'svn.tiger777.cc', '13637.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.dnshtcb.pp.ua', 'www.cocanwelding.com', 'tripplus.cc', 'yx.887141.xyz', 'fb.itstar.top', 'b3n55.com', 'pubfacts.com', 'www.17kty.com', 'm3.mdfcoin.org', 'www.x52bq.com', 'echo.labstack.com', 'www.xjllgw.com', 'hjf29.top', 'stock.hostmonit.com', '8mqa6.top', '330012.com', 'mslfsl.top', 'www.naimilu.com', 'ukcc.digicert.pp.ua', 'm.jingshuai888.com', 'www.technopat.net', 'www.shhza.cn', 'docs.pritunl.com', 'syno.itstar.top', 'www.adultcomics.me', 'ea.2077.hk', 'shadowflys.com', 'www.75uw.com', '26.namesilo123.top', 'www.hello-shudong.com', 'www.bjfqmj.com', 'cls2.xyz', 'www.hnxinlian.org', 'www.luwangyangrong.com', 'm.28dushu.com', 'v.ximei.love', 'lisungroup.com', 'www.szxjsj.com', '493910.com', 'www.heinu.cc', 'www.tripplus.cc', 'www.rxjh520.cc', 'bytefreaks.net', 'portabletoiletsvacavilleca.com', 'www.0550cq.com', 'demo.pritunl.com', 'sl.itstar.top', 'www.91m.cc', 'www.dgytlt.com', 'iios.fun', 'm.niuerzs.com', 'www.dafuweng.com', 'www.gzgafk.com', 'ls.itstar.top', 'www.266958.com', 'fengliu51.org', 'acjp2.cloudflarest.link', 'technopat.net', 'www.xworldadmin.com', 'wk.itstar.top', 'www.mdfcoin.org', 'wm.2077.hk', 'yymh.us', 'mm.m3399.com', 'www.hjf29.top', 'www.ddwhm.com', 'www.tlbb888.com', 'www.lzhdsn.com', 'www.gzcfmy.com', 'bannerlord-odd-custombattleservermanager.bannerlord-services-3.net', 'www.yiqianhg.com', '1.heimei66.buzz', 'www.fulilou.cn', 'admin-zero-demo.pritunl.com', 'cf.zmdhc.com', 'dspdhkjfq.xyz', 'repo.pritunl.com', 'mirror.pritunl.com', 'www.zhongyunyang.com', 'naichitg.com', 'www.jinwanchiji.top', 'elvahair.com', 'www.jingshuai888.com', 'www.zzgszg.com', 'wap.mslfsl.top', 'm.8mqa6.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.4148.net', 'pws.dspdhkjfq.xyz', 'www.shsxjzzs.com', 'cyhe.org', '7749tv.com', 'www.28dushu.com', 'chengzisp.shop', '3g.8mqa6.top', 'www.65bao2.com', 'm3399.com', 'www.book95.com', 'www.pubfacts.com', 'client.pritunl.com', 'pan.axxpan.com', 'xyzcomics.com', 'ii302.com', 'pritunl.com', 'www.kbss888.com', 'www.cx888my.com', 'www.cykz.net', 'sc.2077.hk', 'fcdynamo.kiev.ua', 'www.lisungroup.com', 'www.yh9pk.com', 'njcts.com', 'hello-shudong.com', '9ymv.com', 'www.paizipai.top', 'images.pritunl.com', 'www.jsdrtzn.com', 'www.960664.com', 'basketnews.lt', 'www.groove.pl', 'heimei66.buzz', 'sisterslovesme.com', 'insightgame.org', 'fsnhyyjt.com', 'w1.jacc8c.com', '7.namesilo123.top', 'shopback.co.id', 'www.shopback.co.id', '999696.xyz', 'mail.2077.hk', 'www.imeiju.net', 'm.luwangyangrong.com', 'm.basketnews.lt', '2077.hk', 'www.mgwsw.com', 'www.szjysmy.com', 'email.netrouting.com', 'yundunwawablogcdn1dx.wawacm.com', '16.heimei66.buzz', '83daoaa.com', 'www.bj-zahs.com', 'www.mslfsl.top', 'bycsp34.com', 'lyys8.com', 'www.ai2moe.org', 'www.k77kk.cc', 'jacc8c.com', 'acceleratespeed.com', '75uw.com', 'www.pritunl.com', 'wbs.itstar.top', '9.yasedd1.com', 'wap.8mqa6.top', 'www.b3n55.com', 'www.cls2.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for b3n55.com...
+Performing DNS lookup for www.x52bq.com...
+Performing DNS lookup for www.meifuchem.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
