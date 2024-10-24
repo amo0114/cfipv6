@@ -2,33 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.ddwhm.com	canonical name = speed.marisalnc.com.
-speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global25.66666654.xyz.
-Name:	cfcn-a-global25.66666654.xyz
-Address: 104.20.20.84
-Name:	cfcn-a-global25.66666654.xyz
-Address: 172.67.70.10
+*** Can't find www.116.ag: No answer
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.c333.net	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	www.lyzdzy.com
+Address: 91.195.240.12
 
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.lewen5.com: SERVFAIL
+Non-authoritative answer:
+tanhuazu.com	canonical name = th.cloudflare.182682.xyz.
+Name:	th.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	th.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	th.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	th.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	th.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	th.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	th.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	th.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	th.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	th.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
 
