@@ -2,32 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.jrdvvl.top
-Address: 172.67.184.205
-Name:	www.jrdvvl.top
-Address: 104.21.76.10
-Name:	www.jrdvvl.top
-Address: 2606:4700:3032::ac43:b8cd
-Name:	www.jrdvvl.top
-Address: 2606:4700:3036::6815:4c0a
+www.ddwhm.com	canonical name = speed.marisalnc.com.
+speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global25.66666654.xyz.
+Name:	cfcn-a-global25.66666654.xyz
+Address: 104.20.20.84
+Name:	cfcn-a-global25.66666654.xyz
+Address: 172.67.70.10
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	415xx.com
-Address: 104.21.76.10
-Name:	415xx.com
-Address: 172.67.184.205
-Name:	415xx.com
-Address: 2606:4700:3036::6815:4c0a
-Name:	415xx.com
-Address: 2606:4700:3032::ac43:b8cd
+www.c333.net	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-Name:	jpvsavhyu.76898102.xyz
-Address: 104.20.17.7
+** server can't find www.lewen5.com: SERVFAIL
 

@@ -6433,3 +6433,25 @@ Performing DNS lookup for uu93.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7ef0461] Update project files
+ 4 files changed, 63 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   49c075b..7ef0461  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.219.253...
+Fetching domains for 172.67.184.205...
+Fetching domains for 172.64.89.136...
+succeed to fetch domains for 104.21.219.253 from https://dnsdblookup.com/
+succeed to fetch domains for 172.64.89.136 from https://site.ip138.com/
+succeed to fetch domains for 172.67.184.205 from https://dnsdblookup.com/
+域名列表为
+['www.uuoozz.com', 'm.52ggd.com', 'www.266958.com', 'm.0550cq.com', 'www.6988tv.com', 'www.jhc520.com', 'nlsdwsz.66666654.xyz', 'web.tqsms.xyz', 'www.so373.com', 'pp549.com', 'm.niuerzs.com', 'www.gx6080.com', 'www.hxcb168.com', 'www.jrdvvl.top', 'www.91dajin.com', 'www.zhiqihuo.com', 'www.jxss688.com', 'www.www2011india.com', '999696.xyz', 'www.zzjh520.com', 'drochilla.vip', 'jileciyuan.top', '8dz3.xyz', 'm.luwangyangrong.com', 'www.tinghen.com', 'www.tqsms.xyz', 'qiangkouzhao.com', 'www.szxjsj.com', 'www.415xx.com', 'www.9966pk.com', 'www.xiuluo942.com', 'www.qkmov.com', 'www.fengyun180.cn', 'www.shsxjzzs.com', '50zw.co', 'jhc520.com', 'thep1642.cc', 'wz.weishao2023.uk.eu.org', 'www.51jion.com', 'www.51uuoo.com', 'cc846.com', 'www.zywl1678.com', 'www.shengwanggongcheng.com', 'gweid.filegear-sg.me', 'www.512yyds.com', 'www.666dy.org', 'akilehk.gweid.filegear-sg.me', 'zhangjian.net', 'www.16888cs.cn', 'www.gjhj6tl.top', 'www.zxc999.cn', 'www.huashubao.org', 'www.btlshb.com', 'xs.wxtv.cc', 'ytxe.com', 'www.nitianxieshen.com', '512yyds.com', 'www.szjysmy.com', 'ott.gweid.filegear-sg.me', 'ott567.gweid.filegear-sg.me', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'merchant.zhongxingpay.xyz', 'www.8009pk.com', 'www.rdsbee.buzz', 'zhangziran.com', 'www.75uw.com', 'www.sy5151.com', 'huashubao.org', 'www.zhongyunyang.com', 'sanweihudong.com', '415xx.com', 'www.4148.net', '666tv.org', 'cdn.zhangziran.com', 'www.ydkj088.com', 'www.7moon.net', 'www.663dy.com', 'www.11txt.com', 'yundunwawablogcdn1dx.wawacm.com', 'stock.hostmonit.com', 'www.92mili.com', 'taocun.org', 'www.paizipai.top', 'www.zgjmw.net', 'www.0550cq.com', 'www.wbei666.com', 'qkmov.com', 'www.whpaiger.com', 'migu123.com', 'www.898my.vip', 'jpvsavhyu.76898102.xyz', 'www.zhsq666.com', 'dyzj18.com', 'www.ddwhm.com', 'm.zhiqihuo.cc', '6wk8.com', 'www.dgytlt.com', 'www.apex521.com', 'cf-lt.sharecentre.online', 'www.666tv.org', 'www.tpyyc.com', 'www.hengnan520.com', '92mili.com', 'www.cfhuagong.com', 'www.hxsy888.com', 'www.52ggd.com', 'www.6wk8.com', 'www.17kty.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.jrdvvl.top...
+Performing DNS lookup for 415xx.com...
+Performing DNS lookup for jpvsavhyu.76898102.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
