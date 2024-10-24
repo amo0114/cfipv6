@@ -2,20 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	pornrosa.com
-Address: 37.48.65.145
+Name:	b3n55.com
+Address: 104.21.9.218
+Name:	b3n55.com
+Address: 172.67.161.89
+Name:	b3n55.com
+Address: 2606:4700:3037::ac43:a159
+Name:	b3n55.com
+Address: 2606:4700:3036::6815:9da
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.aiguo3.com
-Address: 103.224.182.239
+www.x52bq.com	canonical name = back.52biqv.com.
+Name:	back.52biqv.com
+Address: 104.21.53.154
+Name:	back.52biqv.com
+Address: 172.67.214.157
+Name:	back.52biqv.com
+Address: 2606:4700:3032::6815:359a
+Name:	back.52biqv.com
+Address: 2606:4700:3034::ac43:d69d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 162.209.149.30
+Name:	www.meifuchem.com
+Address: 104.18.21.86
+Name:	www.meifuchem.com
+Address: 104.18.20.86
 

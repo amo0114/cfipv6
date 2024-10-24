@@ -6277,3 +6277,25 @@ Performing DNS lookup for www.lailai360.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d895033] Update project files
+ 4 files changed, 52 insertions(+), 58 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   a3973e7..d895033  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.240.223...
+Fetching domains for 104.18.44.215...
+Fetching domains for 104.16.247.223...
+succeed to fetch domains for 104.18.44.215 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.240.223 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.247.223 from https://ipchaxun.com/
+域名列表为
+['myhtlmebook.com', 'www.13145777.com', 'www.aiguo3.com', 'www.laticiniosdourado.com.br', 'shopstatoff.net', 'cfhuagong.com', 'www.cfhuagong.com', 'www.zzztch.com', 'snwsp8.me', 'ja.shopstatoff.net', 'notice.wtzf.xyz', 'www.1card.ge', 'ifmg.cn', 'www.b7yy.cc', 'igcseict.info', 'www.sintland.com', 'pornrosa.com', 'gyhbhq.com', 'fan15678.cn', 'aiguo3.com', 'www.kunzedu.com', 'www.hexoral.ru', 'www.igcseict.info', 'www.caraudio.com', '13145777.com', 'www.eezdm.com', 'pushaction.foxpush.com', 'nthword.com', 'm.tvccc.org', 'yingyinwu.com', 'ssrrapp.com', 'my.futuregadget.ml', 'www.yingyinwu.com', 'www.630book.com', 'img.yingyinwu.com', 'sintland.com', 'www.blueshop.ca', 'www.snwsp8.me', '18cr3.com', 'uzzltg.tw', 'wtzf.xyz', 'www.ifmg.cn', 'phimbathu.com', 'hjtcare.com', 'tha.shopstatoff.net', '0do.cc', 'xurids.com.cn', 'benzishe.net', 'zuixiaos.net', 'www.avav784.com', 'www.99xinbo.com', 'www.xurids.com.cn', 'pincong.rocks', 'www.benzishe.net', '7q4x.com', '75uw.com', 'www.xiuluo942.com', 'www.18cr3.com', 'www.myhtlmebook.com', 'ai90.xyz', 'www.johnsonsbaby.co.uk', 'www.7q4x.com', 'www.93xscc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for pornrosa.com...
+Performing DNS lookup for www.aiguo3.com...
+Performing DNS lookup for www.zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
