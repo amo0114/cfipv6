@@ -6347,3 +6347,25 @@ Performing DNS lookup for bruce.ns.cloudflare.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8ae7c1d] Update project files
+ 4 files changed, 54 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   7f4d849..8ae7c1d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.96.9...
+Fetching domains for 104.17.237.8...
+Fetching domains for 104.19.0.35...
+succeed to fetch domains for 104.19.0.35 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.237.8 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.96.9 from https://site.ip138.com/
+域名列表为
+['www.whpaiger.com', 'zi0.cc', 'www.overoutlets.com', 'www.zhenbuka3.com', 'www.lyzdzy.com', 'www.cfhuagong.com', 'www.66se14.com', 'cdn.mlsub.net', 'www.hhi7.com', 'scraper-preview.fun', 'www.kunzedu.com', 'm.niuerzs.com', 'www.linnuozs.com', 'yh7.dtku41.xyz', 'overoutlets.com', 'www.zzztch.com', 'dsxys.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.kunzedu.com...
+Performing DNS lookup for www.overoutlets.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
