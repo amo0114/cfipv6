@@ -2,31 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	www.jrdvvl.top
+Address: 172.67.184.205
+Name:	www.jrdvvl.top
+Address: 104.21.76.10
+Name:	www.jrdvvl.top
+Address: 2606:4700:3032::ac43:b8cd
+Name:	www.jrdvvl.top
+Address: 2606:4700:3036::6815:4c0a
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.127.62
-Name:	ips.993888.xyz
-Address: 104.19.53.23
-Name:	ips.993888.xyz
-Address: 104.16.12.217
+Name:	415xx.com
+Address: 104.21.76.10
+Name:	415xx.com
+Address: 172.67.184.205
+Name:	415xx.com
+Address: 2606:4700:3036::6815:4c0a
+Name:	415xx.com
+Address: 2606:4700:3032::ac43:b8cd
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	uu93.com
-Address: 104.21.35.197
-Name:	uu93.com
-Address: 172.67.179.23
-Name:	uu93.com
-Address: 2606:4700:3037::ac43:b317
-Name:	uu93.com
-Address: 2606:4700:3033::6815:23c5
+Name:	jpvsavhyu.76898102.xyz
+Address: 104.20.17.7
 
