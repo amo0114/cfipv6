@@ -2,25 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global14.66666654.xyz.
-Name:	cfcn-a-global14.66666654.xyz
-Address: 104.20.22.210
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nsisfans.com	canonical name = 5bkgaj4t.cname-cdn.vip.
-5bkgaj4t.cname-cdn.vip	canonical name = srechjbn.n.cname-cdn.vip.
-Name:	srechjbn.n.cname-cdn.vip
-Address: 103.27.79.79
+www.99wxw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.127.62
+Name:	ips.993888.xyz
+Address: 104.19.53.23
+Name:	ips.993888.xyz
+Address: 104.16.12.217
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.0550cq.com
-Address: 103.150.11.223
+Name:	uu93.com
+Address: 104.21.35.197
+Name:	uu93.com
+Address: 172.67.179.23
+Name:	uu93.com
+Address: 2606:4700:3037::ac43:b317
+Name:	uu93.com
+Address: 2606:4700:3033::6815:23c5
 
