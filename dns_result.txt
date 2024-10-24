@@ -1,33 +1,19 @@
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.ygdy8.cc: SERVFAIL
+Non-authoritative answer:
+Name:	www.zzztch.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	g434.cc
-Address: 143.244.49.177
-Name:	g434.cc
-Address: 2400:52e0:1a01::954:1
+Name:	www.kunzedu.com
+Address: 103.88.187.196
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	bruce.ns.cloudflare.com
-Address: 108.162.193.77
-Name:	bruce.ns.cloudflare.com
-Address: 172.64.33.77
-Name:	bruce.ns.cloudflare.com
-Address: 173.245.59.77
-Name:	bruce.ns.cloudflare.com
-Address: 2803:f800:50::6ca2:c14d
-Name:	bruce.ns.cloudflare.com
-Address: 2606:4700:58::adf5:3b4d
-Name:	bruce.ns.cloudflare.com
-Address: 2a06:98c1:50::ac40:214d
+** server can't find www.overoutlets.com: NXDOMAIN
 
