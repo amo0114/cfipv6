@@ -2,21 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.28et.com
-Address: 66.29.136.78
+blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-163fahao.com	canonical name = pltraffic7.com.
-Name:	pltraffic7.com
-Address: 72.52.179.174
+Name:	yh7.dtku41.xyz
+Address: 72.52.178.23
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.xluochen.com
-Address: 23.224.113.35
+** server can't find api.furrina.team: NXDOMAIN
 

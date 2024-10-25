@@ -6526,3 +6526,24 @@ Performing DNS lookup for www.75uw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c82d825] Update project files
+ 4 files changed, 43 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   195473a..c82d825  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 162.159.26.109...
+Fetching domains for 104.23.121.60...
+Fetching domains for 104.23.125.94...
+succeed to fetch domains for 104.23.121.60 from https://ipchaxun.com/
+succeed to fetch domains for 162.159.26.109 from https://ipchaxun.com/
+succeed to fetch domains for 104.23.125.94 from https://site.ip138.com/
+域名列表为
+['www.xluochen.com', 'www.28et.com', 'www.sf123.mobi', 'dsxys.com', 'm.niuerzs.com', 'www.yunbtv.com', 'hnhcbw.com', 'www.lyzdzy.com', '163fahao.com', 'www.iios.club', 'www.renren163.com', 'www.97hjw.com', 'www.193291.com', 'www.295k.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.28et.com...
+Performing DNS lookup for 163fahao.com...
+Performing DNS lookup for www.xluochen.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
