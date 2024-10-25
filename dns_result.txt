@@ -2,20 +2,21 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	nba01.com
-Address: 103.234.54.73
+Name:	www.28et.com
+Address: 66.29.136.78
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wxyhsyzx.com
-Address: 43.228.76.237
+163fahao.com	canonical name = pltraffic7.com.
+Name:	pltraffic7.com
+Address: 72.52.179.174
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+Name:	www.xluochen.com
+Address: 23.224.113.35
 
