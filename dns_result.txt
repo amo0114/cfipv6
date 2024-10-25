@@ -1,23 +1,32 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.993my.com: NXDOMAIN
+Non-authoritative answer:
+www.qp666.com	canonical name = dvd.qpbbq.com.
+dvd.qpbbq.com	canonical name = bcname.mgrm044.cc.
+Name:	bcname.mgrm044.cc
+Address: 43.198.32.139
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	longzemy.com
-Address: 23.224.186.235
+Name:	m.0550cq.com
+Address: 103.150.11.223
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
 Non-authoritative answer:
-Name:	www.luwangyangrong.com
-Address: 172.232.25.148
-Name:	www.luwangyangrong.com
-Address: 172.232.31.180
-Name:	www.luwangyangrong.com
-Address: 172.232.4.213
+yundunwawablogcdn1yd.wawacm.com	canonical name = blogwaf.yava.pw.
+Name:	blogwaf.yava.pw
+Address: 104.18.224.0
+Name:	blogwaf.yava.pw
+Address: 104.25.128.0
+Name:	blogwaf.yava.pw
+Address: 104.24.18.0
+Name:	blogwaf.yava.pw
+Address: 104.17.120.0
+Name:	blogwaf.yava.pw
+Address: 104.17.152.0
 
