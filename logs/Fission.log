@@ -6600,3 +6600,25 @@ Performing DNS lookup for www.luwangyangrong.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9ef4e25] Update project files
+ 4 files changed, 73 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   d08e6d2..9ef4e25  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.64.50.8...
+Fetching domains for 104.24.155.107...
+Fetching domains for 162.159.36.166...
+succeed to fetch domains for 172.64.50.8 from https://site.ip138.com/
+succeed to fetch domains for 162.159.36.166 from https://ipchaxun.com/
+succeed to fetch domains for 104.24.155.107 from https://ipchaxun.com/
+域名列表为
+['www.qp666.com', 'www.c333.net', 'www.ngjqjx.com', 'www.6i5.com', 'yundunwawablogcdn1yd.wawacm.com', 'qp66.com', 'cf1.492745.xyz', 'www.whpaiger.com', 'm.tvccc.org', 'www.11txt.com', '8810868.com', 'www.bb866666.com', 'www.116.ag', 'www.home66.net', 'www.50zw.co', 'www.qf527.com', 'stock.hostmonit.com', 'xhxwljs.com', 'blog.hostmonit.com', 'www.0550cq.com', 'www.paizipai.top', 'sgv7.com', 'www.7sc.cc', '606977.com', 'm.0550cq.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qp666.com...
+Performing DNS lookup for m.0550cq.com...
+Performing DNS lookup for yundunwawablogcdn1yd.wawacm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

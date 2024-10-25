@@ -2,31 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qp666.com	canonical name = dvd.qpbbq.com.
-dvd.qpbbq.com	canonical name = bcname.mgrm044.cc.
-Name:	bcname.mgrm044.cc
-Address: 43.198.32.139
+Name:	www.xxxthvip.com
+Address: 104.21.32.41
+Name:	www.xxxthvip.com
+Address: 172.67.182.202
+Name:	www.xxxthvip.com
+Address: 2606:4700:3037::6815:2029
+Name:	www.xxxthvip.com
+Address: 2606:4700:3033::ac43:b6ca
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.0550cq.com
-Address: 103.150.11.223
+www.k77kk.cc	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
-Server:		8.8.4.4
-Address:	8.8.4.4#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
 Non-authoritative answer:
-yundunwawablogcdn1yd.wawacm.com	canonical name = blogwaf.yava.pw.
-Name:	blogwaf.yava.pw
-Address: 104.18.224.0
-Name:	blogwaf.yava.pw
-Address: 104.25.128.0
-Name:	blogwaf.yava.pw
-Address: 104.24.18.0
-Name:	blogwaf.yava.pw
-Address: 104.17.120.0
-Name:	blogwaf.yava.pw
-Address: 104.17.152.0
+Name:	fldsubgigtujuy.76898102.xyz
+Address: 104.20.17.217
 
