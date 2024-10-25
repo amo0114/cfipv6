@@ -2,54 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.295k.com
-Address: 208.98.40.206
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.113.9
-Name:	cfip.xxxxxxxx.tk
-Address: 104.22.61.135
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.187.161
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.235.69
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.5.229
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.154.25
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.15.20
-Name:	cfip.xxxxxxxx.tk
-Address: 104.26.0.25
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.179.240
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.9.36
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.41.45
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.1.81
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.2.74
-Name:	cfip.xxxxxxxx.tk
-Address: 104.22.57.170
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.244.113
+www.ikantv.net	canonical name = lunxun.chunqiu25.com.
+Name:	lunxun.chunqiu25.com
+Address: 104.26.10.48
+Name:	lunxun.chunqiu25.com
+Address: 173.245.49.162
+Name:	lunxun.chunqiu25.com
+Address: 172.67.126.127
+Name:	lunxun.chunqiu25.com
+Address: 172.64.81.102
+Name:	lunxun.chunqiu25.com
+Address: 172.64.193.13
+Name:	lunxun.chunqiu25.com
+Address: 198.41.198.132
+Name:	lunxun.chunqiu25.com
+Address: 104.26.11.48
+Name:	lunxun.chunqiu25.com
+Address: 104.22.17.6
+Name:	lunxun.chunqiu25.com
+Address: 172.67.54.136
+Name:	lunxun.chunqiu25.com
+Address: 104.20.20.43
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	18moe.net
-Address: 104.21.9.75
-Name:	18moe.net
-Address: 172.67.159.76
-Name:	18moe.net
-Address: 2606:4700:3037::6815:94b
-Name:	18moe.net
-Address: 2606:4700:3036::ac43:9f4c
+** server can't find mtv.wxshiteng.com: NXDOMAIN
 

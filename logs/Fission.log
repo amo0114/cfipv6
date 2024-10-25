@@ -6666,3 +6666,25 @@ Performing DNS lookup for www.k77yy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2826888] Update project files
+ 4 files changed, 101 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   83deb64..2826888  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.233.226...
+Fetching domains for 104.17.147.156...
+Fetching domains for 104.21.237.233...
+succeed to fetch domains for 104.21.237.233 from https://site.ip138.com/
+succeed to fetch domains for 104.17.147.156 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.233.226 from https://dnsdblookup.com/
+域名列表为
+['cf.090227.xyz', 'www.qumiyun.com', 'freeyx.cloudflare88.eu.org', 'speed-freefly-cm.114514782.xyz', 'decc.66666654.xyz', 'www.cocanwelding.com', 'www.52dgm.cn', 'cgdd.digicert.pp.ua', 'nlsdwsz.66666654.xyz', 'www.ddwhm.com', 'www.yyxxi.com', '18moe.net', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'chunbb.sectigo.pp.ua', 'dl.gdstudio.xyz', 'best.cdn.sqeven.cn', 'www.295k.com', 'macvbb.555556789.xyz', 'www.v2raz.vip', '233dm.net', 'taoismhome.com', 'yyxxi.com', 'ddwhm.com', 'spca.114514782.xyz', 'www.70ts.com', 'jhpcza.66666654.xyz', 'www.91m.cc', 'csg99.com', 'tunneltransfer.bpyjc.com', 'www.lyzdzy.com', 'www.ai2moe.org', 'lyys8.com', 'baxtc.66666654.xyz', 'www.wuhuyh.net', 'jp03.nttkk.com', 'www.75uw.com', 'speed.marisalnc.com', 'apk.tv.ci', 'www.luwangyangrong.com', 'amoebi.com', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.295k.com...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for 18moe.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
