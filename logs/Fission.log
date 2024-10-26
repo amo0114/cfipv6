@@ -6829,3 +6829,26 @@ Performing DNS lookup for www.66tl.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 05c2357] Update project files
+ 4 files changed, 74 insertions(+), 187 deletions(-)
+ rewrite Fission_ip_backup.txt (98%)
+ rewrite dns_result.txt (93%)
+To github.com:amo0114/cfipv6.git
+   6113f52..05c2357  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.195.153...
+Fetching domains for 104.16.108.220...
+Fetching domains for 104.19.120.2...
+succeed to fetch domains for 104.16.195.153 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.120.2 from https://site.ip138.com/
+succeed to fetch domains for 104.16.108.220 from https://ipchaxun.com/
+域名列表为
+['www.dzy66666.com', 'www.28et.com', 'm.shrmdqc.com', 'www.nangua5.com', 'www.kbss888.com', 'www.lyzdzy.com', 'www.yh9pk.com', 'www.xz898my.com', 'www.ikantv.net', 'www.kunzedu.com', 'www.cx888my.com', 'www.gdriustb.com', 'www.kanunu2.com', 'www.xiuluo942.com', 'www.93xscc.com', 'www.iios.club', 'www.99wx.cc', 'www.doupozw.com', '7749tv.com', 'www.88wwk.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xz898my.com...
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for www.28et.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
