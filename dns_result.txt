@@ -2,37 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.ikantv.net	canonical name = lunxun.chunqiu25.com.
-Name:	lunxun.chunqiu25.com
-Address: 104.26.10.48
-Name:	lunxun.chunqiu25.com
-Address: 173.245.49.162
-Name:	lunxun.chunqiu25.com
-Address: 172.67.126.127
-Name:	lunxun.chunqiu25.com
-Address: 172.64.81.102
-Name:	lunxun.chunqiu25.com
-Address: 172.64.193.13
-Name:	lunxun.chunqiu25.com
-Address: 198.41.198.132
-Name:	lunxun.chunqiu25.com
-Address: 104.26.11.48
-Name:	lunxun.chunqiu25.com
-Address: 104.22.17.6
-Name:	lunxun.chunqiu25.com
-Address: 172.67.54.136
-Name:	lunxun.chunqiu25.com
-Address: 104.20.20.43
+m.yunbtv.com	canonical name = www.a.shifen.com.
+www.a.shifen.com	canonical name = www.wshifen.com.
+Name:	www.wshifen.com
+Address: 103.235.47.188
+Name:	www.wshifen.com
+Address: 103.235.46.96
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find mtv.wxshiteng.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.28et.com
+Address: 66.29.136.78
 

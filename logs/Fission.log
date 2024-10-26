@@ -6688,3 +6688,25 @@ Performing DNS lookup for 18moe.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dbbd809] Update project files
+ 4 files changed, 77 insertions(+), 79 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   2826888..dbbd809  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.53.19...
+Fetching domains for 104.17.115.148...
+Fetching domains for 104.17.109.108...
+succeed to fetch domains for 104.17.53.19 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.109.108 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.115.148 from https://ipchaxun.com/
+域名列表为
+['cg.44xf.cc', 'www.kanmanhuala.cc', 'mtv.wxshiteng.com', 'www.ikantv.net', 'www.ub888.cc', 'www.zzztch.com', 'www.lyzdzy.com', 'www.cx888my.com', 'm.niuerzs.com', 'm.gdedu.tv', 'cmy.network', 'www.ayzjj.cn', 'www.cocanwelding.com', 'www.369kp.com', 'm.369ttkp6.live', 'www.hmzj999.com', 'www.kaplaninternational.com', 'www.pk299.com', 'www.mfkanpian.com', 'www.nangua55.com', 'tv.ci', 'kanmanhuala.cc', 'cfip.xxxxxxxx.tk', 'www.kbss888.com', 'www.cfhuagong.com', 'm.7kpwz.live', 'www.369ttkp.com', 'mfkanpian.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for www.ikantv.net...
+Performing DNS lookup for mtv.wxshiteng.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
