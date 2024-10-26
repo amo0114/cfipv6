@@ -6710,3 +6710,25 @@ Performing DNS lookup for mtv.wxshiteng.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7b49589] Update project files
+ 4 files changed, 57 insertions(+), 55 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   dbbd809..7b49589  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.218.146...
+Fetching domains for 104.24.188.31...
+Fetching domains for 104.19.136.143...
+succeed to fetch domains for 104.25.218.146 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.136.143 from https://site.ip138.com/
+succeed to fetch domains for 104.24.188.31 from https://ipchaxun.com/
+域名列表为
+['www.28et.com', 'www.cfhuagong.com', 'hongkong.qing1999.eu.org', '7.namesilo123.top', 'www.75uw.com', 'www.zzztch.com', 'm.kuaikan66.com', 'www.bfb3.com', 'www.tpyyc.com', 'www.jswojx.com', 'cf-1.autocdnip.top', 'www.whpaiger.com', 'freeyx.cloudflare88.eu.org', 'm.yunbtv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for m.yunbtv.com...
+Performing DNS lookup for www.28et.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
