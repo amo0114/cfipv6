@@ -6732,3 +6732,24 @@ Performing DNS lookup for www.28et.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main fa0863f] Update project files
+ 4 files changed, 53 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7b49589..fa0863f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.232.184...
+Fetching domains for 104.16.47.173...
+Fetching domains for 104.16.33.52...
+succeed to fetch domains for 104.16.33.52 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.47.173 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.232.184 from https://ipchaxun.com/
+域名列表为
+['www.zongcaixs.cc', 'www.fnyy.net', 'www.linnuozs.com', 'www.m6y6.com', 'bdyy2.xyz', 'www.4j4j.cn', 'www.kbss888.com', 'www.5522tl.com', 'www.auv176.com', 'www.88wwk.com', '4j4j.cn', 'www.8877fz.com', 'www.cocanwelding.com', 'www.yncareer.com', 'www.kunzedu.com', 'mw171.com', 'www.zzztch.com', 'www.nitianxieshen.com', 'www.55xs.cc', 'www.kanmanhuala.cc', 'www.meijui.net', 'www.wn05.cc', 'kanww.com', 'www.223ss.com', 'www.pk299.com', 'www.gdriustb.com', 'm.50zw.co', 'www.zcai77.com', 'www.16co.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yncareer.com...
+Performing DNS lookup for www.nitianxieshen.com...
+Performing DNS lookup for www.m6y6.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
