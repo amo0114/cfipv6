@@ -2,24 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-qdzhongbei.com	canonical name = qdzbdns.hai888.top.
-qdzbdns.hai888.top	canonical name = dns123.xin6.top.
-Name:	dns123.xin6.top
-Address: 172.67.75.125
-Name:	dns123.xin6.top
-Address: 104.26.12.83
-Name:	dns123.xin6.top
-Address: 104.26.13.83
+Name:	anluyg.net
+Address: 23.225.12.112
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.nba01.com
-Address: 103.234.54.73
+Name:	www.51uuoo.com
+Address: 156.235.156.76
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.4kmh.cc: NXDOMAIN
+Non-authoritative answer:
+Name:	www.1a1v.com
+Address: 154.26.241.104
 
