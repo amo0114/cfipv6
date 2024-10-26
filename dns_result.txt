@@ -1,33 +1,29 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.21.45.205
-Name:	ips.993888.xyz
-Address: 104.17.129.218
-Name:	ips.993888.xyz
-Address: 172.67.221.134
+** server can't find gy1.us123.icu: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.b7yy.cc	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.187.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.186.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:bb1f
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:ba1f
+Name:	www.xworldadmin.com
+Address: 209.50.56.127
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tv9090.com
-Address: 208.98.40.72
+Name:	vipor.net
+Address: 172.67.71.138
+Name:	vipor.net
+Address: 104.26.3.213
+Name:	vipor.net
+Address: 104.26.2.213
+Name:	vipor.net
+Address: 2606:4700:20::ac43:478a
+Name:	vipor.net
+Address: 2606:4700:20::681a:2d5
+Name:	vipor.net
+Address: 2606:4700:20::681a:3d5
 

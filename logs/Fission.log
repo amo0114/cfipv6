@@ -6852,3 +6852,24 @@ Performing DNS lookup for www.28et.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main faf9346] Update project files
+ 4 files changed, 52 insertions(+), 30 deletions(-)
+To github.com:amo0114/cfipv6.git
+   05c2357..faf9346  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.24.172.240...
+Fetching domains for 172.64.199.232...
+Fetching domains for 198.41.206.94...
+succeed to fetch domains for 172.64.199.232 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.206.94 from https://ipchaxun.com/
+succeed to fetch domains for 104.24.172.240 from https://ipchaxun.com/
+域名列表为
+['www.ddwhm.com', 'ddwhm.com', 'www.99wx.cc', 'iios.me', 'longli.online', 'bk.jdkg.fun', 'www.85xs.cc', 'www.zhiqihuo.com', 'www.huanyaad.com', 'www.bjyongcheng.com', 'www.92mili.com', 'niuerzs.com', 'www.6i5.com', 'yx.887141.xyz', 'www.sxyzxh.com', 'www.djzdyw.com', 'www.gdriustb.com', 'www.lnfitness.com', 'www.630book.com', 'www.tushencn.com', 'www.4148.net', 'www.6988tv.com', 'www.b7yy.cc', 'www.888dyy.cc', 'www.jsmx999.com', 'www.11txt.com', 'www.cfhuagong.com', 'img.hostmonit.com', 'www.iios.me', 'm.niuerzs.com', 'stock.hostmonit.com', 'www.kanju8.com', 'www.nangua5.com', 'www.tv9090.com', 'www.50zw.co', 'yh6.dtku41.xyz', 'www.zzztch.com', 'www.t083.com', 'collect.gitgoogle.com', 'm.qqxsw.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for www.b7yy.cc...
+Performing DNS lookup for www.tv9090.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
