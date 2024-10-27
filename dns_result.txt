@@ -2,34 +2,46 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jpvsavhyu.76898102.xyz
-Address: 104.20.22.234
-Name:	jpvsavhyu.76898102.xyz
-Address: 172.67.70.100
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.56.171
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.108.206
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.245.26
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.96.177
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.22.3
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.111.93
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.9.76
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.199.107
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.207.140
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.220.56
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.250.178
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.0.206
+Name:	cfip.xxxxxxxx.tk
+Address: 104.20.223.9
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.16.2
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.241.188
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find auth.250163.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yunshangnongmu.com
-Address: 172.67.150.150
-Name:	www.yunshangnongmu.com
-Address: 104.21.30.49
-Name:	www.yunshangnongmu.com
-Address: 2606:4700:3036::6815:1e31
-Name:	www.yunshangnongmu.com
-Address: 2606:4700:3032::ac43:9696
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.yy302.com
-Address: 104.21.30.49
-Name:	www.yy302.com
-Address: 172.67.150.150
-Name:	www.yy302.com
-Address: 2606:4700:3036::6815:1e31
-Name:	www.yy302.com
-Address: 2606:4700:3032::ac43:9696
+Name:	acjp2.cloudflarest.link
+Address: 104.247.82.50
 
