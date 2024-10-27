@@ -2,29 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	iios.club
-Address: 172.67.201.86
-Name:	iios.club
-Address: 104.21.52.166
-Name:	iios.club
-Address: 2606:4700:3036::ac43:c956
-Name:	iios.club
-Address: 2606:4700:3032::6815:34a6
+Name:	jpvsavhyu.76898102.xyz
+Address: 104.20.22.234
+Name:	jpvsavhyu.76898102.xyz
+Address: 172.67.70.100
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-macvbb.555556789.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global22.66666654.xyz.
-Name:	cfcn-a-global22.66666654.xyz
-Address: 104.20.22.195
+Name:	www.yunshangnongmu.com
+Address: 172.67.150.150
+Name:	www.yunshangnongmu.com
+Address: 104.21.30.49
+Name:	www.yunshangnongmu.com
+Address: 2606:4700:3036::6815:1e31
+Name:	www.yunshangnongmu.com
+Address: 2606:4700:3032::ac43:9696
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.bt4kyy.com
-Address: 162.209.175.126
+Name:	www.yy302.com
+Address: 104.21.30.49
+Name:	www.yy302.com
+Address: 172.67.150.150
+Name:	www.yy302.com
+Address: 2606:4700:3036::6815:1e31
+Name:	www.yy302.com
+Address: 2606:4700:3032::ac43:9696
 
