@@ -6944,3 +6944,25 @@ Performing DNS lookup for www.yy302.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 580418b] Update project files
+ 4 files changed, 96 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   eaaa7d6..580418b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.24.132.231...
+Fetching domains for 104.19.160.233...
+Fetching domains for 104.16.196.17...
+succeed to fetch domains for 104.19.160.233 from https://dnsdblookup.com/
+succeed to fetch domains for 104.24.132.231 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.196.17 from https://ipchaxun.com/
+域名列表为
+['www.cocanwelding.com', 'www.51jion.com', 'portal.cmy.network', 'www.zgjmw.net', 'www.ub888.cc', 'ahtcdn9.cfcdn.org', 'www.xinjuc.com', 'cfip.xxxxxxxx.tk', 'www.652tv.com', 'www.nangua55.com', 'www.caomei.jp', '7z9a.com', 'www.6988tv.com', 'www.zzztch.com', 'auth.250163.xyz', 'cmy.network', 'acjp2.cloudflarest.link', 'caomei.jp', 'm.6988tv.com', 'www.65bao2.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for auth.250163.xyz...
+Performing DNS lookup for acjp2.cloudflarest.link...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

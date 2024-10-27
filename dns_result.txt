@@ -1,47 +1,19 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.56.171
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.108.206
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.245.26
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.96.177
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.22.3
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.111.93
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.9.76
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.199.107
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.207.140
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.220.56
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.250.178
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.0.206
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.223.9
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.16.2
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.241.188
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find auth.250163.xyz: NXDOMAIN
+** server can't find 2234.love: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	acjp2.cloudflarest.link
+Name:	achk.cloudflarest.link
 Address: 104.247.82.50
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+** server can't find nsues1q2x.gopay001.com: SERVFAIL
 
