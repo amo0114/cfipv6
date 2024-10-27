@@ -2,26 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-lao304.com	canonical name = laowang-luo.b-cdn.net.
-Name:	laowang-luo.b-cdn.net
-Address: 143.244.49.177
-Name:	laowang-luo.b-cdn.net
-Address: 2400:52e0:1a01::899:1
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.36dm.club: NXDOMAIN
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.zongcaiwx.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.66.212
-Name:	ips.993888.xyz
-Address: 104.17.65.151
-Name:	ips.993888.xyz
-Address: 104.19.39.196
+www.galzy.eu.org	canonical name = cdn.jerryyang.eu.org.
+Name:	cdn.jerryyang.eu.org
+Address: 172.67.210.240
+Name:	cdn.jerryyang.eu.org
+Address: 104.21.77.183
+Name:	cdn.jerryyang.eu.org
+Address: 2606:4700:3032::6815:4db7
+Name:	cdn.jerryyang.eu.org
+Address: 2606:4700:3031::ac43:d2f0
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.28et.com
+Address: 66.29.136.78
 

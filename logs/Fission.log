@@ -7032,3 +7032,24 @@ Performing DNS lookup for lao304.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0a90d9b] Update project files
+ 4 files changed, 44 insertions(+), 28 deletions(-)
+To github.com:amo0114/cfipv6.git
+   dbbe05b..0a90d9b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.201.164...
+Fetching domains for 172.67.252.49...
+Fetching domains for 104.16.195.68...
+succeed to fetch domains for 172.67.252.49 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.195.68 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.201.164 from https://ipchaxun.com/
+域名列表为
+['www.36dm.club', 'www.doupobook.cc', 'www.85xscc.com', 'cf1.492745.xyz', 'www.kuaikan66.com', 'www.duihuanzhipiao.com', 'www.85xs.cc', 'lao304.com', 'm.niuerzs.com', 'www.iios.club', 'www.xuanqishi.cc', 'www.77zw.cc', 'www.0550cq.com', 'qiangkouzhao.com', 'www.lanyucy.com', 'www.qindi.net', 'www.rmsxs.com', 'www.lyzdzy.com', 'www.whpaiger.com', 'www.zongcaixs.com', 'www.tpyyc.com', 'hkaa.sectigo.pp.ua', 'www.nitianxieshen.com', 'www.6988tv.com', 'www.zongcaiwx.com', 'www.93xscc.com', 'www.lailai360.com', 'www.longwangchuanshuo.com', 'www.longwangchuanshuo.net', 'www.xinjuc.com', 'www.tv9090.com', 'www.91m.cc', 'www.yingshixiaoshuo.com', 'www.bxwx10.com', 'www.dmbj.cc', 'luwangyangrong.com', '1.longjichne.eu.org', 'www.luwangyangrong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for lao304.com...
+Performing DNS lookup for www.36dm.club...
+Performing DNS lookup for www.zongcaiwx.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
