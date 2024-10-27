@@ -2,30 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.doupobook.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.66.96
-Name:	ips.993888.xyz
-Address: 104.19.54.91
-Name:	ips.993888.xyz
-Address: 104.19.39.207
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	69xx503.xyz
-Address: 67.220.72.106
-Name:	69xx503.xyz
-Address: 67.220.72.225
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
 lao304.com	canonical name = laowang-luo.b-cdn.net.
 Name:	laowang-luo.b-cdn.net
-Address: 138.199.9.104
+Address: 143.244.49.177
 Name:	laowang-luo.b-cdn.net
-Address: 2400:52e0:1a01::907:1
+Address: 2400:52e0:1a01::899:1
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.36dm.club: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.zongcaiwx.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.66.212
+Name:	ips.993888.xyz
+Address: 104.17.65.151
+Name:	ips.993888.xyz
+Address: 104.19.39.196
 

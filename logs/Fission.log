@@ -7010,3 +7010,25 @@ Performing DNS lookup for www.7sc.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dbbe05b] Update project files
+ 4 files changed, 65 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   79217ff..dbbe05b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.94.197...
+Fetching domains for 104.21.10.181...
+Fetching domains for 198.41.201.164...
+succeed to fetch domains for 104.18.94.197 from https://site.ip138.com/
+succeed to fetch domains for 104.21.10.181 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.201.164 from https://ipchaxun.com/
+域名列表为
+['www.lutube.work', 'www.dmbj.cc', 'www.bb464.com', 'www.85xscc.com', '69xx503.xyz', 'wap.fjzlink.top', 'wap.yuanjiaoyan.top', 'www.85xs.cc', 'compassofdesign.com', 'kkk70.com', '490ll.com', 'yuanjiaoyan.top', 'www.kkk70.com', 'www.hncsfd.com', '52watch.xyz', 'surfchex.com', 'x7188.tv', 'm.yuanjiaoyan.top', 'rnsudi.com', 'www.yuanjiaoyan.top', 'www.rmsxs.com', 'www.longwangchuanshuo.com', '04aaw.cc', 'www.zongcaiwx.com', 'rr972.com', 'www.zongcaixs.com', 'fjzlink.top', 'wuma.qianjin58.com', 'www.x5s8.com', 'galzy.eu.org', 'www.dhhyen.cn', 'www.yingshixiaoshuo.com', 'xn--9kq10e0y7h.site', 'x5s8.com', 'jqfjbwiki1.9otpq9m.com', 'www.wholesaleshoponline.top', '69xxx.top', 'www2388.com', 'a456hd.com', 'bb464.com', 'www.laikeedu.cn', 'www.fjzlink.top', 'm.fjzlink.top', 'www.tgjglox.cn', '3g.yuanjiaoyan.top', 'jd210.com', 'kxg9.com', 'www.lailai360.com', 'www.longwangchuanshuo.net', 'www.oneyflashfm.com', 'lao304.com', 'www.rnsudi.com', 'lutube.work', 'www.xuanqishi.cc', '3g.fjzlink.top', 'gucci-369.com', '400sp3.xyz', 'www.a456hd.com', 'www.doupobook.cc', 'snowtafir.top', 'www.93xscc.com', 'www.nitianxieshen.com', 'www.77zw.cc', 'hkaa.sectigo.pp.ua', 'www.tjlongjun.cn', 'www.quanjianyinpin.com', 'www.tpyyc.com', 'fesuq4391ub.xyz', 'www.xn--9kq10e0y7h.site']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.doupobook.cc...
+Performing DNS lookup for 69xx503.xyz...
+Performing DNS lookup for lao304.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
