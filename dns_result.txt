@@ -1,23 +1,19 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
+** server can't find bdyy2.xyz: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
 Non-authoritative answer:
-Name:	www.4j4j.cn
-Address: 104.21.47.69
-Name:	www.4j4j.cn
-Address: 172.67.170.163
-Name:	www.4j4j.cn
-Address: 2606:4700:3030::6815:2f45
-Name:	www.4j4j.cn
-Address: 2606:4700:3032::ac43:aaa3
+Name:	www.xkx999.com
+Address: 103.224.212.214
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.gifmzt.com: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.gifmzt.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	pornhub.fczym.xyz
+Address: 69.162.95.2
 
