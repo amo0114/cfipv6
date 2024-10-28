@@ -7227,3 +7227,25 @@ Performing DNS lookup for www.6988tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main aa5291a] Update project files
+ 4 files changed, 64 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   087b9f3..aa5291a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.242.147...
+Fetching domains for 198.41.194.82...
+Fetching domains for 104.25.116.175...
+succeed to fetch domains for 104.25.116.175 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.194.82 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.242.147 from https://ipchaxun.com/
+域名列表为
+['www.93xscc.com', 'jhpcza.66666654.xyz', 'acus.cloudflarest.link', 'pan.clun.top', 'baxtc.66666654.xyz', 'fldsubgigtujuy.76898102.xyz', 'cfcdn1.sanfencdn9.com', 'nlsdwsz.66666654.xyz', 'www.tpyyc.com', 'www.sf123.mobi', 'www.aub.ooo', 'www.cocanwelding.com', 'yx.887141.xyz', 'iudbvcxa.76898102.xyz', 'spca.114514782.xyz', 'hnhcbw.com', 'www.ddwhm.com', 'yh6.dtku41.xyz', '7.namesilo123.top', 'www.longwangchuanshuo.com', 'caga.rapidssl.pp.ua', 'www.clun.top', 'www.nsisfans.com', 'raw.gitmirror.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.sf123.mobi...
+Performing DNS lookup for jhpcza.66666654.xyz...
+Performing DNS lookup for fldsubgigtujuy.76898102.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

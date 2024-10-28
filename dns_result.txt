@@ -1,32 +1,26 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.sf123.mobi	canonical name = sf123mobi.haofanghu123.com.
-sf123mobi.haofanghu123.com	canonical name = www.sf123.mobi.cdn.cloudflare.net.
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 104.21.86.20
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 172.67.214.14
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 2606:4700:3037::ac43:d60e
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:5614
+** server can't find yx.887141.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-jhpcza.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global15.66666654.xyz.
-Name:	cfcn-a-global15.66666654.xyz
-Address: 104.20.21.127
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.141.193
+Name:	ips.993888.xyz
+Address: 104.17.78.121
+Name:	ips.993888.xyz
+Address: 104.17.141.24
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	fldsubgigtujuy.76898102.xyz
-Address: 104.20.19.183
+www.tvyb02.com	canonical name = cdn000138.banode301.com.
+cdn000138.banode301.com	canonical name = cdn000138.qsnode301.com.
+Name:	cdn000138.qsnode301.com
+Address: 192.151.224.168
 
