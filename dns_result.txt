@@ -2,27 +2,42 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.232zh.com	canonical name = traff-6.hugedomains.com.
-traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 3.140.13.188
-Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
-Address: 18.119.154.66
+www.99wxw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 162.159.128.17
+Name:	ips.993888.xyz
+Address: 104.19.40.213
+Name:	ips.993888.xyz
+Address: 104.17.138.155
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-jfzrx09.j35f1dux8efq2keyt0x.top	canonical name = juyin-zhu.b-cdn.net.
-Name:	juyin-zhu.b-cdn.net
-Address: 138.199.9.104
-Name:	juyin-zhu.b-cdn.net
-Address: 2400:52e0:1a01::852:1
+dm84.tv	canonical name = cf.699688.xyz.
+cf.699688.xyz	canonical name = www.cloudflare.com.
+Name:	www.cloudflare.com
+Address: 104.16.123.96
+Name:	www.cloudflare.com
+Address: 104.16.124.96
+Name:	www.cloudflare.com
+Address: 2606:4700::6810:7b60
+Name:	www.cloudflare.com
+Address: 2606:4700::6810:7c60
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.nba01.com
-Address: 103.234.54.73
+www.cbcv.cc	canonical name = cbcv.cc.
+cbcv.cc	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
