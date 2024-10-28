@@ -1,19 +1,28 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find bdyy2.xyz: NXDOMAIN
+Non-authoritative answer:
+www.232zh.com	canonical name = traff-6.hugedomains.com.
+traff-6.hugedomains.com	canonical name = hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com.
+Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
+Address: 3.140.13.188
+Name:	hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
+Address: 18.119.154.66
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xkx999.com
-Address: 103.224.212.214
+jfzrx09.j35f1dux8efq2keyt0x.top	canonical name = juyin-zhu.b-cdn.net.
+Name:	juyin-zhu.b-cdn.net
+Address: 138.199.9.104
+Name:	juyin-zhu.b-cdn.net
+Address: 2400:52e0:1a01::852:1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	pornhub.fczym.xyz
-Address: 69.162.95.2
+Name:	www.nba01.com
+Address: 103.234.54.73
 

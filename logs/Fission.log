@@ -7097,3 +7097,25 @@ Performing DNS lookup for www.gifmzt.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3406ec2] Update project files
+ 4 files changed, 49 insertions(+), 31 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   4944b3a..3406ec2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.244.39...
+Fetching domains for 104.18.40.27...
+Fetching domains for 104.17.110.203...
+succeed to fetch domains for 104.17.110.203 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.244.39 from https://site.ip138.com/
+succeed to fetch domains for 104.18.40.27 from https://site.ip138.com/
+域名列表为
+['www.33sihu.com', '4hu5.com', 'www.xp2024.com', 'www.8812hh.com', 'www.485tv.com', 'www.9393dd.com', 'www.244kk.com', 'www.9926u.com', 'www.cfhuagong.com', '720pfilmdizi.tk', '9399dd.com', 'www.5543aa.com', 'www.nba01.com', '1144hu.com', 'www.rxjh520.cc', '147sihu.com', '2258h.com', 'seedmm.blog', 'www.xkx999.com', '406h.com', '221dd.com', 'mmmglobal.org', 'www.54sihu.com', '1942k.com', '126sihu.com', 'www.995nn.com', 'www.186sihu.com', 'www.nan91.com', 'www.390sihu.com', 'www.8834hh.com', 'www.seedmm.blog', 'www.147sihu.com', 'xtqj.fczym.xyz', 'xnxx.fczym.xyz', '109sihu.com', 'ltxs520.org', 'www.1906k.com', 'www.12sihu.com', '7333dd.com', 'www.yankeecandle.de', 'jlanfranco.com', 'www.8842hh.com', 'www.0yys.cn', 'www.176sihu.com', 'www.weixinlili.com', 'www.145sihu.com', '6856u.com', 'dcs99.com', 'www.tm1997.com', 'www.2258h.com', 'www.lyzdzy.com', 'www.4hu2.com', 'pwc.ca', 'www.175hk.com', 'pornhub.fczym.xyz', 'www.4hu49.com', '139sihu.com', 'www.624u.com', '460d.com', '5115dd.com', 'www.196sihu.com', 'biqune.com', 'www.3737ee.com', 'www.5571aa.com', 'www.8809hh.com', 'www.4pcc.com', 'www.88sihu.com', 'www.longwangchuanshuo.com', 'www.110sihu.com', 'www.4hu20.com', '6696c.com', '128sihu.com', '106sihu.com', 'www.406h.com', 'www.ly500.xyz', '402n.com', 'www.kbss888.com', 'www.221dd.com', 'www.1106u.com', 'yxklsj.com', 'www.5115dd.com', 'www.4hu3.com', 'www.102sihu.com', 'www.115sihu.com', '145sihu.com', 'www.4hu16.com', '555180.com', 't2b9nds.directtf.fun', '4hu20.com', 'www.sp6080.cc', 'haitacviet.com', 'omhc.com', '8863jj.com', 'www.460d.com', 'www.127sihu.com', 'www.359sihu.com', 'www.375hk.com', '4hu16.com', 'www.5522tl.com', 'xvideos.fczym.xyz', 'fczym.xyz', '375hk.com', 'www.555180.com', 'www.leksiko.eu', 'www.126sihu.com', '184sihu.com', 'www.fnyyw.net', '4hu39.com', 'cfip.xxxxxxxx.tk', 'www.zongcaixs.cc', 'www.tlbb888.com', 'younggirls.xyz', '8892hh.com', 'www.nsisfans.com', 'www.8863jj.com', 'www.pk299.com', 'www.546tv.com', 'www.5560aa.com', 'www.2224h.com', 'www.199sihu.com', 'www.226sihu.com', 'www.1300a.com', '4hu58.com', 'ao3.world', 'pan.zdfx.org', '485tv.com', '2727hh.com', 'www.884aa.com', 'www.cocanwelding.com', 'www.8820jj.com', 'www.245sihu.com', 'www.mmmglobal.org', 'bdyy2.xyz', '4hu65.com', '4483dd.com', 'dl-x.com', '221sihu.com', 'www.2259h.com', 'www.132sihu.com', 'www.1728k.com', 'www.8891jj.com', 'www.279hk.com', '6686z.com', 'www.234hu.com', 'www.jinyongwuxia.com', 'www.pwc.ca', 'www.9939dd.com', 'www.94sihu.com', 'meijutt.tv', 'js1983.com', '8841hh.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for bdyy2.xyz...
+Performing DNS lookup for www.xkx999.com...
+Performing DNS lookup for pornhub.fczym.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
