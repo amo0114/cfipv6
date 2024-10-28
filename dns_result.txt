@@ -2,24 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 91.195.240.12
+Name:	margaret.ns.cloudflare.com
+Address: 172.64.34.107
+Name:	margaret.ns.cloudflare.com
+Address: 108.162.194.107
+Name:	margaret.ns.cloudflare.com
+Address: 162.159.38.107
+Name:	margaret.ns.cloudflare.com
+Address: 2a06:98c1:50::ac40:226b
+Name:	margaret.ns.cloudflare.com
+Address: 2803:f800:50::6ca2:c26b
+Name:	margaret.ns.cloudflare.com
+Address: 2606:4700:50::a29f:266b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.mp4so.com
-Address: 185.107.56.55
+Name:	j216.cc
+Address: 143.244.50.82
+Name:	j216.cc
+Address: 2400:52e0:1a01::899:1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cqpincheng.com
-Address: 104.24.129.13
-Name:	www.cqpincheng.com
-Address: 104.24.130.58
-Name:	www.cqpincheng.com
-Address: 104.24.128.35
+baxtc.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global36.66666654.xyz.
+Name:	cfcn-b-global36.66666654.xyz
+Address: 104.20.18.253
 
