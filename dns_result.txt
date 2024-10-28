@@ -1,26 +1,40 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find yx.887141.xyz: NXDOMAIN
+Non-authoritative answer:
+bk.jdkg.fun	canonical name = cdn.cdnedenp.uk.
+Name:	cdn.cdnedenp.uk
+Address: 172.67.197.63
+Name:	cdn.cdnedenp.uk
+Address: 104.21.68.172
+Name:	cdn.cdnedenp.uk
+Address: 2606:4700:3033::6815:44ac
+Name:	cdn.cdnedenp.uk
+Address: 2606:4700:3036::ac43:c53f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.141.193
-Name:	ips.993888.xyz
-Address: 104.17.78.121
-Name:	ips.993888.xyz
-Address: 104.17.141.24
+www.sf52l.com	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 172.67.165.85
+Name:	cf.host106.america96.com
+Address: 104.21.15.245
+Name:	cf.host106.america96.com
+Address: 2606:4700:3036::ac43:a555
+Name:	cf.host106.america96.com
+Address: 2606:4700:3037::6815:ff5
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tvyb02.com	canonical name = cdn000138.banode301.com.
-cdn000138.banode301.com	canonical name = cdn000138.qsnode301.com.
-Name:	cdn000138.qsnode301.com
-Address: 192.151.224.168
+www.fjlkjs.com	canonical name = dns.hy1398.cc.
+Name:	dns.hy1398.cc
+Address: 172.67.68.247
+Name:	dns.hy1398.cc
+Address: 104.26.6.103
+Name:	dns.hy1398.cc
+Address: 104.26.7.103
 
