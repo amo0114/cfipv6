@@ -7140,3 +7140,25 @@ Performing DNS lookup for www.nba01.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b956507] Update project files
+ 4 files changed, 77 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   cbdd135..b956507  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.182.162...
+Fetching domains for 104.20.51.42...
+Fetching domains for 172.64.141.82...
+succeed to fetch domains for 104.18.182.162 from https://site.ip138.com/
+succeed to fetch domains for 172.64.141.82 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.51.42 from https://dnsdblookup.com/
+域名列表为
+['ao3-cn.top', 'www.11txt.com', 'www.4148.net', 'www.zsych.net', 'www.0550cq.com', 'www.luwangyangrong.com', 'laowang.co', 'www.ygdy8.cc', 'www.tpyyc.com', 'www.9sha.com', 'dm84.tv', 'www.kkkab.com', 'yh6.dtku41.xyz', 'www.91m.cc', 'www.paizipai.top', 'www.cbcv.cc', 'ipdb.rr.nu', 'www.home66.net', 'www.90dushu.com', 'www.zzztch.com', 'xs.wxtv.cc', 'blog.hostmonit.com', 'www.50zw.co', 'www.f8yy.com', '456gg.com', 'www.tvccc.org', 'www.fcwei.com', 'www.tinghen.com', 'www.cfhuagong.com', 'www.ydxs.cc', 'www.tv9090.com', 'www.52dyk.com', 'm.6988tv.com', 'www.b7yy.cc', 'www.ao3-cn.top', 'www.tv7box.com', 'www.28et.com', 'www.99wxw.cc', 'www.zdqx.com', 'www.6988tv.com', 'tv9090.com', 'xfltd.net', 'www.wxxzzs.com', 'www.ddwhm.com', 'm.okdi.net', 'ip.fiaas.email', 'luwangyangrong.com', 'www.zhiqihuo.com', 'www.6i5.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.99wxw.cc...
+Performing DNS lookup for dm84.tv...
+Performing DNS lookup for www.cbcv.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

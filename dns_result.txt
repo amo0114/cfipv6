@@ -2,42 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 162.159.128.17
-Name:	ips.993888.xyz
-Address: 104.19.40.213
-Name:	ips.993888.xyz
-Address: 104.17.138.155
+Name:	www.lyzdzy.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-dm84.tv	canonical name = cf.699688.xyz.
-cf.699688.xyz	canonical name = www.cloudflare.com.
-Name:	www.cloudflare.com
-Address: 104.16.123.96
-Name:	www.cloudflare.com
-Address: 104.16.124.96
-Name:	www.cloudflare.com
-Address: 2606:4700::6810:7b60
-Name:	www.cloudflare.com
-Address: 2606:4700::6810:7c60
+Name:	www.mp4so.com
+Address: 185.107.56.55
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.cbcv.cc	canonical name = cbcv.cc.
-cbcv.cc	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+Name:	www.cqpincheng.com
+Address: 104.24.129.13
+Name:	www.cqpincheng.com
+Address: 104.24.130.58
+Name:	www.cqpincheng.com
+Address: 104.24.128.35
 
