@@ -7205,3 +7205,25 @@ Performing DNS lookup for baxtc.66666654.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 087b9f3] Update project files
+ 4 files changed, 72 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   2fd081d..087b9f3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.201.235...
+Fetching domains for 104.17.239.198...
+Fetching domains for 104.20.2.219...
+succeed to fetch domains for 104.17.239.198 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.201.235 from https://site.ip138.com/
+succeed to fetch domains for 104.20.2.219 from https://site.ip138.com/
+域名列表为
+['speed.marisalnc.com', 'www.zzztch.com', 'www.ddwhm.com', 'www.xigua5.com', 'ag.hg2096.com', 'www.qp666.com', 'zl.aitrjc.xyz', 'iios.fun', 'v4.cfnode.eu.org', 'www.hktv02.com', 'www.cbcv.cc', 'default.cfnode.eu.org', 'www.cocanwelding.com', 'www.6988tv.com', '923055.com', 'www.maybelline.nl', 'www.kkkkp.com', 'www.whpaiger.com', 'maybelline.nl']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for zl.aitrjc.xyz...
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.6988tv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
