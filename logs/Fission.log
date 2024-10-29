@@ -7466,3 +7466,25 @@ Performing DNS lookup for www.drjays.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a55b7b9] Update project files
+ 4 files changed, 101 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   8ae3aee..a55b7b9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.53.5...
+Fetching domains for 104.17.187.239...
+Fetching domains for 104.21.237.105...
+succeed to fetch domains for 104.22.53.5 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.187.239 from https://site.ip138.com/
+succeed to fetch domains for 104.21.237.105 from https://site.ip138.com/
+域名列表为
+['www.wn04.cc', 'hyun.cloudflare.182682.xyz', 'ss.moonriver.sbs', 'dmhy.b168.net', 'cm-cdn.kfcvme50.life', 'www.88wwk.com', 'www.gamegamept.com', 'alist.363636.best', 'cf.zhetengsha.eu.org', 'docker.fxxk.dedyn.io', 'www.babuyun.com', 'www.295k.com', 'www.colithel.com', 'fan.yutian.us.kg', 'pan.baidu.re', 'hsj.lbxjc.online', 'img.r10086.com', 'www.maintrav.top', 'www.tl2938.xyz', 'cf.090227.xyz', 'go.wumaojichang.com', 'www.652tv.com', '521vr.com', 'nankoyo.com', 'www.xinjuc.com', 'cf.877774.xyz', 'm3u8131.yhdmm3u8.top', 'v2.goyo123.ggff.net', 'gptnb.ai', 'www.ysz8.com', 'v1.ahfi.cn', 'www.hsbk.cc', 'yx.sulink.one', 'xuyan.cc', 'cfv2.goyo123.work.gd', 'ddos.plus', 'cdn.cloudflare.182682.xyz', 'www.cxnage.com', 'v2.goyo123.ip-dynamic.org', 'dy.goyo123.dynv6.net', 'bk.jdkg.fun', 'www.dadoudou117.com', 'cdntv.757888.xyz', 'cfip.xxxxxxxx.tk', 'a.goyo123.ip-dynamic.org', 'aretheygonnagooutther.goyo123.ip-dynamic.org', '233dm.net', 'www.iios.club', 'www.dzy66666.com', 'file.pvz.moe', 'oracle.sosoorg.com', 'v.warhut.cn', 'cdn1.wcnm.uk', 'cloudflare.182682.xyz', 'pan.iunra.org', 'pan.axxpan.com', '22.6bnw.top', 'www.yh9pk.com', 'cheesegame.top', 'www.wn05.cc', 'www.nankoyo.com', 'amoebi.com', 'www.nageplus.com', 'cdn.taoismhome.com', 'www.zhizhuxia520.com', 'www.qmsdh.com', 'www.wn01.uk', 'www.wn03.cc', 'colithel.com', 'www.778668.com', 'www.zlcq520.com', 'dns.leung0108.us.kg', 'ct.zxo.cloudns.be', 'blog.xiaoxia.vip', 'taoismhome.com', 'cfip.201043.xyz', 'baidu.cloudflare.182682.xyz', 'www.m6y6.com', 'yx.cloudflare.182682.xyz', 'xiaoyeye.cc', 'jo2dfhe7isc.mm-cc.top', 'www.7z9a.com', 'aktv.top', 'www.tockt.com', 'www.cheesegame.top', 'www.huakai2018.com', 'www.6988tv.com', 'status.hmoe.top', 'free.chinano1.us.kg', 'www.wn01.cc', 'blog.cmliussss.com', 'ssh.090227.xyz', 'www.8828pk.com', 'tanhuazu.com', 'www.hhyy028.com', 'mpimg.cn', 'm.163fahao.com', 'www.207my.com', '4dl.mondo64.club', 'cveoy.top', 'm.778668.com', 'www.cx888my.com', 'spurl.030101.xyz', 'www.emogod.com', 'v.vlife.top', '96110.cf.090227.xyz', 'hsbk.cc', 'www.wubei520.com', 'ct.090227.xyz', 'play.cdnmicrosoft.com', 'www.iios.me', 'hk.wish.ml', 'cdn.didi8.com', 'www.qiqi888.com', '1.aganplay.top', 'steps.030101.xyz', 'www.999998.vip', 'www.xcx2024.com', 'jp.cloudflare.182682.xyz', 'www.tuyuyun.com', 'hmoe.top', 'lxlzi.com', 'qrcode.nankoyo.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for play.cdnmicrosoft.com...
+Performing DNS lookup for fan.yutian.us.kg...
+Performing DNS lookup for www.gamegamept.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

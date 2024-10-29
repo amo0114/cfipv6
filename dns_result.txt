@@ -2,65 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-play.cdnmicrosoft.com	canonical name = microsoft.cloudflare.182682.xyz.
-Name:	microsoft.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	microsoft.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	microsoft.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	microsoft.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	microsoft.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	microsoft.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	microsoft.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	microsoft.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	microsoft.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	microsoft.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
+www.28dushu.com	canonical name = back.jdsharecodes.top.
+Name:	back.jdsharecodes.top
+Address: 104.21.40.125
+Name:	back.jdsharecodes.top
+Address: 172.67.151.167
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3036::ac43:97a7
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3036::6815:287d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-fan.yutian.us.kg	canonical name = yutian.cloudflare.182682.xyz.
-Name:	yutian.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	yutian.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	yutian.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	yutian.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	yutian.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	yutian.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	yutian.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	yutian.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	yutian.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	yutian.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
+Name:	www.allshanghaioffice.com
+Address: 185.107.56.60
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.gamegamept.com	canonical name = cname.amd8.com.
-Name:	cname.amd8.com
-Address: 172.67.203.224
-Name:	cname.amd8.com
-Address: 104.21.77.26
-Name:	cname.amd8.com
-Address: 2606:4700:3037::ac43:cbe0
-Name:	cname.amd8.com
-Address: 2606:4700:3035::6815:4d1a
+Name:	tv9090.com
+Address: 208.98.40.71
 
