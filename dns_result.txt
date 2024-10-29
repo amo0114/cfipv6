@@ -2,41 +2,23 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.cu90.com	canonical name = cf.host106.america96.com.
-Name:	cf.host106.america96.com
-Address: 104.21.15.245
-Name:	cf.host106.america96.com
-Address: 172.67.165.85
-Name:	cf.host106.america96.com
-Address: 2606:4700:3036::ac43:a555
-Name:	cf.host106.america96.com
-Address: 2606:4700:3037::6815:ff5
+www.nitianxieshen.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.141.239
+Name:	ips.993888.xyz
+Address: 104.17.66.230
+Name:	ips.993888.xyz
+Address: 104.17.70.23
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find ip.rzqwq1.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.77zw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.69.213
-Name:	ips.993888.xyz
-Address: 104.17.69.210
-Name:	ips.993888.xyz
-Address: 104.17.65.179
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.92mili.com	canonical name = 92mili.com.
-92mili.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+Name:	www.xwbhk.com
+Address: 149.115.241.53
 
