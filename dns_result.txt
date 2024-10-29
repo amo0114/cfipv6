@@ -2,24 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.77zw.cc	canonical name = ips.993888.xyz.
+www.85xscc.com	canonical name = ips.993888.xyz.
 Name:	ips.993888.xyz
-Address: 104.17.129.229
+Address: 104.17.66.21
 Name:	ips.993888.xyz
-Address: 162.159.143.80
+Address: 104.17.135.254
 Name:	ips.993888.xyz
-Address: 104.17.137.202
+Address: 104.17.130.222
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 162.209.149.30
+www.cu90.com	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 104.21.15.245
+Name:	cf.host106.america96.com
+Address: 172.67.165.85
+Name:	cf.host106.america96.com
+Address: 2606:4700:3037::6815:ff5
+Name:	cf.host106.america96.com
+Address: 2606:4700:3036::ac43:a555
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find www.zhiqihuo.com: No answer
+Name:	yncareer.com
+Address: 162.209.149.23
 

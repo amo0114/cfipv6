@@ -7337,3 +7337,24 @@ Performing DNS lookup for www.whpaiger.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 88d8627] Update project files
+ 4 files changed, 41 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   033ce3b..88d8627  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.104.243...
+Fetching domains for 104.18.83.103...
+Fetching domains for 104.17.145.123...
+succeed to fetch domains for 104.17.145.123 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.83.103 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.104.243 from https://dnsdblookup.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'www.huakai2018.com', 'm.6988tv.com', 'acus3.cloudflarest.link', 'www.biqune.com', 'msjh520.com', 'www.zsych.net', 'www.zhiqihuo.com', 'www.zzztch.com', 'www.xwbhk.com', 'www.gaycn.top', 'www.92mili.com', 'www.cocanwelding.com', 'www.77zw.cc', 'www.93xscc.com', 'm.niuerzs.com', 'www.msjh520.com', 'www.xwsxs.com', 'www.99wx.cc', 'www.nitianxieshen.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.77zw.cc...
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.zhiqihuo.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
