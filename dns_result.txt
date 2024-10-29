@@ -2,30 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.14.158
-Name:	ips.993888.xyz
-Address: 162.159.128.108
-Name:	ips.993888.xyz
-Address: 162.159.152.102
+Name:	www.25mj.com
+Address: 23.225.90.3
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xwbhk.com
-Address: 149.115.241.53
+Name:	msjh520.com
+Address: 23.224.194.189
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.14.158
-Name:	ips.993888.xyz
-Address: 162.159.128.108
-Name:	ips.993888.xyz
-Address: 162.159.152.102
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 

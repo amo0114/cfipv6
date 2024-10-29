@@ -7293,3 +7293,25 @@ Performing DNS lookup for www.fjlkjs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 659157c] Update project files
+ 4 files changed, 63 insertions(+), 53 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   8e0c200..659157c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.126.141...
+Fetching domains for 104.17.145.123...
+Fetching domains for 104.18.83.103...
+succeed to fetch domains for 104.18.83.103 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.145.123 from https://site.ip138.com/
+succeed to fetch domains for 104.17.126.141 from https://dnsdblookup.com/
+域名列表为
+['zzztch.com', 'www.xwbhk.com', 'www.93xscc.com', 'm.6988tv.com', 'm.niuerzs.com', 'msjh520.com', 'www.gaycn.top', 'www.zsych.net', 'www.cfhuagong.com', 'www.77zw.cc', 'www.msjh520.com', 'www.zhiqihuo.com', 'm.kuaikan66.com', 'www.cocanwelding.com', 'www.xwsxs.com', 'www.92mili.com', 'www.nitianxieshen.com', 'www.99wx.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for www.xwbhk.com...
+Performing DNS lookup for www.93xscc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
