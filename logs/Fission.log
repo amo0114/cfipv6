@@ -7625,3 +7625,24 @@ Performing DNS lookup for m.boyangjt.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 62c6828] Update project files
+ 4 files changed, 64 insertions(+), 18 deletions(-)
+To github.com:amo0114/cfipv6.git
+   537955a..62c6828  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.167.197...
+Fetching domains for 104.20.102.92...
+Fetching domains for 172.64.161.45...
+succeed to fetch domains for 104.20.102.92 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.167.197 from https://ipchaxun.com/
+succeed to fetch domains for 172.64.161.45 from https://site.ip138.com/
+域名列表为
+['www.fisgv.xyz', 'www.k77kk.cc', 'www.fengyun180.cn', 'www.cqguxiang.com', 'www.lijunys.com', 'www.993my.com', 'yjyfdc.com', 'www.116mh.com', 'www.9805tl.xyz', 'www.wn01.cc', 'www.9966pk.com', 'www.tinghen.com', '9966pk.com', 'www.tl123123.com', 'www.11txt.com', 'www.zzztch.com', 'www.5522tl.com', '616tl.top', 'www.huashubao.org', 'ikantv.net', 'www.apex521.com', 'www.6988tv.com', 'ccpes.org.cn', 'cloudflare.cfgo.cc', 'www.xzsfdc.com', 'www.90tsg.com', 'www.wbei666.com', 'www.91dajin.com', 'www.sy5151.com', 'www.gaycn.top', 'www.cfhuagong.com', 'www.16888cs.cn', '512yyds.com', 'www.6xr.com', 'www.58zztl.xyz', 'www.szphfy.com', 'www.50zw.co', 'www.6668888.shop', 'www.652tv.com', 'dsxys.com', 'www.mtv0.com', 'www.511mj.com', 'www.v2raz.vip', 'www.xkx999.com', 'www.picacgo.cn', 'www.579my.com', 'www.hhyy028.com', 'www.sxyzxh.com', 'picacgo.cn', 'www.0789pk.com', '52ggd.com', 'www.sy790.com', '818my.cn', 'www.ikantv.net', 'www.5699my.cn', 'jdqsfuzhu.cn', 'higuihai.com', 'www.yumiaowang.cn', 'www.zxc999.cn', 'hvg1jfxup43lan2zbyok.sdfmnbvcoxz.top', 'www.yh9pk.com', 'www2011india.com', 'www.maoxiandao.cn', 'www.8806pk.com', 'www.zywl1678.com', 'www.9415hf.com', 'www.yhddsb.com', 'blwdy.com', 'www.jyyz.cn', 'www.7lq.com', 'stock.hostmonit.com', 'www.lunhuidalu.com', 'www.99qhmy.com', 'www.dyzj18.com', 'www.182qw.com', 'www.511my.com', 'www.ccpes.org.cn', '666tv.org', 'www.jhhtech.com', 'www.xjiujiu99.com', 'www.307q.com', 'www.9415sf.com', 'picacgl.cn', 'www.x99gymy.pw', 'www.ziyutl.com', 'www.jxss688.com', 'www.xingtian180.cn', 'www.666tv.org', 'www.sem888.com', 'mutefun.com', 'csg99.com', 'www.6i5.com', 'www.www2011india.com', 'www.77wg.vip', 'www.0808my.com', 'www.512yyds.com', 'www.52ggd.com', 'www.tv9090.com', 'www.7moon.net', 'www.9889my.com', 'www.52110my.com', 'jhpcza.66666654.xyz', 'www.51jion.com', 'www.7sc.cc', 'www.yc1x.com', 'www.7277tl.com', 'www.xsgkfq.com', 'www.17qdh.com', 'www.cgfxw.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.8806pk.com...
+Performing DNS lookup for www.yhddsb.com...
+Performing DNS lookup for www.hhyy028.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
