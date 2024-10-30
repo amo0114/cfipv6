@@ -1,25 +1,36 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find mtr123.top: NXDOMAIN
+Non-authoritative answer:
+www.85xs.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.70.115
+Name:	ips.993888.xyz
+Address: 104.17.73.250
+Name:	ips.993888.xyz
+Address: 104.17.74.193
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.vodbd.com
-Address: 91.195.240.12
+Name:	www.pianku5.com
+Address: 172.67.154.221
+Name:	www.pianku5.com
+Address: 104.21.6.132
+Name:	www.pianku5.com
+Address: 2606:4700:3030::6815:684
+Name:	www.pianku5.com
+Address: 2606:4700:3034::ac43:9add
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.polestar.com
-Address: 104.18.32.95
-Name:	www.polestar.com
-Address: 172.64.155.161
-Name:	www.polestar.com
-Address: 2606:4700:4400::6812:205f
-Name:	www.polestar.com
-Address: 2606:4700:4400::ac40:9ba1
+Name:	606977.com
+Address: 172.232.25.148
+Name:	606977.com
+Address: 172.232.4.213
+Name:	606977.com
+Address: 172.232.31.180
 
