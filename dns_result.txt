@@ -1,23 +1,39 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.9415hf.com
-Address: 47.244.221.51
+** server can't find www.8806pk.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.7277tl.com
-Address: 127.0.0.1
+Name:	www.yhddsb.com
+Address: 134.122.184.248
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.boyangjt.com
-Address: 104.16.72.177
-Name:	m.boyangjt.com
-Address: 104.16.104.218
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.16.90.170
+Name:	dcs.jqddos.xyz
+Address: 104.16.246.133
+Name:	dcs.jqddos.xyz
+Address: 104.17.1.203
+Name:	dcs.jqddos.xyz
+Address: 104.25.203.163
+Name:	dcs.jqddos.xyz
+Address: 104.19.159.53
+Name:	dcs.jqddos.xyz
+Address: 104.18.109.241
+Name:	dcs.jqddos.xyz
+Address: 104.19.247.128
+Name:	dcs.jqddos.xyz
+Address: 104.18.98.182
+Name:	dcs.jqddos.xyz
+Address: 104.16.202.198
+Name:	dcs.jqddos.xyz
+Address: 104.17.0.36
 
