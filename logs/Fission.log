@@ -7510,3 +7510,25 @@ Performing DNS lookup for tv9090.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 870a446] Update project files
+ 4 files changed, 93 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   be97fcf..870a446  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.64.36.8...
+Fetching domains for 173.245.49.163...
+Fetching domains for 172.67.110.233...
+succeed to fetch domains for 172.64.36.8 from https://site.ip138.com/
+succeed to fetch domains for 172.67.110.233 from https://ipchaxun.com/
+succeed to fetch domains for 173.245.49.163 from https://site.ip138.com/
+域名列表为
+['lao303.com', 'xs.wxtv.cc', 'www.paizipai.top', 'dy1255.com', 'hk2.921219.xyz', 'www.tv9090.com', 'cfip.xxxxxxxx.tk', 'www.dy420.com', 'www.7749tv.com', 'stock.hostmonit.com', 'www.yy4080dy.com', 'www.33mov.com', 'www.93xscc.com', 'www.50zw.com', '158499.com', '6i5.com', 'www.longwangchuanshuo.com', 'mebudsv.114514782.xyz', '778992.com', 'www.k77yy.com', '0550cq.com', '181ge.com', 'www.x52bq.com', 'www.0550cq.com', 'www.heinu.cc', '33yingshi.com', 'www.hnxinlian.org', 'www.7sc.cc', 'www.96dushu.com', 'www.52biqv.com', 'www.11txt.com', 'www.connoisseurtravel.com', 'www.vod12.com', 'www.tinghen.com', 'kytyy.com', 'www.lailai360.com', 'chalaoshi.de', 'www.c333.net', 'www.99wx.cc', 'mmiyy.com', 'www.6i5.com', 'www.bqg789.co', 'www.4148.net', 'nba01.com', 'www.3dck.com', 'www.tvccc.org', 'www.sxyzxh.com', 'www.90dushu.com', 'www.888dyy.cc', 'www.881dy.com', 'www.kanju8.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.heinu.cc...
+Performing DNS lookup for lao303.com...
+Performing DNS lookup for www.888dyy.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,55 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.heinu.cc	canonical name = origin.heinu.cc.
-origin.heinu.cc	canonical name = saas.heinu.cc.
-saas.heinu.cc	canonical name = api.cloudflare.com.
-Name:	api.cloudflare.com
-Address: 104.19.192.29
-Name:	api.cloudflare.com
-Address: 104.19.192.175
-Name:	api.cloudflare.com
-Address: 104.19.192.174
-Name:	api.cloudflare.com
-Address: 104.19.192.177
-Name:	api.cloudflare.com
-Address: 104.19.193.29
-Name:	api.cloudflare.com
-Address: 104.19.192.176
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c0b1
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c0ae
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c11d
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c01d
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c0af
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c0b0
+www.mltrobot.com	canonical name = index1.xxm3u8.top.
+index1.xxm3u8.top	canonical name = proxy.xxxm3u8.top.
+Name:	proxy.xxxm3u8.top
+Address: 172.67.138.66
+Name:	proxy.xxxm3u8.top
+Address: 104.21.8.24
+Name:	proxy.xxxm3u8.top
+Address: 2606:4700:3036::6815:818
+Name:	proxy.xxxm3u8.top
+Address: 2606:4700:3035::ac43:8a42
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-lao303.com	canonical name = laowang-luo.b-cdn.net.
-Name:	laowang-luo.b-cdn.net
-Address: 143.244.50.84
-Name:	laowang-luo.b-cdn.net
-Address: 2400:52e0:1a01::984:1
+Name:	gggggyy.com
+Address: 23.225.148.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.888dyy.cc	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
+Name:	www.tv9090.com
+Address: 208.98.40.80
 
