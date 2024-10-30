@@ -1,29 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.mltrobot.com	canonical name = index1.xxm3u8.top.
-index1.xxm3u8.top	canonical name = proxy.xxxm3u8.top.
-Name:	proxy.xxxm3u8.top
-Address: 172.67.138.66
-Name:	proxy.xxxm3u8.top
-Address: 104.21.8.24
-Name:	proxy.xxxm3u8.top
-Address: 2606:4700:3036::6815:818
-Name:	proxy.xxxm3u8.top
-Address: 2606:4700:3035::ac43:8a42
+** server can't find mtr123.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	gggggyy.com
-Address: 23.225.148.166
+Name:	www.vodbd.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tv9090.com
-Address: 208.98.40.80
+Name:	www.polestar.com
+Address: 104.18.32.95
+Name:	www.polestar.com
+Address: 172.64.155.161
+Name:	www.polestar.com
+Address: 2606:4700:4400::6812:205f
+Name:	www.polestar.com
+Address: 2606:4700:4400::ac40:9ba1
 
