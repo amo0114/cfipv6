@@ -1,25 +1,29 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find tom706.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.sj96.com
+Address: 172.67.177.242
+Name:	www.sj96.com
+Address: 104.21.67.157
+Name:	www.sj96.com
+Address: 2606:4700:3033::ac43:b1f2
+Name:	www.sj96.com
+Address: 2606:4700:3033::6815:439d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.tpyyc.com
-Address: 107.148.242.9
+Name:	zerogaming.org
+Address: 13.248.169.48
+Name:	zerogaming.org
+Address: 76.223.54.146
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.hddolby.com
-Address: 172.67.167.97
-Name:	www.hddolby.com
-Address: 104.21.59.6
-Name:	www.hddolby.com
-Address: 2606:4700:3031::ac43:a761
-Name:	www.hddolby.com
-Address: 2606:4700:3035::6815:3b06
+Name:	www.z2py.com
+Address: 104.247.81.52
 
