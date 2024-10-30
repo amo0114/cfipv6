@@ -2,35 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.85xs.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.70.115
-Name:	ips.993888.xyz
-Address: 104.17.73.250
-Name:	ips.993888.xyz
-Address: 104.17.74.193
+Name:	www.9415hf.com
+Address: 47.244.221.51
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.pianku5.com
-Address: 172.67.154.221
-Name:	www.pianku5.com
-Address: 104.21.6.132
-Name:	www.pianku5.com
-Address: 2606:4700:3030::6815:684
-Name:	www.pianku5.com
-Address: 2606:4700:3034::ac43:9add
+Name:	www.7277tl.com
+Address: 127.0.0.1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	606977.com
-Address: 172.232.25.148
-Name:	606977.com
-Address: 172.232.4.213
-Name:	606977.com
-Address: 172.232.31.180
+Name:	m.boyangjt.com
+Address: 104.16.72.177
+Name:	m.boyangjt.com
+Address: 104.16.104.218
 
