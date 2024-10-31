@@ -2,28 +2,41 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-baxtc.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global8.66666654.xyz.
-Name:	cfcn-b-global8.66666654.xyz
-Address: 104.20.19.232
-Name:	cfcn-b-global8.66666654.xyz
-Address: 104.20.18.132
+m.tvccc.org	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.longwangchuanshuo.net	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 162.159.141.105
-Name:	ips.993888.xyz
-Address: 104.17.70.146
-Name:	ips.993888.xyz
-Address: 104.17.141.110
+www.szxjsj.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.32.14
+Name:	cf.zmdhc.com
+Address: 172.67.58.128
+Name:	cf.zmdhc.com
+Address: 172.67.204.106
+Name:	cf.zmdhc.com
+Address: 172.67.81.109
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find yx.887141.xyz: NXDOMAIN
+Non-authoritative answer:
+www.jsdrtzn.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.32.14
+Name:	cf.zmdhc.com
+Address: 172.67.58.128
+Name:	cf.zmdhc.com
+Address: 172.67.204.106
+Name:	cf.zmdhc.com
+Address: 172.67.81.109
 
