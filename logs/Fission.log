@@ -7712,3 +7712,25 @@ Performing DNS lookup for www.boyangjt.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9cc1162] Update project files
+ 4 files changed, 56 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   87cabea..9cc1162  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 103.21.244.52...
+Fetching domains for 198.41.217.173...
+Fetching domains for 104.23.123.172...
+succeed to fetch domains for 103.21.244.52 from https://dnsdblookup.com/
+succeed to fetch domains for 104.23.123.172 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.217.173 from https://dnsdblookup.com/
+域名列表为
+['cfnode.eu.org', 'www.iios.club', 'www.tpyyc.com', 'www.28et.com', 'yh6.dtku41.xyz', 'www.223ss.com', 'yunyu51.com', 'www.etiaolong.com', 'nba01.com', 'www.91m.cc', 'kkyx.yydsii.com', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yunyu51.com...
+Performing DNS lookup for www.223ss.com...
+Performing DNS lookup for nba01.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

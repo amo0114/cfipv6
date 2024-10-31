@@ -2,23 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yunyu51.com
-Address: 23.227.39.62
-Name:	yunyu51.com
-Address: 45.12.30.249
+baxtc.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global8.66666654.xyz.
+Name:	cfcn-b-global8.66666654.xyz
+Address: 104.20.19.232
+Name:	cfcn-b-global8.66666654.xyz
+Address: 104.20.18.132
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.223ss.com	canonical name = v1.ma92027311.com.
-Name:	v1.ma92027311.com
-Address: 23.224.59.194
+www.longwangchuanshuo.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 162.159.141.105
+Name:	ips.993888.xyz
+Address: 104.17.70.146
+Name:	ips.993888.xyz
+Address: 104.17.141.110
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	nba01.com
-Address: 103.234.54.73
+** server can't find yx.887141.xyz: NXDOMAIN
 
