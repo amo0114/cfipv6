@@ -2,51 +2,21 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	unccelearn.org
-Address: 104.22.49.225
-Name:	unccelearn.org
-Address: 104.22.48.225
-Name:	unccelearn.org
-Address: 172.67.43.154
-Name:	unccelearn.org
-Address: 2606:4700:10::6816:30e1
-Name:	unccelearn.org
-Address: 2606:4700:10::ac43:2b9a
-Name:	unccelearn.org
-Address: 2606:4700:10::6816:31e1
+Name:	www.xpsxs.com
+Address: 149.115.241.60
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.79.139
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.176.41
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.73.123
-Name:	cfip.xxxxxxxx.tk
-Address: 104.24.185.228
-Name:	cfip.xxxxxxxx.tk
-Address: 104.19.78.117
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.179.104
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.245.206
+www.223ss.com	canonical name = v1.ma92027311.com.
+Name:	v1.ma92027311.com
+Address: 23.224.59.194
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.cbcv.cc	canonical name = cbcv.cc.
-cbcv.cc	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
+Name:	www.zzztch.com
+Address: 162.209.149.30
 
