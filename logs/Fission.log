@@ -7809,3 +7809,25 @@ Performing DNS lookup for www.dy420.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 82f8bcd] Update project files
+ 4 files changed, 74 insertions(+), 56 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   f8fb7df..82f8bcd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.8.85...
+Fetching domains for 198.41.216.114...
+Fetching domains for 104.18.0.33...
+succeed to fetch domains for 104.18.8.85 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.216.114 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.0.33 from https://site.ip138.com/
+域名列表为
+['www.721cf.com', 'www.zhizhuxia520.com', 'track.thailandpost.co.th', 'ganpian.com', 'sgaa.sectigo.pp.ua', 'malbar.com', 'www.nsisfans.com', 'www.sec2.com', 'www.wn01.cc', 'thailandpost.co.th', 'my.surf-chiny.com', 'www.30xnse.net', 'www.50zw.co', 'surf-chiny.com', 'www.x7q77.com', 'www.6677am.com', 'u1847e.com', 'www.h2381k.com', 'www.iios.me', 'www.guozhi.org', 'www.888dyy.cc', 'www.ddwhm.com', 'www.xkyy899.com', 'www.u1847e.com', 'www.4gdiy.com', 'www.e0101.com', '57rrf.com', 'www.badfupo.com', 'www.4hu16c.com', 'www.57rrf.com', 'www.sixyin.com', 'www.uu93.com', 'e0101.com', '6677am.com', '721cf.com', 'ct.090227.xyz', 'www.51jion.com', '7.namesilo123.top', 'www.1e5e.com', '231cf.com', '4hudy990.com', 'www.carlsberg.com.hk', 'acuvue.co.id', 'www.4hudy990.com', '4gdiy.com', 'www.iios.club', 'zl.aitrjc.xyz', 'www.xinjuc.com', 'cloudflare.182682.xyz', 'uu93.com', 'secure.numero.ai', 'iios.fun', '29.namesilo123.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for 57rrf.com...
+Performing DNS lookup for www.721cf.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

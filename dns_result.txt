@@ -2,37 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-57rrf.com	canonical name = cdn.c9c9cfebd8.laoyucdn.com.
-Name:	cdn.c9c9cfebd8.laoyucdn.com
-Address: 223.165.12.64
-Name:	cdn.c9c9cfebd8.laoyucdn.com
-Address: 223.165.12.50
-Name:	cdn.c9c9cfebd8.laoyucdn.com
-Address: 223.165.12.52
-Name:	cdn.c9c9cfebd8.laoyucdn.com
-Address: 223.165.12.59
+Name:	www.zzztch.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.721cf.com
-Address: 194.53.53.249
-Name:	www.721cf.com
-Address: 194.53.53.7
+www.yekan360.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
 
