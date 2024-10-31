@@ -7690,3 +7690,25 @@ Performing DNS lookup for www.z2py.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 87cabea] Update project files
+ 4 files changed, 63 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   d6e9726..87cabea  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.104.244...
+Fetching domains for 198.41.220.81...
+Fetching domains for 104.18.95.76...
+succeed to fetch domains for 104.18.95.76 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.104.244 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.220.81 from https://site.ip138.com/
+域名列表为
+['www.0550cq.com', 'www.85xs.cc', '52dvd.cn', 'www.93xscc.com', '606977.com', 'www.rmsxs.com', '0550cq.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.yh9pk.com', 'yx.887141.xyz', 'ikhma.com', 'www.tinghen.com', 'm.0550cq.com', 'www.huanyaad.com', 'nlsdwsz.66666654.xyz', 'www.yzhma.com', 'spca.114514782.xyz', 'www.gzlatin.com', 'www.boyangjt.com', 'www.tvyb02.com', 'www.50zw.org', 'vcd.la', 'www.longwangchuanshuo.com', 'www.92mili.com', 'manhuadb.com', 'www.wenxueyuedu.com', 'www.xxpg888.com', 'www.4gdiy.com', 'www.75xs.cc', 'www.qixiaozhu.com', 'cf-lt.sharecentre.online', 'www.rxjh520.cc', 'www.ddwhm.com', 'www.cocanwelding.com', 'www.nsisfans.com', 'www.x52bq.com', 'yxy176.com', 'www.bkmanhuas.com', 'stock.hostmonit.com', 'www.ikhma.com', 'cfip.xxxxxxxx.tk', 'www.tv9090.com', 'msjh520.com', 'www.jhhtech.com', 'tv9090.com', 'caishenonline.com', 'www.923055.com', 'www.679077.com', 'qiangkouzhao.com', 'www.lvfengsh.com', 'www.paizipai.top', 'www.uu93.com', 'www.kingdicg.com', 'www.tanhuazu.com', 'www.6988tv.com', 'freeyx.cloudflare88.eu.org', 'www.sxyzxh.com', 'www.99wx.cc', 'www.dzy66666.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.sxyzxh.com...
+Performing DNS lookup for stock.hostmonit.com...
+Performing DNS lookup for www.boyangjt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
