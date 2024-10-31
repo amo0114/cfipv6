@@ -2,41 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.zhrwx.com	canonical name = dns.dnsproxy.top.
-Name:	dns.dnsproxy.top
-Address: 172.67.212.135
-Name:	dns.dnsproxy.top
-Address: 104.21.83.43
-Name:	dns.dnsproxy.top
-Address: 2606:4700:3033::6815:532b
-Name:	dns.dnsproxy.top
-Address: 2606:4700:3035::ac43:d487
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hxsy888.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.182.136
-Name:	cf.zmdhc.com
-Address: 172.67.176.6
-Name:	cf.zmdhc.com
-Address: 172.67.73.42
-Name:	cf.zmdhc.com
-Address: 172.67.100.3
+57rrf.com	canonical name = cdn.c9c9cfebd8.laoyucdn.com.
+Name:	cdn.c9c9cfebd8.laoyucdn.com
+Address: 223.165.12.64
+Name:	cdn.c9c9cfebd8.laoyucdn.com
+Address: 223.165.12.50
+Name:	cdn.c9c9cfebd8.laoyucdn.com
+Address: 223.165.12.52
+Name:	cdn.c9c9cfebd8.laoyucdn.com
+Address: 223.165.12.59
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.dy420.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
+Name:	www.721cf.com
+Address: 194.53.53.249
+Name:	www.721cf.com
+Address: 194.53.53.7
 
