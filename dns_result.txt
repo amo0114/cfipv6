@@ -1,22 +1,23 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.30hu.com
-Address: 45.204.113.23
+** server can't find www.paizipai.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.mp4vod.com	canonical name = m.mp4vod.com.cdn.cloudflare.net.
-Name:	m.mp4vod.com.cdn.cloudflare.net
-Address: 172.67.180.104
-Name:	m.mp4vod.com.cdn.cloudflare.net
-Address: 104.21.31.228
+www.ttxyy.com	canonical name = traff-3.hugedomains.com.
+traff-3.hugedomains.com	canonical name = hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com.
+Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
+Address: 3.18.7.81
+Name:	hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
+Address: 3.19.116.195
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 91m.cc: NXDOMAIN
+Non-authoritative answer:
+Name:	bdx100.com
+Address: 162.209.175.122
 

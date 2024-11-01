@@ -7967,3 +7967,25 @@ Performing DNS lookup for jupindai.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7ab3146] Update project files
+ 4 files changed, 53 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   a86a42f..7ab3146  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.24.211.126...
+Fetching domains for 104.19.9.168...
+Fetching domains for 104.24.161.24...
+succeed to fetch domains for 104.19.9.168 from https://dnsdblookup.com/
+succeed to fetch domains for 104.24.161.24 from https://ipchaxun.com/
+succeed to fetch domains for 104.24.211.126 from https://ipchaxun.com/
+域名列表为
+['www.linnuozs.com', 'www.kuaimao.cc', 'www.4j4j.cn', 'tv.ci', 'www.ttxyy.com', 'www.zybird.com', 'qzfez.icu', '91m.cc', 'www.btdy.tv', 'm.mp4vod.com', 'pictureslook.com', 'www.woseily.com', 'www.wnacg1.org', 'wnacg.xyz', 'yzckp.icu', 'www.15dy.com', 'www.30hu.com', 'whukj.icu', 'an3.cc', 'zisis.icu', 'downapp.tslcdz.com', '60kan.com', 'qcdmb.icu', 'wnacg1.com', 'pxtzy.icu', 'www.fr256.com', 'qnphd.icu', 'www.75uw.com', 'm.niuerzs.com', 'zj77.mlaxnlx.cn', 'www.cocanwelding.com', 'tdwjc.icu']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.30hu.com...
+Performing DNS lookup for m.mp4vod.com...
+Performing DNS lookup for 91m.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
