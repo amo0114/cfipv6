@@ -2,37 +2,40 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	lovekbj.com
-Address: 74.63.241.23
+Name:	jessica.ns.cloudflare.com
+Address: 172.64.32.171
+Name:	jessica.ns.cloudflare.com
+Address: 108.162.192.171
+Name:	jessica.ns.cloudflare.com
+Address: 173.245.58.171
+Name:	jessica.ns.cloudflare.com
+Address: 2a06:98c1:50::ac40:20ab
+Name:	jessica.ns.cloudflare.com
+Address: 2803:f800:50::6ca2:c0ab
+Name:	jessica.ns.cloudflare.com
+Address: 2606:4700:50::adf5:3aab
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+Name:	gzzwrh.com
+Address: 208.98.40.16
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.cbcv.cc	canonical name = cbcv.cc.
-cbcv.cc	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
+Name:	domov.sme.sk
+Address: 104.22.12.230
+Name:	domov.sme.sk
+Address: 172.67.22.81
+Name:	domov.sme.sk
+Address: 104.22.13.230
+Name:	domov.sme.sk
+Address: 2606:4700:10::ac43:1651
+Name:	domov.sme.sk
+Address: 2606:4700:10::6816:de6
+Name:	domov.sme.sk
+Address: 2606:4700:10::6816:ce6
 

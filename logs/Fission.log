@@ -7902,3 +7902,24 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 11c6940] Update project files
+ 4 files changed, 61 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   f0fc2bf..11c6940  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.40.110...
+Fetching domains for 104.19.35.189...
+Fetching domains for 104.17.98.195...
+succeed to fetch domains for 104.19.35.189 from https://site.ip138.com/
+succeed to fetch domains for 104.17.98.195 from https://site.ip138.com/
+succeed to fetch domains for 104.18.40.110 from https://dnsdblookup.com/
+域名列表为
+['www.e4dai.com', 'www.zzztch.com', 'www.nsisfans.com', 'zopim.com', 'www.cocanwelding.com', 'www.bc8bc2.com', '75uw.com', 'www.whpaiger.com', 'www.avetta.com', 'avtb678.com', 'www.insideselfstorage.com', 'www.vistaprint.com', 'jhpcza.66666654.xyz', 'www.twindiode.com', 'www.lovekbj.com', 'ey-vod.pl', 'www.stockonchain.com', 'lovekbj.com', 'www.nxyxzl.com', 'www.kanunu2.com', 'www.kbss888.com', 'www.ddwhm.com', 'www.bm158.com', 'lujj8.top', 'smzdk1.lv', 'zendesk.zopim.com', 'www.yncareer.com', 'wonder.cx', '158499.com', 'pro-football-reference.com', 'insideselfstorage.com', 'www.yanqin8.com', 'sgp1.wonder.cx', 'www.smzdk1.lv', 'papapatv6.com', 'www.longwangchuanshuo.com', 'lifestyle.monogram.com', 'kirinnetworks.com', 'www.kirinnetworks.com', 'www.lyzdzy.com', 'www.pro-football-reference.com', 'www.iios.club', 'myschoolaccount.com', 'appliances.monogram.com', 'www.rtck168.com', 'rtck168.com', 'workgreat11.live', 'www.monogram.com', 'baxtc.66666654.xyz', 'www.crvips.xyz', 'vistaprint.com', 'www.dmzg-cn.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'yx.sulink.one', 'old.workgreat11.live', 'www.nba01.com', 'www.lujj8.top', '479b.com', 'yh7.dtku41.xyz', 'ddwhm.com', '166en.com', 'monogram.com', 'www.1a1v.com', 'www.hnhcbw.com', '778992.com', 'acus.cloudflarest.link', 'www.highwirepress.com', 'www.pubghot.com', 'www.223ss.com', 'www.456gg.com', 'www.xworldadmin.com', 'www.lolicon97.cf', 'kz22.cc', 'www.166en.com', 'www.kunzedu.com', 'nengtalk.com', 'www.xiuluo942.com', 'www.cbcv.cc', 'www.avtb678.com', 'www.luhanxing.cn', 'bestcf.onecf.eu.org', 'www.diariocritico.com', 'www.yizidy.com', 'www.zddzd.top', 'pubghot.com', 'www.jjtyss.com', 'pubg.pubghot.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for lovekbj.com...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for www.cbcv.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
