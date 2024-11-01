@@ -7945,3 +7945,25 @@ Performing DNS lookup for domov.sme.sk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a86a42f] Update project files
+ 4 files changed, 59 insertions(+), 53 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   9ff176e..a86a42f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 108.162.193.101...
+Fetching domains for 103.21.244.78...
+Fetching domains for 173.245.58.39...
+succeed to fetch domains for 103.21.244.78 from https://ipchaxun.com/
+succeed to fetch domains for 108.162.193.101 from https://ipchaxun.com/
+succeed to fetch domains for 173.245.58.39 from https://ipchaxun.com/
+域名列表为
+['www.zongcaixs.com', 'ist.cdn.domaincdn.cn', 'www.dancuo.com', 'andy.ns.cloudflare.com', 'tffvfsz2.sh1suv18n5afjvszbwnf.top', 'v186.cc', 'jupindai.com', 'www.fftv8.com', 'w414.cc', 'sp.rweek.top', 'www.xudu.org', 'ddosgj.vip', 'blog.xn--6kry68b52qmna.com', 'soraneko.cn', 'gchsd85.knbhi8wqh2ohkwxf52v4.top', 'www.iios.club', 'www.99wx.cc', 'ke168.cc', 'www.soraneko.cn', 'vwlz60.lwmo01083lh51jm1l9zt.top', 'www.xkstxt.com', 'cdn.soraneko.cn', 'hdmoli.com', 'moxuan0.com', 't141.cc', 'cdn.domaincdn.cn', '114664.jupindai.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for v186.cc...
+Performing DNS lookup for gchsd85.knbhi8wqh2ohkwxf52v4.top...
+Performing DNS lookup for jupindai.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

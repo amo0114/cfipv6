@@ -2,27 +2,21 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	v186.cc
-Address: 143.244.50.83
-Name:	v186.cc
-Address: 2400:52e0:1a01::907:1
+Name:	www.30hu.com
+Address: 45.204.113.23
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-gchsd85.knbhi8wqh2ohkwxf52v4.top	canonical name = kele-zhu.b-cdn.net.
-Name:	kele-zhu.b-cdn.net
-Address: 143.244.49.180
-Name:	kele-zhu.b-cdn.net
-Address: 2400:52e0:1a01::900:1
+m.mp4vod.com	canonical name = m.mp4vod.com.cdn.cloudflare.net.
+Name:	m.mp4vod.com.cdn.cloudflare.net
+Address: 172.67.180.104
+Name:	m.mp4vod.com.cdn.cloudflare.net
+Address: 104.21.31.228
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	jupindai.com
-Address: 154.12.178.170
-Name:	jupindai.com
-Address: 2603:1040:400::25d
+** server can't find 91m.cc: NXDOMAIN
 
