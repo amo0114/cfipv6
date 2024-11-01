@@ -8070,3 +8070,25 @@ Performing DNS lookup for www.niuniu9.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 32f91e0] Update project files
+ 4 files changed, 66 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   29cd243..32f91e0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.3.253...
+Fetching domains for 104.24.2.188...
+Fetching domains for 172.67.8.122...
+succeed to fetch domains for 104.24.2.188 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.8.122 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.3.253 from https://ipchaxun.com/
+域名列表为
+['www.yingshixiaoshuo.com', 'bk.jdkg.fun', 'www.gzgafk.com', '923055.com', 'www.b7yy.cc', 'www.yiqianhg.com', 'www.606977.com', '4kporn.xxx', 'www.meifuchem.com', 'cfip.xxxxxxxx.tk', 'www.ydxs.cc', 'www.jingshuai888.com', 'www.manhuadb.com', 'www.lzhdsn.com', '0550cq.com', 'yx.887141.xyz', 'www.xworldadmin.com', 'www.zzkdhb.com', 'cfcncm.marisalnc.com', 'www.6i5.com', 'www.hxsy888.com', 'www.baisuishu.com', 'zi0.cc', 'www.gzcfmy.com', 'www.zongcaixs.cc', 'www.cdjyhm.com', 'www.0550cq.com', 'www.dgytlt.com', 'm.gangsiwang.org', 'www.bjfqmj.com', 'cf1.492745.xyz', 'www.jsmx999.com', 'www.266958.com', 'www.4pcc.com', 'm.tvfff.com', 'www.szaitai.com', 'www.kmbenma.com', 'www.17kty.com', 'www.sp6080.com', '999696.xyz', 'www.ayzjj.cn', 'cdn.didi8.com', 'www.shsxjzzs.com', 'www.weizhijc.com', 'vod.kxgdyw.com', 'www.qire88.com', 'www.zhongyunyang.com', 'tjxfs.com', 'www.kk554.com', 'kz22.cc', 'www.93xscc.com', 'ag.hg2096.com', 'm.0550cq.com', 'www.tv9090.com', 'www.jsdrtzn.com', 'www.biqune.com', 'www.imeiju.net', '606977.com', 'www.hosemicon.com', 'www.4kporn.xxx', 'www.28dushu.com', 'm.jingshuai888.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yingshixiaoshuo.com...
+Performing DNS lookup for www.jsmx999.com...
+Performing DNS lookup for www.manhuadb.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

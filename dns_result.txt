@@ -2,31 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yingshixiaoshuo.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.21.68.158
-Name:	ips.993888.xyz
-Address: 104.25.246.70
-Name:	ips.993888.xyz
-Address: 104.21.92.88
+Name:	dslextreme.com
+Address: 104.17.156.99
+Name:	dslextreme.com
+Address: 104.17.155.99
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.jsmx999.com
-Address: 65.108.205.61
+Name:	enderman.ch
+Address: 172.67.144.187
+Name:	enderman.ch
+Address: 104.21.28.75
+Name:	enderman.ch
+Address: 2606:4700:3031::6815:1c4b
+Name:	enderman.ch
+Address: 2606:4700:3032::ac43:90bb
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.manhuadb.com
-Address: 104.21.46.121
-Name:	www.manhuadb.com
-Address: 172.67.138.140
-Name:	www.manhuadb.com
-Address: 2606:4700:3037::6815:2e79
-Name:	www.manhuadb.com
-Address: 2606:4700:3032::ac43:8a8c
+Name:	www.nanjingkq.com
+Address: 104.21.28.75
+Name:	www.nanjingkq.com
+Address: 172.67.144.187
+Name:	www.nanjingkq.com
+Address: 2606:4700:3032::ac43:90bb
+Name:	www.nanjingkq.com
+Address: 2606:4700:3031::6815:1c4b
 
