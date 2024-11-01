@@ -2,40 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jessica.ns.cloudflare.com
-Address: 172.64.32.171
-Name:	jessica.ns.cloudflare.com
-Address: 108.162.192.171
-Name:	jessica.ns.cloudflare.com
-Address: 173.245.58.171
-Name:	jessica.ns.cloudflare.com
-Address: 2a06:98c1:50::ac40:20ab
-Name:	jessica.ns.cloudflare.com
-Address: 2803:f800:50::6ca2:c0ab
-Name:	jessica.ns.cloudflare.com
-Address: 2606:4700:50::adf5:3aab
+Name:	v186.cc
+Address: 143.244.50.83
+Name:	v186.cc
+Address: 2400:52e0:1a01::907:1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	gzzwrh.com
-Address: 208.98.40.16
+gchsd85.knbhi8wqh2ohkwxf52v4.top	canonical name = kele-zhu.b-cdn.net.
+Name:	kele-zhu.b-cdn.net
+Address: 143.244.49.180
+Name:	kele-zhu.b-cdn.net
+Address: 2400:52e0:1a01::900:1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	domov.sme.sk
-Address: 104.22.12.230
-Name:	domov.sme.sk
-Address: 172.67.22.81
-Name:	domov.sme.sk
-Address: 104.22.13.230
-Name:	domov.sme.sk
-Address: 2606:4700:10::ac43:1651
-Name:	domov.sme.sk
-Address: 2606:4700:10::6816:de6
-Name:	domov.sme.sk
-Address: 2606:4700:10::6816:ce6
+Name:	jupindai.com
+Address: 154.12.178.170
+Name:	jupindai.com
+Address: 2603:1040:400::25d
 
