@@ -2,34 +2,42 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	dslextreme.com
-Address: 104.17.156.99
-Name:	dslextreme.com
-Address: 104.17.155.99
+www.ub888.cc	canonical name = bvod25.95mo.xyz.
+Name:	bvod25.95mo.xyz
+Address: 172.67.209.173
+Name:	bvod25.95mo.xyz
+Address: 104.21.53.69
+Name:	bvod25.95mo.xyz
+Address: 2606:4700:3034::6815:3545
+Name:	bvod25.95mo.xyz
+Address: 2606:4700:3035::ac43:d1ad
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	enderman.ch
-Address: 172.67.144.187
-Name:	enderman.ch
-Address: 104.21.28.75
-Name:	enderman.ch
-Address: 2606:4700:3031::6815:1c4b
-Name:	enderman.ch
-Address: 2606:4700:3032::ac43:90bb
+risk.concentrix.com	canonical name = risk.concentrix.com.cdn.cloudflare.net.
+Name:	risk.concentrix.com.cdn.cloudflare.net
+Address: 172.64.147.172
+Name:	risk.concentrix.com.cdn.cloudflare.net
+Address: 104.18.40.84
+Name:	risk.concentrix.com.cdn.cloudflare.net
+Address: 2606:4700:4400::ac40:93ac
+Name:	risk.concentrix.com.cdn.cloudflare.net
+Address: 2606:4700:4400::6812:2854
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.nanjingkq.com
-Address: 104.21.28.75
-Name:	www.nanjingkq.com
-Address: 172.67.144.187
-Name:	www.nanjingkq.com
-Address: 2606:4700:3032::ac43:90bb
-Name:	www.nanjingkq.com
-Address: 2606:4700:3031::6815:1c4b
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
