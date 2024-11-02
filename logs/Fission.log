@@ -8245,3 +8245,25 @@ Performing DNS lookup for www.qire88.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8e1027c] Update project files
+ 4 files changed, 46 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (91%)
+To github.com:amo0114/cfipv6.git
+   d8981ff..8e1027c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.233.132...
+Fetching domains for 104.18.27.11...
+Fetching domains for 104.24.85.101...
+succeed to fetch domains for 104.24.85.101 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.27.11 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.233.132 from https://dnsdblookup.com/
+域名列表为
+['kt5000.com', 'www.yh9pk.com', 'customtruck.com', 'baxtc.66666654.xyz', '6234da.com', 'www.lxdytt.net', '5345er.com', 'www.gtqysw.com', 'jpadwinfs.114514782.xyz', 'www.auctionsniper.com', 'www.ddwhm.com', 'hubturn.info', 'v.pkdytt.com', 'www.tx58tl.com', 'www.85xs.cc', 'm.gtqdyy.com', 'www.btbdys.com', 'puffsme.com', 'www.bkmanhuas.com', 'www.930my.com', 'www.rxjh520.cc', 'yihouhiway.com', 'www.xxootl.com', 'www.3234li.com', 'www.4kmh.cc', 'www.m6y6.com', 'www.ma-tong.com', 'www.hhyy028.com', 'www.zlcq520.com', 'www.xinyi176.com', '28tta.com', 'www.6234da.com', 'www.3234ka.com', 'www.bgdvd.cc', 'm.gtqdyw.com', 'www.75uw.com', 'www.chinadangjian.org', 'www.zddzd.top', 'www.cu90.com', 'www.90qr.com', 'www.tl123123.com', 'www.kbss888.com', 'www.993my.com', 'www.6xr.com', 'nlsdwsz.66666654.xyz', 'www.wubei520.com', 'tofucloud.net', 'freeyx.cloudflare88.eu.org', 'www.28tta.com', 'www.tockt.com', '7.namesilo123.top', 'www.customtruck.com', '818221.com', 'www.pk299.com', 'www.niuniu9.com', 'www.5345er.com', 'www.88wwk.com', 'www.88viptl.com', 'yx.887141.xyz', 'www.jg666.top', 'm.lxdytt.net', '789ys.com', 'www.xkx999.com', 'www.4huq15.com', 'www.5522tl.com', 'pk299.com', 'www.pkdytt.com', 'www.tlbb888.com', 'www.cx888my.com', 'www.dzy66666.com', 'budgetair.fr', 'www.gtqdyw.com', 'www.gtqdyy.com', 'www.flir.cn', 'yxy176.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.gtqdyw.com...
+Performing DNS lookup for v.pkdytt.com...
+Performing DNS lookup for www.tockt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
