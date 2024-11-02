@@ -8201,3 +8201,25 @@ Performing DNS lookup for doc.ng777.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 247f46d] Update project files
+ 4 files changed, 68 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   f26ad7c..247f46d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.232.163...
+Fetching domains for 104.22.71.214...
+Fetching domains for 104.21.232.132...
+succeed to fetch domains for 104.21.232.132 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.71.214 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.232.163 from https://ipchaxun.com/
+域名列表为
+['www.whpaiger.com', 'zzztch.com', 'ngcn.net', 'www.nb6080.com', 'www.penglecheng.com', 'www.zdqx.com', 'www.55xs.cc', 'www.c333.net', 'www.99wxw.cc', 'www.52dgm.cn', 'www.lyzdzy.com', 'www.91m.cc', 'www.93xscc.com', 'default.cfnode.eu.org', 'diagpt.com', '28et.com', 'lyzdzy.com', 'dj5157.com', 'www.yjys05.com', 'www.czcdc.com', 'www.dqhedu.cn', 'www.dj5157.com', 'www.xkceo.com', 'cg.44xf.cc', 'fldsubgigtujuy.76898102.xyz', 'www.cocanwelding.com', 'dsxys.com', 'www.tpyyc.com', 'vip.quan-tum.club', 'www.85xs.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for default.cfnode.eu.org...
+Performing DNS lookup for dsxys.com...
+Performing DNS lookup for www.c333.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

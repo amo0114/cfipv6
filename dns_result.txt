@@ -2,34 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-default.cfnode.eu.org	canonical name = cname.xirancdn.us.
-Name:	cname.xirancdn.us
-Address: 104.21.75.196
-Name:	cname.xirancdn.us
-Address: 172.67.180.230
-Name:	cname.xirancdn.us
-Address: 2606:4700:3036::ac43:b4e6
-Name:	cname.xirancdn.us
-Address: 2606:4700:3035::6815:4bc4
+m.zhiqihuo.org	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
+www.aiquyy.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.c333.net	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+www.qire88.com	canonical name = www.qire88.com.cdn.cloudflare.net.
+Name:	www.qire88.com.cdn.cloudflare.net
+Address: 45.130.146.228
 
