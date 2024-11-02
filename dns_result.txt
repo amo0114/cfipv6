@@ -1,25 +1,35 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find fa37.vip: NXDOMAIN
+Non-authoritative answer:
+default.cfnode.eu.org	canonical name = cname.xirancdn.us.
+Name:	cname.xirancdn.us
+Address: 104.21.75.196
+Name:	cname.xirancdn.us
+Address: 172.67.180.230
+Name:	cname.xirancdn.us
+Address: 2606:4700:3036::ac43:b4e6
+Name:	cname.xirancdn.us
+Address: 2606:4700:3035::6815:4bc4
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ttt99.cn
-Address: 38.147.173.123
+Name:	dsxys.com
+Address: 192.64.119.232
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	doc.ng777.net
-Address: 104.21.4.3
-Name:	doc.ng777.net
-Address: 172.67.131.105
-Name:	doc.ng777.net
-Address: 2606:4700:3030::ac43:8369
-Name:	doc.ng777.net
-Address: 2606:4700:3035::6815:403
+www.c333.net	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 

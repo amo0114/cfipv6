@@ -8179,3 +8179,25 @@ Performing DNS lookup for www.6988tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f26ad7c] Update project files
+ 4 files changed, 54 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   ddb3a4e..f26ad7c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.24.30.136...
+Fetching domains for 104.20.224.70...
+Fetching domains for 104.21.4.3...
+succeed to fetch domains for 104.24.30.136 from https://ipchaxun.com/
+succeed to fetch domains for 104.20.224.70 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.4.3 from https://site.ip138.com/
+域名列表为
+['www.xuanqishi.cc', 'voice111.com', 'www.ppxdm.com', 'www.muchi-muchi.top', 'absenthorse.com', '74us.com', 'www.93xscc.com', 'www.yanhsm.cn', 'www.rijiyize.com', '7871888.com', 'www.blzx126xz.com', 'www.douluodalu1.com', 'www.doupobook.cc', 'wap.muchi-muchi.top', 'www.3838138.com', 'www.zzdh.run', 'reg.ng777.net', 'jogai.com', 'www.99wxw.cc', 'ttt99.cn', 'www.longwangchuanshuo.com', 'as567.vip', 'www.qindixs.com', 'www.daomubiji.cc', 'www.snqidian.com', 'www.yyysvs170.xyz', 'www.fa37.vip', '985105.com', 'snqidian.com', 'doc.ng777.net', 'm.j6qhhe4.top', 'www.whxws.net', 'sfdzkj.net', '66story.com', 'www.yncareer.com', 'm.muchi-muchi.top', '5729y.com', 'www.kanunu2.com', '3838138.com', 'www.jogai.com', '13zh.com', 'www.hhyy028.com', 'www.7783.me', 'yncareer.com', 'www.13zh.com', 'www.dingdingdm.com', 'txydd.com', '7983726.com', 'www.lvsenlin.cc', 'www.ysfate.com', 'qdxqgc.com', 'www.ttt99.cn', 'kalpapharmaceuticals.com', 'ng777.net', '0714yxw.com', 'www.dsccfund.com', '5g.snqidian.com', 'mvwq5t5sftwhvae1ipwkt2.91mts6.buzz', 'hmvip255.com', 'www.qdtsdp.com', 'www.xinyi176.com', 'node.super-node.online', 'ysfate.com', 'zzdh.run', 'www.rencaipinghu.com', 'www.qzshkw.cn', 'www.luwangyangrong.com', 'msjh520.com', 'fa37.vip', 'www.55xs.cc', 'www.5729y.com', 'nudemilfwomen.com', 'www.66story.com', 'www.xwsxs.com', 'my.adm1.pp.ua', 'xxxclip.net', 'www.qindi.net', 'www.nitianxieshen.com', 'yyysvs170.xyz', 'www.hmvip255.com', 'agent.ng777.net', '3g.muchi-muchi.top', 'www.74us.com', 'www.5522tl.com', 'www.85xscc.com', 'login.ng777.net', 'www.xiuluo942.com', 'm.hfyzc.com', 'www.85xs.cc', 'www.77zw.cc', 'www.xinaiqu.com', 'www.longwangchuanshuo.net', 'www.wenxueyuedu.com', 'www.jcixjrv.cn', '69x1848.xyz', 'www.zongcaiwx.com', 'dsccfund.com', 'ppxdm.com', 'www.britishcycling.org.uk', 'www.zongcaixs.com', 'www.99wx.cc', 'www.hermitbasin.com', 'www.nitianzw.com', '7783.me']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for fa37.vip...
+Performing DNS lookup for ttt99.cn...
+Performing DNS lookup for doc.ng777.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
