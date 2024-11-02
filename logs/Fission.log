@@ -8136,3 +8136,25 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cb06daa] Update project files
+ 4 files changed, 52 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   ec356d8..cb06daa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.51.46...
+Fetching domains for 104.27.79.37...
+Fetching domains for 104.18.117.194...
+succeed to fetch domains for 104.18.117.194 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.51.46 from https://ipchaxun.com/
+succeed to fetch domains for 104.27.79.37 from https://site.ip138.com/
+域名列表为
+['m.niuerzs.com', 'www.3600kan.com', 'www.51jion.com', '75uw.com', 'cdn.didi8.com', 'www.whpaiger.com', 'www.dududy.com', 'jpvsavhyu.76898102.xyz', 'www.cocanwelding.com', 'www.nxyxzl.com', 'www.70ts.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.iios.me', 'm.luwangyangrong.com', 'www.50zw.com', 'usshsaba.114514782.xyz', 'www.zzztch.com', 'www.2tv.tv', 'www.cfhuagong.com', 'jpaa.sectigo.pp.ua', 'www.lyzdzy.com', 'fcww37.com', 'www.9527ph.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.dududy.com...
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for www.9527ph.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
