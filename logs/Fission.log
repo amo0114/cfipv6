@@ -8223,3 +8223,25 @@ Performing DNS lookup for www.c333.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d8981ff] Update project files
+ 4 files changed, 69 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   247f46d..d8981ff  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.178.156...
+Fetching domains for 141.101.113.146...
+Fetching domains for 104.17.229.228...
+succeed to fetch domains for 104.18.178.156 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.229.228 from https://site.ip138.com/
+succeed to fetch domains for 141.101.113.146 from https://ipchaxun.com/
+域名列表为
+['50zw.org', 'www.66se14.com', 'www.tv9090.com', 'www.qire88.com', 'www.2499kp.com', 'www.163my.com', '7sc.cc', 'www.3dck.com', 'tv9090.com', 'www.6i5.com', 'www.qdxcj.com', 'm.tvccc.org', 'www.xkx999.com', 'www.52dyk.com', 'www.hhyy028.com', 'www.tuozhan22.com', 'www.hjtcare.com', 'www.tvccc.org', 'www.zzgszg.com', 'www.x52bq.com', 'www.ddaculture.com', 'www.qixiaozhu.com', 'www.lvfengsh.com', 'www.gzlatin.com', 'www.lijunys.com', 'www.paizipai.top', 'www.hg0389.com', 'fa1.fun', 'qiangkouzhao.com', 'www.0550cq.com', 'www.gcjt119.com', 'www.lnudz.com', 'duihuanzhipiao.com', 'www.630book.com', 'm.0550cq.com', 'www.huanyaad.com', 'auto.ccccdn.tk', 'gongrezhan.com', 'www.fnyy.net', 'www.t083.com', 'www.kbss888.com', 'www.bqg789.co', 'www.zshjba.com', 'www.baiitv.com', 'www.yanqin9.cc', 'www.lewen5.com', 'www.sxyzxh.com', 'www.ylsbzs.com', 'm.zhiqihuo.org', 'www.tockt.com', 'www.aiquyy.com', 'www.sglrjc.com', 'www.90dushu.com', 'www.sinopharm-gjyl.com', 'www.bfb3.com', 'www.luldy.com', 'm.tvfff.com', 'www.sf123.mobi', 'www.wubei520.com', 'www.xiuluo942.com', '923055.com', 'www.c333.net', 'www.kanju8.com', 'www.33mov.com', 'www.zgjmw.net', 'www.winstar.net.cn', 'www.5522tl.com', 'www.77ty.com', 'www.tinghen.com', 'www.letaoke.cn', 'smdyy.cc', 'www.chongxinpet.com', 'xnarmb.76898102.xyz', 'www.woaiqi.com', 'archives.vip', 'www.kingdicg.com', 'www.zjgamy.com', 'www.50zw.com', 'm.bqg789.co', 'www.bj-jq.com', 'www.66se17.com', '33yingshi.com', 'www.boyangjt.com', 'www.kailida.net', '606977.com', 'www.dy420.com', 'www.ys900.com', 'www.whpaiger.com', 'www.tuozhan021.com', '0550cq.com', 'www.93xscc.com', 'www.xiuluo520.com', 'www.pianku5.me', 'www.bjxfqc.net', 'www.881dy.com', 'www.quanben360.com', 'manhuadb.com', 'www.lailai360.com', '1717tv.com', 'www.jsmx999.com', 'zi0.cc', 'www.btbdys.com', 'www.cx888my.com', 'www.jjtyss.com', 'cf.fovi.tk', 'www.17cg7.co', 'www.jg666.top', 'www.6296pk.com', 'xs.wxtv.cc', 'cf-lt.sharecentre.online', 'mingkansy.com', 'www.17cg8.co', 'www.yjeky.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.zhiqihuo.org...
+Performing DNS lookup for www.aiquyy.com...
+Performing DNS lookup for www.qire88.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
