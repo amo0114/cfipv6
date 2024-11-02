@@ -2,34 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-pan.axxpan.com	canonical name = pan.axxpan.com.cdn.cloudflare.net.
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 104.21.49.104
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 172.67.189.189
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:bdbd
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 2606:4700:3035::6815:3168
+www.3dck.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xworldadmin.com
-Address: 209.50.56.127
+Name:	www.xinyi176.com
+Address: 103.27.178.193
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.90dushu.com	canonical name = back.52biqv.com.
-Name:	back.52biqv.com
-Address: 104.21.53.154
-Name:	back.52biqv.com
-Address: 172.67.214.157
-Name:	back.52biqv.com
-Address: 2606:4700:3034::ac43:d69d
-Name:	back.52biqv.com
-Address: 2606:4700:3032::6815:359a
+** server can't find www.dzy66666.com: NXDOMAIN
 
