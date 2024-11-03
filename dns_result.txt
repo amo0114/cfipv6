@@ -2,25 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.3dck.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
+Name:	cdn.teambr.live
+Address: 104.26.9.231
+Name:	cdn.teambr.live
+Address: 172.67.70.126
+Name:	cdn.teambr.live
+Address: 104.26.8.231
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xinyi176.com
-Address: 103.27.178.193
+Name:	localnews.imedd.org
+Address: 172.67.70.126
+Name:	localnews.imedd.org
+Address: 104.26.9.231
+Name:	localnews.imedd.org
+Address: 104.26.8.231
+Name:	localnews.imedd.org
+Address: 2606:4700:20::681a:8e7
+Name:	localnews.imedd.org
+Address: 2606:4700:20::681a:9e7
+Name:	localnews.imedd.org
+Address: 2606:4700:20::ac43:467e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.dzy66666.com: NXDOMAIN
+Non-authoritative answer:
+www.77ty.com	canonical name = 103top.delivery-cf-103.sbs.
+Name:	103top.delivery-cf-103.sbs
+Address: 104.237.157.185
+Name:	103top.delivery-cf-103.sbs
+Address: 173.255.219.146
 
