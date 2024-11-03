@@ -1,25 +1,42 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.tuozhan021.com: NXDOMAIN
+Non-authoritative answer:
+www.cx888my.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.80yy.org	canonical name = ccc.seogg.com.
-Name:	ccc.seogg.com
-Address: 172.67.201.211
-Name:	ccc.seogg.com
-Address: 104.21.22.14
-Name:	ccc.seogg.com
-Address: 2606:4700:3033::ac43:c9d3
-Name:	ccc.seogg.com
-Address: 2606:4700:3035::6815:160e
+www.5522tl.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find pay888.xyz: No answer
+www.cu90.com	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 104.21.15.245
+Name:	cf.host106.america96.com
+Address: 172.67.165.85
+Name:	cf.host106.america96.com
+Address: 2606:4700:3037::6815:ff5
+Name:	cf.host106.america96.com
+Address: 2606:4700:3036::ac43:a555
 
