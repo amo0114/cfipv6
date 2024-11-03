@@ -8333,3 +8333,25 @@ Performing DNS lookup for www.dzy66666.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 855b8a9] Update project files
+ 4 files changed, 70 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   dbc33ef..855b8a9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.9.231...
+Fetching domains for 104.17.230.163...
+Fetching domains for 172.67.159.170...
+succeed to fetch domains for 104.17.230.163 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.159.170 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.9.231 from https://site.ip138.com/
+域名列表为
+['www.performanceinsiders.com', 'thejazzcafelondon.com', 'www.shsxjzzs.com', 'k3pgssc.top', 'kz22.cc', 'm.niuerzs.com', 'www.4148.net', 'www.yh9pk.com', 'xx992.com', 'uptest.auber-cdn.com', 'www.nanjingnongjiale.com', 'www.wn05.cc', 'jiuse883.com', 'www.77ty.com', 'www.irishcentral.com', 'tcp-link.com', 'www.gamems.com', 'www.1366000.com', '966000.com', 'www.web120.org', 'www.xinpian8.com', 'www.anluyg.net', 'lalafo.kg', 'speed.marisalnc.com', 'zf6ke6tfwe.cc', 'www.iios.club', 'yundunwawablogcdn1yd.wawacm.com', 'cdn.teambr.live', 'feixiaohaozh.info', 'www.0550cq.com', 'www.ldsvip81.cc', 'www.v2raz.vip', 'crcscan.com', 'forum.imedd.org', 'menmaza.76898102.xyz', 'www.qumiyun.com', 'api.leo.moe', 'bac7746.com', 'www.ai2moe.org', '33005.com', 'm.k3pgssc.top', 'www.lvhuisb.com', '422665.com', 'www.wn01.cc', '6669315.com', '3g.k3pgssc.top', 'www.yiqianhg.com', 'www.93xscc.com', 'youhao.tcp-link.com', 'university24k.com', 'suihua.com.tcp-link.com', 'www.zhongyunyang.com', 'wap.k3pgssc.top', 'www.jingshuai888.com', 'www.966000.com', 'www.kbss888.com', '1.gushusen.link', 'www.tinghen.com', 'wap.cddh63p.top', 'www.newpenn.com', 'localnews.imedd.org', 'www.bm158.com', 'www.22dts.com', 'xyzjh.com', 'www.lingsuipeiyu.com', 'www.17kty.com', 'superapis.app', 'arbcap.com', 'procomp.ba', 'jj.ippjiekou.com', 'lab.imedd.org', 'ldsvip81.cc', 'www.szxjsj.com', 'cddh63p.top', 'www.3dck.com', 'www.66334.com', 'www.jiuse883.com', 'www.luxury-paper-box.com', 'irishcentral.com', 'www.tv9090.com', 'www.smawealth.com', 'nanjingnongjiale.com', 'www.gzcfmy.com', 'www.k3pgssc.top', '91p866.xyz', 'www.dgytlt.com', 'www.lzhdsn.com', 'yx.887141.xyz', 'doods.pro', '876ks.cc', 'www.cddh63p.top', '160.app', 'xozj.buzz', 'g6.ae89b.com', 'www.xyzjh.com', 'www.412uu.com', '58dl8.vip', 'www.sjzsckj.com', 'www.dilidili8.com', 'www.gzjiazhuo.cn', 'yh6.dtku41.xyz', 'www.imeiju.net', 'www.hosemicon.com', 'm.ghqy.com', '5xs.org', 'www.yava.pw', 'www.xigua5.com', 'auber-cdn.com', 'www.c333.net', 'thep1209.cc', 'letsgirlz.com', '7771975.com', 'aks5.com', '65bao2.com', 'blog.hostmonit.com', 'n0f.net', 'baxtc.66666654.xyz', 'www.nitianxieshen.com', 'www.hxsy888.com', 'www.hardreset.info', 'hongkong.qing1999.eu.org', 'www.5522tl.com', 'www.thenationalherald.com', 'pq53.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.59226in.buzz', 'breakers.tv', 'go.wumaojichang.com', 'www.11txt.com', 'www.meifuchem.com', 'girls-award.com', 'ygbb.rapidssl.pp.ua', 'zhenkang.tcp-link.com', 'm.feixiaohaozh.info', '3g.cddh63p.top', 'www.feixiaohaozh.info', 'furrina.team', 'www.xworldadmin.com', 'www.jsmx999.com', 'www.ddwhm.com', 'uu93.com', '1366000.com', 'anztshirt.com', 'www.6i5.com', 'jpvsavhyu.76898102.xyz', '616wan.net', 'www.tv1080.com', 'vip.ssss00.me', 'www.618282m.com', 'luxury-paper-box.com', '20.xyzjh.com', 'www.arbcap.com', '88av303.xyz', 'nlsdwsz.66666654.xyz', 'www.5185.app', 'ikcplay.com', 'www.m6y6.com', 'www.findstarlink.com', 'm.lalafo.kg', 'passwd.2340000.xyz', 'www.hzmeifengji.cn', 'm.cddh63p.top', 'wallet.crcscan.com', 'nba01.com', 'hkaa.sectigo.pp.ua', 'www.113my.com', 'h5.ldsvip81.cc', 'stock.hostmonit.com', 'synergy.arbcap.com', 'ws.n0f.net', 'z8ddos.auber-cdn.com', 'ginnyestupinian.com', 'www.zzkdhb.com', 'freeyx.cloudflare88.eu.org', 'www.gzmj07.com', 'y21.appjiekou.com', 'www.enagic-jy.com', 'hzefss.66666654.xyz', 'ae89b.com', 'www.procomp.ba', '22dts.com', 'hardreset.info', 'www.xnctoifd.xyz', 'hk.leyz.top', 'affcoupons.com', 'www.wxxzzs.com', 'findstarlink.com', 'www.x52bq.com', '412uu.com', 'azoramanga.com', 'www-2900.app', 'visitumea.se', 'm.jingshuai888.com', 'imedd.org', '66334.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cdn.teambr.live...
+Performing DNS lookup for localnews.imedd.org...
+Performing DNS lookup for www.77ty.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

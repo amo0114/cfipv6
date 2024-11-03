@@ -2,37 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cdn.teambr.live
-Address: 104.26.9.231
-Name:	cdn.teambr.live
-Address: 172.67.70.126
-Name:	cdn.teambr.live
-Address: 104.26.8.231
+www.dianying2.com	canonical name = ccc.seogg.com.
+Name:	ccc.seogg.com
+Address: 104.21.22.14
+Name:	ccc.seogg.com
+Address: 172.67.201.211
+Name:	ccc.seogg.com
+Address: 2606:4700:3033::ac43:c9d3
+Name:	ccc.seogg.com
+Address: 2606:4700:3035::6815:160e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	localnews.imedd.org
-Address: 172.67.70.126
-Name:	localnews.imedd.org
-Address: 104.26.9.231
-Name:	localnews.imedd.org
-Address: 104.26.8.231
-Name:	localnews.imedd.org
-Address: 2606:4700:20::681a:8e7
-Name:	localnews.imedd.org
-Address: 2606:4700:20::681a:9e7
-Name:	localnews.imedd.org
-Address: 2606:4700:20::ac43:467e
+www.dy1255.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
 Non-authoritative answer:
-www.77ty.com	canonical name = 103top.delivery-cf-103.sbs.
-Name:	103top.delivery-cf-103.sbs
-Address: 104.237.157.185
-Name:	103top.delivery-cf-103.sbs
-Address: 173.255.219.146
+Name:	www.tpyyc.com
+Address: 107.148.242.9
 
