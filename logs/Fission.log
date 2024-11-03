@@ -8377,3 +8377,25 @@ Performing DNS lookup for www.tpyyc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 55f8ac1] Update project files
+ 4 files changed, 58 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   e1bea44..55f8ac1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.64.161.131...
+Fetching domains for 104.25.186.104...
+Fetching domains for 104.21.12.65...
+succeed to fetch domains for 104.21.12.65 from https://dnsdblookup.com/
+succeed to fetch domains for 172.64.161.131 from https://dnsdblookup.com/
+succeed to fetch domains for 104.25.186.104 from https://site.ip138.com/
+域名列表为
+['www.huiliaoli.com', 'moefuns2.biz', 'portabletoiletsberwynil.com', 'www.iios.club', 'www.0550cq.com', 'huiliaoli.com', 'jingyuan.5y832g.cn', 'www.91m.cc', 'www.kuaikan66.com', 'gangsiwang.org', 'www.tv9090.com', '01zj.com', 'www.zzztch.com', 'm.nivod5.com', 'lixia.restaurant.5y832g.cn', 'www.qbxsb.com', 'baxtc.66666654.xyz', 'mp3juices.icu', 'xs.wxtv.cc', 'jmxhbgc.com', 'muze.eu.org', 'www.henanlongdi.com', 'hyv559v.top', 'www.bdsiia.com', 'www.ramri.cloudns.be', 'www.hyv559v.top', 'www.sxsubian.cn', 'www.guozhi.org', 'www.ze4b.cn', 'www.50zw.co', 'm.hyv559v.top', 'jrae6.com', 'routersetup.co.za', 'acgfully.com', 'stock.hostmonit.com', 'www.ljl27.cc', 'really100.net', 'zy.xywlapi.cc', 'wap.hyv559v.top', 'www.100fyy2.com', 'rdp.shencang.blue', 'www.sxyggf.com', 'www.nivod5.com', 'm.anluyg.net', 'www.xftt1.com', 'shencang.blue', 'www.aanfhj.cn', 'xiaozhangstudy.cn', 'bbs.zb42monline.org', 'www.hishuku.com', '100fyy2.com', 'api.xywlapi.cc', 'xywlapi.cc', 'vip.gtja844.com', 'catherinethegreat.ru', 'yyxycn.com', 'www.hanmatv.com', 'yaochii.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.akord.net', 'xhsav.xyz', 'www.hailantiyu.com', 'www.6i5.com', 'ljl27.cc', 'www.sxyzxh.com', 'potterish.com', 'www.hndfqz.com', 'www.zzgszg.com', 'nivod5.com', 'milfpornsex.net', 'net.ramri.cloudns.be', 'www.ai2moe.org', 'www.xywlapi.cc', 'dietpi.com', 'www.really100.net', 'www.dawsons.co.uk', 'm.niuerzs.com', 'shuimutv.com', 'm.pianku5.me']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.guozhi.org...
+Performing DNS lookup for www.sxsubian.cn...
+Performing DNS lookup for 01zj.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
