@@ -8486,3 +8486,25 @@ Performing DNS lookup for www.migudy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d3fa091] Update project files
+ 4 files changed, 58 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   6b7e9c1..d3fa091  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.120.146...
+Fetching domains for 104.16.149.145...
+Fetching domains for 104.17.150.140...
+succeed to fetch domains for 104.17.120.146 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.150.140 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.149.145 from https://site.ip138.com/
+域名列表为
+['kanju8.com', 'www.85xs.cc', 'm.junsx.com', 'www.kuaikan66.com', 'www.3dck.com', 'achk.cloudflarest.link', 'cdn.didi8.com', 'www.c333.net', 'www.dy420.com', 'www.cxdyzx.com', 'www.609y.com', '17ttx.com', 'www.50zw.co', 'www.hhyy028.com', 'www.7749tv.com', 'www.xinpian8.com', 'www.ydxs.cc', 'www.yy4080dy.com', 'www.kanju8.com', 'www.hflooking-car.com', 'tcdn1.youku.icu', 'm.zhiqihuo.cc', 'www.888dyy.cc', 'cf.yx.alue.link', 'www.tvccc.org', 'cloudflare.cfgo.cc', 'www.iflow.work', 'xs.wxtv.cc', 'www.881dy.com', 'baxtc.66666654.xyz', 'm.8vdy.com', 'zi0.cc', 'www.lyzdzy.com', 'www.zzztch.com', 'tlbb.668tl.cn', 'www.33mov.com', 'www.99wx.cc', 'shrmdqc.com', 'www.kunzedu.com', 'galzy.eu.org', 'www.51jion.com', 'm.tvccc.org', 'www.dy1255.com', 'tcdn1.datuniu.com', 'www.k77kk.cc', 'ydxs.cc', 'wanmeikankan.net', 'www.k77yy.com', 'www.xiaobai.live', 'www.wanmeikankan.net', 'aiquyy.com', 'www.209tv.com', 'm.longbulo.com', 'www.ttamj.com', 'www.2soc.com', 'www.meijubo.com', 'www.kbss888.com', 'www.meijukan.com', 'tv.ci', 'm.niuerzs.com', 'itt9.com', 'www.g8wp.com', 'm.tvfff.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.k77kk.cc...
+Performing DNS lookup for www.609y.com...
+Performing DNS lookup for tv.ci...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

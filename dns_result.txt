@@ -2,27 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.k77kk.cc	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	www.28et.com
+Address: 66.29.136.78
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.609y.com	canonical name = axs.cdn.789dns.com.
-Name:	axs.cdn.789dns.com
-Address: 149.104.32.204
+Name:	www.kunzedu.com
+Address: 103.88.187.196
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-*** Can't find tv.ci: No answer
+** server can't find www.tv1080.com: NXDOMAIN
 
