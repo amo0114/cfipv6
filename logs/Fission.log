@@ -8443,3 +8443,25 @@ Performing DNS lookup for www.cu90.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bcb36c5] Update project files
+ 4 files changed, 49 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   b84fd6b..bcb36c5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.30.55...
+Fetching domains for 104.25.215.210...
+Fetching domains for 198.41.194.244...
+succeed to fetch domains for 198.41.194.244 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.215.210 from https://site.ip138.com/
+succeed to fetch domains for 104.27.30.55 from https://ipchaxun.com/
+域名列表为
+['jpadwinfs.114514782.xyz', 'ddn2.funps.win', 'www.77zw.cc', 'www.nitianxieshen.com', 'zl.aitrjc.xyz', 'yx.887141.xyz', 'www.99xkxtl.com', 'tunneltransfer.bpyjc.com', 'nlsdwsz.66666654.xyz', 'www.28et.com', 'www.xiuluo942.com', 'www.cu90.com', 'yh6.dtku41.xyz', 'www.tlbb888.com', 'www.5522tl.com', 'www.tx58tl.com', 'www.clun.top', 'www.cx888my.com', 'zlcq520.com', 'acus.cloudflarest.link']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.28et.com...
+Performing DNS lookup for zlcq520.com...
+Performing DNS lookup for yh6.dtku41.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

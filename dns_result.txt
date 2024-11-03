@@ -2,18 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.28et.com
-Address: 66.29.136.78
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find zlcq520.com: NXDOMAIN
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yh6.dtku41.xyz
-Address: 72.52.178.23
+pan.axxpan.com	canonical name = pan.axxpan.com.cdn.cloudflare.net.
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 172.67.189.189
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 104.21.49.104
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 2606:4700:3035::6815:3168
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 2606:4700:3032::ac43:bdbd
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.migudy.com
+Address: 92.118.232.29
 
