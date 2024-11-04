@@ -1,47 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find fxm5975.cn: NXDOMAIN
+Non-authoritative answer:
+Name:	x88av.cc
+Address: 172.67.186.247
+Name:	x88av.cc
+Address: 104.21.19.163
+Name:	x88av.cc
+Address: 2606:4700:3036::ac43:baf7
+Name:	x88av.cc
+Address: 2606:4700:3031::6815:13a3
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 172.64.168.165
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.18.47
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.195.69
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.137.141
-Name:	cfip.xxxxxxxx.tk
-Address: 104.24.197.171
-Name:	cfip.xxxxxxxx.tk
-Address: 172.64.68.246
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.223.243
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.13.52
-Name:	cfip.xxxxxxxx.tk
-Address: 104.24.158.166
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.236.6
-Name:	cfip.xxxxxxxx.tk
-Address: 104.24.252.171
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.132.56
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.145.208
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.252.22
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.226.119
+Name:	xpj300.cc
+Address: 198.46.242.96
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	m.tpyyc.com
-Address: 107.148.242.9
+** server can't find cjkesta.top: NXDOMAIN
 
