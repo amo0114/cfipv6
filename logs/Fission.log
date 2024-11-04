@@ -8573,3 +8573,25 @@ Performing DNS lookup for www.nsisfans.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0d48e59] Update project files
+ 4 files changed, 72 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   5e86d89..0d48e59  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.144.106...
+Fetching domains for 141.101.113.128...
+Fetching domains for 162.159.34.237...
+succeed to fetch domains for 141.101.113.128 from https://site.ip138.com/
+succeed to fetch domains for 162.159.34.237 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.144.106 from https://site.ip138.com/
+域名列表为
+['www.zhiqihuo.com', 'www.imeiju.net', 'vatlieuphuongnam.vn', 'www.oaksmart.com', 'www.51jion.com', 'jiaoyi989.com', '0550cq.com', 'www.266958.com', 'wap.azyboxj.top', 'yxmuju168.com', 'dsxys.pro', 'www.92mili.com', 'www.ylyspx.com', 'www.eventslv.com', 'll582.com', 'www.laladye.cn', 'www.bjtyc.top', 'yyxycn.com', 'japanlez.com', 'www.wtlfiad.cn', 'www.meijubo.com', 'www.sf123.mobi', 'www.xzffs.com', 'www.yxmuju168.com', 'nlsdwsz.66666654.xyz', 'www.paizipai.top', 'www.ddwhm.com', 'www.c333.net', 'www.woosync.io', 'azyboxj.top', 'www.szxjsj.com', 'www.jingshuai888.com', 'www.gzcfmy.com', 'www.omd2008.com', 'www.tvyb10.com', 'news.fatduckdn.com', 'www.yx521.net', 'www.home66.net', 'v2ahgj7v.xath7d.com', 'www.hnxinlian.org', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'xs.wxtv.cc', 'www.shenmapian.net', 'www.web120.org', 'ylyspx.com', 'm02.com', 'yundunwawablogcdn1yd.wawacm.com', 'ygbb.rapidssl.pp.ua', 'chunaa.sectigo.pp.ua', 'blog.hostmonit.com', 'hg0389.com', '086181.xyz', 'www.xinpian8.com', 'mim.vc', 'www.zhuizhuiju.com', 'dayiguo.com', '344499.com', '999696.xyz', 'cf.cdn.huangbin.net', 'www.11txt.com', 'www.50zw.co', 'www.fnyy.net', 'www.xcc185.com', 'www.czlbfrp.com', 'www.boyangjt.com', 'm.50zw.co', 'www.dgytlt.com', 'www.888dyy.cc', 'www.dy420.com', 'm.jingshuai888.com', 'm.tvfff.com', 'www.shsxjzzs.com', 'www.jsdrtzn.com', 'www.344499.com', 'www.bjfqmj.com', 'www.yy4080dy.com', 'www.yiqianhg.com', 'www.k77yy.com', 'vip4.pmcloud.top', 'thep1489.cc', 'm.gytsxdnyw.com', 'www.qumiyun.com', 'www.tvccc.org', 'www.6988tv.com', 'www.azyboxj.top', '3g.azyboxj.top', 'www.17kty.com', 'm.tvccc.org', 'v4.cfnode.eu.org', 'wz.weishao2023.dk.eu.org', '11txt.com', 'fatduckdn.com', 'x9821.com', 'www.cdjyhm.com', 'alk56.xyz', '7sc.cc', 'hk1229.cn', 'www.zsych.net', 'www.24xunlei.com', 'www.3c8848.com', 'www.x9821.com', 'jpvsavhyu.76898102.xyz', 'www.4148.net', 'zyar.top', 'fldsubgigtujuy.76898102.xyz', 'www.hosemicon.com', 'i.ao3is.top', 'www.80yy.org', '52bl.gay', 'cf1.492745.xyz', 'www.k77kk.cc', 'www.iios.club', 'frsadubidd.76898102.xyz', 'www.6x8888.com', 'www.gzgafk.com', 'www.11kkff.com', 'm.0550cq.com', '66se.tv', 'x99a664.top', 'www.7sc.cc', 'www.0550cq.com', 'www.zhongyunyang.com', 'www.xworldadmin.com', 'cg.22yy7.com', 'www.jiaoyi989.com', 'www.b7yy.cc', 'www.881dy.com', 'www.le-xiang-hui.com', 'cdn.cmliu.net', 'm.xinpian8.com', 'www.kanju8.com', 'cg3.tv', 'www.hxsy888.com', 'woosync.io', 'www.7749tv.com', 'www.cg3.tv', 'www.tinghen.com', 'xcc185.com', 'www.tv9090.com', 'www.iwzmanhua.com', 'yh6.dtku41.xyz', 'eventslv.com', 'm.azyboxj.top', 'yx.887141.xyz', 'www.nxjhgbh.cn', 'www.wanmeikankan.net', 'www.6i5.com', 'www.dayiguo.com', 'www.50zw.com', 'www.991kan.com', 'www.dy1255.com', 'www.33mov.com', 'uztt.ru', 'www.fcwei.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cdjyhm.com...
+Performing DNS lookup for www.266958.com...
+Performing DNS lookup for ygbb.rapidssl.pp.ua...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
