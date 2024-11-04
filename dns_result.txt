@@ -1,22 +1,47 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
+** server can't find fxm5975.cn: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	cfip.xxxxxxxx.tk
+Address: 172.64.168.165
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.18.47
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.195.69
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.137.141
+Name:	cfip.xxxxxxxx.tk
+Address: 104.24.197.171
+Name:	cfip.xxxxxxxx.tk
+Address: 172.64.68.246
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.223.243
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.13.52
+Name:	cfip.xxxxxxxx.tk
+Address: 104.24.158.166
+Name:	cfip.xxxxxxxx.tk
+Address: 104.20.236.6
+Name:	cfip.xxxxxxxx.tk
+Address: 104.24.252.171
+Name:	cfip.xxxxxxxx.tk
+Address: 104.20.132.56
+Name:	cfip.xxxxxxxx.tk
+Address: 104.20.145.208
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.252.22
+Name:	cfip.xxxxxxxx.tk
+Address: 172.67.226.119
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
 Non-authoritative answer:
 Name:	m.tpyyc.com
 Address: 107.148.242.9
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.meridix.com	canonical name = b6f66o2.ng.impervadns.net.
-Name:	b6f66o2.ng.impervadns.net
-Address: 45.223.161.27
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.52ys.cc
-Address: 154.202.57.205
 
