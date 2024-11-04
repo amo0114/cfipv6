@@ -8551,3 +8551,25 @@ Performing DNS lookup for loggia.it...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5e86d89] Update project files
+ 4 files changed, 66 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   8ef8384..5e86d89  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 173.245.49.102...
+Fetching domains for 104.21.233.5...
+Fetching domains for 198.41.216.194...
+succeed to fetch domains for 104.21.233.5 from https://dnsdblookup.com/
+succeed to fetch domains for 173.245.49.102 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.216.194 from https://dnsdblookup.com/
+域名列表为
+['amstdhebb.76898102.xyz', 'camtlebb.76898102.xyz', 'www.oaksmart.com', '7.namesilo123.top', '4.namesilo123.top', 'chenn.com.cn', 'frsadubicc.76898102.xyz', 'speed.marisalnc.com', 'cgdd.digicert.pp.ua', 'fldsubgigtujuy.76898102.xyz', 'www.c333.net', 'miraigo.net', 'www.3c8848.com', 'www.01zj.com', 'menmaza.76898102.xyz', 'v.ximei.love', 'cnd.free.hr', 'www.tvgot.com', 'tunneltransfer.bpyjc.com', 'www.wlxinde.com', 'www.978c.com', 'laxdscaa.76898102.xyz', 'www.huanyaad.com', 'www.90dushu.com', 'www.ddwhm.com', 'www.meijui.net', 'achk.cloudflarest.link', 'zi0.cc', 'jhpcza.66666654.xyz', 'www.vodbd.com', 'macvbb.555556789.xyz', 'www.91m.cc', 'freeyx.cloudflare88.eu.org', 'www.tv9090.com', 'dg.laowu.link', 'cloudflare.cfgo.cc', 'cf-lt.sharecentre.online', '086181.xyz', 'jpaa.sectigo.pp.ua', 'www.stzhiye.com', 'cf.taoguo666.us.kg', 'school.xn--vjqp6xkwblzeyv2h.cn', 'www.qumiyun.com', 'muoaeraa.76898102.xyz', 'stock.hostmonit.com', 'www.4148.net', 'ddwhm.com', 'www.pianku5.com', 'speed.freefly.pp.ua', 'www.wxxzzs.com', 'frsadubidd.76898102.xyz', 'www.663dy.com', 'www.jjtyss.com', 'hkaa.sectigo.pp.ua', 'www.6i5.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.k77yy.com', 'xf.free.hr', 'www.11txt.com', 'www.cfbk.top', 'jpvsavhyu.76898102.xyz', 'nlsdwsz.66666654.xyz', 'www.yjeky.com', 'www.paizipai.top', 'www.nb6080.com', '65bao.com', 'www.nsisfans.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.33mov.com', 'www.7749tv.com', 'www.0550cq.com', 'hanjula.com', 'yh6.dtku41.xyz', '26.namesilo123.top', 'www.kanju8.com', 'spca.114514782.xyz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.zhuizhuiju.com', 'yx.887141.xyz', 'wxxzzs.com', 'chuncc.sectigo.pp.ua', 'hzefss.66666654.xyz', 'www.881dy.com', 'a2.hh.887733.xyz', 'baxtc.66666654.xyz', 'www.v2raz.vip', 'www.80yy.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for freeyx.cloudflare88.eu.org...
+Performing DNS lookup for www.6i5.com...
+Performing DNS lookup for www.nsisfans.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
