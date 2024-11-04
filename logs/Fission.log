@@ -8530,3 +8530,24 @@ Performing DNS lookup for www.tv1080.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8ef8384] Update project files
+ 4 files changed, 56 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   3c7f894..8ef8384  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.12.76...
+Fetching domains for 104.18.68.190...
+Fetching domains for 104.17.243.144...
+succeed to fetch domains for 104.17.243.144 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.12.76 from https://site.ip138.com/
+succeed to fetch domains for 104.18.68.190 from https://dnsdblookup.com/
+域名列表为
+['www.longwangchuanshuo.com', 'www.cnclathing.com', 'www.ostrow24.tv', 'loggia.it', 'www.yqkbook.com', 'almashareq.com', 'y3600.cc', 'www.cfhuagong.com', 'jpadwinfs.114514782.xyz', 'cnclathing.com', 'siemenss.cc', 'www.vcd.la', 'www.tpyyc.com', 'safe.trade', 'priceme.com.au', 'www.tlbb888.com', 'www.4gdiy.com', 'www.88wwk.com', 'luwangyangrong.com', 'pokebeach.com', 'www.nba01.com', 'www.93xscc.com', 'go.wumaojichang.com', 'm.y3600.cc', 'packettotal.com', 'store.reneelab.com', 'www.loggia.it', 'www.mosquitocurtains.com', 'tpzf001.com', 'www.czys.pro', 'manhwatop.com', 'm.x23us.org', 'www.17800.net', 'js1983.com', 'www.dmbj.cc', 'm.xoxtvs.com', 'www.channel24bd.tv', 'www.sundaynews.co.zw', 'anglesya.win', 'www.myflashcloud.com', 'www.nitianzw.com', 'www.cz233.com', 'www.91m.cc', 'www.y3600.cc', 'www.t9gm.com', 'man.luwangyangrong.com', 'haon.hu', 'www.tpzf001.com', 'www.jjtyss.com', 'www.cbcv.cc', 'www.pixwox.com', 'dsxys.com', 'sundaynews.co.zw', 'www.ulmas.lt', 'channel24bd.tv', 'www.luwangyangrong.com', 'www.djjs.org', 'reneelab.com', 'gggggyy.com', 'mosquitocurtains.com', 'www.zgwangzhan.com', 'iceyarns.com', 'www.tuoku4.com', 'www.anglesya.win', 'img1.y3600.cc', 'www.ddwhm.com', 'www.cookwithmanali.com', 'www.5588678.com', 'yarn-paradise.com', 'm.hamuzi.com', 'www.pokebeach.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for safe.trade...
+Performing DNS lookup for www.88wwk.com...
+Performing DNS lookup for loggia.it...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
