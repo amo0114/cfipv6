@@ -8659,3 +8659,25 @@ Performing DNS lookup for m.tpyyc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3e59596] Update project files
+ 4 files changed, 54 insertions(+), 66 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   9c7baee..3e59596  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.19.163...
+Fetching domains for 104.21.23.237...
+Fetching domains for 104.27.51.70...
+succeed to fetch domains for 104.21.23.237 from https://dnsdblookup.com/
+succeed to fetch domains for 104.27.51.70 from https://site.ip138.com/
+succeed to fetch domains for 104.21.19.163 from https://site.ip138.com/
+域名列表为
+['3g.hngkx.top', 'kern123.tk', 'twinkporn.me', 'pzlyzyx.com', 'www.2tv.tv', '93maoap.com', 'aibo33.com', 'mysexdoll.shop', 'autosensors.co.uk', 'lasta-app.com', 'yythy.com', 'ukr678.com', 'm.hngkx.top', 'admin.coinbases.tech', 'www.maimaihuishangcheng.com', 'basisinternationalschools.com', 'www.k77kk.cc', 'www.mpdzbpi.cn', 'komikindo.sbs', 'www.shopifymall.cc', '84ds.com', 'www3.yangbin.ltd', 'xpj300.cc', 'www.hngkx.top', '3balao.com', 'ak0002.vip', 'x88av.cc', 'www.wdyl3.com', 'www.sizechangebooru.com', 'djg98.com', 'www.haoweimiaomu.com', 'www1.yangbin.ltd', 'www.342cc.com', 'www.pzlyzyx.com', 'm.qimaomh.com', 'm.niuerzs.com', '381nn.com', 'shenlan1003.com', 'xxxtube2022.com', 'www.sifangclub.info', 'tk12315.com', 'wap.cjkesta.top', 'www.iios.me', '1ipgnk.com', '342cc.com', '64maoeb.com', 'www.xiuluo942.com', 'hngkx.top', 'pg888.top', 'tikme.live', 'yvfscm.mrialout.life', 'www3663.com', 'm.kuaikan66.com', 'wap.hngkx.top', 'www.automailsender.com', 'haoweimiaomu.com', 'seejav.bid', 'www.ak0002.vip', '69a8358.cc', 'm.cunditu.com', 'www.aibo33.com', 'www2.yangbin.ltd', '3g.cjkesta.top', 'emilyhoteldn.com', 'www.guojianshanghai.com', 'yy7773.com', '684242.com', 'ywfscm.mrialout.life', 'www.881dy.com', 'www.wdbzx.com', 'www.64maoeb.com', '008258.com', 'wdbzx.com', 'www.xxxtube2022.com', 'fachechela.me', 'pionerfm.site', '80ysz.com', 'www.pg888.top', 'www.684242.com', '6349d.vip', 'www.wqjayy.com', 'wdyl3.com', 'zzz679.com', 'www.020cake.com', 'www.cunditu.com', 'www.djg98.com', 'wwplyq.mrialout.life', 'www.qimaomh.com', 'www.kuaikan66.com', 'www.k77yy.com', 'www.iios.club', '47haocc.com', 'm.cjkesta.top', 'www.jw-meidj.com', 'ssr.zskandsy.top', 'www.seejav.bid', 'www.lygyk.com', 'www.bayburtneistiyor.com', 'www.cjkesta.top', 'www.goyiyun.com', 'sifangclub.info', 'www.381nn.com', 'cjkesta.top', 'www.yy7773.com', 'wqjayy.com', 'www.parbattanews.com', '008mt.com', 'm666.pro', 'hgdaohang777.life', 'www.ukr678.com', 'kuaikan66.com', 'www.008258.com', 'www.panyujewelrynet.com', 'www.myagwww.cn', 'www.x88av.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for x88av.cc...
+Performing DNS lookup for xpj300.cc...
+Performing DNS lookup for cjkesta.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

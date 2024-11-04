@@ -2,24 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	x88av.cc
-Address: 172.67.186.247
-Name:	x88av.cc
-Address: 104.21.19.163
-Name:	x88av.cc
-Address: 2606:4700:3036::ac43:baf7
-Name:	x88av.cc
-Address: 2606:4700:3031::6815:13a3
+21tvb.com	canonical name = 7mevfcxy.maxptgol.com.
+7mevfcxy.maxptgol.com	canonical name = gc24rt3x.n.maxptgol.com.
+Name:	gc24rt3x.n.maxptgol.com
+Address: 143.92.61.45
+Name:	gc24rt3x.n.maxptgol.com
+Address: 118.107.40.125
+Name:	gc24rt3x.n.maxptgol.com
+Address: 143.92.61.65
+Name:	gc24rt3x.n.maxptgol.com
+Address: 118.107.40.126
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	xpj300.cc
-Address: 198.46.242.96
+Name:	www.4gdiy.com
+Address: 199.59.243.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find cjkesta.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.lyzdzy.com
+Address: 91.195.240.12
 
