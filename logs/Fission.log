@@ -8681,3 +8681,25 @@ Performing DNS lookup for cjkesta.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2becbbe] Update project files
+ 4 files changed, 63 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   3e59596..2becbbe  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.160.217...
+Fetching domains for 104.17.154.35...
+Fetching domains for 104.17.31.106...
+succeed to fetch domains for 104.17.154.35 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.31.106 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.160.217 from https://site.ip138.com/
+域名列表为
+['www.28et.com', 'www.789kp.com', 'dsxys.com', 'www.bdyy1.xyz', 'yukangjiangcai.com', 'cfip.xxxxxxxx.tk', 'm.niuerzs.com', 'www.4gdiy.com', 'www.gggggyy.com', 'www.21tvb.com', 'wap.nmgk2.com', 'www.157-157.com', '21tvb.com', 'm.tvccc.org', 'xayuning.com', 'www.hobbs.com', 'www.lyzdzy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 21tvb.com...
+Performing DNS lookup for www.4gdiy.com...
+Performing DNS lookup for www.lyzdzy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
