@@ -2,18 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.28et.com
-Address: 66.29.136.78
+Name:	safe.trade
+Address: 104.26.12.76
+Name:	safe.trade
+Address: 172.67.74.197
+Name:	safe.trade
+Address: 104.26.13.76
+Name:	safe.trade
+Address: 2606:4700:20::681a:d4c
+Name:	safe.trade
+Address: 2606:4700:20::681a:c4c
+Name:	safe.trade
+Address: 2606:4700:20::ac43:4ac5
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.88wwk.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kunzedu.com
-Address: 103.88.187.196
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.tv1080.com: NXDOMAIN
+Name:	loggia.it
+Address: 104.26.13.76
+Name:	loggia.it
+Address: 104.26.12.76
+Name:	loggia.it
+Address: 172.67.74.197
+Name:	loggia.it
+Address: 2606:4700:20::681a:d4c
+Name:	loggia.it
+Address: 2606:4700:20::ac43:4ac5
+Name:	loggia.it
+Address: 2606:4700:20::681a:c4c
 
