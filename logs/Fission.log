@@ -8595,3 +8595,25 @@ Performing DNS lookup for ygbb.rapidssl.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3228c7c] Update project files
+ 4 files changed, 56 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   0d48e59..3228c7c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.2.71...
+Fetching domains for 104.17.245.207...
+Fetching domains for 104.17.249.54...
+succeed to fetch domains for 104.17.245.207 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.249.54 from https://site.ip138.com/
+succeed to fetch domains for 104.26.2.71 from https://site.ip138.com/
+域名列表为
+['www.zgjmw.net', 'www.qindi.net', '2022.dev', 'www.subodi.com', 'www.companeo.com', 'coinatmradar.com', 'www.futian6.com', 'ralphlauren.com.sg', 'jpsoft.com', 'www.niadd.com', 'zhuanshu3.us123.icu', 'www.wn01.cc', 'www.montigo.com', 'powertrainproducts.net', 'www.mic18.com', 'www.servicevie.com', 'www.shxpp.com', 'www.powertrainproducts.net', 'www.stockportcounty.com', 'www.bricolage-facile.net', 'www.lootpress.com', 'www.naturalbathbody.com', 'www.91m.cc', 'www.99wx.cc', 'www.93xscc.com', 'montigo.com', 'www.luoqiuxs.com', 'servicevie.com', 'www.1080p.club', 'finsmes.com', 'www.iaalliance.cc', 'forum.demolidores.com.br', 'www.nitianxieshen.com', '7.namesilo123.top', 'www.nitianzw.com', 'contextis.com', 'www.iios.club', 'www.1a1v.com', 'www.50zw.co', 'swiftnet.tech', 'niadd.com', 'www.contextis.com', 'iaalliance.cc', 'clipart.com', 'omonoianews.com', '17kty.com', 'videos.2022.dev', 'www.ququxiaoshuo.com', 'bricolage-facile.net', 'cheapasszonnebrillen.nl', 'gesund.co.at', 'm.niuerzs.com', 'knowledgebase.powertrainproducts.net', 'asia.cloud', 'www.finsmes.com', 'www.2022.dev', 'blogmybrain.com', 'pdzmre77473.sanfen001.top', 'www.qilishusong.cn', 'www.clipart.com', 'se2.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 17kty.com...
+Performing DNS lookup for www.lootpress.com...
+Performing DNS lookup for www.contextis.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
