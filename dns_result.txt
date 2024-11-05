@@ -2,30 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
+Name:	www.28et.com
+Address: 66.29.136.78
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.baokanwang.com
+Address: 107.148.162.9
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
 Name:	www.9ekk.com
-Address: 107.167.27.82
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.295k.com
-Address: 208.98.40.74
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	leanna.ns.cloudflare.com
-Address: 162.159.38.151
-Name:	leanna.ns.cloudflare.com
-Address: 108.162.194.151
-Name:	leanna.ns.cloudflare.com
-Address: 172.64.34.151
-Name:	leanna.ns.cloudflare.com
-Address: 2606:4700:50::a29f:2697
-Name:	leanna.ns.cloudflare.com
-Address: 2803:f800:50::6ca2:c297
-Name:	leanna.ns.cloudflare.com
-Address: 2a06:98c1:50::ac40:2297
+Address: 208.98.40.13
 
