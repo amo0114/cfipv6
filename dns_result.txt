@@ -2,19 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.52.42
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.55.98
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.176.8
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.184.163
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.212.250
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.175.189
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.93.15
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find 7.namesilo123.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kuaikan66.com
-Address: 69.162.95.6
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 91.195.240.12
+Name:	m.msgao.com
+Address: 142.4.100.215
 
