@@ -2,27 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yiqianhg.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.165.103
-Name:	cf.zmdhc.com
-Address: 172.67.204.87
-Name:	cf.zmdhc.com
-Address: 172.67.140.76
-Name:	cf.zmdhc.com
-Address: 172.67.143.70
+www.yunbuyun.com	canonical name = dns.yunbuyun.eu.org.
+Name:	dns.yunbuyun.eu.org
+Address: 172.67.222.153
+Name:	dns.yunbuyun.eu.org
+Address: 104.21.25.38
+Name:	dns.yunbuyun.eu.org
+Address: 2606:4700:3035::ac43:de99
+Name:	dns.yunbuyun.eu.org
+Address: 2606:4700:3033::6815:1926
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	app.xcda.xyz
-Address: 104.21.34.156
-Name:	app.xcda.xyz
-Address: 172.67.162.133
+www.zhongyunyang.com	canonical name = cf.czonkgc.com.
+Name:	cf.czonkgc.com
+Address: 104.19.45.89
+Name:	cf.czonkgc.com
+Address: 104.19.62.52
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.101970.com: NXDOMAIN
+Non-authoritative answer:
+Name:	118nb.com
+Address: 23.95.35.163
 
