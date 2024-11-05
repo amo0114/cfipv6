@@ -2,22 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.28et.com
-Address: 66.29.136.78
+www.yiqianhg.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.165.103
+Name:	cf.zmdhc.com
+Address: 172.67.204.87
+Name:	cf.zmdhc.com
+Address: 172.67.140.76
+Name:	cf.zmdhc.com
+Address: 172.67.143.70
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
-
-** server can't find www.tockt.com: SERVFAIL
-
-Server:		8.8.4.4
-Address:	8.8.4.4#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
 Non-authoritative answer:
-xfltd.net	canonical name = 7fec9db2.xfcdn.top.
-7fec9db2.xfcdn.top	canonical name = gb807f5.cdn.xfcdn.top.
-Name:	gb807f5.cdn.xfcdn.top
-Address: 106.14.214.131
+Name:	app.xcda.xyz
+Address: 104.21.34.156
+Name:	app.xcda.xyz
+Address: 172.67.162.133
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.101970.com: NXDOMAIN
 
