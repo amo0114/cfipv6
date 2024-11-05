@@ -8862,3 +8862,24 @@ Performing DNS lookup for www.9ekk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1b050cd] Update project files
+ 4 files changed, 52 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   33231f1..1b050cd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.174.142...
+Fetching domains for 104.16.4.7...
+Fetching domains for 104.17.225.135...
+succeed to fetch domains for 104.19.174.142 from https://site.ip138.com/
+succeed to fetch domains for 104.17.225.135 from https://site.ip138.com/
+succeed to fetch domains for 104.16.4.7 from https://site.ip138.com/
+域名列表为
+['www.ydxs.cc', 'ydxs.cc', 'www.223ss.com', 'yy4080dy.com', '3dck.cc', 'dsxys.pro', 'www.yekan360.com', 'www.zhiqihuo.com', 'www.yncareer.com', 'fzxianli.com', 'www.881dy.com', 'm.tvccc.org', 'www.abadoc.com', 'www.txtbye.com', 'www.xinjuc.com', 'www.3dck.com', '3qxs.com', 'm.50zw.co', 'www.gps1010.com', 'xfltd.net', 'cf1.492745.xyz', 'www.zsych.net', 'www.dy420.com', 'www.50zw.co', 'www.5dyme.com', 'xs.wxtv.cc', 'www.888dyy.cc', 'www.dadaw.cc', '888dyy.cc', 'www.yyxxi.com', 'xyy6680.com', 'www.ququxiaoshuo.com', 'www.7749tv.com', 'www.fcwei.com', 'm.gangsiwang.org', 'www.qiuxiaw.com', 'a1.dnsapi123.com', 'www.omd2008.com', 'www.b7yy.cc', 'www.tvccc.org', 'cfcdn1.sanfencdn9.com', 'www.nangua55.com', 'm.x23us.org', 'api.wallhaven.club', 'gaoxiaoe.com', 'usshsaba.114514782.xyz', 'www.longwangchuanshuo.com', 'wei333.com', 'm.8vdy.com', 'yyxxi.com', 'm.kanyingba.com', 'www.xinpian8.com', 'gaze.run', 'www.c333.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.3dck.com...
+Performing DNS lookup for www.dadaw.cc...
+Performing DNS lookup for xfltd.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
