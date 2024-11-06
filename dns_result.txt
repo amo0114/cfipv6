@@ -1,23 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find kp44.app: NXDOMAIN
+** server can't find www.risingsunchina.net: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.bain.com	canonical name = www.bain.com.dxcloud.episerver.net.
-www.bain.com.dxcloud.episerver.net	canonical name = www.bain.com.cdn.cloudflare.net.
-Name:	www.bain.com.cdn.cloudflare.net
-Address: 104.18.43.183
-Name:	www.bain.com.cdn.cloudflare.net
-Address: 172.64.144.73
+Name:	class5.sghgz.top
+Address: 172.67.173.133
+Name:	class5.sghgz.top
+Address: 104.21.30.185
+Name:	class5.sghgz.top
+Address: 2606:4700:3030::ac43:ad85
+Name:	class5.sghgz.top
+Address: 2606:4700:3036::6815:1eb9
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.9dc20.com
-Address: 127.0.0.1
+Name:	ub342.com
+Address: 172.67.186.46
+Name:	ub342.com
+Address: 104.21.19.128
+Name:	ub342.com
+Address: 2606:4700:3034::ac43:ba2e
+Name:	ub342.com
+Address: 2606:4700:3030::6815:1380
 

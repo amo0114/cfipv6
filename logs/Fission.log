@@ -8948,3 +8948,25 @@ Performing DNS lookup for www.freetarot.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c6efdf9] Update project files
+ 4 files changed, 53 insertions(+), 72 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   854a0f4..c6efdf9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.16.68...
+Fetching domains for 104.18.63.38...
+Fetching domains for 104.21.226.166...
+succeed to fetch domains for 104.18.16.68 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.226.166 from https://site.ip138.com/
+succeed to fetch domains for 104.18.63.38 from https://dnsdblookup.com/
+域名列表为
+['www.wn01.cc', '9dc20.com', 'www.whwanet.com', 'fzaoinn.com', 'diabetnovinteb.ir', 'sex5tvsk.com', 'www.iios.fun', 'ngfence.com', 'yaku2018.com', 'www.b7yy.cc', 'sunss.me', 'smartmat.com', 'www.kq566.com', 'www.yaku2018.com', 'www.yyxxi.com', 'q9wd.com', 'kp44.app', 'www.cn-jianan.com', 'www.taringa.net', 'www.pianku5.com', 'www.whpaiger.com', 'www.295k.com', '99re.xyz', 'eee.xyz', 'canhogoldmarkcity.vn', 'yx.887141.xyz', 'mfbox.com.cn', 'www.9dc20.com', '3344hk.com', 'shareinindia.in', '066187.icu', 'www.91m.cc', 'www.iios.club', 'www.caa1h6f.top', '355ca.com', 'www.a789af.com', 'www.sex5tvsk.com', '4hugg44.com', 'yh6.dtku41.xyz', 'achk.cloudflarest.link', '1.namesilo123.top', 'baxtc.66666654.xyz', 'www.88349.xyz', 'www.4huyy166.com', 'www.fzaoinn.com', 'www.xiancha123.co', 'numrollgy.pro', '233553.com', 'ddz69.com', 'www.69anu.com', 'www.ddwhm.com', 'a2.hh.887733.xyz', 'dg922.com', '118t.net', 'www.ddz69.com', 'www.355ca.com', '69anu.com', 'www.6988tv.com', 'www.3344hk.com', 'www.mfbox.com.cn', 'xjbsc.com', 'cdn.didi8.com', 'm.niuerzs.com', 'maomishequ-app.com', 'baidu-sex.com', 'www.noabags.com', 'www.maomishequ-app.com', 'www.baidu-sex.com', 'kq566.com', 'www.bain.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for kp44.app...
+Performing DNS lookup for www.bain.com...
+Performing DNS lookup for www.9dc20.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
