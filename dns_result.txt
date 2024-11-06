@@ -1,57 +1,23 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	3g.yemaye.top
-Address: 172.67.184.147
-Name:	3g.yemaye.top
-Address: 104.21.59.218
-Name:	3g.yemaye.top
-Address: 2606:4700:3036::ac43:b893
-Name:	3g.yemaye.top
-Address: 2606:4700:3034::6815:3bda
+** server can't find kp44.app: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.6988tv.com	canonical name = 6988tv.com.
-6988tv.com	canonical name = cf.cloudflare.182682.xyz.
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	cf.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	cf.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	cf.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	cf.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
+www.bain.com	canonical name = www.bain.com.dxcloud.episerver.net.
+www.bain.com.dxcloud.episerver.net	canonical name = www.bain.com.cdn.cloudflare.net.
+Name:	www.bain.com.cdn.cloudflare.net
+Address: 104.18.43.183
+Name:	www.bain.com.cdn.cloudflare.net
+Address: 172.64.144.73
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.freetarot.com
-Address: 104.26.12.240
-Name:	www.freetarot.com
-Address: 172.67.69.133
-Name:	www.freetarot.com
-Address: 104.26.13.240
-Name:	www.freetarot.com
-Address: 2606:4700:20::681a:df0
-Name:	www.freetarot.com
-Address: 2606:4700:20::681a:cf0
-Name:	www.freetarot.com
-Address: 2606:4700:20::ac43:4585
+Name:	www.9dc20.com
+Address: 127.0.0.1
 

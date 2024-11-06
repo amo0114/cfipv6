@@ -8926,3 +8926,25 @@ Performing DNS lookup for m.msgao.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 854a0f4] Update project files
+ 4 files changed, 93 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   302ef49..854a0f4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.238.155...
+Fetching domains for 104.21.18.171...
+Fetching domains for 104.26.13.240...
+succeed to fetch domains for 104.17.238.155 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.13.240 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.18.171 from https://dnsdblookup.com/
+域名列表为
+['www.microbattery.com', 'kytyy.com', 'tw-region-finder.rkh.co.uk', 'aiea.memberclicks.net', 'www.nsmh.org', 'www.vodbd.com', 'www.sansi02.com', 'www.rta.org', 'www.58ha.com', 'xinjuc.com', 'j2.zanzhz.tk', 'nas.000918.xyz', 'nsmh.org', 'www.cii2.org', 'cfsei.memberclicks.net', 'xbluntan86.live', 'www.nmhydz.com', 'www.ros-bot.com', 'namta.memberclicks.net', 'adma.org', 'm.yemaye.top', 'ecianow.org', 'www.mariefrance.fr', 'sansi02.com', 'www.652tv.com', '163fahao.com', 'www.ogr.org', 'eicar.fr', 'dk9991.com', 'leefire.in', 'news.pn', 'telusinternational.headway.ai', 'www.amcinstitute.org', 'nmahhc.memberclicks.net', 'www.fuliulc.cn', 'www.vcd.la', '33r.com', 'www.shellfish.org', 'zl.aitrjc.xyz', '7.namesilo123.top', 'h270.com', 'ccsss.net', 'ros-bot.com', 'www.sdbaiji.com', 'www.99wxw.cc', 'cctmath.org', 'abm.memberclicks.net', '91xj.me', 'sykb.cc', 'www.aere.org', 'zerotackle.com', 'www.zzztch.com', 'www.tcda.net', 'www.zcgs668.com', 'www.hc34g027.com', 'www.aieaworld.org', 'golfexperten.dk', 'm.81zw.me', '81zw.me', 'scene-rls.net', 'www.postcom.org', 'www.lzdaji.com', '8868.site', 'm.niuerzs.com', 'www.oadc.com', 'negn.memberclicks.net', 'www.iios.club', 'puzzlemaster.ca', 'jpy.fxexchangerate.com', 'www.taaonline.net', 'midwestarc.memberclicks.net', 'www.iios.me', 'www.paleosoc.org', 'www.puzzlemaster.ca', 'www.pqaalliance.org', 'www.certifiedmedicalinterpreters.org', 'www.cfhla.org', 'yemaye.top', 'rta.org', 'www.guilinlt.com', 'bdrcs.org', 'www.dadato8.com', 'www.casecec.org', 'www.ismpp.org', 'dadato8.com', 'www.e0101.com', '6.namesilo123.top', 'hanfeng888.com', 'www.csrc.org', 'vps.nha.gov.pk', 'www.testpublishers.org', 'www.amercrystalassn.org', 'www.eciaexecconference.org', 'www.healerwithinfoundation.org', 'www.750ts.com', '4423388.com', 'www.99wx.cc', 'www.wn05.cc', 'bnow.memberclicks.net', 'www.fasd.com', '3g.yemaye.top', 'recpro.memberclicks.net', 'autoconfig.mis.nha.gov.pk', 'www.wsra.net', 'www.nobcche.org', 'nobcche.org', 'www.6988tv.com', 'toba.memberclicks.net', 'hj421622.top', 'sbc.memberclicks.net', 'www.tradegateio-pro.com', 'www.8868.site', 'www.a817.xyz', 'nbzgh.cn', '5zvuxq.top', 'assets.ros-bot.com', 'www.ktia.com', 'www.91xj.me', 'www.physicianfamilymedia.org', 'propertyscout.co.th', 'www.openadr.org', 'daohang02.top', 'm.000918.xyz', 'www.aspi.org', 'www.xncwxw.net', 'www.cubesaas.com', 'heinu.cc', 'inns.org', 'www.bvllink.top', '750ts.com', 'afssociety.org', 'www.ub888.com', 'www.yemaye.top', 'www.akriceinstitute.org', 'compactflash.org', 'mopa.memberclicks.net', 'javdoe.fun', 'www.wfkangxin.com', 'www.heinu.cc', 'oca.memberclicks.net', 'yv88.cc', 'memberclicks.net', 'booktrib.com', 'sspatoday.com', 'www.fma.org', '520zh.cfd', 'cf.yx.alue.link', 'kangaroo.wiki', 'lastrada.ne.jp', 'www.sspatoday.com', 'www.0452yxzc.com', 'www.wxypa.cn', 'hc34g027.com', 'www.freetarot.com', 'rainproxy.io', 'www.golfexperten.dk', 'www.21hub.com', 'hitostat.com', 'www.81zw.me', 'www.cb-association.org', 'm.xncwxw.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3g.yemaye.top...
+Performing DNS lookup for www.6988tv.com...
+Performing DNS lookup for www.freetarot.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
