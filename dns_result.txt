@@ -2,38 +2,23 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.guokelong.top
-Address: 172.67.199.187
-Name:	www.guokelong.top
-Address: 104.21.42.33
-Name:	www.guokelong.top
-Address: 2606:4700:3033::ac43:c7bb
-Name:	www.guokelong.top
-Address: 2606:4700:3035::6815:2a21
+hkaa.geotrust.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global35.66666654.xyz.
+Name:	cfcn-b-global35.66666654.xyz
+Address: 104.20.18.163
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	a234pk.com
-Address: 104.21.12.193
-Name:	a234pk.com
-Address: 172.67.132.96
-Name:	a234pk.com
-Address: 2606:4700:3030::6815:cc1
-Name:	a234pk.com
-Address: 2606:4700:3030::ac43:8460
+Name:	www.tv9090.com
+Address: 208.98.40.14
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	sexmanga.pro
-Address: 172.67.176.201
-Name:	sexmanga.pro
-Address: 104.21.17.132
-Name:	sexmanga.pro
-Address: 2606:4700:3034::ac43:b0c9
-Name:	sexmanga.pro
-Address: 2606:4700:3032::6815:1184
+Name:	www.xworldadmin.com
+Address: 209.50.56.127
 

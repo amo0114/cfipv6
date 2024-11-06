@@ -9036,3 +9036,25 @@ Performing DNS lookup for www.cbcv.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 528a7d5] Update project files
+ 4 files changed, 72 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   8074a8a..528a7d5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.7.87...
+Fetching domains for 104.18.178.228...
+Fetching domains for 104.21.17.132...
+succeed to fetch domains for 104.18.7.87 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.178.228 from https://site.ip138.com/
+succeed to fetch domains for 104.21.17.132 from https://ipchaxun.com/
+域名列表为
+['sexmanga.pro', '757yygh.top', 'cfip.xxxxxxxx.tk', 'www.kkkab.com', '2.sanfen002.top', 'yd.xingsu.fun', 'www.yhsqxy.com', 'guokelong.top', 'portableappk.com', 'www.anluyg.net', 'www.5522tl.com', 'www.946611.com', 'www.4huee25.com', 'reibrollen-lemminge.com', 'www.757yygh.top', '93456.top', '3g.757yygh.top', 'www.8899tl.com', 'crackerpie.net', 'www.848jj.com', '69av7498.cc', 'www.4huff38.com', 'mhl456.com', 'www.hm11.lol', 'hongdanbifen.com', 'www.70wmm.com', 'tool2008.com', 'tb.taobao0025.com', 'conf.games179.com', 'm.pnfrsp.top', '789kp.com', 'www.999998.vip', 'uqu.edu.sa', 'lianshang.world', 'g.yase997.com', '999ccr.com', 'a234pk.com', 'bbmv3.com', 'www.xutian88.com', 'cvapp.no', '91av30.xyz', 'bil1din.no', 'cdn-downloads.000023.xyz', 'www.manufacturingleadershipcouncil.com', 'm.guokelong.top', '4huee25.com', 'm.757yygh.top', 'kostenfreie-pornos.com', 'speedip.tuyoyo.eu.org', '4huff38.com', 'thecustomisedstore.com', 'www.guokelong.top', 'www.akuale.cn', '795cf.com', '70wmm.com', 'www.a234pk.com', 'xxav.net', 'crazyfiction.xyz', '9876000.com', 'xieyao.xutian88.com', 'pw.015x92.xyz', '6jwcopb9fkndzz.top', 'mmvmtx.xyz', 'www.99wxw.cc', '946611.com', 'www.pianku5.com', 'www.mv432.com', 'www.2k2.net', 'www.sex5vv.com', 'www.xueyuanma.top', 'www.795cf.com', 'www.nitianzw.com', 'tp1762.cc', 'nlsdwsz.66666654.xyz', 'speedcl.5489265.xyz', '669733.com', 'jpnewacs.114514782.xyz', 'www.sexmanga.pro', 'rm.xutian88.com', 'yinyeyinwu.cn', 'cable1111.cc', 'www.intech-star.com', 'www.cl92da.com', 'wap.guokelong.top', 'wap.pnfrsp.top', 'www.gongjiangjiuye.com', 'www.fatima.pt', '3g.ss781ns.top', '6dm.cc', 'www.tv9090.com', 'www.gytouch.com.cn', 'benbensf.cn', 'www.niuniu9.com', 'gytouch.com.cn', 'www.hnxtx.com', 'ss781ns.top', '848jj.com', 'www.jjrbb.top', 'cf.yx.alue.link', 'www.mhl456.com', 'www.38ee.net', '3g.guokelong.top', 'chat.openai.com', 'pmg.org.za', 'www.lusee1.com', 'xutian88.com', 'www.bc555.vip', 'www.tlbb888.com', 'aolink.io', 'sex5vv.com', 'bc555.vip', '38ee.net', 'www.lyzdzy.com', 'wap.757yygh.top', 'www.at777.com', 'www.kbss888.com', 'www.999ccr.com', 'www.yinyeyinwu.cn', '10.sanfen002.top', 'lfa.xutian88.com', 'fvhfnw.com', 'jjrbb.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.guokelong.top...
+Performing DNS lookup for a234pk.com...
+Performing DNS lookup for sexmanga.pro...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
