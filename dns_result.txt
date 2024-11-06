@@ -1,35 +1,28 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	e0101.com
-Address: 199.59.243.227
+** server can't find www.ssh889.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-galzy.eu.org	canonical name = cdn.jerryyang.eu.org.
-Name:	cdn.jerryyang.eu.org
-Address: 104.21.77.183
-Name:	cdn.jerryyang.eu.org
-Address: 172.67.210.240
-Name:	cdn.jerryyang.eu.org
-Address: 2606:4700:3031::ac43:d2f0
-Name:	cdn.jerryyang.eu.org
-Address: 2606:4700:3032::6815:4db7
+www.yan176.com	canonical name = host1108236b.host1068.zhamerica.com.
+Name:	host1108236b.host1068.zhamerica.com
+Address: 23.224.10.238
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 104.21.30.140
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 172.67.172.249
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:1e8c
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:acf9
+www.90qr.com	canonical name = host1111905a.c2.huyuncdn.xyz.
+host1111905a.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
