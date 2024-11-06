@@ -2,24 +2,36 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	h5.xjav43.com
-Address: 103.224.182.253
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find cx2.wklskirjdn.com: NXDOMAIN
+www.wubei520.com	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 172.67.165.85
+Name:	cf.host106.america96.com
+Address: 104.21.15.245
+Name:	cf.host106.america96.com
+Address: 2606:4700:3036::ac43:a555
+Name:	cf.host106.america96.com
+Address: 2606:4700:3037::6815:ff5
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.jga4.com
-Address: 104.21.18.111
-Name:	www.jga4.com
-Address: 172.67.181.157
-Name:	www.jga4.com
-Address: 2606:4700:3036::ac43:b59d
-Name:	www.jga4.com
-Address: 2606:4700:3036::6815:126f
+Name:	www.7277tl.com
+Address: 127.0.0.1
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.cbcv.cc	canonical name = cbcv.cc.
+cbcv.cc	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 

@@ -8992,3 +8992,25 @@ Performing DNS lookup for ub342.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1df6540] Update project files
+ 4 files changed, 55 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   c7c3491..1df6540  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.190.155...
+Fetching domains for 104.22.53.170...
+Fetching domains for 104.21.18.111...
+succeed to fetch domains for 104.21.18.111 from https://site.ip138.com/
+succeed to fetch domains for 104.22.53.170 from https://site.ip138.com/
+succeed to fetch domains for 104.18.190.155 from https://dnsdblookup.com/
+域名列表为
+['telegrajli.com', '555hhx.com', 'chmeb.qwecdfv.cyou', 'www.shiowea.cn', 'sc14r.ru', 'app.ctinews.com', 'aplifeng.com', 'www.99wx.cc', 'huol.anhipq.com', 'h5.xjav43.com', 'wwwbaoyu118.com', 'www.luwangyangrong.com', 'www.dameilady.com', 'www.vtglbma.cn', 'seqingfl.top', 'www.bestmao.com', 'jhsp.me', 'xjav43.com', 'www.nangua55.com', 'cl.6238x.xyz', 'jga4.com', 'admin.wozmara.com', 'm.tianyunxi.top', 'qb.niible.com', 'daniu.bbnlsl.top', 'mlsub.net', 'www.jga4.com', 'haidh1.cc', 'www.seqingfl.top', 'zhjkong.com', 'that8.cyou', 'www.jazan.cn', 'm.5awxw.com', 'www.aplifeng.com', 'a.seaceo.top', 'hongxingwangzhi.com', 'klt.haswh.com', 'bbidi.com', 'xingbangjc.com', 'www.sdhuaweistone.com', '89fa66b2.xkokelgao.me', 'www.yhz8866.com', 'www.wozmara.com', 'yhz8866.com', 'zergsea.com', 'www.ppx148.com', 'deep.ctinews.com', 'dsxys.pro', 'ipingjiao.com', 'www.jessysboats.com', 'wap.tianyunxi.top', '3g.tianyunxi.top', 'dameilady.com', 'www.pnz10.cn', 'cx2.wklskirjdn.com', 'www.raudikrossinn.is', 'www.tpyyc.com', 'w.whaiopprde.com', '99b36.com', '01122233.com', 'www.4hus69.com', 'tianyunxi.top', 'www.haisenzn.com', 'skyndihjalp.raudikrossinn.is', 'zi0.cc', 'y3600.cz', 'www.tianyunxi.top', 'saadonshop.co.il', '199tv.xyz', 'jessysboats.com', 'klll.anhisq.com', 'www.xjav43.com', '077bb.vip', 'sjalfbodalidar.raudikrossinn.is', 'www.q2054.com', 'aeiboston.cn', 'haisenzn.com', '4hus69.com', 'www.663dy.com', 'gw-dc.net', 'www.saadonshop.co.il', 'www.that8.cyou', '52xiyangyang.com', 'www.mafa.app', 'www.555hhx.com', 'www.hongxingwangzhi.com', 'ppx148.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for h5.xjav43.com...
+Performing DNS lookup for cx2.wklskirjdn.com...
+Performing DNS lookup for www.jga4.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
