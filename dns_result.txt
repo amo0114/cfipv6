@@ -2,36 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wubei520.com	canonical name = cf.host106.america96.com.
-Name:	cf.host106.america96.com
-Address: 172.67.165.85
-Name:	cf.host106.america96.com
-Address: 104.21.15.245
-Name:	cf.host106.america96.com
-Address: 2606:4700:3036::ac43:a555
-Name:	cf.host106.america96.com
-Address: 2606:4700:3037::6815:ff5
+Name:	www.guokelong.top
+Address: 172.67.199.187
+Name:	www.guokelong.top
+Address: 104.21.42.33
+Name:	www.guokelong.top
+Address: 2606:4700:3033::ac43:c7bb
+Name:	www.guokelong.top
+Address: 2606:4700:3035::6815:2a21
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.7277tl.com
-Address: 127.0.0.1
+Name:	a234pk.com
+Address: 104.21.12.193
+Name:	a234pk.com
+Address: 172.67.132.96
+Name:	a234pk.com
+Address: 2606:4700:3030::6815:cc1
+Name:	a234pk.com
+Address: 2606:4700:3030::ac43:8460
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.cbcv.cc	canonical name = cbcv.cc.
-cbcv.cc	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
+Name:	sexmanga.pro
+Address: 172.67.176.201
+Name:	sexmanga.pro
+Address: 104.21.17.132
+Name:	sexmanga.pro
+Address: 2606:4700:3034::ac43:b0c9
+Name:	sexmanga.pro
+Address: 2606:4700:3032::6815:1184
 

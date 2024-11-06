@@ -9014,3 +9014,25 @@ Performing DNS lookup for www.jga4.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8074a8a] Update project files
+ 4 files changed, 69 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   1df6540..8074a8a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.253.156...
+Fetching domains for 104.18.16.167...
+Fetching domains for 104.17.236.80...
+succeed to fetch domains for 104.17.253.156 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.16.167 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.236.80 from https://ipchaxun.com/
+域名列表为
+['www.993my.com', 'www.m6y6.com', 'www.xkx999.com', 'www.52ggd.com', 'www.88wwk.com', 'yiqi1234.com', 'openapi.digifinex.com', 'api.digifinex.com', 'm.52ggd.com', 'www.97777pk.com', 'www.tlbb888.com', 'www.puffsme.com', 'ysz8.com', 'www.biqune.com', 'www.dzy66666.com', 'www.7277tl.com', 'maomp.net', 'www.99xkxtl.com', 'www.hljsghb.com', '1.namesilo123.top', 'yxy176.com', 'www.longyuancq.com', 'www.d234d.com', 'www.4hu17m.com', 'www.sf52l.com', 'sgaa.sectigo.pp.ua', 'www.a456ph.com', 'a456ph.com', 'www.laopm.com', 'www.niuniu9.com', 'www.11amy.com', 'www.789kp.com', '789kp.com', 'tzcymoe.com', 'd234d.com', 'www.hishuku.com', 'www.yh9pk.com', 'jq.jiaqiang888.top', 'kan234.com', 'xfltd.net', 'www.b2p88.com', 'dsxys.com', '669acg.com', 'www.rxjh520.cc', 'www.pk299.com', 'digifinex.com', 'www.ccbbdb.top', 'www.ddwhm.com', 'www.20cy.com', 'www.dbb168.com', 'www.339my.xyz', 'www.tx58tl.com', 'www.iios.club', 'www.nwwtl.com', 'dbb168.com', 'www.tl123123.com', 'www.cx888my.com', 'wwwww.net78.top', 'www.930my.com', 'pk299.com', 'www.wubei520.com', 'www.rve6.com', 'www.cbcv.cc', 'www.bdyy1.xyz', 'rve6.com', 'www.dcs99.com', 'www.bbe.caltech.edu', 'cfip.xxxxxxxx.tk', 'www.xinyi176.com', 'www.shy6666.com', 'm.digifinex.com', 'www.6xr.com', '4hu17m.com', 'telegrajli.com', 'www.hhyy028.com', 'www.kbss888.com', 'www.zlcq520.com', 'dzy66666.com', 'b2p88.com', 'www.digifinex.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wubei520.com...
+Performing DNS lookup for www.7277tl.com...
+Performing DNS lookup for www.cbcv.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
