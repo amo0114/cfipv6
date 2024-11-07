@@ -9190,3 +9190,25 @@ Performing DNS lookup for www.cfhuagong.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 86a1206] Update project files
+ 4 files changed, 64 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   439a778..86a1206  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.172.4...
+Fetching domains for 104.21.236.211...
+Fetching domains for 104.25.129.121...
+succeed to fetch domains for 104.25.129.121 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.236.211 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.172.4 from https://dnsdblookup.com/
+域名列表为
+['iook.buzz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.92mili.com', 'www.gzcfmy.com', 'mtav.xyz', 'www.bm158.com', 'hkaa.sectigo.pp.ua', 'www.96dushu.com', 'www.4148.net', 'www.954av.com', 'www.shsxjzzs.com', 'torrentz2.nz', 'www.dafuhao.com', '88a1988.cc', 'www.93xscc.com', 'www.ddwhm.com', 'www.xwbhk.com', 'yh6.dtku41.xyz', 'www.xworldadmin.com', 'zpdyw.com', 'philosophybasics.com', 'www.nangua55.com', 'www.56maoeb.com', 'cdn.cf.clun.top', 'www.gdriustb.com', 'www.luwangyangrong.com', 'www.6988tv.com', 'www.bjfqmj.com', 'www.philosophybasics.com', 'www.rmsxs.com', 'www.hosemicon.com', 'www.91m.cc', 'www.28et.com', '954av.com', 'wap.zkiiip.top', 'www.90dushu.com', 'kanmanhuala.cc', 'www.52dgm.cn', 'www.x52bq.com', 'litv.zapi.us.kg', 'www.hxsy888.com', 'www.whpaiger.com', 'nlsdwsz.66666654.xyz', 'zkiiip.top', 'www.6i5.com', 'www.paizipai.top', 'www.295k.com', 'www.hehuamei.com', 'www.zhongyunyang.com', '4433.im', 'www.17kty.com', 'www.qiyuanxs.com', 'www.lailai360.com', 'yundunwawablogcdn1dx.wawacm.com', 'jessiskitchen.com', 'yundunwawablogcdn1yd.wawacm.com', 'baxtc.66666654.xyz', '56maoeb.com', 'yx.887141.xyz', 'www.lyys8.com', 'www.jsdrtzn.com', 'k8zy.top', 'araratnews.am', '6i5.com', '9958803.com', '370ld.com', 'www.9958803.com', 'www.yqkbook.com', 'www.iook.buzz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 370ld.com...
+Performing DNS lookup for www.90dushu.com...
+Performing DNS lookup for k8zy.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
