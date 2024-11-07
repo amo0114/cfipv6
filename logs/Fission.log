@@ -9256,3 +9256,25 @@ Performing DNS lookup for cbsedu.com.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8545c44] Update project files
+ 4 files changed, 71 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   8e900f2..8545c44  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.229.192...
+Fetching domains for 104.25.0.50...
+Fetching domains for 104.21.29.162...
+succeed to fetch domains for 104.25.0.50 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.229.192 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.29.162 from https://site.ip138.com/
+域名列表为
+['ygbb.rapidssl.pp.ua', 'www.xworldadmin.com', 'unifi.chayora.top', 'docker.mytvsuper.us.kg', '234614.com', 'www.rrtext.com', 'www.lyys8.com', 'www.8a6b1.com', 'www.papagoav.club', 'www.njsshw.cn', '033ld.cn', 'jushiyong.com', 'm.dongman.la', 'papagoav.club', 'acus.cloudflarest.link', 'www.amcwrg.top', 'www.92mili.com', 'www.bonimonline.co.il', 'nodedefi3.com', '456851.com', 'acgmiao.com', 'www.jushiyong.com', 'kanshu521.com', 'zoomtv.cc', 'www.orukudw.top', '6334hu.com', 'wap.orukudw.top', 'www.zzztch.com', 'fzxx.xyz', 'cfip.xxxxxxxx.tk', 'www.fz-hxgy.com', 'www.fnw.com.hk', 'www3886.com', 'dapp.stcdao.vip', 'qq67.xyz', 'baigou.vip', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.3344ei.com', 'www.vipbj.monster', 'fd718.2506265239.workers.dev', 'www.6988tv.com', 'www.whpaiger.com', 'amcwrg.top', 'www.tpyyc.com', 'www.tichain.cc', 'www.sctm.org', 'sctm.org', 'www.tjguanrong.com', 'www.234614.com', 'm.amcwrg.top', 'dl.pbcc1.com', 'www.dongman.la', 'www.wmxlfirst.com', 'bdshengjia.com', 'www.xinjuc.com', '3g.amcwrg.top', 'lgserviciotecnico.net', 'www.28et.com', '3g.ngmlyw.top', 'pbcc1.com', 'qqshop8889.com', 'nlsdwsz.66666654.xyz', 'www.295k.com', 'xmoviesforyou.com', '521lianmeng.com', 'yx.887141.xyz', 'www.30hu.com', 'freeyx.cloudflare88.eu.org', 'bonimonline.co.il', 'm.orukudw.top', 'tunneltransfer.bpyjc.com', 'www.50zw.co', 'h5.033ld.cn', 'kzzheyqbtoic.cc', '3g.orukudw.top', 'www.taichangpawn.com', 'ht26.cc', 'www.2tv.tv', 'ee66.tk', 'ferragamo-outlet.com', 'www.qumiyun.com', 'sdpysz.com', 'www.acgmiao.com', 'achk.cloudflarest.link', 'orukudw.top', 'www.wangzhijun.com.cn', 'dsxys.com', '8a6b1.com', 'dongman.la', 'www.zoomtv.cc', 'www.l758c.com', 'hg901.com', 'www.ddwhm.com', 'esgmeta.io', '3344ei.com', 'reg.pbcc1.com', '486gt.com', 'laowang.co', 'www.hg901.com', 'wap.amcwrg.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wangzhijun.com.cn...
+Performing DNS lookup for m.orukudw.top...
+Performing DNS lookup for orukudw.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

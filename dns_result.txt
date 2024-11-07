@@ -2,38 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.wangzhijun.com.cn
-Address: 104.21.83.253
-Name:	www.wangzhijun.com.cn
-Address: 172.67.184.4
-Name:	www.wangzhijun.com.cn
-Address: 2606:4700:3033::6815:53fd
-Name:	www.wangzhijun.com.cn
-Address: 2606:4700:3032::ac43:b804
+Name:	suboji.com
+Address: 13.248.169.48
+Name:	suboji.com
+Address: 76.223.54.146
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.orukudw.top
-Address: 172.67.215.18
-Name:	m.orukudw.top
-Address: 104.21.86.47
-Name:	m.orukudw.top
-Address: 2606:4700:3036::6815:562f
-Name:	m.orukudw.top
-Address: 2606:4700:3030::ac43:d712
+Name:	www.0550cq.com
+Address: 103.150.11.223
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	orukudw.top
-Address: 104.21.86.47
-Name:	orukudw.top
-Address: 172.67.215.18
-Name:	orukudw.top
-Address: 2606:4700:3030::ac43:d712
-Name:	orukudw.top
-Address: 2606:4700:3036::6815:562f
+** server can't find yx.887141.xyz: NXDOMAIN
 
