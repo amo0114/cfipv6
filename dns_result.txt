@@ -2,33 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 91.195.240.12
+Name:	www.wangzhijun.com.cn
+Address: 104.21.83.253
+Name:	www.wangzhijun.com.cn
+Address: 172.67.184.4
+Name:	www.wangzhijun.com.cn
+Address: 2606:4700:3033::6815:53fd
+Name:	www.wangzhijun.com.cn
+Address: 2606:4700:3032::ac43:b804
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.maybelline.nl
-Address: 172.64.151.121
-Name:	www.maybelline.nl
-Address: 104.18.36.135
-Name:	www.maybelline.nl
-Address: 2606:4700:4400::ac40:9779
-Name:	www.maybelline.nl
-Address: 2606:4700:4400::6812:2487
+Name:	m.orukudw.top
+Address: 172.67.215.18
+Name:	m.orukudw.top
+Address: 104.21.86.47
+Name:	m.orukudw.top
+Address: 2606:4700:3036::6815:562f
+Name:	m.orukudw.top
+Address: 2606:4700:3030::ac43:d712
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-cbsedu.com.cn	canonical name = 1.yun-web3.top.
-Name:	1.yun-web3.top
-Address: 172.67.159.31
-Name:	1.yun-web3.top
-Address: 104.21.9.55
-Name:	1.yun-web3.top
-Address: 2606:4700:3037::ac43:9f1f
-Name:	1.yun-web3.top
-Address: 2606:4700:3036::6815:937
+Name:	orukudw.top
+Address: 104.21.86.47
+Name:	orukudw.top
+Address: 172.67.215.18
+Name:	orukudw.top
+Address: 2606:4700:3030::ac43:d712
+Name:	orukudw.top
+Address: 2606:4700:3036::6815:562f
 
