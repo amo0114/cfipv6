@@ -2,20 +2,47 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	suboji.com
-Address: 13.248.169.48
-Name:	suboji.com
-Address: 76.223.54.146
+www.tuav36.com	canonical name = cdn.mao50456.com.
+Name:	cdn.mao50456.com
+Address: 104.26.11.129
+Name:	cdn.mao50456.com
+Address: 104.26.10.129
+Name:	cdn.mao50456.com
+Address: 172.67.72.36
+Name:	cdn.mao50456.com
+Address: 2606:4700:20::ac43:4824
+Name:	cdn.mao50456.com
+Address: 2606:4700:20::681a:b81
+Name:	cdn.mao50456.com
+Address: 2606:4700:20::681a:a81
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.0550cq.com
-Address: 103.150.11.223
+Name:	tuav36.com
+Address: 104.26.11.129
+Name:	tuav36.com
+Address: 104.26.10.129
+Name:	tuav36.com
+Address: 172.67.72.36
+Name:	tuav36.com
+Address: 2606:4700:20::ac43:4824
+Name:	tuav36.com
+Address: 2606:4700:20::681a:b81
+Name:	tuav36.com
+Address: 2606:4700:20::681a:a81
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find yx.887141.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	www.javmost.com
+Address: 104.27.203.89
+Name:	www.javmost.com
+Address: 104.27.204.89
+Name:	www.javmost.com
+Address: 2606:4700:21::681b:cb59
+Name:	www.javmost.com
+Address: 2606:4700:21::681b:cc59
 
