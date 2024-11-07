@@ -1,27 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find nuwa18.com: NXDOMAIN
+Non-authoritative answer:
+Name:	id.merchant.starpago.com
+Address: 104.26.6.137
+Name:	id.merchant.starpago.com
+Address: 104.26.7.137
+Name:	id.merchant.starpago.com
+Address: 172.67.68.158
+Name:	id.merchant.starpago.com
+Address: 2606:4700:20::ac43:449e
+Name:	id.merchant.starpago.com
+Address: 2606:4700:20::681a:689
+Name:	id.merchant.starpago.com
+Address: 2606:4700:20::681a:789
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-cloudflares.666999.world	canonical name = 94950.bodis.com.
-Name:	94950.bodis.com
-Address: 199.59.243.227
+Name:	vmengfx.com
+Address: 38.174.193.232
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hxsy888.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.62.63
-Name:	cf.zmdhc.com
-Address: 172.67.59.172
-Name:	cf.zmdhc.com
-Address: 172.67.15.31
-Name:	cf.zmdhc.com
-Address: 172.67.48.153
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
