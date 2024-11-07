@@ -2,30 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	id.merchant.starpago.com
-Address: 104.26.6.137
-Name:	id.merchant.starpago.com
-Address: 104.26.7.137
-Name:	id.merchant.starpago.com
-Address: 172.67.68.158
-Name:	id.merchant.starpago.com
-Address: 2606:4700:20::ac43:449e
-Name:	id.merchant.starpago.com
-Address: 2606:4700:20::681a:689
-Name:	id.merchant.starpago.com
-Address: 2606:4700:20::681a:789
+Name:	370ld.com
+Address: 172.67.172.4
+Name:	370ld.com
+Address: 104.21.79.240
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	vmengfx.com
-Address: 38.174.193.232
+www.90dushu.com	canonical name = back.52biqv.com.
+Name:	back.52biqv.com
+Address: 104.21.53.154
+Name:	back.52biqv.com
+Address: 172.67.214.157
+Name:	back.52biqv.com
+Address: 2606:4700:3034::ac43:d69d
+Name:	back.52biqv.com
+Address: 2606:4700:3032::6815:359a
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+k8zy.top	canonical name = k8zy.top.cdn.cloudflare.net.
+Name:	k8zy.top.cdn.cloudflare.net
+Address: 172.67.172.4
+Name:	k8zy.top.cdn.cloudflare.net
+Address: 104.21.79.240
 

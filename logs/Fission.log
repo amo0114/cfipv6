@@ -9168,3 +9168,25 @@ Performing DNS lookup for www.hxsy888.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 439a778] Update project files
+ 4 files changed, 63 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   72b0cbe..439a778  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.226.12...
+Fetching domains for 104.26.7.137...
+Fetching domains for 104.21.23.208...
+succeed to fetch domains for 104.21.226.12 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.7.137 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.23.208 from https://site.ip138.com/
+域名列表为
+['www.yidobag.com', '7.namesilo123.top', 'www.pingfandeshijie.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'speeken.com', '33666.cn', 'electrodh.com', 'diyibanzhu7.xyz', 'www.brcomic.club', 'zgatar.com', 'm.sunshinemusic.cn', 'www.fb88abc.com', 'www.mercadomilitar.com', 'travelingyuk.com', 'www.p8gu8.cn', 'zjrx.mrxwzx.com.cn', 'www.hm13.lol', 'cargo.litrail.lt', 'reef.finance', 'sixhill.com', 'www.migudy.com', 'fangkuaiqipai.com', 'brcomic.club', 'www.cgltg.com', 'hentaivn.net', 'ptcms.com', 'www.sixyin.com', 'kfd.me', 'www.sarahwilson.com', 'www.naimilu.com', 'cangpinhui.com.cn', 'motortrader.com.my', 'www.ldssz.com', 'www.zgatar.com', '83ss.net', 'www.83ss.net', 'bb66889.com', 'd0000d.com', 'www.50zw.co', 'jkl.zbds.club', 'ata-plmsoftware.com', 'cfip.xxxxxxxx.tk', 'iios.fun', '235pass.com', 'api-web.xe1111.com', '8mav1642.com', 'mxvideos7.vip', 'www.qnet.net', 'www.huanhuanquan.com', 'cloudflare.cfgo.cc', 'www.4hul.3f.com', 'www.diyibanzhu7.xyz', '9ehao.com', 'www.266958.com', 'm.scly8.top', '3f.com', 'yh6.dtku41.xyz', 'www.olovetime.com', 'www.9ehao.com', 'www.ptcms.com', 'www.sixhill.com', 'www.qdbangsen.com', 'aliexchange.com', 'scly8.top', 'www.xkceo.com', 'sarahwilson.com', 'pingfandeshijie.com', 'litrail.lt', 'vmengfx.com', 'www.omd2008.com', 'id.sixhill.com', 'www.tpyyc.com', 'baxtc.66666654.xyz', 'jam-news.net', 'zbds.club', 'www.fangkuaiqipai.com', 'id.merchant.starpago.com', 'psww.cc', '60u1x.app', 'www.3f.com', 'wap.scly8.top', 'www.ea7.3f.com', 'www.nitianxieshen.com', 'rua.gr', 'www.28et.com', '18khf.xyz', 'www.petagadget.com', 'www.electrodh.com', 'www.beitai.pt', 'www.91m.cc', 'avhuangse.com', 'yidobag.com', 'xsyx900.com', 'www.iios.club', 'www.bj-cnpl.com', 'stock.mephisto.cc', 'www.99wx.cc', 'm.niuerzs.com', 'ctbc-mortgage.com', 'www.whpaiger.com', 'iios.club', 'presidentialtransition.org', 'm.66shuwang.com', 'www.luwangyangrong.com', 'www.1080hj.com', 'www.gaycn.top', 'www.cfhuagong.com', 'www.s017.top', 'kabbos.com', 'www.lcsgo.com', 'tj.speeken.com', 'www.sunshinemusic.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for id.merchant.starpago.com...
+Performing DNS lookup for vmengfx.com...
+Performing DNS lookup for www.cfhuagong.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
