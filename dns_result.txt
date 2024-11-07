@@ -2,39 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	blog.uuz.moe
-Address: 104.21.52.80
-Name:	blog.uuz.moe
-Address: 172.67.196.235
-Name:	blog.uuz.moe
-Address: 2606:4700:3034::6815:3450
-Name:	blog.uuz.moe
-Address: 2606:4700:3033::ac43:c4eb
+Name:	www.lyzdzy.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	lx17.62044.cc
-Address: 172.67.196.235
-Name:	lx17.62044.cc
-Address: 104.21.52.80
-Name:	lx17.62044.cc
-Address: 2606:4700:3033::ac43:c4eb
-Name:	lx17.62044.cc
-Address: 2606:4700:3034::6815:3450
+Name:	www.maybelline.nl
+Address: 172.64.151.121
+Name:	www.maybelline.nl
+Address: 104.18.36.135
+Name:	www.maybelline.nl
+Address: 2606:4700:4400::ac40:9779
+Name:	www.maybelline.nl
+Address: 2606:4700:4400::6812:2487
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.80yy.org	canonical name = ccc.seogg.com.
-Name:	ccc.seogg.com
-Address: 104.21.22.14
-Name:	ccc.seogg.com
-Address: 172.67.201.211
-Name:	ccc.seogg.com
-Address: 2606:4700:3033::ac43:c9d3
-Name:	ccc.seogg.com
-Address: 2606:4700:3035::6815:160e
+cbsedu.com.cn	canonical name = 1.yun-web3.top.
+Name:	1.yun-web3.top
+Address: 172.67.159.31
+Name:	1.yun-web3.top
+Address: 104.21.9.55
+Name:	1.yun-web3.top
+Address: 2606:4700:3037::ac43:9f1f
+Name:	1.yun-web3.top
+Address: 2606:4700:3036::6815:937
 

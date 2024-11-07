@@ -9212,3 +9212,25 @@ Performing DNS lookup for k8zy.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f23db76] Update project files
+ 4 files changed, 71 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   86a1206..f23db76  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.52.80...
+Fetching domains for 104.21.210.237...
+Fetching domains for 172.64.129.90...
+succeed to fetch domains for 104.21.210.237 from https://ipchaxun.com/
+succeed to fetch domains for 172.64.129.90 from https://site.ip138.com/
+succeed to fetch domains for 104.21.52.80 from https://ipchaxun.com/
+域名列表为
+['lk99.cn', 'environment-lab.ir', 'www.gzlatin.com', 'www.295k.com', 'www.nmjpy.shop', 'www.fnyy666.com', 'www.shrmdqc.com', 'www.c333.net', 'www.independentherald.com', 'miaocc.top', 'www.paizipai.top', 'www.feiwu.tv', 'lx36.62044.cc', 'pic.tmsmh.com', '130686.com', 'flxba.com', 'www.jjtyss.com', 'www.suhukj.cn', 'www.28et.com', 'id.moddroid.com', '20001.space', 'www.fayansi.org', 'www.kanju8.com', 'moddroid.com', '3g.miaocc.top', 'www.80yy.org', 'threathunter.org', '62044.cc', 'www.dy420.com', '9886i.com', 'www.dy1255.com', 'www.mydytt.com', 'cc.dmr2.icu', 'www.uu862.com', 'www.huanyaad.com', 'mxtv048.xyz', 'benny.id', 'zhuifan.link', 'cdn2.5gj87.xyz', 'www.51dzhx.com', 'www.caca27.com', 'e-nrg.co.uk', 'www.smdyy.cc', 'www.dgyrh49.cn', 'www.9886i.com', 'wanmeikankan.net', 'caca27.com', 'www.9ehao.com', 'www.130686.com', 'www.emgvideo.com', 'www.skiespro.net', 'www.alxuan.com', 'www.environment-lab.ir', 'www.6i5.com', 'blog.cyznb.eu.org', 'javdb7.com', '9527acg.com', 'f123w.com', 'mkk98.com', 'cl38a5.com', 'm.kuaikan66.com', 'xianyourencai.com', 'www.606977.com', 'www.gyhbhq.com', 'www.javdb7.com', 'www.qire88.com', '66mio.buzz', 'www.f123w.com', 'cleimblasdiolcp3129.top', '5gj87.xyz', 'm.niuerzs.com', 'www.iios.club', 'www.ddwhm.com', 'blog.uuz.moe', 'www.tpyyc.com', 'www.0550cq.com', 'www.82837.com', 'www.miaocc.top', 'liaoxuefeng.com', 'www.luwangyangrong.com', 'www.tv9090.com', '7gaogg.com', 'www.630book.com', 'www.cl38a5.com', 'www.lk99.cn', 'www.20001.space', 'newestxxx.com', '82837.com', 'wap.miaocc.top', 'www.xianyourencai.com', 'www.fulilyr.cn', 'uu862.com', 'www.moddroid.com', 'm.miaocc.top', 'www.xmkasun.cn', 'www.hmoeh.com', 'www.liaoxuefeng.com', 'i90p.com', 'www.652tv.com', 'lx17.62044.cc', 'www.90dushu.com', 'www.zzgszg.com', 'uuz.moe']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for blog.uuz.moe...
+Performing DNS lookup for lx17.62044.cc...
+Performing DNS lookup for www.80yy.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
