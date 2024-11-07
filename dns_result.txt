@@ -1,36 +1,27 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	eee346.com
-Address: 104.21.66.28
-Name:	eee346.com
-Address: 172.67.155.176
+** server can't find nuwa18.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.17kty.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.21.177
-Name:	cf.zmdhc.com
-Address: 172.67.93.20
-Name:	cf.zmdhc.com
-Address: 172.67.185.131
-Name:	cf.zmdhc.com
-Address: 172.67.17.188
+cloudflares.666999.world	canonical name = 94950.bodis.com.
+Name:	94950.bodis.com
+Address: 199.59.243.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ruxshop.top
-Address: 172.67.189.114
-Name:	ruxshop.top
-Address: 104.21.49.92
-Name:	ruxshop.top
-Address: 2606:4700:3033::6815:315c
-Name:	ruxshop.top
-Address: 2606:4700:3033::ac43:bd72
+www.hxsy888.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.62.63
+Name:	cf.zmdhc.com
+Address: 172.67.59.172
+Name:	cf.zmdhc.com
+Address: 172.67.15.31
+Name:	cf.zmdhc.com
+Address: 172.67.48.153
 

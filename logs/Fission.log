@@ -9124,3 +9124,25 @@ Performing DNS lookup for www.90qr.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0bbc5af] Update project files
+ 4 files changed, 71 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   c396a3f..0bbc5af  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.50.125...
+Fetching domains for 104.21.28.59...
+Fetching domains for 172.67.155.176...
+succeed to fetch domains for 104.22.50.125 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.28.59 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.155.176 from https://ipchaxun.com/
+域名列表为
+['www.6988tv.com', 'm.niuerzs.com', 'www.50zw.co', 'www.ytguangzhao.cn', 'www.lyzdzy.com', 'www.32364.com', 'ruxshop.top', 'www.tinghen.com', 'ylhbearing.com', 'yundunwawablogcdn1yd.wawacm.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.tv9090.com', 'yun.nima.moe', 'www.33244.cn', 'www.888dyy.cc', 'jinqiaochu.com', 'www.kmbenma.com', 'zi0.cc', 'm.xuji999.top', '88lou.cc', 'www.imeiju.net', 'h3kuz1.bafxyna.net', '2061a42.com', 'www.dingdianshop.com', 'www.yaotiaosn.top', '4huyy440.com', 'eee346.com', 'www.ruxshop.top', '50zw.co', 'xuji999.top', 'www.dy1255.com', 'a94.xyz', 'www.cfhuagong.com', '32364.com', 'wangguanzg.com', 'sgv7.com', 'xxvv1.com', 'hj5e75a1.top', 'www.hxsy888.com', 'lyjaxf.com', 'stock.hostmonit.com', 'www.bitcointrader.com', 'www.551927.com', 'm.jingshuai888.com', 'cgcmcn.com', 'itt9.com', 'c791ljara5.buliang165.cc', '76ypibd9n83r5.buliang165.cc', 'www.xuji999.top', 'm.igongkou.com', 'yehualu.tw', 'www.bjfqmj.com', 'www.qwmp4.com', 'www.njyunyou.cn', 'damidm.com', 'm4n8.com', 'a8wzt9murtgl.buliang165.cc', 'www.dg-gkg.com', 'www.yiqianhg.com', 'columbiajacketksa.com', '88a1966.cc', '3g.xuji999.top', 'www.yinshuaji1688.com', 'www.xinganmengzhaopin.com', 'www.91m.cc', 'zfghbz7cwtwl.buliang165.cc', '9000gan.com', 'xinganmengzhaopin.com', 'h4rxz1.bafxyna.net', 'www.17kty.com', 'www.migudy.com', 'mao3dy14.com', 'bitcointrader.com', 'www.0550cq.com', 'www.jsdrtzn.com', 'www.b9680.com', 'www.77yeye.com', 'www.66mpp.com', 'dingdianshop.com', '66mpp.com', 'kook88.com', 'lambda3.com.br', 'www.mao3dy14.com', 'www.zzztch.com', 'www.aipp40.com', 'www.fjhanyong.com', 'yx.887141.xyz', 'www.epilepsidergisi.com', 'tjh.com', 'www.hosemicon.com', 'ddaoct.top', 'www.4148.net', '33244.cn', 'yeeyd.com', 'b9680.com', '3g.ddaoct.top', 'www.yyoubei.com', 'cp143ovqrz.xyz', 'www.cy806.com', 'www.wangguanzg.com', 'oooo26.com', 'www.damidm.com', 'www.gzgafk.com', 'www.wuhanzoo.com', 'nima.moe', 'www.smg13.xyz', 'www.m4n8.com', 'wap.ruxshop.top', 'a.jinqiaochu.com', 'sup.xzcomm.com', 'cloud.ykkk.tech', 'yyoubei.com', 'qwmp4.com', 'pbvmqjnn.xyz', '8f78k69n9vca6.buliang165.cc', 'www.266958.com', 'm.uuaeu.top', '999696.xyz', 'm.ddaoct.top', 'www.zhongyunyang.com', 'www.ddaoct.top', 'www.oooo26.com', 'pornaph.com', 'www.881dy.com', 'www.szjysmy.com', 'i0nl5wz3nz.buliang165.cc', 'www.4huyy440.com', 'www.wxxzzs.com', 'www.hnzxqz.com.cn', 'www.szxjsj.com', 'gpn604rvtvrzj.buliang165.cc', '3g.ruxshop.top', 'www.jingshuai888.com', 'cf.999696.xyz', 'wap.xuji999.top', 'm.ruxshop.top', 'secret-hentai.co', 'pj7990.com', 'buliang165.cc', 'www.6i5.com', '88a2619.cc', 'yundunwawablogcdn1lt.wawacm.com', 'www.9000gan.com', 'qiang-long.com', 'www.yehualu.tw', 'diyi.yaotiaosn.top', 'yildizteknikotomatikkapi.com', 'blog.hostmonit.com', 'www.yeeyd.com', 'www.boyangjt.com', 'cloud.nima.moe', 'wuhanzoo.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for eee346.com...
+Performing DNS lookup for www.17kty.com...
+Performing DNS lookup for ruxshop.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
