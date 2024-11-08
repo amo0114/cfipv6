@@ -2,20 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.dyzj18.com
-Address: 8.217.116.107
+Name:	www.295k.com
+Address: 107.167.27.82
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.sy790.com
-Address: 35.241.21.52
+Name:	www.q2042.com
+Address: 67.21.89.52
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	dyzj18.com
-Address: 8.217.116.107
+Name:	bj-cnpl.com
+Address: 154.85.207.194
 
