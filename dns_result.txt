@@ -1,48 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.tuav36.com	canonical name = cdn.mao50456.com.
-Name:	cdn.mao50456.com
-Address: 104.26.11.129
-Name:	cdn.mao50456.com
-Address: 104.26.10.129
-Name:	cdn.mao50456.com
-Address: 172.67.72.36
-Name:	cdn.mao50456.com
-Address: 2606:4700:20::ac43:4824
-Name:	cdn.mao50456.com
-Address: 2606:4700:20::681a:b81
-Name:	cdn.mao50456.com
-Address: 2606:4700:20::681a:a81
+** server can't find dy444.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	tuav36.com
-Address: 104.26.11.129
-Name:	tuav36.com
-Address: 104.26.10.129
-Name:	tuav36.com
-Address: 172.67.72.36
-Name:	tuav36.com
-Address: 2606:4700:20::ac43:4824
-Name:	tuav36.com
-Address: 2606:4700:20::681a:b81
-Name:	tuav36.com
-Address: 2606:4700:20::681a:a81
+Name:	yys.hexiang-tech.com
+Address: 104.18.31.225
+Name:	yys.hexiang-tech.com
+Address: 104.18.30.225
+Name:	yys.hexiang-tech.com
+Address: 2606:4700::6812:1fe1
+Name:	yys.hexiang-tech.com
+Address: 2606:4700::6812:1ee1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.javmost.com
-Address: 104.27.203.89
-Name:	www.javmost.com
-Address: 104.27.204.89
-Name:	www.javmost.com
-Address: 2606:4700:21::681b:cb59
-Name:	www.javmost.com
-Address: 2606:4700:21::681b:cc59
+Name:	dashboard.mypinata.cloud
+Address: 104.18.32.94
+Name:	dashboard.mypinata.cloud
+Address: 172.64.155.162
+Name:	dashboard.mypinata.cloud
+Address: 2606:4700:4400::6812:205e
+Name:	dashboard.mypinata.cloud
+Address: 2606:4700:4400::ac40:9ba2
 
