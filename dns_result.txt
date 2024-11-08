@@ -2,30 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	religionnews.com
-Address: 172.66.41.6
-Name:	religionnews.com
-Address: 172.66.42.250
-Name:	religionnews.com
-Address: 2606:4700:3108::ac42:2afa
-Name:	religionnews.com
-Address: 2606:4700:3108::ac42:2906
+img.hostmonit.com	canonical name = img.hostmonit.com.cdn.cloudflare.net.
+Name:	img.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	img.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	img.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	img.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
-
-** server can't find www.663dy.com: SERVFAIL
-
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.shecnudec.com
-Address: 74.86.228.110
-Name:	www.shecnudec.com
-Address: 2a03:2880:f130:83:face:b00c:0:25de
+www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 104.21.30.140
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 172.67.172.249
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:1e8c
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:acf9
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
