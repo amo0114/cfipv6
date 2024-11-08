@@ -2,20 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	v.saohuo.la
-Address: 45.150.165.226
+Name:	www.dyzj18.com
+Address: 8.217.116.107
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	mtm.gzqyjt.com
-Address: 168.206.97.69
+Name:	www.sy790.com
+Address: 35.241.21.52
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.gzqyjt.com
-Address: 168.206.97.69
+Name:	dyzj18.com
+Address: 8.217.116.107
 

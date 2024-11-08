@@ -9343,3 +9343,25 @@ Performing DNS lookup for dashboard.mypinata.cloud...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f257572] Update project files
+ 4 files changed, 51 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   0449a1c..f257572  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.251.182...
+Fetching domains for 104.18.16.178...
+Fetching domains for 104.17.243.118...
+succeed to fetch domains for 104.17.251.182 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.243.118 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.16.178 from https://site.ip138.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'mtm.gzqyjt.com', 'm.niuerzs.com', 'v.saohuo.la', 'loos.yzdbqcpj-com.cfcdn.cc', 'pri567.com', 'xin.170du.com', 'x7t99.com', 'www.sp6080.com', 'www.b4j77.com', 'xfltd.net', 'www.x7t99.com', 'www.whpaiger.com', 'cmr678.com', 'www.93xscc.com', '159cp.com', 'www.cmr678.com', 'm.qianlimaerp.com', 'cloudflare.182682.xyz', 'acus.cloudflarest.link', 'cfcdn1.sanfencdn9.com', 'www.ayzjj.cn', 'www.gjfsy.com', 'ef535.com', 'www.pri567.com', 'www.ddwhm.com', 'zl.aitrjc.xyz', 'zm7.m3u8list.top', 'b4j77.com', 'www.tv9090.com', 'expensify.com', 'tunneltransfer.bpyjc.com', 'www.gzqyjt.com', 'www.652tv.com', 'www.ef535.com', 'www.expensify.com', 'use.expensify.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for v.saohuo.la...
+Performing DNS lookup for mtm.gzqyjt.com...
+Performing DNS lookup for www.gzqyjt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
