@@ -9407,3 +9407,24 @@ Performing DNS lookup for bj-cnpl.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a2abb1a] Update project files
+ 4 files changed, 37 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   5dd1f70..a2abb1a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.196.137...
+Fetching domains for 104.17.226.38...
+Fetching domains for 104.18.182.169...
+succeed to fetch domains for 104.17.226.38 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.182.169 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.196.137 from https://dnsdblookup.com/
+域名列表为
+['money668.com', 'spca.114514782.xyz', 'www.kbss888.com', 'www.ddwhm.com', 'www.tvyb10.com', 'www.jg666.top', 'yh6.dtku41.xyz', 'www.nsisfans.com', 'www.zzztch.com', 'jpvsavhyu.76898102.xyz', 'www.8877fz.com', 'www.207my.com', 'www.7277tl.com', 'baxtc.66666654.xyz', 'rmsxs.bmftsy.com', 'www.lyzdzy.com', 'www.southeastfarmpress.com', 'www.xinyi176.com', 'www.gaycn.top', 'www.xkx999.com', 'www.hm12.lol', 'www.iios.club', 'www.88wwk.com', 'acus.cloudflarest.link']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for baxtc.66666654.xyz...
+Performing DNS lookup for www.88wwk.com...
+Performing DNS lookup for jpvsavhyu.76898102.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
