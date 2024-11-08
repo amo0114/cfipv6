@@ -9321,3 +9321,25 @@ Performing DNS lookup for www.javmost.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0449a1c] Update project files
+ 4 files changed, 62 insertions(+), 59 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   8739b65..0449a1c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.36.35...
+Fetching domains for 104.18.20.241...
+Fetching domains for 104.18.2.146...
+succeed to fetch domains for 104.18.20.241 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.2.146 from https://site.ip138.com/
+succeed to fetch domains for 104.18.36.35 from https://site.ip138.com/
+域名列表为
+['dozo8.com.tw', 'www.online-kiosken.dk', 'www.3123wo.com', 'raagg.com', 'fl8.club', 'www.wnsr848.com', 'www.gjtvb.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.dozo.com.tw', 'www.lidayday.com', 'ddapp.cukeindia.work', '135mn.com', 'www.ddwhm.com', 'www.dozo8.com.tw', 'poisonbykiramer.com', 'www.101sx.com', 'www.ggncwg.cn', 'www.signalstart.com', 'www.dafuhao.com', 'www.4hujj20.com', 'bluesradio.gr', 'dexerto.fr', 'www.iios.fun', '4hujj20.com', 'www.poisonbykiramer.com', 'www.cxomedia.id', 'zewxzk.com', 'dashboard.mypinata.cloud', 'jodel.com', 'yys.hexiang-tech.com', 'www.4huff77.com', 'www.brepolsonline.net', 'www.bearddentistry.com', 'achk.cloudflarest.link', 'b8q55.com', '4huff77.com', 'www.x9c99.com', 'www.iios.club', 'www.electronic-star.se', 'www.laiduwx.com', 'www.fl8.club', 'www.77zw.cc', 'config.hexiang-tech.com', 'brepolsonline.net', 'www.2567ju.com', 'www.maopiandq.com', 'dozo.com.tw', 'www.tockt.com', 'www.71a1j2y.top', 'www.dnevnadozapozitive.com', 'www.dexerto.fr', '2567ju.com', 'www.99wx.cc', 'www.dfh872.icu', 'acuvue.com.do', 'pagalworlds.me', '99tif.com', 'www.aaa911truth.com', 'www.jazzclub-paris.com', 'jps.jp', 'www.caltech.edu', 'www.6988tv.com', 'www.99wxw.cc', 'www.rmenvoient.tk', 'www.m6y6.com', '436yhu.top', '8877fz.com', 'www.x7d88.com', 'www.888vs888.com', 'www.wernerortho.com', 'www.iios.me', 'yunteng.me', 'lidayday.com', 'dy444.com', 'www.xylk001.com', 'www.135mn.com', 'x7d88.com', 'www.mygameon.my', 'cfip.xxxxxxxx.tk', 'x9c99.com', 'wnsr848.com', 'mm618.xyz', 'log.hexiang-tech.com', 'jenkins.hexiang-tech.com', 'www.jz8m673.cn', 'vps.lidayday.com', '3234ce.com', 'xylk001.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for dy444.com...
+Performing DNS lookup for yys.hexiang-tech.com...
+Performing DNS lookup for dashboard.mypinata.cloud...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
