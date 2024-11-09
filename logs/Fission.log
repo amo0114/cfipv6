@@ -9521,3 +9521,25 @@ Performing DNS lookup for www.m6y6.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 11749b2] Update project files
+ 4 files changed, 56 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   8ba4c53..11749b2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.23.134...
+Fetching domains for 104.17.238.98...
+Fetching domains for 104.21.236.89...
+succeed to fetch domains for 104.21.23.134 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.236.89 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.238.98 from https://site.ip138.com/
+域名列表为
+['wushifu.top', 'www.tpyyc.com', 'wfts.su', 'www.93xs.net', 'www.hyyfgy.com', 'dns.tucanoiptv.com.br', 'yu-xiang.org', 'czwbky.top', 'www.ho16818.com', 'danba.oiw67i.com', '91avlulu38.xyz', 'fanli4403.com', 'www.mineralscorp.com', 'usnew.lbxjc.site', 'www.ho168.com', 'yy561.com', 'wap.wushifu.top', 'www.9415hf.com', 'www.ho6898.com', 'www.hu888.com', 'thep1657.cc', 'www.91m.cc', 'www.o1688.net', 'mir1888.com', '3g.wushifu.top', 'www.6988tv.com', 'www.cydmx.online', 'babybonkcoin.io', 'ercspaces.com', 'nlsdwsz.66666654.xyz', 'mineralscorp.com', 'nn657.com', '333kkh.com', 'kaixinhanman.buzz', 'www.ho988.com', 'www.93xscc.com', 'www.mmotank.com', 'www.99wxw.cc', 'm.wushifu.top', 'm.niuerzs.com', 'vps.cydmx.online', 'www.tuyuyun.com', 'www.bjhdy.net', 'fax66.com', 'kbqmxf.top', 'wap.kbqmxf.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'yunbtv.com', '000900.xyz', 'www.nitianxieshen.com', 'cloudflare.182682.xyz', 'www.o168a.com', 'cydmx.online', 'www.huaidan1.com', 'www.333kkh.com', 'www.psy.net.cn', 'wap.luwangyangrong.com', 'www.pinggui.net', 'm.kbqmxf.top', 'www.ho6848.com', 'www.ho888.com', 'haian.mobile.oiw67i.com', 'europelec.com', 'www.zuruikj.com', 'yx.887141.xyz', 'www.oaksmart.com', 'www.appchainx.com', 'fitgirl-repacks.com', 'www.ilplay.cn', 'guangan.oiw67i.com', 'hu888.com', 'clgoug.cf', 'www.cocanwelding.com', 'www.pk299.com', 'yingtianxia1.vip', 'www.o1689.com', 'www.zgkunda.cn', 'mmotank.com', 'm.luwangyangrong.com', '25mj.com', 'cfip.201043.xyz', 'www.75uw.com', 'www.gaycn.top', 'www.luwangyangrong.com', 'www.mdwrano.cn', 'qc-ex.com', 'mohe.5g.oiw67i.com', 'www.wushifu.top', 'www.cfhuagong.com', 'api.446218.com', '011s011.com', '01100001111.com', 'zz1336.com', 'www.zz1336.com', 'www.mengxingbene.com', '212.o1688.net', 'www.kbss888.com', 'ufa369th.com', 'www.theav29.xyz', 'tianlinrencai.com', 'www.hongy888.com', 'www.yncareer.com', 'www.100943.com', 'www.zhelid.com', '410244.com', 'o16868.com', 'o1688.net', 'liuqu.oiw67i.com', 'o1689.com', 'allpurse.ru']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yncareer.com...
+Performing DNS lookup for m.luwangyangrong.com...
+Performing DNS lookup for www.hu888.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
