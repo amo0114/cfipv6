@@ -9636,3 +9636,25 @@ Performing DNS lookup for www.yiqianhg.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1753eba] Update project files
+ 4 files changed, 70 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   db641da..1753eba  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.0.138...
+Fetching domains for 104.18.26.120...
+Fetching domains for 104.22.33.126...
+succeed to fetch domains for 104.18.26.120 from https://dnsdblookup.com/
+succeed to fetch domains for 104.26.0.138 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.33.126 from https://dnsdblookup.com/
+域名列表为
+['www.ecu345.com', 'lounge-radio.com', 'ww1.m4uhd.tv', 'www.6988tv.com', 'www.77zw.cc', 'www.vestniktm.com', 'chat.cfx.re', 'www.isoc.org.il', 'hindi.cartoq.com', 'cfx.re', '123bcc.com', 'www.mypetsies.com', 'www.abbvie.ru', 'www.dji234.com', 'mcdn.henniuyingshi6.com', 'www.4hutt52.com', 'support.bitwasabi.com', 'dnscdn.henniuyingshi6.com', 'www.nitianxieshen.com', 'cnlb01.ace3888s.com', 'bdyy1.xyz', 'kcdn.henniuyingshi6.com', 'fineprint.com', 'wanglei.com.sg', 'ddwhm.com', 'mebudsv.114514782.xyz', 'www.4hu21f.com', 'www.arabhealthonline.com', 'www.cocanwelding.com', 'content.cfx.re', 'ag1.ace3888s.com', 'www.4hu53n.com', 'www.febrayer.com', 'www.nangua55.com', 'tengbo398.com', 'forum.cfx.re', 'thecyberexpress.com', 'elevenwarriors.com', 'affa.az', 'ncdn.henniuyingshi6.com', 'b4c22.com', 'www.75xs.cc', 'fishki.net', 'www.wanglei.com.sg', 'rcdm.henniuyingshi6.com', 'febrayer.com', 'xunse.mobi', 'www.93xscc.com', 'coffeeparts.com.au', 'cdn1.henniuyingshi6.com', 'm.niuerzs.com', 'cdndns.henniuyingshi6.com', 'www.50zw.co', '4hu53n.com', 'www.qindixs.com', 'xvideos-hd.blog', 'nhc.com', 'www.99wx.cc', 'bitwasabi.com', 'm.gaoxiaoe.com', 'whatstrending.com', 'www.elevenwarriors.com', 'www.decailed.com', 'sexkomix2.com', 'rcdn.henniuyingshi6.com', 'zm7.m3u8list.top', 'ace3888s.com', 'www.123bcc.com', 'www.tpyyc.com', '199225.com', 'www.iios.club', 'www.b4c22.com', 'www.doupozw.com', 'ecu345.com', 'vestniktm.com', 'beylze.cn', 'crocoblock.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for crocoblock.com...
+Performing DNS lookup for www.4hutt52.com...
+Performing DNS lookup for febrayer.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
