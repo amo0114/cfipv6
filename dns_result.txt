@@ -2,20 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.poweizu.com
-Address: 162.209.175.122
+Name:	maybelline.nl
+Address: 104.18.36.135
+Name:	maybelline.nl
+Address: 172.64.151.121
+Name:	maybelline.nl
+Address: 2606:4700:4400::ac40:9779
+Name:	maybelline.nl
+Address: 2606:4700:4400::6812:2487
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.msgao.com
-Address: 142.4.100.215
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	9ehao.com
-Address: 193.105.245.70
+Name:	m.tpyyc.com
+Address: 107.148.242.9
 
