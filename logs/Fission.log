@@ -9614,3 +9614,25 @@ Performing DNS lookup for nl.luckyvitamin.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main db641da] Update project files
+ 4 files changed, 62 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   83ab3dd..db641da  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.109.98...
+Fetching domains for 104.18.26.120...
+Fetching domains for 104.17.255.214...
+succeed to fetch domains for 104.17.255.214 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.109.98 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.26.120 from https://site.ip138.com/
+域名列表为
+['chat.cfx.re', 'cdn.didi8.com', 'www.xiuluo942.com', 'www.zzgszg.com', '0550cq.com', 'www.huanyaad.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.266958.com', '999696.xyz', 'www.dgytlt.com', 'cf.999696.xyz', 'content.cfx.re', 'cfx.re', '199225.com', 'www.wxxzzs.com', 'www.zhongyunyang.com', 'www.hxsy888.com', 'www.51idy.com', 'www.50zw.co', 'www.4hutt52.com', 'www.dy1255.com', 'www.cdjyhm.com', 'www.ecu345.com', 'www.k77kk.cc', 'www.sxyzxh.com', 'www.czcdc.com', 'www.abbvie.ru', 'b4c22.com', 'www.4hu53n.com', 'www.gzcfmy.com', 'www.881dy.com', 'xunse.mobi', 'www.jingshuai888.com', 'forum.cfx.re', '4hu53n.com', 'www.0550cq.com', 'www.yy4080dy.com', 'www.yyxxi.com', 'www.lvhuisb.com', 'www.991kan.com', 'www.dji234.com', 'www.yiqianhg.com', 'm.gaoxiaoe.com', 'www.shsxjzzs.com', 'www.szaitai.com', 'www.web120.org', 'www.czlbfrp.com', 'www.75uw.com', 'www.lyzdzy.com', 'm.jingshuai888.com', 'www.96dushu.com', 'www.ddwhm.com', 'www.4hu21f.com', 'www.11txt.com', 'www.iios.club', 'www.tpyyc.com', 'www.kmbenma.com', 'ecu345.com', 'mebudsv.114514782.xyz', 'www.b4c22.com', 'tengbo398.com', 'www.6988tv.com', 'www.hosemicon.com', 'yyxxi.com', 'www.szxjsj.com', 'blog.hostmonit.com', 'www.paizipai.top', 'm.6988tv.com', 'bdyy1.xyz', 'www.jsdrtzn.com', 'beylze.cn', 'www.17kty.com', 'www.imeiju.net', 'www.lzhdsn.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.75uw.com...
+Performing DNS lookup for 0550cq.com...
+Performing DNS lookup for www.yiqianhg.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

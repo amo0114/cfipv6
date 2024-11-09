@@ -2,27 +2,36 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+Name:	crocoblock.com
+Address: 104.26.1.138
+Name:	crocoblock.com
+Address: 104.26.0.138
+Name:	crocoblock.com
+Address: 172.67.73.48
+Name:	crocoblock.com
+Address: 2606:4700:20::681a:18a
+Name:	crocoblock.com
+Address: 2606:4700:20::ac43:4930
+Name:	crocoblock.com
+Address: 2606:4700:20::681a:8a
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	0550cq.com
-Address: 103.150.11.223
+Name:	www.4hutt52.com
+Address: 23.225.33.88
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yiqianhg.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.169.70
-Name:	cf.zmdhc.com
-Address: 172.67.134.7
-Name:	cf.zmdhc.com
-Address: 172.67.44.166
-Name:	cf.zmdhc.com
-Address: 172.67.71.135
+Name:	febrayer.com
+Address: 104.21.67.34
+Name:	febrayer.com
+Address: 172.67.211.216
+Name:	febrayer.com
+Address: 2606:4700:3037::ac43:d3d8
+Name:	febrayer.com
+Address: 2606:4700:3031::6815:4322
 
