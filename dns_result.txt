@@ -2,26 +2,36 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	maybelline.nl
-Address: 104.18.36.135
-Name:	maybelline.nl
-Address: 172.64.151.121
-Name:	maybelline.nl
-Address: 2606:4700:4400::ac40:9779
-Name:	maybelline.nl
-Address: 2606:4700:4400::6812:2487
+www.dmbj.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.243.181
+Name:	ips.993888.xyz
+Address: 104.17.67.249
+Name:	ips.993888.xyz
+Address: 104.17.129.27
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	www.tanja24.com
+Address: 104.21.23.40
+Name:	www.tanja24.com
+Address: 172.67.208.206
+Name:	www.tanja24.com
+Address: 2606:4700:3035::6815:1728
+Name:	www.tanja24.com
+Address: 2606:4700:3034::ac43:d0ce
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.tpyyc.com
-Address: 107.148.242.9
+www.zongcaixs.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.243.181
+Name:	ips.993888.xyz
+Address: 104.17.129.27
+Name:	ips.993888.xyz
+Address: 104.17.67.249
 
