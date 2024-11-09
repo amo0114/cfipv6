@@ -9570,3 +9570,25 @@ Performing DNS lookup for www.jg666.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ab09e3a] Update project files
+ 4 files changed, 73 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   44c331b..ab09e3a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.41.75...
+Fetching domains for 104.18.6.29...
+Fetching domains for 104.18.23.77...
+succeed to fetch domains for 104.18.23.77 from https://site.ip138.com/
+succeed to fetch domains for 104.16.41.75 from https://site.ip138.com/
+succeed to fetch domains for 104.18.6.29 from https://site.ip138.com/
+域名列表为
+['www.globuya.com', 'batdongsan.com.vn', 'evolution.land', '4hucc74.com', 'www.iios.club', 'cloudflare.cfgo.cc', '176zzc.com', 'readthedocs.org', 'www.lyzdzy.com', 'www.egrey.com.br', 'www.cutterman.co', 'm.batdongsan.com.vn', 'live-jp-kr130.kacooltoys.com', 'www.coins.ph', 'www.lojayf.com', 'itt9.com', 'www.2123mi.com', 'b3c11.com', 'www.desmobilia.com.br', '4hupp50.com', 'www.aragana.com.br', 'developer.qualcomm.com', 'www.1345ji.com', 'www.2567kk.com', 'www.334pi.com', '334pi.com', 'www.kouda.com.br', 'www.sallcostura.com', 'app.coins.ph', 'pan.clun.top', 'blog.dwx.io', 'www.176zzc.com', 'cxnage.com', 'nordicnanovector.com', 'rixcloudkb.io', 'loja.relevoguardanapos.com.br', 'www.yjsp25.com', 'www.bolovo.com.br', '09bbc.com', 'www.09bbc.com', 'yjsp25.com', 'cdn.cmliu.net', 'www.4hucc74.com', '086181.xyz', 'www.4k2.com', 'www.x7p99.com', 'www.cxnage.com', 'globuya.com', 'www.b3c11.com', 'x7p99.com', 'coins.ph', '1345ji.com', 'www.esportsonline.com', 'www.ilcasalingo.com.br', 'www.evolution.land', '4hu24x.com', '7.namesilo123.top', '4k2.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.lojayf.com...
+Performing DNS lookup for loja.relevoguardanapos.com.br...
+Performing DNS lookup for 176zzc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

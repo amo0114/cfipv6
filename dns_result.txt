@@ -2,36 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.lojayf.com	canonical name = lojayf.cdn.vnda.com.br.
-lojayf.cdn.vnda.com.br	canonical name = lojayf.cdn.vnda.com.br.cdn.cloudflare.net.
-Name:	lojayf.cdn.vnda.com.br.cdn.cloudflare.net
-Address: 172.64.151.139
-Name:	lojayf.cdn.vnda.com.br.cdn.cloudflare.net
-Address: 104.18.36.117
-Name:	lojayf.cdn.vnda.com.br.cdn.cloudflare.net
-Address: 2606:4700:4400::ac40:978b
-Name:	lojayf.cdn.vnda.com.br.cdn.cloudflare.net
-Address: 2606:4700:4400::6812:2475
+Name:	es-blog.luckyvitamin.com
+Address: 104.16.65.102
+Name:	es-blog.luckyvitamin.com
+Address: 104.17.226.101
+Name:	es-blog.luckyvitamin.com
+Address: 2606:4700::6810:4166
+Name:	es-blog.luckyvitamin.com
+Address: 2606:4700::6811:e265
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-loja.relevoguardanapos.com.br	canonical name = loja.relevoguardanapos.com.br.cdn.vnda.com.br.
-loja.relevoguardanapos.com.br.cdn.vnda.com.br	canonical name = relevoguardanapos.cdn.vnda.com.br.cdn.cloudflare.net.
-Name:	relevoguardanapos.cdn.vnda.com.br.cdn.cloudflare.net
-Address: 172.64.151.139
-Name:	relevoguardanapos.cdn.vnda.com.br.cdn.cloudflare.net
-Address: 104.18.36.117
-Name:	relevoguardanapos.cdn.vnda.com.br.cdn.cloudflare.net
-Address: 2606:4700:4400::6812:2475
-Name:	relevoguardanapos.cdn.vnda.com.br.cdn.cloudflare.net
-Address: 2606:4700:4400::ac40:978b
+Name:	www.lyzdzy.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	176zzc.com
-Address: 35.241.18.15
+Name:	nl.luckyvitamin.com
+Address: 104.17.226.101
+Name:	nl.luckyvitamin.com
+Address: 104.16.65.102
+Name:	nl.luckyvitamin.com
+Address: 2606:4700::6810:4166
+Name:	nl.luckyvitamin.com
+Address: 2606:4700::6811:e265
 
