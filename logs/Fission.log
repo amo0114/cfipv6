@@ -9810,3 +9810,25 @@ Performing DNS lookup for 8xtfmp.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 82188af] Update project files
+ 4 files changed, 50 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   9eb6461..82188af  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.3.75...
+Fetching domains for 172.67.162.90...
+Fetching domains for 172.67.7.209...
+succeed to fetch domains for 104.18.3.75 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.162.90 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.7.209 from https://site.ip138.com/
+域名列表为
+['8x8xio.com', 'nzzz.net', 'sdk.qzbonline.com', 'www.9a6si.cn', 'www.92mili.com', 'www.baiitv.com', 'www.wzjiyin.com', 'www.dgytlt.com', '7749tv.com', 'www.dzdz1.com', 'www.sttcloud.net', 'www.6wy2.top', 'fortuneprime.com', 'www.jsdrtzn.com', 'ziliaojwfdhgdkxjdkv6.598386.com', 'thea535.com', 'baxtc.66666654.xyz', 'inubiles.com', 'www.50zw.co', 'rune-server.ee', 'www.bf155.com', 'bmz82.com', 'www.yiqianhg.com', '766qb.com', 'sharewinyly.com', 'www.pw682.com', 'nlsdwsz.66666654.xyz', 'sgv3.com', 'boyoyx.com', '92mili.com', 'www.dy1255.com', 'www.766qb.com', 'www.lvhuisb.com', 'www.qiass.cn', 'travelnity.com', 'm.jingshuai888.com', 'www.diskgirl.com', 'www.4566kk.com', 'bf155.com', 'www.gzgafk.com', 'ziliaojwfdhgdkxjdkv11.598386.com', 'www.vinted.it', 'www.11118.cc', 'www.fungshuitk.com.hk', 'www.hxsy888.com', 'www.bmz82.com', '8mav1762.com', 'bqg99.cc', 'kele185.com', 'www.sharewinyly.com', 'wap.kajak.top', 'gv6.n90yl.work', 'www.38yy.cn', 'marketing.megabank.com.tw', 'www.521bw.com', 'www.4148.net', 'w3.lv258pp.com', 'kajak.top', 'www.zjgamy.com', 'www.266958.com', 'eee221.com', 'www.28dushu.com', 'school.megabank.com.tw', 'wzjiyin.com', 'www.hosemicon.com', 'www.6i5.com', 'qq085.com', 'www.17kty.com', 'm.bzzxxx.net', 'www.bjfqmj.com', '321666.xyz', 'www.lzhdsn.com', 'www.rune-server.ee', 'www.700kan.com', 'emby.hocrex.com', 'www.ddwhm.com', 'stock.hostmonit.com', 'www.jingshuai888.com', 'www.jjtyss.com', 'krcwdwtitxohpgtfkwzfucal.xwwuzjh.cn', 'playfreegames247.com', 'www.bqg99.cc', 'www.canstockphoto.com', 'www.8x8xio.com', 'www.paizipai.top', 'gvc.n90yl.work', 'www.zzgszg.com', 'www.0550cq.com', 'kp.wxtvb.com', 'm.shuzw.com', 'sgv7.com', 'www.nzzz.net', 'www.51jion.com', 'www.web120.org', 'ezprints.com', 'kp2.wxtvb.com', 'www.xinlulai.cn', 'm.bqg99.cc', 'dzdz1.com', 'www.inubiles.com', 'www.aidanmu.me', 'www.imeiju.net', 'qiass.cn', 'www.99wx.cc', 'm.6wy2.top', 'www.k77kk.cc', 'www.99wxw.cc', 'www.qq085.com', 'www.tvccc.org', 'www.tv9090.com', '6wy2.top', 'gale.com', 'www.jsshahe.com', 'www.9sha.com', 'www.tinghen.com', 'www.gzcfmy.com', 'gateway.hocrex.com', 'www.g345n.com', 'm.melexs.com', '3g.6wy2.top', 'pw682.com', 'yh7.dtku41.xyz', 'cdn.hocrex.com', 'm.kajak.top', '4566kk.com', 'wikik148.q3ijbp6.net', 'www.11txt.com', '057833.best', '999696.xyz', 'kmm422.top', 'www.xinpian8.com', 'www.dskxkj.com', 'm.lzpipi.com', 'www.hnxinlian.org', 'wap.6wy2.top', 'www.lyzdzy.com', 'www.zhongyunyang.com', 'dsxys.pro', '11118.cc', 'www.dai.com', 'www.kajak.top', 'cloud.hocrex.com', 'www.eee221.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.4566kk.com...
+Performing DNS lookup for kp2.wxtvb.com...
+Performing DNS lookup for www.521bw.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
