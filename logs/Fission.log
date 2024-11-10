@@ -9701,3 +9701,24 @@ Performing DNS lookup for m.tpyyc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6475e1d] Update project files
+ 4 files changed, 54 insertions(+), 22 deletions(-)
+To github.com:amo0114/cfipv6.git
+   d26b0c8..6475e1d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.253.153...
+Fetching domains for 104.18.89.59...
+Fetching domains for 104.18.39.246...
+succeed to fetch domains for 104.18.39.246 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.253.153 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.89.59 from https://site.ip138.com/
+域名列表为
+['www.orm124.cn', 'www.zongcaiwx.com', 'www.zongcaixs.com', 'www.xwsxs.com', 'wurst.lu', 'www.daomubiji.cc', 'www.cgfxw.com', 'm.163fahao.com', 'union.hongxing.us', 'www.motorcycle.com', 'www.530yy.com', 'thessr.tk', 'www.aikansu.com', 'www.133du.com', 'www.doupobook.cc', 'koyilandydiary.com', 'www.dmbj.cc', 'download.garmin.com', 'www.xiuluoxiaoshuo.com', 'superrare.com', 'www.xuanqishi.com', 'www.gaoqingw.com', 'pma.caltech.edu', 'xhgou.cc', 'www.nitianxieshen.com', 'cfip.xxxxxxxx.tk', 'www.qindi.net', 'www.97porn.net', 'www.xhgou.cc', 'www.xuanqishi.cc', 'www.zongcaixs.cc', 'www.moteurspmr.com', '133du.com', 'legitshop.org', '2d2d.xyz', 'www.70ts.com', 'www.93xscc.com', 'tanja24.com', 'www.tanja24.com', 'accessacloud.com.au', 'zz1204.com', 'riche88.org', 'www.77zw.cc', 'inciensos.mx', 'yanderesimulator.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.dmbj.cc...
+Performing DNS lookup for www.tanja24.com...
+Performing DNS lookup for www.zongcaixs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
