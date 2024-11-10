@@ -9853,3 +9853,25 @@ Performing DNS lookup for 7xvod.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 08c0634] Update project files
+ 4 files changed, 54 insertions(+), 69 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   389c615..08c0634  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.26.62...
+Fetching domains for 104.21.20.85...
+Fetching domains for 104.22.50.156...
+succeed to fetch domains for 104.21.26.62 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.50.156 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.20.85 from https://ipchaxun.com/
+域名列表为
+['5345en.com', 'x903.xyz', 'cc.ykamt.com', '282228.com', '49lhw.770532.com', 'gnmhk.org', 'eepekk.cn', 'farm.czpow.com', 'cctv.xb062.top', 'www.luoxianbao.com', 'www.yt185.com', 'aavv.xb062.top', 'djse.net', 'www.ttcw999.com', 'www.iymaukmo.icu', 'nas.senge.free.hr', 'facaishu88.com', 'www.gdkdik.com', '6hch.com', '17se.xb062.top', '281oo.com', 'kcccam.com', 'www.leplombducantal.com', 'tk8.online', 'tkanimira-rzn.ru', 'wap.seaooao.top', 'www.abcdremote03.xyz', 'mint.czpow.com', 'av91.xb062.top', '365xianhua.com', 'www.nfstreet.com', 'x0x0x.xb062.top', 'xxx.xb062.top', '3g.iymaukmo.icu', 'm.quantri.top', 'iios.club', 'hbhqc.com', 'yixin518.cn', 'www.hnpme.com', 'www.quantri.top', 'www.xb062.top', 'lulu.xb062.top', 'liaoyuanzpw.com', 'www.tk8.online', 'sese.xb062.top', 'www.pizzamoversonline.net', 'iymaukmo.icu', 'byylgc.com', 'wap.quantri.top', 'www.w777e.com', 'qk118.com', 'hentai-share.tv', '69xx.xb062.top', 'ivapl4.tw', 'htdlq.com', 'www.fkdagl.com', 'www.sdxlv.cn', 'www.hhhtlcy.com', 'www.nzxpgp.cn', '1p.lol', '27xxx.com', 'www.facaishu88.com', 'ymx6.icu', 'pcxzp.com', 'www.lai067.com', '8ynof3k1d86.top', 'bz01.org', 'mimi.xb062.top', 'www.czpow.com', '2024ge.hair', 'm.ttcw999.com', 'fairlottos.com', 'xb062.top', 'www.28et.com', 'mypornstarbook.net', 'www.qqiwgeom.top', '9999.xb062.top', 'www.gubuyit.com', '784zz.com', 'boyboy.us', 'ipa.yijhome.com', 'www.iios.club', 'www.02rp.com', '2400.top', 'www.sodianwl.com', 'www.tpyyc.com', 'xbxb.xb062.top', 'www.ldmedia49.tv', 'www.784zz.com', 'tvr18.cc', 'wap.iymaukmo.icu', 'www.tvr18.cc', 'qaxdq.com', 'www.282228.com', 'www.china-hka1.com', '09tk.com', 'all1375.xyz', 'www.zjgbrkhg.com', 'www.xiaobi191.com', 'www.jxyangeng.com', 'www.ddwhm.com', 'www.wxhaoles.com', 'novips.com', 'rsjy420009.cfd', 'm.6hch.com', 'www.sitelike.org', 'www.gnmhk.org', 'czpow.com', 'onlyfinder.com', 'rosseller.ru', 'yupen.cn', 'yt185.com', 'today-sports5.com', 'www.infomerlo.com', 'www.xiaohuaban1.xyz', 'www.hbhqc.com', '52mm.xb062.top', 'acu.zulo.cloudns.biz', 'www.byylgc.com', 'www.1p.lol', '8888.xb062.top', 'dy213.com', 'xxoo.xb062.top', 'ty92893.com', 'iz6tv.com', 'seaooao.top', 'www.biqude.cc', 'vip5.bzgl.xyz', 'www.yijhome.com', 'nzxpgp.cn', 'bbb.yt185.com', 'quantri.top', '91xx.xb062.top', 'www.18cg.cn', 'infomerlo.com', '91x5.xyz', '5efield.com', 'ttcw999.com', 'caobb.xb062.top', 'w777e.com', 'a789dt.com', 'm.tpyyc.com', 'www.the-faith.com', 'kk44kk.xb062.top', 'cdn1.2400.top', 'www.gq6080.com', '0jl2dhjd.cfjhr.cloud', 'www.liaoyuanzpw.com', 'www.escoteiros.org.br', 'm.seaooao.top', 'xiaobi191.com', 'leplombducantal.com', 'www.htdlq.com', 'www.yixin518.cn', '3g.seaooao.top', 'ymss78.top', 'www.5345en.com', '6scq.com', 'm.gdkdik.com', 'yyds.xb062.top', '49cpw.com', 'www.2024ge.hair', 'lai067.com', 'www.mypornstarbook.net', '88av696.cc', 'www.qk118.com', 'm.iymaukmo.icu', 'www.27xxx.com', 'mcmediaplayer.com', 'www.ty92893.com', 'www.a789dt.com', '18cg.cn', 'img.pcxzp.com', '4779.top', 'xxbb.xb062.top', 'www.6scq.com', 'www.dgyfjg.com', 'm.byylgc.com', 'kakijun.com', 'ccav.xb062.top', 'www.goodhabitz.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for boyboy.us...
+Performing DNS lookup for www.fkdagl.com...
+Performing DNS lookup for 4779.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
