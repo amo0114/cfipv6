@@ -2,21 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	858guakao.com
-Address: 162.209.175.125
-
-Server:		8.8.4.4
-Address:	8.8.4.4#53
-
-** server can't find www.jg666.top: NXDOMAIN
+www.ddwhm.com	canonical name = speed.marisalnc.com.
+speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global21.66666654.xyz.
+Name:	cfcn-b-global21.66666654.xyz
+Address: 104.20.19.53
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.omoda.be	canonical name = www.omoda.be.cdn.cloudflare.net.
-Name:	www.omoda.be.cdn.cloudflare.net
-Address: 104.17.235.194
-Name:	www.omoda.be.cdn.cloudflare.net
-Address: 104.17.234.194
+pan.axxpan.com	canonical name = pan.axxpan.com.cdn.cloudflare.net.
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 172.67.189.189
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 104.21.49.104
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 2606:4700:3032::ac43:bdbd
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 2606:4700:3035::6815:3168
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	acus.cloudflarest.link
+Address: 104.247.82.50
 

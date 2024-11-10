@@ -9744,3 +9744,25 @@ Performing DNS lookup for www.marmot.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0ca4208] Update project files
+ 4 files changed, 53 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   317f16d..0ca4208  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.221.132...
+Fetching domains for 104.18.186.229...
+Fetching domains for 104.17.235.194...
+succeed to fetch domains for 104.17.235.194 from https://site.ip138.com/
+succeed to fetch domains for 104.18.186.229 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.221.132 from https://dnsdblookup.com/
+域名列表为
+['www.trustnet.com', 'www.bt4kyy.com', 'www.993my.com', 'www.kanmanhuala.cc', 'www.wubei520.com', 'www.jg666.top', 'trustnet.com', 'www.cfhuagong.com', 'www.omoda.be', 'www.cn46.com', 'nankoyo.com', '858guakao.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 858guakao.com...
+Performing DNS lookup for www.jg666.top...
+Performing DNS lookup for www.omoda.be...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
