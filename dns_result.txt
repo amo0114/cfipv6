@@ -2,49 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
+Name:	boyboy.us
+Address: 185.107.56.193
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.paizipai.top
-Address: 172.67.180.229
-Name:	www.paizipai.top
-Address: 104.21.75.195
-Name:	www.paizipai.top
-Address: 2606:4700:3035::6815:4bc3
-Name:	www.paizipai.top
-Address: 2606:4700:3037::ac43:b4e5
+Name:	www.fkdagl.com
+Address: 47.100.187.214
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	7xvod.com
-Address: 104.19.49.147
-Name:	7xvod.com
-Address: 104.19.103.119
-Name:	7xvod.com
-Address: 104.19.73.23
-Name:	7xvod.com
-Address: 104.19.52.37
-Name:	7xvod.com
-Address: 104.19.64.28
-Name:	7xvod.com
-Address: 104.19.35.174
-Name:	7xvod.com
-Address: 104.18.175.148
-Name:	7xvod.com
-Address: 141.101.115.223
-Name:	7xvod.com
-Address: 104.18.173.113
+Name:	4779.top
+Address: 13.248.252.114
+Name:	4779.top
+Address: 99.83.138.213
 

@@ -9832,3 +9832,24 @@ Performing DNS lookup for www.521bw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 389c615] Update project files
+ 4 files changed, 77 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   82188af..389c615  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.162.90...
+Fetching domains for 172.67.150.126...
+Fetching domains for 104.18.64.8...
+succeed to fetch domains for 172.67.162.90 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.64.8 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.150.126 from https://ipchaxun.com/
+域名列表为
+['wikik148.q3ijbp6.net', 'www.jsshahe.com', 'www.fungshuitk.com.hk', 'www.sxyoujian.com', 'ydfxw.cn', 'wge6141.com', 'www.sharewinyly.com', 'www.gzgafk.com', 'fortuneprime.com', 'cloud.hocrex.com', 'www.tinghen.com', 'www.lzhdsn.com', 'sgv3.com', 'www.fii-jczzgdc.com', 'www.v2raz.vip', 'www.6wy2.top', 'tymsjk.com', 'www.hnbqls.com', '8325157.com', 'faeg12.top', 'www.99wxw.cc', '6wy2.top', 'naganoleantonic-us.us', 'zz328.com', 'www.hosemicon.com', 'hongshang888.com', '321666.xyz', 'www.0550cq.com', '24daoav.com', 'www.jingshuai888.com', 'www.9a6si.cn', 'm.jingshuai888.com', 'qq085.com', 'www.lyzdzy.com', 'www.xinlulai.cn', 'www.villaanucara.com', 'www.jkspump.com', 'www.11118.cc', 'www.89lll.com', 'www.rune-server.ee', 'travelnity.com', '057833.best', 'www.c333.net', 'www.96dushu.com', 'www.92mili.com', 'm.kajak.top', 'teenporn.link', 'www.ddwhm.com', 'www.221234.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.dskxkj.com', 'www.28dushu.com', 'www.ddas1231.com', 'hd7000.com', 'm.7xvod.com', 'inubiles.com', 'jkbz.org.cn', 'www.jjtyss.com', 'www.dzdz1.com', 'boyoyx.com', 'www.38yy.cn', 'blog.hostmonit.com', 'dzdz1.com', 'www.whsenzhu.com', 'm.faeg12.top', 'x788.xyz', 'baxtc.66666654.xyz', 'dlhengzhe.com', 'www.dajuyun.cn', 'qiass.cn', 'www.qq085.com', 'wap.6wy2.top', 'dudu365.com', 'www.manhuadb.com', 'www.50zw.org', 'www.hnxinlian.org', 'm.csmjjz.com', 'emby.hocrex.com', '999696.xyz', '5gfuvo.xyz', 'www.jygelec.com', 'www.dlhengzhe.com', 'nlsdwsz.66666654.xyz', 'www.east-naguradou.com', 'rune-server.ee', 'pentaho1.online', 'www.99wx.cc', 'www.7xvod.com', '096h.com', 'stock.hostmonit.com', 'www.gzcfmy.com', 'www.bjfqmj.com', '8x8xio.com', 'www.dgytlt.com', 'kp.wxtvb.com', 'www.ai2moe.org', 'www.szlgjs.com', 'www.imeiju.net', 'www.bf155.com', 'www.jsdrtzn.com', 'www.8x8xio.com', 'bf155.com', 'www.dafuhao.com', '11118.cc', 'avosba.org', 'www.yiqianhg.com', 'www.jkbz.org.cn', 'www.hxsy888.com', 'www.slotslights.net', 'www.24daoav.com', 'kp2.wxtvb.com', 'www.zhonglvshengtai.com', 'wap.kajak.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'dianhuanaozhong8.com', 'www63939.com', 'thea535.com', 'www.web120.org', 'www.gdc-qa.com', 'www.zhongyunyang.com', 'macvbb.555556789.xyz', 'kele185.com', 'ziliaojwfdhgdkxjdkv11.598386.com', 'dsxys.pro', 'gateway.hocrex.com', 'w3.lv258pp.com', 'www.czlbfrp.com', 'www.36dm.club', 'qiangkouzhao.com', 'kmm422.top', 'www.881dy.com', 'www.meiyi188.com', 'www.faeg12.top', '3g.6wy2.top', 'www.nzzz.net', 'www.9sha.com', 'www.521bw.com', 'www.90dushu.com', 'www.qiass.cn', 'www.4148.net', 'grani.net.ua', 'cdn.hocrex.com', 'www.kajak.top', '221234.com', '3g.faeg12.top', 'sgv7.com', 'www.tv9090.com', 'm.bzzxxx.net', 'www.szxjsj.com', 'wzjiyin.com', 'm.6wy2.top', 'www.wanmeikankan.net', 'www.wzjiyin.com', 'kajak.top', 'www.295k.com', 'www.11txt.com', 'www.266958.com', 'playfreegames247.com', 'www.cdjyhm.com', 'sharewinyly.com', 'www.shsxjzzs.com', 'www.v4sa.cn', 'www.7749tv.com', '92mili.com', 'www.inubiles.com', 'slotslights.net', 'yh7.dtku41.xyz', 'nzzz.net', 'www.kanju8.com', 'www.17kty.com', 'ziliaojwfdhgdkxjdkv6.598386.com', 'krcwdwtitxohpgtfkwzfucal.xwwuzjh.cn', 'www.6i5.com', '7xvod.com', '8mav1762.com', 'www.paizipai.top', 'www.xiansgyy.com', 'www.lvhuisb.com', 'meiyi188.com', '89lll.com', 'www.8bole.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for blog.hostmonit.com...
+Performing DNS lookup for www.paizipai.top...
+Performing DNS lookup for 7xvod.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
