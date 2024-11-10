@@ -9875,3 +9875,24 @@ Performing DNS lookup for 4779.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b931e42] Update project files
+ 4 files changed, 42 insertions(+), 19 deletions(-)
+To github.com:amo0114/cfipv6.git
+   08c0634..b931e42  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.172.232...
+Fetching domains for 198.41.209.85...
+Fetching domains for 104.17.19.182...
+succeed to fetch domains for 198.41.209.85 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.19.182 from https://site.ip138.com/
+succeed to fetch domains for 104.17.172.232 from https://site.ip138.com/
+域名列表为
+['606977.com', 'www.116.ag', 'm.boyangjt.com', 'www.hengdawatch.com', 'www.31bz.com', 'www.cocanwelding.com', 'www.ddwhm.com', 'www.pianku5.com', 'www.haqiandu.com', 'www.qp666.com', 'sgv7.com', 'www.sintingtoys.com', 'www.zjgamy.com', 'www.pwcai.com', 'www.whsbwl.com', 'www.qf527.com', 'uu93.com', 'www.weizhijc.com', 'm.sxyzxh.com', 'www.sxyzxn.com', 'www.mfwzhs.com', '4gdiy.com', 'www.hr0354.com', 'www.beijingrenhefc.com', 'www.tv9090.com', 'www.sflkaksf.com', 'www.hgled18.com', 'jhpcza.66666654.xyz', 'www.hm11.lol', 'www.dowelle.com', 'm.tushencn.com', 'biqune.com', 'www.jsmx999.com', 'www.fjzqjs.com', 'www.4j4j.cn', 'www.xxpg888.com', 'www.hg098.com', 'www.shengwanggongcheng.com', '923055.com', 'www.ddaculture.com', 'www.cskji.com', 'www.yunyou4.com', 'www.baiitv.com', 'www.diow.net', 'www.tuozhan22.com', 'www.0550cq.com', 'qiangkouzhao.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.123kgs.com', 'www.guilinyts.com', 'www.woaiqi.com', 'www.ganpian.com', 'freeyx.cloudflare88.eu.org', 'www.hnkswh.com', 'www.tuozhan021.com', '11.namesilo123.top', 'www.52biqv.com', 'www.paizipai.top', '8810868.com', 'www.zhengxumedia.com', 'www.dy420.com', 'm.kuainiuwang.com', 'www.10zhanpai.com', 'dsxys.com', 'zi0.cc', 'm.0550cq.com', 'www.beibeitv.com', 'www.hanmatv.com', 'yh6.dtku41.xyz', 'www.uu93.com', 'www.jjtyss.com', 'boyangjt.com', 'www.75xs.cc', 'ddwhm.com', 'm.okdi.net', 'www.njwbhz.com', 'www.sxyzxh.com', 'xs.wxtv.cc', 'bestcf.onecf.eu.org', 'www.cfhuagong.com', 'www.fujencapital.com', 'www.sztimi.com', 'www.jsjkyy.com', 'www.gzqhjdgc.com', 'www.lhman.com', 'www.tushencn.com', 'yyxycn.com', 'zdx03.1-qhhc-2.top', '0550cq.com', 'www.nsisfans.com', 'www.biinn.com', 'www.wei333.com', 'cf-lt.sharecentre.online', 'speed.marisalnc.com', 'www.meijui.net', 'cfip.xxxxxxxx.tk', 'www.21tvb.com', 'www.chongxinpet.com', 'www.boyangjt.com', 'www.xinpian8.com', 'www.wayutan023.com', 'm.lnfitness.com', '7sc.cc', 'www.ncdwzs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.paizipai.top...
+Performing DNS lookup for m.lnfitness.com...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,24 +2,87 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.paizipai.top
-Address: 104.21.75.195
-Name:	www.paizipai.top
-Address: 172.67.180.229
-Name:	www.paizipai.top
-Address: 2606:4700:3037::ac43:b4e5
-Name:	www.paizipai.top
-Address: 2606:4700:3035::6815:4bc3
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find m.lnfitness.com: NXDOMAIN
+Name:	xs.wxtv.cc
+Address: 104.19.135.154
+Name:	xs.wxtv.cc
+Address: 104.16.112.141
+Name:	xs.wxtv.cc
+Address: 104.21.227.211
+Name:	xs.wxtv.cc
+Address: 104.16.112.168
+Name:	xs.wxtv.cc
+Address: 104.19.136.169
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.24.64
+ss.moonriver.sbs	canonical name = 213222.cloudflare.182682.xyz.
+Name:	213222.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	213222.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	213222.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	213222.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	213222.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	213222.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	213222.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	213222.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	213222.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	213222.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.74ms.com	canonical name = p8nky6e7.aliadvance.com.
+p8nky6e7.aliadvance.com	canonical name = 4rt5un96.n.aliadvance.com.
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.17.71
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.17.149
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.16.217
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.16.176
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.17.133
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.16.216
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.17.160
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.39.66.189
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.39.66.184
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.39.66.158
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.17.122
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.17.118
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.16.162
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.17.143
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.39.66.193
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.17.181
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.39.66.153
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.39.66.186
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.17.62
+Name:	4rt5un96.n.aliadvance.com
+Address: 154.197.16.164
 
