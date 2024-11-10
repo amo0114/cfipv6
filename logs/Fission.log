@@ -9788,3 +9788,25 @@ Performing DNS lookup for acus.cloudflarest.link...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9eb6461] Update project files
+ 4 files changed, 66 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   6a2ad34..9eb6461  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.20.12...
+Fetching domains for 104.18.190.44...
+Fetching domains for 104.26.15.207...
+succeed to fetch domains for 104.21.20.12 from https://dnsdblookup.com/
+succeed to fetch domains for 104.26.15.207 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.190.44 from https://site.ip138.com/
+域名列表为
+['www.zx05.net', 'vc2015.net', 'www.gg2u.org', 'comvst.com', 'wap.nofbmf.top', 'guojuren.me', 'www.iios.me', 'www.91m.cc', 'www.sjzsckj.com', 'gizmochina.com', 'baxtc.66666654.xyz', 'cfip.201043.xyz', 'cq.zhongguocity.cn', 'www.q2054.com', 'www.bangyunggong.com', 'www.gzhuashun112.com', 'meee.top', 'www.kkkab.com', 'ihm2phj3nhxw.xyz', '17800.net', 'yx.887141.xyz', 'dsxys.com', 'www.ygdy8.cc', 'jiubaohm.com', 'www.wisqfoug.xyz', 'gy988a.com', 'm.nofbmf.top', '8xtfmp.xyz', 'www.iios.club', 'roselip-fetish.com', 'www.averdade.com', '80.cf.bestl.de', 'bt3.ipmac.app', 'www.eaznhgx.cn', 'cfip.xxxxxxxx.tk', '037776.com', 'www.gizmochina.com', 'www.dracscan.com', 'www.roselip-fetish.com', 'jav8.vip', 'hi.hw99999.xyz', 'file.kubernetesus.com', 'm.niuerzs.com', 'www.yaseff1.com', 'tbwaraad-eg.com', 'bcwzz5.cc', 'jc119.com', 'jpvsavhyu.76898102.xyz', 'bangyunggong.com', '26.namesilo123.top', 'cdn1.osyok.xyz', 'www.wlxinde.com', 'www.literameatslu.es', 'tihk.org.hk', 'ypt.or.id', 'www.knvod.com', 'www.2955kk.com', 'www.05940595.com', 'www.ttspt.com', 'thep666.cc', 'www.08cao.com', 'longzemy.com', 'www.mstsr.com', 'smooci.com', 'zooxxxporn.com', 'api.kubernetesus.com', 'www.ychjcy.com', 'speed.marisalnc.com', 'osyok.xyz', 'www.dgzdp.com', 'www.223a.com', '9ctt5.com', 'yh6.dtku41.xyz', 'www.dafuhao.com', 'www.sdgggo.com', 'lumen5.com', 'www.nangua55.com', 'cartoonhub.xxx', 'www.jiubaohm.com', 'www.9ctt5.com', 'ddtankbrasil.com.br', 'literameatslu.es', '8m2153.com', '3g.nofbmf.top', 'ledpaerer.dk', 'angelopouloshair.gr', 'oaksmart.com', 'www.powerthesaurus.org', '233dm.net', 'www.nofbmf.top', 'g1.2008.gay', 'sp.rweek.top', 'thep2614.cc', 'cdn.fuckteam.us.kg', 'www.freepik.cn', 'www.smooci.com', 'www.suto-itec.com', 'averdade.com', 'www.173vv.com', 'ipdb.rr.nu', 'gg2u.org', 'www.bitcloud-home.com', 'freeyx.cloudflare88.eu.org', 'cdn2.osyok.xyz', '9bmqavrfvgg.xyz', 'www.enjoyriding.com.cn', 'www.ddwhm.com', 'www.acav16.me', '05940595.com', '050500.xyz', 'www.shecnudec.com', 'yqkdyw.com', 'kkk.yaseff1.com', 'osg-ps.de', 'www.thepornblender.com', 'hzefss.66666654.xyz', 'www.dzmcq.com', 'thepornblender.com', 'www.yuanluchangtong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for osg-ps.de...
+Performing DNS lookup for www.9ctt5.com...
+Performing DNS lookup for 8xtfmp.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
