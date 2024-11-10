@@ -2,31 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.ddwhm.com	canonical name = speed.marisalnc.com.
-speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global21.66666654.xyz.
-Name:	cfcn-b-global21.66666654.xyz
-Address: 104.20.19.53
+Name:	osg-ps.de
+Address: 172.67.74.52
+Name:	osg-ps.de
+Address: 104.26.14.207
+Name:	osg-ps.de
+Address: 104.26.15.207
+Name:	osg-ps.de
+Address: 2606:4700:20::681a:ecf
+Name:	osg-ps.de
+Address: 2606:4700:20::ac43:4a34
+Name:	osg-ps.de
+Address: 2606:4700:20::681a:fcf
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.9ctt5.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-pan.axxpan.com	canonical name = pan.axxpan.com.cdn.cloudflare.net.
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 172.67.189.189
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 104.21.49.104
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:bdbd
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 2606:4700:3035::6815:3168
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	acus.cloudflarest.link
-Address: 104.247.82.50
+Name:	8xtfmp.xyz
+Address: 104.21.20.12
+Name:	8xtfmp.xyz
+Address: 172.67.190.197
+Name:	8xtfmp.xyz
+Address: 2606:4700:3031::ac43:bec5
+Name:	8xtfmp.xyz
+Address: 2606:4700:3032::6815:140c
 
