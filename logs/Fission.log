@@ -9722,3 +9722,25 @@ Performing DNS lookup for www.zongcaixs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 317f16d] Update project files
+ 4 files changed, 59 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   6475e1d..317f16d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.224.237...
+Fetching domains for 104.19.174.127...
+Fetching domains for 104.16.46.36...
+succeed to fetch domains for 104.19.174.127 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.224.237 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.46.36 from https://ipchaxun.com/
+域名列表为
+['www.smmy365.com', 'www.cfhuagong.com', 'qkmov.com', 'www.zzztch.com', 'www.kunzedu.com', 'www.kenwen.com', 'www.tpyyc.com', 'm.kenwen.com', 'kenwen.com', 'www.yncareer.com', 'proxyip.sg.fxxk.dedyn.io', 'www.marmot.com', 'www.iios.club', 'www.99wxw.cc', 'www.kuaikan66.com', 'www.qilishusong.cn', 'www.lyzdzy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tpyyc.com...
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.marmot.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
