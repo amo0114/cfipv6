@@ -9919,3 +9919,26 @@ Performing DNS lookup for www.74ms.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c4aace2] Update project files
+ 4 files changed, 91 insertions(+), 125 deletions(-)
+ rewrite Fission_ip_backup.txt (98%)
+ rewrite dns_result.txt (91%)
+To github.com:amo0114/cfipv6.git
+   7753b7a..c4aace2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.18.38...
+Fetching domains for 104.22.60.103...
+Fetching domains for 104.21.26.10...
+succeed to fetch domains for 104.21.18.38 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.60.103 from https://site.ip138.com/
+succeed to fetch domains for 104.21.26.10 from https://dnsdblookup.com/
+域名列表为
+['yp3111.com', 'www.hsq2bui.top', 'hsfeicui.com', 'www.amghewz.cn', 'jdnsn.win', 'www.biqudu520.com', 'www.cpc003.com', 'www.sjztielujx.com', '0x4r.tk', 'jsqingniao.com', 'gycp789.com', 'wap.hsq2bui.top', 'www.wubei520.com', 'jmanga.run', 'ludtrd.top', 'www.qjzhihui.com', 'www.jubirdapp.top', 'www.993341.com', 'www.shanyouqinwangluo.com', 'cpc003.com', 'dmc31.plutusmax.cn', 'www.18-comicblade.cc', 'www.21p.top', 'good-fuck.com', 'www.28et.com', 'www.7277tl.com', 'www.jsqingniao.com', 'www.201999.net', '08tlbb.top', 'www.tokyonline.com', '0830110.com', 'www.lancaizhu.com', 'www.12hka.com', 'www.pgene.io', 'ytb014.com', 'refanhao.com', '7788zongni.com', 'www.kan223.com', 'm.hsq2bui.top', 'cnbonreal.com', 'www.lgdj.fr', '993341.com', 'xinxincloud.xyz', 'dorarr.ws', 'www.uzwpmhq.cn', 'www.35pr.com', 'www.hrajcom.com', 'xiahe.guangdaepei.cn', 'zzxg.nanfangok.net', 'yanjiu2023.net', 'www.51tthxg.com', '8407kb.com', 'bf666.top', '18-comic4.cc', 'www.yh9pk.com', 'www.byhjj88.com', 'hsq2bui.top', 'www.m6y6.com', '0y7ngc954la95h.xyz', 'airfj.com', 'www.brickfanatics.com', 'www.cocanwelding.com', '11c9.com', 'www.zgwangzhan.com', 'byhjj88.com', 'bong88.org', '008bw.com', 'www.register.su', 'www.refanhao.com', 'xn--12cs4caf1bc8htad9ezdc1kcz.ga', 'admin.tpaycloud.com', 'www.533pp.com', 'www.lustking07.top', 'moushujia.cn', '18-comicblade.cc', 'ld917.cc', 'www9676.com', 'www.sf52l.com', 'app-metamasks.com', 'phimsexvietnam.pro', 'www.cx888my.com', 'pgene.io', '789kp.com', 'www.789ys.com', 'vrs008.com', 'www.jinyinggm.com', 'unie.pgene.io', 'wap.ludtrd.top', 'kkpp71.vuodatus.net', 'brickfanatics.com', 'www.30hu.com', 'www.holdoo.cn', 'www.kbss888.com', 'https.avlulu925.xyz', 'lustking07.top', '138187.com', 'blbt28.com', 'www.hsfeicui.com', 'www.vip188881.com', 'www.oke-3d.com', 'www.tockt.com', 'www.capacfunds.com', 'hjdb2b.top', 'gggggyy.com', 'lancaizhu.com', 'httpsrule34.top', 'register.su', '5gav.xyz', 'www.blbt28.com', 'hytlbb.xyz', '3g.hsq2bui.top', 'www.doupobook.cc', 'kan223.com', 'atacdi.com', '201999.net', 'hrajcom.com', 'www.bf666.top', 'thep4840.cc', 'www.138187.com', 'www.849mm.com', 'gtkkko.net', 'qip6.nanfangok.net', '533pp.com', 'www.8407kb.com', 'www.vg360.cn', 'www.kotarchina.com', 'www.5gav.xyz', 'www.fecdkqr.cn', 'h5.ld917.cc', 'www.qimiaoliebian.com', 'shunying888.com', 'www.ytb014.com', 'cordonbleu.com', 'thea736.com', 'login.myqyqd.com', 'm.refanhao.com', '8m497.xyz', 'vg360.cn', 'pqoin.pgene.io', 'www.52ys.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for https.avlulu925.xyz...
+Performing DNS lookup for www.849mm.com...
+Performing DNS lookup for www.kbss888.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
