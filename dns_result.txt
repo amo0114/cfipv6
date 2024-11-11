@@ -2,30 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.abillion.com
-Address: 172.66.40.77
-Name:	www.abillion.com
-Address: 172.66.43.179
-Name:	www.abillion.com
-Address: 2606:4700:3108::ac42:284d
-Name:	www.abillion.com
-Address: 2606:4700:3108::ac42:2bb3
+Name:	www.yncareer.com
+Address: 162.209.149.23
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	sm314.com
-Address: 172.67.219.68
-Name:	sm314.com
-Address: 104.21.17.15
-Name:	sm314.com
-Address: 2606:4700:3037::ac43:db44
-Name:	sm314.com
-Address: 2606:4700:3033::6815:110f
+Name:	m.kuaikan66.com
+Address: 192.157.56.139
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find re21vip.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.75uw.com
+Address: 23.225.148.166
 
