@@ -2,22 +2,41 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.777zw.net
-Address: 104.21.30.52
-Name:	m.777zw.net
-Address: 172.67.150.153
-Name:	m.777zw.net
-Address: 2606:4700:3033::6815:1e34
-Name:	m.777zw.net
-Address: 2606:4700:3036::ac43:9699
+Name:	626.jisucf.cloudns.biz
+Address: 162.159.26.82
+Name:	626.jisucf.cloudns.biz
+Address: 104.19.121.61
+Name:	626.jisucf.cloudns.biz
+Address: 104.16.29.110
+Name:	626.jisucf.cloudns.biz
+Address: 104.17.119.119
+Name:	626.jisucf.cloudns.biz
+Address: 104.19.104.75
+Name:	626.jisucf.cloudns.biz
+Address: 172.64.99.120
+Name:	626.jisucf.cloudns.biz
+Address: 104.19.125.65
+Name:	626.jisucf.cloudns.biz
+Address: 104.17.83.246
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.j7yxu3.top: NXDOMAIN
+Non-authoritative answer:
+join.admissions.uw.edu	canonical name = mkto-sj240096.com.
+Name:	mkto-sj240096.com
+Address: 104.17.74.206
+Name:	mkto-sj240096.com
+Address: 104.17.73.206
+Name:	mkto-sj240096.com
+Address: 104.17.72.206
+Name:	mkto-sj240096.com
+Address: 104.17.70.206
+Name:	mkto-sj240096.com
+Address: 104.17.71.206
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find j7yxu3.top: NXDOMAIN
+** server can't find 1.namesilo123.top: NXDOMAIN
 
