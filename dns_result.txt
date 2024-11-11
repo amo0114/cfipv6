@@ -2,27 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.c333.net	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+Name:	www.abillion.com
+Address: 172.66.40.77
+Name:	www.abillion.com
+Address: 172.66.43.179
+Name:	www.abillion.com
+Address: 2606:4700:3108::ac42:284d
+Name:	www.abillion.com
+Address: 2606:4700:3108::ac42:2bb3
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.sokankan33.cc
-Address: 103.224.212.211
+Name:	sm314.com
+Address: 172.67.219.68
+Name:	sm314.com
+Address: 104.21.17.15
+Name:	sm314.com
+Address: 2606:4700:3037::ac43:db44
+Name:	sm314.com
+Address: 2606:4700:3033::6815:110f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.xc0167.com
-Address: 104.247.194.136
+** server can't find re21vip.com: NXDOMAIN
 

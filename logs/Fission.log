@@ -9942,3 +9942,25 @@ Performing DNS lookup for www.kbss888.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 925dade] Update project files
+ 4 files changed, 61 insertions(+), 67 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   c4aace2..925dade  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.96.81...
+Fetching domains for 198.41.215.34...
+Fetching domains for 104.17.224.154...
+succeed to fetch domains for 104.21.96.81 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.224.154 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.215.34 from https://dnsdblookup.com/
+域名列表为
+['www.hnkswh.com', 'www.hm11.lol', 'www.cbcv.cc', 'www.quanchendaijia.com', 'www.ix45.com', 'bycsp28.com', 'www.cfhuagong.com', 'm.y3600.cc', 'yrftextile.com', 'stock.hostmonit.com', 'www.89maoaw.com', 'sbobetsh.com', 'www.roochi.cn', 'cnamefuckxxs.yuchen.icu', 'www.7sc.cc', 'app.inidie.xyz', 'www.royalfx24.com', 'pan.axxpan.com', 'cf-lt.sharecentre.online', 'www.busdmm.cam', '7.namesilo123.top', 'qiangkouzhao.com', 'zl.aitrjc.xyz', 'www.33mov.com', 'www.3dck.com', 'www.ncdwzs.com', 'www.axxsjx.com', '9999101.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.tuozhan22.com', 'www.hengdawatch.com', 'www.hottv.biz', 'www.jpxmx.com', 'fabu15.xyz', 'jwdwzhs.com', 'www.sxyzxh.com', 'xs.wxtv.cc', 'www.706i.com', 'busdmm.cam', 'iboying.net', 'tv44.cn', 'www.55evd.com', 'www.tinghen.com', 'ydy04.com', 'fom.li', 'yundunwawablogcdn1dx.wawacm.com', 'www.jsmx999.com', 'www.woaiqi.com', 'api.hashlotto.org', 'torrentfunk.unblockit.uno', 'xc0167.com', 'kuaikan66.com', 'zz363.com', 'www.888dyy.cc', 'www.ddaculture.com', 'gongyi.kondl.cn', '18555.life', 'www.6i5.com', 'swe789.com', 'www.yunyou4.com', 'zz255.com', 'www.ddwhm.com', 'infiniaudio.net', 'tt.eimi.me', 'spca.114514782.xyz', 'guangnan.kondl.cn', 'pinoyedition.com', 'www.0550cq.com', 'www.590fe.com', 'www.9999101.com', '89maoaw.com', 'm.bzzxxx.net', 'www.xxpg888.com', 'cdn.didi8.com', 'www.shsanrui.com', 'verpornocomic.com', 'www.zzshunxiang.cn', '0whdilqhduiha45354.shopping57.com', 'pro.eimi.me', 'prorunner.co.il', 'www.sokankan33.cc', '18xs.xyz', 'course.mozhi0012.top', 'www.fabu15.xyz', 'www.10zhanpai.com', 'www.dowelle.com', 'www.vodbd.com', 'gg449.com', 'www.kuaikan66.com', 'yx.887141.xyz', 'www.zzgszz.com', 'weguard.com', 'hottv.biz', 'www.6677buyu.com', 'www.zschenglin.com', 'www.alhaddadshop.com', 'baxtc.66666654.xyz', 'yesgooddou.com', 'ee8.tv', 'www.0745jiu.com', 'www.yunczn.com', 'ios.ha73.xyz', '345677.xyz', 'www.hashlotto.org', 'kyuiqx80qvr.com', 'www.c333.net', 'hguyjcz.asia', 'www.paizipai.top', '590fe.com', 'www.swe789.com', 'www.18xs.xyz', 'www.yddy.cc', 'www.fftv8.com', 'www.ee8.tv', '521557.com', 'ukulele-chords.com', 'test.hashlotto.org', 'ix45.com', 'www.tvyb02.com', 'www.lyzdzy.com', 'c10256.xyz', 'www.xuanxiucai.cn', 'www.xc0167.com', 'yh6.dtku41.xyz', 'energywindowmedia.com', 'www.zz363.com', 'www.92mili.com', 'www.lhman.com', '26.namesilo123.top', 'api.inidie.xyz', 'www.biinn.com', 'www.mfwzhs.com', 'man.luwangyangrong.com', 'www.japaneseasmr.com', '0550cq.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.c333.net...
+Performing DNS lookup for www.sokankan33.cc...
+Performing DNS lookup for www.xc0167.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
