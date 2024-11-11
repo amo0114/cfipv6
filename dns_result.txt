@@ -2,47 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	628000.xyz
-Address: 104.20.152.207
-Name:	628000.xyz
-Address: 104.24.228.194
-Name:	628000.xyz
-Address: 198.41.198.164
-Name:	628000.xyz
-Address: 198.41.194.11
-Name:	628000.xyz
-Address: 198.41.197.146
-Name:	628000.xyz
-Address: 141.101.122.86
-Name:	628000.xyz
-Address: 198.41.218.202
-Name:	628000.xyz
-Address: 104.23.135.253
-Name:	628000.xyz
-Address: 104.16.203.195
-Name:	628000.xyz
-Address: 154.83.85.155
-Name:	628000.xyz
-Address: 104.19.172.90
-Name:	628000.xyz
-Address: 104.20.163.81
-Name:	628000.xyz
-Address: 141.101.121.125
-Name:	628000.xyz
-Address: 104.16.198.81
-Name:	628000.xyz
-Address: 104.24.27.127
+*** Can't find hfli.xyz: No answer
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
+www.5522tl.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+Name:	www.yncareer.com
+Address: 162.209.149.23
 
