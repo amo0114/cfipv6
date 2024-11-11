@@ -10034,3 +10034,25 @@ Performing DNS lookup for j7yxu3.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5ada386] Update project files
+ 4 files changed, 86 insertions(+), 30 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   542e04a..5ada386  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.70.206...
+Fetching domains for 104.21.239.215...
+Fetching domains for 198.41.198.91...
+succeed to fetch domains for 104.21.239.215 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.198.91 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.70.206 from https://site.ip138.com/
+域名列表为
+['info.sdl.com', '892-mqr-972.mktoweb.com', 'engage.wrike.com', 'go.linebiz.jp', 'acbj.mktoweb.com', 'click.heritage.org', 'go2.zeiss.com', 'cdncdncdncdn.784654.xyz', 'spca.114514782.xyz', 'acus.cloudflarest.link', 'goto.effectv.com', 'note.microsoft.com', 'go.carnegieendowment.org', 'info.tmforum.org', 'c.email.plus.shopify.com', 'www.huakai2018.com', 'frsadubicc.76898102.xyz', 'www.p2007.com', 'info.insights.office.com', 'www.ygdy8.cc', 'info.braze.com', 'go.vwr.com', 'go.gotomeeting.com', 'azureinfo.microsoft.com', 'sj25.mktossl.com', '1.namesilo123.top', 'whatsappbusiness.facebookinc.com', 'www.zgjmw.net', 'resources.office.com', 'go.launchdarkly.com', 'forms.fastly.com', 'www.nsisfans.com', 'go2.grafana.com', 'nvidia.mktoweb.com', 'go.bd.com', 'em.linebiz.com', 'aris.mktossl.com', 'www.whpaiger.com', 'info2.equinix.com', 'www.99wxw.cc', 'ab10.mktossl.com', 'baxtc.66666654.xyz', '626.jisucf.cloudns.biz', 'info.nvidia.com', '763-jpk-854.mktoweb.com', 'go.schneider-electric.com', 'www.nitianxieshen.com', 'email.akamai.com', 'buzz.f5.com', 'connect.ieee.org', 'waves.digitalocean.com', 'go.macmillanlearning.com', 'go.line-works.com', 'jpvsavhyu.76898102.xyz', 'www.652tv.com', 'info.lww.com', 'kkyx.yydsii.com', 'infom.udemy.com', 'go.kaltura.com', 'go.ddiworld.com', '7.namesilo123.top', 'info.zscaler.com', 'info.cloudflare.com', 'info.udemy.com', 'go.helpshift.com', 'www.ddwhm.com', 'www.vodbd.com', 'med.cleardata.com', 'go.facebookinc.com', 'www.doupobook.com', 'appsflyer2.mktoweb.com', 'mktossl.com', '4d.mktoweb.com', 'trust.medallia.com', 'menmaza.76898102.xyz', 'www.ldssz.com', 'yx.887141.xyz', 'lp.veniracristo.org', 'pages.coursera.org', 'cgcc.digicert.pp.ua', 'info.microsoft.com', 'go.pro.sony.com', 'merakiresources.cisco.com', 'learn.appsflyer.com', 'go.linebiz.com', 'vimeo.livestream.com', 'join.admissions.uw.edu', 'your.fitchratings.com', 'bk.jdkg.fun', 'go.medallia.com', 'ygdy8.cc', 'xl.mktossl.com', 'jhpcza.66666654.xyz', 'ab01.mktossl.com', 'ab20.mktossl.com', 'go.us.ovhcloud.com', 'go.fugro.com', 'www.99wx.cc', 'info.signalsciences.com', 'sj13.mktossl.com', 'zgjmw.net', 'go.appannie.com', 'www.xworldadmin.com', 'email.10xgenomics.com', 'verify.medallia.com', 'click.insights.office.com', 'biz.tm.softbank.jp', 'achk.cloudflarest.link', 'go.appsflyer.com', 'axis.mktossl.com', 'go2.medallia.com', 'go.telegram.com', 'yh6.dtku41.xyz', 'nlsdwsz.66666654.xyz', 'mktjs.avepoint.com', 'go.st.com', 'www.92mili.com', 'click.nesl.edu', 'em2.r-agent.com', 'www.295k.com', 'learn.mheducation.com', 'notes.appannie.com', 'accessinformationmanagement.mktoweb.com', 'www.hm11.lol', 'cdn.756577.xyz', 'mail.adecco.co.jp', 'go.iii.com', 'www.93xscc.com', 'ab41.mktossl.com', 'www.tvyb02.com', 'raw.gitmirror.com', 'www.wecaidan.com', 'knowledge.wes.org', 'content.facebookinc.com', 'www.hm17.lol', 'freeyx.cloudflare88.eu.org', 'note0.microsoft.com', 'go.altium.com', 'get.nice.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 626.jisucf.cloudns.biz...
+Performing DNS lookup for join.admissions.uw.edu...
+Performing DNS lookup for 1.namesilo123.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
