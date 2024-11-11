@@ -9986,3 +9986,25 @@ Performing DNS lookup for re21vip.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 88ff5fe] Update project files
+ 4 files changed, 52 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   e749576..88ff5fe  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.193.120...
+Fetching domains for 104.17.248.145...
+Fetching domains for 104.17.93.192...
+succeed to fetch domains for 104.17.248.145 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.193.120 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.93.192 from https://dnsdblookup.com/
+域名列表为
+['www.yncareer.com', 'www.75uw.com', 'www.kan234.com', 'm.kuaikan66.com', 'www.kukedy.tv', 'j262.cc', 'm.bqg789.co', 'www.whpaiger.com', 'www.wubei520.com', '1.namesilo123.top', 'www.207my.com', 'www.lyzdzy.com', 'www.vcd.la', 'j215.cc', 'poki.com.br', 'www.456gg.com', 'www.cocanwelding.com', 'www.qilishusong.cn', 'www.cfhuagong.com', 'status.hmoe.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yncareer.com...
+Performing DNS lookup for m.kuaikan66.com...
+Performing DNS lookup for www.75uw.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

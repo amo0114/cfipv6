@@ -2,20 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yncareer.com
-Address: 162.209.149.23
+Name:	m.777zw.net
+Address: 104.21.30.52
+Name:	m.777zw.net
+Address: 172.67.150.153
+Name:	m.777zw.net
+Address: 2606:4700:3033::6815:1e34
+Name:	m.777zw.net
+Address: 2606:4700:3036::ac43:9699
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	m.kuaikan66.com
-Address: 192.157.56.139
+** server can't find www.j7yxu3.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+** server can't find j7yxu3.top: NXDOMAIN
 
