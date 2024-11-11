@@ -2,87 +2,48 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	xs.wxtv.cc
-Address: 104.19.135.154
-Name:	xs.wxtv.cc
-Address: 104.16.112.141
-Name:	xs.wxtv.cc
-Address: 104.21.227.211
-Name:	xs.wxtv.cc
-Address: 104.16.112.168
-Name:	xs.wxtv.cc
-Address: 104.19.136.169
+https.avlulu925.xyz	canonical name = http-domain.dns.aa5aa5.com.
+http-domain.dns.aa5aa5.com	canonical name = http-301.cdn.goodluck-co.com.
+Name:	http-301.cdn.goodluck-co.com
+Address: 143.92.53.209
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-ss.moonriver.sbs	canonical name = 213222.cloudflare.182682.xyz.
-Name:	213222.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	213222.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	213222.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	213222.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	213222.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	213222.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	213222.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	213222.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	213222.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	213222.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
+Name:	www.849mm.com
+Address: 172.67.135.30
+Name:	www.849mm.com
+Address: 104.21.26.10
+Name:	www.849mm.com
+Address: 2606:4700:3033::ac43:871e
+Name:	www.849mm.com
+Address: 2606:4700:3037::6815:1a0a
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.74ms.com	canonical name = p8nky6e7.aliadvance.com.
-p8nky6e7.aliadvance.com	canonical name = 4rt5un96.n.aliadvance.com.
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.17.71
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.17.149
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.16.217
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.16.176
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.17.133
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.16.216
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.17.160
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.39.66.189
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.39.66.184
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.39.66.158
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.17.122
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.17.118
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.16.162
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.17.143
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.39.66.193
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.17.181
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.39.66.153
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.39.66.186
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.17.62
-Name:	4rt5un96.n.aliadvance.com
-Address: 154.197.16.164
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.16.120.100
+Name:	dcs.jqddos.xyz
+Address: 104.19.178.57
+Name:	dcs.jqddos.xyz
+Address: 104.24.18.183
+Name:	dcs.jqddos.xyz
+Address: 104.16.33.57
+Name:	dcs.jqddos.xyz
+Address: 104.25.3.1
+Name:	dcs.jqddos.xyz
+Address: 104.17.41.172
+Name:	dcs.jqddos.xyz
+Address: 104.18.39.47
+Name:	dcs.jqddos.xyz
+Address: 104.24.200.164
+Name:	dcs.jqddos.xyz
+Address: 104.25.77.51
+Name:	dcs.jqddos.xyz
+Address: 104.18.248.12
 
