@@ -2,28 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wnet.one
-Address: 172.67.130.242
-Name:	wnet.one
-Address: 104.21.3.165
-Name:	wnet.one
-Address: 2606:4700:3034::6815:3a5
-Name:	wnet.one
-Address: 2606:4700:3030::ac43:82f2
+Name:	cdn1.turboviplay.com
+Address: 172.67.135.209
+Name:	cdn1.turboviplay.com
+Address: 104.21.26.91
+Name:	cdn1.turboviplay.com
+Address: 2606:4700:3037::ac43:87d1
+Name:	cdn1.turboviplay.com
+Address: 2606:4700:3034::6815:1a5b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.luwangyangrong.com
-Address: 172.232.25.148
-Name:	m.luwangyangrong.com
-Address: 172.232.4.213
-Name:	m.luwangyangrong.com
-Address: 172.232.31.180
+Name:	www.gay2022.media
+Address: 103.224.182.251
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.lkktv.com: NXDOMAIN
+Non-authoritative answer:
+Name:	hj22.me
+Address: 103.224.212.217
 

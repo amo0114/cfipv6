@@ -10166,3 +10166,24 @@ Performing DNS lookup for www.gcdwzip.info...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e4623fc] Update project files
+ 4 files changed, 48 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   673c6f5..e4623fc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.233.6...
+Fetching domains for 104.21.232.247...
+Fetching domains for 104.22.13.162...
+succeed to fetch domains for 104.21.233.6 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.13.162 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.232.247 from https://dnsdblookup.com/
+域名列表为
+['cbcv.cc', 'www.930my.com', 'www.295k.com', 'www.cfhuagong.com', 'www.sbroker.de', 'www.lkktv.com', 'www.92mili.com', 'sussexstudent.com', 'jpvsavhyu.76898102.xyz', 'm.niuerzs.com', 'm.luwangyangrong.com', 'www.6988tv.com', 'wnet.one', 'www.91m.cc', 'www.lyzdzy.com', '92mili.com', 'www.176sf999.com', 'www.wnacg1.com', 'm.6988tv.com', 'www.hengnan520.com', 'www.993my.com', 'www.cbcv.cc', 'wolfstream.tv', 'www.luwangyangrong.com', 'dsxys.com', 'www.5ddy.cc', 'yiminfangzhi.com', '6988tv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wnet.one...
+Performing DNS lookup for m.luwangyangrong.com...
+Performing DNS lookup for www.lkktv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
