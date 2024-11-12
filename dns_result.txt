@@ -2,32 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.630book.com
-Address: 172.67.138.109
-Name:	www.630book.com
-Address: 104.21.78.237
-Name:	www.630book.com
-Address: 2606:4700:3035::6815:4eed
-Name:	www.630book.com
-Address: 2606:4700:3032::ac43:8a6d
+Name:	www.tpyyc.com
+Address: 107.148.242.9
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nsisfans.com	canonical name = 5bkgaj4t.cname-cdn.vip.
-5bkgaj4t.cname-cdn.vip	canonical name = srechjbn.n.cname-cdn.vip.
-Name:	srechjbn.n.cname-cdn.vip
-Address: 103.27.79.79
+Name:	www.hm13.lol
+Address: 64.64.230.87
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.606977.com
-Address: 172.232.4.213
-Name:	www.606977.com
-Address: 172.232.31.180
-Name:	www.606977.com
-Address: 172.232.25.148
+Name:	www.naics.com
+Address: 172.67.74.212
+Name:	www.naics.com
+Address: 104.26.6.170
+Name:	www.naics.com
+Address: 104.26.7.170
+Name:	www.naics.com
+Address: 2606:4700:20::ac43:4ad4
+Name:	www.naics.com
+Address: 2606:4700:20::681a:6aa
+Name:	www.naics.com
+Address: 2606:4700:20::681a:7aa
 
