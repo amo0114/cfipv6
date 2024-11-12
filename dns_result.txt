@@ -2,35 +2,49 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.sf123.mobi	canonical name = sf123mobi.haofanghu123.com.
-sf123mobi.haofanghu123.com	canonical name = www.sf123.mobi.cdn.cloudflare.net.
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 104.21.86.20
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 172.67.214.14
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 2606:4700:3037::ac43:d60e
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:5614
+Name:	bestcf.onecf.eu.org
+Address: 104.17.252.80
+Name:	bestcf.onecf.eu.org
+Address: 104.21.239.44
+Name:	bestcf.onecf.eu.org
+Address: 104.19.227.68
+Name:	bestcf.onecf.eu.org
+Address: 104.22.54.47
+Name:	bestcf.onecf.eu.org
+Address: 104.17.234.123
+Name:	bestcf.onecf.eu.org
+Address: 104.21.21.230
+Name:	bestcf.onecf.eu.org
+Address: 104.17.240.57
+Name:	bestcf.onecf.eu.org
+Address: 104.21.28.245
+Name:	bestcf.onecf.eu.org
+Address: 104.21.226.178
+Name:	bestcf.onecf.eu.org
+Address: 172.67.73.22
+Name:	bestcf.onecf.eu.org
+Address: 104.17.225.77
+Name:	bestcf.onecf.eu.org
+Address: 104.17.228.41
+Name:	bestcf.onecf.eu.org
+Address: 104.19.236.45
+Name:	bestcf.onecf.eu.org
+Address: 104.22.52.50
+Name:	bestcf.onecf.eu.org
+Address: 104.17.243.99
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find 8810868.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.wei333.com
-Address: 75.2.115.196
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.5522tl.com	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
+spca.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global25.66666654.xyz.
+Name:	cfcn-a-global25.66666654.xyz
+Address: 104.20.21.216
 
