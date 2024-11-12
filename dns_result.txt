@@ -1,31 +1,39 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.yanqin9.cc: NXDOMAIN
+Non-authoritative answer:
+Name:	www.jianglezhaopin.com
+Address: 104.21.41.59
+Name:	www.jianglezhaopin.com
+Address: 172.67.189.119
+Name:	www.jianglezhaopin.com
+Address: 2606:4700:3032::6815:293b
+Name:	www.jianglezhaopin.com
+Address: 2606:4700:3032::ac43:bd77
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.1dc81.com
-Address: 104.21.69.216
-Name:	www.1dc81.com
-Address: 172.67.213.97
-Name:	www.1dc81.com
-Address: 2606:4700:3035::6815:45d8
-Name:	www.1dc81.com
-Address: 2606:4700:3037::ac43:d561
+Name:	www.ttspeed.com
+Address: 172.67.189.119
+Name:	www.ttspeed.com
+Address: 104.21.41.59
+Name:	www.ttspeed.com
+Address: 2606:4700:3032::6815:293b
+Name:	www.ttspeed.com
+Address: 2606:4700:3032::ac43:bd77
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	mail.jmcomic.vip
-Address: 172.67.213.97
-Name:	mail.jmcomic.vip
-Address: 104.21.69.216
-Name:	mail.jmcomic.vip
-Address: 2606:4700:3035::6815:45d8
-Name:	mail.jmcomic.vip
-Address: 2606:4700:3037::ac43:d561
+Name:	crbm2q9.top
+Address: 172.67.221.16
+Name:	crbm2q9.top
+Address: 104.21.62.70
+Name:	crbm2q9.top
+Address: 2606:4700:3037::ac43:dd10
+Name:	crbm2q9.top
+Address: 2606:4700:3036::6815:3e46
 
