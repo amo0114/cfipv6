@@ -2,38 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.jianglezhaopin.com
-Address: 104.21.41.59
-Name:	www.jianglezhaopin.com
-Address: 172.67.189.119
-Name:	www.jianglezhaopin.com
-Address: 2606:4700:3032::6815:293b
-Name:	www.jianglezhaopin.com
-Address: 2606:4700:3032::ac43:bd77
+www.sf123.mobi	canonical name = sf123mobi.haofanghu123.com.
+sf123mobi.haofanghu123.com	canonical name = www.sf123.mobi.cdn.cloudflare.net.
+Name:	www.sf123.mobi.cdn.cloudflare.net
+Address: 104.21.86.20
+Name:	www.sf123.mobi.cdn.cloudflare.net
+Address: 172.67.214.14
+Name:	www.sf123.mobi.cdn.cloudflare.net
+Address: 2606:4700:3037::ac43:d60e
+Name:	www.sf123.mobi.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:5614
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.ttspeed.com
-Address: 172.67.189.119
-Name:	www.ttspeed.com
-Address: 104.21.41.59
-Name:	www.ttspeed.com
-Address: 2606:4700:3032::6815:293b
-Name:	www.ttspeed.com
-Address: 2606:4700:3032::ac43:bd77
+Name:	www.wei333.com
+Address: 75.2.115.196
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	crbm2q9.top
-Address: 172.67.221.16
-Name:	crbm2q9.top
-Address: 104.21.62.70
-Name:	crbm2q9.top
-Address: 2606:4700:3037::ac43:dd10
-Name:	crbm2q9.top
-Address: 2606:4700:3036::6815:3e46
+www.5522tl.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
