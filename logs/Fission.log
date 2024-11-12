@@ -10144,3 +10144,25 @@ Performing DNS lookup for www.naics.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 673c6f5] Update project files
+ 4 files changed, 50 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   bedfd73..673c6f5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.204.170...
+Fetching domains for 104.21.46.130...
+Fetching domains for 104.18.26.244...
+succeed to fetch domains for 104.18.26.244 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.204.170 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.46.130 from https://site.ip138.com/
+域名列表为
+['www.4huxx79.com', 'www.4hukk99.com', 'indo-games-slot-machines.com', '000.244231625.xyz', 'z60dy.com', 'yaoqshu.cc', 'am037.434tk.com', 'www.9805tl.xyz', 'appd9s2.space', 'v862h.com', 'www.y3600.cc', 'www.xmjwgm.com', 'www.0789pk.com', '35366a.com', 'www.zxc999.cn', 'www.qddyy.me', 'www.4s600.com', 'www.a234xa.com', 'www.52110my.com', 'globalcompetitionreview.com', 'www.jc-shelf.com', 'yaoqshu.top', '2019ry.com', '52hj.me', 'www.sharezweb.com', 'www.116mh.com', 'amnh.org', 'developer-app.xyz', 'www.westerntimes.co.in', 'cwdcl.top', 'jc-shelf.com', 'image.xmanhua.com', '511mj.com', 'sy5151.com', 'yisujiayuan.com', '4hukk99.com', 'avart2.com', 'xmanhua.com', 'www.downturk.net', 'jggame.xyz', 'css.xmanhua.com', 'gcdwzip.info', 'www.dha.ln.cn', 'www.scwenyi.cn', 'biodiversityinformatics.amnh.org', 'euro-tax.bg', 'q393r.com', '77wg.vip', 'apap4.com', 'www.apex521.com', 'okalicdn.com', 'h837.com', 'm.niuerzs.com', 'www.amnh.org', 'gay2022.city', '182qw.com', '8m2391.com', 'www.2019ry.com', '8mav872.com', '4hun51.com', 'www.579my.com', 'www.apap4.com', 'nagualdesign.com', 'ytbh135.com', '40haocc.com', 'www.6xr.com', 'digitallibrary.amnh.org', 'www.4hun51.com', 'w128811.com', 'www.gx077.vip', 'www.renren.la', 'hjfe4.com', '3g.cwdcl.top', 'picacgz.cn', 'www.gay2022.city', 'www.bp6688.fun', 'miaozhaoblog.com', 'www.77wg.vip', 'm.dongman.la', 'www.40haocc.com', 'www.nangua55.com', '4s600.com', 'www.q2054.com', 'the1990.com', 'www.yisujiayuan.com', '78cc.net', 'www.500dh.buzz', 'www.123tlvip.com', 'www.97777pk.com', 'www.h4639b.com', 'www.q393r.com', 'www.www2011india.com', 'sss.xiaonatl.com', 'testdmap.bnxb.cf', 'www.2789bi.com', 'www.v862h.com', 'www.picacgz.cn', 'www.kymoyu.com', 'www.gcdwzip.info', 'gcjc17.cn', 'www.miaozhaoblog.com', 'jinyangrb.com', 'www.tpyyc.com', 'amphibiansoftheworld.amnh.org', 'www.xmanhua.com', '4042408.fun', 'ir345.com', '1238aa.com', '5g.miaozhaoblog.com', 'www.y3600.com', 'cover.xmanhua.com', 'xzks1070.site', 'yh4.dtku41.xyz', 'sharezweb.com', '5699my.cn', 'www.9889my.com', 'www.cfhuagong.com', 'm.cwdcl.top', 'www.511my.com', '4huxx79.com', 'www.zoazoa21.me', 'pokerhappy.net', 'www.717zfsf.com', 'www.lzxhqh.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.westerntimes.co.in...
+Performing DNS lookup for www.renren.la...
+Performing DNS lookup for www.gcdwzip.info...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
