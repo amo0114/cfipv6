@@ -2,30 +2,19 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tpyyc.com
-Address: 107.148.242.9
+www.westerntimes.co.in	canonical name = westerntimes.co.in.
+Name:	westerntimes.co.in
+Address: 23.105.39.68
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.hm13.lol
-Address: 64.64.230.87
+Name:	www.renren.la
+Address: 38.238.95.145
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.naics.com
-Address: 172.67.74.212
-Name:	www.naics.com
-Address: 104.26.6.170
-Name:	www.naics.com
-Address: 104.26.7.170
-Name:	www.naics.com
-Address: 2606:4700:20::ac43:4ad4
-Name:	www.naics.com
-Address: 2606:4700:20::681a:6aa
-Name:	www.naics.com
-Address: 2606:4700:20::681a:7aa
+** server can't find www.gcdwzip.info: NXDOMAIN
 
