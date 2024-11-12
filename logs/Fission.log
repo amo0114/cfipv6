@@ -10187,3 +10187,25 @@ Performing DNS lookup for www.lkktv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e306ec8] Update project files
+ 4 files changed, 57 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   e4623fc..e306ec8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.26.91...
+Fetching domains for 104.21.31.5...
+Fetching domains for 104.17.229.154...
+succeed to fetch domains for 104.21.26.91 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.229.154 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.31.5 from https://site.ip138.com/
+域名列表为
+['fq9q1z.site', 'y3600.cz', 'www.medusa-ec.com', 'b23.tv.pixivel.moe', 'www.mediamatis.com', 'www.zwl99.top', 'mxs12.cc', 'kirgiz.top', 'xianyuwangluo.net', 'www.91hlw16.com', '3g.qyhjfx.top', '91hlw16.com', 'uwlyy.com', 'fsg.ssmgr.com', 'www.czzs66.top', 'b42c.cn', 'bit.jiuse396.xyz', 'www.lyzdzy.com', 'blackwolfsec.cc', '137yd.com', 'qmulvz.com', 'www.obar.info', 'www.hzqianye.cn', 'www.alun.cc', '8488mm.com', 'github.jiuse396.xyz', 'gay2022.media', 'www.iios.fun', '59x1rv.jiuse396.xyz', 'tpolimer.kiev.ua', 'git.jiuse396.xyz', 'www.dochtml.com', 'www.fytt.com', 'tuoyifu.vip', 'bdu481681.top', '69av22.com', 'wap.daytou.top', 'www.8488mm.com', 'locoins.io', 'm.qyhjfx.top', 'zwl99.top', 'cdn3.turboviplay.com', 'fus.ssmgr.com', 'ue54.com', 'www.gay2022.media', 'www.v76545.com', 'jiuse396.xyz', 'www.huiyubaojie.com', 'm.zwl99.top', 'bx003.xyz', 'www.qyhjfx.top', 'fjp.ssmgr.com', 'bluedvideo.ink', 'lde.ssmgr.com', 'fhk.ssmgr.com', 'ftr.ssmgr.com', 'vq7f4ouy6d.com', 'www.mxs12.cc', 'taelpay.com', 'www.coinbuyes.com', 'qq.njyp.link', '8mav1590.com', 'fytt.com', 'www.4huc81.com', 'www.tpyyc.com', 'cloud.sakurasep.club', '336hhh.com', 'wap.zwl99.top', 'jkx886.com', 'www.8t3f.cn', '1000soha.com', 'www.odaphvi.cn', 'jj.njyp.link', 'www.ysthem.com', 'www.bluedvideo.ink', 'wap.qyhjfx.top', 'www.b42c.cn', 'thep898.cc', 'www.jiuse396.xyz', 'km0personal.com', 'm.klxhyy.com', 'www.yuchuangkj.com', 'm.bdu481681.top', 'njyp2.njyp.link', '79eee.com', 'www.madopj.info', 'www.js93067.com', 'www.iios.club', 'fuk.ssmgr.com', '360safes.online', 'yuchuangkj.com', 'www.cfhuagong.com', 'www.nknxvlo.cn', 'fau.ssmgr.com', 'a333ac.com', 'socialshow.ru', 'www.xindiediao.com', 'yhg7788.com', 'm.cc148.com', 'www.jkx886.com', 'thep774.cc', 'madopj.info', 'turboviplay.com', 'huiyubaojie.com', 'xzmzd.com', '4huc81.com', 'www967718.com', 'lsg.ssmgr.com', 'm.kirgiz.top', 'sakurasep.club', '773zhjy.com', 'www.kirgiz.top', 'lar.ssmgr.com', 'www.a333ac.com', 'hzqianye.cn', 'www.lanjing158.com', 'cdn.turboviplay.com', 'fin.ssmgr.com', 'www.ue54.com', '5haohh.com', 'fnl.ssmgr.com', '3g.kirgiz.top', 'www.5haohh.com', 'hj22.me', 'luwangyangrong.com', 'js93067.com', 'cdn2.turboviplay.com', 'cdn1.turboviplay.com', 'www.79eee.com', 'alun.cc', 'www.jingubank.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cdn1.turboviplay.com...
+Performing DNS lookup for www.gay2022.media...
+Performing DNS lookup for hj22.me...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

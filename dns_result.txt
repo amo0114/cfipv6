@@ -1,27 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	cdn1.turboviplay.com
-Address: 172.67.135.209
-Name:	cdn1.turboviplay.com
-Address: 104.21.26.91
-Name:	cdn1.turboviplay.com
-Address: 2606:4700:3037::ac43:87d1
-Name:	cdn1.turboviplay.com
-Address: 2606:4700:3034::6815:1a5b
+** server can't find www.yanqin9.cc: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.gay2022.media
-Address: 103.224.182.251
+Name:	www.1dc81.com
+Address: 104.21.69.216
+Name:	www.1dc81.com
+Address: 172.67.213.97
+Name:	www.1dc81.com
+Address: 2606:4700:3035::6815:45d8
+Name:	www.1dc81.com
+Address: 2606:4700:3037::ac43:d561
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	hj22.me
-Address: 103.224.212.217
+Name:	mail.jmcomic.vip
+Address: 172.67.213.97
+Name:	mail.jmcomic.vip
+Address: 104.21.69.216
+Name:	mail.jmcomic.vip
+Address: 2606:4700:3035::6815:45d8
+Name:	mail.jmcomic.vip
+Address: 2606:4700:3037::ac43:d561
 
