@@ -2,52 +2,41 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.x52bq.com	canonical name = back.52biqv.com.
-Name:	back.52biqv.com
-Address: 172.67.214.157
-Name:	back.52biqv.com
-Address: 104.21.53.154
-Name:	back.52biqv.com
-Address: 2606:4700:3032::6815:359a
-Name:	back.52biqv.com
-Address: 2606:4700:3034::ac43:d69d
+Name:	www.yzhma.com
+Address: 38.46.8.29
+Name:	www.yzhma.com
+Address: 38.46.8.30
+Name:	www.yzhma.com
+Address: 38.46.8.27
+Name:	www.yzhma.com
+Address: 38.46.8.28
+Name:	www.yzhma.com
+Address: 38.46.8.26
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.28et.com
-Address: 66.29.136.78
+Name:	www.ikhma.com
+Address: 38.46.8.27
+Name:	www.ikhma.com
+Address: 38.46.8.28
+Name:	www.ikhma.com
+Address: 38.46.8.30
+Name:	www.ikhma.com
+Address: 38.46.8.26
+Name:	www.ikhma.com
+Address: 38.46.8.29
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.heinu.cc	canonical name = origin.heinu.cc.
-origin.heinu.cc	canonical name = saas.heinu.cc.
-saas.heinu.cc	canonical name = api.cloudflare.com.
-Name:	api.cloudflare.com
-Address: 104.19.193.29
-Name:	api.cloudflare.com
-Address: 104.19.192.177
-Name:	api.cloudflare.com
-Address: 104.19.192.176
-Name:	api.cloudflare.com
-Address: 104.19.192.175
-Name:	api.cloudflare.com
-Address: 104.19.192.174
-Name:	api.cloudflare.com
-Address: 104.19.192.29
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c01d
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c0af
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c0b0
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c0b1
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c11d
-Name:	api.cloudflare.com
-Address: 2606:4700:300a::6813:c0ae
+www.dmbj.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.116.172
+Name:	ips.993888.xyz
+Address: 104.18.170.228
+Name:	ips.993888.xyz
+Address: 104.18.66.57
 
