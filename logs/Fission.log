@@ -10302,3 +10302,25 @@ Performing DNS lookup for spca.114514782.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d8ba3a8] Update project files
+ 4 files changed, 50 insertions(+), 72 deletions(-)
+ rewrite dns_result.txt (89%)
+To github.com:amo0114/cfipv6.git
+   47a4940..d8ba3a8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.162.142...
+Fetching domains for 104.17.185.125...
+Fetching domains for 198.41.208.168...
+succeed to fetch domains for 104.17.185.125 from https://site.ip138.com/
+succeed to fetch domains for 198.41.208.168 from https://site.ip138.com/
+succeed to fetch domains for 104.17.162.142 from https://site.ip138.com/
+域名列表为
+['www.paizipai.top', 'www.tv9090.com', 'www.4148.net', 'www.ycly.work', 'www.anglesya.win', 'www.suboji.com', 'wei333.com', 'panel3.touhou.tel', 'www.tinghen.com', 'zi0.cc', 'www.6i5.com', 'stock.hostmonit.com', 'www.4gdiy.com', 'm.okdi.net', 'www.11txt.com', 'www.223ss.com', '8810868.com', 'www.90dushu.com', 'www.uu93.com', 'qiangkouzhao.com', 'yunyu51.com', 'www.ganpian.com', 'uu93.com', '606977.com', 'www.ddwhm.com', 'suboji.com', 'www.xjjhny.cn', 'www.xczq1.top', 'freeyx.cloudflare88.eu.org', 'i.97p.org', 'cfip.xxxxxxxx.tk', 'www.biqune.com', 'fk.shouhucj.com', 'ipdb.rr.nu', 'www.50zw.co', 'yh6.dtku41.xyz', 'anglesya.win', 'www.tvccc.org', 'www.ylsbzs.com', 'ayuer.com', 'www.789kp.com', 'cg.22yy7.com', 'www.ei01.com', 'www.smdy.org', '4gdiy.com', 'www.4j4j.cn', 'www.iios.club', 'tushencn.com', 'www.zzztch.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ayuer.com...
+Performing DNS lookup for 4gdiy.com...
+Performing DNS lookup for anglesya.win...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
