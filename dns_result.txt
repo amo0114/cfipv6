@@ -2,24 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.seyuu.cc
-Address: 104.21.78.169
-Name:	www.seyuu.cc
-Address: 172.67.136.4
-Name:	www.seyuu.cc
-Address: 2606:4700:3033::6815:4ea9
-Name:	www.seyuu.cc
-Address: 2606:4700:3030::ac43:8804
+Name:	oaistatic-cdn.closeai.biz
+Address: 104.26.8.161
+Name:	oaistatic-cdn.closeai.biz
+Address: 104.26.9.161
+Name:	oaistatic-cdn.closeai.biz
+Address: 172.67.71.91
+Name:	oaistatic-cdn.closeai.biz
+Address: 2606:4700:20::681a:8a1
+Name:	oaistatic-cdn.closeai.biz
+Address: 2606:4700:20::681a:9a1
+Name:	oaistatic-cdn.closeai.biz
+Address: 2606:4700:20::ac43:475b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.vr473.com: NXDOMAIN
+** server can't find b.langhuayun.online: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
+448b.com	canonical name = chzko.c4bla.bond.
+Name:	chzko.c4bla.bond
+Address: 172.67.219.29
+Name:	chzko.c4bla.bond
+Address: 104.21.62.29
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3034::6815:3e1d
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3030::ac43:db1d
 
