@@ -2,35 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	oaistatic-cdn.closeai.biz
-Address: 104.26.8.161
-Name:	oaistatic-cdn.closeai.biz
-Address: 104.26.9.161
-Name:	oaistatic-cdn.closeai.biz
-Address: 172.67.71.91
-Name:	oaistatic-cdn.closeai.biz
-Address: 2606:4700:20::681a:8a1
-Name:	oaistatic-cdn.closeai.biz
-Address: 2606:4700:20::681a:9a1
-Name:	oaistatic-cdn.closeai.biz
-Address: 2606:4700:20::ac43:475b
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find b.langhuayun.online: NXDOMAIN
+Name:	3g.enchui.top
+Address: 104.21.25.110
+Name:	3g.enchui.top
+Address: 172.67.134.16
+Name:	3g.enchui.top
+Address: 2606:4700:3037::ac43:8610
+Name:	3g.enchui.top
+Address: 2606:4700:3036::6815:196e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-448b.com	canonical name = chzko.c4bla.bond.
-Name:	chzko.c4bla.bond
-Address: 172.67.219.29
-Name:	chzko.c4bla.bond
-Address: 104.21.62.29
-Name:	chzko.c4bla.bond
-Address: 2606:4700:3034::6815:3e1d
-Name:	chzko.c4bla.bond
-Address: 2606:4700:3030::ac43:db1d
+Name:	9999.av295.top
+Address: 154.23.64.98
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.yindan.me
+Address: 172.67.150.23
+Name:	www.yindan.me
+Address: 104.21.29.251
+Name:	www.yindan.me
+Address: 2606:4700:3032::6815:1dfb
+Name:	www.yindan.me
+Address: 2606:4700:3031::ac43:9617
 

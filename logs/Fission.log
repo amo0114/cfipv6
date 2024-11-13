@@ -10411,3 +10411,25 @@ Performing DNS lookup for dsxys.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main aa4f83d] Update project files
+ 4 files changed, 68 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   0f206f8..aa4f83d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.9.161...
+Fetching domains for 104.18.104.160...
+Fetching domains for 104.17.12.101...
+succeed to fetch domains for 104.17.12.101 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.9.161 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.104.160 from https://ipchaxun.com/
+域名列表为
+['jatiswara.unram.ac.id', 'www.komiic.com', 'prodesigntools.com', 'yy4080dy6.cc', 'www.macitynet.it', 'www.99wxw.cc', 'myfilipinafriend.com', 'happy888.cc', 'comunicati-stampa.net', 'start.hellogetsafe.com', 'oaistatic-cdn.closeai.biz', 'www.kuntokauppa.fi', 'jrm.unram.ac.id', 'app.happy888.cc', 'awkwardfamilyphotos.com', 'www.poptopshop.nl', 'kz22.cc', 'www.affilitizer.com', 'techsauce.co', 'm.homeless.co.il', 'lotusbuzz.com', 'schemas.casa', 'jaa.unram.ac.id', 'api.gm3f.com', 'www.okdyy.com', 'www.295k.com', 'www.93xscc.com', 'www.789kp.com', 'www.shecnudec.com', 'igg-games.com', 'm.niuerzs.com', 'www.wenxueyuedu.com', 'qr99.cc', 'www.kruupdate.com', 'jpnewacs.114514782.xyz', 'www.kunzedu.com', 'n45lxpvts.com', 'www.cykz.net', 'www.77336200.com', 'a.langhuayun.online', 'www.firex.co.uk', 'www.100mr.net', 'img.gm3f.com', 'usshsaba.114514782.xyz', 'slot2080.com', 'www.cocanwelding.com', 'laxdscaa.76898102.xyz', 'ccst.us', 'addictinggames.com', 'lyys8.com', 'haitunplus.com', 'komiic.com', 'www.sixyin.com', 'lovedance888.com', '77336200.com', 'igetbar.org', 'c9pg.com', 'www.visionflyfishing.com', 'www.iios.club', 'omanim.homeless.co.il', 'www.tv9090.com', 'www.igetbar.org', 'www.guangzhoubingqing.com', 'www.homeless.co.il', 'nivodi.com', 'abdiinsani.unram.ac.id', 'kruupdate.com', 'agent.gm3f.com', 'www.cgltg.com', 'www.moroccoworldnews.com', 'nlsdwsz.66666654.xyz', '448b.com', 'about.above.pp.ua', 'www.igg-games.com', 'www.wnacg1.cc', 'tcr9i.closeai.biz', 'cms.nuolook.nl', 'www.imj6.com', 'o.plus', 'businessmotoring.co.uk', 'www.whjmfty.com', 'www.hxncpgs.com', 'voice.closeai.biz', 'hnrbty.com', 'www.xworldadmin.com', 'macitynet.it', 'b.langhuayun.online']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for oaistatic-cdn.closeai.biz...
+Performing DNS lookup for b.langhuayun.online...
+Performing DNS lookup for 448b.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
