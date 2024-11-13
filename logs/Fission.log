@@ -10433,3 +10433,25 @@ Performing DNS lookup for 448b.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b41b8dc] Update project files
+ 4 files changed, 65 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   aa4f83d..b41b8dc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.104.160...
+Fetching domains for 104.21.29.251...
+Fetching domains for 104.18.238.205...
+succeed to fetch domains for 104.18.104.160 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.29.251 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.238.205 from https://site.ip138.com/
+域名列表为
+['av295.top', 'kk44kk.av295.top', 'caobb.av295.top', 'sengelin.com', 'aavv.av295.top', 'ccav.av295.top', 'www.av295.top', 'www.hzcement.com.cn', 'www.bu4.cc', 'oyoeyiuu.top', 'www.baiyingsteel.cn', 'www.d3535.com', 'qj8h.av295.top', 'jj512.com', 'qwef.av295.top', '7d78.xyz', 'i78holkzfq.xyz', 'www.85xs.cc', 'pan.axxpan.top', 'xinyajiankang.com', 'm.enchui.top', 'centerpointcommunityice.com', 'www.meitubeng.com', '3g.gwnqlx.top', 'x3r4.av295.top', 'www.gdjdjs.net', 'www.marryme521.com', 'av91.av295.top', 'ihd1.av295.top', 'www.cfhuagong.com', 'getkush.io', 'www.xinyajiankang.com', 'd18h.av295.top', 'www.006tl.com', 'www.zzy4.xyz', '07rx.av295.top', 'www.lyzdzy.com', '4042421.one', 'yindan.me', 'www.lanelephant.com', 'www.linnuozs.com', '3g.oyoeyiuu.top', 'wcfootball.net', 'qfgy.av295.top', 'tge0ycve32cy.asia', 'www.yindan.me', 'bishejingxuanl.buzz', 'xopa.av295.top', 'xxbb.av295.top', 'wap.enchui.top', 'soldtiger.com', 'z8q5.av295.top', 'coinw.expert', 'x0x0x.av295.top', 'gostus.com', '69xx.av295.top', 'xxoo.av295.top', 'vttm.av295.top', 'meitubeng.com', 'pg5r.av295.top', '3wj6.av295.top', 'www.8xnwh0.xyz', 'www.oyoeyiuu.top', 'zzy4.xyz', '4401888.com', 'weikew55.com', 'yyds.av295.top', 'piyi.av295.top', 'www.wdyfdh.cn', 'lanelephant.com', 'cfip.xxxxxxxx.tk', 'www.weikew55.com', 's7bu.av295.top', 'www.tv9090.com', '52mm.av295.top', 'www.dz-xx.com', '3g.enchui.top', '91xx.av295.top', 'gateway.globalpay2024.com', 'vv1234.cn', 'www.93xscc.com', '17se.av295.top', 'www.okdyy.com', 'www.mibenzi.com', 'enchui.top', 'cctv.av295.top', 'd3535.com', 'lw28.com', 'bsxv.av295.top', 'nn261.com', 'freeflo.ai', 'www.toposhbodyjewelry.com', '8888.av295.top', 'chhv.av295.top', 'wap.gwnqlx.top', 'www.kaoaist.cn', '8xnwh0.xyz', '2baz.av295.top', 'xxx.av295.top', '9999.av295.top', 'wap.msuikkoc.top', 'vbw0.av295.top', 'sese.av295.top', 'www.whpaiger.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3g.enchui.top...
+Performing DNS lookup for 9999.av295.top...
+Performing DNS lookup for www.yindan.me...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

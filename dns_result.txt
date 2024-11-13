@@ -2,32 +2,52 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	3g.enchui.top
-Address: 104.21.25.110
-Name:	3g.enchui.top
-Address: 172.67.134.16
-Name:	3g.enchui.top
-Address: 2606:4700:3037::ac43:8610
-Name:	3g.enchui.top
-Address: 2606:4700:3036::6815:196e
+www.x52bq.com	canonical name = back.52biqv.com.
+Name:	back.52biqv.com
+Address: 172.67.214.157
+Name:	back.52biqv.com
+Address: 104.21.53.154
+Name:	back.52biqv.com
+Address: 2606:4700:3032::6815:359a
+Name:	back.52biqv.com
+Address: 2606:4700:3034::ac43:d69d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	9999.av295.top
-Address: 154.23.64.98
+Name:	www.28et.com
+Address: 66.29.136.78
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yindan.me
-Address: 172.67.150.23
-Name:	www.yindan.me
-Address: 104.21.29.251
-Name:	www.yindan.me
-Address: 2606:4700:3032::6815:1dfb
-Name:	www.yindan.me
-Address: 2606:4700:3031::ac43:9617
+www.heinu.cc	canonical name = origin.heinu.cc.
+origin.heinu.cc	canonical name = saas.heinu.cc.
+saas.heinu.cc	canonical name = api.cloudflare.com.
+Name:	api.cloudflare.com
+Address: 104.19.193.29
+Name:	api.cloudflare.com
+Address: 104.19.192.177
+Name:	api.cloudflare.com
+Address: 104.19.192.176
+Name:	api.cloudflare.com
+Address: 104.19.192.175
+Name:	api.cloudflare.com
+Address: 104.19.192.174
+Name:	api.cloudflare.com
+Address: 104.19.192.29
+Name:	api.cloudflare.com
+Address: 2606:4700:300a::6813:c01d
+Name:	api.cloudflare.com
+Address: 2606:4700:300a::6813:c0af
+Name:	api.cloudflare.com
+Address: 2606:4700:300a::6813:c0b0
+Name:	api.cloudflare.com
+Address: 2606:4700:300a::6813:c0b1
+Name:	api.cloudflare.com
+Address: 2606:4700:300a::6813:c11d
+Name:	api.cloudflare.com
+Address: 2606:4700:300a::6813:c0ae
 
