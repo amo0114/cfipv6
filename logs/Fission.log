@@ -10345,3 +10345,25 @@ Performing DNS lookup for www.xwjpack.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b375c1e] Update project files
+ 4 files changed, 57 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   56fd12e..b375c1e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.133.236...
+Fetching domains for 172.66.41.13...
+Fetching domains for 104.18.26.36...
+succeed to fetch domains for 104.17.133.236 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.26.36 from https://dnsdblookup.com/
+succeed to fetch domains for 172.66.41.13 from https://site.ip138.com/
+域名列表为
+['www.xiuluo942.com', 'www.yekan360.com', 'sm.zhilingli.cn', 'bb77vv.com', 'www.imj6.com', 'www.sexdao.top', '74zzh.com', 'www.7567zz.com', 'noonoo33.tv', 'padveewebschool.com', 'www.zgjmw.net', 'www.springfieldmo.gov', 'www.4hug26.com', '7567zz.com', 'www.localtraders.finance', 'www.bb77vv.com', '778992.com', '5123wo.com', 'www.zongcaixs.cc', '36dm.com', 'www.lailai360.com', 'www.lyys8.com', 'cp.dawangidc.com', 'www.iios.club', 'worldconnect.rootsweb.ancestry.com', 'tengbo398.com', 'threc.sprsp33.com', 'www.shy6666.com', 'www.dawangidc.com', 'www.rmsxs.com', 'getsayss.com', 'sirv.freebitco.in', '4hux66.com', 'yx.887141.xyz', 'www.ballmasonjars.com', 'st.zyzb39.com', 'api.vrchat.cloud', 'www.getsayss.com', 'app.ycysign1.com', 'forex.thecashkings.com.au', 'www.93xscc.com', 'captchas.freebitco.in', 'www.kbss888.com', 'heng99.com', 'm-18login.lynk705.com', 'www.4hux66.com', 'spca.114514782.xyz', 'piliwa.ink', 'sxshzjz.com', 'qh221.com', 'mining.freebitco.in', 'localtraders.finance', 'www.5123wo.com', 'xn--fct57ygv4adkc.cn', 'www.rxjh520.cc', 'freebitco.in', 'www.158499.com', 'www.jxzzchina.com', 'fusionmarkets.com', 'www.74zzh.com', 'dawangidc.com', 'www.airportels.asia', 'clone.sprsp33.com', 'www.heishou.org', 'pipeline.vrchat.cloud']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for st.zyzb39.com...
+Performing DNS lookup for www.4hug26.com...
+Performing DNS lookup for sm.zhilingli.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -1,27 +1,33 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find st.zyzb39.com: NXDOMAIN
+Non-authoritative answer:
+Name:	vector.im
+Address: 104.21.28.52
+Name:	vector.im
+Address: 172.67.144.66
+Name:	vector.im
+Address: 2606:4700:3031::6815:1c34
+Name:	vector.im
+Address: 2606:4700:3037::ac43:9042
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.4hug26.com
-Address: 38.55.52.203
+Name:	yueliang.buzz
+Address: 104.21.23.23
+Name:	yueliang.buzz
+Address: 172.67.208.110
+Name:	yueliang.buzz
+Address: 2606:4700:3036::6815:1717
+Name:	yueliang.buzz
+Address: 2606:4700:3033::ac43:d06e
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-sm.zhilingli.cn	canonical name = a1113319.us2cdn2.hyhcdn.com.
-a1113319.us2cdn2.hyhcdn.com	canonical name = 1.bysgol.com.
-Name:	1.bysgol.com
-Address: 104.21.53.86
-Name:	1.bysgol.com
-Address: 172.67.211.7
-Name:	1.bysgol.com
-Address: 2606:4700:3031::6815:3556
-Name:	1.bysgol.com
-Address: 2606:4700:3035::ac43:d307
+** server can't find brvip777.com: SERVFAIL
 
