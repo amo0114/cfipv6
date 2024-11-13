@@ -10324,3 +10324,24 @@ Performing DNS lookup for anglesya.win...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 56fd12e] Update project files
+ 4 files changed, 61 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   d8ba3a8..56fd12e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.7.187...
+Fetching domains for 104.22.19.65...
+Fetching domains for 172.67.0.44...
+succeed to fetch domains for 172.67.0.44 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.19.65 from https://site.ip138.com/
+succeed to fetch domains for 104.26.7.187 from https://site.ip138.com/
+域名列表为
+['cf.681111.xyz', 'cf-lt.sharecentre.online', 'infobest.co.uk', 'www.tpyyc.com', 'www.hnkswh.com', 'www.sztimi.com', 'content.coedcherry.com', 'm.niuerzs.com', 'poolsuppliessuperstore.com', 'www.ibiqufa.com', 'www.0550cq.com', 'www.fbs.com', 'www.hellermanntyton.us', 'm.0550cq.com', 'fbs.com', 'www.zzgszg.com', 'k77kk.cc', 'www.xiaoysw.com', 'coedcherry.com', 'm.hxx365.com', 'authenticate.britsafe.org', 'www.gnoce.com', 'www.titanvehicle.com', 'renergyvietnam.com', 'www.ylsbzs.com', 'stock.hostmonit.com', 'expomed.com.mx', 'www.baiitv.com', '7.namesilo123.top', 'cryptoid.info', 'profit555.co', 'www.poolsuppliessuperstore.com', 'camionsemiremorque.titanvehicle.com', 'sofd.txtvw.com', 'semi-remolques.titanvehicle.com', 'macvbb.555556789.xyz', 'titanvehicle.com', 'egitimhane.com', 'www.tushencn.com', '789ys.com', '443.9916.eu.org', 'britsafe.org', 'trucktrailer.titanvehicle.com', 'www.jhhtech.com', 'www.cbcv.cc', 'www.hornygamer.com', 'www.932.com.hk', 'gnoce.com', 'www.30hu.com', 'sgv7.com', 'www.owlook.com.cn', 'www.abacademies.org', 'www.etiaolong.com', 'btc.cryptoid.info', 'www.xworldadmin.com', 'ooe.la', 'panda222.com', 'www.madeirawindbirds.com', 'www.coedcherry.com', 'www.wn04.cc', 'www.tvccc.org', 'm.ccrf229.org', 'owlook.com.cn', 'www.profit555.co', 'www.sintingtoys.com', 'imapac.com', 'www.888xyz.com', 'mackie.com', 'www.225batonrouge.com', 'www.xwjpack.com', 'gomerblog.com', 'www.shengwanggongcheng.com', 'www.ddaculture.com', 'facethesound.com', '932.com.hk', 'www.tv9090.com', 'qxglamour.com', 'www.polycase.com', 'www.icncde.com', 'www.pianba.tv', 'jackbit.co', 'www.paizipai.top', 'www.kanju8.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for titanvehicle.com...
+Performing DNS lookup for www.gnoce.com...
+Performing DNS lookup for www.xwjpack.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -1,41 +1,27 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	titanvehicle.com
-Address: 172.67.70.10
-Name:	titanvehicle.com
-Address: 104.26.15.144
-Name:	titanvehicle.com
-Address: 104.26.14.144
-Name:	titanvehicle.com
-Address: 2606:4700:20::ac43:460a
-Name:	titanvehicle.com
-Address: 2606:4700:20::681a:e90
-Name:	titanvehicle.com
-Address: 2606:4700:20::681a:f90
+** server can't find st.zyzb39.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.gnoce.com
-Address: 104.26.14.190
-Name:	www.gnoce.com
-Address: 104.26.15.190
-Name:	www.gnoce.com
-Address: 172.67.71.218
-Name:	www.gnoce.com
-Address: 2606:4700:20::681a:fbe
-Name:	www.gnoce.com
-Address: 2606:4700:20::681a:ebe
-Name:	www.gnoce.com
-Address: 2606:4700:20::ac43:47da
+Name:	www.4hug26.com
+Address: 38.55.52.203
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xwjpack.com
-Address: 185.238.171.113
+sm.zhilingli.cn	canonical name = a1113319.us2cdn2.hyhcdn.com.
+a1113319.us2cdn2.hyhcdn.com	canonical name = 1.bysgol.com.
+Name:	1.bysgol.com
+Address: 104.21.53.86
+Name:	1.bysgol.com
+Address: 172.67.211.7
+Name:	1.bysgol.com
+Address: 2606:4700:3031::6815:3556
+Name:	1.bysgol.com
+Address: 2606:4700:3035::ac43:d307
 
