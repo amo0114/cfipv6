@@ -10477,3 +10477,25 @@ Performing DNS lookup for www.heinu.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 646a4f0] Update project files
+ 4 files changed, 78 insertions(+), 68 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   8d0984b..646a4f0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.160.106...
+Fetching domains for 104.16.251.243...
+Fetching domains for 104.16.244.243...
+succeed to fetch domains for 104.17.160.106 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.244.243 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.251.243 from https://dnsdblookup.com/
+域名列表为
+['www.ikhma.com', 'www.lyzdzy.com', 'www.xigua5.com', 'www.75xs.cc', 'www.daomubiji.cc', 'www.93xscc.com', 'www.fnyyw.net', '086181.xyz', '13.sanfen001.top', 'tv.ci', 'www.doupobook.com', 'www.2222k8.com', 'www.aikmh.com', 'www.xinjuc.com', 'www.zzztch.com', 'www.99wx.cc', 'm.niuerzs.com', 'dsxys.com', 'www.aikmha.com', 'www.xwsxs.com', 'www.yzhma.com', 'www.dmbj.cc', 'www.cocanwelding.com', 'aikmha.com', 'www.yekan361.com', 'www.quanben360.com', 'yzhma.com', 'www.cfhuagong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yzhma.com...
+Performing DNS lookup for www.ikhma.com...
+Performing DNS lookup for www.dmbj.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
