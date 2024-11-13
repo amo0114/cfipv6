@@ -2,32 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	vector.im
-Address: 104.21.28.52
-Name:	vector.im
-Address: 172.67.144.66
-Name:	vector.im
-Address: 2606:4700:3031::6815:1c34
-Name:	vector.im
-Address: 2606:4700:3037::ac43:9042
+Name:	www.seyuu.cc
+Address: 104.21.78.169
+Name:	www.seyuu.cc
+Address: 172.67.136.4
+Name:	www.seyuu.cc
+Address: 2606:4700:3033::6815:4ea9
+Name:	www.seyuu.cc
+Address: 2606:4700:3030::ac43:8804
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.vr473.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yueliang.buzz
-Address: 104.21.23.23
-Name:	yueliang.buzz
-Address: 172.67.208.110
-Name:	yueliang.buzz
-Address: 2606:4700:3036::6815:1717
-Name:	yueliang.buzz
-Address: 2606:4700:3033::ac43:d06e
-
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
-
-** server can't find brvip777.com: SERVFAIL
+Name:	dsxys.com
+Address: 192.64.119.232
 

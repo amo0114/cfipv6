@@ -10367,3 +10367,25 @@ Performing DNS lookup for sm.zhilingli.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bc74407] Update project files
+ 4 files changed, 64 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   b375c1e..bc74407  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.23.23...
+Fetching domains for 172.67.144.66...
+Fetching domains for 190.93.244.179...
+succeed to fetch domains for 172.67.144.66 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.23.23 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.244.179 from https://dnsdblookup.com/
+域名列表为
+['w.yueliang.buzz', 'jpvsavhyu.76898102.xyz', '3g.vtitgc.top', 'cxybb.com', 'www.bimiacg.net', 'phimbox.net', 'fanchang.zeoico.com', 'www.55maoax.com', 'www.80yy.org', 'm.niuerzs.com', 'dosatore.top', 'vtitgc.top', 'hhondd2828.uk', 'www.kmbenma.com', 'nn967.com', 'stock.hostmonit.com', 'm.vtitgc.top', 'e1.ninu547.com', 'www.svatben.bg', 'cable856.cc', 'm.yueliang.buzz', 'w88malayu.com', 'boyangjt.com', 'www.kanju8.com', '660028.com', 'www.biqune.com', 'www.jsdrtzn.com', '18comic-ff7rebirth.cc', 'www.4gdiy.com', '3g.dosatore.top', 'd9.ninu547.com', 'www.meijubo.com', '086181.xyz', 'nlsdwsz.66666654.xyz', 'a888hx.com', 'gacx1a8fybyncll.xyz', 'd2.ninu547.com', 'yh7.dtku41.xyz', 'www.goldmax.in', 'www.wei333.com', 'e4.ninu547.com', 'www.mtadmin.pro', 'www.50zw.com', 'www.gs-healthschool.com', 'upthecounty.co.uk', 'www.6988tv.com', 'g.yueliang.buzz', 'www.cn-comic.com', 'www.ayuer.com', 'wap.vtitgc.top', 'www.e0101.com', 'www.lai833.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'c9.ninu547.com', 'yh6.dtku41.xyz', '923055.com', 'www.baohta.com', 'cenabet.site', '115895.com', 'www.lyqwushuichuli.com', '85999h.vip', 'lai833.com', 'kkyx.yydsii.com', 'www.cxybb.com', 'spca.114514782.xyz', 'www.cle611.com', 'www.hg0389.com', 'cf1.492745.xyz', 'www.66fl.com', 'www.zhongyunyang.com', 'f5.ninu547.com', 'www.hejincb.com', 'fangsutest.com', 'cf-lt.sharecentre.online', 'www.npkit.com', 'brvip777.com', 'www.lijunys.com', 'wap.dosatore.top', 'www.ganpian.com', 'www.hosemicon.com', 'www.6i5.com', '4gdiy.com', 'm.69shuba.cc', 'www.c333.net', 'm.28dushu.com', 'www.ddwhm.com', 'qiangkouzhao.com', 'www.uu93.com', 'www.163my.com', 'www.vtitgc.top', 'npkit.com', 'www.0550cq.com', 'www.17kty.com', '33maoaq.com', 'www.dosatore.top', 'animal.iswitch.app', 'm.50zw.com', '2527ccc.vip', 'sgv3.com', 'thea1543.cc', 'geo-arbitrage.online', 'www.lvhuisb.com', 'c3.ninu547.com', 'www.phimbox.net', 'www.bc6624.com', 'www.11txt.com', 'www.hxsy888.com', 'baohta.com', 'yx.887141.xyz', 'www.cbcv.cc', 'www.yava.pw', 'www.gzgafk.com', 'www.ywjos.cn', 'www.2243322.com', 'uu270.com', 'fldsubgigtujuy.76898102.xyz', 'www.vczkceh.cn', 'kele316.com', 'www.wxxzzs.com', 'www.4148.net', 'www.28dushu.com', '55maoax.com', 'www.boyangjt.com', 'www.suboji.com', 'www.kmzesun.cn', 'www.lnudz.com', 'www.3dck.com', '606977.com', 'www.k77yy.com', 'www.xworldadmin.com', 'bkp29lo.com', 'uu93.com', 'vip4.pmcloud.top', '999696.xyz', 'www.bjfqmj.com', 'www.lyzdzy.com', 'www.sglkj.com.cn', 'aircompressorservices.co.uk', 'yueliang.buzz', 'c1.ninu547.com', 'xf.free.hr', 'ylyoueryuan125.buzz', 'vector.im', 'www.dgytlt.com', 'infinityton.com', 'www.laopm.com', 'lesbitubes.com', 'lcrende.com', 'www.7749tv.com', 'www.fangsutest.com', 'www.yiqianhg.com', 'vpssieutoc.vn', 're-captha-version-3-243.buzz', 'cle611.com', 'b24.cc', 'www.881dy.com', 'goldmax.in', 'www.qrdlkiu.cn', 'www.b24.cc', 'www.dafuhao.com', 'sf1-ttcdn-tos.kkimg.cc', 'f1.ninu547.com', 'm.dosatore.top', 'e3.ninu547.com', 'www.woaiqi.com', 'www.gzjhs.com', 'hj3cb18.top', 'www.tinghen.com', '66fl.com', 'www.jingshuai888.com', 'www.tvyb10.com', '0550cq.com', 'www.888dyy.cc', 'www.90dushu.com', 'nosadfun.com', 'entertainment.ie', 'www.paizipai.top', 'baxtc.66666654.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for vector.im...
+Performing DNS lookup for yueliang.buzz...
+Performing DNS lookup for brvip777.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
