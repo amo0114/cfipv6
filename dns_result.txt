@@ -2,44 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.dafuhao.com	canonical name = speed.marisalnc.com.
-speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global37.66666654.xyz.
-Name:	cfcn-b-global37.66666654.xyz
-Address: 104.20.18.229
+Name:	avno1.cc
+Address: 172.67.213.8
+Name:	avno1.cc
+Address: 104.21.77.242
+Name:	avno1.cc
+Address: 2606:4700:3033::ac43:d508
+Name:	avno1.cc
+Address: 2606:4700:3030::6815:4df2
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	goget5.com
-Address: 104.26.8.44
-Name:	goget5.com
-Address: 104.26.9.44
-Name:	goget5.com
-Address: 172.67.69.226
-Name:	goget5.com
-Address: 2606:4700:20::681a:82c
-Name:	goget5.com
-Address: 2606:4700:20::ac43:45e2
-Name:	goget5.com
-Address: 2606:4700:20::681a:92c
+Name:	unitedbroadcast.com
+Address: 104.27.206.92
+Name:	unitedbroadcast.com
+Address: 104.27.207.92
+Name:	unitedbroadcast.com
+Address: 2606:4700:21::681b:ce5c
+Name:	unitedbroadcast.com
+Address: 2606:4700:21::681b:cf5c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ipapi.co
-Address: 104.26.8.44
-Name:	ipapi.co
-Address: 104.26.9.44
-Name:	ipapi.co
-Address: 172.67.69.226
-Name:	ipapi.co
-Address: 2606:4700:20::681a:92c
-Name:	ipapi.co
-Address: 2606:4700:20::681a:82c
-Name:	ipapi.co
-Address: 2606:4700:20::ac43:45e2
+Name:	www.aettgroup.co
+Address: 172.67.213.8
+Name:	www.aettgroup.co
+Address: 104.21.77.242
+Name:	www.aettgroup.co
+Address: 2606:4700:3030::6815:4df2
+Name:	www.aettgroup.co
+Address: 2606:4700:3033::ac43:d508
 

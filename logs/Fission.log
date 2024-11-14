@@ -10609,3 +10609,25 @@ Performing DNS lookup for tkb777.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4329b2f] Update project files
+ 4 files changed, 76 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   a88a686..4329b2f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.175.144...
+Fetching domains for 104.26.8.44...
+Fetching domains for 104.17.250.74...
+succeed to fetch domains for 104.17.250.74 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.175.144 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.8.44 from https://site.ip138.com/
+域名列表为
+['www.93xscc.com', 'www.75uw.com', 'cdn.hjlh.net', 'hjlh.net', 'www.dafuhao.com', 'www.haochi6.com', 'www.tv9090.com', 'm.zimaoxy.com', 'www.lyys8.com', 'www.clun.top', 'www.cncgtrade.com', 'ar.sport.le360.ma', 'www.sf123.me', 'nudelive.com', 'hzltxx.net', 'zimaoxy.com', 'www.wei333.com', '3d.rbcx.io', 'www.luwangyangrong.com', 'www.295k.com', 'www.31bz.com', 'corelminer.com', 'm.17800.net', 'shuajuba.com', 'www.lookju.com', 'www.cuxiao88.com', 'ccnci.org', 'ggmap1.bosim.top', 'www.myfreemp3juices.cc', 'www.nitianxieshen.com', 'pop.rbcx.io', 'www.discgolf.com', 'an.clun.top', 'www.cocanwelding.com', 'cfip.xxxxxxxx.tk', 'www.nationsonline.org', 'm.auto.co.il', 'fantinovels.com', 'www.nudelive.com', 'www.cgfxw.com', 'rpc.xinfin.network', 'm.163fahao.com', 'matv119.com', 'rbcx.io', 'www.2333cloud.net', 'subserver.maying.io', 'hydra-dealer.com', 'm.533120.com', 'www.szch108.com', 'new.myfreemp3juices.cc', 'myfreemp3juices.cc', 'orbitelectric.com', 'www.bolatimes.com', 'www.tpyyc.com', 'cncgtrade.com', 'q-artvilt.com', 'nationsonline.org', 'global-exam.com', 'ios.goldbullqm.com', 'www.ddwhm.com', 'www.orbitelectric.com', 'www.xworldadmin.com', 'www.91m.cc', 'www.limetorrents.pro', 'ipapi.co', 'goget5.com', 'wap.hjlh.net', 'm.gangsiwang.org', 'www.novia.hk', 'mp3juices.la', 'dk321.cn', 'limetorrents.pro', 'www.matv119.com', 'p4.cddyace.com', 'median.co', '73829108-jl.nn668.co', 'xnwlpt.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.dafuhao.com...
+Performing DNS lookup for goget5.com...
+Performing DNS lookup for ipapi.co...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
