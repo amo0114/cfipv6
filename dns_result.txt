@@ -2,25 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.606977.com
-Address: 172.232.31.180
-Name:	www.606977.com
-Address: 172.232.4.213
-Name:	www.606977.com
-Address: 172.232.25.148
+www.99wxw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.121.5
+Name:	ips.993888.xyz
+Address: 104.18.225.67
+Name:	ips.993888.xyz
+Address: 104.18.252.241
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.gmmpic.com	canonical name = www.gmmpic.com.cdn.cloudflare.net.
-Name:	www.gmmpic.com.cdn.cloudflare.net
-Address: 104.21.60.93
-Name:	www.gmmpic.com.cdn.cloudflare.net
-Address: 172.67.195.127
+www.sp6080.com	canonical name = www.tuoniaoyy.com.cdn.cloudflare.net.
+Name:	www.tuoniaoyy.com.cdn.cloudflare.net
+Address: 172.67.149.57
+Name:	www.tuoniaoyy.com.cdn.cloudflare.net
+Address: 104.21.29.137
+Name:	www.tuoniaoyy.com.cdn.cloudflare.net
+Address: 2606:4700:3034::6815:1d89
+Name:	www.tuoniaoyy.com.cdn.cloudflare.net
+Address: 2606:4700:3030::ac43:9539
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find jpadwinfs.114514782.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	tkb777.club
+Address: 104.21.43.221
+Name:	tkb777.club
+Address: 172.67.186.98
+Name:	tkb777.club
+Address: 2606:4700:3032::ac43:ba62
+Name:	tkb777.club
+Address: 2606:4700:3037::6815:2bdd
 

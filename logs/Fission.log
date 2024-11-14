@@ -10565,3 +10565,25 @@ Performing DNS lookup for yxy176.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3a2a15b] Update project files
+ 4 files changed, 59 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   f444c12..3a2a15b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.244.249...
+Fetching domains for 104.18.192.250...
+Fetching domains for 104.26.2.166...
+succeed to fetch domains for 190.93.244.249 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.2.166 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.192.250 from https://dnsdblookup.com/
+域名列表为
+['77kp.com', 'www.tv9090.com', 'www.606977.com', 'suboji.com', 'tv9090.com', 'www.sxyzxh.com', 'mebudsv.114514782.xyz', 'www.11txt.com', '8810868.com', 'www.wn05.cc', 'yh.fgmjm.com', 'hmoe.top', 'www.ykdyj.com', 'www.xinjuc.com', 'www.lnudz.com', 'ayuer.com', 'www.6i5.com', 'www.gmmpic.com', 'cdn.qiqis.ml', 'usshsaba.114514782.xyz', 'www.huanyaad.com', 'www.subodi.com', 'dsxys.com', 'nlsdwsz.66666654.xyz', 'aisugvdiu.114514782.xyz', 'hkgsdz.66666654.xyz', 'fldsubgigtujuy.76898102.xyz', 'www.4gdiy.com', 'hktadfvb.114514782.xyz', 'www.679077.com', 'www.iios.me', 'www.zhouhao.me', 'www.cfhuagong.com', 'www.changlitouzi.com', 'www.merchantwords.com', 'gmmpic.com', 'www.77kp.com', 'merchantwords.com', 'jpadwinfs.114514782.xyz', 'www.iios.club', 'www.yuegq.com', 'www.brindice.com.br', 'www.77dv.com', 'www.sbdm.net', 'www.akyue.com', 'www.87zx.com', 'cdn.wxfz.tk', 'cfd.ipa.monster', 'www.subowu.com', 'www.4pcc.com', '7.namesilo123.top', 'jpnewacs.114514782.xyz', '5.sanfen001.top', 'cf.1-human-2.com', 'yjyfdc.com', 'americafirstpolicy.com', 'cf.yx.alue.link', 'www.woaiqi.com', '4.sanfen001.top', 'www.tuozhan021.com', 'www.w63c.com', 'vodbd.com', 'www.90dushu.com', '11.namesilo123.top', 'www.slickvpn.com', 'www.reeceaustralia.com', 'www.wn03.cc', '20.sanfen001.top', 'brindice.com.br', 'www.bimiacg.net', 'asbiasncs.114514782.xyz', 'www.suboji.com', 'jpvsavhyu.76898102.xyz', 'www.xinyizhiqw.com', '1.cashdawiodxkawjaiocjdawdawdadwrawgfsegsededwadawfgrdrcvsssl.top', 'www.paizipai.top', 'www.hlbeal.com', 'speedcl.5489265.xyz', 'm.77kp.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.baiitv.com', 'www.naimilu.com', 'www.zjgamy.com', 'www.yjeky.com', '923055.com', 'kradvcgfb.76898102.xyz', 'lunhuan.24cdn.top', 'www.cxthhhhh.com', 'uu93.com', 'www.5oosf.cn', 'slickvpn.com', 'www.x52bq.com', '58yj.tv', 'www.uu93.com', 'm.niuerzs.com', 'nosycrow.com', 'jcbdfyy-cn.cfcdn.cc', 'gssjp.cn', 'yh.yjyfdc.com', 'www.luwangyangrong.com', 'www.supermagnete.fr', '14.sanfen001.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.606977.com...
+Performing DNS lookup for www.gmmpic.com...
+Performing DNS lookup for jpadwinfs.114514782.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
