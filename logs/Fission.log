@@ -10676,3 +10676,26 @@ Performing DNS lookup for www.seeq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main df9abb5] Update project files
+ 4 files changed, 75 insertions(+), 243 deletions(-)
+ rewrite Fission_ip_backup.txt (99%)
+ rewrite dns_result.txt (96%)
+To github.com:amo0114/cfipv6.git
+   d0e4f20..df9abb5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.29.202...
+Fetching domains for 104.17.24.132...
+Fetching domains for 190.93.247.221...
+succeed to fetch domains for 104.17.24.132 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.29.202 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.247.221 from https://dnsdblookup.com/
+域名列表为
+['www.chongxinpet.com', 'www.51jion.com', 'www.yzhma.com', 'yzhma.com', 'www.dy420.com', 'www.dmbj.cc', 'www.10zhanpai.com', 'www.7749tv.com', 'www.syhlm.com', 'www.mfwzhs.com', 'www.888dyy.cc', 'www.schmotion.com', 'www.yunyou4.com', 'www.kxgdyw.com', 'jjtyss.com', 'www.321dianying.com', 'www.0550cq.com', 'www.boyangjt.com', 'm.tushencn.com', 'wei333.com', 'm.cdbyyy.com', 'm.niuerzs.com', 'www.93xscc.com', 'www.99wxw.cc', 'www.wxxzzs.com', 'www.6988tv.com', 'www.ncdwzs.com', 'www.tuozhan22.com', 'www.6i5.com', 'www.cocanwelding.com', 'www.cskji.com', 'www.meijubo.com', 'www.jsjkyy.com', 'www.tv9090.com', 'cg.44xf.cc', 'www.hnkswh.com', 'www.parkroyalhotels.com', 'www.kytyy.com', 'www.sxyzxh.com', 'www.tinghen.com', 'www.xwsxs.com', 'www.qindi.net', 'm.apboxi.com', 'm.50zw.co', 'www.tpyyc.com', 'www.paizipai.top', 'www.yanqin8.com', 'm.okdi.net', 'www.hengdawatch.com', 'www.11txt.com', 'www.99wx.cc', 'stock.hostmonit.com', 'www.longwangchuanshuo.com', 'www.omd2008.com', 'www.ddaculture.com', 'm.mgwheelaxle.com', 'www.cfhuagong.com', 'www.77zw.cc', 'www.aikmha.com', 'www.96dushu.com', 'www.lyzdzy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.888dyy.cc...
+Performing DNS lookup for www.wxxzzs.com...
+Performing DNS lookup for www.yanqin8.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

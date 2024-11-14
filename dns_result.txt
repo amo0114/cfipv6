@@ -2,36 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.888dyy.cc	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
+Name:	www.yncareer.com
+Address: 162.209.149.23
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.wxxzzs.com
-Address: 104.18.75.142
-Name:	www.wxxzzs.com
-Address: 104.18.109.224
-Name:	www.wxxzzs.com
-Address: 104.19.81.91
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yanqin8.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
+Name:	www.zzztch.com
+Address: 162.209.149.30
 
