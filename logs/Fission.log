@@ -10631,3 +10631,25 @@ Performing DNS lookup for ipapi.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4064e94] Update project files
+ 4 files changed, 70 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   4329b2f..4064e94  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.69.194...
+Fetching domains for 104.21.77.242...
+Fetching domains for 104.22.54.23...
+succeed to fetch domains for 104.17.69.194 from https://site.ip138.com/
+succeed to fetch domains for 104.21.77.242 from https://site.ip138.com/
+succeed to fetch domains for 104.22.54.23 from https://ipchaxun.com/
+域名列表为
+['www.zhongyudaohang.com', 'www.55xs.cc', 'www.bystream.com', 'kxgdyw.com', 'www.ysz8.com', '99kindle.com', 'flacfree.com', 'www.xkx999.com', 'www.yh9pk.com', 'www.tingzhuangyuan.com', 'kuanruo.com', 'gj91hg.com', 'www.qlzsz.com', '32mine.net', 'm.80ab.cc', 'www.tlbb888.com', 'www.hhyy028.com', 'unitedbroadcast.com', 'www.hnqiuju.cn', 'www.bfb3.com', 'www.devnexus.com', 'thenewinquiry.com', 'www.simishow.com', 'www.nxyxzl.com', 'nba01.com', 'web2.zxyl007.com', 'b2.borjab.buzz', 'www.kuanruo.com', '777726.xyz', 'www.xgsdyzx.com', '81k3.cc', '385an.com', 'web1.zxyl007.com', 'www.sha7000.com', 'www.167ooo.net', '3g.f5dbztk.top', '129av.co', 'www.jingxuwl.com', 'tv.32mine.net', 'www.tpyyc.com', 'www.shzishuo.com', 'man.luwangyangrong.com', '611oo.com', '23020301.com', 'www.999sf.mobi', 'emc6.cc', 'fj7vicm.xyz', 'wap.f5dbztk.top', 'm.niuerzs.com', '167ooo.net', 'www.hanputec.com', 'www.bar99.com.cn', 'www.kuman57.com', 'c01iptv.32mine.net', 'bystream.com', 'www.aettgroup.co', 'kkzzn.com', 'simishow.com', 'jingxuwl.com', 'www.kkzzn.com', 'devnexus.com', 'www.hnrwt.com', 'torchlight.xd.com', 'www.sanlidg.com', 'www.99kindle.com', 'www.vrayjfw.cn', 'www.pk299.com', 'www.zlcq520.com', 'tingzhuangyuan.com', 'ytsc590.com', 'avno1.cc', 'www.93xs.net', 'www.shlucuw.cn', 'xjp.8380.fun', 'www.80ab.cc', 'vogcopy.net', 'www.avxixi.top', '6a6a263.top', 'www.emc6.cc', '80ab.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for avno1.cc...
+Performing DNS lookup for unitedbroadcast.com...
+Performing DNS lookup for www.aettgroup.co...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
