@@ -2,29 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+Name:	www.606977.com
+Address: 172.232.31.180
+Name:	www.606977.com
+Address: 172.232.4.213
+Name:	www.606977.com
+Address: 172.232.25.148
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.456gg.com	canonical name = 456gg.haofanghu123.com.
-456gg.haofanghu123.com	canonical name = www.456gg.com.cdn.cloudflare.net.
-Name:	www.456gg.com.cdn.cloudflare.net
-Address: 172.67.190.240
-Name:	www.456gg.com.cdn.cloudflare.net
-Address: 104.21.76.67
-Name:	www.456gg.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:bef0
-Name:	www.456gg.com.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:4c43
+www.gmmpic.com	canonical name = www.gmmpic.com.cdn.cloudflare.net.
+Name:	www.gmmpic.com.cdn.cloudflare.net
+Address: 104.21.60.93
+Name:	www.gmmpic.com.cdn.cloudflare.net
+Address: 172.67.195.127
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-yxy176.com	canonical name = host1108236b.host1068.zhamerica.com.
-Name:	host1108236b.host1068.zhamerica.com
-Address: 23.224.10.238
+** server can't find jpadwinfs.114514782.xyz: NXDOMAIN
 
