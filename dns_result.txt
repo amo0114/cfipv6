@@ -2,25 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	amh25.com
-Address: 194.53.53.11
-Name:	amh25.com
-Address: 194.53.53.245
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.eri234.com: NXDOMAIN
+cn.novelchapter.com	canonical name = 89238.BODIS.com.
+Name:	89238.BODIS.com
+Address: 199.59.243.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nitianxieshen.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.4.180
-Name:	ips.993888.xyz
-Address: 104.17.144.239
-Name:	ips.993888.xyz
-Address: 104.18.79.196
+Name:	m.aaggc.top
+Address: 172.67.151.151
+Name:	m.aaggc.top
+Address: 104.21.48.125
+Name:	m.aaggc.top
+Address: 2606:4700:3033::6815:307d
+Name:	m.aaggc.top
+Address: 2606:4700:3032::ac43:9797
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	sgarm.xlb8.eu.org
+Address: 172.67.190.125
+Name:	sgarm.xlb8.eu.org
+Address: 104.21.19.239
+Name:	sgarm.xlb8.eu.org
+Address: 2606:4700:3032::ac43:be7d
+Name:	sgarm.xlb8.eu.org
+Address: 2606:4700:3033::6815:13ef
 
