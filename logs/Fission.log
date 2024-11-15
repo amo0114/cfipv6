@@ -10878,3 +10878,25 @@ Performing DNS lookup for www.911.tv...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6b8c8ef] Update project files
+ 4 files changed, 64 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   c545ba2..6b8c8ef  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.88.34...
+Fetching domains for 104.17.127.190...
+Fetching domains for 104.18.39.61...
+succeed to fetch domains for 104.17.127.190 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.88.34 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.39.61 from https://ipchaxun.com/
+域名列表为
+['www.ququxiaoshuo.com', '158499.com', 'www.lrx-lighting.com', '2048hjd.top', 'xll1.xyz', 'u.uboy03.xyz', '5674nn.com', 'www.177kb.com', 'www.99wx.cc', 'cl.2tj4.icu', '522i.com', 'www.nhentai.to', 'co.2tj4.icu', 'www.ggxcnp.fit', 'sony.co.nz', 'cfip.xxxxxxxx.tk', 'www.wulidy.cc', 'www.28et.com', 'store.sony.co.nz', 'www.dmbj.cc', '778992.com', 'www.ekvod.com', 'www.moveisrusticos.com.br', '283cc.com', 'www.lyzdzy.com', 'www.wrangler.com', 'www.9rhga.info', 'nhentai.to', 'prod.sandoz.pl', 'formerz.com', 'sm-engineering.co.uk', 'www.sm-engineering.co.uk', 'www.5674nn.com', 'moveisrusticos.com.br', 'xjj72.com', '10gaoxx.com', 'shxgmhhs.com', 'www.wrha.mb.ca', 'www.522i.com', 'www.iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.522i.com...
+Performing DNS lookup for sm-engineering.co.uk...
+Performing DNS lookup for www.sm-engineering.co.uk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
