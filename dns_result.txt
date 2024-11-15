@@ -2,25 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.64.28
-Name:	ips.993888.xyz
-Address: 104.16.76.50
-Name:	ips.993888.xyz
-Address: 104.18.185.94
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 162.209.149.30
+Name:	www.xigua5.com
+Address: 208.98.40.15
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kunzedu.com
-Address: 103.88.187.196
+www.nitianzw.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.113.162
+Name:	ips.993888.xyz
+Address: 104.17.142.91
+Name:	ips.993888.xyz
+Address: 104.18.175.49
 
