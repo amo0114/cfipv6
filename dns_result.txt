@@ -2,38 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	headphonesty.com
-Address: 104.26.15.97
-Name:	headphonesty.com
-Address: 172.67.75.153
-Name:	headphonesty.com
-Address: 104.26.14.97
-Name:	headphonesty.com
-Address: 2606:4700:20::681a:e61
-Name:	headphonesty.com
-Address: 2606:4700:20::681a:f61
-Name:	headphonesty.com
-Address: 2606:4700:20::ac43:4b99
+Name:	yanzhen.gq
+Address: 172.67.222.156
+Name:	yanzhen.gq
+Address: 104.21.43.77
+Name:	yanzhen.gq
+Address: 2606:4700:3031::6815:2b4d
+Name:	yanzhen.gq
+Address: 2606:4700:3031::ac43:de9c
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find 044811.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.uu93.com
-Address: 104.21.35.197
-Name:	www.uu93.com
-Address: 172.67.179.23
-Name:	www.uu93.com
-Address: 2606:4700:3033::6815:23c5
-Name:	www.uu93.com
-Address: 2606:4700:3037::ac43:b317
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global20.66666654.xyz.
-Name:	cfcn-a-global20.66666654.xyz
-Address: 104.20.22.84
+www.911.tv	canonical name = kh9gr3w5.thevcdn.com.
+kh9gr3w5.thevcdn.com	canonical name = mrcnt9b2.n.thevcdn.com.
+Name:	mrcnt9b2.n.thevcdn.com
+Address: 154.44.27.176
 
