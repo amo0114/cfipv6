@@ -2,33 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+www.yjys05.com	canonical name = nz.7zz.cn.
+nz.7zz.cn	canonical name = nezha-dash-a5m.pages.dev.
+Name:	nezha-dash-a5m.pages.dev
+Address: 162.159.140.104
+Name:	nezha-dash-a5m.pages.dev
+Address: 162.159.140.160
+Name:	nezha-dash-a5m.pages.dev
+Address: 172.66.0.102
+Name:	nezha-dash-a5m.pages.dev
+Address: 172.66.0.158
+Name:	nezha-dash-a5m.pages.dev
+Address: 2606:4700:7::66
+Name:	nezha-dash-a5m.pages.dev
+Address: 2606:4700:7::9e
+Name:	nezha-dash-a5m.pages.dev
+Address: 2a06:98c1:58::66
+Name:	nezha-dash-a5m.pages.dev
+Address: 2a06:98c1:58::9e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xigua5.com
-Address: 208.98.40.15
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nitianzw.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.113.162
-Name:	ips.993888.xyz
-Address: 104.17.142.91
-Name:	ips.993888.xyz
-Address: 104.18.175.49
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
