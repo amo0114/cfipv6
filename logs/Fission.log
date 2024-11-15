@@ -10768,3 +10768,25 @@ Performing DNS lookup for www.nitianzw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0860eb7] Update project files
+ 4 files changed, 73 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   2081d9d..0860eb7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.156.228...
+Fetching domains for 104.16.158.200...
+Fetching domains for 104.18.27.150...
+succeed to fetch domains for 104.16.156.228 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.158.200 from https://site.ip138.com/
+succeed to fetch domains for 104.18.27.150 from https://ipchaxun.com/
+域名列表为
+['apis.indeed.com', 'www.899ut.com', 'yjys05.com', 'www.whpaiger.com', 'www.iios.me', 'a567af.com', 'www.ddwhm.com', '899ut.com', 'www.21tvb.com', 'www.loreal-paris.fr', '0294hu.com', 'www.4huaa20.com', 'www.nbg.gr', 'www.yjys05.com', 'ye7ye.com', '7.namesilo123.top', 'www.kxgdyw.com', 'www.cocanwelding.com', 'm.niuerzs.com', '4huaa20.com', 'www.lyzdzy.com', 'dsxys.com', 'www.tv1080.com', 'www.0294hu.com', 'www.a567af.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yjys05.com...
+Performing DNS lookup for m.niuerzs.com...
+Performing DNS lookup for www.whpaiger.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

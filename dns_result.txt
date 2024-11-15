@@ -2,35 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yjys05.com	canonical name = nz.7zz.cn.
-nz.7zz.cn	canonical name = nezha-dash-a5m.pages.dev.
-Name:	nezha-dash-a5m.pages.dev
-Address: 162.159.140.104
-Name:	nezha-dash-a5m.pages.dev
-Address: 162.159.140.160
-Name:	nezha-dash-a5m.pages.dev
-Address: 172.66.0.102
-Name:	nezha-dash-a5m.pages.dev
-Address: 172.66.0.158
-Name:	nezha-dash-a5m.pages.dev
-Address: 2606:4700:7::66
-Name:	nezha-dash-a5m.pages.dev
-Address: 2606:4700:7::9e
-Name:	nezha-dash-a5m.pages.dev
-Address: 2a06:98c1:58::66
-Name:	nezha-dash-a5m.pages.dev
-Address: 2a06:98c1:58::9e
+Name:	amh25.com
+Address: 194.53.53.11
+Name:	amh25.com
+Address: 194.53.53.245
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.eri234.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
+www.nitianxieshen.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.4.180
+Name:	ips.993888.xyz
+Address: 104.17.144.239
+Name:	ips.993888.xyz
+Address: 104.18.79.196
 
