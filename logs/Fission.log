@@ -10812,3 +10812,25 @@ Performing DNS lookup for www.nitianxieshen.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b156b43] Update project files
+ 4 files changed, 66 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   cb2779b..b156b43  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.43.27...
+Fetching domains for 104.21.19.239...
+Fetching domains for 104.17.138.2...
+succeed to fetch domains for 104.17.138.2 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.19.239 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.43.27 from https://dnsdblookup.com/
+域名列表为
+['kmsp01.xyz', 'www.39888.com', 'waphk.xlb8.eu.org', 'aaggc.top', 'www.arkxiaohongshu.com', '9637891526-sj.for9bond.com', 'xianren123.com', 'neoskosmos.com', 'www.aaggc.top', 'kj.101722.com', 'www.938xs.com', '202210.hpvip.me', 'm.938xs.com', 'www.wsmmeuco.icu', 'www.resou.org', 'jimusaer.sight.xiryolb.cn', '6668.pw', 'www.30maoaw.com', 'cable833.cc', '202204.hpvip.me', 'j888c.com', 'yoursash.com', 'mea.com.lb', 'unimarkmachines.com', 'www.motordoctor.fr', 'w16.avclexkps.com', 'www.lyzdzy.com', '202305.hpvip.me', 'www.texpert.com', '3g.aaggc.top', 'usaccs.xlb8.eu.org', '011000066.com', 'www.ailvzu.com', 'douban-helper.me', 'mishan.tour.xiryolb.cn', '30maoaw.com', 'www.badgersworkshop.com', '12506yh5.com', 'farm.avnrichdefi.com', 'btzy68.com', 'www.shmiaomin.com', 'www6555.com', 'texpert.com.cdn.cloudflare.net', 'saonian69.com', 'www.011000066.com', 'cn.novelchapter.com', 'www.dqhedu.cn', 'www.yiwushengqi.com', 'www.nxmku.cn', 'www.btzy68.com', '101722.com', 'shorouknews.com', 'lib.douban-helper.me', 'www.jyhsm.net', '938xs.com', 'www.51qqqq.com', 'ray.g2wcc.com', '78123695-kt.for9bond.com', 'www.j888c.com', '39888.com', '3g.wsmmeuco.icu', 'novelchapter.com', 'www.texpert.com.cdn.cloudflare.net', 'pleinsport.cn', 'www.pe52d.com', 'www.govfujiang.site', '1024a.me', 'hjbc8.com', 'osaka.xlb8.eu.org', '202402.hpvip.me', 'www.yoursash.com', 'sgarm.xlb8.eu.org', 'www.jeantm.com', 'www.jmhongyan.com', 'www.jimex.co.jp', 'tw.xlb8.eu.org', 'api.hydrac2.lol', 'www.nyg20.com', 'wap.aaggc.top', 'mk88.lol', 'www.javtune.com', 'govfujiang.site', 'www.hjbc8.com', 'imatoken.com.cn', 'shmiaomin.com', 'arkxiaohongshu.com', 'yi4iwve8vc.cc', 'zh8080.com', 'www.6668.pw', 'www.shorouknews.com', 'usus.xlb8.eu.org', 'usakansas.xlb8.eu.org', 'm.aaggc.top', 'jmhongyan.com', 'texpert.com', 'yiy.one', 'cms.shorouknews.com', 'wap.wsmmeuco.icu', 'www.xianren123.com', 'zhuzhou.xiryolb.cn', '202304.hpvip.me', 'www.unimarkmachines.com', 'javtune.com', 'jimex.co.jp', 'www.sf123.mobi', 'biographymask.com', 'www.luwangyangrong.com', 'tw.938xs.com', 'www.hqdianhuaben.cn', 'images.xianren123.com', '300cha.com', 'm.wsmmeuco.icu']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cn.novelchapter.com...
+Performing DNS lookup for m.aaggc.top...
+Performing DNS lookup for sgarm.xlb8.eu.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,33 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-cn.novelchapter.com	canonical name = 89238.BODIS.com.
-Name:	89238.BODIS.com
-Address: 199.59.243.227
+Name:	headphonesty.com
+Address: 104.26.15.97
+Name:	headphonesty.com
+Address: 172.67.75.153
+Name:	headphonesty.com
+Address: 104.26.14.97
+Name:	headphonesty.com
+Address: 2606:4700:20::681a:e61
+Name:	headphonesty.com
+Address: 2606:4700:20::681a:f61
+Name:	headphonesty.com
+Address: 2606:4700:20::ac43:4b99
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.aaggc.top
-Address: 172.67.151.151
-Name:	m.aaggc.top
-Address: 104.21.48.125
-Name:	m.aaggc.top
-Address: 2606:4700:3033::6815:307d
-Name:	m.aaggc.top
-Address: 2606:4700:3032::ac43:9797
+Name:	www.uu93.com
+Address: 104.21.35.197
+Name:	www.uu93.com
+Address: 172.67.179.23
+Name:	www.uu93.com
+Address: 2606:4700:3033::6815:23c5
+Name:	www.uu93.com
+Address: 2606:4700:3037::ac43:b317
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	sgarm.xlb8.eu.org
-Address: 172.67.190.125
-Name:	sgarm.xlb8.eu.org
-Address: 104.21.19.239
-Name:	sgarm.xlb8.eu.org
-Address: 2606:4700:3032::ac43:be7d
-Name:	sgarm.xlb8.eu.org
-Address: 2606:4700:3033::6815:13ef
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global20.66666654.xyz.
+Name:	cfcn-a-global20.66666654.xyz
+Address: 104.20.22.84
 
