@@ -10988,3 +10988,25 @@ Performing DNS lookup for hypbz4.rfddii.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9ebacf9] Update project files
+ 4 files changed, 49 insertions(+), 27 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   f5dfe50..9ebacf9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 141.101.115.33...
+Fetching domains for 104.26.10.216...
+Fetching domains for 141.101.114.125...
+succeed to fetch domains for 141.101.115.33 from https://dnsdblookup.com/
+succeed to fetch domains for 141.101.114.125 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.10.216 from https://site.ip138.com/
+域名列表为
+['www.xxpg888.com', 'www.spelbutiken.se', 'zi0.cc', 'www.0550cq.com', 'm.niuerzs.com', 'www.emgvideo.com', '2345ti.com', 'www.tinghen.com', 'www.1a1v.com', 'www.kunzedu.com', 'www.alsannat.com', 'tzkxs33.com', 'www.scxdex.com', 'www.wjxbj.com', 'www.kxgdyw.com', 'm.6988tv.com', 'whjinwu.com', 'cfhuagong.com', 'amstdhebb.76898102.xyz', 'www.91m.cc', 'www.zzztch.com', 'usshsaba.114514782.xyz', '75uw.com', 'root.com', 'www.sztimi.com', 'thenude.eu', 'baxtc.66666654.xyz', 'pyxzg.com', 'www.uuoozz.com', 'www.tvccc.org', 'www.77ty.com', 'www.x52bq.com', 'www.tuozhan021.com', 'ios.jinniuddos.com', 'www.ddaculture.com', 'www.uu93.com', 'www.kk554.com', 'www.vodbd.com', '1f.youkuvip.xyz', 'www.75uw.com', 'www.lingyi44.com', 'www.constructionequipmentguide.com', 'www.uzheba.com', 'www.9ehao.com', 'www.295k.com', 'www.223ss.com', 'ganpian.com', 'v.maaaj.com', 'www.xworldadmin.com', 'qiangkouzhao.com', 'www.cfhuagong.com', 'www.vcd.la', 'm.28dushu.com', 'cdn.didi8.com', 'www.hengdawatch.com', 'letu9.com', 'www.wei333.com', 'dailydead.com', 'cit.gg', 'v55t4.com', 'www.legebatterijen.nl', '28et.com', 'www.nba01.com', 'www.706i.com', 'www.tzkxs33.com', 'www.96dushu.com', 'www.sevtinge.cn', 'wayoutv.com', 'www.e0101.com', 'www.66se0.com', 'www.kuaikan66.com', '139myw.com', 'sto.cx', 'www.whjinwu.com', 'pdzmre77473.sanfen001.top', 'one-elec.com', 'www.anluyg.net', 'www.ikantv.net', 'miraigo.net', 'www.pay000.com', 'indec.qkhbyf.tech', 'cfip.201043.xyz', 'wei333.com', 'www.28et.com', 'fnyy666.com', 'www.tpyyc.com', 'szhysp.com', 'nangua55.com', 'fasttechcdn.com', 'm.caec-usa.com', 'www.92mili.com', 'hzefss.66666654.xyz', 'www.iios.club', 'www.7z9a.com', 'mundopositivo.com.br', 'www.235t.com', 'sxyggf.com', 'www.558q.com', 'www.whpaiger.com', 'www.root.com', 'www.thenude.eu', 'ios.xinbosign.com', 'www.2xigua.com', 'www.4148.net', 'www.2345ti.com', 'niuerzs.com', 'www.kukedy.tv', 'app.najva.com', 'www.jmxhbgc.com', 'www.mh160.cc', 'bot-t.ru', 'www.mundopositivo.com.br', 'duboku.cc', 'asmrfs.cc', 'gyhbhq.com', 'www.njwbhz.com', 'www.eyhlxdj.com', 'www.gdjqwl.com', 'www.bfb3.com', 'www.haqiandu.com', 'killnet.top', 'www.tv9090.com', 'cf1.492745.xyz', 'm.kuaikan66.com', 'cf-lt.sharecentre.online', 'www.jhhtech.com', 'nlsdwsz.66666654.xyz', 'www.hljja.com', 'www.28dushu.com', 'itt9.com', 'jpadwinfs.114514782.xyz', '17800.net', 'www.zgjmw.net', '7.namesilo123.top', 'www.mytvsuper.us.kg', 'www.70ts.com', 'www.shopworn.com', 'www.yncareer.com', 'www.hhacg.cc', 'dl.playxf.top', 'longzemy.com', 'www.niuerzs.com', 'xs.wxtv.cc', 'www.dy420.com', 'uu93.com', 'www.cocanwelding.com', 'www.ssiic.com', 'wz.weishao2023.uk.eu.org', 'www.nangua55.com', 'www.ncemt.com', 'wz.weishao2023.dk.eu.org', 'stock.hostmonit.com', 'www.paizipai.top', 'www.m90s.com', 'www.90dushu.com', 'lyzdzy.com', 'www.55evd.com', 'www.sjzsckj.com', 'www.zjgamy.com', 'www.unlimitedbiking.com', 'www.qire88.com', '6.namesilo123.top', 'www.lyzdzy.com', 'www.139myw.com', 'obdeleven.com', 'www.ei01.com', '1f.youku.icu', 'cg.33xf.cc', 'cf.yx.alue.link', '1.namesilo123.top', 'leonardodicaprio.org', 'www.jjtyss.com', 'panel3.touhou.tel', 'bdx100.com', 'yncareer.com', 'yh7.dtku41.xyz', 'www.obdeleven.com', 'kk554.com', 'www.6988tv.com', 'asmrfs.top', 'www.se2.cc', 'www.4gdiy.com', 'www.sto.cx', 'asmrfs.vip', 'www.hanfangxiang.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 28et.com...
+Performing DNS lookup for indec.qkhbyf.tech...
+Performing DNS lookup for www.jhhtech.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
