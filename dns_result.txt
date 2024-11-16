@@ -2,42 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yizhihongxing.cloud
-Address: 172.67.189.10
-Name:	yizhihongxing.cloud
-Address: 104.21.41.20
-Name:	yizhihongxing.cloud
-Address: 2606:4700:3030::ac43:bd0a
-Name:	yizhihongxing.cloud
-Address: 2606:4700:3035::6815:2914
+times.ye7.com	canonical name = agent.12699902.com.
+Name:	agent.12699902.com
+Address: 104.208.120.27
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tw321.com
-Address: 172.67.223.15
-Name:	www.tw321.com
-Address: 104.21.62.108
-Name:	www.tw321.com
-Address: 2606:4700:3036::ac43:df0f
-Name:	www.tw321.com
-Address: 2606:4700:3031::6815:3e6c
+Name:	www.erolabs.com
+Address: 104.18.16.136
+Name:	www.erolabs.com
+Address: 104.18.17.136
+Name:	www.erolabs.com
+Address: 2606:4700::6812:1188
+Name:	www.erolabs.com
+Address: 2606:4700::6812:1088
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	craigmoreonline.co.uk
-Address: 104.26.15.124
-Name:	craigmoreonline.co.uk
-Address: 172.67.72.82
-Name:	craigmoreonline.co.uk
-Address: 104.26.14.124
-Name:	craigmoreonline.co.uk
-Address: 2606:4700:20::681a:f7c
-Name:	craigmoreonline.co.uk
-Address: 2606:4700:20::681a:e7c
-Name:	craigmoreonline.co.uk
-Address: 2606:4700:20::ac43:4852
+*** Can't find rrs87.com: No answer
 
