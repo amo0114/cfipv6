@@ -1,63 +1,31 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-jp02.nttkk.com	canonical name = a2.nttkk.com.
-a2.nttkk.com	canonical name = a5.zz.nttkk.com.
-a5.zz.nttkk.com	canonical name = zoom.earth.
-Name:	zoom.earth
-Address: 104.26.4.90
-Name:	zoom.earth
-Address: 104.26.5.90
-Name:	zoom.earth
-Address: 172.67.68.56
-Name:	zoom.earth
-Address: 2606:4700:20::681a:55a
-Name:	zoom.earth
-Address: 2606:4700:20::681a:45a
-Name:	zoom.earth
-Address: 2606:4700:20::ac43:4438
+** server can't find www.qqxsw.co: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.91club.com
-Address: 172.67.72.82
-Name:	www.91club.com
-Address: 104.26.14.124
-Name:	www.91club.com
-Address: 104.26.15.124
-Name:	www.91club.com
-Address: 2606:4700:20::ac43:4852
-Name:	www.91club.com
-Address: 2606:4700:20::681a:f7c
-Name:	www.91club.com
-Address: 2606:4700:20::681a:e7c
+www.lxdytt.net	canonical name = lxdytt.net.
+Name:	lxdytt.net
+Address: 76.223.67.189
+Name:	lxdytt.net
+Address: 13.248.213.45
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xinjuc.com	canonical name = xinju.cloudflare.182682.xyz.
-Name:	xinju.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	xinju.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	xinju.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	xinju.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	xinju.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	xinju.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	xinju.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	xinju.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	xinju.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	xinju.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
+www.7749tv.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 

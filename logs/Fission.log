@@ -11053,3 +11053,25 @@ Performing DNS lookup for rrs87.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3f8f7e3] Update project files
+ 4 files changed, 100 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   0b1ec0b..3f8f7e3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.63.95...
+Fetching domains for 104.26.15.124...
+Fetching domains for 104.17.92.87...
+succeed to fetch domains for 104.22.63.95 from https://site.ip138.com/
+succeed to fetch domains for 104.26.15.124 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.92.87 from https://dnsdblookup.com/
+域名列表为
+['riseclient.com', '2052.cf.bestl.de', 'www.lyzdzy.com', 'guiadobitcoin.com.br', 'www.whatdoesitmean.com', 'decc.66666654.xyz', 'panel3.touhou.tel', '13.namesilo123.top', '80.cf.bestl.de', 'cfip.xxxxxxxx.tk', 'www.0597ren.com', 'jp02.nttkk.com', 'a1.nttkk.com', 'www.91club.com', 'ao3-cn.top', 'www.99qxk.com', 'freeyx.cloudflare88.eu.org', 'pdzmre77473.sanfen001.top', 'auth.riseclient.com', 'zz.easylink.work', 'hmoe.top', 'mwcomic3.club', 'jpaa.sectigo.pp.ua', '1.namesilo123.top', 'www.75uw.com', 'www.295k.com', 'aduibdfg.114514782.xyz', 'www.83yy.cc', 'mebudsv.114514782.xyz', 'www.heinu.cc', 'us02.nttkk.com', 'touhou.network', 'amstdhebb.76898102.xyz', 'www.chrisan.com.br', 'www.6988tv.com', '12.namesilo123.top', 'ipdb.rr.nu', 'www.babuyun.com', '1443.cf.bestl.de', 'jpvsavhyu.76898102.xyz', 'www.ndcp.edu.ph', '6.namesilo123.top', '333.666999.world', 'jpcbauwfv.114514782.xyz', 'usshsaba.114514782.xyz', 'jpnewacs.114514782.xyz', '7.namesilo123.top', 'bestcf.onecf.eu.org', 'nlsdwsz.66666654.xyz', 'www.sixyin.com', 'ks20.cc', 'baxtc.66666654.xyz', 'www.xinjuc.com', 'chundd.sectigo.pp.ua', '443.cf.bestl.de', 'www.wn03.cc', '91club.com', '26.namesilo123.top', 'fldsubgigtujuy.76898102.xyz', 'spca.114514782.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jp02.nttkk.com...
+Performing DNS lookup for www.91club.com...
+Performing DNS lookup for www.xinjuc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
