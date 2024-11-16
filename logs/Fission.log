@@ -10966,3 +10966,25 @@ Performing DNS lookup for www.dcshoes.lu...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f5dfe50] Update project files
+ 4 files changed, 49 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   7d94cec..f5dfe50  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.108.4...
+Fetching domains for 104.21.21.119...
+Fetching domains for 104.18.25.42...
+succeed to fetch domains for 104.18.108.4 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.21.119 from https://site.ip138.com/
+succeed to fetch domains for 104.18.25.42 from https://site.ip138.com/
+域名列表为
+['bfa123.com', 'hyjbz4.rfddii.com', 'hydsz1.rfddii.com', 'peachtao.life', 'hyp7657z1.rfddii.com', 'www.dmejde.com', 'www.tfwx.net', 'hafylies.xyz', 'www.969uuu.com', 'a2.hh.887733.xyz', 'x99a243.xyz', 'uu93.com', 'hypbz4.rfddii.com', 'www.dafuhao.com', 'hyh6z4.rfddii.com', 'thea1699.cc', 'langqun0.cc', 'hyk8z1.rfddii.com', 'ccx40.com', 'ks20.cc', 'mengmm1.com', 'hyejz6rty34536475654551.rfddii.com', 'tb.kvbjb.com', 'm.btcoinpro.top', 'www.6234ri.com', 'hyejz655551.rfddii.com', 'mdap12.com', 'hyjxz2.rfddii.com', 'www.haoniuyingshi1452.top', 'hysxz2.rfddii.com', '39d7.com', 'hyejz1.rfddii.com', 'www.ccx40.com', '3452yy.com', 'h2s6z1.qmaweqj.com', 'ufhgma.xyz', '52crs8.com', 'mg1j13.tw', 'www.kaufmich.com', 'wap.btcoinpro.top', 'hyejz65234534551.rfddii.com', '5567bb.com', 'www.kunzedu.com', 'hyejz65534551.rfddii.com', 'betway.es', 'www.p421w.com', 'www.5567bb.com', 'www.lewen5.com', 'hyp67557z1.rfddii.com', 'ddx20.com', 'www.pzsiwang.com', 'xchina.life', 'www.burclar.net', 'dgqingtian.com', 'wap.bpvell.top', 'www.cn46.com', 'kvbjb.com', 'teknotanderi.com', 'www.mxksuwd.cn', 'hyp7z1.rfddii.com', 'hyrbz1.rfddii.com', 'hyejz652345375654551.rfddii.com', 'hypcz1.rfddii.com', 'achk.cloudflarest.link', 'btcoinpro.top', 'www.qqqq12.com', 'rr413.com', 'hyejz65667234534551.rfddii.com', '3g.btcoinpro.top', '5783aa.xyz', 'q7gtp5.tw', 'hyp67566557z1.rfddii.com', 'quynhonmelody.com.vn', 'www.yqwvj.com', 'hyp7667z1.rfddii.com', 'joyobet.com', 'm.6988tv.com', 'hyejz6523453654551.rfddii.com', 'gg12345.cc', 'bqg34.com', 'www.vip9.pro', 'www.39d7.com', 'www.83yy.cc', 'www.cocanwelding.com', 'hyejz652345375558774551.rfddii.com', 'cbcv.cc', '64466.cc', 'lyzdzy.com', 'www.bxwx10.com', 'qqqq12.com', 'www.6988tv.com', '1688tui.com', 'www.ufhgma.xyz', 'www.652tv.com', 'www.xjpuebv.cn', 'www.denon.it', 'cash.rfddii.com', '3g.bpvell.top', 'www.bfa123.com', 'www.52crs8.com', 'www.sixyin.com', 'luolita18.cc', 'hyp1145z1.rfddii.com', 'www.mdap12.com', 'www.mm20.mom', 'cstmkj.com', '969uuu.com', 'hyp9z2.rfddii.com', 'hyp74555566544457z1.rfddii.com', 'anymore.rfddii.com', '6988tv.com', 'www.ddx20.com', 'avax2.com', 'www.cstmkj.com', 'aaa.vip9.pro', 'dressandcasual.ru', 'www.dtccb.com', 'plex.peachtao.life', 'kaufmich.com', 'nas.peachtao.life', 'hymaz9.rfddii.com', 'jatokeixu.com', 'jnjieruiyuan.com', 'hyejz652334551.rfddii.com', 'www.hxmgdj.cn', 'jpescorts.com', 'www.3452yy.com', 'www.btcoinpro.top', 'www.clickbahia.com.br']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ddx20.com...
+Performing DNS lookup for bqg34.com...
+Performing DNS lookup for hypbz4.rfddii.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
