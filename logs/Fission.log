@@ -10944,3 +10944,25 @@ Performing DNS lookup for ygbb.rapidssl.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7d94cec] Update project files
+ 4 files changed, 66 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   b560d2d..7d94cec  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.202.120...
+Fetching domains for 104.17.45.189...
+Fetching domains for 104.21.224.149...
+succeed to fetch domains for 104.17.45.189 from https://site.ip138.com/
+succeed to fetch domains for 104.25.202.120 from https://site.ip138.com/
+succeed to fetch domains for 104.21.224.149 from https://dnsdblookup.com/
+域名列表为
+['33r.com', 'achk.cloudflarest.link', '17ttx.com', 'www.iios.club', 'www.cfhuagong.com', 'www.myvod360.com', 'www.lyzdzy.com', 'm.cbcv.cc', 'www.dcshoes.lu', 'imwcr.cn', 'www.28et.com', 'hk.worker00001.cloudns.org', 'yinxunyun.cn', 'www.f8yy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for www.28et.com...
+Performing DNS lookup for www.dcshoes.lu...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
