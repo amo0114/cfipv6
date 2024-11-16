@@ -10922,3 +10922,25 @@ Performing DNS lookup for yy212.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b560d2d] Update project files
+ 4 files changed, 58 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   58dc35a..b560d2d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.203.104...
+Fetching domains for 141.101.122.26...
+Fetching domains for 104.17.38.43...
+succeed to fetch domains for 198.41.203.104 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.38.43 from https://ipchaxun.com/
+succeed to fetch domains for 141.101.122.26 from https://dnsdblookup.com/
+域名列表为
+['acus.cloudflarest.link', 'yh7.dtku41.xyz', 'www.7749tv.com', 'kkyx.yydsii.com', 'm.niuerzs.com', 'ddyun.cc', '14.namesilo123.top', 'aktv.top', 'www.dy420.com', 'rzqwq.top', 'www.04045858.com', 'www.3dck.com', 'www.ddwhm.com', 'ukcc.digicert.pp.ua', 'www.nangua55.com', 'www.wn01.cc', 'www.maotxt.net', 'freeyx.cloudflare88.eu.org', '28et.com', 'zl.aitrjc.xyz', 'www.4j4j.cn', 'tunneltransfer.bpyjc.com', 'www.gggggyy.com', 'www.881dy.com', 'www.ub888.cc', 'www.85xscc.com', 'nlsdwsz.66666654.xyz', 'www.223a.com', 'dmhy.b168.net', 'www.b7yy.cc', 'cgdd.digicert.pp.ua', 'speed.marisalnc.com', 'www.bm158.com', 'v4.ossscdn.com', 'www.nitianxieshen.com', 'yundunwawablogcdn1dx.wawacm.com', 'sgaa.sectigo.pp.ua', 'dg.laowu.link', 'www.6i5.com', 'go.wumaojichang.com', 'speed.freefly.pp.ua', 'www.lyzdzy.com', 'www.summerpockets.com', 'www.yy4080dy.com', 'yh6.dtku41.xyz', 'kk.fix.us.kg', 'www.xinpian8.com', 'dafuhao.com', 'www.888dyy.cc', '789ys.com', 'www.rzqwq.top', '7.namesilo123.top', 'kan234.com', 'stock.hostmonit.com', 'yx.887141.xyz', 'www.c333.net', 'www.qumiyun.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'back.kaijia999.online', 'v.ximei.love', 'www.xworldadmin.com', 'jhpcza.66666654.xyz', 'www.cocanwelding.com', 'www.789kp.com', 'baxtc.66666654.xyz', 'new.cfnode.eu.org', 'www.dafuhao.com', 'cfip.201043.xyz', 'spca.114514782.xyz', 'cgcc.digicert.pp.ua', 'ddwhm.com', 'ygbb.rapidssl.pp.ua', 'www.11txt.com', 'oaksmart.com', 'www.lyys8.com', 'cf.1433223.buzz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for speed.freefly.pp.ua...
+Performing DNS lookup for acus.cloudflarest.link...
+Performing DNS lookup for ygbb.rapidssl.pp.ua...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
