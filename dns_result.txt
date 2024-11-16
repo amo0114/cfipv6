@@ -1,31 +1,26 @@
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.qqxsw.co: SERVFAIL
+Non-authoritative answer:
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.lxdytt.net	canonical name = lxdytt.net.
-Name:	lxdytt.net
-Address: 76.223.67.189
-Name:	lxdytt.net
-Address: 13.248.213.45
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.7749tv.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	uu93.com
+Address: 172.67.179.23
+Name:	uu93.com
+Address: 104.21.35.197
+Name:	uu93.com
+Address: 2606:4700:3037::ac43:b317
+Name:	uu93.com
+Address: 2606:4700:3033::6815:23c5
 

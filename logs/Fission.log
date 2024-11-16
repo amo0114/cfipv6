@@ -11075,3 +11075,25 @@ Performing DNS lookup for www.xinjuc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a2b5d7f] Update project files
+ 4 files changed, 64 insertions(+), 79 deletions(-)
+ rewrite dns_result.txt (91%)
+To github.com:amo0114/cfipv6.git
+   3f8f7e3..a2b5d7f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.170.73...
+Fetching domains for 104.17.176.249...
+Fetching domains for 104.19.158.99...
+succeed to fetch domains for 104.17.176.249 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.170.73 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.158.99 from https://dnsdblookup.com/
+域名列表为
+['www.99wxw.cc', 'bdyy1.xyz', 'www.dy420.com', 'cfip.xxxxxxxx.tk', 'img-comment-fun.9cache.com', 'lxdytt.net', 'www.nba01.com', 'www.sf123.mobi', 'xfltd.net', 'www.bgdvd.cc', 'www.gtqdyw.com', 'www.75uw.com', 'syshuangxing.com', 'www.pkdytt.com', 'v.pkdytt.com', 'www.gtqysw.com', 'm.gtqysw.com', 'www.cfhuagong.com', 'www.qqxsw.co', 'www.lxdytt.net', 'www.zzztch.com', 'www.7749tv.com', 'm.gtqdyw.com', 'www.dy1255.com', 'xxcoco.com', 'www.gtqdyy.com', '33mov.com', 'www.789kp.com', 'www.kukedy.tv', 'www.1a1v.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qqxsw.co...
+Performing DNS lookup for www.lxdytt.net...
+Performing DNS lookup for www.7749tv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
