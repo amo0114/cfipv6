@@ -11255,3 +11255,25 @@ Performing DNS lookup for www.kunzedu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0be442c] Update project files
+ 4 files changed, 54 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   238face..0be442c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.47.165...
+Fetching domains for 104.21.226.117...
+Fetching domains for 172.64.35.206...
+succeed to fetch domains for 104.21.47.165 from https://dnsdblookup.com/
+succeed to fetch domains for 172.64.35.206 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.226.117 from https://site.ip138.com/
+域名列表为
+['hj5188.cn', 'www.sounddelight.nl', 'nlsdwsz.66666654.xyz', 'www.55xs.cc', 'www17888.com', 'hdtime.org', 'www.lnryny.com', 'www.85xs.cc', 'www.99wx.cc', 'cfip.xxxxxxxx.tk', 'www.biqune.com', 'www.30my.xyz', 's4.ink', 'www.sxhandun.com', 'qss44.com', 'www.hj5188.cn', 'kkty0.com', 'www.gaysuck.com', 'www.12am.com.cn', 'www.0808my.com', 'raciborz.com.pl', 'www.tt764.com', 'app.kkty0.com', 'yx.887141.xyz', 'www.zzztch.com', 'valentin.ns.cloudflare.com', 'www.cocanwelding.com', 'sj474.cc', 'www.123tlvip.com', 'www.gxg-cn.com', 'www.58zztl.xyz', 'love-porno.com', '02.dgz123.link', 'www.ikantv.net', 'www.ddwhm.com', 'gaysuck.com', 'www.zhaopin0570.com', 'www.xsfsp.com', 'www.ddosi.org', 'www.consumerfinancemonitor.com', 'www.iwaenc2016.org', 'img.111588.xyz', '182qw.com', 'www.dfpetro.com', 'www.wenxueyuedu.com', 'pan.axxpan.com', 'www.jjdsbav.cc', 'www.511my.com', 'www.zbglq.com', 'w.m837.cc', 'www.lyys8.com', 'nageso10.cc', '419393.cc', 'www.zxc999.cn', 'g46rp3.lol', 'www.1671d.com', 'www.pksuhab.cn', 'www.moelink.cc', 'sounddelight.nl', '33r.com', 'www.hdtime.org', 'www.182qw.com', 'tt764.com', 'jason1737.com', '01.dgz123.link', 'tracker.hdtime.org', 'hxxx.pro', 'ltjm.37o.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.0808my.com...
+Performing DNS lookup for nageso10.cc...
+Performing DNS lookup for www.30my.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
