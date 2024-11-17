@@ -2,40 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.17.255.59
-Name:	dcs.jqddos.xyz
-Address: 104.24.83.64
-Name:	dcs.jqddos.xyz
-Address: 104.25.72.70
-Name:	dcs.jqddos.xyz
-Address: 104.17.41.196
-Name:	dcs.jqddos.xyz
-Address: 104.17.151.142
-Name:	dcs.jqddos.xyz
-Address: 104.17.32.91
-Name:	dcs.jqddos.xyz
-Address: 104.18.107.113
-Name:	dcs.jqddos.xyz
-Address: 104.25.107.190
-Name:	dcs.jqddos.xyz
-Address: 104.18.97.135
-Name:	dcs.jqddos.xyz
-Address: 104.18.235.174
+Name:	www.jjtyss.com
+Address: 172.67.141.246
+Name:	www.jjtyss.com
+Address: 104.21.57.51
+Name:	www.jjtyss.com
+Address: 2606:4700:3035::6815:3933
+Name:	www.jjtyss.com
+Address: 2606:4700:3034::ac43:8df6
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
-** server can't find clouddown.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	www.lyzdzy.com
+Address: 208.98.40.210
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	mzz76.com
-Address: 194.53.53.6
-Name:	mzz76.com
-Address: 194.53.53.250
+Name:	www.kunzedu.com
+Address: 103.88.187.196
 
