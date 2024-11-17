@@ -1,26 +1,19 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
+** server can't find aobo115.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+Name:	dsxys.com
+Address: 192.64.119.232
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	uu93.com
-Address: 172.67.179.23
-Name:	uu93.com
-Address: 104.21.35.197
-Name:	uu93.com
-Address: 2606:4700:3037::ac43:b317
-Name:	uu93.com
-Address: 2606:4700:3033::6815:23c5
+Name:	m.7caa.com
+Address: 154.202.57.194
 

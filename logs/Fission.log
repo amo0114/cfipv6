@@ -11097,3 +11097,25 @@ Performing DNS lookup for www.7749tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a71191d] Update project files
+ 4 files changed, 57 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   a2b5d7f..a71191d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.63.71...
+Fetching domains for 104.17.185.184...
+Fetching domains for 104.16.255.22...
+succeed to fetch domains for 104.16.255.22 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.185.184 from https://site.ip138.com/
+succeed to fetch domains for 104.17.63.71 from https://site.ip138.com/
+域名列表为
+['xbiquge.me', 'cf.krkr.vip', 'www.sf123.mobi', 'm.niuerzs.com', 'esvadmin7.eschoolview.com', 'www.xbiquge.me', 'www.zzztch.com', 'www.qilishusong.cn', 'www.99wxw.cc', 'www.cfhuagong.com', 'uu93.com', '28et.com', 'www.lailai360.com', 'www.maysville.k12.oh.us', 'www.28et.com', 'www.amivac.com', 'www.4myy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.niuerzs.com...
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for uu93.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
