@@ -1,19 +1,36 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find aobo115.com: NXDOMAIN
+Non-authoritative answer:
+www.28dushu.com	canonical name = back.jdsharecodes.top.
+Name:	back.jdsharecodes.top
+Address: 172.67.151.167
+Name:	back.jdsharecodes.top
+Address: 104.21.40.125
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3036::ac43:97a7
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3036::6815:287d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
+cloudflares.666999.world	canonical name = 94950.bodis.com.
+Name:	94950.bodis.com
+Address: 199.59.243.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.7caa.com
-Address: 154.202.57.194
+blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 

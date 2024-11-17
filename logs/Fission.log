@@ -11119,3 +11119,25 @@ Performing DNS lookup for uu93.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2745c06] Update project files
+ 4 files changed, 49 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   a71191d..2745c06  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.59.187...
+Fetching domains for 104.18.208.172...
+Fetching domains for 104.21.68.211...
+succeed to fetch domains for 104.18.208.172 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.68.211 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.59.187 from https://site.ip138.com/
+域名列表为
+['www.lyzdzy.com', 'beplay.lol', 'pk299.com', '452488.com', 'www.asmr111.xyz', 'www.jzfart.com', 'yase125.com', 'omerbaba.online', 'yehj.com', '22cdn.bbzbb.xyz', 'www.fengfengpay.com', 'www.wbtfirst.biz', '37xx8.com', 'www.chiti.work', 'xn---niuniuyingshi-pv11aq72ta5209h.vip', 'www.magnetdl.com', '55t22.com', 'www.hhyy028.com', 'reparamiauto.com', 'www.jxshantui.com', 'www.kuvendikosoves.org', 'www.rshqggcm.com', 'bbnnn.com', '652198.org', 'shy6666.com', 'sese8238.com', 'amirdz.net', 'www.caochangqing.com', 'bfa.com', 'aobo115.com', '28myplay.com', 'sexynipple.com', 'www.yh9pk.com', 'www.phimxax.net', 'www.1331yhgw20.com', 'www.beplay.lol', 'www.myxclip.com', 'www.xingyaoly.com', 'bigsoundbank.com', 'www.penglecheng.com', 'hhae.cc', '666jeek.com', 'xuonggombattrang.vn', 'stock.hostmonit.com', 'dinamicarpneus.com.br', 'www.yase125.com', 'szsuya.com', 'www.telegramef.com', 'www.shwaizheng.com', 'yzzb888.com', 'caochangqing.com', 'rshqggcm.com', 'm.niuerzs.com', 'sm.zhilingli.cn', 'www.yzzb888.com', 'mail.wts.online', 'www.whpaiger.com', 'www.303cc.com', 'm.7caa.com', 'www.jzxdsb.com', 'ccsgrwhg.org', 'www.bbnnn.com', 'www.bigsoundbank.com', 'dsxys.com', 'h5.vasztj.com', '303cc.com', 'yh6.dtku41.xyz', 'www.55t22.com', 'www.24kkkk.com', '24kkkk.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for aobo115.com...
+Performing DNS lookup for dsxys.com...
+Performing DNS lookup for m.7caa.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
