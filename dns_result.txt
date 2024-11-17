@@ -2,25 +2,40 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	support.fieldlevel.com
-Address: 172.66.40.39
-Name:	support.fieldlevel.com
-Address: 172.66.43.217
-Name:	support.fieldlevel.com
-Address: 2606:4700:3108::ac42:2bd9
-Name:	support.fieldlevel.com
-Address: 2606:4700:3108::ac42:2827
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.17.255.59
+Name:	dcs.jqddos.xyz
+Address: 104.24.83.64
+Name:	dcs.jqddos.xyz
+Address: 104.25.72.70
+Name:	dcs.jqddos.xyz
+Address: 104.17.41.196
+Name:	dcs.jqddos.xyz
+Address: 104.17.151.142
+Name:	dcs.jqddos.xyz
+Address: 104.17.32.91
+Name:	dcs.jqddos.xyz
+Address: 104.18.107.113
+Name:	dcs.jqddos.xyz
+Address: 104.25.107.190
+Name:	dcs.jqddos.xyz
+Address: 104.18.97.135
+Name:	dcs.jqddos.xyz
+Address: 104.18.235.174
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find clouddown.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find www.ygdy8.cc: No answer
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.cqjschungao.com
-Address: 172.232.25.148
+Name:	mzz76.com
+Address: 194.53.53.6
+Name:	mzz76.com
+Address: 194.53.53.250
 
