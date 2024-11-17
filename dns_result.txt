@@ -2,26 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.jjtyss.com
-Address: 172.67.141.246
-Name:	www.jjtyss.com
-Address: 104.21.57.51
-Name:	www.jjtyss.com
-Address: 2606:4700:3035::6815:3933
-Name:	www.jjtyss.com
-Address: 2606:4700:3034::ac43:8df6
-
-Server:		8.8.4.4
-Address:	8.8.4.4#53
-
-Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.40.210
+Name:	www.0808my.com
+Address: 170.178.183.18
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kunzedu.com
-Address: 103.88.187.196
+Name:	nageso10.cc
+Address: 103.224.212.216
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.30my.xyz: NXDOMAIN
 
