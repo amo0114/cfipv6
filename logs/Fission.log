@@ -11162,3 +11162,25 @@ Performing DNS lookup for blog.hostmonit.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 67a99f1] Update project files
+ 4 files changed, 61 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   bd55361..67a99f1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.166.72...
+Fetching domains for 198.41.205.230...
+Fetching domains for 104.16.35.226...
+succeed to fetch domains for 198.41.205.230 from https://site.ip138.com/
+succeed to fetch domains for 104.16.35.226 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.166.72 from https://dnsdblookup.com/
+域名列表为
+['340ke.com', '1152vip.com', 'jpvsavhyu.76898102.xyz', 'www.ddwhm.com', '182an.com', 'iwzyw.com', 'www.whpaiger.com', 'www.iios.me', 'www.93xscc.com', 'www.nba01.com', '252ju.com', 'acjp2.cloudflarest.link', '1.ghjrr.cloudns.biz', 'gy2.us123.icu', 'www.lyzdzy.com', 'www.uu93.com', 'www.xinjuc.com', 'www.xxcoco.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jpvsavhyu.76898102.xyz...
+Performing DNS lookup for 182an.com...
+Performing DNS lookup for www.93xscc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
