@@ -11141,3 +11141,24 @@ Performing DNS lookup for m.7caa.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bd55361] Update project files
+ 4 files changed, 55 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   2745c06..bd55361  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 141.101.115.206...
+Fetching domains for 104.17.14.177...
+Fetching domains for 104.18.0.94...
+succeed to fetch domains for 104.18.0.94 from https://site.ip138.com/
+succeed to fetch domains for 104.17.14.177 from https://site.ip138.com/
+succeed to fetch domains for 141.101.115.206 from https://dnsdblookup.com/
+域名列表为
+['www.28dushu.com', 'm.6988tv.com', 'blog.hostmonit.com', 'cf-lt.sharecentre.online', 'www.xoso6622.com', 'www.17e.tv', 'stock.hostmonit.com', 'www.zhaosf.mobi', 'www.x9x55.com', 'www.yx521.net', 'www.tinghen.com', 'www.home66.net', 'www.k77kk.cc', 'www.92mili.com', 'www.cbcv.cc', '96ebk.com', 'www.g567r.com', 'www.ydxs.cc', 'www.zhuizhuiju.com', 'xs.wxtv.cc', 'ggxs.cc', 'cdn.didi8.com', '17e.tv', 'www.6988tv.com', 'ydxs.cc', 'l10n-pro.dangpu.com', 'www.99wxw.cc', '6i5.com', 'b6d88.com', 'www.90dushu.com', 'www.51jion.com', 'www.kx10.com', 'www.b1g55.com', 'cloudflares.666999.world', 'www.nmhydz.com', 'www.boyangjt.com', 'www.dy420.com', 'www.991kan.com', 'baxtc.66666654.xyz', 'chubb.de', 'www.b6d88.com', 'www.28et.com', 'dsxys.pro', 'xoso6622.com', 'www.3dck.com', 'www.wanmeikankan.net', 'www.kanju8.com', 'www.4148.net', 'www.yy4080dy.com', 'm.zhiqihuo.cc', '733za.com', 'yx.887141.xyz', 'www.96ebk.com', 'www.paizipai.top', 'www.96dushu.com', 'www.11txt.com', 'm.11txt.com', 'sgv7.com', 'www.apppark.org', 'www.omd2008.com', 'www.6i5.com', 'www.0550cq.com', 'www.x52bq.com', 'www.vod22.com', 'www.881dy.com', 'www.c333.net', 'm.28dushu.com', 'www.dmbj.cc', 'www.fcwei.com', 'www.733za.com', 'b1g55.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.28dushu.com...
+Performing DNS lookup for cloudflares.666999.world...
+Performing DNS lookup for blog.hostmonit.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
