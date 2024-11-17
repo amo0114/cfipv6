@@ -11277,3 +11277,25 @@ Performing DNS lookup for www.30my.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9489869] Update project files
+ 4 files changed, 191 insertions(+), 15 deletions(-)
+ rewrite Fission_ip_backup.txt (90%)
+To github.com:amo0114/cfipv6.git
+   0be442c..9489869  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.218.168...
+Fetching domains for 188.114.96.36...
+Fetching domains for 104.18.42.31...
+succeed to fetch domains for 104.17.218.168 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.96.36 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.42.31 from https://dnsdblookup.com/
+域名列表为
+['wwe86.com', 'cfip.201043.xyz', 'www.lpgcyl.com', 'mp3paws.com', 'www.qqpp.space', '3377ww.com', 'hkdjj8.com', 'www.sttlink.com', 'www.cqbqzc.com', 'www.celinedion.com', 'zzztch.com', 'cnamefuckxxs.yuchen.icu', 'lwswz.com', 'qqpp.space', 'onestopwines.net', 'www.skskaiybks.cn', 'shjhbox.com', 'achk.cloudflarest.link', 'bd777.com', 'www.ycly.work', 'www.shjhbox.com', 'm.shjhbox.com', 'www.rmjgkb.icu', 'jinri.bot.nu', 'djxzy.com', 't141.cc', 'www.bd777.com', 'guoweimall.com', 'dabojituan.com', 'www.chongliangfu.com', 'www.18comic.live', 'cqbqzc.com', 'lfntfm.com', 'pantextile.com', 'www.mp3paws.com', 'www.28et.com', 'www.3377ww.com', 'www.hoodlumsmusic.com', 'www.onestopwines.net', 'www.ayzjj.cn', 'proxy.cnmqq.tk', 'www.lfntfm.com', '18comic.live', 'www.zhiboche.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ycly.work...
+Performing DNS lookup for www.28et.com...
+Performing DNS lookup for jinri.bot.nu...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
