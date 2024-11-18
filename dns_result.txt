@@ -2,44 +2,45 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-btdad5.xyz	canonical name = btdad5.xyz.cdn.cloudflare.net.
-Name:	btdad5.xyz.cdn.cloudflare.net
-Address: 172.67.182.216
-Name:	btdad5.xyz.cdn.cloudflare.net
-Address: 104.21.96.150
-Name:	btdad5.xyz.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:6096
-Name:	btdad5.xyz.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:b6d8
+panel3.touhou.tel	canonical name = cf.touhou.casa.
+cf.touhou.casa	canonical name = cf.touhou.network.
+Name:	cf.touhou.network
+Address: 104.26.14.124
+Name:	cf.touhou.network
+Address: 104.26.15.124
+Name:	cf.touhou.network
+Address: 172.67.72.82
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.asmrgay.com	canonical name = www.asmr.pw.
-Name:	www.asmr.pw
-Address: 172.67.69.13
+www.wn03.cc	canonical name = cf-4.sjcdn.top.
+cf-4.sjcdn.top	canonical name = cn.wnacg.com.
+Name:	cn.wnacg.com
+Address: 172.67.74.237
+Name:	cn.wnacg.com
+Address: 104.26.13.109
+Name:	cn.wnacg.com
+Address: 104.26.12.109
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:d6d
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:c6d
+Name:	cn.wnacg.com
+Address: 2606:4700:20::ac43:4aed
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yjys05.com	canonical name = nz.7zz.cn.
-nz.7zz.cn	canonical name = nezha-dash-a5m.pages.dev.
-Name:	nezha-dash-a5m.pages.dev
-Address: 172.66.0.102
-Name:	nezha-dash-a5m.pages.dev
-Address: 162.159.140.104
-Name:	nezha-dash-a5m.pages.dev
-Address: 172.66.0.158
-Name:	nezha-dash-a5m.pages.dev
-Address: 162.159.140.160
-Name:	nezha-dash-a5m.pages.dev
-Address: 2606:4700:7::66
-Name:	nezha-dash-a5m.pages.dev
-Address: 2606:4700:7::9e
-Name:	nezha-dash-a5m.pages.dev
-Address: 2a06:98c1:58::66
-Name:	nezha-dash-a5m.pages.dev
-Address: 2a06:98c1:58::9e
+www.hxsy888.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.161.184
+Name:	cf.zmdhc.com
+Address: 172.67.181.143
+Name:	cf.zmdhc.com
+Address: 172.67.20.23
+Name:	cf.zmdhc.com
+Address: 172.67.87.52
 

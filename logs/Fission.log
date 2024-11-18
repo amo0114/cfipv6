@@ -11299,3 +11299,26 @@ Performing DNS lookup for jinri.bot.nu...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6efc499] Update project files
+ 4 files changed, 81 insertions(+), 182 deletions(-)
+ rewrite Fission_ip_backup.txt (99%)
+ rewrite dns_result.txt (94%)
+To github.com:amo0114/cfipv6.git
+   9489869..6efc499  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.229.79...
+Fetching domains for 104.22.59.13...
+Fetching domains for 198.41.209.197...
+succeed to fetch domains for 104.22.59.13 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.229.79 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.209.197 from https://site.ip138.com/
+域名列表为
+['www.btdad.life', 'www.tinghen.com', 'www.tvyb02.com', 'www.piaku.cc', 'www.lxdytt.net', 'qp66.com', 'www.yjys05.com', '1.ao3-cn.top', 'stock.hostmonit.com', 'www.huanyaad.com', '4gdiy.com', 'www.4gdiy.com', 'www.jinniuvideo.com', 'www.33mov.com', 'm.lxdytt.net', 'www.asmrgay.com', 'www.6i5.com', 'm.gtqdyw.com', 'www.paizipai.top', 'www.tv9090.com', 'www.boyangjt.com', 'yx.887141.xyz', '18.namesilo123.top', 'www.116.ag', 'gtqysw.com', 'btdad5.xyz', 'baxtc.66666654.xyz', 'www.kuaikan66.com', 'www.zjgamy.com', 'www.ddwhm.com', 'www.404888.xyz', '606977.com', 'uu93.com', 'www.cocanwelding.com', '8810868.com', 'zjhainashoes.com', 'btdad.live', 'www.wanmeikankan.net', 'www.pkdytt.com', 'www.652tv.com', 'ag.hg2096.com', 'm.0550cq.com', 'phaa.entrust.pp.ua', 'www.55xs.cc', 'm.gtqdyy.com', 'speed.marisalnc.com', 'www.qp666.com', 'www.52dyk.com', 'www.gtqdyy.com', 'www.lyzdzy.com', 'www.bgdvd.cc', 'm.xddytt8.com', 'www.6080ysm.cc', 'www.k77yy.com', 'www.x52bq.com', 'www.zgjmw.net', 'www.uu93.com', 'vcd.la', 'mydy2008.duckdns.org', 'm.niuerzs.com', 'www.qf527.com', 'www.gtqysw.com', 'jinniuvideo.com', 'menmaza.76898102.xyz', 'www.jjtyss.com', 'pkdytt.com', 'www.kanunu2.com', 'www.sxyzxh.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for btdad5.xyz...
+Performing DNS lookup for www.asmrgay.com...
+Performing DNS lookup for www.yjys05.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
