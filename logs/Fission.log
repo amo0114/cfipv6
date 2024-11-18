@@ -11432,3 +11432,25 @@ Performing DNS lookup for nlsdwsz.66666654.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f2a880b] Update project files
+ 4 files changed, 52 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   cb56857..f2a880b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.217.164...
+Fetching domains for 104.22.36.118...
+Fetching domains for 172.66.41.110...
+succeed to fetch domains for 104.18.217.164 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.36.118 from https://ipchaxun.com/
+succeed to fetch domains for 172.66.41.110 from https://site.ip138.com/
+域名列表为
+['www.730fz.com', 'www.huashubao.org', 'cloudflare.cfgo.cc', 'www.nwtlbb.cn', 'www.xingtian180.cn', 'www.666tv.org', 'www.tlbbtl.top', 'www.50zw.co', 'www.52ggd.com', 'yx.887141.xyz', 'www.77zw.cc', 'www.wbei666.com', 'www.9966pk.com', 'www.ydkj088.com', 'buyplus1.com.tw', 'www.818my.cn', 'www.jxss688.com', 'www.xwbhk.com', 'www.gx6080.com', 'm.52ggd.com', 'www.965my.cn', 'www.tlbb999.monster', 'jileciyuan.top', 'www.lailai360.com', 'cdn.cmliu.net', 'www.zuruikj.com', 'clun.top', 'www.appuq.com', 'www.gjhj6tl.top', 'www.52ys.cc', 'speed.marisalnc.com', 'www.cgfxw.com', 'www.91dajin.com', 'www.sy5151.com', 'www.fengyun180.cn', 'www.93xscc.com', 'register.huzanxiaobao.cn', 'www.www2011india.com', 'www.898my.vip', 'www.apex521.com', 'yh7.dtku41.xyz', 'cdn.cntun.cf', 'dyzj18.com', 'epstryk.pl', '512yyds.com', 'www.my270.xyz', 'www.512yyds.com', 'www.nitianzw.com', 'www.jileciyuan.top', '7moon.net', 'my270.xyz', 'www.666dy.org', 'www.qn67.com', 'www.2s1.cn', 'www.75xs.cc', 'www.zxc999.cn', 'www.51uuoo.com', 'www.7moon.net', 'www.cxzhfj.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.50zw.co...
+Performing DNS lookup for yh7.dtku41.xyz...
+Performing DNS lookup for www.gjhj6tl.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

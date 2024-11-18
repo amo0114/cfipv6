@@ -2,21 +2,55 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.50zw.co	canonical name = luoqiucdn.com.
-luoqiucdn.com	canonical name = cdn.cloudfront.bz.
-cdn.cloudfront.bz	canonical name = 77980.bodis.com.
-Name:	77980.bodis.com
-Address: 199.59.243.227
+www.7lq.com	canonical name = yt7570.c2.huyuncdn.xyz.
+yt7570.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yh7.dtku41.xyz
-Address: 72.52.178.23
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.18.143.213
+Name:	dcs.jqddos.xyz
+Address: 104.16.194.196
+Name:	dcs.jqddos.xyz
+Address: 104.25.222.130
+Name:	dcs.jqddos.xyz
+Address: 104.17.120.11
+Name:	dcs.jqddos.xyz
+Address: 104.27.203.42
+Name:	dcs.jqddos.xyz
+Address: 104.17.32.245
+Name:	dcs.jqddos.xyz
+Address: 104.25.211.197
+Name:	dcs.jqddos.xyz
+Address: 104.25.218.138
+Name:	dcs.jqddos.xyz
+Address: 104.17.161.183
+Name:	dcs.jqddos.xyz
+Address: 104.21.73.44
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.gjhj6tl.top: NXDOMAIN
+Non-authoritative answer:
+www.btdad.cyou	canonical name = www.btdad.cyou.cdn.cloudflare.net.
+Name:	www.btdad.cyou.cdn.cloudflare.net
+Address: 104.21.3.168
+Name:	www.btdad.cyou.cdn.cloudflare.net
+Address: 172.67.130.245
+Name:	www.btdad.cyou.cdn.cloudflare.net
+Address: 2606:4700:3036::6815:3a8
+Name:	www.btdad.cyou.cdn.cloudflare.net
+Address: 2606:4700:3032::ac43:82f5
 
