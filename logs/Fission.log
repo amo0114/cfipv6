@@ -11366,3 +11366,25 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4de12e7] Update project files
+ 4 files changed, 62 insertions(+), 53 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   3b9a9d5..4de12e7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.41.187...
+Fetching domains for 104.18.185.182...
+Fetching domains for 104.21.78.49...
+succeed to fetch domains for 104.21.78.49 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.41.187 from https://site.ip138.com/
+succeed to fetch domains for 104.18.185.182 from https://dnsdblookup.com/
+域名列表为
+['m.goodfo5.top', 'www.gokoverzicht.com', '40maoav.com', 'younvxxs11.buzz', 'fsghsj.com', 'ttt43.com', 'www.fftv8.com', 'www.liuli.ooo', 'www.hjab7.com', 'www.pffpoz.top', 'hjab7.com', 'xxx.pbdq.pub', 'www.jkeuoj.top', 'wap.cqxkxqdic.top', '3g.8gxwjpl.top', 'www.99339988.com', 'xiaobi073.com', '3g.goodfo5.top', 'liuli.ooo', 'm.cqxkxqdic.top', 'www.789kp.com', 'www.qire8.net', 'www.younvxxs11.buzz', 'phimsexvn.net', 'iceagenow.info', 'miru.ml', 'nn276.com', 'www.ttt43.com', 'cxxtqc.com', 'wap.8gxwjpl.top', 'www.74maoaw.com', 'wap.jkeuoj.top', 'www.msyjs6.buzz', 'd9s3.com', 'www.wjxbj.com', 'depriestac.com', 'www.456322.com', 'www.whpaiger.com', 'www.makeup-house.gr', 'fenmb21.buzz', 'zdrgf.com', 'www.25gaoaa.com', 'cft99.com', 'm.jkeuoj.top', 'roufan.app', 'www.8gxwjpl.top', 'www.cocanwelding.com', 'www.oggoad5.cn', 'www.cxxtqc.com', 'www.4j4j.cn', 'www.cqxkxqdic.top', 'www.kmzhjqt.cn', 'cgcg1.com', 'm.pffpoz.top', '8888.pbdq.pub', 'matv.cc', '3g.jkeuoj.top', 'www.cgcg1.com', 'www.25seff.com', 'luwangyangrong.com', 'www.asmrzy8.net', '25gaoaa.com', 'www.luwangyangrong.com', '25seff.com', 'www.tpyyc.com', 'www.cfhuagong.com', 'www.dilidili8.com', '74maoaw.com', 'www.fsghsj.com', 'cui123.pbdq.pub', 'www.xefabr.com', 'zzztch.com', 'www.40maoav.com', 'antrpo.top', 'congtyxemay.com', 'www.goodfo5.top', '3g.cqxkxqdic.top', 'www.xiaobi073.com', 'www.szhimeili.cn', 'www.700090.com', 'szhimeili.cn', '8gxwjpl.top', 'www.581kan.top', 'gf33.pdai48t.com', '12.pbdq.pub', 'superestudio.com', 'cdqfjx.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for miru.ml...
+Performing DNS lookup for m.goodfo5.top...
+Performing DNS lookup for congtyxemay.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

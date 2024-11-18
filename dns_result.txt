@@ -1,31 +1,24 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find miru.ml: NXDOMAIN
+Non-authoritative answer:
+www.nyg29.com	canonical name = traff-1.hugedomains.com.
+traff-1.hugedomains.com	canonical name = hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com.
+Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
+Address: 52.71.57.184
+Name:	hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
+Address: 54.209.32.212
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find ospotih.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.goodfo5.top
-Address: 104.21.1.244
-Name:	m.goodfo5.top
-Address: 172.67.128.102
-Name:	m.goodfo5.top
-Address: 2606:4700:3030::ac43:8066
-Name:	m.goodfo5.top
-Address: 2606:4700:3035::6815:1f4
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	congtyxemay.com
-Address: 104.21.78.49
-Name:	congtyxemay.com
-Address: 172.67.216.238
-Name:	congtyxemay.com
-Address: 2606:4700:3034::ac43:d8ee
-Name:	congtyxemay.com
-Address: 2606:4700:3033::6815:4e31
+www.procheapjerseys.com	canonical name = procheapjerseys.com.
+Name:	procheapjerseys.com
+Address: 209.74.67.66
 
