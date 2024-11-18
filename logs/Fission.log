@@ -11322,3 +11322,25 @@ Performing DNS lookup for www.yjys05.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 262723c] Update project files
+ 4 files changed, 85 insertions(+), 58 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   6efc499..262723c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.115.244...
+Fetching domains for 104.17.35.94...
+Fetching domains for 172.67.66.186...
+succeed to fetch domains for 172.67.66.186 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.115.244 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.35.94 from https://dnsdblookup.com/
+域名列表为
+['www.tv9090.com', 'mahua110.com', 'kz22.cc', 'www.iios.club', 'www.266958.com', 'www.115tv.com', 'www.881dy.com', 'www.tinghen.com', 'www.7749tv.com', 'www.gdriustb.com', 'www.wanmeikankan.net', 'www.888dyy.cc', 'www.3c8848.com', 'www.xinpian8.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.zhongyunyang.com', 'www.czlbfrp.com', 'www.jsdrtzn.com', 'www.wn01.cc', 'www.asmrgay.com', 'www.bj-jq.com', 'www.imeiju.net', 'www.6080ysm.cc', 'www.bjyongcheng.com', 'www.lyzdzy.com', 'www.91m.cc', 'www.yjeky.com', 'www.4148.net', 'm.tpyyc.com', 'www.yy4080dy.com', 'www.6988tv.com', 'www.11txt.com', 'www.gzcfmy.com', 'www.hxsy888.com', 'www.hosemicon.com', 'www.77q3e.com', 'www.jingshuai888.com', 'www.wn03.cc', 'xs.wxtv.cc', 'www.tuyuyun.com', 'www.tw321.com', 'pq53.cc', '0550cq.com', 'www.50zw.co', 'www.6i5.com', 'www.dgytlt.com', 'cdn.yifenjichang.top', '01zj.com', '999696.xyz', 'iios.club', 'www.92mili.com', '77q3e.com', 'zi0.cc', 'www.k77yy.com', 'cfip.xxxxxxxx.tk', 'sgv7.com', 'www.dy420.com', 'www.lzhdsn.com', 'www.0550cq.com', 'www.szxjsj.com', 'm.y3600.cz', 'www.c333.net', 'www.bjfqmj.com', 'raw.gitmirror.com', 'panel3.touhou.tel', 'www.7sc.cc', 'www.zhuizhuiju.com', 'm.niuerzs.com', 'www.scxdexx.com', 'www.17kty.com', 'stock.hostmonit.com', 'www.50zw.org', 'cf-lt.sharecentre.online', 'www.kk554.com', 'www.gzgafk.com', 'www.33mov.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for panel3.touhou.tel...
+Performing DNS lookup for www.wn03.cc...
+Performing DNS lookup for www.hxsy888.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

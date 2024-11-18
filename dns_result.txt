@@ -2,45 +2,39 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-panel3.touhou.tel	canonical name = cf.touhou.casa.
-cf.touhou.casa	canonical name = cf.touhou.network.
-Name:	cf.touhou.network
-Address: 104.26.14.124
-Name:	cf.touhou.network
-Address: 104.26.15.124
-Name:	cf.touhou.network
-Address: 172.67.72.82
+Name:	8mav.8mei22.xyz
+Address: 104.21.54.145
+Name:	8mav.8mei22.xyz
+Address: 172.67.139.102
+Name:	8mav.8mei22.xyz
+Address: 2606:4700:3031::6815:3691
+Name:	8mav.8mei22.xyz
+Address: 2606:4700:3031::ac43:8b66
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wn03.cc	canonical name = cf-4.sjcdn.top.
-cf-4.sjcdn.top	canonical name = cn.wnacg.com.
-Name:	cn.wnacg.com
-Address: 172.67.74.237
-Name:	cn.wnacg.com
-Address: 104.26.13.109
-Name:	cn.wnacg.com
-Address: 104.26.12.109
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:d6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:c6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::ac43:4aed
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.135.190
+Name:	ips.993888.xyz
+Address: 104.16.113.219
+Name:	ips.993888.xyz
+Address: 104.16.113.168
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hxsy888.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.161.184
-Name:	cf.zmdhc.com
-Address: 172.67.181.143
-Name:	cf.zmdhc.com
-Address: 172.67.20.23
-Name:	cf.zmdhc.com
-Address: 172.67.87.52
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
