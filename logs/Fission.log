@@ -11388,3 +11388,25 @@ Performing DNS lookup for congtyxemay.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 923c4f2] Update project files
+ 4 files changed, 55 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   4de12e7..923c4f2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.51.137...
+Fetching domains for 104.21.74.87...
+Fetching domains for 104.17.35.86...
+succeed to fetch domains for 104.17.35.86 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.74.87 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.51.137 from https://dnsdblookup.com/
+域名列表为
+['www065.com', 'www.707la.com', 'cxzdsa.xyz', 'www.procheapjerseys.com', 'brightviewtechnologies.com', 'www1.teryh.cn', 'www.fs416.com', 'www.75uw.com', 'www.kxgdyw.com', 'www.gdriustb.com', 'www.nu-mum.cn', 'www.44844.xyz', 'wap.ospotih.top', 'www.hmoeh.com', 'www.qdzyshijizhongxin.com', 'www.nyg29.com', 'pfsv.io', 'lifetimelight.com.au', 'www.bjstep.com', 'www.v276w.com', '652tv.com', 'www.doupozw.com', 'www.dong-gang.com', 'yp61111.cc', 'www.xporn.com', 'cyaovip.com', 'bjstep.com', 'www.28et.com', 'www2.teryh.cn', '88av1228.cc', 'manyum.com', 'www.25365q.cc', 'www.fotografen.be', 'www.tom1112.com', '3g.ospotih.top', 'www.tpyyc.com', 'punchng.com', 'a530.cn', 'www.xdxx432.one', 'www.ospotih.top', 'www.jxmlzzp.com', 'surinaminfo.com', 'teryh.cn', '44844.xyz', 'mgsdtoken.com', 'm.ospotih.top', 'www.touchbionics.com', 'xporn.com', 'www.nangua5.com', 'tianyabook.com', 'www.zuoshiliangji13.top', '91qms.xyz', 'epaper.punchng.com', 'rxwwr.com', 'www.luwangyangrong.com', 'tasteherhole.com', 'cdn.0578.eu.org', 'www.818fanli.cn', '3g.u9skhrg.top', 'kk554.com', 'ks50.cc', 'touchbionics.com', 'v276w.com', 'www.a530.cn', 'www3.teryh.cn', '777game.com', 'subscribe.punchng.com', 'www.tg269.cn', 'www.tzencan.com', 'www.eoyqsnt.cn', 'www.baoboqipai.cn', 'ju5666.com', 'shop.liner77.xyz', 'avtocentr.sumy.ua', 'www.wxts6.top', 'snackfoodextruder.com', 'm.20fly.com', 'www.cyaovip.com', 'www.rxwwr.com', 'antv1.me', 'oazon.com', 'www.ju5666.com', 'www.tasteherhole.com', 'm.tpyyc.com', '9uk6.com', 'healthwise.punchng.com', 'www.nangua55.com', 'www.teryh.cn', '20fly.com', 'tom1112.com', 'ospotih.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.nyg29.com...
+Performing DNS lookup for ospotih.top...
+Performing DNS lookup for www.procheapjerseys.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
