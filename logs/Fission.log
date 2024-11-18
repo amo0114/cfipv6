@@ -11344,3 +11344,25 @@ Performing DNS lookup for www.hxsy888.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3b9a9d5] Update project files
+ 4 files changed, 75 insertions(+), 62 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   262723c..3b9a9d5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.165.204...
+Fetching domains for 104.17.69.230...
+Fetching domains for 172.67.219.113...
+succeed to fetch domains for 104.19.165.204 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.69.230 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.219.113 from https://dnsdblookup.com/
+域名列表为
+['g888m.com', 'hjfc80c.top', 'yx.887141.xyz', 'c3iohyim54.top', 'm6vip666.com', 'www.gavadi.com', 'www.qs29.com', 'www.zzztch.com', 'raw.gitmirror.com', 'www.gdriustb.com', 'www.28et.com', 'www.55xs.cc', '8mav.8mei22.xyz', 'fptick.top', 'www.bjyghm.com', 'm.bqg789.co', 'www.90dushu.com', '88av909.cc', 'www.11txt.com', 'www.lyzdzy.com', 'www.jmutech.top', 'www.tinghen.com', 'www.avanti.in', 'www.g888m.com', 'www.iios.club', '7623623.com', 'ii732.com', 'www.biqune.com', 'www.douluodalu.cc', 'kuaikan66.com', '91youyue.com', 'pimpmynubiles.com', '2048124.xyz', 'www.huaidan2.com', 'www.sbmchina.com', 'a1yasesp.xyz', 'www.7ays.com', 'www.93xscc.com', 'www.706i.com', 'bjyghm.com', 'www.bbcsoft.cn', 'stock.hostmonit.com', 'kan234.com', 'www.75xs.cc', 'www.cfhuagong.com', 'www.99wx.cc', 'www.kangzqx.com', 'shengyuanshipin.com', 'www.aks5.com', 'kaiweihua01.com', 'www.wei333.com', 'sbmchina.com', 'www.tribunaldz.com', '4gdiy.com', 'www.niuerzs.com', '8mei22.xyz', 'avanti.in', 'www.99wxw.cc', 'mcv.titanium1.org', 'zggxzyyyz.com', 'www.kaiweihua01.com', 'www.kanju8.com', 'www.7749tv.com', 'www.tv9090.com', 'admin.mbsky.ee', 'wennaqipei.cn', 'ai.91youyue.com', 'gameutopia.top', 'www.888dyy.cc', 'yih.kanliao9.cyou', 'www.hjfc80c.top', 'www.fsjiyo.com', 'm.niuerzs.com', 'ascoeq.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 8mav.8mei22.xyz...
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for www.iios.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

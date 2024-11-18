@@ -1,40 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	8mav.8mei22.xyz
-Address: 104.21.54.145
-Name:	8mav.8mei22.xyz
-Address: 172.67.139.102
-Name:	8mav.8mei22.xyz
-Address: 2606:4700:3031::6815:3691
-Name:	8mav.8mei22.xyz
-Address: 2606:4700:3031::ac43:8b66
+** server can't find miru.ml: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.135.190
-Name:	ips.993888.xyz
-Address: 104.16.113.219
-Name:	ips.993888.xyz
-Address: 104.16.113.168
+Name:	m.goodfo5.top
+Address: 104.21.1.244
+Name:	m.goodfo5.top
+Address: 172.67.128.102
+Name:	m.goodfo5.top
+Address: 2606:4700:3030::ac43:8066
+Name:	m.goodfo5.top
+Address: 2606:4700:3035::6815:1f4
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+Name:	congtyxemay.com
+Address: 104.21.78.49
+Name:	congtyxemay.com
+Address: 172.67.216.238
+Name:	congtyxemay.com
+Address: 2606:4700:3034::ac43:d8ee
+Name:	congtyxemay.com
+Address: 2606:4700:3033::6815:4e31
 
