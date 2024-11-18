@@ -2,55 +2,58 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.7lq.com	canonical name = yt7570.c2.huyuncdn.xyz.
-yt7570.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
+Name:	pc87.pechatshop.com
+Address: 74.63.241.22
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
-yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.18.143.213
-Name:	dcs.jqddos.xyz
-Address: 104.16.194.196
-Name:	dcs.jqddos.xyz
-Address: 104.25.222.130
-Name:	dcs.jqddos.xyz
-Address: 104.17.120.11
-Name:	dcs.jqddos.xyz
-Address: 104.27.203.42
-Name:	dcs.jqddos.xyz
-Address: 104.17.32.245
-Name:	dcs.jqddos.xyz
-Address: 104.25.211.197
-Name:	dcs.jqddos.xyz
-Address: 104.25.218.138
-Name:	dcs.jqddos.xyz
-Address: 104.17.161.183
-Name:	dcs.jqddos.xyz
-Address: 104.21.73.44
+Name:	bestcf.onecf.eu.org
+Address: 104.22.54.47
+Name:	bestcf.onecf.eu.org
+Address: 104.17.234.123
+Name:	bestcf.onecf.eu.org
+Address: 104.17.252.80
+Name:	bestcf.onecf.eu.org
+Address: 104.19.227.68
+Name:	bestcf.onecf.eu.org
+Address: 104.21.239.44
+Name:	bestcf.onecf.eu.org
+Address: 104.17.225.77
+Name:	bestcf.onecf.eu.org
+Address: 104.21.21.230
+Name:	bestcf.onecf.eu.org
+Address: 104.17.243.99
+Name:	bestcf.onecf.eu.org
+Address: 104.17.240.57
+Name:	bestcf.onecf.eu.org
+Address: 104.17.228.41
+Name:	bestcf.onecf.eu.org
+Address: 104.22.52.50
+Name:	bestcf.onecf.eu.org
+Address: 104.21.226.178
+Name:	bestcf.onecf.eu.org
+Address: 104.19.236.45
+Name:	bestcf.onecf.eu.org
+Address: 172.67.73.22
+Name:	bestcf.onecf.eu.org
+Address: 104.21.28.245
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.btdad.cyou	canonical name = www.btdad.cyou.cdn.cloudflare.net.
-Name:	www.btdad.cyou.cdn.cloudflare.net
-Address: 104.21.3.168
-Name:	www.btdad.cyou.cdn.cloudflare.net
-Address: 172.67.130.245
-Name:	www.btdad.cyou.cdn.cloudflare.net
-Address: 2606:4700:3036::6815:3a8
-Name:	www.btdad.cyou.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:82f5
+Name:	www.thefappeningblog.com
+Address: 104.22.78.170
+Name:	www.thefappeningblog.com
+Address: 104.22.79.170
+Name:	www.thefappeningblog.com
+Address: 172.67.30.87
+Name:	www.thefappeningblog.com
+Address: 2606:4700:10::6816:4faa
+Name:	www.thefappeningblog.com
+Address: 2606:4700:10::ac43:1e57
+Name:	www.thefappeningblog.com
+Address: 2606:4700:10::6816:4eaa
 
