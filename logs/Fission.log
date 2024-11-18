@@ -11410,3 +11410,25 @@ Performing DNS lookup for www.procheapjerseys.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cb56857] Update project files
+ 4 files changed, 60 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   923c4f2..cb56857  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.191.218...
+Fetching domains for 104.17.80.174...
+Fetching domains for 198.41.215.193...
+succeed to fetch domains for 104.18.191.218 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.80.174 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.215.193 from https://dnsdblookup.com/
+域名列表为
+['881dy.com', 'www.ddwhm.com', 'www.tinghen.com', 'www.4148.net', 'iaudhcui.76898102.xyz', 'www.881dy.com', 'www.50zw.co', 'www.6i5.com', 'www.qiukwi.com', 'www.tv9090.com', '606977.com', '77yeye.com', 'www.cocanwelding.com', 'www.33mov.com', 'www.7749tv.cc', 'www.0550cq.com', 'www.tvyb02.com', 'www.qf527.com', '923055.com', 'iios.club', 'kk101.me', 'www.11txt.com', 'www.1080p.club', 'nlsdwsz.66666654.xyz', 'cfcdn2.sanfencdn9.com', 'yh6.dtku41.xyz', 'ag.hg2096.com', 'www.paizipai.top', 'www.77yeye.com', 'www.iios.fun', 'www.7749tv.com', '7.namesilo123.top', 'www.66se6.com', 'gttnb.cn', 'www.92mili.com', 'www.iios.club', 'www.116.ag', 'www.allshanghaioffice.com', 'yx.887141.xyz', 'www.qp666.com', 'yundunwawablogcdn1yd.wawacm.com', 'cgdd.digicert.pp.ua', 'potentcera.com', '8810868.com', 'www.xingkbjm.com', 'www.93xscc.com', 'gtt.top', 'spca.114514782.xyz', 'qp66.com', 'www.991kan.com', 'jpvsavhyu.76898102.xyz', 'www.boyangjt.com', 'stock.hostmonit.com', 'www.omd2008.com', 'tunneltransfer.bpyjc.com', 'baxtc.66666654.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 77yeye.com...
+Performing DNS lookup for www.qp666.com...
+Performing DNS lookup for nlsdwsz.66666654.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
