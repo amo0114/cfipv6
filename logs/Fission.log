@@ -11608,3 +11608,24 @@ Performing DNS lookup for www.laiduwx.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b921d7f] Update project files
+ 4 files changed, 43 insertions(+), 24 deletions(-)
+To github.com:amo0114/cfipv6.git
+   31f6089..b921d7f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.19.119...
+Fetching domains for 104.21.16.101...
+Fetching domains for 104.22.27.40...
+succeed to fetch domains for 104.22.19.119 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.27.40 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.16.101 from https://ipchaxun.com/
+域名列表为
+['www.lfqun.cn', 'co.eqhp.icu', 'www.usbid.co.il', 'yebciwk.com', 'javseji.sbs', 'joinsoft.com', 'www.75uw.com', 'm.ltpaoh.top', 'www.wzy027.com', 'www-zz993.com', 'www.kigvi.top', 'www.camobile.cloud', 'game.privragnarok2021.com', 'www.playoldgame.com', '3g.dlrdjvzr.top', 'vesnavoorbraak.xyz', 'playoldgame.com', 'blog.nantongxue.xyz', 'www.mimi300.com', 'www.dlrdjvzr.top', 'cn.vesnavoorbraak.xyz', 'lyaw199.com', 'jdy.us', '3g.kigvi.top', '3g.ltpaoh.top', 'te03.com', 'x99a2835.xyz', 'www.newskytv.net', 'turingcat.com', 'www.tpyyc.com', 'tpyyc.com', '1030.salhc.com', 'm.krjklckpbxlx.cc', '514oo.com', '799er.com', 'www.ygdy8.cc', 'www.cnthyristor.com', 'mchvh.com', 'kigvi.top', 'eromitai.com', 'www.ltpaoh.top', 'www.happymh.com', 'm.happymh.com', 'camobile.cloud', 'gay69.stream', 'gegeporn.com', 'www.shvrh.cn', 'hj37.app', 'celebsnews.org', 'm.kigvi.top', 'e1.777655.xyz', 'qitaihezpw.com', 'sphelpdesk.com', '663.58868.top', '69x1950.xyz', 'www.te03.com', 'wap.ltpaoh.top', 'pc.temunice.shop', 'm.niuerzs.com', 'www.sxbpqwx.cn', 'wzy027.com', 'cnthyristor.com', 'zhen-tan.com', 'lzndh.xyz', 'www.799er.com', 'wap.kigvi.top', 'm.maebcj.top', 'wap.dlrdjvzr.top', 'www.whznbs.com', 'www.lyaw199.com', 'maebcj.top', 'm.dlrdjvzr.top', 'www.st365wx.com', 'happymh.com', 'wap.maebcj.top', 'wwwtanwan.com', 'mimi300.com', '3g.maebcj.top', 'www.maebcj.top', 'www.tiaomans.com', 'ltpaoh.top', 'www.qitaihezpw.com', 'www.flynafi.com', 'dlrdjvzr.top', '5325566.com', '8803s.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for co.eqhp.icu...
+Performing DNS lookup for www.lyaw199.com...
+Performing DNS lookup for www.shvrh.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

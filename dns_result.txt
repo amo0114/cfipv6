@@ -2,26 +2,29 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	co.eqhp.icu
-Address: 91.195.240.12
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyaw199.com
-Address: 172.67.167.59
-Name:	www.lyaw199.com
-Address: 104.21.16.101
-Name:	www.lyaw199.com
-Address: 2606:4700:3037::6815:1065
-Name:	www.lyaw199.com
-Address: 2606:4700:3030::ac43:a73b
+Name:	www.luwangyangrong.com
+Address: 172.232.25.148
+Name:	www.luwangyangrong.com
+Address: 172.232.31.180
+Name:	www.luwangyangrong.com
+Address: 172.232.4.213
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.shvrh.cn
-Address: 45.195.141.137
+Name:	www.pianku5.com
+Address: 104.21.6.132
+Name:	www.pianku5.com
+Address: 172.67.154.221
+Name:	www.pianku5.com
+Address: 2606:4700:3034::ac43:9add
+Name:	www.pianku5.com
+Address: 2606:4700:3030::6815:684
 
