@@ -2,24 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.huaidan1.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.1.62
-Name:	ips.993888.xyz
-Address: 104.18.139.32
-Name:	ips.993888.xyz
-Address: 104.16.1.215
+Name:	data.immigrer.com
+Address: 172.67.189.144
+Name:	data.immigrer.com
+Address: 104.21.9.203
+Name:	data.immigrer.com
+Address: 2606:4700:3036::6815:9cb
+Name:	data.immigrer.com
+Address: 2606:4700:3037::ac43:bd90
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.17kyun.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.whjinwu.com
-Address: 162.209.175.124
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-*** Can't find kanju.icu: No answer
+Name:	api.gptgod.online
+Address: 104.21.48.125
+Name:	api.gptgod.online
+Address: 172.67.151.151
+Name:	api.gptgod.online
+Address: 2606:4700:3033::6815:307d
+Name:	api.gptgod.online
+Address: 2606:4700:3032::ac43:9797
 
