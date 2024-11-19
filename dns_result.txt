@@ -2,30 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	data.immigrer.com
-Address: 172.67.189.144
-Name:	data.immigrer.com
-Address: 104.21.9.203
-Name:	data.immigrer.com
-Address: 2606:4700:3036::6815:9cb
-Name:	data.immigrer.com
-Address: 2606:4700:3037::ac43:bd90
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.17kyun.com: NXDOMAIN
+Name:	acus.cloudflarest.link
+Address: 104.247.82.50
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	api.gptgod.online
-Address: 104.21.48.125
-Name:	api.gptgod.online
-Address: 172.67.151.151
-Name:	api.gptgod.online
-Address: 2606:4700:3033::6815:307d
-Name:	api.gptgod.online
-Address: 2606:4700:3032::ac43:9797
+Name:	b7q33.com
+Address: 172.67.144.208
+Name:	b7q33.com
+Address: 104.21.71.122
+Name:	b7q33.com
+Address: 2606:4700:3032::6815:477a
+Name:	b7q33.com
+Address: 2606:4700:3032::ac43:90d0
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.rencaipinghu.com	canonical name = rcdns.hnyjg.top.
+rcdns.hnyjg.top	canonical name = dns123.hanju789.com.
+Name:	dns123.hanju789.com
+Address: 104.26.3.42
+Name:	dns123.hanju789.com
+Address: 104.26.2.42
+Name:	dns123.hanju789.com
+Address: 172.67.69.65
 

@@ -11542,3 +11542,25 @@ Performing DNS lookup for kanju.icu...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cff270a] Update project files
+ 4 files changed, 63 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   570a3d7..cff270a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.6.80...
+Fetching domains for 104.17.34.87...
+Fetching domains for 104.18.12.211...
+succeed to fetch domains for 104.17.34.87 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.6.80 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.12.211 from https://dnsdblookup.com/
+域名列表为
+['www.sidrachain.com', '9xav.cc', 'www.6988tv.com', 'laowang.co', 'clun.top', 'web.cvvijk.com', '240b.com', 'freeyx.cloudflare88.eu.org', 'netflorist.co.za', 'kankan1.com', 'www.7567kk.com', 'troppotogo.it', 'op-proper.gov.ph', 'www.immigrer.com', 'tv.ci', 'klak.leakpro.org', 'www.baota.me', 'wap.kywall.co', 'theboxery.com', 'www.troppotogo.it', 'mylovelywear.com', 'www.cocanwelding.com', 'www.hirschs.co.za', 'forum.immigrer.com', 'www.ituba.cc', 'sidrachain.com', 'ipdb.rr.nu', 'fs22.com', 'influence.co', 'www.xinjuc.com', 'www.240b.com', 'tamilminutes.com', 'www.lyzdzy.com', 'www.fetish.com', 'www.kankan1.com', 'cloudflare.182682.xyz', 'app.peergrade.io', 'fetish.com', 'www.iios.club', 'acjp2.cloudflarest.link', 'www.512yyds.com', 'caomin6.com', 'www.17kyun.com', 'towersupplies.com', 'ulzdk.com', 's1.bnsubservdom.com', 'gptgod.online', 'wangkai88.com', 'b5h99.com', 'hirschs.co.za', 'api.gptgod.online', 'www.b5h99.com', 'www.niuerzs.com', 'www.93xscc.com', 'www.hm17.lol', 'handou.tv', 'ragalahari.com', 'www.ddwhm.com', 'dimensionedanza.com', 'www.wangkai88.com', 'www.fpignft.com', 'www.4kmh.cc', 'www.ficc.cc', 'data.immigrer.com', 'placestefoy.com', 'www.a456st.com', 'www.dimensionedanza.com', 'radar.com', 'www.radar.com', '7567kk.com', 'www.hmemedicalshop.com', 'www.85xs.cc', 'ledger.sidrachain.com', 'm.niuerzs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for data.immigrer.com...
+Performing DNS lookup for www.17kyun.com...
+Performing DNS lookup for api.gptgod.online...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
