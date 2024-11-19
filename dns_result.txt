@@ -2,21 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	tv9090.com
-Address: 208.98.40.72
+www.sixyin.com	canonical name = 356366.xyz.
+Name:	356366.xyz
+Address: 172.67.179.113
+Name:	356366.xyz
+Address: 104.21.64.84
+Name:	356366.xyz
+Address: 2606:4700:3032::ac43:b371
+Name:	356366.xyz
+Address: 2606:4700:3036::6815:4054
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-reseller.authorize.net	canonical name = reseller.authorize.net.cdn.cloudflare.net.
-Name:	reseller.authorize.net.cdn.cloudflare.net
-Address: 104.18.35.125
-Name:	reseller.authorize.net.cdn.cloudflare.net
-Address: 172.64.152.131
+Name:	bot.semrush.com
+Address: 34.120.45.191
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.706i.com: NXDOMAIN
+Non-authoritative answer:
+www.991kan.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
