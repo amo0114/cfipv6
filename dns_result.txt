@@ -2,26 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.gdriustb.com
-Address: 162.209.149.30
+Name:	co.eqhp.icu
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	news.culturacolectiva.com
-Address: 192.0.78.173
-Name:	news.culturacolectiva.com
-Address: 192.0.78.226
+Name:	www.lyaw199.com
+Address: 172.67.167.59
+Name:	www.lyaw199.com
+Address: 104.21.16.101
+Name:	www.lyaw199.com
+Address: 2606:4700:3037::6815:1065
+Name:	www.lyaw199.com
+Address: 2606:4700:3030::ac43:a73b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.laiduwx.com
-Address: 104.18.76.222
-Name:	www.laiduwx.com
-Address: 104.18.96.170
-Name:	www.laiduwx.com
-Address: 104.19.187.245
+Name:	www.shvrh.cn
+Address: 45.195.141.137
 
