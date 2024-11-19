@@ -11564,3 +11564,25 @@ Performing DNS lookup for api.gptgod.online...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cf05d57] Update project files
+ 4 files changed, 67 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   cff270a..cf05d57  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.9.97...
+Fetching domains for 104.18.31.172...
+Fetching domains for 104.18.30.134...
+succeed to fetch domains for 104.26.9.97 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.30.134 from https://site.ip138.com/
+succeed to fetch domains for 104.18.31.172 from https://site.ip138.com/
+域名列表为
+['182ku.com', 'ppc.fluke.com.cn', 'www.pandownload.net', 'www.luwangyangrong.com', 'theelectricbikeshop.co.uk', 'www.qdtsdp.com', 'www.yinshuaji1688.com', 'www.182ku.com', 'www.yjys05.com', '4huyy995.com', 'www.yyxxi.com', 'luobodm.com', 'headshop.mx', 'www.74fan.com', 'www.baiduwp.net', 'www.5dyy.com', 'www.35jiasu.xyz', 'acjp2.cloudflarest.link', 'www.rencaipinghu.com', 'www.dingdingdm.com', 'www.qdjljy.com', 'www.198ii.com', 'idamidm2.com', 'baxtc.66666654.xyz', 'www.odiario.net', 'sex5kk.com', 'www.headshop.mx', 'qdzhongbei.com', 'ged.globalencryption.org', '35jiasu.xyz', 'yh6.dtku41.xyz', 'www.e777v.com', 'www.nanhuyt.com', 'www.indigo-net.com', 'acus.cloudflarest.link', 'www.4huyy995.com', 'www.915ya.com', 'ddos.plus', 'www.sex5kk.com', 'yx.887141.xyz', 'www.xppower.com', 'langhs301.com', 'm3u814.shenyum3u8.top', 'www.luobodm.com', 'www.ppxdm.com', 'wz.weishao2023.dk.eu.org', '985dm.com', 'www.damidm.com', 'b7q33.com', 'check.langs.ink', 'www.74xz.com', 'fullcalendar.io', 'www.fluke.com.cn', 'ufa7777.com', 'www.91m.cc', 'www.d456p.com', 'bbs.usainfor.com', 's1.pandownload.net', '74fan.com', '173vv.com', 'www.connectwise.com', 'www.saimayang.com', 'www.xinjuc.com', 'www.linnstone.com.au', 'www.ddwhm.com', 'linnstone.com.au', 'www.6456ei.com', 'txydd.com', 'xppower.com', '1.namesilo123.top', 'www.theillest.pl', 'www.xghhw.com', 'wuhanzoo.com', 'www.985dm.com', 'theillest.pl', 'www.ynlmzyz.com', 'sdk-api.tanggame.com', '13.sanfen001.top', 'www.sixyin.com', 'jpadwinfs.114514782.xyz', 'www.qumiyun.com', 'www.tbe.com', 'www.295k.com', 'www.x1k44.com', 'www.usainfor.com', 'a789sx.com', 'index1.xxm3u8.top', 'achk.cloudflarest.link', 'spca.114514782.xyz', '915ya.com', 'www.a789sx.com', '6456ei.com', 'www.6988tv.com', 'thermos.co.uk', '69bf.airsuspension.cn', '5dyy.com', '198ii.com', 'www.thaicasinocenter.com', '741dm.com', 'puzzle.com.sa', 'd456p.com', 'zm6.m3u8list.top', 'elshawwa.com', 'www.thermos.co.uk', 'ppxdm.com', 'miwu.org', 'dd.pandownload.net', 't2.shenyum3u8.top', 'www.txydd.com', 'www.74us.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for acus.cloudflarest.link...
+Performing DNS lookup for b7q33.com...
+Performing DNS lookup for www.rencaipinghu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

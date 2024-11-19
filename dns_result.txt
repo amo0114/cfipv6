@@ -2,32 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	acus.cloudflarest.link
-Address: 104.247.82.50
+Name:	www.gdriustb.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	b7q33.com
-Address: 172.67.144.208
-Name:	b7q33.com
-Address: 104.21.71.122
-Name:	b7q33.com
-Address: 2606:4700:3032::6815:477a
-Name:	b7q33.com
-Address: 2606:4700:3032::ac43:90d0
+Name:	news.culturacolectiva.com
+Address: 192.0.78.173
+Name:	news.culturacolectiva.com
+Address: 192.0.78.226
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.rencaipinghu.com	canonical name = rcdns.hnyjg.top.
-rcdns.hnyjg.top	canonical name = dns123.hanju789.com.
-Name:	dns123.hanju789.com
-Address: 104.26.3.42
-Name:	dns123.hanju789.com
-Address: 104.26.2.42
-Name:	dns123.hanju789.com
-Address: 172.67.69.65
+Name:	www.laiduwx.com
+Address: 104.18.76.222
+Name:	www.laiduwx.com
+Address: 104.18.96.170
+Name:	www.laiduwx.com
+Address: 104.19.187.245
 
