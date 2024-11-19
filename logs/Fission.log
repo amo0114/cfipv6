@@ -11498,3 +11498,25 @@ Performing DNS lookup for www.thefappeningblog.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 26adba3] Update project files
+ 4 files changed, 99 insertions(+), 84 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   d943ba6..26adba3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.96.176...
+Fetching domains for 104.17.19.208...
+Fetching domains for 104.17.216.242...
+succeed to fetch domains for 104.17.216.242 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.96.176 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.19.208 from https://site.ip138.com/
+域名列表为
+['www.ayzjj.cn', 'www.yh9pk.com', 'www.kartra.com', 'www.652tv.com', 'www.opos.club', 'www.cbcv.cc', 'www.kanju8.com', 'www.115fhd.com', 'www.52ys.cc', 'www.xsj.com', 'nlsdwsz.66666654.xyz', 'personal.techforing.com', 'www.cocanwelding.com', 'www.116.ag', 'www.lyzdzy.com', 'www.rikkemoos.dk', 'qp66.com', 'www.m6y6.com', 'www.4j4j.cn', 'www.qp666.com', 'www.tatiuribe.com', 'psy.net.cn', '8810868.com', 'www.wwdd.org.cn', 'www.wr2022.com', '11607437.dns.bll.myorderbox.com', 'ag.hg2096.com', 'www.crompc.com', 'www.jjtyss.com', 'www.606977.com', 'www.qf527.com', 'www.993my.com', 'www.xinjuc.com', 'www.whpaiger.com', '553923.dns.bll.myorderbox.com', 'www.888dyy.cc', 'www.jg666.top', '11841855.dns.bll.myorderbox.com', 'www.cx888my.com', 'm.niuerzs.com', '923055.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.rikkemoos.dk...
+Performing DNS lookup for 11607437.dns.bll.myorderbox.com...
+Performing DNS lookup for www.tatiuribe.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

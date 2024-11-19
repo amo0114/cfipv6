@@ -2,64 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.rikkemoos.dk	canonical name = rikkemoos.kartra.com.
-Name:	rikkemoos.kartra.com
-Address: 104.17.216.242
-Name:	rikkemoos.kartra.com
-Address: 104.17.218.242
-Name:	rikkemoos.kartra.com
-Address: 104.17.219.242
-Name:	rikkemoos.kartra.com
-Address: 104.17.217.242
-Name:	rikkemoos.kartra.com
-Address: 104.17.215.242
-Name:	rikkemoos.kartra.com
-Address: 2606:4700::6811:d8f2
-Name:	rikkemoos.kartra.com
-Address: 2606:4700::6811:dbf2
-Name:	rikkemoos.kartra.com
-Address: 2606:4700::6811:daf2
-Name:	rikkemoos.kartra.com
-Address: 2606:4700::6811:d7f2
-Name:	rikkemoos.kartra.com
-Address: 2606:4700::6811:d9f2
+www.huaidan1.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.1.62
+Name:	ips.993888.xyz
+Address: 104.18.139.32
+Name:	ips.993888.xyz
+Address: 104.16.1.215
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	11607437.dns.bll.myorderbox.com
-Address: 104.17.45.17
-Name:	11607437.dns.bll.myorderbox.com
-Address: 104.17.44.17
-Name:	11607437.dns.bll.myorderbox.com
-Address: 2606:4700::6811:2c11
-Name:	11607437.dns.bll.myorderbox.com
-Address: 2606:4700::6811:2d11
+Name:	www.whjinwu.com
+Address: 162.209.175.124
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tatiuribe.com	canonical name = tatiuribem.kartra.com.
-Name:	tatiuribem.kartra.com
-Address: 104.17.216.242
-Name:	tatiuribem.kartra.com
-Address: 104.17.218.242
-Name:	tatiuribem.kartra.com
-Address: 104.17.217.242
-Name:	tatiuribem.kartra.com
-Address: 104.17.215.242
-Name:	tatiuribem.kartra.com
-Address: 104.17.219.242
-Name:	tatiuribem.kartra.com
-Address: 2606:4700::6811:dbf2
-Name:	tatiuribem.kartra.com
-Address: 2606:4700::6811:d7f2
-Name:	tatiuribem.kartra.com
-Address: 2606:4700::6811:d8f2
-Name:	tatiuribem.kartra.com
-Address: 2606:4700::6811:d9f2
-Name:	tatiuribem.kartra.com
-Address: 2606:4700::6811:daf2
+*** Can't find kanju.icu: No answer
 
