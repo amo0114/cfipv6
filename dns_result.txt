@@ -2,34 +2,29 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.sixyin.com	canonical name = 356366.xyz.
-Name:	356366.xyz
-Address: 172.67.179.113
-Name:	356366.xyz
-Address: 104.21.64.84
-Name:	356366.xyz
-Address: 2606:4700:3032::ac43:b371
-Name:	356366.xyz
-Address: 2606:4700:3036::6815:4054
+Name:	pharmaintelligence.informa.com
+Address: 172.64.151.237
+Name:	pharmaintelligence.informa.com
+Address: 104.18.36.19
+Name:	pharmaintelligence.informa.com
+Address: 2606:4700:4400::ac40:97ed
+Name:	pharmaintelligence.informa.com
+Address: 2606:4700:4400::6812:2413
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	bot.semrush.com
-Address: 34.120.45.191
+www.doupobook.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.69.56
+Name:	ips.993888.xyz
+Address: 104.16.208.110
+Name:	ips.993888.xyz
+Address: 104.16.154.245
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.991kan.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
+** server can't find www.ppxjm.cn: NXDOMAIN
 
