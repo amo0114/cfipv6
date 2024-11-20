@@ -11826,3 +11826,25 @@ Performing DNS lookup for www.kunzedu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 121ab7c] Update project files
+ 4 files changed, 60 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   a49c37c..121ab7c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.154.237...
+Fetching domains for 104.24.201.196...
+Fetching domains for 104.22.49.219...
+succeed to fetch domains for 104.24.201.196 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.49.219 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.154.237 from https://ipchaxun.com/
+域名列表为
+['whjinwu.com', 'www.cbcv.cc', 'hmoe.top', 'm90s.com', 'www.wn01.cc', 'nb6080.com', 'js1983.com', 'www.tpyyc.com', 'cfip.xxxxxxxx.tk', 'www.migudy.com', 'nangua55.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.migudy.com...
+Performing DNS lookup for hmoe.top...
+Performing DNS lookup for nangua55.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
