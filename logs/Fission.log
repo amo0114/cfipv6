@@ -11694,3 +11694,25 @@ Performing DNS lookup for www.991kan.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7356892] Update project files
+ 4 files changed, 63 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   bcb8b5c..7356892  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.56.168...
+Fetching domains for 104.18.92.39...
+Fetching domains for 104.17.210.85...
+succeed to fetch domains for 104.17.56.168 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.92.39 from https://site.ip138.com/
+succeed to fetch domains for 104.17.210.85 from https://ipchaxun.com/
+域名列表为
+['www.ppxjm.cn', 'maritimeintelligence.informa.com', 'www.lyzdzy.com', 'omdia.tech.informa.com', 'lloydslist.maritimeintelligence.informa.com', 'pharmaintelligence.informa.com', 'generics.pharmaintelligence.informa.com', 'appexnw.com', 'hbw.pharmaintelligence.informa.com', 'www.iios.me', 'www.iios.club', 'insuranceday.maritimeintelligence.informa.com', 'ip.rzqwq1.top', 'www.doupobook.cc', 'agribusinessintelligence.informa.com', 'iios.club', 'medtech.pharmaintelligence.informa.com', 'invivo.pharmaintelligence.informa.com', 'pink.pharmaintelligence.informa.com', 'iios.fun', 'www.hnyhy.com', 'www.whpaiger.com', 'cfip.xxxxxxxx.tk', 'ovum.informa.com', 'scrip.pharmaintelligence.informa.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for pharmaintelligence.informa.com...
+Performing DNS lookup for www.doupobook.cc...
+Performing DNS lookup for www.ppxjm.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

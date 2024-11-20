@@ -2,29 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	pharmaintelligence.informa.com
-Address: 172.64.151.237
-Name:	pharmaintelligence.informa.com
-Address: 104.18.36.19
-Name:	pharmaintelligence.informa.com
-Address: 2606:4700:4400::ac40:97ed
-Name:	pharmaintelligence.informa.com
-Address: 2606:4700:4400::6812:2413
+Name:	www.btbdys.com
+Address: 74.63.241.28
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.doupobook.cc	canonical name = ips.993888.xyz.
+www.99wxw.cc	canonical name = ips.993888.xyz.
 Name:	ips.993888.xyz
-Address: 104.18.69.56
+Address: 104.18.138.103
 Name:	ips.993888.xyz
-Address: 104.16.208.110
+Address: 104.18.181.81
 Name:	ips.993888.xyz
-Address: 104.16.154.245
+Address: 104.17.216.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.ppxjm.cn: NXDOMAIN
+Non-authoritative answer:
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
