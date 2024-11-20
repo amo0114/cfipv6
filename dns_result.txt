@@ -2,28 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+Name:	www.migudy.com
+Address: 92.118.232.29
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.40.20
+hmoe.top	canonical name = back.wl9.de.
+Name:	back.wl9.de
+Address: 104.21.85.174
+Name:	back.wl9.de
+Address: 172.67.208.137
+Name:	back.wl9.de
+Address: 2606:4700:3031::6815:55ae
+Name:	back.wl9.de
+Address: 2606:4700:3033::ac43:d089
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kunzedu.com
-Address: 103.88.187.196
+Name:	nangua55.com
+Address: 185.107.56.53
 

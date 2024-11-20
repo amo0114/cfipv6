@@ -11804,3 +11804,25 @@ Performing DNS lookup for goobjoog.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a49c37c] Update project files
+ 4 files changed, 61 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   f5f61ee..a49c37c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.235.205...
+Fetching domains for 104.17.244.179...
+Fetching domains for 104.17.42.22...
+succeed to fetch domains for 104.17.244.179 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.235.205 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.42.22 from https://dnsdblookup.com/
+域名列表为
+['yyxxi.com', 'www.cfhuagong.com', 'www.456gg.com', 'www.iios.club', 'xiaoji.host', 'www.fxcmapac.com', 'www.we35.com', 'iios.club', 'www.zzztch.com', 'uboy.run', 'm.niuerzs.com', 'ratesjson.fxcmapac.com', 'www.lyzdzy.com', 'www.yyxxi.com', 'www.kunzedu.com', 'xinjuc.com', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for www.lyzdzy.com...
+Performing DNS lookup for www.kunzedu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
