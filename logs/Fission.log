@@ -11782,3 +11782,25 @@ Performing DNS lookup for forum.cfx.re...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f5f61ee] Update project files
+ 4 files changed, 60 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   342209f..f5f61ee  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.32.83...
+Fetching domains for 162.159.196.34...
+Fetching domains for 104.21.27.114...
+succeed to fetch domains for 104.16.32.83 from https://ipchaxun.com/
+succeed to fetch domains for 162.159.196.34 from https://site.ip138.com/
+succeed to fetch domains for 104.21.27.114 from https://site.ip138.com/
+域名列表为
+['www.k64.xyz', 'ct8.us.kg', 'wap.qrqfpt.top', '9acsz7.tw', 'www.d53x.com', 'www.xmkaisun.com', 'www.calmlab.com', 'm.fapality.com', 'ittms.com', 'www.hzshylj.com', 'm.d53x.com', 'github.tiez.top', 'rn.artint.link', 'asuzs.com', 'www.cfhuagong.com', 'm.qrqfpt.top', 'm.x23us.org', 'hdfans.org', 'jhtfhuyle.top', 'en.91xj.link', 'www.szhyxsy.cn', 'd53x.com', 'bingjiling.top', 'rspo.org', 'r.fapality.com', 'www.52ys.cc', 'm.bingjiling.top', 'hhy5a.com', 'hi7saas.com', 'www.asuzs.com', 'fapality.com', 'h931.cc', '9527ct.com', 'qrqfpt.top', '3g.touch2ofsin.top', 'www.jinmang.net', 'm.touch2ofsin.top', 'pretk.hi7saas.com', 'rus.fapality.com', 'www.wxmercurynine.cn', 'thetigernews.com', 'k64.xyz', 'www.conmet.com', 'www.muwu2.com', 'x5wh7h7h.taoilboth.buzz', 'www.gvounwa.cn', 'www.piankutv.cc', 'goobjoog.com', 'www.nitianxieshen.com', 'www.bfb3.com', 'www.tpyyc.com', '5997268.com', 'www.nba01.com', 'm.jhtfhuyle.top', 'kn101.cn', 'aa678678.com', 'cd7c6.com', 'dingding23.org', 'cfhuagong.com', 'www.cd7c6.com', 'www.tckyedu.com', 'involve.asia', 'www.aa678678.com', 'v2ray.tiez.top', 'xmkaisun.com', '3g.jhtfhuyle.top', 'tj.d8fqu7ab.xyz', 'www.dygirls.com', 'www.ayzjj.cn', 'conmet.com', 'seghtdaru.site', 'sz-charge.com', 'www.jhtfhuyle.top', 'wap.jhtfhuyle.top', 'tiez.top', '2e-x8jk.top', '3g.qrqfpt.top', 'www.ysjingmijixie.com', 'rt.fapality.com', 'saranghoki2.com', 'ototeknikveri.com', 'jpnewacs.114514782.xyz', 'ysjingmijixie.com', 'sou.net', 'www.fapality.com', 'adachoi.org', 'xvideosbrasileiro.net', '91xj.link', 'tckyedu.com', 'www.qrqfpt.top', 'touch2ofsin.top', 'google.tiez.top', 'www.kn101.cn', 'ddhpt.top', 'wap.touch2ofsin.top', 'www.touch2ofsin.top', 'www.jianing-china.com', 'fishclub88.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3g.touch2ofsin.top...
+Performing DNS lookup for xvideosbrasileiro.net...
+Performing DNS lookup for goobjoog.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

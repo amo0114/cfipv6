@@ -1,31 +1,29 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 3g.touch2ofsin.top: NXDOMAIN
+Non-authoritative answer:
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	xvideosbrasileiro.net
-Address: 104.21.27.114
-Name:	xvideosbrasileiro.net
-Address: 172.67.169.37
-Name:	xvideosbrasileiro.net
-Address: 2606:4700:3030::6815:1b72
-Name:	xvideosbrasileiro.net
-Address: 2606:4700:3037::ac43:a925
+Name:	www.lyzdzy.com
+Address: 208.98.40.20
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	goobjoog.com
-Address: 172.67.169.37
-Name:	goobjoog.com
-Address: 104.21.27.114
-Name:	goobjoog.com
-Address: 2606:4700:3030::6815:1b72
-Name:	goobjoog.com
-Address: 2606:4700:3037::ac43:a925
+Name:	www.kunzedu.com
+Address: 103.88.187.196
 
