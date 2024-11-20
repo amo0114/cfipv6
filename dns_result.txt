@@ -2,30 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	perspective.tandfonline.com
-Address: 104.18.39.123
-Name:	perspective.tandfonline.com
-Address: 172.64.148.133
-Name:	perspective.tandfonline.com
-Address: 2606:4700:4400::6812:277b
-Name:	perspective.tandfonline.com
-Address: 2606:4700:4400::ac40:9485
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.didamh.com	canonical name = sdydns.hai888.top.
-sdydns.hai888.top	canonical name = dns123.xin6.top.
-Name:	dns123.xin6.top
-Address: 104.26.13.83
-Name:	dns123.xin6.top
-Address: 172.67.75.125
-Name:	dns123.xin6.top
-Address: 104.26.12.83
+Name:	beylze.cn
+Address: 107.148.162.84
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.336t.net: NXDOMAIN
+Non-authoritative answer:
+Name:	forum.cfx.re
+Address: 172.64.153.85
+Name:	forum.cfx.re
+Address: 104.18.34.171
+Name:	forum.cfx.re
+Address: 2606:4700:4400::ac40:9955
+Name:	forum.cfx.re
+Address: 2606:4700:4400::6812:22ab
 

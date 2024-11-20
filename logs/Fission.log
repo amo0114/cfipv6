@@ -11738,3 +11738,25 @@ Performing DNS lookup for www.cocanwelding.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a1d2833] Update project files
+ 4 files changed, 64 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   3ac5e84..a1d2833  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.18.218...
+Fetching domains for 190.93.246.188...
+Fetching domains for 104.21.198.248...
+succeed to fetch domains for 104.21.198.248 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.18.218 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.246.188 from https://ipchaxun.com/
+域名列表为
+['qdtsdp.com', '2234la.com', 'www.ppxdm.com', 'vpn.tandfonline.com', 'www.336t.net', 'www.wei333.com', 'qdjljy.com', 'qdbangsen.com', 'qdzhongbei.com', 'ppxdm.com', 'www.9388111.com', 'www.qdbangsen.com', 'didamh.com', 'zl.aitrjc.xyz', 'www.uu93.com', 'www.yhsqxy.com', 'm.luwangyangrong.com', 'www.577rr.com', '74xz.com', '577rr.com', 'www.dingdingdm.com', 'oeh.tandfonline.com', 'ag.hg2096.com', 'txydd.com', 'flooringsuperstore.com', 'www.2234la.com', 'www.web120.org', 'www.50zw.co', 'tandfonline.com', '74us.com', 'www.sxyzxh.com', 'couponasion.com', '606977.com', 'tandf.co.uk', 'www.nanhuyt.com', 'www.tandf.co.uk', 'uu93.com', 'www.99wxw.cc', 'www.cn46.com', 'www.741dm.com', '741dm.com', 'www.cze9.com', 'qiangkouzhao.com', 'www.honda.com.hk', 'www.pwcai.com', 'www.zhrwx.com', 'www.11txt.com', 'www.qdjljy.com', 'www.omd2008.com', 'www.74xz.com', 'www.74us.com', 'cze9.com', 'dingdingdm.com', '92mili.com', 'www.a456a.com', 'amstat.tandfonline.com', 'zhrwx.com', 'www.txydd.com', 'proxy.m3u8list.top', '781890.com', 'www.didamh.com', 'www.4pcc.com', 'www.couponasion.com', 'www.qdtsdp.com', 'www.xinpian8.com', 'www.t9gm.com', 'perspective.tandfonline.com', 'www.qdzhongbei.com', 'www.170so.com', '336t.net', 'www.74fan.com', 'prismacolor.com', 'www.9zgg.com', 'www.4gdiy.com', 'www.womyt.com', 'www.tap.io', 'www.tandfonline.com', 'www.onehourtees.com', 'ans.tandfonline.com', 'www.74ms.com', '74fan.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for perspective.tandfonline.com...
+Performing DNS lookup for www.didamh.com...
+Performing DNS lookup for www.336t.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
