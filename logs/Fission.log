@@ -11848,3 +11848,25 @@ Performing DNS lookup for nangua55.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 94ec451] Update project files
+ 4 files changed, 62 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   121ab7c..94ec451  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.32.102...
+Fetching domains for 104.21.42.177...
+Fetching domains for 104.21.87.27...
+succeed to fetch domains for 104.17.32.102 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.87.27 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.42.177 from https://dnsdblookup.com/
+域名列表为
+['wap.dclive.top', '2361ccc.top', 'fengidc.cn', '6223265.vip', '444kz.com', 'www.dengxiangban.top', 'vxozstop.top', 'www.luwangyangrong.com', 'www.deqingzhaopin.com', 'www.4343ckck.com', 'xxx.q5vry.top', '3g.vxozstop.top', '3g.dclive.top', 'www.tasjwl.com', 'www.wqwqw.top', 'www.520fk.ga', 'h3rqz2.vqgrifejb.cc', 'ios32.com', 'www.gg1gg.com', 'lokarmotorsports.com', '4343ckck.com', 'dengxiangban.top', '3g.ktfogl.top', 'www.jjtyss.com', 'www.zzfdjx.com', 'wap.jbgor10.top', 'www.ktfogl.top', 'www.czyiyao.cn', 'xysp180.buzz', 'hentaihaven.red', '571322.com', '3wj6.q5vry.top', '1479a.com', 'www.wjczs.com', 'v99n.com', '69xx.q5vry.top', 'md1208.xyz', '18cvb.com', 'yun.fengidc.cn', 'www.xingchen886.com', 'www.dclive.top', 'vicatamarans.com', 'ccv6.com', 'm.vxozstop.top', 'm.wqwqw.top', 'www.qiwuxs.com', '91xx.q5vry.top', 'www.q5vry.top', 'redlip.com.cn', 'm.dclive.top', 'tpyyc.com', 'xbxb.q5vry.top', 'deqingzhaopin.com', 'www.sunlightpic.com', 'm.qiwuxs.com', 'wqwqw.top', 'mocag.com', 'www.lyzdzy.com', 'www.571322.com', 'm.gg1gg.com', 'www.dcfdcw.com', 'betvictor66.com', 'wap.sucaizhai.top', 'av91.q5vry.top', '416zh.com', 'ihd1.q5vry.top', 'qiwuxs.com', 'www.x4h77.com', 'h3shz2.vqgrifejb.cc', '8888.q5vry.top', 'bbbgai.top', 'xy.xysp180.buzz', 'x4h77.com', 'www8035.com', 'theporn205.cc', 'www.93xscc.com', '52mm.q5vry.top', 'www.weisenfood.com', 'www.416zh.com', 'gagadaily.com', 'www.vxozstop.top', 'camacp.fun', 'wfla.me', 'pay.ronghepay.me', 'www.vicatamarans.com', 'hypbz4.qhcxjlz.tips', 'md1168.xyz', 'www.v99n.com', 'www.sucaizhai.top', 'rosario3.com', 'm.sucaizhai.top', 'cdn-us-east-1.azulitostreams.online', 'media.wfla.me', 'm.niuerzs.com', 'www.hentaihaven.red', 'exbitron.com', 'dcfdcw.com', 'clhefc.com', 'dewudd88.com', 'www.betvictor66.com', 'kpydb.com', 'www.skid.asia', 'www.09xs.com', 'www.98cxm.com', 'sentraobral.com', 'd18h.q5vry.top', 'www.sdlookchem.com', 'www.qsjskj.com', '98cxm.com', 'huijuse.com', 'www.hexhg.com', '3g.sucaizhai.top', 'www.ygdy8.cc', 'huanhuipay.com', 'sucaizhai.top', 'www.jbgor10.top', 'starshine.top', 'www.zzztch.com', 'wap.dengxiangban.top', '3g.jbgor10.top', 'uqzone.com', 'www.redlip.com.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for hentaihaven.red...
+Performing DNS lookup for m.niuerzs.com...
+Performing DNS lookup for 3g.ktfogl.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

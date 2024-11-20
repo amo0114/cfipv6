@@ -1,32 +1,17 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	hentaihaven.red
-Address: 172.67.168.174
-Name:	hentaihaven.red
-Address: 104.21.87.27
-Name:	hentaihaven.red
-Address: 2606:4700:3037::6815:571b
-Name:	hentaihaven.red
-Address: 2606:4700:3031::ac43:a8ae
+** server can't find www.tvlfas.com: NXDOMAIN
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 2001:4860:4860::8888, trying next server
+Server:		8.8.4.4
+Address:	8.8.4.4#53
+
+** server can't find yjyfdc.com: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	3g.ktfogl.top
-Address: 104.21.42.177
-Name:	3g.ktfogl.top
-Address: 172.67.207.14
-Name:	3g.ktfogl.top
-Address: 2606:4700:3035::ac43:cf0e
-Name:	3g.ktfogl.top
-Address: 2606:4700:3037::6815:2ab1
+** server can't find hongkong.qing1999.eu.org: NXDOMAIN
 
