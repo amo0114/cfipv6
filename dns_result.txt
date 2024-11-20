@@ -1,17 +1,39 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.tvlfas.com: NXDOMAIN
-
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 2001:4860:4860::8888, trying next server
-Server:		8.8.4.4
-Address:	8.8.4.4#53
-
-** server can't find yjyfdc.com: SERVFAIL
+** server can't find www.993my.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find hongkong.qing1999.eu.org: NXDOMAIN
+Non-authoritative answer:
+Name:	www.pk299.com
+Address: 160.121.16.110
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.24.58.246
+Name:	dcs.jqddos.xyz
+Address: 104.19.160.122
+Name:	dcs.jqddos.xyz
+Address: 104.24.31.152
+Name:	dcs.jqddos.xyz
+Address: 104.25.27.79
+Name:	dcs.jqddos.xyz
+Address: 104.18.167.30
+Name:	dcs.jqddos.xyz
+Address: 104.16.83.150
+Name:	dcs.jqddos.xyz
+Address: 104.19.186.95
+Name:	dcs.jqddos.xyz
+Address: 104.19.179.246
+Name:	dcs.jqddos.xyz
+Address: 104.19.229.179
+Name:	dcs.jqddos.xyz
+Address: 104.17.222.90
 
