@@ -11716,3 +11716,25 @@ Performing DNS lookup for www.ppxjm.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3ac5e84] Update project files
+ 4 files changed, 59 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   7356892..3ac5e84  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.174.48...
+Fetching domains for 104.17.191.186...
+Fetching domains for 104.17.51.143...
+succeed to fetch domains for 104.17.174.48 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.51.143 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.191.186 from https://dnsdblookup.com/
+域名列表为
+['www.sixyin.com', 'www.btbdys.com', 'ipdb.rr.nu', 'www.pk299.com', 'www.99wxw.cc', 'www.6xr.com', 'www.77zw.cc', '66se0.com', 'www.qqxsw.co', 'xigua5.net', '1.hehui7.eu.org', 'www.lyzdzy.com', 'www.456gg.com', 'www.wubei520.com', '115fhd.com', 'www.niuerzs.com', 'www.cocanwelding.com', 'dsxys.com', 'www.yh9pk.com', 'v2.whj520.cn', 'www.5522tl.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.btbdys.com...
+Performing DNS lookup for www.99wxw.cc...
+Performing DNS lookup for www.cocanwelding.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,25 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.btbdys.com
-Address: 74.63.241.28
+Name:	perspective.tandfonline.com
+Address: 104.18.39.123
+Name:	perspective.tandfonline.com
+Address: 172.64.148.133
+Name:	perspective.tandfonline.com
+Address: 2606:4700:4400::6812:277b
+Name:	perspective.tandfonline.com
+Address: 2606:4700:4400::ac40:9485
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.138.103
-Name:	ips.993888.xyz
-Address: 104.18.181.81
-Name:	ips.993888.xyz
-Address: 104.17.216.166
+www.didamh.com	canonical name = sdydns.hai888.top.
+sdydns.hai888.top	canonical name = dns123.xin6.top.
+Name:	dns123.xin6.top
+Address: 104.26.13.83
+Name:	dns123.xin6.top
+Address: 172.67.75.125
+Name:	dns123.xin6.top
+Address: 104.26.12.83
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+** server can't find www.336t.net: NXDOMAIN
 
