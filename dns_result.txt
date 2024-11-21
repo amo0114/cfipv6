@@ -2,21 +2,52 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-syxcdz.com	canonical name = 2abry7vk.n.jackcdn.com.
-Name:	2abry7vk.n.jackcdn.com
-Address: 194.147.101.93
+m.liyuxiangxs.com	canonical name = ipss.333600.xyz.
+ipss.333600.xyz	canonical name = fib.322555.xyz.
+Name:	fib.322555.xyz
+Address: 104.21.33.6
+Name:	fib.322555.xyz
+Address: 172.67.188.106
+Name:	fib.322555.xyz
+Address: 2606:4700:3034::6815:2106
+Name:	fib.322555.xyz
+Address: 2606:4700:3031::ac43:bc6a
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.pm25p.com
-Address: 143.92.63.139
+Name:	eloview.com
+Address: 104.16.160.104
+Name:	eloview.com
+Address: 104.17.47.253
+Name:	eloview.com
+Address: 104.17.63.253
+Name:	eloview.com
+Address: 104.17.224.103
+Name:	eloview.com
+Address: 104.16.240.104
+Name:	eloview.com
+Address: 2606:4700::6811:e067
+Name:	eloview.com
+Address: 2606:4700::6811:3ffd
+Name:	eloview.com
+Address: 2606:4700::6810:a068
+Name:	eloview.com
+Address: 2606:4700::6810:f068
+Name:	eloview.com
+Address: 2606:4700::6811:2ffd
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 162.209.149.30
+Name:	www.80dvd.cc
+Address: 172.67.187.136
+Name:	www.80dvd.cc
+Address: 104.21.7.65
+Name:	www.80dvd.cc
+Address: 2606:4700:3032::ac43:bb88
+Name:	www.80dvd.cc
+Address: 2606:4700:3034::6815:741
 

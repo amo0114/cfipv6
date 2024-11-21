@@ -12046,3 +12046,24 @@ Performing DNS lookup for imtokensz.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9500286] Update project files
+ 4 files changed, 41 insertions(+), 9 deletions(-)
+To github.com:amo0114/cfipv6.git
+   10ff287..9500286  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.255.65...
+Fetching domains for 104.25.81.203...
+Fetching domains for 104.17.85.87...
+succeed to fetch domains for 104.17.85.87 from https://dnsdblookup.com/
+succeed to fetch domains for 104.25.81.203 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.255.65 from https://site.ip138.com/
+域名列表为
+['d456.cc', 'www.zzztch.com', 'wap.luwangyangrong.com', 'syxcdz.com', '44483659.com', 'www.pm25p.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for syxcdz.com...
+Performing DNS lookup for www.pm25p.com...
+Performing DNS lookup for www.zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
