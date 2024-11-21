@@ -11980,3 +11980,25 @@ Performing DNS lookup for wang355.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f0cc75c] Update project files
+ 4 files changed, 64 insertions(+), 58 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   dda7842..f0cc75c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.6.208...
+Fetching domains for 104.18.78.21...
+Fetching domains for 104.18.37.252...
+succeed to fetch domains for 104.18.78.21 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.37.252 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.6.208 from https://ipchaxun.com/
+域名列表为
+['xmxingmu.com', 'kepmas.hu', 'aixi6w.me', 'm.taijuz.cc', 'www.q5082r.com', 'nanhuyt.com', 'www.juicyjavs.com', '123.cloudns.org', 'ppxdm.com', 'www.aixi6w.me', 'mmrk3.icu', 'www.mmrk3.icu', 'client.falixnodes.net', 'manage.gp797.com', 'www.schoolnews.co.nz', 'pulsant.com', 'k40cheat.xyz', 'm.taijuwang.com', 'iios.club', 'www.tjtv.cc', 'juicyjavs.com', 'greatbritain.com', 'taijuwang.com', 'i0.library.edu.eu.org', 'txydd.com', 'www.74us.com', 'www.elitehost.co.za', 'z9qee.com', 'themiddlemarket.com', 'www.taijuz.com', 'didamh.com', 'www.thetrain.com', 'qdrxh.com', 'www.qdtsdp.com', 'www.taijuz.cc', 'qdzhongbei.com', 'www.vr74sm.cn', 'www.dingdingdm.com', 'www.naimilu.com', 'sexalarab.com', 'www.sesinagirl.com', 'www.tvccc.org', 'taijuaa.com', 'www8.mercadobarato.me', 'dingdingdm.com', 'www.txydd.com', 'duomarkets.com', 'ixkw.tv', 'www.batimes.com.ar', 'www.vod56.com', 'www.4huh78.com', 'www.gaycn.top', 'www.xixidm.com', 'www.picneco.ru', 'g0.library.edu.eu.org', 'tjtv.cc', 'www.taijuaa.com', 'apollopad.com', 'haanga.hk', 'medtube.net', 'gp797.com', 'wap.luwangyangrong.com', 'www.nanhuyt.com', 'www.taijuwang.com', 'm.tjtv.cc', 'ify3.xyz', 'lapa.ninja', 'www.b7yy.cc', 'www.n797a.com', 'adamenfroy.com', 'www.91m.cc', 'nlsdwsz.66666654.xyz', 'elitehost.co.za', 'ixkw.cc', 'www.lapa.ninja', 'synchrony.io', 'asustore.it', 'primesourceforum.com', 'www.qdzhongbei.com', '7.namesilo123.top', 'picneco.ru', 'www.cn46.com', '7xi.tv', 'www.k40cheat.xyz', 'falixnodes.net', 'www.74fan.com', 'travall.co.uk', 'www.islandforklifts.com', 'www.whpaiger.com', 'n797a.com', 'www.phev.de', 'bookmaker-ratings.am', 'pornwildhd.com', 'www.chegginfo.com', 'm.ijuhub.com', 'www.ikantv.net', 'www.36dm.com', 'www.kickz.com', '444niu.com', 'm.taijuaa.com', 'm.niuerzs.com', 'www.jnytt.se', '13.sanfen001.top', 'iqiu666.net', 'javideo.net', 'www.nangua5.com', 'www.baota.me', 'www.ify3.xyz', 'www.cnhackteam.org', 'www.pulsant.com', 'qdtsdp.com', 'www.iios.club', 'www.ppxdm.com', 'm.taijuz.com', 'receitatodahora.com.br', 'bjzjrz.com', '3.gogolemon.top', 'www.javideo.net', 'www.7xi.tv', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.74us.com...
+Performing DNS lookup for iios.club...
+Performing DNS lookup for m.taijuz.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -1,31 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.74us.com	canonical name = qdzbdns.hai888.top.
-qdzbdns.hai888.top	canonical name = dns123.xin6.top.
-Name:	dns123.xin6.top
-Address: 104.26.13.83
-Name:	dns123.xin6.top
-Address: 172.67.75.125
-Name:	dns123.xin6.top
-Address: 104.26.12.83
+** server can't find smensw.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	iios.club
-Address: 172.67.201.86
-Name:	iios.club
-Address: 104.21.52.166
-Name:	iios.club
-Address: 2606:4700:3036::ac43:c956
-Name:	iios.club
-Address: 2606:4700:3032::6815:34a6
+Name:	0xpa5.toy868.com
+Address: 208.98.40.17
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find m.taijuz.cc: NXDOMAIN
+Non-authoritative answer:
+Name:	domaiorcuritiba.com.br
+Address: 172.67.199.90
+Name:	domaiorcuritiba.com.br
+Address: 104.21.21.160
+Name:	domaiorcuritiba.com.br
+Address: 2606:4700:3036::ac43:c75a
+Name:	domaiorcuritiba.com.br
+Address: 2606:4700:3031::6815:15a0
 
