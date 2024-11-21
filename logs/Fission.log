@@ -12002,3 +12002,25 @@ Performing DNS lookup for m.taijuz.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7707dc2] Update project files
+ 4 files changed, 55 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   f0cc75c..7707dc2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.75.160...
+Fetching domains for 104.21.21.160...
+Fetching domains for 104.21.81.90...
+succeed to fetch domains for 104.21.81.90 from https://site.ip138.com/
+succeed to fetch domains for 104.21.21.160 from https://site.ip138.com/
+succeed to fetch domains for 104.18.75.160 from https://site.ip138.com/
+域名列表为
+['www.szmzsm.com', 'chinacooking.info', 'fan-shopping.com', 'www.yh9pk.com', 'www.xzqaald.cn', 'cls004.buzz', 'www.1a1v.com', 'imtokes.fun', 'download.bank666666.ga', 'wwwww.net78.top', 'smty8.com', 'wwe11k.com', 'gsfracing.com', 'www.g7664.com', '016meiqia1.ys4qo.com', 'cheatevolution.com', 'suying600.com', 'myyjh.com', 'shanyi.space', 'chuhua8.xyz', 'a456xh.com', 'panrv.cn', 'www.a456xh.com', 'mp3quack.app', 'www.4hue10.com', '0908.tvtx.com.cn', '3g.skagisy.top', 'h835.cc', 'www.manualsheaven.net', 'www.uhspnz.cn', 'helpwcn.com', 'm.caasx88.top', 'www.ppp45.com', '51souju.com', 'pornbolt.com', 'caasx88.top', 'inswan.fun', 'mc-tr.com', 'win66.fun', 'www.uh3469cc.top', 'esudog.cf', 'swwayr.com', 'www.helpwcn.com', 'becomealphagame.com', 'nomiyun.com', 'www.whwanet.com', 'c19b.com', 'phl999.com', 'm.skagisy.top', 'www.gt0b.cn', 'hyshaonv08.com', 'cubingsmart.com', 'www.kbss888.com', 'cs587.com', 'labgui.com', 'www.000410.com', 'static.nb86.xyz', '7001.tv', '0guvx.toy868.com', 'www.nomiyun.com', 'uh3469cc.top', 'nb86.xyz', 'www.rindifur.net', '8877fz.com', 'www.cx888my.com', 'dascx.com', 'v6.fengh168.co', 'admin.win66.fun', 'y3600.cz', 'yaoji.me', 'www.rr995199.com', 'rsygvpo.com', 'rr995199.com', 'wap.skagisy.top', 'escortjoys.com', 'www.yun7878.com', 'ty23.life', 'www.7001.tv', 'miyaer.com', '9.h835.cc', 'www.gsfracing.com', 'www.606t.com', '04j4l.toy868.com', 'pt.inswan.fun', 't.h835.cc', 'indian-porn-videos.com', 'd.h835.cc', 'inzxvhi.top', '000410.com', '04zxh.toy868.com', 'www.stgsow.top', 'www.labgui.com', 'www.milesbradley.com', 'ampl.ink', 'fengh168.co', 'www.fengh168.co', '5187867.com', 'jolitermos.click', 'nanto.com', '2577639.com', 'www.m6y6.com', 'wap.uh3469cc.top', '3g.caasx88.top', 'e1ua3ing4xjm5e.xyz', 'www.dgaibule.com', 'www.xiyufushi.com', '3.h835.cc', 'a.h835.cc', 'p.h835.cc', 'www.tvk88.com', 'www.hhyy028.com', 'www.c19b.com', 'skagisy.top', 't66y.ga', 'm6y6.com', '4hue10.com', 'ors789.pw', 'ahanode.net', 'domaiorcuritiba.com.br', 'ppp45.com', 'mlm.firstcoast.finance', 'www.miyaer.com', 'xfltd.net', 'smensw.com', 'myshowlead.com', 'atre7tpor.top', 'k.h835.cc', '28quan07.cc', 'vip1.mc36.xyz', '3g.uh3469cc.top', 'www.win66.fun', '0yuzp.toy868.com', '0xpa5.toy868.com', 'www.caasx88.top', 'www.panrv.cn', 'www.subodi.com', '606t.com', 'wap.caasx88.top', 'hao6cp.com', 'tpbays.top', 'javlib.xyz', 'zgl.dfehnjdehhjrthjdf.com', 'hg8123.xyz', '00wdj.toy868.com', 'www.tpyyc.com', 'm.uh3469cc.top', 'www.skagisy.top', 'minimoi.com', 'www.fjswsx.com', 'www.qjank.top', 'firstcoast.finance', 'milesbradley.com', '10dhx.toy868.com', '016meiqia.ys4qo.com', 'www.swwayr.com', 'bthub.buzz', 'mastertgl78.monster', 'stgsow.top', 'porngayfree.online', 'szmzsm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for smensw.com...
+Performing DNS lookup for 0xpa5.toy868.com...
+Performing DNS lookup for domaiorcuritiba.com.br...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
