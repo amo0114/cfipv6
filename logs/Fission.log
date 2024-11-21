@@ -11936,3 +11936,25 @@ Performing DNS lookup for www.dybz666.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dde6298] Update project files
+ 4 files changed, 69 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   dccc712..dde6298  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.86.89...
+Fetching domains for 104.17.229.25...
+Fetching domains for 104.25.205.159...
+succeed to fetch domains for 104.25.205.159 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.229.25 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.86.89 from https://site.ip138.com/
+域名列表为
+['3bmeteo.com', 'www.3bmeteo.com', 'www.4kmh.cc', 'm.smror.com', 'www.zzztch.com', 'www.tongque.net', 'www.baota.me', 'yx.887141.xyz', 'www.lianlianshu.com', 'www.lyzdzy.com', '4gdiy.com', 'www.1a1v.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3bmeteo.com...
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.tongque.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

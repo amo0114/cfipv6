@@ -2,33 +2,40 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	3bmeteo.com
-Address: 104.17.202.107
-Name:	3bmeteo.com
-Address: 104.17.201.107
-Name:	3bmeteo.com
-Address: 2606:4700::6811:c96b
-Name:	3bmeteo.com
-Address: 2606:4700::6811:ca6b
+www.dgytlt.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.70.31
+Name:	cf.zmdhc.com
+Address: 172.67.173.129
+Name:	cf.zmdhc.com
+Address: 172.67.193.177
+Name:	cf.zmdhc.com
+Address: 172.67.56.110
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 162.209.149.30
+www.77kp.com	canonical name = lunhuan.24cdn.top.
+Name:	lunhuan.24cdn.top
+Address: 172.64.100.120
+Name:	lunhuan.24cdn.top
+Address: 162.159.140.225
+Name:	lunhuan.24cdn.top
+Address: 104.24.235.200
+Name:	lunhuan.24cdn.top
+Address: 172.64.94.226
+Name:	lunhuan.24cdn.top
+Address: 141.101.122.23
+Name:	lunhuan.24cdn.top
+Address: 162.159.140.213
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tongque.net	canonical name = cf.cfchangewz.com.
-Name:	cf.cfchangewz.com
-Address: 172.64.150.12
-Name:	cf.cfchangewz.com
-Address: 172.64.150.11
-Name:	cf.cfchangewz.com
-Address: 104.19.197.149
-Name:	cf.cfchangewz.com
-Address: 104.19.197.151
+Name:	wang355.com
+Address: 138.199.9.104
+Name:	wang355.com
+Address: 2400:52e0:1a01::954:1
 
