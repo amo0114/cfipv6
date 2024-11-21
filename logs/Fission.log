@@ -11892,3 +11892,25 @@ Performing DNS lookup for hongkong.qing1999.eu.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2202f86] Update project files
+ 4 files changed, 78 insertions(+), 24 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   798f3fb..2202f86  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.91.2...
+Fetching domains for 104.18.234.197...
+Fetching domains for 104.22.61.40...
+succeed to fetch domains for 104.18.91.2 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.234.197 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.61.40 from https://site.ip138.com/
+域名列表为
+['www.1080p.club', 'www.xinjuc.com', 'www.pk299.com', 'www.qindixs.com', 'www.wenxueyuedu.com', 'www.shy6666.com', 'www.baota.me', 'www.dzy66666.com', 'www.30moyu.top', 'www.nitianxieshen.com', 'www.plantagen.se', 'www.993my.com', 'www.75xs.cc', 'ips.993888.xyz', 'www.99wxw.cc', 'i.she.vc', 'www.luwangyangrong.com', 'www.kbss888.com', 'www.99wx.cc', 'www.nitianzw.com', 'www.85xs.cc', 'www.zdqx.com', 'www.93xscc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.993my.com...
+Performing DNS lookup for www.pk299.com...
+Performing DNS lookup for www.kbss888.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
