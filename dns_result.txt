@@ -2,40 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.dgytlt.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.70.31
-Name:	cf.zmdhc.com
-Address: 172.67.173.129
-Name:	cf.zmdhc.com
-Address: 172.67.193.177
-Name:	cf.zmdhc.com
-Address: 172.67.56.110
+www.74us.com	canonical name = qdzbdns.hai888.top.
+qdzbdns.hai888.top	canonical name = dns123.xin6.top.
+Name:	dns123.xin6.top
+Address: 104.26.13.83
+Name:	dns123.xin6.top
+Address: 172.67.75.125
+Name:	dns123.xin6.top
+Address: 104.26.12.83
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.77kp.com	canonical name = lunhuan.24cdn.top.
-Name:	lunhuan.24cdn.top
-Address: 172.64.100.120
-Name:	lunhuan.24cdn.top
-Address: 162.159.140.225
-Name:	lunhuan.24cdn.top
-Address: 104.24.235.200
-Name:	lunhuan.24cdn.top
-Address: 172.64.94.226
-Name:	lunhuan.24cdn.top
-Address: 141.101.122.23
-Name:	lunhuan.24cdn.top
-Address: 162.159.140.213
+Name:	iios.club
+Address: 172.67.201.86
+Name:	iios.club
+Address: 104.21.52.166
+Name:	iios.club
+Address: 2606:4700:3036::ac43:c956
+Name:	iios.club
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	wang355.com
-Address: 138.199.9.104
-Name:	wang355.com
-Address: 2400:52e0:1a01::954:1
+** server can't find m.taijuz.cc: NXDOMAIN
 
