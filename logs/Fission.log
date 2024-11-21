@@ -11914,3 +11914,25 @@ Performing DNS lookup for www.kbss888.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dccc712] Update project files
+ 4 files changed, 59 insertions(+), 56 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   2202f86..dccc712  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.0.90...
+Fetching domains for 104.18.66.6...
+Fetching domains for 104.18.253.163...
+succeed to fetch domains for 104.18.66.6 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.253.163 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.0.90 from https://site.ip138.com/
+域名列表为
+['www.kinitv.com', 'skymartbw.com', 'www.dybz666.com', 'm.niuerzs.com', 'dybz666.com', 'www.q2054.com', 'www.onenewspage.com', 'www.652tv.com', 'xinjuc.com', 'www.skymartbw.com', 'www.2955kk.com', 'www.qilishusong.cn', 'shuajuba.com', 'onenewspage.com', '3dxchat.com', 'economymiddleeast.com', 'www.centralcharts.com', 'ooyyo.com', 'www.3dxchat.com', 'www.annmariegianni.com', 'kinitv.com', 'uibieyang.com', 'www.92mili.com', 'noodlemagazine.com', 'www.weh.fr', 'goapi.gptnb.ai', 'hello.240621.xyz', 'certahosting.co.uk', 'ss.moonriver.sbs', 'www.dailyscopes.com', 'www.iios.club', 'www.cocanwelding.com', 'www.evilangel.com', 'www.ooyyo.com', 'northernterritory.com', 'm.kinitv.com', 'cfip.xxxxxxxx.tk', 'diretasistemas.com.br', 'della.com.ua', 'www.xluochen.com', 'www.65bao2.com', 'www.xworldadmin.com', 'www.25mj.com', 'pddpdd.cn', 'www.91m.cc', 'www.nitianxieshen.com', 'www.4gdiy.com', 'www.jcl-coin.com', 'www.iios.me', 'adult.noodlemagazine.com', 'financaspessoais.organizze.com.br', 'thuiswonenwinkel.nl', 'evilangel.com', 'annmariegianni.com', 'v9bet.tv']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for onenewspage.com...
+Performing DNS lookup for dybz666.com...
+Performing DNS lookup for www.dybz666.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

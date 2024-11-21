@@ -2,27 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	onenewspage.com
-Address: 104.27.206.92
-Name:	onenewspage.com
-Address: 104.27.207.92
-Name:	onenewspage.com
-Address: 2606:4700:21::681b:ce5c
-Name:	onenewspage.com
-Address: 2606:4700:21::681b:cf5c
+Name:	3bmeteo.com
+Address: 104.17.202.107
+Name:	3bmeteo.com
+Address: 104.17.201.107
+Name:	3bmeteo.com
+Address: 2606:4700::6811:c96b
+Name:	3bmeteo.com
+Address: 2606:4700::6811:ca6b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	dybz666.com
-Address: 38.162.125.210
+Name:	www.zzztch.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.dybz666.com	canonical name = ldy.nideh.com.
-Name:	ldy.nideh.com
-Address: 38.162.125.210
+www.tongque.net	canonical name = cf.cfchangewz.com.
+Name:	cf.cfchangewz.com
+Address: 172.64.150.12
+Name:	cf.cfchangewz.com
+Address: 172.64.150.11
+Name:	cf.cfchangewz.com
+Address: 104.19.197.149
+Name:	cf.cfchangewz.com
+Address: 104.19.197.151
 
