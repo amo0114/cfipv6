@@ -1,45 +1,19 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find fabecckk.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.666tl.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-tj315.org.cn	canonical name = www.tj315.org.cn.cdn.cloudflare.net.
-Name:	www.tj315.org.cn.cdn.cloudflare.net
-Address: 104.18.16.23
-Name:	www.tj315.org.cn.cdn.cloudflare.net
-Address: 104.18.17.23
-Name:	www.tj315.org.cn.cdn.cloudflare.net
-Address: 2606:4700::6812:1117
-Name:	www.tj315.org.cn.cdn.cloudflare.net
-Address: 2606:4700::6812:1017
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-mini.dianshizb.com	canonical name = lunxun.chunqiu25.com.
-Name:	lunxun.chunqiu25.com
-Address: 104.26.11.48
-Name:	lunxun.chunqiu25.com
-Address: 104.26.10.48
-Name:	lunxun.chunqiu25.com
-Address: 172.64.81.102
-Name:	lunxun.chunqiu25.com
-Address: 173.245.49.162
-Name:	lunxun.chunqiu25.com
-Address: 172.64.193.13
-Name:	lunxun.chunqiu25.com
-Address: 172.67.126.127
-Name:	lunxun.chunqiu25.com
-Address: 172.67.54.136
-Name:	lunxun.chunqiu25.com
-Address: 104.20.20.43
-Name:	lunxun.chunqiu25.com
-Address: 104.22.17.6
-Name:	lunxun.chunqiu25.com
-Address: 198.41.198.132
+Name:	www.pianku5.com
+Address: 91.195.240.12
 
