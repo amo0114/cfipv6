@@ -2,30 +2,43 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.2499kp.com
-Address: 208.98.40.75
+Name:	www.58zztl.xyz
+Address: 172.67.157.103
+Name:	www.58zztl.xyz
+Address: 104.21.81.62
+Name:	www.58zztl.xyz
+Address: 2606:4700:3036::6815:513e
+Name:	www.58zztl.xyz
+Address: 2606:4700:3037::ac43:9d67
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find tunneltransfer.bpyjc.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.75xs.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.1.27
-Name:	ips.993888.xyz
-Address: 104.18.130.48
-Name:	ips.993888.xyz
-Address: 104.16.127.115
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.85xs.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.127.115
-Name:	ips.993888.xyz
-Address: 104.16.1.27
-Name:	ips.993888.xyz
-Address: 104.18.130.48
+ikantv.net	canonical name = lunxun.chunqiu25.com.
+Name:	lunxun.chunqiu25.com
+Address: 172.67.126.127
+Name:	lunxun.chunqiu25.com
+Address: 104.20.20.43
+Name:	lunxun.chunqiu25.com
+Address: 172.64.193.13
+Name:	lunxun.chunqiu25.com
+Address: 104.22.17.6
+Name:	lunxun.chunqiu25.com
+Address: 198.41.198.132
+Name:	lunxun.chunqiu25.com
+Address: 173.245.49.162
+Name:	lunxun.chunqiu25.com
+Address: 104.26.10.48
+Name:	lunxun.chunqiu25.com
+Address: 172.64.81.102
+Name:	lunxun.chunqiu25.com
+Address: 172.67.54.136
+Name:	lunxun.chunqiu25.com
+Address: 104.26.11.48
 
