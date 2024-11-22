@@ -12224,3 +12224,25 @@ Performing DNS lookup for fossonline.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f87c7c6] Update project files
+ 4 files changed, 62 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   148c33d..f87c7c6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.188.79...
+Fetching domains for 104.22.26.239...
+Fetching domains for 104.21.83.76...
+succeed to fetch domains for 104.18.188.79 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.26.239 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.83.76 from https://site.ip138.com/
+域名列表为
+['898xyz.xyz', 'www.chinashuanghai.com', 'vttm.av023.top', 'www.hh0371.com', 'playframework.com', 'm.oxxeq.top', 'www.bqg45.com', 'ssfl.ssfl32.com', 'www.21rvfangche.cn', 'z8q5.av023.top', 'www.xiuluo942.com', 'czirvj.top', 's7bu.av023.top', 'gamelandvn.com', 'chhv.av023.top', '77u.uk', '088050.global-manufacturing-group.com', 'cfip.xxxxxxxx.tk', '17se.av023.top', 'kk44kk.av023.top', 'www.993my.com', 'ccav.av023.top', '9999.av023.top', 'www.xxhslycc.com', 'www.contv-review.com', 'www.czirvj.top', 'qwef.av023.top', 'x3r4.av023.top', 'www.baikekj.cn', 'cnde.cnlgffinw.com', 'dujin.org.cdn.cloudflare.net', 'file.dujin.org', 'www.omniray.fi', 'www.oxxeq.top', 'pw.so4fag.xyz', '07rx.av023.top', '329bb.com', 'nousbuild.top', 'xxbb.av023.top', 'www.663dy.com', 'www.xujing.asia', 'dsxys.com', 'ygs-web.us.kg', 'oxxeq.top', 'vatin.me', '796287.cc', 'pg5r.av023.top', 'lbkiajzw1.xyz', '2baz.av023.top', 'www.playframework.com', 'ribenav.szftad.com', 'ihd1.av023.top', 'www.hj-soft.com', 'www.dujin.org.cdn.cloudflare.net', 'www.52ys.cc', 'www.329bb.com', 'wap.oxxeq.top', 'qfgy.av023.top', 'caobb.av023.top', 'jhj123.com', 'neocenter.com', 'www.898xyz.xyz', 'vbw0.av023.top', 'sese.av023.top', 'aavv.av023.top', 'www.6fuzb.com', 'yyds.av023.top', 'av023.top', '91xx.av023.top', 'www.hboushang.com', 'ts2.space', 'cfcdn2.sanfencdn9.com', 'xxx.av023.top', 'qj8h.av023.top', 'cctv.av023.top', 'tsh00.xyz', 'av91.av023.top', '69xx.av023.top', 'www.dujin.org', '8888.av023.top', 'm.sb', 'www.zvvmodl.cn', 'x0x0x.av023.top', 'www.funsun-printer.com', '98741.net', 'www.kbss888.com', 'img.dujin.org', '6fuzb.com', '404jp16.life', '52mm.av023.top', 'api.dujin.org', 'xxoo.av023.top', '10965.cz', 'www.pk299.com', '3g.oxxeq.top', 'www.58ha.com', 'bsxv.av023.top', 'www.av023.top', '30nei.com', '3wj6.av023.top', 'piyi.av023.top', 'xopa.av023.top', 'www.dbx725.com', 'd18h.av023.top', '234tv-a863l.xs0039a39.xyz', 'www.tockt.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for gamelandvn.com...
+Performing DNS lookup for 69xx.av023.top...
+Performing DNS lookup for nousbuild.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
