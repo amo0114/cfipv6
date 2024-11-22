@@ -12273,3 +12273,25 @@ Performing DNS lookup for www.85xs.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a0ab354] Update project files
+ 4 files changed, 89 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   621859d..a0ab354  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.7.44...
+Fetching domains for 104.17.121.231...
+Fetching domains for 172.66.46.186...
+succeed to fetch domains for 104.18.7.44 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.121.231 from https://dnsdblookup.com/
+succeed to fetch domains for 172.66.46.186 from https://dnsdblookup.com/
+域名列表为
+['www.hgmy.pw', 'www.28hse.com', 'www.91dajin.com', 'www.4j4j.cn', 'www.7277tl.com', 'www.btdad.in', 'total.kaijia666.online', 'hht979.com', 'www.cve5.com', 'www.kbss888.com', 'www.52110my.com', 'www.9805tl.xyz', 'jeuxjeuxjeux.fr', 'gggggyy.com', 'speed.marisalnc.com', 'www.182qw.com', 'luckyblock.com', 'dafuhao.com', 'baxtc.66666654.xyz', 'sy5151.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'gh.con.sh', 'www.511mj.com', 'www.99wxw.cc', 'picacgo.cn', 'www.sy5151.com', 'www.99qhmy.com', 'm.xaxyycjy.com', 'macvbb.555556789.xyz', 'www.luckyblock.com', 'www.68dd.net', 'furniture.28hse.com', 'nlsdwsz.66666654.xyz', 'tunneltransfer.bpyjc.com', 'cve5.com', 'www.6xr.com', 'www.m6y6.com', 'www.bp6688.fun', '7lq.com', 'www.zxc999.cn', 'www.txtbye.com', 'www.555558f.com', 'www.ydkj088.com', 'aveeno.jp', 'www.shy6666.com', 'www.hht979.com', 'www.898my.vip', 'www.v2raz.vip', 'ikantv.net', 'www2011india.com', 'www.ai2moe.org', 'freeyx.cloudflare88.eu.org', 'o391q.com', 'www.www2011india.com', 'www.5522tl.com', 'www.58zztl.xyz', 'www.o391q.com', 'www.dyzj18.com', 'www.jeuxjeuxjeux.fr', 'www.cfhuagong.com', 'www.717zfsf.com', 'www.ikantv.net', 'ct.090227.xyz', 'www.sy790.com', 'www.4hutt68.com', 'www.579my.com', 'www.77wg.vip', 'www.laiduwx.com', 'spca.114514782.xyz', 'news.28hse.com', 'h5.vidilookit.com', 'www.kunzedu.com', 'www.juruwa.com', '690aa.com', '28hse.com', 'www.690aa.com', 'hvg1jfxup43lan2zbyok.sdfmnbvcoxz.top', 'www.8806pk.com', 'www.dafuhao.com', 'www.btbdys.com', 'jackpot.luckyblock.com', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.58zztl.xyz...
+Performing DNS lookup for tunneltransfer.bpyjc.com...
+Performing DNS lookup for ikantv.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

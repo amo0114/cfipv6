@@ -2,43 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.58zztl.xyz
-Address: 172.67.157.103
-Name:	www.58zztl.xyz
-Address: 104.21.81.62
-Name:	www.58zztl.xyz
-Address: 2606:4700:3036::6815:513e
-Name:	www.58zztl.xyz
-Address: 2606:4700:3037::ac43:9d67
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find tunneltransfer.bpyjc.com: NXDOMAIN
+Name:	iganfan.xyz
+Address: 103.224.212.213
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-ikantv.net	canonical name = lunxun.chunqiu25.com.
-Name:	lunxun.chunqiu25.com
-Address: 172.67.126.127
-Name:	lunxun.chunqiu25.com
-Address: 104.20.20.43
-Name:	lunxun.chunqiu25.com
-Address: 172.64.193.13
-Name:	lunxun.chunqiu25.com
-Address: 104.22.17.6
-Name:	lunxun.chunqiu25.com
-Address: 198.41.198.132
-Name:	lunxun.chunqiu25.com
-Address: 173.245.49.162
-Name:	lunxun.chunqiu25.com
-Address: 104.26.10.48
-Name:	lunxun.chunqiu25.com
-Address: 172.64.81.102
-Name:	lunxun.chunqiu25.com
-Address: 172.67.54.136
-Name:	lunxun.chunqiu25.com
-Address: 104.26.11.48
+Name:	www.hnlanying.com
+Address: 172.67.137.103
+Name:	www.hnlanying.com
+Address: 104.21.94.151
+Name:	www.hnlanying.com
+Address: 2606:4700:3036::ac43:8967
+Name:	www.hnlanying.com
+Address: 2606:4700:3034::6815:5e97
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.1ffef.com
+Address: 104.21.94.151
+Name:	www.1ffef.com
+Address: 172.67.137.103
+Name:	www.1ffef.com
+Address: 2606:4700:3034::6815:5e97
+Name:	www.1ffef.com
+Address: 2606:4700:3036::ac43:8967
 
