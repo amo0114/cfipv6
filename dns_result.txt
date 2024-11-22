@@ -2,35 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-it.umn.edu	canonical name = it.umn.edu.cdn.cloudflare.net.
-Name:	it.umn.edu.cdn.cloudflare.net
-Address: 104.18.20.107
-Name:	it.umn.edu.cdn.cloudflare.net
-Address: 104.18.21.107
-Name:	it.umn.edu.cdn.cloudflare.net
-Address: 2606:4700::6812:156b
-Name:	it.umn.edu.cdn.cloudflare.net
-Address: 2606:4700::6812:146b
+www.doupobook.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.67.61
+Name:	ips.993888.xyz
+Address: 104.17.188.205
+Name:	ips.993888.xyz
+Address: 104.17.10.151
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-xfltd.net	canonical name = 7fec9db2.xfcdn.top.
-7fec9db2.xfcdn.top	canonical name = gb807f5.cdn.xfcdn.top.
-Name:	gb807f5.cdn.xfcdn.top
-Address: 139.196.214.202
+Name:	www.tpyyc.com
+Address: 107.148.242.9
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	a234ts.com
-Address: 104.21.37.204
-Name:	a234ts.com
-Address: 172.67.212.230
-Name:	a234ts.com
-Address: 2606:4700:3031::6815:25cc
-Name:	a234ts.com
-Address: 2606:4700:3037::ac43:d4e6
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
