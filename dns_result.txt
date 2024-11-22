@@ -2,25 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.doupobook.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.67.61
-Name:	ips.993888.xyz
-Address: 104.17.188.205
-Name:	ips.993888.xyz
-Address: 104.17.10.151
+Name:	www.edutt.org
+Address: 104.21.23.225
+Name:	www.edutt.org
+Address: 172.67.213.250
+Name:	www.edutt.org
+Address: 2606:4700:3035::6815:17e1
+Name:	www.edutt.org
+Address: 2606:4700:3037::ac43:d5fa
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tpyyc.com
-Address: 107.148.242.9
+www.wwww12.com	canonical name = planthree.seihappy.com.
+Name:	planthree.seihappy.com
+Address: 162.209.184.62
+Name:	planthree.seihappy.com
+Address: 162.209.184.61
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+** server can't find dlfzo4.tjstv.cc: NXDOMAIN
 
