@@ -2,32 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.sfvvxnx.top
-Address: 104.21.4.252
-Name:	m.sfvvxnx.top
-Address: 172.67.132.171
-Name:	m.sfvvxnx.top
-Address: 2606:4700:3037::6815:4fc
-Name:	m.sfvvxnx.top
-Address: 2606:4700:3033::ac43:84ab
+Name:	gamelandvn.com
+Address: 104.21.83.76
+Name:	gamelandvn.com
+Address: 172.67.217.139
+Name:	gamelandvn.com
+Address: 2606:4700:3033::ac43:d98b
+Name:	gamelandvn.com
+Address: 2606:4700:3035::6815:534c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	sese.love
-Address: 23.224.194.37
+Name:	69xx.av023.top
+Address: 154.23.64.98
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	fossonline.com
-Address: 172.67.207.216
-Name:	fossonline.com
-Address: 104.21.34.204
-Name:	fossonline.com
-Address: 2606:4700:3036::ac43:cfd8
-Name:	fossonline.com
-Address: 2606:4700:3036::6815:22cc
+Name:	nousbuild.top
+Address: 104.21.83.76
+Name:	nousbuild.top
+Address: 172.67.217.139
+Name:	nousbuild.top
+Address: 2606:4700:3035::6815:534c
+Name:	nousbuild.top
+Address: 2606:4700:3033::ac43:d98b
 
