@@ -12132,3 +12132,25 @@ Performing DNS lookup for www.cfhuagong.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 499c24b] Update project files
+ 4 files changed, 59 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   43e8a45..499c24b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.65.138...
+Fetching domains for 104.21.23.225...
+Fetching domains for 104.17.95.216...
+succeed to fetch domains for 104.21.23.225 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.95.216 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.65.138 from https://site.ip138.com/
+域名列表为
+['bgyj28x.mom', 'vproxy.us', 'gametame.com', 'www.edutt.org', 'pmgnotes.in', '1z09rp.xyz', '8jdgmvt.tjstv.cc', '015552.com', 'www.xinjuc.com', 'www.donaiapp.cc', 'www.avrasiyabaku.az', 'btdy.tv', 'www.lyzdzy.com', 'www.cfhuagong.com', 'www.yt127.com', 'nydz.357911.xyz', '82gn9xq.tjstv.cc', 'iso.myteachersb.eu.org', 'www.1a1v.com', 'wwww12.com', 'www.fllrz.com', 'www.btdy.tv', 'sxinyun.com', 'kd007.xyz', 'x99a1930.xyz', 'cdmeier.com', 'www.agribiztv.com', 'www.tjstv.cc', 'avrasiyabaku.az', 'www.9maoma.com', 'x78n.sbs', 'www.yu889.com', 'syshuangxing.com', 'www.rimanzhijia.com', 'tjstv.cc', 'api.bnbha.net', 'bnbha.net', '8mei04.top', 'www.wlth.com', 'hittokyoku.club', 'www.llhrmy.cn', 'www.dlfzo4.tjstv.cc', 'www.2y2y.net', 'cfip.xxxxxxxx.tk', 'dlfzo4.tjstv.cc', 'yu889.com', '616btt.net', '91av790.top', 'edutt.org', 'hxzb.tw', '97tun.cn', 'www.av34.cc', 'ed.gametame.com', 'yunpan1.cc', 'www.gametame.com', 'www.iios.club', 'www.5200.cc', 'rimanzhijia.com', 'sexgamesx.com', 'snab22.xyz', 'www.tpyyc.com', 'www.rwlasvegas.com', 'yt127.com', 'www.wn01.cc', 'www.zzztch.com', 'tyxg.net', 'av34.cc', 'www.wwww12.com', 'juziyun889.xyz', 'thenantwichnews.co.uk', 'ks-cyf.com', 'paste.wmlabs.net', 'www.pmgnotes.in', '52x8.com', 'www.015552.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.edutt.org...
+Performing DNS lookup for www.wwww12.com...
+Performing DNS lookup for dlfzo4.tjstv.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
