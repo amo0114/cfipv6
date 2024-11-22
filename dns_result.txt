@@ -2,18 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.666tl.com: NXDOMAIN
+Name:	m.sfvvxnx.top
+Address: 104.21.4.252
+Name:	m.sfvvxnx.top
+Address: 172.67.132.171
+Name:	m.sfvvxnx.top
+Address: 2606:4700:3037::6815:4fc
+Name:	m.sfvvxnx.top
+Address: 2606:4700:3033::ac43:84ab
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.pianku5.com
-Address: 91.195.240.12
+Name:	sese.love
+Address: 23.224.194.37
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	fossonline.com
+Address: 172.67.207.216
+Name:	fossonline.com
+Address: 104.21.34.204
+Name:	fossonline.com
+Address: 2606:4700:3036::ac43:cfd8
+Name:	fossonline.com
+Address: 2606:4700:3036::6815:22cc
 
