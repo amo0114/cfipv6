@@ -12427,3 +12427,25 @@ Performing DNS lookup for kz22.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 898e570] Update project files
+ 4 files changed, 72 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   5d71ebb..898e570  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.199.248...
+Fetching domains for 172.66.42.38...
+Fetching domains for 104.21.2.131...
+succeed to fetch domains for 104.17.199.248 from https://ipchaxun.com/
+succeed to fetch domains for 172.66.42.38 from https://site.ip138.com/
+succeed to fetch domains for 104.21.2.131 from https://site.ip138.com/
+域名列表为
+['qz.taokong1.com', 'chriswarrick.com', 'fairfaxunderground.com', 'web.getrich8866.com', 'wusijia.top', 'tkbcp7.life', 'hs.taokong1.com', 'playnaia.org', 'tinyantiques.com', 'portal-diagnostov.ru', 'laraveltuts.com', 'www.ht4u.net', 'autohotkey.com', '3g.qxxit666.top', 'jy89a.com', '988226.com', 'hjj85.com', 'www.tinyantiques.com', 'lz.taokong1.com', 'www.liyuxiang.cc', 'ab27.cc', 'www.fh361.com', 'ht4u.net', 'ml.taokong1.com', 'xjp49l.online', 'zw6t9jr5zufr.xyz', 'www.sudujiqing001.com', 'www.bfb3.com', 'f2.taokong1.com', '74zq.com', 'xs.taokong1.com', 'www.wusijia.top', 'www.bomao520.com', 'www.kg-rapidprototype.com', 'm.qxxit666.top', 'sudujiqing001.com', 'token.icucoo.xyz', 'games2rule.com', 'm26y.com', 'www.mrnxivp.cn', '668oo.com', 'qxxit666.top', 'hga0223.com', 'data.3lv2g.com', 'www.nhbzjvr.cn', 'yyzbd.cc', 'm.wusijia.top', 'kubo998.com', 'www.taokong1.com', 'www.ehuilong.com', 'hntynzj.com', 'www.qyan.cc', 'll6swh3v.shop', 'wap.getrich8866.com', 'www.camelway.com', '2061014.com', 'www.kamax.com.cn', 'xin.icucoo.xyz', 'www.588oo.com', 'www.tkbcp7.life', 'm.shrmdqc.com', 'www.668oo.com', 'www.playnaia.org', '8437.com', 'tpyyc.com', 'sc99k.com', 'www.8437.com', 'ipv4-cfyx.qdqqd.com', 'w.fh361.com', 'www.zzztch.com', 'www.txbaoz.com', 'bomao520.com', 'www.lyss798.com', '5581ll.com', 'taokong1.com', 'kg-rapidprototype.com', 'q.haoal.com', 'www.93xscc.com', 'av2739.com', 'camelway.com', 'www.amghonv.cn', 'www.qxxit666.top', 'www.hjj85.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ab27.cc...
+Performing DNS lookup for hs.taokong1.com...
+Performing DNS lookup for 2061014.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
