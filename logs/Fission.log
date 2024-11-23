@@ -12449,3 +12449,25 @@ Performing DNS lookup for 2061014.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3463d61] Update project files
+ 4 files changed, 74 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   898e570..3463d61  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.46.179...
+Fetching domains for 172.67.208.4...
+Fetching domains for 104.16.76.217...
+succeed to fetch domains for 104.16.76.217 from https://site.ip138.com/
+succeed to fetch domains for 104.16.46.179 from https://site.ip138.com/
+succeed to fetch domains for 172.67.208.4 from https://dnsdblookup.com/
+域名列表为
+['sgv7.com', 'wcnjq28.buzz', 'www.9r10.xyz', 'mvp.nasdb1971.com', 'www.28dushu.com', 'bankingzen.com', 'wei333.com', 'termbank.com', '447yu.com', 'www.tiger168.vip', 'www.zglaijia.com', 'dsxys.pro', 'www.447yu.com', 'www.lyzdzy.com', 'www.hnhunyan.com', 'www.tvccc.org', 'ginsengmerah.xyz', 'www.124s.cc', 'profile.tamilstar.com', 'www.paizipai.top', 'gaze.run', 'm.1288128.net', 'app.z6ux.fun', 'www.tinghen.com', 'tiger168.vip', 'iev.aero', 'xs.wxtv.cc', 'www.99wx.cc', 'foreignlobby.com', 'www.vdjapp.com', 'www.zhiqihuo.com', 'www.0550cq.com', 'www.4bpuu.com', 'fulisao3.cc', 'www.soestnu.nl', 'cf-lt.sharecentre.online', '124s.cc', 'ii014.com', 'www.b7yy.cc', '895656.com', 'stock.hostmonit.com', 'www.bkcoino.com', 'www.50zw.co', 'www.zzztch.com', 'blog.hostmonit.com', 'www.895656.com', 'www.x52bq.com', 'www.icehua.cc', 'www.qsgykgu.cn', '9r10.xyz', 'm.tvfff.com', 'www.7sc.cc', 'tamilstar.com', 'www.steemedu.com', 'wyxs.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cf-lt.sharecentre.online...
+Performing DNS lookup for www.9r10.xyz...
+Performing DNS lookup for www.paizipai.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
