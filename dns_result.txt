@@ -2,65 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nitianxieshen.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.242.162
-Name:	ips.993888.xyz
-Address: 104.17.36.143
-Name:	ips.993888.xyz
-Address: 104.18.234.57
+Name:	acus.cloudflarest.link
+Address: 104.247.82.50
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.6988tv.com	canonical name = 6988tv.com.
-6988tv.com	canonical name = cf.cloudflare.182682.xyz.
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	cf.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	cf.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	cf.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	cf.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
+Name:	www.paizipai.top
+Address: 172.67.180.229
+Name:	www.paizipai.top
+Address: 104.21.75.195
+Name:	www.paizipai.top
+Address: 2606:4700:3037::ac43:b4e5
+Name:	www.paizipai.top
+Address: 2606:4700:3035::6815:4bc3
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.19.248.211
-Name:	dcs.jqddos.xyz
-Address: 104.16.121.39
-Name:	dcs.jqddos.xyz
-Address: 104.16.206.182
-Name:	dcs.jqddos.xyz
-Address: 104.25.58.209
-Name:	dcs.jqddos.xyz
-Address: 104.18.102.164
-Name:	dcs.jqddos.xyz
-Address: 104.25.10.0
-Name:	dcs.jqddos.xyz
-Address: 104.16.233.197
-Name:	dcs.jqddos.xyz
-Address: 104.19.226.113
-Name:	dcs.jqddos.xyz
-Address: 104.24.22.157
-Name:	dcs.jqddos.xyz
-Address: 104.16.39.106
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 
