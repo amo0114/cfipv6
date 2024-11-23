@@ -12405,3 +12405,25 @@ Performing DNS lookup for www.851tt.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5d71ebb] Update project files
+ 4 files changed, 57 insertions(+), 59 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   e55ead5..5d71ebb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.70.168...
+Fetching domains for 104.18.7.82...
+Fetching domains for 188.114.97.132...
+succeed to fetch domains for 104.18.70.168 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.97.132 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.7.82 from https://dnsdblookup.com/
+域名列表为
+['www.tpyyc.com', '271cf.com', 'www.689ut.com', 'www.p777t.com', 'nakeu.cn', 'kz22.cc', 'blog.nakeu.cn', '689ut.com', '6789fa.com', '699cu.com', 'www.iios.fun', 'www.a567hd.com', 'www.6789fa.com', 'ipv4-cfyx.qdqqd.com', 'mugler.es', 'dsxys.com', 'hx.746556.xyz', 'www.91m.cc', 'yaxin221.net', 'www.x7k66.com', 'www.iios.me', 'www.cargosmart.com', '985.660301.xyz', 'www.271cf.com', 'www.jjxsxs.com', 'www.9ehao.com', 'p777t.com', 'www.yaxin221.net', 'cdn.nakeu.cn', 'www.e982y.com', 'www.699cu.com', 'www.iios.club', 'www.6988tv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for mugler.es...
+Performing DNS lookup for www.6789fa.com...
+Performing DNS lookup for kz22.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

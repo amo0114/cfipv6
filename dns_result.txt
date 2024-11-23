@@ -1,26 +1,39 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	mugler.es
-Address: 172.64.146.75
-Name:	mugler.es
-Address: 104.18.41.181
-Name:	mugler.es
-Address: 2606:4700:4400::6812:29b5
-Name:	mugler.es
-Address: 2606:4700:4400::ac40:924b
+** server can't find ab27.cc: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.6789fa.com
-Address: 172.247.26.10
+Name:	hs.taokong1.com
+Address: 172.67.129.61
+Name:	hs.taokong1.com
+Address: 104.21.2.131
+Name:	hs.taokong1.com
+Address: 2606:4700:3033::6815:283
+Name:	hs.taokong1.com
+Address: 2606:4700:3033::ac43:813d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find kz22.cc: No answer
+Name:	2061014.com
+Address: 172.66.0.102
+Name:	2061014.com
+Address: 172.66.0.158
+Name:	2061014.com
+Address: 162.159.140.160
+Name:	2061014.com
+Address: 162.159.140.104
+Name:	2061014.com
+Address: 2606:4700:7::9e
+Name:	2061014.com
+Address: 2606:4700:7::66
+Name:	2061014.com
+Address: 2a06:98c1:58::66
+Name:	2061014.com
+Address: 2a06:98c1:58::9e
 
