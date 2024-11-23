@@ -2,28 +2,19 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	iv-u15.com
-Address: 172.232.31.180
-Name:	iv-u15.com
-Address: 172.232.4.213
-Name:	iv-u15.com
-Address: 172.232.25.148
+Name:	v88av1572.xyz
+Address: 164.92.67.99
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	rxznqw.top
-Address: 172.67.145.158
-Name:	rxznqw.top
-Address: 104.21.87.189
-Name:	rxznqw.top
-Address: 2606:4700:3034::6815:57bd
-Name:	rxznqw.top
-Address: 2606:4700:3034::ac43:919e
+www.cfjtlzs.com	canonical name = exp.julydns.com.
+Name:	exp.julydns.com
+Address: 47.57.3.200
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find cl.34janmp9.life: NXDOMAIN
+** server can't find www.qp666.com: NXDOMAIN
 
