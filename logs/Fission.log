@@ -12383,3 +12383,25 @@ Performing DNS lookup for www.yh9pk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e55ead5] Update project files
+ 4 files changed, 81 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   d7baadd..e55ead5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.89.219...
+Fetching domains for 104.18.7.54...
+Fetching domains for 104.18.21.55...
+succeed to fetch domains for 104.18.7.54 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.21.55 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.89.219 from https://dnsdblookup.com/
+域名列表为
+['trans2.org', 'laoshunkou.com', 'www.cocanwelding.com', 'xb301.net', 'joinhvs.com', 'fermacell.cz', 'www.language.org.tw', 'ru.horeca-service.com', '1.gb369.co', '3g.2k62hn8.top', 'cable734.cc', 'app.onupkeep.com', '127mall07.com', 'wap.2k62hn8.top', 'answers.webmd.com', '11street.my', 'chopemdownfilms.com', 'dyeh33.bdy39.net', 'api.pumpkinaigc.online', 'm.2k62hn8.top', '5d2fc.bdy39.net', 's5.com', 'www.4hun74.com', 'www.127mall07.com', 'cao3u1p0.com', 'www.m888a.com', 'www.cao3u1p0.com', 'www.x4d77.com', 'gce.com', 'cfip.xxxxxxxx.tk', 'www.38gaogg.com', 'www.regesdev.com', 'www.jgxswiz.cn', 'www.11street.my', 'www.wallediesel.com', 'm888a.com', 'www.teai999.com', 'okcd.xyz', 'gb369.co', 'x4d77.com', 'm.11street.my', 'www.tuibaolianmeng.com', 'www.s5.com', 'www.bdy39.net', 'ct.pumpkinaigc.online', 'www.avtb2383.com', 'www.2k62hn8.top', 'www.y777n.com', 'onupkeep.com', 'xhamsternft.com', '38gaogg.com', 'avtb2383.com', 'www.nexeosolutions.com', 'teai999.com', 'mtaott.com', 'cbet.gg', 'nexeosolutions.com', 'tpwebcasts.cn', 'www.japitcn.com', 'www.851tt.com', 'acus.cloudflarest.link', 'www.fermacell.cz', 'y777n.com', 'shs.xiaoqi666.xyz', 'horeca-service.com', 'shaowupr.com', '2k62hn8.top', 'wallediesel.com', 'www.qyhcarbon.com', 'leicestertigers.com', 'forum.leicestertigers.com', 'ku5568.net', 'campus2024.top', 'whyfhex.com', 'wowwquiz.com', 'www.whyfhex.com', 'u5-app.kyatst.com', 'www.zjsjkqn.cn', 'www.nitianxieshen.com', 'dcxhd.bdy39.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wallediesel.com...
+Performing DNS lookup for www.fermacell.cz...
+Performing DNS lookup for www.851tt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
