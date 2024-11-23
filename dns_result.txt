@@ -2,19 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	v88av1572.xyz
-Address: 164.92.67.99
+Name:	herocard.xwggames.com
+Address: 104.21.38.184
+Name:	herocard.xwggames.com
+Address: 172.67.137.91
+Name:	herocard.xwggames.com
+Address: 2606:4700:3032::ac43:895b
+Name:	herocard.xwggames.com
+Address: 2606:4700:3036::6815:26b8
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+** server can't find www.999wx.net: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.cfjtlzs.com	canonical name = exp.julydns.com.
-Name:	exp.julydns.com
-Address: 47.57.3.200
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.qp666.com: NXDOMAIN
+Name:	www.yh9pk.com
+Address: 127.0.0.127
 
