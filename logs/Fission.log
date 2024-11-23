@@ -12295,3 +12295,25 @@ Performing DNS lookup for ikantv.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bee68c2] Update project files
+ 4 files changed, 63 insertions(+), 62 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   a0ab354..bee68c2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.174.110...
+Fetching domains for 104.21.94.151...
+Fetching domains for 104.18.240.16...
+succeed to fetch domains for 104.19.174.110 from https://site.ip138.com/
+succeed to fetch domains for 104.18.240.16 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.94.151 from https://site.ip138.com/
+域名列表为
+['www.lyzdzy.com', 'j8kb.com', '6345ru.com', 'www.1ffef.com', 'wap.pbscjm.top', 'www.j8kb.com', 'httpwww.todsk.com', 'www.55xs.cc', 'www.lizhihu.com', 'www.huajiebbs.xyz', 'javgit.com', 'www.jfm5.app', 'www.3234zu.com', 'kdcs.todsk.com', 'www.hntiegu.cn', 'huajiebbs.xyz', 'www.iganfan.xyz', 'f2u4p5.com', 'jav4free.watch', 'www.todsk.com', 'www.yuan-d.cc', 'www.36dm.com', 'lanshantushu.cn.cfs.9015.net', 'pulife.top', 'av389.xyz', 'nanchang.starrysky.asia', 'zmnrm.m317.cc', '1ffef.com', '5002yqw.com', 'www.geekhowtos.com', 'laixueping.com', 'halfpix.com', 'wap.zbqgh7.top', 'www.m317.cc', 'www.quxx150.com', 'odoo.halfpix.com', 'www.km593.cn', 'dl.todsk.com', 'todsk.com', 'starrysky.asia', '3234zu.com', 'uu93.com', 'www.laixueping.com', 'iganfan.xyz', 'huanxisha.live', 'linkreward.net', 'be.starrysky.asia', 'www.tpyyc.com', 'm317.cc', 'm.niuerzs.com', 'www.hkmh.site', 'hkmh.site', 'm.lizhihu.com', 'm.zbqgh7.top', 'sgi.anycast.gay', 'www.hnlanying.com', 'www.zbqgh7.top', 'g.lizhihu.com', 'www.93xscc.com', 'pan.starrysky.asia', 'geekhowtos.com', 'www.luwangyangrong.com', 'lizhihu.com', 'usa1.xiavip.xyz', 'www3.xyz', 'wwww.todsk.com', '8m774.xyz', 'play.starrysky.asia', 'www.jy59.xyz', 'songlimachine.com', 'jfm5.app', 'vip.lizhihu.com', 'www.a621wg7.top', 'ww.todsk.com', 'www.songlimachine.com', 'www.iios.club', 'zzy123.com', '3g.zbqgh7.top', 'jiangxi.starrysky.asia', 'www.javgit.com', 'www.6345ru.com', 'kkeve.com', 'zbqgh7.top', 'a621wg7.top', 'chjav.me', 'www.zzy123.com', 'thea1336.cc', 'yonglayu.top', 'zzjpsp.com', 'www.starrysky.asia', 'jd.style00.cf']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for iganfan.xyz...
+Performing DNS lookup for www.hnlanying.com...
+Performing DNS lookup for www.1ffef.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
