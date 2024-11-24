@@ -2,31 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.kanunu2.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
+Name:	umn.ac.id
+Address: 104.22.61.94
+Name:	umn.ac.id
+Address: 172.67.21.177
+Name:	umn.ac.id
+Address: 104.22.60.94
+Name:	umn.ac.id
+Address: 2606:4700:10::6816:3d5e
+Name:	umn.ac.id
+Address: 2606:4700:10::ac43:15b1
+Name:	umn.ac.id
+Address: 2606:4700:10::6816:3c5e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	insurancehotline.com
-Address: 104.17.244.190
-Name:	insurancehotline.com
-Address: 104.17.245.190
-Name:	insurancehotline.com
-Address: 2606:4700::6811:f5be
-Name:	insurancehotline.com
-Address: 2606:4700::6811:f4be
+Name:	www.umn.ac.id
+Address: 172.67.21.177
+Name:	www.umn.ac.id
+Address: 104.22.61.94
+Name:	www.umn.ac.id
+Address: 104.22.60.94
+Name:	www.umn.ac.id
+Address: 2606:4700:10::6816:3c5e
+Name:	www.umn.ac.id
+Address: 2606:4700:10::ac43:15b1
+Name:	www.umn.ac.id
+Address: 2606:4700:10::6816:3d5e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.z2py.com
-Address: 104.247.81.52
+** server can't find zm7.m3u8list.top: NXDOMAIN
 
