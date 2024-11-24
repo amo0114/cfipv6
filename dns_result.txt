@@ -1,25 +1,29 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find uilfdv.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.slf88.cn
+Address: 107.163.101.23
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	modplay.io
-Address: 104.21.36.178
-Name:	modplay.io
-Address: 172.67.198.64
-Name:	modplay.io
-Address: 2606:4700:3035::ac43:c640
-Name:	modplay.io
-Address: 2606:4700:3033::6815:24b2
+blog.dancedreamcreate.eu.org	canonical name = old-website-redirect.pages.dev.
+Name:	old-website-redirect.pages.dev
+Address: 172.66.46.211
+Name:	old-website-redirect.pages.dev
+Address: 172.66.45.45
+Name:	old-website-redirect.pages.dev
+Address: 2606:4700:310c::ac42:2ed3
+Name:	old-website-redirect.pages.dev
+Address: 2606:4700:310c::ac42:2d2d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jiuse361.xyz
-Address: 72.52.178.23
+520926.com	canonical name = game001.huanhuancdn.com.
+Name:	game001.huanhuancdn.com
+Address: 154.219.2.118
 
