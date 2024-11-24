@@ -1,29 +1,24 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.slf88.cn
-Address: 107.163.101.23
+** server can't find yx.887141.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-blog.dancedreamcreate.eu.org	canonical name = old-website-redirect.pages.dev.
-Name:	old-website-redirect.pages.dev
-Address: 172.66.46.211
-Name:	old-website-redirect.pages.dev
-Address: 172.66.45.45
-Name:	old-website-redirect.pages.dev
-Address: 2606:4700:310c::ac42:2ed3
-Name:	old-website-redirect.pages.dev
-Address: 2606:4700:310c::ac42:2d2d
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.169.220
+Name:	ips.993888.xyz
+Address: 104.16.201.114
+Name:	ips.993888.xyz
+Address: 104.17.228.179
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-520926.com	canonical name = game001.huanhuancdn.com.
-Name:	game001.huanhuancdn.com
-Address: 154.219.2.118
+Name:	4hubb61.com
+Address: 38.60.66.211
 

@@ -12634,3 +12634,25 @@ Performing DNS lookup for jiuse361.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1a755fd] Update project files
+ 4 files changed, 65 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   4241c6f..1a755fd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.24.158...
+Fetching domains for 104.21.34.16...
+Fetching domains for 172.66.45.45...
+succeed to fetch domains for 172.66.45.45 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.24.158 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.34.16 from https://dnsdblookup.com/
+域名列表为
+['iwkmw.top', '520905.com', 'leeshexa.com', '12345-2zp.pages.dev', 'hd.f1hte.com', '520926.com', 'hlspull.iptv8k.top', 'hls.iptv8k.top', 'www.4hugg58.com', 'm.iwkmw.top', 'test.iptv8k.top', '882.vip', '520957.com', 'www.520905.com', 'www.iwkmw.top', 'www.3600.win', '71amr.top', 'www.funplay.cc', 'm.o2000.com', 'free.gay1024.com', 'www.tvyb02.com', 'ikunb.site', 'e-nautilia.gr', 'www.slf88.cn', 'f45playoffs.com', 'www.meijui.net', 'www.c678j.com', '69x2631.cc', 'agendadigital.gob.do', 'www.4455ug.com', 'pan.zzdx.gq', 'www.acgycy.com', '8m269.xyz', 'bullish.com', 'dancetrippin.tv', 'long.zzdx.gq', 'blog.dancedreamcreate.eu.org', 'jpvsavhyu.76898102.xyz', 'za255.mom', 'c678j.com', '949uu.com', 'www.520926.com', 'pan.iptv8k.top', '88yyya.com', '7895ee.com', '3g.iwkmw.top', 'www.eyerim.pl', 'www.iios.club', 'www.wtxxl41.cn', 'speed.marisalnc.com', 'cxhj.xyz', 'm.niuerzs.com', 'www.520957.com', 'www.blucigs.com', 'gerhard-richter.com', 'pages-e2q.pages.dev', 'slf88.cn', 'iptv8k.top', 'uuu99yy.com', 'www.gay1024.com', '92eye.xyz', 'cdn.iptv8k.top', 'biz.vnres.co', 'firet.io', 'www.o2000.com', 'emby.amia.us.kg', 'gay1024.com', 'mivi.in', 'navigation.71amr.top', 'o2000.com', 't9t6v0.pages.dev', 'www.cosmo.ph', 'khulhfxxldvpx.cc', 'www.nascarfoundation.org', 'ukr-remont.in.ua', 'z0j9r5r3ln9ay75s68e9.xiangxiangapps.com', 'www.7895ee.com', 'wap.iwkmw.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.slf88.cn...
+Performing DNS lookup for blog.dancedreamcreate.eu.org...
+Performing DNS lookup for 520926.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
