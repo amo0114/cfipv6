@@ -1,24 +1,32 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find yx.887141.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	www.789kp.com
+Address: 104.21.52.35
+Name:	www.789kp.com
+Address: 172.67.194.200
+Name:	www.789kp.com
+Address: 2606:4700:3033::ac43:c2c8
+Name:	www.789kp.com
+Address: 2606:4700:3033::6815:3423
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.169.220
-Name:	ips.993888.xyz
-Address: 104.16.201.114
-Name:	ips.993888.xyz
-Address: 104.17.228.179
+Name:	sdhsnj.com
+Address: 174.139.78.196
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	4hubb61.com
-Address: 38.60.66.211
+www.nitianxieshen.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.152.15
+Name:	ips.993888.xyz
+Address: 104.17.149.67
+Name:	ips.993888.xyz
+Address: 104.17.136.188
 
