@@ -12585,3 +12585,25 @@ Performing DNS lookup for zm7.m3u8list.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c202ec3] Update project files
+ 4 files changed, 73 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   dda51fa..c202ec3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.30.124...
+Fetching domains for 104.17.249.8...
+Fetching domains for 104.16.42.189...
+succeed to fetch domains for 104.16.42.189 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.30.124 from https://site.ip138.com/
+succeed to fetch domains for 104.17.249.8 from https://dnsdblookup.com/
+域名列表为
+['zhizu.feicuizf.com', 'seis7.com', 'ionvpn.com', 'zgwangzhan.com', 'www.money38.tw', 'thd32.com', 'www.ursoftware.com', 'www.seis7.com', 'xxdingdian.com', 'yyxnu.com', 'www.saladhey.com', '1rcc.cc', 'www.tybotllc.com', 'a345yf.com', 'yunzhouzw.com', 'hdmjchina.com', 'www.93tttt.com', 'money38.tw', 'www.nblxzl.com', 'm.xxdingdian.com', 'hummerforums.com', 'www.lyzdzy.com', 'hhmm.org', 'gggggyy.com', 'www.iios.club', 'www.aquatech.ro', 'www.wn04.cc', 'www.hummerforums.com', 'www9p3456.com', 'www.ionvpn.com', 'deepin.org', 'm.hk18.co', 'www.a345yf.com', 'cfip.xxxxxxxx.tk', 'www.xunhuawenzhu.com', 'www.ysrate.com', 'www.80yy.la', 'm.tengbo196.com', 'tengbo196.com', 'hk18.co', '99s44.com', 'stdn.cloud', 'www.75uw.com', 'arms-fnb.com', 'piankuww.com', 'xeq9oi.vfdgp4k.icu', 'houhuayuan.xyz', 'www.tpyyc.com', 'agenslot168.org', 'xczq1.top', 'cn6s.net', 'canovel.com', 'www.iios.fun', 'xiaomirom.com', 'www.776001.com', 'www.tiantianday.top', 'www.58955u.com', 'www.wqxtv.com', '93tttt.com', 'm.tpyyc.com', 'rollbetsoft.com', '4668668.com', '0w9.cc', 'cjjr669.com', '77ty.com', 'www.deepin.org', 'www.piankuww.com', 'letspostfree.com', 'www.jinhuaelec.com', 'www.bdx100.com', 'aa535.com', 'www.enleadtek.com', 'www.xxdingdian.com', 'tiantianday.top', '188105.xyz', 'hayojax.am', 'cdn.zsfcdn98.top', 'www.xiaomirom.com', 'www.arms-fnb.com', 'www.tengbo196.com', 'www.wpejitx.cn', 'www.canovel.com', 'www.int-metal.com', 'enleadtek.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xunhuawenzhu.com...
+Performing DNS lookup for www.arms-fnb.com...
+Performing DNS lookup for hummerforums.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

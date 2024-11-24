@@ -1,39 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.xunhuawenzhu.com
-Address: 172.67.172.233
-Name:	www.xunhuawenzhu.com
-Address: 104.21.30.124
-Name:	www.xunhuawenzhu.com
-Address: 2606:4700:3033::6815:1e7c
-Name:	www.xunhuawenzhu.com
-Address: 2606:4700:3037::ac43:ace9
+** server can't find uilfdv.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.arms-fnb.com
-Address: 104.21.30.124
-Name:	www.arms-fnb.com
-Address: 172.67.172.233
-Name:	www.arms-fnb.com
-Address: 2606:4700:3037::ac43:ace9
-Name:	www.arms-fnb.com
-Address: 2606:4700:3033::6815:1e7c
+Name:	modplay.io
+Address: 104.21.36.178
+Name:	modplay.io
+Address: 172.67.198.64
+Name:	modplay.io
+Address: 2606:4700:3035::ac43:c640
+Name:	modplay.io
+Address: 2606:4700:3033::6815:24b2
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	hummerforums.com
-Address: 172.67.172.233
-Name:	hummerforums.com
-Address: 104.21.30.124
-Name:	hummerforums.com
-Address: 2606:4700:3037::ac43:ace9
-Name:	hummerforums.com
-Address: 2606:4700:3033::6815:1e7c
+Name:	jiuse361.xyz
+Address: 72.52.178.23
 
