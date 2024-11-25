@@ -12863,3 +12863,25 @@ Performing DNS lookup for 8567aa.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 28158bc] Update project files
+ 4 files changed, 89 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   f16f302..28158bc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.245.173...
+Fetching domains for 188.114.96.32...
+Fetching domains for 104.26.1.184...
+succeed to fetch domains for 188.114.96.32 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.245.173 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.1.184 from https://ipchaxun.com/
+域名列表为
+['7.namesilo123.top', 'www.platinumpropertiesnyc.com', 'www.yhddsb.com', 'www.fastqian.app', 'ftmscan.com', 'yxy176.com', 'www.hhyy028.com', 'xinjuc.com', 'sky.dittotvv.cc', 'www.kbss888.com', 'www.nba01.com', 'www.75xs.cc', 'qiyue8.com', 't147.cc', 'go.wumaojichang.com', 'www.kuaikan66.com', 'www.cocanwelding.com', 'a.hevchd.sbs', 'www.iios.club', '0ffline.one', 'forums.mtgsalvation.com', 'www.99wx.cc', 'down.fastqian.app', 'www.xinjuc.com', 'www.crypto-clown.com', 'cfip.xxxxxxxx.tk', 'cineblog.it', 'fcww37.com', 'porttore.com', 'platinumpropertiesnyc.com', 'www.naimilu.com', 'mtgsalvation.com', 'www.ddwhm.com', 'www.cosmetis.com.br', 'www.xayuning.com', 'taoismhome.com', 'ysz8.com', 'ke191.cc', 'skynet.whiteproj.com', 'new.dittotvv.cc', 'www.m6y6.com', 'godsfin.vip', 'www.93xscc.com', 'www.omnia-health.com', 'www.yh9pk.com', 'www.993my.com', 'cnamefuckxxs.yuchen.icu', 'm.niuerzs.com', 'www.dzy66666.com', 'www.zzztch.com', 'fantasyrohan.com', 'tintaynguyen.com', 'www.yxy176.com', 'www.lingyi44.com', 'www.boissetcollection.com', 'www.55xs.cc', 'iios.fun', 'www.mtgsalvation.com', 'purengom.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xinjuc.com...
+Performing DNS lookup for www.yhddsb.com...
+Performing DNS lookup for www.m6y6.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

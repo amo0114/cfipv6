@@ -2,47 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xinjuc.com	canonical name = xinju.cloudflare.182682.xyz.
-Name:	xinju.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	xinju.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	xinju.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	xinju.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	xinju.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	xinju.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	xinju.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	xinju.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	xinju.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	xinju.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
+www.qkmov.com	canonical name = dns.yktvb.com.
+Name:	dns.yktvb.com
+Address: 104.18.21.69
+Name:	dns.yktvb.com
+Address: 104.18.20.69
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yhddsb.com
-Address: 134.122.184.248
+www.elizabethterrell.com	canonical name = elizabethterrell.com.
+Name:	elizabethterrell.com
+Address: 198.54.114.216
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.m6y6.com	canonical name = host1111776b.c2.huyuncdn.xyz.
-host1111776b.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
+** server can't find www.fxmingdao.com: NXDOMAIN
 
