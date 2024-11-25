@@ -2,22 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qkmov.com	canonical name = dns.yktvb.com.
-Name:	dns.yktvb.com
-Address: 104.18.21.69
-Name:	dns.yktvb.com
-Address: 104.18.20.69
+Name:	wei333.com
+Address: 75.2.115.196
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.elizabethterrell.com	canonical name = elizabethterrell.com.
-Name:	elizabethterrell.com
-Address: 198.54.114.216
+yundunwawablogcdn1yd.wawacm.com	canonical name = blogwaf.yava.pw.
+Name:	blogwaf.yava.pw
+Address: 104.25.128.0
+Name:	blogwaf.yava.pw
+Address: 104.17.120.0
+Name:	blogwaf.yava.pw
+Address: 104.24.18.0
+Name:	blogwaf.yava.pw
+Address: 104.17.152.0
+Name:	blogwaf.yava.pw
+Address: 104.18.224.0
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.fxmingdao.com: NXDOMAIN
+Non-authoritative answer:
+yyxycn.com	canonical name = sbcdn.cc.
+sbcdn.cc	canonical name = dash.cloudflare.com.
+Name:	dash.cloudflare.com
+Address: 104.17.110.184
+Name:	dash.cloudflare.com
+Address: 104.17.111.184
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6fb8
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6eb8
 
