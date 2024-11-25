@@ -1,34 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.lyys8.com	canonical name = cname.lingyun.in.
-Name:	cname.lingyun.in
-Address: 172.67.141.208
-Name:	cname.lingyun.in
-Address: 104.21.39.9
-Name:	cname.lingyun.in
-Address: 2606:4700:3032::6815:2709
-Name:	cname.lingyun.in
-Address: 2606:4700:3031::ac43:8dd0
+** server can't find www.fashionlila.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 172.66.41.195
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.162.144
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.228.241
+freeyx.cloudflare88.eu.org	canonical name = xn--vjqp6xkwblzeyv2h.cn.
+xn--vjqp6xkwblzeyv2h.cn	canonical name = asvfgg.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+asvfgg.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global.66666654.xyz.
+Name:	cfcn-b-global.66666654.xyz
+Address: 104.20.18.251
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-xfltd.net	canonical name = 7fec9db2.xfcdn.top.
-7fec9db2.xfcdn.top	canonical name = gb807f5.cdn.xfcdn.top.
-Name:	gb807f5.cdn.xfcdn.top
-Address: 139.196.214.202
+www.sixyin.com	canonical name = 356366.xyz.
+Name:	356366.xyz
+Address: 172.67.179.113
+Name:	356366.xyz
+Address: 104.21.64.84
+Name:	356366.xyz
+Address: 2606:4700:3036::6815:4054
+Name:	356366.xyz
+Address: 2606:4700:3032::ac43:b371
 

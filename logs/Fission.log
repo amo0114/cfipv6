@@ -12770,3 +12770,25 @@ Performing DNS lookup for www.wn05.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 99372b4] Update project files
+ 4 files changed, 67 insertions(+), 75 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   580023e..99372b4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.91.156...
+Fetching domains for 172.66.41.195...
+Fetching domains for 104.18.87.84...
+succeed to fetch domains for 104.18.87.84 from https://dnsdblookup.com/
+succeed to fetch domains for 172.66.41.195 from https://site.ip138.com/
+succeed to fetch domains for 104.18.91.156 from https://dnsdblookup.com/
+域名列表为
+['www.lyys8.com', 'www.xworldadmin.com', 'baxtc.66666654.xyz', 'xfltd.net', 'index1.xxm3u8.top', 'www.55xs.cc', 'speed.marisalnc.com', 'zl.aitrjc.xyz', 'cfip.xxxxxxxx.tk', 'yx.887141.xyz', 'wz.weishao2023.dk.eu.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.lyys8.com...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for xfltd.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
