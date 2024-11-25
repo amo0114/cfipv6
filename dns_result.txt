@@ -2,35 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nsisfans.com	canonical name = cf.080814.xyz.
-Name:	cf.080814.xyz
-Address: 104.21.72.152
-Name:	cf.080814.xyz
-Address: 172.67.186.69
-Name:	cf.080814.xyz
-Address: 2606:4700:3035::6815:4898
-Name:	cf.080814.xyz
-Address: 2606:4700:3034::ac43:ba45
+Name:	www.censys.io
+Address: 104.18.11.85
+Name:	www.censys.io
+Address: 104.18.10.85
+Name:	www.censys.io
+Address: 2606:4700::6812:a55
+Name:	www.censys.io
+Address: 2606:4700::6812:b55
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.wppay.vip
-Address: 104.21.88.142
-Name:	www.wppay.vip
-Address: 172.67.181.240
+Name:	app.censys.io
+Address: 104.18.11.85
+Name:	app.censys.io
+Address: 104.18.10.85
+Name:	app.censys.io
+Address: 2606:4700::6812:b55
+Name:	app.censys.io
+Address: 2606:4700::6812:a55
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	xm2.club
-Address: 172.67.181.240
-Name:	xm2.club
-Address: 104.21.88.142
-Name:	xm2.club
-Address: 2606:4700:3035::ac43:b5f0
-Name:	xm2.club
-Address: 2606:4700:3030::6815:588e
+** server can't find 8567aa.com: NXDOMAIN
 

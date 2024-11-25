@@ -12814,3 +12814,25 @@ Performing DNS lookup for www.sixyin.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 26fbb67] Update project files
+ 4 files changed, 67 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (90%)
+To github.com:amo0114/cfipv6.git
+   3266ac1..26fbb67  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.88.142...
+Fetching domains for 104.17.71.141...
+Fetching domains for 104.16.211.229...
+succeed to fetch domains for 104.16.211.229 from https://site.ip138.com/
+succeed to fetch domains for 104.21.88.142 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.71.141 from https://site.ip138.com/
+域名列表为
+['uniongrouphk.com', 'xm2.club', 'wppay.vip', 'www.zxky.com.cn', 'sp.rweek.top', 'www.99wx.cc', '8877fz.com', 'www.99wxw.cc', 'www.hkdrama.tv', 'cdnus.huabuxiang.vip', '402002.com', 'm.ernrug.top', 'www.fylfvdr.cn', 'www.93xs.net', 'www.18comic6.art', '39cao.com', '3g.ernrug.top', 'www.zongcaiwx.com', 'www.39cao.com', 'www.cfhuagong.com', 'www.lux-review.com', 'www.lyzdzy.com', 'www.jy752.cn', 'www.nitianzw.com', 'event2online.ru', '581555.com', 'm.jiayezb.top', 'wap.jiayezb.top', 'midaoshou.com', 'www.capotonline.com', 'play88my.com', 'www.xm2.club', '8mav832.com', 'www.hjcd41.com', 'www.93xscc.com', 'i948i.com', 'www.zzztch.com', 'tom335.com', 'szene.link', 'ykywx.got13.xyz', 'hjcd41.com', 'www.midaoshou.com', 'www.402002.com', 'www.nsisfans.com', 'xfltd.net', 'www.581555.com', 'www.yh9pk.com', '8y1x.com', 'www.7lq.com', 'www.m6y6.com', 'www.qkyrlnh.cn', 'www.8y1x.com', 'hkdrama.tv', 'www.wppay.vip', 'theporn.top', 'mzansifun.com', 'www.qindi.net', 'www.5522tl.com', 'hregks.asor6.com', 'www.calzadosmayland.com', 'www.wubei520.com', '18comic6.art']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.nsisfans.com...
+Performing DNS lookup for www.wppay.vip...
+Performing DNS lookup for xm2.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
