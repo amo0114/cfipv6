@@ -1,31 +1,36 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.fashionlila.com: NXDOMAIN
+Non-authoritative answer:
+www.nsisfans.com	canonical name = cf.080814.xyz.
+Name:	cf.080814.xyz
+Address: 104.21.72.152
+Name:	cf.080814.xyz
+Address: 172.67.186.69
+Name:	cf.080814.xyz
+Address: 2606:4700:3035::6815:4898
+Name:	cf.080814.xyz
+Address: 2606:4700:3034::ac43:ba45
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-freeyx.cloudflare88.eu.org	canonical name = xn--vjqp6xkwblzeyv2h.cn.
-xn--vjqp6xkwblzeyv2h.cn	canonical name = asvfgg.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-asvfgg.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global.66666654.xyz.
-Name:	cfcn-b-global.66666654.xyz
-Address: 104.20.18.251
+Name:	www.wppay.vip
+Address: 104.21.88.142
+Name:	www.wppay.vip
+Address: 172.67.181.240
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.sixyin.com	canonical name = 356366.xyz.
-Name:	356366.xyz
-Address: 172.67.179.113
-Name:	356366.xyz
-Address: 104.21.64.84
-Name:	356366.xyz
-Address: 2606:4700:3036::6815:4054
-Name:	356366.xyz
-Address: 2606:4700:3032::ac43:b371
+Name:	xm2.club
+Address: 172.67.181.240
+Name:	xm2.club
+Address: 104.21.88.142
+Name:	xm2.club
+Address: 2606:4700:3035::ac43:b5f0
+Name:	xm2.club
+Address: 2606:4700:3030::6815:588e
 

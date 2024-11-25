@@ -12792,3 +12792,25 @@ Performing DNS lookup for xfltd.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3266ac1] Update project files
+ 4 files changed, 62 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   99372b4..3266ac1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.78.20...
+Fetching domains for 104.16.48.238...
+Fetching domains for 104.18.79.160...
+succeed to fetch domains for 104.16.48.238 from https://site.ip138.com/
+succeed to fetch domains for 104.18.79.160 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.78.20 from https://site.ip138.com/
+域名列表为
+['fan.yutian.us.kg', 'www.roo5.com', 'cfip.201043.xyz', 'fldsubgigtujuy.76898102.xyz', 'yh7.dtku41.xyz', 'www.ddwhm.com', 'www.iios.club', 'yx.887141.xyz', 'blog.xiaoxia.vip', 'jpvsavhyu.76898102.xyz', 'www.sixyin.com', 'freeyx.cloudflare88.eu.org', 'www.p2007.com', 'achk.cloudflarest.link', 'www.fashionlila.com', 'cloudflare.182682.xyz', 'ipdb.rr.nu', 'bestcf.onecf.eu.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.fashionlila.com...
+Performing DNS lookup for freeyx.cloudflare88.eu.org...
+Performing DNS lookup for www.sixyin.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
