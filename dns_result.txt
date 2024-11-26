@@ -2,41 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.33mov.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	z8q5.av238.top
+Address: 154.23.64.98
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.c333.net	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+Name:	www.adorocinema.com
+Address: 104.18.32.239
+Name:	www.adorocinema.com
+Address: 172.64.155.17
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.881dy.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+Name:	laowang.co
+Address: 103.172.111.17
+Name:	laowang.co
+Address: 103.172.111.16
+Name:	laowang.co
+Address: 103.172.111.18
+Name:	laowang.co
+Address: 103.172.111.19
+Name:	laowang.co
+Address: 103.172.111.20
+laowang.co	canonical name = lwdy.xyz.
 
