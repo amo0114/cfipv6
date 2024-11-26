@@ -12995,3 +12995,25 @@ Performing DNS lookup for www.881dy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c11396d] Update project files
+ 4 files changed, 68 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   5581b95..c11396d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.29.186...
+Fetching domains for 104.18.133.161...
+Fetching domains for 104.21.79.215...
+succeed to fetch domains for 104.18.133.161 from https://site.ip138.com/
+succeed to fetch domains for 104.18.29.186 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.79.215 from https://ipchaxun.com/
+域名列表为
+['www.bl25.cn', 'zdgtl.com', 'tra-de-me.shop', '9999.av238.top', 'caobb.av238.top', 'www.js100.cc', 'www.xkxempire.com', 'nlsdwsz.66666654.xyz', 'www.63336.com', '91xx.av238.top', 'www.ta16.app', 'spl.kanopystreaming.com', 'www.a789fh.com', 'x66av.xyz', 'pg5r.av238.top', 'wap.tvmhrt.top', 'vbw0.av238.top', 'd18h.av238.top', 'admin.servebolt.com', '17se.av238.top', '8888.av238.top', 'ta16.app', 'www.dbj88888.com', 'bl25.cn', 'xxoo.av238.top', 'xkxempire.com', 'qfgy.av238.top', 'qwef.av238.top', 'lol.zuodanbaokeji.com', 'www.zuodanbaokeji.com', 'www.lcqlddp.com', '1u123.com', '369gh.com', 'www.hebcmcb.com', 'ihd1.av238.top', 'hub.gitmirror.com', 'www.llcbhqw.cn', 'dlshzz.org.cn', 'account.hongmengshijie.net', 'cdn.hongmengshijie.net', 'www.adorocinema.com', 'wbhn.cc', 'china-un.org', 'piyi.av238.top', 'www.5aihh.cn', 'www.lahfjc.com', 'sipgl-fa.com', 'ccav.av238.top', 'www.652tv.com', 'www.ksw56.com', '1663991700.awr.rvjvje.cn', 'jav468.club', 'www.tvmhrt.top', 'kaixinmoyu.xyz', 'x3r4.av238.top', '3wj6.av238.top', 'chhv.av238.top', 'sese.av238.top', 'tvmhrt.top', 'www.marsbirdoe.com', 'www.dlshzz.org.cn', 'x0x0x.av238.top', 'www.369gh.com', 'www.av238.top', 'www.cxsyfz.com', 's7bu.av238.top', '544956.com', 'www.renecassin.org', '69xx.av238.top', '07rx.av238.top', 'yyds.av238.top', 'www.youtiao.app', 'dbj88888.com', '52mm.av238.top', 'www.hnmbnc.top', 'av91.av238.top', 'vttm.av238.top', 'www.jav468.club', 'www.china-un.org', 'www.fzkswl08.cn', '39daoav.com', 'www.aj5w.com', 'aj5w.com', 'm.y3600.cz', 'aiwu-tv.xyz', 'kk44kk.av238.top', 'xxbb.av238.top', '5g9.cc', 'm.tvmhrt.top', 'nankoyo.com', 'acus.cloudflarest.link', 'av238.top', 'a789fh.com', 'js100.cc', '3g.hnmbnc.top', '933ne.com', 'www.hnzzdq.com', '2baz.av238.top', 'qj8h.av238.top', 'hongmengshijie.net', '63336.com', 'www.dmzg-cn.com', 'www.iios.me', 'guiweb.x66av.xyz', 'bsxv.av238.top', 'www.ybvip111.com', 'xopa.av238.top', '52read.top', 'lahfjc.com', 'z8q5.av238.top', 'xxx.av238.top', 'www.cfhuagong.com', '211moyu.com', 'cctv.av238.top', 'laowang.co', '3g.tvmhrt.top', 'www.x66av.xyz', 'aavv.av238.top', 'isguvenlikmarket.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for z8q5.av238.top...
+Performing DNS lookup for www.adorocinema.com...
+Performing DNS lookup for laowang.co...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
