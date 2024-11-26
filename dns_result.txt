@@ -2,22 +2,43 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.fastlink.so
-Address: 104.21.84.245
-Name:	www.fastlink.so
-Address: 172.67.199.107
-Name:	www.fastlink.so
-Address: 2606:4700:3033::ac43:c76b
-Name:	www.fastlink.so
-Address: 2606:4700:3030::6815:54f5
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.22n1.com: NXDOMAIN
+Non-authoritative answer:
+qr99.cc	canonical name = chzko.c4bla.bond.
+Name:	chzko.c4bla.bond
+Address: 172.67.219.29
+Name:	chzko.c4bla.bond
+Address: 104.21.62.29
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3034::6815:3e1d
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3030::ac43:db1d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find wap.xnxx-xvideos.video: NXDOMAIN
+Non-authoritative answer:
+www.omd2008.com	canonical name = img.dns.ubu-kdi8.com.
+img.dns.ubu-kdi8.com	canonical name = cdndns.128xf.com.
+Name:	cdndns.128xf.com
+Address: 104.21.9.19
+Name:	cdndns.128xf.com
+Address: 172.67.140.246
+Name:	cdndns.128xf.com
+Address: 2606:4700:3037::ac43:8cf6
+Name:	cdndns.128xf.com
+Address: 2606:4700:3031::6815:913
 

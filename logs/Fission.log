@@ -13017,3 +13017,25 @@ Performing DNS lookup for laowang.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7a7230d] Update project files
+ 4 files changed, 52 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   c11396d..7a7230d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.100.64...
+Fetching domains for 104.21.84.245...
+Fetching domains for 104.18.216.154...
+succeed to fetch domains for 104.21.84.245 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.100.64 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.216.154 from https://site.ip138.com/
+域名列表为
+['szfczc.com', 'jb8.mom', 'ccav.av696.top', 'www.9zgg.com', '17se.av696.top', 'www.luwangyangrong.com', 'ff732.com', 'helmetmic.com', 'nileke.479t2c.cn', 'www.zgjmw.net', 'wap.xnxx-xvideos.video', 'www.paperpub.org', 'www.qsdw2020.com', 'goshop2018.com', 'www.99wxw.cc', 'x0x0x.av696.top', 'juhbxshop.top', '84maoff.com', 'rrty666.com', 'shibukedang.wantongchina.com', 'www.333nnm.com', '69xx517.xyz', 'jgw878.com', 'owns.zxcvbd.com', 'mu9j.com', 'msijdkgziknryx.com', 'www.tpyyc.com', 'www.jinrongshangchang.com', '51hitv.com', 'www.22n1.com', 'xnxx-xvideos.video', 'gsn48.com', 'www.dresseswot.top', 'yijun.news.479t2c.cn', 'm.pdrxz.top', 'cloud.rainkavik.com', 'komani.moe', 'hardxhd.com', 'npwdn.f56asf456faafaf23.com', 'xxoo.av696.top', 'www.jgw878.com', 'www.marinelog.com', 'bb.jgdns.top', '52mm.av696.top', 'achk.cloudflarest.link', 'yyds.av696.top', 'aavv.av696.top', 'www.wz816.cn', 'man.luwangyangrong.com', 'sese.av696.top', 'caobb.av696.top', 'dresseswot.top', 'xxx.av696.top', 'jinrongshangchang.com', 'eatyourkimchi.com', 'www.51jion.com', 'kk44kk.av696.top', 'fastlink.so', '333nnm.com', 'carlos-recalde.com', 'www.migudy.com', 'baozang2.com', 'www.hdmoli.com', '39179922.com', 'www.eatyourkimchi.com', 'www.ikankan.tv', 'www.93xs.net', '8888.av696.top', 'ikankan.tv', 'yt805.com', 'xxbb.av696.top', '69xx.av696.top', 'www.92iii.com', 'down.rrty666.com', 'www.84maoff.com', 'a.jgdns.top', 'www.fastlink.so', '3g.dresseswot.top', 'www.doupobook.com', 'www.szfczc.com', '92iii.com', 'cdntg.yh28.vip', 'www.456gg.com', 'p3.gv011.vip', '22n1.com', 'www.av696.top', 'www.coucoulive.com', 'rainkavik.com', 'www.e0101.com', 'a.xxnv.link', '15342752368.com', '91xx.av696.top', 'ii037.com', 'www.rainkavik.com', 'www.ishvkvo.cn', 'm.dresseswot.top', 'www.sepmah.com', 'www.venturamalta.com', 'www305.com', 'av91.av696.top', 'gruzovoy.ru', '55a.uk', 't-one01.com', 'cctv.av696.top', 'u6cdp.mom', 'p1.gv011.vip']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.fastlink.so...
+Performing DNS lookup for www.22n1.com...
+Performing DNS lookup for wap.xnxx-xvideos.video...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
