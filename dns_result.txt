@@ -2,35 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xuanqishi.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.147.223
-Name:	ips.993888.xyz
-Address: 104.16.220.252
-Name:	ips.993888.xyz
-Address: 104.17.174.49
+Name:	www.nightclub.com
+Address: 172.67.136.144
+Name:	www.nightclub.com
+Address: 104.21.89.30
+Name:	www.nightclub.com
+Address: 2606:4700:3030::6815:591e
+Name:	www.nightclub.com
+Address: 2606:4700:3032::ac43:8890
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.77kpo.com	canonical name = lunhuan.24cdn.top.
-Name:	lunhuan.24cdn.top
-Address: 172.67.3.135
-Name:	lunhuan.24cdn.top
-Address: 104.17.139.3
-Name:	lunhuan.24cdn.top
-Address: 162.159.137.196
-Name:	lunhuan.24cdn.top
-Address: 172.67.251.106
-Name:	lunhuan.24cdn.top
-Address: 172.67.250.146
-Name:	lunhuan.24cdn.top
-Address: 104.16.112.124
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
+Name:	www.zzztch.com
+Address: 91.195.240.12
 

@@ -13083,3 +13083,25 @@ Performing DNS lookup for m.niuerzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 42839e4] Update project files
+ 4 files changed, 72 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   552492f..42839e4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.62.145...
+Fetching domains for 104.17.124.166...
+Fetching domains for 104.16.246.189...
+succeed to fetch domains for 104.16.246.189 from https://site.ip138.com/
+succeed to fetch domains for 104.17.62.145 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.124.166 from https://site.ip138.com/
+域名列表为
+['www.cfhuagong.com', 'www.imeijutv.com', 'www.77kp.com', 'api.yjyfdc.com', 'www.tv9090.com', 'www.iios.club', 'www.223ss.com', 'radar.vtchat1.com', 'www.sbdm.net', 'www.77kpo.com', '66se2.com', 'm.niuerzs.com', 'dsxys.com', 'www.58yj.tv', 'panel3.touhou.tel', 'mip.xbiquge.me', 'www.nanhuyt.com', 'www.gmmpic.com', 'gmmpic.com', 'www.lyzdzy.com', 'www.77ty.com', 'www.jinbozhiyue.com', 'www.xuanqishi.com', 'www.xbiquge.me', 'www.kuaikan66.com', '1.ao3-cn.top', 'www.yjyfdc.com', 'www.93xscc.com', 'www.wlyjy.cn', 'e0101.com', 'yh.fgmjm.com', 'cfip.xxxxxxxx.tk', 'lunhuan.24cdn.top', 'yjyfdc.com', 'm.77kp.com', 'yh.yjyfdc.com', 'www.4myy.com', 'tv.ci']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xuanqishi.com...
+Performing DNS lookup for www.77kpo.com...
+Performing DNS lookup for m.niuerzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
