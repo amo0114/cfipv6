@@ -12929,3 +12929,25 @@ Performing DNS lookup for yyxycn.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main db69aad] Update project files
+ 4 files changed, 63 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   ac3d114..db69aad  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.9.172...
+Fetching domains for 198.41.218.179...
+Fetching domains for 104.18.206.149...
+succeed to fetch domains for 104.18.206.149 from https://site.ip138.com/
+succeed to fetch domains for 104.18.9.172 from https://site.ip138.com/
+succeed to fetch domains for 198.41.218.179 from https://ipchaxun.com/
+域名列表为
+['cg.22yy7.com', 'www.52dyk.com', 'www.80yy.org', 'www.xkceo.com', 'www.lao567.com', 'm.50zw.co', 'wfqmcg.com.cn', 'www.ccx42.com', 'www.dy420.com', 'www.tvyb02.com', 'cf.openxai.link', 'www.m6y6.com', 'www.7749tv.com', 'd3.xia12345.com', 'bqg34.com', 'www.99wxw.cc', 'www.b7yy.cc', 'www.99xkxtl.com', 'www.hhyy028.com', 'www.ddwhm.com', 'dsxys.pro', 'www.50zw.co', 'www.cx888my.com', 'www.tpyyc.com', 'www.c333.net', 'm.tvccc.org', 'hk.44xf.top', 'www.33mov.com', 'yan176.com', '131hi.com', 'www.xwsxs.com', 'www.131hi.com', '9764hu.com', 'yunpan1.cc', 'www.awanmy.com', 'www.zsych.net', 'www.yx521.net', 'm.vod12.com', 'lao567.com', 'x3y44.com', 'ccx42.com', 'baxtc.66666654.xyz', 'www.jg666.top', 'cf1.492745.xyz', 'www.888dyy.cc', 'www.aiquyy.com', 'tw.44xf.top', 'www.9764hu.com', 'www.dypf8.cc', 'www.zongcaiwx.com', 'documents.4rgos.it', 'www.ydxs.cc', 'www.9898my.top', 'www.881dy.com', 'www.tvccc.org', 'cg.33xf.cc', '7.namesilo123.top', 'www.77yeye.com', 'www.xinpian8.com', 'www.x3y44.com', 'xs.wxtv.cc', 'www.4huxss.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.881dy.com...
+Performing DNS lookup for cf.openxai.link...
+Performing DNS lookup for www.dypf8.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
