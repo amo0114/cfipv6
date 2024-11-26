@@ -12951,3 +12951,25 @@ Performing DNS lookup for www.dypf8.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 704ec28] Update project files
+ 4 files changed, 58 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   db69aad..704ec28  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.197.249...
+Fetching domains for 104.18.162.228...
+Fetching domains for 104.18.237.215...
+succeed to fetch domains for 104.25.197.249 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.162.228 from https://site.ip138.com/
+succeed to fetch domains for 104.18.237.215 from https://dnsdblookup.com/
+域名列表为
+['oshi.io', 'www.czzwl.com', 'www.51jion.com', 'www.91m.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.51jion.com...
+Performing DNS lookup for www.91m.cc...
+Performing DNS lookup for oshi.io...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

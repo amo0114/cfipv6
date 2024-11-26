@@ -2,26 +2,41 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.51jion.com	canonical name = img.dns.ubu-kdi8.com.
-img.dns.ubu-kdi8.com	canonical name = cdndns.128xf.com.
-Name:	cdndns.128xf.com
-Address: 172.67.140.246
-Name:	cdndns.128xf.com
-Address: 104.21.9.19
-Name:	cdndns.128xf.com
-Address: 2606:4700:3031::6815:913
-Name:	cdndns.128xf.com
-Address: 2606:4700:3037::ac43:8cf6
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.91m.cc: NXDOMAIN
+www.33mov.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	oshi.io
-Address: 92.53.191.59
+www.c333.net	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.881dy.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
 
