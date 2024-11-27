@@ -2,18 +2,29 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.66se.tv
-Address: 37.48.65.144
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.jg666.top: NXDOMAIN
+Name:	789ys.com
+Address: 104.21.85.11
+Name:	789ys.com
+Address: 172.67.200.176
+Name:	789ys.com
+Address: 2606:4700:3030::ac43:c8b0
+Name:	789ys.com
+Address: 2606:4700:3032::6815:550b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	acjp2.cloudflarest.link
-Address: 104.247.82.50
+www.emp-online.it	canonical name = www.emp-online.it.cdn.cloudflare.net.
+Name:	www.emp-online.it.cdn.cloudflare.net
+Address: 104.17.48.186
+Name:	www.emp-online.it.cdn.cloudflare.net
+Address: 104.17.49.186
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.zzztch.com
+Address: 91.195.240.12
 

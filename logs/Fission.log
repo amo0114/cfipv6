@@ -13282,3 +13282,25 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dfd27c3] Update project files
+ 4 files changed, 49 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   3b5d138..dfd27c3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.29.23...
+Fetching domains for 104.17.148.97...
+Fetching domains for 104.18.80.241...
+succeed to fetch domains for 104.18.80.241 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.148.97 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.29.23 from https://site.ip138.com/
+域名列表为
+['www.lyzdzy.com', 'www.gaoqingw.com', 'www.66se.tv', 'hx.746556.xyz', 'www.jg666.top', 'acjp2.cloudflarest.link', 'xfltd.net', 'www.ganpian.com', 'www.zzztch.com', 'www.kunzedu.com', 'www.kbss888.com', 'www.e0101.com', 'www.tl123123.com', 'sxe21.cn', 'www.rxjh520.cc', 'proxyip.us.fxxk.dedyn.io', 'vcd.la', 'm.niuerzs.com', '4gdiy.com', 'ipdb.rr.nu', 'www.yncareer.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.66se.tv...
+Performing DNS lookup for www.jg666.top...
+Performing DNS lookup for acjp2.cloudflarest.link...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
