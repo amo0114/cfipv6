@@ -13172,3 +13172,26 @@ Performing DNS lookup for 789kp.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0dd2412] Update project files
+ 4 files changed, 85 insertions(+), 251 deletions(-)
+ rewrite Fission_ip_backup.txt (99%)
+ rewrite dns_result.txt (96%)
+To github.com:amo0114/cfipv6.git
+   0cbbd97..0dd2412  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.73.208...
+Fetching domains for 104.22.24.52...
+Fetching domains for 104.18.78.49...
+succeed to fetch domains for 104.18.73.208 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.78.49 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.24.52 from https://ipchaxun.com/
+域名列表为
+['www.tvccc.org', 'm.163fahao.com', 'cmcc.hza1128.us.kg', 'iios.club', 'www.iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for cmcc.hza1128.us.kg...
+Performing DNS lookup for m.163fahao.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

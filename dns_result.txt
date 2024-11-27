@@ -2,43 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+www.50zw.co	canonical name = luoqiucdn.com.
+luoqiucdn.com	canonical name = cdn.cloudfront.bz.
+cdn.cloudfront.bz	canonical name = 77980.bodis.com.
+Name:	77980.bodis.com
+Address: 199.59.243.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cmcc.hza1128.us.kg
-Address: 104.17.140.205
-Name:	cmcc.hza1128.us.kg
-Address: 104.17.134.243
-Name:	cmcc.hza1128.us.kg
-Address: 104.17.139.14
-Name:	cmcc.hza1128.us.kg
-Address: 190.93.247.147
-Name:	cmcc.hza1128.us.kg
-Address: 162.159.60.138
-Name:	cmcc.hza1128.us.kg
-Address: 190.93.244.237
-Name:	cmcc.hza1128.us.kg
-Address: 141.101.114.230
-Name:	cmcc.hza1128.us.kg
-Address: 190.93.246.98
+Name:	www.kxgdyw.com
+Address: 208.98.43.134
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.163fahao.com	canonical name = pltraffic7.com.
-Name:	pltraffic7.com
-Address: 72.52.179.174
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global11.66666654.xyz.
+Name:	cfcn-a-global11.66666654.xyz
+Address: 104.20.21.208
 
