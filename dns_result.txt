@@ -2,25 +2,21 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.50zw.co	canonical name = luoqiucdn.com.
-luoqiucdn.com	canonical name = cdn.cloudfront.bz.
-cdn.cloudfront.bz	canonical name = 77980.bodis.com.
-Name:	77980.bodis.com
-Address: 199.59.243.227
+Name:	111999.me
+Address: 172.67.133.246
+Name:	111999.me
+Address: 104.21.25.93
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kxgdyw.com
-Address: 208.98.43.134
+*** Can't find hualigs.cn: No answer
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global11.66666654.xyz.
-Name:	cfcn-a-global11.66666654.xyz
-Address: 104.20.21.208
+Name:	www.tpyyc.com
+Address: 107.148.242.9
 
