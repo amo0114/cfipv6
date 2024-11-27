@@ -13127,3 +13127,25 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ab950c5] Update project files
+ 4 files changed, 73 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   333302a..ab950c5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.251.57...
+Fetching domains for 104.18.19.126...
+Fetching domains for 104.18.187.207...
+succeed to fetch domains for 104.17.251.57 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.187.207 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.19.126 from https://ipchaxun.com/
+域名列表为
+['www.gmc-uk.org', 'www.anluyg.net', 'www.93xscc.com', 'www.652tv.com', 'liebaonet42.com', 'vcd.la', 'lorealprofessionnel.com.au', 'www.wn01.cc', 'www.pianku5.com', 'rry26.com', 'www.28et.com', 'www.lyzdzy.com', 'btdad.cloud', 'btdad13.xyz', 'www.daomubiji.cc', 'dsum-sec.casalemedia.com.cdn.cloudflare.net', 'r.casalemedia.com', 'ios.xinbosign.com', 'www.rry26.com', '5123ca.com', 'btdad.cyou', 'static-web.8ar7dbcwtr.com', 'www.5123ca.com', 'htlb.casalemedia.com', 'www.iios.club', 'www.f8yy.com', 'www.02yy.com', 'ssum-sec.casalemedia.com', '4.868896.xyz', 'www.iios.fun', 'cfcdn3.sanfencdn9.com', 'www.85xs.cc', 'www.whpaiger.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 5123ca.com...
+Performing DNS lookup for www.daomubiji.cc...
+Performing DNS lookup for lorealprofessionnel.com.au...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
