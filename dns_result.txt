@@ -2,26 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.nightclub.com
-Address: 172.67.136.144
-Name:	www.nightclub.com
-Address: 104.21.89.30
-Name:	www.nightclub.com
-Address: 2606:4700:3030::6815:591e
-Name:	www.nightclub.com
-Address: 2606:4700:3032::ac43:8890
+Name:	5123ca.com
+Address: 104.21.63.124
+Name:	5123ca.com
+Address: 172.67.170.173
+Name:	5123ca.com
+Address: 2606:4700:3033::6815:3f7c
+Name:	5123ca.com
+Address: 2606:4700:3037::ac43:aaad
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+www.daomubiji.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.186.116
+Name:	ips.993888.xyz
+Address: 104.17.192.117
+Name:	ips.993888.xyz
+Address: 104.16.156.50
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 91.195.240.12
+Name:	lorealprofessionnel.com.au
+Address: 172.64.150.146
+Name:	lorealprofessionnel.com.au
+Address: 104.18.37.110
+Name:	lorealprofessionnel.com.au
+Address: 2606:4700:4400::ac40:9692
+Name:	lorealprofessionnel.com.au
+Address: 2606:4700:4400::6812:256e
 

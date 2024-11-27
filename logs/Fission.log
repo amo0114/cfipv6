@@ -13105,3 +13105,25 @@ Performing DNS lookup for m.niuerzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 333302a] Update project files
+ 4 files changed, 59 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   42839e4..333302a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.62.173...
+Fetching domains for 104.17.54.137...
+Fetching domains for 104.17.187.142...
+succeed to fetch domains for 104.17.54.137 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.62.173 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.187.142 from https://ipchaxun.com/
+域名列表为
+['xinixn.m3u8list.top', 'achk.cloudflarest.link', 'www.zzztch.com', 'www.xiuluo942.com', 'www.lyzdzy.com', 'www.iios.club', 'www.75uw.com', 'www.6988tv.com', 'www.xbiquge.me', 'www.nightclub.com', 'mip.xbiquge.me', 'wap.xbiquge.me', 'www.cocanwelding.com', 'www.whpaiger.com', 'www.1a1v.com', 'www.4myy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.nightclub.com...
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for www.zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
