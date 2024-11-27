@@ -13149,3 +13149,26 @@ Performing DNS lookup for lorealprofessionnel.com.au...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0cbbd97] Update project files
+ 4 files changed, 273 insertions(+), 52 deletions(-)
+ rewrite Fission_ip_backup.txt (94%)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   ab950c5..0cbbd97  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.203.186...
+Fetching domains for 104.18.11.253...
+Fetching domains for 104.17.241.146...
+succeed to fetch domains for 104.18.11.253 from https://site.ip138.com/
+succeed to fetch domains for 104.17.241.146 from https://site.ip138.com/
+succeed to fetch domains for 104.17.203.186 from https://site.ip138.com/
+域名列表为
+['www.789kp.com', 'baxtc.66666654.xyz', 'www.jswojx.com', 'www.hmzj999.com', 'www.kan234.com', 'www.4kmh.cc', 'www.9ehao.com', 'www.qmask.gov.hk', 'www.ddwhm.com', 'ipdb.rr.nu', 'www.bisnode.lv', 'speed.marisalnc.com', 'cgcc.digicert.pp.ua', '789kp.com', '086181.xyz', 'cloudflare.cfgo.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ddwhm.com...
+Performing DNS lookup for ipdb.rr.nu...
+Performing DNS lookup for 789kp.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
