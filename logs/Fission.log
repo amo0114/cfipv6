@@ -13260,3 +13260,25 @@ Performing DNS lookup for nlbb.cloudflare.182682.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3b5d138] Update project files
+ 4 files changed, 70 insertions(+), 59 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   4026dcb..3b5d138  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.130.93...
+Fetching domains for 104.18.245.244...
+Fetching domains for 104.18.69.100...
+succeed to fetch domains for 104.18.69.100 from https://site.ip138.com/
+succeed to fetch domains for 104.18.130.93 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.245.244 from https://ipchaxun.com/
+域名列表为
+['www.vgimall.com', 'www.dy420.com', 'pan.isoyu.com', 'zpdyw.com', 'll-1818.com', 'usshsaba.114514782.xyz', 'www.iios.club', 'man.luwangyangrong.com', 'www.metro.pr', 'www.7749tv.cc', 'www.66se14.com', 'm.tlyy.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.metro.pr...
+Performing DNS lookup for www.66se14.com...
+Performing DNS lookup for www.iios.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

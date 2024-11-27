@@ -2,37 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.metro.pr	canonical name = metroworldnews-mwnpuertorico-prod.arc-dns.net.
-metroworldnews-mwnpuertorico-prod.arc-dns.net	canonical name = 132846.edgesuite.net.
-132846.edgesuite.net	canonical name = a640.dscr.akamai.net.
-Name:	a640.dscr.akamai.net
-Address: 23.206.229.110
-Name:	a640.dscr.akamai.net
-Address: 23.206.229.111
-Name:	a640.dscr.akamai.net
-Address: 2600:1406:5e00:6::17ce:bc46
-Name:	a640.dscr.akamai.net
-Address: 2600:1406:5e00:6::17ce:bc29
+Name:	www.66se.tv
+Address: 37.48.65.144
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.jg666.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.66se14.com
-Address: 103.224.212.216
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+Name:	acjp2.cloudflarest.link
+Address: 104.247.82.50
 
