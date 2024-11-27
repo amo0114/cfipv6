@@ -13217,3 +13217,25 @@ Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 50bb985] Update project files
+ 4 files changed, 52 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   5f2c162..50bb985  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.25.93...
+Fetching domains for 104.21.121.49...
+Fetching domains for 104.21.103.23...
+succeed to fetch domains for 104.21.103.23 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.121.49 from https://site.ip138.com/
+succeed to fetch domains for 104.21.25.93 from https://ipchaxun.com/
+域名列表为
+['v.baidu-cloudflare-cdn.com', 'd3j4fs.top', '1wefkva.top', 'm.8090ys.com', 'x2e9c.com', 'www.yhmymall.com', 'www.111999.me', 'm.d3j4fs.top', 'davezo.com', 'www.hmoe12.com', 'www.qhzhiweizhe.com', 'twcai.com', 'luoxia.com', 'd345f.com', 'hmoe12.com', '123buycn.com', 'www.cfhuagong.com', '4288ddd.com', 'www.wenzhouhongjian.com', 'pyongshop.com', 'www.haisheng-chem.com', 'wap.d3j4fs.top', 'fvp.app', 'www.8090ys.com', 'www.x2e9c.com', 'bbk222.com', 'www.1wefkva.top', 'www.kuaipinhr.com', 'm.gg1gg.com', 'www.hbslv.com', '5865vip28.com', 'njpeb.com', 'm.1wefkva.top', 'm.wangwafu.top', 'www.dlyoumi.com', '089srgjkh03.ajjsyqdrds.com', 'www.q2042.com', '9754hu.com', 'hualigs.cn', 'oortech.xyz', 'www.zzweida.cn', 'wangwafu.top', 'www.luoxia.com', 'www.zzztch.com', 'www.4j4j.cn', '987612.com', 'm.sckankan.com', 'www.789kp.com', '8090ys.com', 'www.d3j4fs.top', 'pinkandblue.al', 'www.gg1gg.com', 'www.bkwu.top', 'wap.wangwafu.top', 'tzdbt.com.cn', 'aravot-ru.am', 'www.123buycn.com', 'cld80.buzz', 'gt8888.cc', 'www.wangwafu.top', '111999.me', 'www.zpdyw.com', 'gg1gg.com', '123ii.net', 'www.hualigs.cn', '3g.bkwu.top', 'mm.91koukou18.xyz', 'www.iios.club', 'www.aravot-ru.am', 'm.tzdbt.com.cn', 'wap.bkwu.top', '3g.wangwafu.top', 'www.53dyy.com', '3g.d3j4fs.top', 'www.whpaiger.com', 'yhmymall.com', 'zdpchawohhfsa.com', 'bkwu.top', 'www.d345f.com', 'www.laoziys.tv', '377ga.com', 'yespornpleasex.com', '53dyy.com', 'dj8.xyz', '3g.1wefkva.top', 'www.y3600.cz', 'm.niuerzs.com', '28et.com', '58f4h1.com', 'zx.96532.mom', 'www.792ch.com', 'www.4288ddd.com', '792ch.com', 'www.ntxingke.cn', 'wap.1wefkva.top', 'www.xpdd.top', 'mp3bedaval.com', 'www.bbk222.com', 'www.cocanwelding.com', 'dgougou.com', 'qiezisp30.xyz', 'laoziys.tv', 'cfip.xxxxxxxx.tk', 'm.bkwu.top', 'www.9754hu.com', 'www.tpyyc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 111999.me...
+Performing DNS lookup for hualigs.cn...
+Performing DNS lookup for www.tpyyc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
