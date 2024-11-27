@@ -2,43 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.43.71
+www.metro.pr	canonical name = metroworldnews-mwnpuertorico-prod.arc-dns.net.
+metroworldnews-mwnpuertorico-prod.arc-dns.net	canonical name = 132846.edgesuite.net.
+132846.edgesuite.net	canonical name = a640.dscr.akamai.net.
+Name:	a640.dscr.akamai.net
+Address: 23.206.229.110
+Name:	a640.dscr.akamai.net
+Address: 23.206.229.111
+Name:	a640.dscr.akamai.net
+Address: 2600:1406:5e00:6::17ce:bc46
+Name:	a640.dscr.akamai.net
+Address: 2600:1406:5e00:6::17ce:bc29
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nitianxieshen.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.227.75
-Name:	ips.993888.xyz
-Address: 104.17.206.208
-Name:	ips.993888.xyz
-Address: 104.16.17.66
+Name:	www.66se14.com
+Address: 103.224.212.216
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	nlbb.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	nlbb.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	nlbb.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	nlbb.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	nlbb.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	nlbb.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	nlbb.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	nlbb.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	nlbb.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	nlbb.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 

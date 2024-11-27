@@ -13239,3 +13239,24 @@ Performing DNS lookup for www.tpyyc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4026dcb] Update project files
+ 4 files changed, 66 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   50bb985..4026dcb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.187.244...
+Fetching domains for 108.162.198.96...
+Fetching domains for 104.17.87.168...
+succeed to fetch domains for 108.162.198.96 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.87.168 from https://site.ip138.com/
+succeed to fetch domains for 104.20.187.244 from https://ipchaxun.com/
+域名列表为
+['nlbb.cloudflare.182682.xyz', 'www.hnhcbw.com', 'www.nitianxieshen.com', 'www.lyzdzy.com', 'cfip.xxxxxxxx.tk', 'www.99wx.cc', 'www.wn01.cc', 'www.zongcaixs.com', 'www.xinjuc.com', 'www.652tv.com', 'www.qindixs.com', 'www.yedu360.com', 'www.xiuluo942.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.lyzdzy.com...
+Performing DNS lookup for www.nitianxieshen.com...
+Performing DNS lookup for nlbb.cloudflare.182682.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
