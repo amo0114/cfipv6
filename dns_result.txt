@@ -2,25 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.zhuizhuiju.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
-
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
-
-** server can't find 66se5.com: SERVFAIL
+www.northcharlestoncoliseumpac.com	canonical name = northcharlestoncoliseumpac.carbonhousedns.com.
+northcharlestoncoliseumpac.carbonhousedns.com	canonical name = j.sni.global.fastly.net.
+Name:	j.sni.global.fastly.net
+Address: 151.101.2.132
+Name:	j.sni.global.fastly.net
+Address: 151.101.194.132
+Name:	j.sni.global.fastly.net
+Address: 151.101.130.132
+Name:	j.sni.global.fastly.net
+Address: 151.101.66.132
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.07xd.com: NXDOMAIN
+** server can't find 4husp992.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.4husp992.com: NXDOMAIN
 

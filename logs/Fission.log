@@ -13325,3 +13325,25 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2b35373] Update project files
+ 4 files changed, 56 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   b8094fe..2b35373  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.195.200...
+Fetching domains for 104.17.76.119...
+Fetching domains for 141.101.122.100...
+succeed to fetch domains for 104.18.195.200 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.76.119 from https://ipchaxun.com/
+succeed to fetch domains for 141.101.122.100 from https://ipchaxun.com/
+域名列表为
+['cf-lt.sharecentre.online', 'www.nitianxieshen.com', 'www.zpdyw.com', 'www.fajiao.org', 'www.ddwhm.com', 'nlsdwsz.66666654.xyz', 'baxtc.66666654.xyz', 'www.dy1255.com', 'jpvsavhyu.76898102.xyz', 'www.nsisfans.com', 'www.07xd.com', 'www.zhuizhuiju.com', 'speed.marisalnc.com', 'www.606977.com', 'one.gptnb.me', 'www.24xunlei.com', 'default.cfnode.eu.org', 'www.lyys8.com', '26.namesilo123.top', 'fldsubgigtujuy.76898102.xyz', 'www.4148.net', 'freeyx.cloudflare88.eu.org', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.dowelle.com', 'cfip.201043.xyz', 'www.boyangjt.com', 'www.zongcaixs.com', 'www.66se4.com', 'www.881dy.com', 'chunbb.sectigo.pp.ua', 'zl.aitrjc.xyz', 'stock.hostmonit.com', 'manhuadb.com', 'www.zongcaixs.cc', '7.namesilo123.top', 'www.jjtyss.com', 'www.qp666.com', 'yh6.dtku41.xyz', '923055.com', 'hg2096.com', 'www.tvccc.org', 'www.80yy.org', 'www.xworldadmin.com', '66se5.com', 'yx.887141.xyz', 'www.huanyaad.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zhuizhuiju.com...
+Performing DNS lookup for 66se5.com...
+Performing DNS lookup for www.07xd.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
