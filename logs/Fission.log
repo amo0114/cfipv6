@@ -13304,3 +13304,24 @@ Performing DNS lookup for acjp2.cloudflarest.link...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b8094fe] Update project files
+ 4 files changed, 48 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   dfd27c3..b8094fe  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.49.186...
+Fetching domains for 104.17.184.230...
+Fetching domains for 104.17.216.124...
+succeed to fetch domains for 104.17.216.124 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.49.186 from https://site.ip138.com/
+succeed to fetch domains for 104.17.184.230 from https://site.ip138.com/
+域名列表为
+['www.emp-online.it', 'www.cfhuagong.com', '789ys.com', 'm.niuerzs.com', 'www.zzztch.com', '36mh.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 789ys.com...
+Performing DNS lookup for www.emp-online.it...
+Performing DNS lookup for www.zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

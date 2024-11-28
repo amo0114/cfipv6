@@ -2,29 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	789ys.com
-Address: 104.21.85.11
-Name:	789ys.com
-Address: 172.67.200.176
-Name:	789ys.com
-Address: 2606:4700:3030::ac43:c8b0
-Name:	789ys.com
-Address: 2606:4700:3032::6815:550b
+www.zhuizhuiju.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+** server can't find 66se5.com: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.emp-online.it	canonical name = www.emp-online.it.cdn.cloudflare.net.
-Name:	www.emp-online.it.cdn.cloudflare.net
-Address: 104.17.48.186
-Name:	www.emp-online.it.cdn.cloudflare.net
-Address: 104.17.49.186
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 91.195.240.12
+** server can't find www.07xd.com: NXDOMAIN
 
