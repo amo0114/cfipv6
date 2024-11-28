@@ -2,38 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yn3e.xxx488.com
-Address: 172.67.194.152
-Name:	yn3e.xxx488.com
-Address: 104.21.68.111
-Name:	yn3e.xxx488.com
-Address: 2606:4700:3033::ac43:c298
-Name:	yn3e.xxx488.com
-Address: 2606:4700:3034::6815:446f
+speed.marisalnc.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global34.66666654.xyz.
+Name:	cfcn-a-global34.66666654.xyz
+Address: 104.20.21.8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	uz7l99.xxx488.com
-Address: 104.21.68.111
-Name:	uz7l99.xxx488.com
-Address: 172.67.194.152
-Name:	uz7l99.xxx488.com
-Address: 2606:4700:3033::ac43:c298
-Name:	uz7l99.xxx488.com
-Address: 2606:4700:3034::6815:446f
+www.nitianxieshen.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.101.40
+Name:	ips.993888.xyz
+Address: 104.18.106.185
+Name:	ips.993888.xyz
+Address: 104.17.208.186
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	0cu6ioj.xxx488.com
-Address: 172.67.194.152
-Name:	0cu6ioj.xxx488.com
-Address: 104.21.68.111
-Name:	0cu6ioj.xxx488.com
-Address: 2606:4700:3033::ac43:c298
-Name:	0cu6ioj.xxx488.com
-Address: 2606:4700:3034::6815:446f
+Name:	longzemy.com
+Address: 23.224.186.235
 

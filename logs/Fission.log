@@ -13456,3 +13456,25 @@ Performing DNS lookup for www.sjzsckj.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 90551e3] Update project files
+ 4 files changed, 68 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   5ef0640..90551e3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.246.80...
+Fetching domains for 104.21.68.111...
+Fetching domains for 104.17.75.57...
+succeed to fetch domains for 104.21.68.111 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.75.57 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.246.80 from https://ipchaxun.com/
+域名列表为
+['nmu1ma.xxx488.com', 'utv6rd.xxx488.com', 'bzg9zr.xxx488.com', '1353.com', 'm1t.xxx488.com', '0l91ml.xxx488.com', 'su5xbr2.xxx488.com', 'www.xxx488.com', 'r49.xxx488.com', 'yn3e.xxx488.com', '9u6e.xxx488.com', 'yunyoo.cc', 'nbhe0.xxx488.com', 'www.mddionline.com', 'ac69r5u.xyz', 'www.lyzdzy.com', 'sz4jk8v.xxx488.com', 't5x9t52.xxx488.com', '0cu6ioj.xxx488.com', 'wsjx3z.xxx488.com', '0dg0.xxx488.com', 'www.iios.club', '0ixq5r7.xxx488.com', '0jfe5.xxx488.com', '0kd17.xxx488.com', '0kl.xxx488.com', 'ncboef.xxx488.com', 'xagp.xxx488.com', 'jlqz5k7.xxx488.com', '4r77f1h.xxx488.com', 'by.1353.com', '555iih.com', 'b03sk2i.xxx488.com', '0ew10xr.xxx488.com', 'hentai-sharing.net', 'yhjkb6.xxx488.com', 'uz7l99.xxx488.com', 'n29ni.xxx488.com', 'caadp.xxx488.com', 'dn45q33.xxx488.com', 'www.1353.com', 'nqzx.xxx488.com', '5ec.xxx488.com', 'www.szwyxx.com', 'j6ebce6.xxx488.com', 'xxx488.com', 'wwwby.1353.com', 'nafv.xxx488.com', 'mengflora.com', 'www.by.1353.com', 'vnrfj07qmnb.xxx488.com', 'm1p.xxx488.com', 'jfefg.xxx488.com', 'wzybnc.xxx488.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yn3e.xxx488.com...
+Performing DNS lookup for uz7l99.xxx488.com...
+Performing DNS lookup for 0cu6ioj.xxx488.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
