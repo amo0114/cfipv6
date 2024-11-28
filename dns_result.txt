@@ -2,24 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.northcharlestoncoliseumpac.com	canonical name = northcharlestoncoliseumpac.carbonhousedns.com.
-northcharlestoncoliseumpac.carbonhousedns.com	canonical name = j.sni.global.fastly.net.
-Name:	j.sni.global.fastly.net
-Address: 151.101.2.132
-Name:	j.sni.global.fastly.net
-Address: 151.101.194.132
-Name:	j.sni.global.fastly.net
-Address: 151.101.130.132
-Name:	j.sni.global.fastly.net
-Address: 151.101.66.132
+Name:	lyzdzy.com
+Address: 208.98.43.131
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 4husp992.com: NXDOMAIN
+** server can't find bestcfip.aresbaby.ml: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.4husp992.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.75uw.com
+Address: 23.225.148.166
 
