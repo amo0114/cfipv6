@@ -13391,3 +13391,24 @@ Performing DNS lookup for www.75uw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 292d717] Update project files
+ 4 files changed, 40 insertions(+), 12 deletions(-)
+To github.com:amo0114/cfipv6.git
+   c9b5ed3..292d717  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.76.204...
+Fetching domains for 104.17.132.248...
+Fetching domains for 104.21.25.73...
+succeed to fetch domains for 104.21.25.73 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.132.248 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.76.204 from https://site.ip138.com/
+域名列表为
+['88gaoyy.com', 'yq80.ren', 'www.haycbl.com', 'kuntailaser.com', 'aauu4.xyz', 'www.mtp9.xyz', 'www.reviewamz.top', 'www.chenghaizhaopin.com', 'h1.sos-brigade.org', 'www.zzweida.cn', 'www.hh523.com', 'taopiao123.com', 's1711.com', 'www.tushumi.com', 'e8088.cn', 'simcardhome.com', 'www.446game.com', 'h5.sos-brigade.org', '1dx40.top', 'www.xggfre.top', 'wap.1dx40.top', 'cafefacil.com.br', 'www.prepscholar.com', 'wap.xggfre.top', 'airmaxthea2017.us', 'wts.hu', 'es.kuntailaser.com', 'bycpapp.com', 'vip666.zdq3983.com', 'tjgt120.net', 'pornaddik.com', 'xggfre.top', 'ribi.me', 'www.88gaoyy.com', 'lisa217.top', 'rus-powerbank.ru', 'web.newex-hk.top', 'luluim.com', 'zjlandmark.com', 'www.s1711.com', 'm.xggfre.top', 'www.taopiao123.com', 'tqgbg4f7n2.xyz', 'dhzj36.top', 'www.cafefacil.com.br', 'geepeeteeai.com', 'www.atunemic.cn', 'www.hogone.com', 'www.edingzhou.cn', 'mrcasinova.com', '59136.me', 'm.shenghejj.com', 'www.450bb.com', 'www.5y6n.com', 'www.91sp.live', 'www.blm.app', 'www.wfshlygs.com', 'mlxtrading.com', 'twsrgt.com', 'www.planner.cn', 'reviewamz.top', 'm.tushumi.com', 'www.xiemiav.cc', 'www.munjalinei.com', 'astires.com', 'www.66kbet66h.top', 'www.bdy25.com', 'motoneiges.ca', 'bishejingxuan7.buzz', 'mulongshi.com', 'xiemiav.cc', '1510369.com', 'www.cfhuagong.com', 'heyimc.com', 'carnival-rental.com', 'm.y3600.cz', 'www.dudeiwantthat.com', 'www.luoyangjichuangchang.com', 'popobet.club', 'www.qssyzjks.com', 'ciciav.com', 'wap.reviewamz.top', 'blm.app', 'www.tjgt120.net', 'aquasfera.ru', 'hyyg.lkmchinagwgj.free.hr', 'awjq6.com', 'hh523.com', 'www.tpyyc.com', 'www.astires.com', 'wap.dhzj36.top', 'yaofang818.com', 'www.1dx40.top', 'www.222ren.com', 'www.mmkjyxgs.com', 'www.75uw.com', 'ken-davidmasur.com', 'bdy25.com', 'www.mlxtrading.com', 'www.chengjidan123.com', 'admin.jiuba8777.com', 'www.motoneiges.ca', '3g.1dx40.top', 'www.dhzj36.top', 'www.dianbaopan.com', 'mitnrw.top', 'www.xianguopc.com', 'tushumi.com', 'www.charlobonnici.com', 'xtshuangtong.com', 'zztv.xyz', 'www.jxtourism.com', 'corp.alsi.kz', 'p1ey99.tw', 'www.mbetx.com', 'qssyzjks.com', 'qzmh5.vip', 'www.zztv.xyz', 'qdbangsen.com', 'dgougou.com', 'www.luwangyangrong.com', 'hytron.aresboot.io', 'www.kuntailaser.com', 'www.zjlandmark.com', 'www.hn871.cn', '3g.reviewamz.top', '3g.dhzj36.top', 'mk69.cn', 'www.twsrgt.com', 'x88a339.xyz', 'chenghaizhaopin.com', 'nouzn.com', '3g.xggfre.top', '222ren.com', 'www.xwdaahg.cn', '6.namesilo123.top', 'planner.cn', 'm.niuerzs.com', 'xgqnw.cn', 'charlobonnici.com', 'm.1dx40.top', '91sp.live', 'dt86.cc', 'www.wts.hu', 'ppluo.top', 'www.nouzn.com', 'www.y3600.co', 'javnote.com', 'm.reviewamz.top', 'www.iflashbuy.com', 'dhmg.com', 'sos-brigade.org', '450bb.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.75uw.com...
+Performing DNS lookup for 6.namesilo123.top...
+Performing DNS lookup for rus-powerbank.ru...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

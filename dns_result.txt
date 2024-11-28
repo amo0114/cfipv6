@@ -2,24 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find 6.namesilo123.top: NXDOMAIN
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	rus-powerbank.ru
-Address: 104.21.25.73
-Name:	rus-powerbank.ru
-Address: 172.67.223.244
-Name:	rus-powerbank.ru
-Address: 2606:4700:3032::6815:1949
-Name:	rus-powerbank.ru
-Address: 2606:4700:3037::ac43:dff4
+Name:	666jjh.com
+Address: 172.67.221.81
+Name:	666jjh.com
+Address: 104.21.83.98
+Name:	666jjh.com
+Address: 2606:4700:3033::6815:5362
+Name:	666jjh.com
+Address: 2606:4700:3033::ac43:dd51
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find m.y3600.cz: NXDOMAIN
 
