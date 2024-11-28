@@ -2,18 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	lyzdzy.com
-Address: 208.98.43.131
+Name:	www.75uw.com
+Address: 23.225.148.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find bestcfip.aresbaby.ml: NXDOMAIN
+** server can't find 6.namesilo123.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+Name:	rus-powerbank.ru
+Address: 104.21.25.73
+Name:	rus-powerbank.ru
+Address: 172.67.223.244
+Name:	rus-powerbank.ru
+Address: 2606:4700:3032::6815:1949
+Name:	rus-powerbank.ru
+Address: 2606:4700:3037::ac43:dff4
 
