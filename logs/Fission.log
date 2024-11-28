@@ -13434,3 +13434,25 @@ Performing DNS lookup for m.y3600.cz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5ef0640] Update project files
+ 4 files changed, 60 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   527b407..5ef0640  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.37.111...
+Fetching domains for 104.18.147.156...
+Fetching domains for 141.101.114.53...
+succeed to fetch domains for 104.18.147.156 from https://dnsdblookup.com/
+succeed to fetch domains for 141.101.114.53 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.37.111 from https://site.ip138.com/
+域名列表为
+['m.6i5.com', '576ii.com', 'scgsn.de', 'www.55gaohh.com', '3g.yhjhg.top', 'img.hostmonit.com', 'www.7sc.cc', 'www.kunzedu.com', 'www.92mili.com', 'www.tv9090.com', 'www.hokychan.top', 'dlxxz.cc', 'www.33mov.com', 'ccdf.cnex.org.tw', 'thea1197.cc', 'affine.pro', 'zkdll.com', 'lyzdzy.com', 'x9b9d.com', 'hokychan.top', 'gdfjw.com', 'www.576ii.com', 'cf.url0.top', 'www.paizipai.top', 'www.qilishusong.cn', 'zmkan.top', 'www.m90s.com', 'v6v381.xyz', 'www.cnex.org.tw', 'www.0550cq.com', 'c567i.com', 'www.830sp.com', 'www.4148.net', 'www.tinghen.com', 'www.lvyongzhuoeshop.com', 'ymx9.cc', 'www.tvccc.org', 'x3413.xyz', 'psiukrearth.ru', 'cf-lt.sharecentre.online', 'www.c567i.com', 'www.7z9a.com', 'stock.hostmonit.com', 'www.yncareer.com', 'www.ikantv.net', 'www.eyhlxdj.com', 'www.whpaiger.com', 'www.zzztch.com', 'm.11txt.com', 'm.niuerzs.com', 'www.sdqhch.com', 'nightly.affine.pro', 'www.kk554.com', 'www.zgjmw.net', 'www.90dushu.com', 'www.ymx9.cc', 'fbjav.net', 'www.cfhuagong.com', 'qiangkouzhao.com', 'www.zkdll.com', 'www.winstar.net.cn', '830sp.com', 'www.taijutv123.com', 'sdqhch.com', 'theav439.cc', 'm.yhjhg.top', 'j.dfxx.cc', 'www.smartinucn.vip', 'cf1.492745.xyz', 'www.63haohh.com', 'wttvng.top', 'blog.hostmonit.com', 'li-lo.co.il', 'mingtiannihao.mom', 'www.bilirkishi.com', 'www.yhjhg.top', 'www.b7yy.cc', 'longzemy.com', '52gaohh.com', 'javdb31.com', 'www.fbjav.net', 'www.billionchemical.com', 'www.11txt.com', 'www.li-lo.co.il', 'www.nmhydz.com', 'www.x9b9d.com', 'ikantv.net', 'wap.yhjhg.top', 'www.ys900.com', 'gazetadirekt.com', 'www.testeneagrama.com', 'www.dtjxbxg.com', 'www.sjzsckj.com', 'www.6i5.com', 'www.lyzdzy.com', 'www.cocanwelding.com', 'hzfczc.com', 'www.eexxx.com', '75gaohh.com', '3g.hokychan.top', 'www.dypf8.com', 'v55t4.com', 'www.gongxiangdaxia.com', 'www.hzfczc.com', 'www.sztimi.com', 'ezb0a5.com', 'www.70haohh.com', 'chenjiayang.me', 'm.0550cq.com', 'yhjhg.top', 'massachusettsgasprices.com', 'vpsbrands.com', '8m290.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.33mov.com...
+Performing DNS lookup for longzemy.com...
+Performing DNS lookup for www.sjzsckj.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

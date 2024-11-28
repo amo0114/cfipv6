@@ -2,27 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.33mov.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+Name:	yn3e.xxx488.com
+Address: 172.67.194.152
+Name:	yn3e.xxx488.com
+Address: 104.21.68.111
+Name:	yn3e.xxx488.com
+Address: 2606:4700:3033::ac43:c298
+Name:	yn3e.xxx488.com
+Address: 2606:4700:3034::6815:446f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	longzemy.com
-Address: 23.224.186.235
+Name:	uz7l99.xxx488.com
+Address: 104.21.68.111
+Name:	uz7l99.xxx488.com
+Address: 172.67.194.152
+Name:	uz7l99.xxx488.com
+Address: 2606:4700:3033::ac43:c298
+Name:	uz7l99.xxx488.com
+Address: 2606:4700:3034::6815:446f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.sjzsckj.com
-Address: 208.98.43.133
+Name:	0cu6ioj.xxx488.com
+Address: 172.67.194.152
+Name:	0cu6ioj.xxx488.com
+Address: 104.21.68.111
+Name:	0cu6ioj.xxx488.com
+Address: 2606:4700:3033::ac43:c298
+Name:	0cu6ioj.xxx488.com
+Address: 2606:4700:3034::6815:446f
 
