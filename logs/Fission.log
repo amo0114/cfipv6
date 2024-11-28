@@ -13412,3 +13412,25 @@ Performing DNS lookup for rus-powerbank.ru...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 527b407] Update project files
+ 4 files changed, 63 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   292d717..527b407  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.83.98...
+Fetching domains for 104.22.30.79...
+Fetching domains for 104.17.36.205...
+succeed to fetch domains for 104.22.30.79 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.36.205 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.83.98 from https://ipchaxun.com/
+域名列表为
+['www.tpyyc.com', 'www.lyzdzy.com', 'www.downmusic.co', 'www.nightalk.in', 'wap.cccaaah.top', 'www.xy28t7.top', '3fo.com', 'ycshw.top', 'zh158.com', 'mtfwallet.com', 'm.niuerzs.com', 'www.lailai360.com', '17800.net', 'www.91porn.tips', 'www.luwangyangrong.com', 'www.889tl.cn', 'www.ycshw.top', 'cccaaah.top', 'wap.xy28t7.top', 'cn.baozimh.one', 'vv138.net', '56hm.xyz', '3brk94.tw', 'dsxys.com', 'www.zzztch.com', 'wmyzsb.com', 'interface.91porn.tips', 'www.dzy66666.com', 'www.56hm.xyz', 'jlow.ru', 'www.dmbj.cc', 'www.temenos.com', 'www.666rrh.com', '9nsc.cn', '3g.ycshw.top', 'm.xy28t7.top', 'www.nitianzw.com', 'www.99wxw.cc', 'www.kytyy.com', 'm.ycshw.top', 'www.93xscc.com', '3g.xy28t7.top', '666rrh.com', 's.freshgaga.com', 'liangshanrencai.com', 'www.iios.club', 'www.qindixs.com', 'z4ucfiynev.xyz', 'ggmap1.bosim.top', 'www.liangshanrencai.com', 'bingvrf.ques52.info', 'baozimh.one', 'laqizi.me', 'saveitapp.uk', '3g.cccaaah.top', 'www.993my.com', 'aa068.com', 'www.langyoudh.xyz', 'www.mybookie.ag', '666jjh.com', 'yiqi1234.com', 'www.xiaohutv.com', 'coinchel.com', 'www.aaa214.com', 'www.hhyy028.com', 'fulao2.xyz', '7uu11.xyz', 'www.666jjh.com', 'ac.wcb4k63.xyz', 'ggmap.bosim.top', 'zs1016.com', 'fengshuidiary.cn', 'www.mcwuming.top', 'www.baozimh.one', 'gongkouav.site', 'www.u935.net', 'aaa214.com', 'www.longwangchuanshuo.com', 'www.85xs.cc', '52dvd.cn', 'm.baozimh.one', 'www.gongkouav.site', 'www.bba31.com', 'www.wn04.cc', 'alist.mcwuming.top', 'eggckbkgh.k9ofsw.cn', 'mcwuming.top', 'wxgjvip.com', 'zx02.vipwedifef.cc', 'xiaoniao52.buzz', 'langyoudh.xyz', 'www.casa18.me', 'www.295k.com', 'huyao22.com', 'www.kbss888.com', 'wap.ycshw.top', 'www.ldzbs.cn', 'xiaohutv.com', 'www.xn--v3cd8a0ar.com', 'www.saltfish2.com', 'www.413193.com', 'www.99wx.cc', 'www.cyispa.com', 'm.y3600.cz', 'xy28t7.top', 'download.91porn.tips', 'www.mtdcr.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for 666jjh.com...
+Performing DNS lookup for m.y3600.cz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
