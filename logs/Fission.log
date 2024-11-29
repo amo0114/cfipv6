@@ -13500,3 +13500,24 @@ Performing DNS lookup for longzemy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5bb5efb] Update project files
+ 4 files changed, 41 insertions(+), 25 deletions(-)
+To github.com:amo0114/cfipv6.git
+   1a35cea..5bb5efb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.37.110...
+Fetching domains for 104.18.84.55...
+Fetching domains for 104.17.108.228...
+succeed to fetch domains for 104.19.37.110 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.108.228 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.84.55 from https://dnsdblookup.com/
+域名列表为
+['www.vcd.la', 'www.99wx.cc', 'www.lyzdzy.com', 'www.sixyin.com', 'www.kbss888.com', 'www.652tv.com', 'yx.887141.xyz', 'www.hnxtx.com', 'iios.club', 'www.1a1v.com', 'www.nitianxieshen.com', 'www.iios.ga', 'yh6.dtku41.xyz', 'm.niuerzs.com', 'www.99wxw.cc', 'www.maoxs.cc', 'www.zuntianpump.com', 'www.789kp.com', 'img.shu88.cc', 'www.iios.club', 'www.xinjuc.com', 'www.ddwhm.com', 'bestcf.onecf.eu.org', 'www.zzztch.com', 'www.28et.com', 'www.tx58tl.com', 'www.whpaiger.com', 'www.75uw.com', 'www.yncareer.com', 'www.hhyy028.com', 'tv.ci']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yncareer.com...
+Performing DNS lookup for www.ddwhm.com...
+Performing DNS lookup for www.vcd.la...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
