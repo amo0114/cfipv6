@@ -2,32 +2,50 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nitianxieshen.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.248.5
-Name:	ips.993888.xyz
-Address: 104.17.147.158
-Name:	ips.993888.xyz
-Address: 104.16.113.238
+Name:	www.stewartsigns.com
+Address: 104.26.12.197
+Name:	www.stewartsigns.com
+Address: 172.67.72.63
+Name:	www.stewartsigns.com
+Address: 104.26.13.197
+Name:	www.stewartsigns.com
+Address: 2606:4700:20::681a:cc5
+Name:	www.stewartsigns.com
+Address: 2606:4700:20::681a:dc5
+Name:	www.stewartsigns.com
+Address: 2606:4700:20::ac43:483f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	meaningfulbeauty.com
-Address: 172.64.146.89
+Name:	api.dfs.land
+Address: 104.26.4.33
+Name:	api.dfs.land
+Address: 172.67.68.53
+Name:	api.dfs.land
+Address: 104.26.5.33
+Name:	api.dfs.land
+Address: 2606:4700:20::681a:421
+Name:	api.dfs.land
+Address: 2606:4700:20::ac43:4435
+Name:	api.dfs.land
+Address: 2606:4700:20::681a:521
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yy4080dy.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+Name:	ghantalele.com
+Address: 104.26.4.33
+Name:	ghantalele.com
+Address: 172.67.68.53
+Name:	ghantalele.com
+Address: 104.26.5.33
+Name:	ghantalele.com
+Address: 2606:4700:20::681a:521
+Name:	ghantalele.com
+Address: 2606:4700:20::ac43:4435
+Name:	ghantalele.com
+Address: 2606:4700:20::681a:421
 

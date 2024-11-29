@@ -13564,3 +13564,25 @@ Performing DNS lookup for www.lyzdzy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2315375] Update project files
+ 4 files changed, 66 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   6b2282d..2315375  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.219.39...
+Fetching domains for 104.17.90.34...
+Fetching domains for 104.17.2.129...
+succeed to fetch domains for 198.41.219.39 from https://site.ip138.com/
+succeed to fetch domains for 104.17.90.34 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.2.129 from https://site.ip138.com/
+域名列表为
+['www.whpaiger.com', 'ke191.cc', 'www.xigua5.com', 'www.ddwhm.com', 'www.c333.net', 'www.75uw.com', 'www.sixyin.com', 'www.99wxw.cc', 'nlsdwsz.66666654.xyz', 'www.33mov.com', 'www.zzztch.com', 'www.93xscc.com', 'www.881dy.com', 'www.meaningfulbeauty.com', 'www.meijui.net', 'hub.gitmirror.com', 'j209.cc', 'meaningfulbeauty.com', 'www.zongcaixs.cc', 'www.888dyy.cc', 'www.yy4080dy.com', 'baxtc.66666654.xyz', 'www.nsisfans.com', 'xfltd.net', 'jpvsavhyu.76898102.xyz', 'yh6.dtku41.xyz', 'www.nitianxieshen.com', 'www.bt4kyy.com', 'www.xshuxs.com', 'www.652tv.com', 'm.zwhqyd.com', 'www.lyzdzy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.nitianxieshen.com...
+Performing DNS lookup for meaningfulbeauty.com...
+Performing DNS lookup for www.yy4080dy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
