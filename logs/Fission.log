@@ -13521,3 +13521,25 @@ Performing DNS lookup for www.vcd.la...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 19970da] Update project files
+ 4 files changed, 49 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   5bb5efb..19970da  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.55.35...
+Fetching domains for 141.101.114.76...
+Fetching domains for 104.17.158.146...
+succeed to fetch domains for 104.17.55.35 from https://dnsdblookup.com/
+succeed to fetch domains for 141.101.114.76 from https://site.ip138.com/
+succeed to fetch domains for 104.17.158.146 from https://ipchaxun.com/
+域名列表为
+['www.65bao2.com', 'www.yhsqxy.com', 'qiangkouzhao.com', 'www.m90s.com', 'www.4gdiy.com', 'suboji.com', 'tsdingxin.com', 'uu93.com', 'www.jhhtech.com', 'index1.xxm3u8.top', '923055.com', 'www.bfb3.com', 'www.77dv.com', 'yncareer.com', 'www.cocanwelding.com', 'www.lyzdzy.com', '66se.tv', 'www.lvgu.org', 'czyinyao.com', 'www.kk554.com', 'www.yncareer.com', 'qp66.com', 'www.nba01.com', 'www.cfhuagong.com', 'www.1a1v.com', 'www.zzztch.com', 'www.qilishusong.cn', 'szsyzs.com', 'wei333.com', 'www.679077.com', '4pcc.com', 'www.whpaiger.com', 'www.kunzedu.com', 'm.niuerzs.com', 'niuerzs.com', 'www.1dfx.com', 'www.28et.com', 'kukedy.tv', 'www.sjzsckj.com', 'www.jmxhbgc.com', 'www.vcd.la', 'www.anluyg.net', 'cg.44xf.cc', 'www.11txt.com', 'www.75uw.com', 'www.suboji.com', 'www.50zw.co', 'www.ddwhm.com', 'www.dgtongheng.com', 'www.4pcc.com', 'www.xbiqupao.com', 'www.penglecheng.com', 'www.wei333.com', 'www.c333.net', 'www.kuaikan66.com', 'www.52ys.cc', 'www.kxgdyw.com', 'www.ganpian.com', 'www.gamingclub.com', 'www.ydxs.cc', 'www.223ss.com', 'www.uu93.com', '789ys.com', 'www.hanmatv.com', '4gdiy.com', 'jmxhbgc.com', 'www.tinghen.com', 'vcd.la', 'www.bb866666.com', 'www.kan234.com', 'www.4148.net', 'bdx100.com', 'www.ikantv.net', 'ooe.la', 'www.letu9.com', 'www.lnudz.com', 'cdn.didi8.com', 'www.e0101.com', 'www.tv9090.com', '606977.com', 'www.yhddsb.com', '77ty.com', 'www.70ts.com', 'www.cddfjulong.com', 'm.anluyg.net', 'owlook.com.cn', 'se2.cc', 'www.ugome.com', 'www.6i5.com', 'qdlzmgjx.com', 'cfhuagong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qilishusong.cn...
+Performing DNS lookup for tsdingxin.com...
+Performing DNS lookup for www.ugome.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,19 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qilishusong.cn	canonical name = www.jdzjq.cn.
+Name:	www.7af01.com
+Address: 172.67.195.171
+Name:	www.7af01.com
+Address: 104.21.21.13
+Name:	www.7af01.com
+Address: 2606:4700:3032::6815:150d
+Name:	www.7af01.com
+Address: 2606:4700:3031::ac43:c3ab
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	tsdingxin.com
-Address: 134.122.181.146
+Name:	7af01.com
+Address: 172.67.195.171
+Name:	7af01.com
+Address: 104.21.21.13
+Name:	7af01.com
+Address: 2606:4700:3031::ac43:c3ab
+Name:	7af01.com
+Address: 2606:4700:3032::6815:150d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.ugome.com
-Address: 208.98.43.72
+Name:	www.lyzdzy.com
+Address: 208.98.43.135
 
