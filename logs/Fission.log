@@ -13608,3 +13608,25 @@ Performing DNS lookup for ghantalele.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6aa2c91] Update project files
+ 4 files changed, 48 insertions(+), 62 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   446e249..6aa2c91  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.3.225...
+Fetching domains for 104.18.236.111...
+Fetching domains for 104.17.225.127...
+succeed to fetch domains for 104.18.236.111 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.3.225 from https://site.ip138.com/
+succeed to fetch domains for 104.17.225.127 from https://dnsdblookup.com/
+域名列表为
+['www.211di.com', '4hu51q.com', 'www.twin.com', 'www.galzy.eu.org', 'www.kkkkp.com', 'www.99wxw.cc', 'yaokan.com', 'www.720p.tv', 'www.yaokan', 'www.4huxys.com', 'iios.club', 'baxtc.66666654.xyz', 'cfip.xxxxxxxx.tk', 'yx.887141.xyz', 'k4334.com', 'cgdd.digicert.pp.ua', 'ipdb.rr.nu', 'sa.jaffax.top', 'www.hmoeh.com', 'www.iios.club', 'www.4hu51q.com', 'www.manomano.es', 'www.cocanwelding.com', 'w66.mobi', 'm.niuerzs.com', 'www.yaokan.com', 'jhpcza.66666654.xyz', 'cdn.nj.us.4008123.xyz', 'www.temu.com', 'www.bmwfwb.com', 'niziproject.com', 'imgcdn.bbs.liuxingw.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yaokan.com...
+Performing DNS lookup for m.niuerzs.com...
+Performing DNS lookup for k4334.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
