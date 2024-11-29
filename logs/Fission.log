@@ -13543,3 +13543,24 @@ Performing DNS lookup for www.ugome.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6b2282d] Update project files
+ 4 files changed, 48 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   19970da..6b2282d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.21.13...
+Fetching domains for 104.17.242.108...
+Fetching domains for 104.17.6.186...
+succeed to fetch domains for 104.17.242.108 from https://site.ip138.com/
+succeed to fetch domains for 104.21.21.13 from https://site.ip138.com/
+succeed to fetch domains for 104.17.6.186 from https://ipchaxun.com/
+域名列表为
+['443.cf.bestl.de', 'bb543.com', 'blog.bestip.one', 'xn---ijiuyaocom-gt1t08px00hf5nbl2b.jyapp.xyz', 'c0gi8p.xyz', 'www.7200a.xyz', 'cable2562.top', 'linkcontentc.com', 'www.cdgflc.com', 'm.e99w.com', 'coxssmokersoutlet.org', 'baidu.kukuboy.net', 'horseymail.com', 'www.7af01.com', 'www.asyejayu.xyz', 'niumh.buzz', 'yyindi9.buzz', 'www.33115d.com', 'bdaq.cc', 'hayav.com', 'www.8hwzhhw.top', 'www.fortiar88.com', 'wz.weishao2023.uk.eu.org', 'zzpzh.cj96.xyz', 'wap.mgucxqi.top', 'www.xc8xc8.com', '7200a.xyz', 'www.tz842.com', 'lhc902.vip', 'ali3712.com', 'm.8hwzhhw.top', '33115d.com', 'www.75uw.com', 'www.b22229.com', 'www.hhgj168.cc', 'isr567.com', 'smstoyou.xyz', '776sss.com', 'www.2v8d.com', 'yymh998.buzz', '9866t.com', 'www.sskzmz.com', 'tv.ipjs.eu.org', 'www.mgucxqi.top', 'www.tpyyc.com', 'www.myanmarwebdirectory.com', 'tech-vise.com', '15050066.com', 'www.wwwtuoku8.com', 'hj2a4.com', '3g.8hwzhhw.top', 'www.gulinbio.com', 'a2.nttkk.com', 'www.cfhuagong.com', 'mgucxqi.top', 'www.wclepvv.cn', '007soccerpicks.com', 'www.kunzedu.com', 'client.gomarkets.cloud', 'shaiyaetheria.com', 'www.520film.net', 'ytpak.com', 'www.kompuconcepts.com', 'mebudsv.114514782.xyz', 'www.lyzdzy.com', 'b22229.com', 'baxtc.66666654.xyz', 'thep1012.cc', 'kukuboy.net', 'www.256ga.com', '8hwzhhw.top', 'm.tpyyc.com', 'www.nmgtzb.org.cn', 'jinshoop22.site', '55df.xyz', '333.666999.world', '256ga.com', 'www.9866t.com', 'pdzmre77473.sanfen001.top', 'wwwtuoku8.com', 'www.55df.xyz', 'speedip.tuyoyo.eu.org', '56th.cc', 'www.lyxxoo20.xyz', 'www.jianqi-design.com', 'wap.8hwzhhw.top', '2052.cf.bestl.de', 'www.bb543.com', 'burstyourbrand.com', 'myanmarwebdirectory.com', 'www.hhsp.info', 'tylkomedycyna.pl', 'cdgflc.com', 'www.whpaiger.com', 'www.gomarkets.cloud', 'fed777.vip', 'jpnewacs.114514782.xyz', 'weqta5.top', 'www.007soccerpicks.com', '7z9a.com', 'www.isr567.com', 'avlulu284.xyz', 'www.123bwc.com', 'nonger.com', 'xc8xc8.com', 'www.jinnanzhichuang.com', 'xusec.com', 'jianqi-design.com', 'lyxxoo20.xyz', 'www.fnyyw.net', 'q3g.lol', 'hbdoll.com', '7af01.com', 'www.991267.cn', 'gulinbio.com', 'www.luwangyangrong.com', 'newfree.fun', 'asyejayu.xyz', '91x10.xyz', '3g.mgucxqi.top', 'streamtape.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.7af01.com...
+Performing DNS lookup for 7af01.com...
+Performing DNS lookup for www.lyzdzy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

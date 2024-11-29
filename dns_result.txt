@@ -2,32 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.7af01.com
-Address: 172.67.195.171
-Name:	www.7af01.com
-Address: 104.21.21.13
-Name:	www.7af01.com
-Address: 2606:4700:3032::6815:150d
-Name:	www.7af01.com
-Address: 2606:4700:3031::ac43:c3ab
+www.nitianxieshen.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.248.5
+Name:	ips.993888.xyz
+Address: 104.17.147.158
+Name:	ips.993888.xyz
+Address: 104.16.113.238
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	7af01.com
-Address: 172.67.195.171
-Name:	7af01.com
-Address: 104.21.21.13
-Name:	7af01.com
-Address: 2606:4700:3031::ac43:c3ab
-Name:	7af01.com
-Address: 2606:4700:3032::6815:150d
+Name:	meaningfulbeauty.com
+Address: 172.64.146.89
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.43.135
+www.yy4080dy.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
 
