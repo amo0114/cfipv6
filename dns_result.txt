@@ -2,23 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.28et.com
-Address: 162.254.36.143
+Name:	www.rmsxs.com
+Address: 149.115.243.167
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.77ty.com	canonical name = 103top.delivery-cf-103.sbs.
-Name:	103top.delivery-cf-103.sbs
-Address: 173.255.219.146
-Name:	103top.delivery-cf-103.sbs
-Address: 104.237.157.185
+Name:	www.zzztch.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yh9pk.com
-Address: 127.0.0.127
+www.qiuxiaw.com	canonical name = cdn.ya104.free.hr.
+Name:	cdn.ya104.free.hr
+Address: 172.67.192.240
+Name:	cdn.ya104.free.hr
+Address: 104.21.20.137
+Name:	cdn.ya104.free.hr
+Address: 2606:4700:3030::6815:1489
+Name:	cdn.ya104.free.hr
+Address: 2606:4700:3033::ac43:c0f0
 

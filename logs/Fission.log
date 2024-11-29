@@ -13674,3 +13674,25 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f30f510] Update project files
+ 4 files changed, 55 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (89%)
+To github.com:amo0114/cfipv6.git
+   8423096..f30f510  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.223.124...
+Fetching domains for 104.19.59.204...
+Fetching domains for 104.19.57.98...
+succeed to fetch domains for 104.17.223.124 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.57.98 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.59.204 from https://site.ip138.com/
+域名列表为
+['www.75uw.com', 'www.zongcaixs.cc', 'www.diskgirl.com', 'www.whpaiger.com', 'www.kqyhb.com', 'sanyatour.com', 'yncareer.com', 'www.ocean-inter.com', '115fhd.com', 'www.wubei520.com', 'www.92mili.com', 'm.niuerzs.com', 'www.999998.vip', 'zwboy.com', 'wap.luwangyangrong.com', 'www.m6y6.com', 'www.sjzsckj.com', 'yxy176.com', 'www.80yunbo.com', 'www.lyzdzy.com', 'www.lolfz.com', 'www.dzy66666.com', 'www.77ty.com', 'www.nangua55.com', 'www.wwdd.org.cn', 'm.6988tv.com', 'www.wayutan023.com', 'xggqdy.com', 'dzy66666.com', 'www.sxe21.cn', 'www.cx888my.com', 'www.cfhuagong.com', 'www.iios.club', 'www.bdx100.com', 'www.zgwangzhan.com', '21tvb.com', 'www.tjxfs.com', 'www.zhaishulou.com', 'www.sanyatour.com', 'www.iios.me', 'yinghua.us', 'zzztch.com', 'www.nxyxzl.com', 'www.nba01.com', 'js1983.com', 'zm7.m3u8list.top', 'www.kuaikan66.com', 'www.28et.com', 'www.nsisfans.com', 'www.psy.net.cn', 'www.yhddsb.com', 'ocean-inter.com', '66se0.com', 'www.yh9pk.com', 'zgwangzhan.com', 'www.7z9a.com', 'index1.xxm3u8.top', 'www.04045858.com', 'bdx100.com', 'www.21tvb.com', 'www.yncareer.com', 'www.yhsqxy.com', 'm6y6.com', 'www.6988tv.com', 'www.xinjuc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.28et.com...
+Performing DNS lookup for www.77ty.com...
+Performing DNS lookup for www.yh9pk.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
