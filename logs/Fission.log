@@ -13586,3 +13586,25 @@ Performing DNS lookup for www.yy4080dy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 446e249] Update project files
+ 4 files changed, 84 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   2315375..446e249  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.5.33...
+Fetching domains for 104.17.84.12...
+Fetching domains for 104.18.219.131...
+succeed to fetch domains for 104.26.5.33 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.219.131 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.84.12 from https://site.ip138.com/
+域名列表为
+['jpadwinfs.114514782.xyz', '4gdiy.com', 'hongkong.qing1999.eu.org', 'www.113my.com', 'yinyue.qugeek.com', 'pdzmre77473.sanfen001.top', 'www.dy6g.com', 'imom.com', 'www.imom.com', 'doujin-free.com', 'freeyx.cloudflare88.eu.org', 'www.xworldadmin.com', 'go.gujuji.top', 'cfcdn3.sanfencdn9.com', 'www.38yy.cn', 'bdx100.com', 'www.marl1.nl', '5starweddingdirectory.com', 'www.6988tv.com', 'www.clun.top', 'fightercombat.com', 'www.cfhuagong.com', 'orca777.com', 'mileroticos.com', 'www.letudy.com', 'www.ituba.cc', 'fnaticgear.com', 'fldsubgigtujuy.76898102.xyz', 'pip-semarang.ac.id', 'www.zgjmw.net', 'www.pvcfittingsonline.com', 'music.qugeek.com', 'www.iios.club', 'www.wegames.gg', 'yifa20.com', 'www.freedooball.com', 'zm7.m3u8list.top', 'pan.clun.top', '58ha.com', '5.sanfen001.top', 'www.wn05.cc', 'www.doujin-free.com', 'freedooball.com', '1.namesilo123.top', 'www.295k.com', 'www.ikantv.net', 'baxtc.66666654.xyz', 'nlsdwsz.66666654.xyz', 'www.sf123.mobi', 'cumflation.com', 'www.51jion.com', 'ghantalele.com', 'mx.mileroticos.com', 'www.hengnan520.com', 'www.stewartsigns.com', 'www.realbabes.com.au', 'dfs.land', 'www.funkierbike.com', 'funkierbike.com', 'production.courierapi.co.uk', 'api.dfs.land', 'www.longwangchuanshuo.net', 'yx.887141.xyz', 'www.99wxw.cc', 'm.niuerzs.com', 'www.cchitv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.stewartsigns.com...
+Performing DNS lookup for api.dfs.land...
+Performing DNS lookup for ghantalele.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
