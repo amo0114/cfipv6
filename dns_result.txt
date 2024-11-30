@@ -2,30 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.hnxinlian.org	canonical name = sbcdn.cc.
-sbcdn.cc	canonical name = dash.cloudflare.com.
-Name:	dash.cloudflare.com
-Address: 104.17.110.184
-Name:	dash.cloudflare.com
-Address: 104.17.111.184
-Name:	dash.cloudflare.com
-Address: 2606:4700::6811:6eb8
-Name:	dash.cloudflare.com
-Address: 2606:4700::6811:6fb8
+bjgaokao.com	canonical name = 301.gaspeedup.com.
+Name:	301.gaspeedup.com
+Address: 47.242.7.44
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find theporn338.cc: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.p2pah.com
-Address: 172.67.71.101
-Name:	www.p2pah.com
-Address: 104.26.13.164
-Name:	www.p2pah.com
-Address: 104.26.12.164
-
-Server:		8.8.4.4
-Address:	8.8.4.4#53
-
-** server can't find 7.namesilo123.top: NXDOMAIN
+www.tl2938.xyz	canonical name = yt3426.c2.hycdn.xyz.
+yt3426.c2.hycdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
