@@ -13788,3 +13788,24 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a9480e5] Update project files
+ 4 files changed, 42 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   4f8c5e8..a9480e5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.247.190...
+Fetching domains for 104.21.75.136...
+Fetching domains for 104.17.73.29...
+succeed to fetch domains for 104.17.247.190 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.75.136 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.73.29 from https://ipchaxun.com/
+域名列表为
+['www.upmbiomedicals.com', 'e235v.com', 'yixiaohuanbao.com', 'm.lolmanhua.com', 'www.qpby600.com', 'www.lyzdzy.com', 'www.av212.xyz', 'chat.aiwe.io', 'www.7k7kys.com', 'whitesocks.net', 'xhxczj.cn', 'xl720.com', 'bitbrowser.me', 'av212.xyz', 'www.tianmagj008.net', 'lsjav.top', 'sxxffww.com', 'www.lsjav.top', 'thespinemarketgroup.com', '145761.xyz', 'www.pathivaraonline.com', 'uberhumor.com', 'www.99wx.cc', 'yongping.yixiaohuanbao.com', 'sunproxies.com', 'www.xl720.com', '89ma.top', 'www.clgod.com', 'ppa77.com', '91wgcmau.com', 'www.gc55.xyz', 'www.e235v.com', 'www.tuanyou8.com', 'etfblackrock.com', 'sxchinesegirlz.one', 'm.luwangyangrong.com', 'buliang196.xyz', 'qpby600.com', 'www.sxxffww.com', 'uwywy.azsxc.net', 'houhuayuan.xyz', 'www.luwangyangrong.com', 'www.iios.club', 'www.bxpmagazine.com', 'salen95mask.com', 'www.thespinemarketgroup.com', 'tianmagj008.net', 'transformiceonline.com', 'megayapiproje.com', 'mip.xl720.com', 'twitter18.com', 'www.28et.com', 'streampumps.com', 'lianfen360.com', '507h.com', 'www.gaycn.top', 'www.doupobook.cc', 'www.streampumps.com', 'www.99wxw.cc', 'www.je64pu.cn', 'www.93xscc.com', 'tuanyou8.com', 'yh5hw5.tw', 'www.taozhitv56.sbs', 'four.dadata.cf', 'www.t2wf7.cn', 'www.58ray.com', 'www.xwsxs.com', 'picacg9.com', 'gc55.xyz', 'www.xhxczj.cn', 'www.75xs.cc', 'porn01.xyz', 'qiyczdbk.salen95mask.com', 'mianjuvip.com', '8mei503.xyz', 'bangumi.moe', 'www.whpaiger.com', 'www.89ma.top', 'storeplayapk.com', 'cn.sunproxies.com', 'www.57iii.com', 'www.yqfwyrj.cn', 'www.buliang196.xyz', 'www.nitianzw.com', 'senior-mo.com', 'israelpremiertech.com', 'yidan.in']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xwsxs.com...
+Performing DNS lookup for e235v.com...
+Performing DNS lookup for uwywy.azsxc.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
