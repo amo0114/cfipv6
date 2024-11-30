@@ -13853,3 +13853,24 @@ Performing DNS lookup for www.lyzdzy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 960d5f2] Update project files
+ 4 files changed, 70 insertions(+), 22 deletions(-)
+To github.com:amo0114/cfipv6.git
+   52fa61c..960d5f2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.6.48...
+Fetching domains for 104.16.18.94...
+Fetching domains for 172.64.32.67...
+succeed to fetch domains for 104.26.6.48 from https://ipchaxun.com/
+succeed to fetch domains for 172.64.32.67 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.18.94 from https://site.ip138.com/
+域名列表为
+['ynondigital.co.il', 'www.7e9m.com', 'm.niuerzs.com', 'qzonedj.linkpc.net', 'cdnjs.cloudflare.com', 'www.lyzdzy.com', 'cdn.bootcdn.net', 'lionfree.net', 'thepigsite.com', 'www.broadband.co.uk', 'eats365pos.com', 'www.heinu.cc', 'www.1a1v.com', 'www.295k.com', 'dha.com.tr', 'hearty.me', 'lineage999.com', 'jiexi.360kk.top', 'www.52ys.cc', '360tv.cc', 'speedip.eu.org', 'www.klxsw.tw', 'js1983.com', 'www.zzztch.com', 'www.lineage999.com', 'web.mi.huy.ooo', 'www.hxncpgs.com', 'ara.ns.cloudflare.com', 'cxs.pw', 'www.cfhuagong.com', 'nqynet.cn', 'www.design-milk.com', 'www.ascs.com', 'xlprioritas.alphabill.id', 'usnew.lbxjc.site', 'yy6080.cf', 'sportsnewsireland.com', 'www.6fa.com', 'www.lkktv.com', 'www.a.360tv.cc', 'cfip.xxxxxxxx.tk', 'yewannatun.xyz', 'mmoga.co.uk', 'design-milk.com', 'mc.vicly.org', 'iios.club', 'www.360kk.top', 'www.wecaidan.com', 'www.cocanwelding.com', 'www.doityourselfrv.com', 'www.una.me', 'covercouch.com', 'www.s188bet.com', 'www.4yydstxt178.com', 'www.wn03.cc', 'www.xsxs.la', 'softmany.com', 'dblock.dyxmo.work', 'www.renren163.com', 'www.ynondigital.co.il', '4yydstxt178.com', '6fa.com', 'www.dha.com.tr', 'www.360tv.cc', 'fontbit.io', 'doityourselfrv.com', 'www.iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cxs.pw...
+Performing DNS lookup for www.7e9m.com...
+Performing DNS lookup for usnew.lbxjc.site...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
