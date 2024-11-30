@@ -2,27 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-bjgaokao.com	canonical name = 301.gaspeedup.com.
-Name:	301.gaspeedup.com
-Address: 47.242.7.44
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find theporn338.cc: NXDOMAIN
+Name:	www.kuaikan66.com
+Address: 69.162.95.3
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tl2938.xyz	canonical name = yt3426.c2.hycdn.xyz.
-yt3426.c2.hycdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
+Name:	13dl.net
+Address: 81.28.12.12
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.zzztch.com
+Address: 91.195.240.12
 

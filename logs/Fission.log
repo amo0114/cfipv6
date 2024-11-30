@@ -13744,3 +13744,25 @@ Performing DNS lookup for 7.namesilo123.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 23c3787] Update project files
+ 4 files changed, 64 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   512addc..23c3787  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.64.236...
+Fetching domains for 104.16.190.175...
+Fetching domains for 104.17.11.229...
+succeed to fetch domains for 104.21.64.236 from https://site.ip138.com/
+succeed to fetch domains for 104.16.190.175 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.11.229 from https://dnsdblookup.com/
+域名列表为
+['yy66pp.com', 'avjiji0.xyz', 'www.caifuce.com', 'www.pk299.com', 'www.taochedang.com', 'hongkong.qing1999.eu.org', 'www.tockt.com', 'www.97777pk.com', 'nvkukla.ru', 'tuzizz.com', 'wanmeizw.com', 'nsdxka.top', 'www.huakai2018.com', 'glist.ga', 'bansko-jazz.com', 'jrjygz.com', 'www.lyzdzy.com', '7.namesilo123.top', '778992.com', 'jc.guangsu33.com', 'upmexpro.com', 'img.1234pic.info', 'www.wanmeizw.com', 'theporn338.cc', 'www.nsdxka.top', '267abc.com', 'www.jrjygz.com', 'hblongjiang.com', 'www.hblongjiang.com', 'b5c.cc', 'www.t1games.io', 'hjd108d.top', 'thea666.com', 'eee.413244.com', 'wm.wmmhw.com', '31xx171.xyz', 'www.tpyyc.com', 'www.yy66pp.com', 'www.tl2938.xyz', 'hin.dif.asia', 'cks.dif.asia', 'www.ququxiaoshuo.com', 'www.shy6666.com', '413244.com', 'www.5522tl.com', 'www.413244.com', 'www.bjgaokao.com', '7cimny1o1t.xyz', 'www.kbss888.com', 'www.liaoyouwang.com', 'www.cococao.com', 'ak88.co', 'pandago6.com', 'speedcl.5489265.xyz', 'a678q.com', '7999205.com', 'www.267abc.com', 'bjgaokao.com', 'thea373.com', 'pw.pwndns.pw', 'baike.jijixiaowu.com', 'www.a678q.com', 'game.psgo.eu.org', '699ci.com', 'lnjweb.top', 'wmmhw.com', 'cc.wmmhw.com', 'www.dzy66666.com', 'wap.nsdxka.top', 'forum2x2.net', 'tanailu.com', 'tpyyc.com', 'm.nsdxka.top', 'm.wanmeizw.com', 't1games.io', 'cococao.com', 'www.cfhuagong.com', 'www.zykrxx.com', 'arena555-c.com', 'www.ak88.co', 'rby99.com', 'www.uexcpnog.cn', 'www.699ci.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for bjgaokao.com...
+Performing DNS lookup for theporn338.cc...
+Performing DNS lookup for www.tl2938.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
