@@ -13831,3 +13831,25 @@ Performing DNS lookup for 21mma.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 52fa61c] Update project files
+ 4 files changed, 59 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   a2666a3..52fa61c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.49.248...
+Fetching domains for 104.16.44.208...
+Fetching domains for 104.18.245.213...
+succeed to fetch domains for 104.16.49.248 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.245.213 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.44.208 from https://ipchaxun.com/
+域名列表为
+['www.zzztch.com', 'www.qqsvip9.top', 'www.cfhuagong.com', 'www.geappliances.com', 'www.sskzmz.com', 'www.luwangyangrong.com', 'ht.9900k.cn', 'www.lyzdzy.com', 'www.4j4j.cn', 'bestcf.onecf.eu.org', 'www.huaidan1.com', 'products.geappliances.com', 'www.pianku5.com', 'gua.im', 'www.75uw.com', 'm.niuerzs.com', '9900k.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.huaidan1.com...
+Performing DNS lookup for www.lyzdzy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

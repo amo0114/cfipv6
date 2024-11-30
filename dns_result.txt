@@ -2,25 +2,48 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 91.195.240.12
+Name:	cxs.pw
+Address: 218.161.67.206
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.huaidan1.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.35.152
-Name:	ips.993888.xyz
-Address: 104.17.35.212
-Name:	ips.993888.xyz
-Address: 104.17.204.176
+www.7e9m.com	canonical name = y.lmfjk.shop.
+y.lmfjk.shop	canonical name = chzko.c4bla.bond.
+Name:	chzko.c4bla.bond
+Address: 172.67.219.29
+Name:	chzko.c4bla.bond
+Address: 104.21.62.29
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3034::6815:3e1d
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3030::ac43:db1d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.40.209
+usnew.lbxjc.site	canonical name = cloudflare.182682.xyz.
+cloudflare.182682.xyz	canonical name = xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz.
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
 
