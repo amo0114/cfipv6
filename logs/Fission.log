@@ -13809,3 +13809,25 @@ Performing DNS lookup for uwywy.azsxc.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a2666a3] Update project files
+ 4 files changed, 61 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   a9480e5..a2666a3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.52.67...
+Fetching domains for 104.18.21.243...
+Fetching domains for 104.16.33.165...
+succeed to fetch domains for 104.16.33.165 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.21.243 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.52.67 from https://dnsdblookup.com/
+域名列表为
+['bambulab.cn', 'www.a345ad.com', 'www.sjzsckj.com', 'www.5567er.com', 'cdn.cmliu.net', 'www.birkenstock-france.com', '5567er.com', 'moeinu.com', 'legatomedia.com', 'www.0533it.com', 'm.4j4j.cn', 'b8p66.com', 'www.274yu.com', 'a234sn.com', 'www.cbcv.cc', 'bk.jdkg.fun', '21mma.com', 'www.4j4j.cn', 'www.iios.club', 'www.6677qn.com', 'iios.club', 'www.kunzedu.com', 'hkg.sagg.us.kg', 'www.tls567.com', '6988tv.com', 'www.5234he.com', 'www.4hue10.com', 'm.luwangyangrong.com', 'www.bambulab.cn', '5234he.com', 'cfip.xxxxxxxx.tk', '274yu.com', 'baxtc.66666654.xyz', 'futuresapi.coinw.com', 'www.21mma.com', 'www.3123pu.com', 'www.a234sn.com', '3123pu.com', 'www.pyf234.com', 'coinw.com', 'www.ascensiadiabetes.com', '6677qn.com', '39hh.net', 'a345ad.com', 'www.kk554.com', 'www.98aewqq.com', 'www.grantthornton.bz', 'api.bambulab.cn', 'www.39hh.net', 'www.coinw.com', 'm.iwzmanhua.com', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.kunzedu.com...
+Performing DNS lookup for bk.jdkg.fun...
+Performing DNS lookup for 21mma.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

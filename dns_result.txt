@@ -2,27 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kunzedu.com
-Address: 103.88.187.196
+Name:	www.zzztch.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	bk.jdkg.fun
-Address: 172.67.73.96
+www.huaidan1.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.35.152
+Name:	ips.993888.xyz
+Address: 104.17.35.212
+Name:	ips.993888.xyz
+Address: 104.17.204.176
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-21mma.com	canonical name = cdn.c9c9cfebd8.laoyucdn.com.
-Name:	cdn.c9c9cfebd8.laoyucdn.com
-Address: 223.165.12.52
-Name:	cdn.c9c9cfebd8.laoyucdn.com
-Address: 223.165.12.50
-Name:	cdn.c9c9cfebd8.laoyucdn.com
-Address: 223.165.12.59
-Name:	cdn.c9c9cfebd8.laoyucdn.com
-Address: 223.165.12.64
+Name:	www.lyzdzy.com
+Address: 208.98.40.209
 
