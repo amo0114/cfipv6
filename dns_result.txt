@@ -2,20 +2,23 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kuaikan66.com
-Address: 69.162.95.3
+www.xwsxs.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.114.191
+Name:	ips.993888.xyz
+Address: 104.16.2.24
+Name:	ips.993888.xyz
+Address: 104.16.18.57
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	13dl.net
-Address: 81.28.12.12
+Name:	e235v.com
+Address: 35.227.213.26
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 91.195.240.12
+** server can't find uwywy.azsxc.net: NXDOMAIN
 

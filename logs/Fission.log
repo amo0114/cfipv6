@@ -13766,3 +13766,25 @@ Performing DNS lookup for www.tl2938.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4f8c5e8] Update project files
+ 4 files changed, 52 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   23c3787..4f8c5e8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.195.37...
+Fetching domains for 104.17.199.114...
+Fetching domains for 104.16.214.32...
+succeed to fetch domains for 104.17.199.114 from https://site.ip138.com/
+succeed to fetch domains for 104.16.214.32 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.195.37 from https://ipchaxun.com/
+域名列表为
+['www.infinitisherbrooke.com', 'www.securityuser.com', 'securityuser.com', 'www.zzztch.com', 'm.niuerzs.com', 'www.75uw.com', 'www.dqhedu.cn', 'www.sipgu05.com', 'www.lyzdzy.com', 'www.betootaadvocate.com', 'www.e0101.com', 'infinitisherbrooke.com', 'www.iios.club', 'www.295k.com', 'www.kuaikan66.com', 'www.kunzedu.com', '13dl.net', 'honestbrew.co.uk', 'www.iios.me', 'one2ball.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.kuaikan66.com...
+Performing DNS lookup for 13dl.net...
+Performing DNS lookup for www.zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
