@@ -2,27 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.rmsxs.com
-Address: 149.115.243.167
+www.hnxinlian.org	canonical name = sbcdn.cc.
+sbcdn.cc	canonical name = dash.cloudflare.com.
+Name:	dash.cloudflare.com
+Address: 104.17.110.184
+Name:	dash.cloudflare.com
+Address: 104.17.111.184
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6eb8
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6fb8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 91.195.240.12
+Name:	www.p2pah.com
+Address: 172.67.71.101
+Name:	www.p2pah.com
+Address: 104.26.13.164
+Name:	www.p2pah.com
+Address: 104.26.12.164
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
-Non-authoritative answer:
-www.qiuxiaw.com	canonical name = cdn.ya104.free.hr.
-Name:	cdn.ya104.free.hr
-Address: 172.67.192.240
-Name:	cdn.ya104.free.hr
-Address: 104.21.20.137
-Name:	cdn.ya104.free.hr
-Address: 2606:4700:3030::6815:1489
-Name:	cdn.ya104.free.hr
-Address: 2606:4700:3033::ac43:c0f0
+** server can't find 7.namesilo123.top: NXDOMAIN
 
