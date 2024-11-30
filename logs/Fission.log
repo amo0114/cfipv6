@@ -13874,3 +13874,25 @@ Performing DNS lookup for usnew.lbxjc.site...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2d031f7] Update project files
+ 4 files changed, 65 insertions(+), 63 deletions(-)
+ rewrite dns_result.txt (95%)
+To github.com:amo0114/cfipv6.git
+   960d5f2..2d031f7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.90.153...
+Fetching domains for 104.17.191.215...
+Fetching domains for 198.41.208.34...
+succeed to fetch domains for 104.17.191.215 from https://site.ip138.com/
+succeed to fetch domains for 198.41.208.34 from https://site.ip138.com/
+succeed to fetch domains for 104.18.90.153 from https://dnsdblookup.com/
+域名列表为
+['www.wei333.com', 'www.ncdwzs.com', 'j262.cc', 'izoyoi.ink', 'a393.cc', 'www.ddwhm.com', 'www.4148.net', 't432.cc', 'www.ganpian.com', 'm.luotuoyy.com', 'www.nitianzw.com', 'www.dcs99.com', 'www.tjhtt.com', 'www.k8zy.com', 'www.7749tv.com', 'www.wubei520.com', '115fhd.com', 'k77kk.cc', 'uu93.com', 'www.ycly.work', 'yyxxi.com', '4gdiy.com', 'm.50zw.co', 'www.gaycn.top', 'stock.hostmonit.com', 'www.paizipai.top', 'm.zjgamy.com', 'www.googles.ltd', 'www.aiquyy.com', 'www.789kp.com', 'soraneko.cn', '606977.com', 'www.qp666.com', 'www.yyxxi.com', 'www.soraneko.cn', 'www.6i5.com', 'acus.cloudflarest.link', 'www.679077.com', 'www.tv9090.com', 'www.id9yy.com', 'suboji.com', 'www.e99w.com', 'cf-lt.sharecentre.online', '80hyy.com', 'cfip.xxxxxxxx.tk', 'www.xiain.cn', 'www.33mov.com', 'www.cx888my.com', 'www.pk299.com', 'wogg.xyz', 'txhk.ayao.cloud', '8877fz.com', 'ecdn.izoyoi.ink', 'ayzjj.cn', 'www.k77kk.cc', 'www.tinghen.com', 'www.k77yy.com', 'fnyy6.com', 'www.11txt.com', 'www.706i.com', 'www.36dm.club', 'www.dskxkj.com', 'cfcdn.sanfencdn.net', 'www.hbgaolin.com', 'm.sp6080.com', 'cdn.soraneko.cn', 'www.888dyy.cc', 'www.sxyzxh.com', 'dsxys.pro']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for txhk.ayao.cloud...
+Performing DNS lookup for cf-lt.sharecentre.online...
+Performing DNS lookup for www.7749tv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

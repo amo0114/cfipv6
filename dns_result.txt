@@ -1,34 +1,27 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find txhk.ayao.cloud: NXDOMAIN
+Non-authoritative answer:
+Name:	yyxxi.com
+Address: 162.210.196.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-cf-lt.sharecentre.online	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
+Name:	xs.wxtv.cc
+Address: 104.21.227.211
+Name:	xs.wxtv.cc
+Address: 104.19.135.154
+Name:	xs.wxtv.cc
+Address: 104.16.112.168
+Name:	xs.wxtv.cc
+Address: 104.16.112.141
+Name:	xs.wxtv.cc
+Address: 104.19.136.169
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.7749tv.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+** server can't find www.qf527.com: NXDOMAIN
 
