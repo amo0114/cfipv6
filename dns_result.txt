@@ -2,18 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jpvsavhyu.76898102.xyz
-Address: 104.20.22.174
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
-** server can't find www.2xigua.com: NXDOMAIN
+Non-authoritative answer:
+www.77ty.com	canonical name = 103top.delivery-cf-103.sbs.
+Name:	103top.delivery-cf-103.sbs
+Address: 173.255.219.146
+Name:	103top.delivery-cf-103.sbs
+Address: 104.237.157.185
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
+Name:	75uw.com
 Address: 23.225.148.166
 

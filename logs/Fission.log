@@ -13918,3 +13918,25 @@ Performing DNS lookup for www.qf527.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c3a1eed] Update project files
+ 4 files changed, 49 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   27bc4d0..c3a1eed  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.13.48...
+Fetching domains for 104.17.238.65...
+Fetching domains for 104.21.232.8...
+succeed to fetch domains for 104.26.13.48 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.238.65 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.232.8 from https://dnsdblookup.com/
+域名列表为
+['destinationimagination.org', 'zm7.m3u8list.top', 'www.naimilu.com', 'www.gdriustb.com', 'www.75uw.com', 'www.dilidili8.com', 'www.cfhuagong.com', 'www.shushenwu.com', 'www.bt4kyy.com', 'jpvsavhyu.76898102.xyz', 'www.lyzdzy.com', 'dcs.jqddos.xyz', 'kmstools.com', 'www.kunzedu.com', 'www.hhyy028.com', 'www.i63.com.cn', 'www.errecom.com', 'www.97777pk.com', 'iios.me', 'www.b7yy.cc', 'ulzdk.com', 'www.ddwhm.com', 'm.shushenwu.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'qs.atmex.io', 'm.rmipoz.com', 'proxyip.sg.fxxk.dedyn.io', 'www.pianku5.com', 'zz.easylink.work', 'm.luwangyangrong.com', 'achk.cloudflarest.link', 'man.luwangyangrong.com', 'zoo-xnxx.com', 'resources.destinationimagination.org', 'www.tv8box.com', 'nlsdwsz.66666654.xyz', 'wz.weishao2023.uk.eu.org', 'smokersoutletonline.com', 'zcgs668.com', 'www.91m.cc', 'cfip.xxxxxxxx.tk', 'www.2xigua.com', 'm.niuerzs.com', 'jxin188.com', 'www.agribiztv.com', 'www.zzztch.com', 'www.smokersoutletonline.com', 'www.atmex.io', 'm.163fahao.com', 'www.pk299.com', 'www.iios.club', 'sportwitness.co.uk', 'www.6988tv.com', 'www.tlbb888.com', 'www.iios.me', 'www.luwangyangrong.com', 'www.zsych.net', 'www.tpyyc.com', 'shushenwu.com', 'www.295k.com', 'atmex.io', 'freeyx.cloudflare88.eu.org', 'yaoshe54.com', 'amstdhebb.76898102.xyz', 'www.kuaikan66.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jpvsavhyu.76898102.xyz...
+Performing DNS lookup for www.2xigua.com...
+Performing DNS lookup for www.75uw.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
