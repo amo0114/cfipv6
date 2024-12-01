@@ -2,34 +2,39 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+www.xhamster18.com	canonical name = star.mirror.xhamster50.com.
+Name:	star.mirror.xhamster50.com
+Address: 104.18.174.101
+Name:	star.mirror.xhamster50.com
+Address: 104.18.173.101
+Name:	star.mirror.xhamster50.com
+Address: 2606:4700::6812:ad65
+Name:	star.mirror.xhamster50.com
+Address: 2606:4700::6812:ae65
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.jerrysartarama.com
-Address: 104.17.173.239
-Name:	www.jerrysartarama.com
-Address: 104.17.174.239
-Name:	www.jerrysartarama.com
-Address: 2606:4700::6811:aeef
-Name:	www.jerrysartarama.com
-Address: 2606:4700::6811:adef
+Name:	xhamster42.com
+Address: 104.17.168.60
+Name:	xhamster42.com
+Address: 104.17.167.60
+Name:	xhamster42.com
+Address: 2606:4700::6811:a73c
+Name:	xhamster42.com
+Address: 2606:4700::6811:a83c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	4gdiy.com
-Address: 199.59.243.227
+Name:	zh.xhamster2.com
+Address: 104.21.16.210
+Name:	zh.xhamster2.com
+Address: 172.67.215.239
+Name:	zh.xhamster2.com
+Address: 2606:4700:3034::ac43:d7ef
+Name:	zh.xhamster2.com
+Address: 2606:4700:3036::6815:10d2
 

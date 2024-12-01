@@ -14053,3 +14053,25 @@ Performing DNS lookup for krytos.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 62ab7c7] Update project files
+ 4 files changed, 68 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   cfeb6a7..62ab7c7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.101.249...
+Fetching domains for 104.17.227.70...
+Fetching domains for 104.18.185.67...
+succeed to fetch domains for 104.18.101.249 from https://site.ip138.com/
+succeed to fetch domains for 104.18.185.67 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.227.70 from https://dnsdblookup.com/
+域名列表为
+['www.tlbb888.com', 'www.207my.com', '4gdiy.com', 'www.6xr.com', 'iios.club', 'www.cfhuagong.com', 'www.jerrysartarama.com', 'www.vcd.la', 'op-net.com', 'www.cx888my.com', 'www.lailai360.com', 'grofers.com', 'www.tockt.com', 'www.93xscc.com', 'yncareer.com', 'panel.op-net.com', 'www.tl2938.xyz', 'www.iios.club', 'www.skynewsarabia.com', 'skynewsarabia.com', 'www.xigua5.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for www.jerrysartarama.com...
+Performing DNS lookup for 4gdiy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
