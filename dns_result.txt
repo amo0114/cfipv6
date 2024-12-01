@@ -2,32 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wubei520.com	canonical name = cf.host106.america96.com.
-Name:	cf.host106.america96.com
-Address: 172.67.165.85
-Name:	cf.host106.america96.com
-Address: 104.21.15.245
-Name:	cf.host106.america96.com
-Address: 2606:4700:3036::ac43:a555
-Name:	cf.host106.america96.com
-Address: 2606:4700:3037::6815:ff5
+Name:	www.lyzdzy.com
+Address: 208.98.40.206
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find api.fhyjm.cn: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	tv8box.com
-Address: 207.244.65.58
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.153.185
-Name:	ips.993888.xyz
-Address: 104.17.21.206
-Name:	ips.993888.xyz
-Address: 104.17.22.46
+Name:	www.zzztch.com
+Address: 91.195.240.12
 
