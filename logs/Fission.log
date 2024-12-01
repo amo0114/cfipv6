@@ -14010,3 +14010,24 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b98de74] Update project files
+ 4 files changed, 78 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   d234df5..b98de74  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.94.230...
+Fetching domains for 198.41.219.17...
+Fetching domains for 104.22.3.26...
+succeed to fetch domains for 104.17.94.230 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.219.17 from https://site.ip138.com/
+succeed to fetch domains for 104.22.3.26 from https://dnsdblookup.com/
+域名列表为
+['www.lyzdzy.com', 'baxtc.66666654.xyz', 'nlsdwsz.66666654.xyz', 'www.salehoo.com', 'www.6xr.com', 'bo1014.com', 'www.qdjljy.com', 'www.74fan.com', 'www.qdtsdp.com', 'www.bd-film.cc', 'www.jinyir18.com', 'speed.marisalnc.com', 'yx.887141.xyz', 'www.hhyy028.com', 'ts3927.aauk7im5r67yyd8lobd.top', 'cdn.cf.clun.top', 'jpaa.entrust.pp.ua', 'lao304.com', 'zgjmw.net', 'g432.cc', 'xmxingmu.com', 'ta215.com', 'www.kbss888.com', 'www.993my.com', 'www.652tv.com', 'salehoo.com', 'www.dingdingdm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for baxtc.66666654.xyz...
+Performing DNS lookup for www.74fan.com...
+Performing DNS lookup for www.kbss888.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

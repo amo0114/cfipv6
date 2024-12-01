@@ -2,49 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-baxtc.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global27.66666654.xyz.
-Name:	cfcn-b-global27.66666654.xyz
-Address: 104.20.18.25
+Name:	www.gsxjhups.com
+Address: 104.21.33.154
+Name:	www.gsxjhups.com
+Address: 172.67.146.138
+Name:	www.gsxjhups.com
+Address: 2606:4700:3034::6815:219a
+Name:	www.gsxjhups.com
+Address: 2606:4700:3036::ac43:928a
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.74fan.com	canonical name = 74dns.hai888.top.
-74dns.hai888.top	canonical name = dns123.xin6.top.
-Name:	dns123.xin6.top
-Address: 104.26.12.83
-Name:	dns123.xin6.top
-Address: 172.67.75.125
-Name:	dns123.xin6.top
-Address: 104.26.13.83
+Name:	u97.net
+Address: 54.67.42.145
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
-yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.25.198.26
-Name:	dcs.jqddos.xyz
-Address: 104.19.205.124
-Name:	dcs.jqddos.xyz
-Address: 104.18.108.64
-Name:	dcs.jqddos.xyz
-Address: 104.17.33.193
-Name:	dcs.jqddos.xyz
-Address: 104.17.9.241
-Name:	dcs.jqddos.xyz
-Address: 104.17.9.6
-Name:	dcs.jqddos.xyz
-Address: 104.25.58.58
-Name:	dcs.jqddos.xyz
-Address: 104.17.37.129
-Name:	dcs.jqddos.xyz
-Address: 104.25.22.172
-Name:	dcs.jqddos.xyz
-Address: 104.24.80.189
+Name:	krytos.top
+Address: 172.67.146.138
+Name:	krytos.top
+Address: 104.21.33.154
+Name:	krytos.top
+Address: 2606:4700:3036::ac43:928a
+Name:	krytos.top
+Address: 2606:4700:3034::6815:219a
 
