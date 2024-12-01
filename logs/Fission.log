@@ -14075,3 +14075,25 @@ Performing DNS lookup for 4gdiy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2ecc5df] Update project files
+ 4 files changed, 73 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   62ab7c7..2ecc5df  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.160.68...
+Fetching domains for 104.19.44.60...
+Fetching domains for 104.17.167.60...
+succeed to fetch domains for 104.17.167.60 from https://site.ip138.com/
+succeed to fetch domains for 104.19.44.60 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.160.68 from https://site.ip138.com/
+域名列表为
+['xhamster42.com', 'unlockxh1.com', 'www.ji.xhamster18.com', 'adg.mijikawa.top', 'ge.xhamster20.com', 'de.xhamster18.com', 'jp.xhamster20.com', 'unlockxh.com', 'www.xhamster14.com', 'www.qingkundl.com', 'www.jg666.top', 'www.zzztch.com', 'xhamster1.desi', 'm.qianlimaerp.com', 'xhamster2.com', 'www.hhyy028.com', 'pl.xhamster14.com', 'm.pudding.cc', 'zn.xhamster18.com', 'pl.xhamster18.com', 'www.xhamster18.com', 'it.xhamster2.com', 'ipyd.52pokemon.cc', 'xhamster11.com', 'www.75uw.com', 'xhamster.desi', 'de.xhamster14.com', 'lwww.xhamster3.com', 'jp.xhamster.desi', 'xhamster18.com', 'unlockxh5.com', 'www.83yy.cc', 'fr.xhamster20.com', 'ww.xhamster11.com', 'xhamster20.com', 'nl.xhamster14.com', 'www.zh.xhamster3.com', 'www.sixyin.com', 'unlockxh2.com', 'ru.xhamster18.com', 'www.zh.openxh.com', 'www.tytthc.com', 'pt.xhamster2.com', 'www.kbss888.com', 'it.xhamster20.com', 'jp.xhamster18.com', 'es.xhamster11.com', 'www.xhamster7.com', 'www.1027663760.com', 'de.xhamster20.com', 'www.whpaiger.com', 'zl.openxh.com', 'www.pudding.cc', 'www.jp.xhamster18.com', 'm.xhamster.desi', 'jp.xhamster2.com', 'www.jmxhbgc.com', 'xhamster3.com', 'www.zh.xhamster2.com', 'www.linnuozs.com', 'www.kunzedu.com', 'es.xhamster18.com', 'zh.xhamster2.com', 'zha.xhamster18.com', 'zh.xhamster11.com', 'www.xhamster20.com', 'jp.xhamster14.com', 'de.xhamster2.com', 'www.xhamster11.com', 'xhamster7.com', 'www.ub888.cc', 'ah.openxh.com', 'zh.openxh.com', 'zh.xhamster20.com', 'www.m6y6.com', 'www.xhamster3.com', 'jh.openxh.com', 'www.pk299.com', 'www.iios.me', 'es.xhamster20.com', 'www.cfhuagong.com', 'jp.xhamster11.com', 'it.xhamster18.com', 'www.zh.xhamster4.com', 'pl.xhamster11.com', 'www.zh.xhamster20.com', 'kz22.cc', 'www.tanhuazu.com', 'es.xhamster2.com', 'w2w2w2.xhamster2.com', 'www.zh.xhamster14.com', 'www.iios.club', 'zh.xhamster42.com', 'zh.xhamster18.com', 'tytthc.com', 'ru.xhamster14.com', 'fr.xhamster14.com', 'openxh.com', 'www.5522tl.com', 'www.xhamster1.desi', 'www.huakai2018.com', 'zh.xhamster.desi', 'pl.xhamster20.com', 'www.cocanwelding.com', 'zh.xhamster3.com', 'www.993my.com', 'www.28et.com', 'www.92mili.com', 'de.xhamster11.com', 'it.xhamster14.com', 'www.xhamster42.com', 'fr.xhamster18.com', 'ipwww.xhamster2.com', 'www.lyzdzy.com', 'pudding.cc', 'zh.xhamster7.com', 'm.niuerzs.com', 'www.nxyxzl.com', 'www.openxh.com', 'wwwa.xhamster18.com', 'zh.unlockxh5.com', 'cfip.xxxxxxxx.tk', 'www.xhamster2.com', 'm.xhamster14.com', 'sv.xhamster18.com', 'pt.xhamster14.com', 'fr.xhamster2.com', 'www.de.xhamster18.com', 'zh.xhamster14.com', 'www.xhamster4.com', 'pan.axxpan.com', 'jg.xhamster14.com', 'zz.xhamster11.com', 'xhamster4.com', 'xhamster14.com', 'ru.xhamster3.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xhamster18.com...
+Performing DNS lookup for xhamster42.com...
+Performing DNS lookup for zh.xhamster2.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
