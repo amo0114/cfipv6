@@ -14119,3 +14119,24 @@ Performing DNS lookup for www.awanmy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main db2f863] Update project files
+ 4 files changed, 76 insertions(+), 9 deletions(-)
+To github.com:amo0114/cfipv6.git
+   78f711d..db2f863  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.220.181...
+Fetching domains for 104.21.231.200...
+Fetching domains for 104.22.25.18...
+succeed to fetch domains for 198.41.220.181 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.231.200 from https://site.ip138.com/
+succeed to fetch domains for 104.22.25.18 from https://site.ip138.com/
+域名列表为
+['play.cdnmicrosoft.com', 'www.cykz.net', 'qr99.cc', 'qiangkouzhao.com', 'www.99wx.cc', 'www.zongcaiwx.com', 'www.sxyzxh.com', 'www.vodbd.com', 'cdn.didi8.com', 'kz22.cc', 'www.uu93.com', 'www.99wxw.cc', 'www.tvgot.com', 'www.wxxzzs.com', 'index1.xxm3u8.top', 'www.hr0354.com', 'www.taiwanheguo.com', 'www.jhhtech.com', 'www.boyangjt.com', 'www.606977.com', 'www.cbcv.cc', 'www.yqwvj.com', 'www.doupobook.cc', 'www.wei333.com', '606977.com', 'www.xinjuc.com', 'www.tv9090.com', 'www.paizipai.top', 'www.ldssz.com', 'www.92mili.com', '7z9a.com', 'www.tuozhan22.com', 'cxk8.com', 'm.0550cq.com', 'www.allshanghaioffice.com', 'www.163my.com', 'www.nangua55.com', 'www.omd2008.com', 'www.ganpian.com', 'www.weizhijc.com', 'bk.jdkg.fun', 'm.mgwheelaxle.com', 'hmoe.top', 'm.rmipoz.com', 'www.96dushu.com', 'www.njwbhz.com', 'www.6988tv.com', 'www.iios.club', 'www.wn04.cc', 'sgv7.com', 'uu93.com', 'sbshe.com', 'www.jsmx999.com', 'www.4gdiy.com', 'www.qindixs.com', 'www.cfhuagong.com', 'imges.tupian.asia', 'www.e0101.com', 'www.66se14.com', 'www.woaiqi.com', 'www.xpsxs.com', 'www.x52bq.com', '0550cq.com', 'cg.22yy7.com', 'www.jishengfc.com', 'opus.gptuu.com', 'www.0550cq.com', 'www.piaku.cc', 'stock.hostmonit.com', '941.outline-vpn.cloud', 'www.vcd.la', 'www.28dushu.com', 'www.51jion.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ganpian.com...
+Performing DNS lookup for m.mgwheelaxle.com...
+Performing DNS lookup for opus.gptuu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
