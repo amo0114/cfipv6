@@ -1,15 +1,47 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.993my.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.ganpian.com
+Address: 172.67.176.134
+Name:	www.ganpian.com
+Address: 104.21.31.127
+Name:	www.ganpian.com
+Address: 2606:4700:3033::6815:1f7f
+Name:	www.ganpian.com
+Address: 2606:4700:3034::ac43:b086
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.jg666.top: NXDOMAIN
+Non-authoritative answer:
+Name:	m.mgwheelaxle.com
+Address: 185.238.171.113
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.awanmy.com: NXDOMAIN
+Non-authoritative answer:
+opus.gptuu.com	canonical name = cdn.vmuu.link.
+cdn.vmuu.link	canonical name = cfip.ahhbbjy.cn.
+Name:	cfip.ahhbbjy.cn
+Address: 172.67.178.74
+Name:	cfip.ahhbbjy.cn
+Address: 172.67.208.159
+Name:	cfip.ahhbbjy.cn
+Address: 172.67.194.215
+Name:	cfip.ahhbbjy.cn
+Address: 172.67.84.165
+Name:	cfip.ahhbbjy.cn
+Address: 104.16.78.229
+Name:	cfip.ahhbbjy.cn
+Address: 172.64.94.84
+Name:	cfip.ahhbbjy.cn
+Address: 104.16.10.190
+Name:	cfip.ahhbbjy.cn
+Address: 172.67.225.246
+Name:	cfip.ahhbbjy.cn
+Address: 104.16.10.17
+Name:	cfip.ahhbbjy.cn
+Address: 104.16.0.77
 
