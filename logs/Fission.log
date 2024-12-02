@@ -14162,3 +14162,25 @@ Performing DNS lookup for www.metrosiliconvalley.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6311bcf] Update project files
+ 4 files changed, 52 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   fb9d67f..6311bcf  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.239.179...
+Fetching domains for 108.162.198.2...
+Fetching domains for 104.23.102.222...
+succeed to fetch domains for 104.23.102.222 from https://ipchaxun.com/
+succeed to fetch domains for 108.162.198.2 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.239.179 from https://ipchaxun.com/
+域名列表为
+['www.91m.cc', 'nlsdwsz.66666654.xyz', 'go.wumaojichang.com', 'www.295k.com', 'www.lyys8.com', 'www.zzztch.com', 'www.qumiyun.com', 'www.lyzdzy.com', 'yx.887141.xyz', 'www.30hu.com', 'www.xiaoxin.monster', 'www.xworldadmin.com', 'yh7.dtku41.xyz', 'yunsosuo.cc', 'www.chenxin.monster', 'www.yqkbook.com', 'www.nanhuyt.com', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yx.887141.xyz...
+Performing DNS lookup for www.qumiyun.com...
+Performing DNS lookup for www.zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

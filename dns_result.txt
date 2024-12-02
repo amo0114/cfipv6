@@ -1,22 +1,39 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find yx.887141.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	www.beargaytube.com
+Address: 104.21.234.195
+Name:	www.beargaytube.com
+Address: 104.21.234.194
+Name:	www.beargaytube.com
+Address: 2606:4700:3038::6815:eac3
+Name:	www.beargaytube.com
+Address: 2606:4700:3038::6815:eac2
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qumiyun.com	canonical name = speed.marisalnc.com.
-speed.marisalnc.com	canonical name = speed-freefly-ctagttb-sjc.dnshtcb.pp.ua.
-speed-freefly-ctagttb-sjc.dnshtcb.pp.ua	canonical name = cfcn-ct-gttb25.dnshtca.pp.ua.
-Name:	cfcn-ct-gttb25.dnshtca.pp.ua
-Address: 172.67.112.73
+Name:	pornpapa.com
+Address: 104.21.234.194
+Name:	pornpapa.com
+Address: 104.21.234.195
+Name:	pornpapa.com
+Address: 2606:4700:3038::6815:eac3
+Name:	pornpapa.com
+Address: 2606:4700:3038::6815:eac2
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 91.195.240.12
+Name:	i-stripper.pro
+Address: 104.21.234.194
+Name:	i-stripper.pro
+Address: 104.21.234.195
+Name:	i-stripper.pro
+Address: 2606:4700:3038::6815:eac2
+Name:	i-stripper.pro
+Address: 2606:4700:3038::6815:eac3
 
