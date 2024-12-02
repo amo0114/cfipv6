@@ -14250,3 +14250,25 @@ Performing DNS lookup for www.juhuatv1.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ff98209] Update project files
+ 4 files changed, 60 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   1c2646c..ff98209  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.37.39...
+Fetching domains for 104.17.11.200...
+Fetching domains for 190.93.247.248...
+succeed to fetch domains for 190.93.247.248 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.37.39 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.11.200 from https://site.ip138.com/
+域名列表为
+['uu93.com', 'tushencn.com', 'www.feedstuffs.com', 'www.4gdiy.com', 'www.uu93.com', 'www.linnuozs.com', 'www.xpsxs.com', 'sixyin.com', 'www.99wx.cc', 'www.tinghen.com', 'hnxinlian.org', 'www.huanyaad.com', 'www.hbzhigong.com', 'www.sixyin.com', 'fldsubgigtujuy.76898102.xyz', 'www.lyzdzy.com', 'speed.marisalnc.com', 'www.90dushu.com', 'www.e0101.com', 'cf.openxai.link', 'www.nitianxieshen.com', 'www.pwcai.com', 'www.qindixs.com', 'www.65bao2.com', 'www.scxdexx.com', 'www.tv9090.com', 'www.sxyzxh.com', 'www.x52bq.com', 'www.7sc.cc', 'www.xkceo.com', 'pwcai.com', 'www.1717tv.com', 'www.vodbd.com', 'www.lanyucy.com', 'www.85xs.cc', 'www.yjeky.com', 'www.hljlinuo.com', 'suboji.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.hbzhigong.com...
+Performing DNS lookup for www.e0101.com...
+Performing DNS lookup for www.sixyin.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
