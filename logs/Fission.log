@@ -14140,3 +14140,25 @@ Performing DNS lookup for opus.gptuu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main fb9d67f] Update project files
+ 4 files changed, 69 insertions(+), 66 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   db2f863..fb9d67f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.47.24...
+Fetching domains for 104.21.26.205...
+Fetching domains for 104.21.64.138...
+succeed to fetch domains for 104.21.64.138 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.26.205 from https://dnsdblookup.com/
+succeed to fetch domains for 172.66.47.24 from https://dnsdblookup.com/
+域名列表为
+['wap.ijh36e8.top', 'mengzhan521.com', '3668d.com', 'www.lyzdzy.com', '789777.com', 'ku75.vip', 'www.ugouaw.top', 'oem.no', 'www.kanjushe.com', 'api.dplayerstatic.com', 'www.zzzz63.com', 'tsrk1.cc', 'dd634.com', '36av.top', 'www.bcscp88.com', 'www.a00d702.topwww.a00d702.top', 'fpxcymc.top', 'ralfchristiaanse.nl', 'co.vgopn.com', 'wap.cgeirtfv.top', 'superrich.vip', 'www.mengzhan521.com', 'cm666666.com', 'www.sf123.mobi', 'zzzz63.com', 'www.xingyuyuan.com', 'www.993my.com', 'www.b4g55.com', 'www.789777.com', 'wap.a00d702.top', 'www.99wx.cc', '112797.com', '69x2409.cc', 'papagoav2.com', 'gtja.87738s.mom', '3g.ugouaw.top', 'x9581.com', 'text-to-speech.online', 'wap.luwangyangrong.com', 'ibolee.com', 'www.zhengdayuan.cc', 'www.teridc.cn', 'www.xkstxt.com', 'cherrygoldcasinonew.com', '3g.cgeirtfv.top', 'ss.text-to-speech.online', 'mrds9.com', 'cgeirtfv.top', 'www.szxinna.com', 'www.999tong.com', 'm.4j4j.cn', 'app.ra0x.live', 'xingyuyuan.com', 'teridc.cn', 'yunsosuo.cc', 'metacubexd.pages.dev', 'www.ub888.cc', 'www.ijh36e8.top', '131jj.com', 'cdn-972.pages.dev', 'mncn.online', 'www.36av.top', 'www.ku75.vip', 'kk364.com', 'www.ibolee.com', 'thegifttoy.com', 'www.kbss888.com', 'metrosiliconvalley.com', 'alanandsteiner.com', 'ijh36e8.top', 'ugouaw.top', 'blog.itswincer.com', 'www.xfyy524.com', 'ceriaslot.org', 'www.4pig.cn', 'v11av549.xyz', 'lwx.app', 'dd086.com', 'pigpg.com', 'prex1.com', 'uirvine.com', 'www.dsd.lol', 'm.ijh36e8.top', 'weberventure.com', 'cupfux.app', '91p1132.xyz', 'wap.ugouaw.top', 'wb.weisisuo.com', 'tmd.com', '3g.ijh36e8.top', 'www.93xscc.com', 'www.a00d702.top', 'www.hemayk.com', 'www.6866333.com', 'www.lhjdshs.com', 'linhaimy.cn', 'www.dd086.com', 'hk.752252801.workers.dev', 'flaru.com', 'web.sdcms.cc', 'xfyy524.com', '4pig.cn', 'www.oem.no', 'static.smysw.top', 'ifaner.dd94wan.com', 'itaquiraiemfoco.com.br', '26zv.com', 'speed.marisalnc.com', 'm.luwangyangrong.com', 'www2.smspva.net', 'm.cgeirtfv.top', 'solidtorrents.to', 'www.qdlsj.com', 'dsd.lol', 'hk.752252801.xyz', 'hamong.co.kr', 'www.m6y6.com', 'www.mmwz.in', 'kanjushe.com', 'www.flaru.com', 'www.xcmfvvm.cn', 'a00d702.top', 'www.50zw.co', 'b4g55.com', '85.al', 'www.lwx.app', 'www.cgeirtfv.top', 'mmwz.in', 'zhengdayuan.cc', 'zimu-bl6.pages.dev', 'animebukatsu.net', 'www.gdriustb.com', 'www.cx888my.com', 'www.metrosiliconvalley.com', 'chatplus.dev', 'www.4j4j.cn', 'www.26zv.com', 'wwwyouzhicai.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for metacubexd.pages.dev...
+Performing DNS lookup for www.mmwz.in...
+Performing DNS lookup for www.metrosiliconvalley.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
