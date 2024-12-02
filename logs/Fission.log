@@ -14184,3 +14184,25 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2484c35] Update project files
+ 4 files changed, 68 insertions(+), 30 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   6311bcf..2484c35  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.234.195...
+Fetching domains for 198.41.201.248...
+Fetching domains for 104.18.17.14...
+succeed to fetch domains for 104.18.17.14 from https://site.ip138.com/
+succeed to fetch domains for 198.41.201.248 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.234.195 from https://dnsdblookup.com/
+域名列表为
+['naomefodas.ecosyst.eu', 'www.cfhuagong.com', 'achk.cloudflarest.link', 'www.pornpapa.com', 's.javfc2.xyz', 'nineteen19.tv', 'www.6988tv.com', '9174hu.com', 'xfantasy.tv', 'www.295k.com', 'man.luwangyangrong.com', 'www.its.porn', 'speed.marisalnc.com', 'www.pornhub-deutsch.net', 'www.wyt999.xyz', 'teenage-girls-naked.com', 'downloads.freemdict.com', 'pechersk.kievcity.gov.ua', 'odds.bd-666777.com', 'dsxys.com', 'www.wbdy.tv', 'javfc2.xyz', 'www.beargaytube.com', 'www.asmrbl.com', 'www.wlyjy.cn', 'www.hebav.site', 'm.qiyuanxs.com', 'www.xxxpornimages.me', 'wyt999.xyz', 'pianku5.com', 'www.bb44ii.com', 'i-stripper.pro', 'www.vaticanstate.va', 'beargaytube.com', 'www.ddwhm.com', 'goldasians.com', 'www.xfantasy.tv', 'sgaa.sectigo.pp.ua', '26.namesilo123.top', 'nlsdwsz.66666654.xyz', 'poster.xnxx-porno.com', 'bj.isoyu.com', 'ak84.com', 'www.pandesiaworld.com', 'asmrbl.com', 'www.85xs.cc', '2022gay.cfd', 'superrare.co', 'yx.syd9494.sbs', 'gaypornstarvideos.com', 'platinum-celebs.com', 'paraempresas.catho.com.br', 'www.platinum-celebs.com', 'xxphez.net', 'freeyx.cloudflare88.eu.org', 'hebav.site', 'nudegirlonthebeach.com', 'ynhh.org', 'pornpapa.com', 'www.2022gay.cfd', 'www.meijuxi.com', 'bb44ii.com', 'www.52kpop.cc', 'hulksmash.club', 'xnxx-porno.com', 'embed2.megaxfer.ru']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.beargaytube.com...
+Performing DNS lookup for pornpapa.com...
+Performing DNS lookup for i-stripper.pro...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
