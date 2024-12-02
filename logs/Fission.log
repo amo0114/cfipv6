@@ -14272,3 +14272,24 @@ Performing DNS lookup for www.sixyin.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0fd5378] Update project files
+ 4 files changed, 47 insertions(+), 22 deletions(-)
+To github.com:amo0114/cfipv6.git
+   ff98209..0fd5378  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.220.253...
+Fetching domains for 104.17.211.201...
+Fetching domains for 104.17.176.48...
+succeed to fetch domains for 104.17.211.201 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.220.253 from https://site.ip138.com/
+succeed to fetch domains for 104.17.176.48 from https://ipchaxun.com/
+域名列表为
+['www.tinghen.com', 'www.ayzjj.cn', 'www.ulzdk.com', 'speed.marisalnc.com', 'taoismhome.com', '606977.com', '0550cq.com', 'ddwhm.com', 'cdn.didi8.com', 'www.1080p.club', 'www.lnfitness.com', 'e0101.com', 'www.paizipai.top', 'www.scxdexx.com', 'www.0550cq.com', 'm.niuerzs.com', 'www.silukr.com', 'www.77zw.cc', 'www.11txt.com', 'www.sxyzxh.com', 'baxtc.66666654.xyz', 'uu93.com', 'www.tuozhan22.com', 'www.ttxyy.com', 'www.4148.net', 'www.yingshixiaoshuo.com', 'www.65bao2.com', 'www.xxpg888.com', 'www.z2py.com', 'www.888dyy.cc', 'stock.hostmonit.com', 'www.50zw.co', 'www.yy4080dy.com', 'www.85xs.cc', 'www.tv9090.com', 'www.cfhuagong.com', 'www.99wx.cc', 'www.kunzedu.com', 'www.652tv.com', 'www.978c.com', 'www.gzlatin.com', '300cha.com', 'www.sintingtoys.com', 'www.biinn.com', 'www.wei333.com', 'www.7749tv.cc', 'www.ddwhm.com', 'www.pwcai.com', 'www.90dushu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.978c.com...
+Performing DNS lookup for www.silukr.com...
+Performing DNS lookup for www.yy4080dy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
