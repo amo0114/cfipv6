@@ -2,24 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m3u8.xxm3u8.top
-Address: 47.238.172.54
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.ddwhm.com	canonical name = speed.marisalnc.com.
-speed.marisalnc.com	canonical name = speed-freefly-ctagttb-sjc.dnshtcb.pp.ua.
-speed-freefly-ctagttb-sjc.dnshtcb.pp.ua	canonical name = cfcn-ct-gttb39.dnshtca.pp.ua.
-Name:	cfcn-ct-gttb39.dnshtca.pp.ua
-Address: 172.67.112.27
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
 www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.iios.me	canonical name = 1357900.xyz.
 1357900.xyz	canonical name = back.246000.xyz.
 Name:	back.246000.xyz
 Address: 172.67.201.86
@@ -29,4 +27,9 @@ Name:	back.246000.xyz
 Address: 2606:4700:3036::ac43:c956
 Name:	back.246000.xyz
 Address: 2606:4700:3032::6815:34a6
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find yx.887141.xyz: NXDOMAIN
 

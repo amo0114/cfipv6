@@ -14461,3 +14461,25 @@ Performing DNS lookup for www.lhjingtou.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5323c2b] Update project files
+ 4 files changed, 69 insertions(+), 55 deletions(-)
+ rewrite dns_result.txt (94%)
+To github.com:amo0114/cfipv6.git
+   33db3b0..5323c2b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.231.233...
+Fetching domains for 104.18.3.112...
+Fetching domains for 104.18.29.64...
+succeed to fetch domains for 104.18.29.64 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.3.112 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.231.233 from https://ipchaxun.com/
+域名列表为
+['85xs.cc', 'www.sixyin.com', 'www.ddwhm.com', 'm3u814.shenyum3u8.top', 'img-z.okeinfo.net', 'www.healthcaredive.com', 'www.biyoujun.com', 'www.525sy.com', 'cdn-us.ckflv-cdn-hk.sbs', 'usshsaba.114514782.xyz', 'img-k.okeinfo.net', 'healthcaredive.com', 'b789p.com', 'www.shaonianhun.com', 'yhdmm3u8.xxm3u8.top', 'nlsdwsz.66666654.xyz', 'www.sex5khmj.com', 'sex5khmj.com', 'www.iios.club', 'www.99wx.cc', 'dg.laowu.link', 'www.cao3e4u9.com', 'www.91m.cc', 'index1.xxm3u8.top', 'www.6988tv.com', 'www.zzztch.com', 'dsxys.com', 'vallarta.grandvelas.com', 'm3u8list.xxm3u8.top', 'dns2.shenyum3u8.top', 'loscabos.grandvelas.com', 'sec2.com', 'www.huakai2018.com', 'cfip.xxxxxxxx.tk', 'www.nitianxieshen.com', '5bty.com', '4hue14.com', 'www.zpdyw.com', 'www.kuaikan66.com', 'm3u8.xxm3u8.top', 'www.77zw.cc', 'en.watts.cn', 'dns.xxm3u8.top', 'e345h.com', 'www.93xscc.com', 'www.csg99.com', 'rivieramaya.grandvelas.com', 'www.mumu18.com', 'www.watts.cn', '4huc76.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m3u8.xxm3u8.top...
+Performing DNS lookup for www.ddwhm.com...
+Performing DNS lookup for www.iios.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
