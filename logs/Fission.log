@@ -14483,3 +14483,24 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a2058ef] Update project files
+ 4 files changed, 44 insertions(+), 21 deletions(-)
+To github.com:amo0114/cfipv6.git
+   5323c2b..a2058ef  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.81.0...
+Fetching domains for 104.19.33.102...
+Fetching domains for 104.17.148.118...
+succeed to fetch domains for 104.17.148.118 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.33.102 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.81.0 from https://site.ip138.com/
+域名列表为
+['www.dafuhao.com', 'freeyx.cloudflare88.eu.org', 'www.28et.com', 'bdx100.com', 'www.xbiqupao.com', 'www.xcyy696.com', 'www.niuerzs.com', '104-18-81-0.ip.flares.cloud', 'www.whpaiger.com', 'hefollo.com', 'www.99wx.cc', 'www.xworldadmin.com', 'www.lyys8.com', 'www.z2py.com', 'www.yncareer.com', 'www.iios.club', 'cloudflare.cfgo.cc', 'm.niuerzs.com', 'baxtc.66666654.xyz', 'www.ddwhm.com', 'cf.sheep.us.kg', 'www.summerpockets.com', 'mtav.xyz', 'www.yh9pk.com', 'www.qumiyun.com', 'www.bm158.com', 'www.knvod.com', 'www.adyy.xyz', 'xirancdns.vip', 'yh6.dtku41.xyz', 'acus.cloudflarest.link', 'www.vcd.la', 'speed.marisalnc.com', 'decc.66666654.xyz', 'www.cbcv.cc', 'api-us.gptnb.me', 'nba01.com', 'www.zhenbuka3.com', 'www.yxy176.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.cocanwelding.com', 'www.xigua5.net', 'www.gaoqingw.com', 'zl.aitrjc.xyz', 'yh7.dtku41.xyz', 'www.iios.me', 'dg.laowu.link', 'www.66zw.cc', 'nlsdwsz.66666654.xyz', 'www.lyzdzy.com', 'v4.opqrsst.com', 'www.92mili.com', 'www.6988tv.com', 'yx.887141.xyz', 'www.bfb3.com', 'www.dj5157.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for www.iios.me...
+Performing DNS lookup for yx.887141.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
