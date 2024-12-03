@@ -14293,3 +14293,25 @@ Performing DNS lookup for www.yy4080dy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e54324b] Update project files
+ 4 files changed, 67 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   0fd5378..e54324b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.146.164...
+Fetching domains for 104.17.154.193...
+Fetching domains for 104.17.170.194...
+succeed to fetch domains for 104.17.154.193 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.170.194 from https://site.ip138.com/
+succeed to fetch domains for 104.17.146.164 from https://ipchaxun.com/
+域名列表为
+['www.cfhuagong.com', 'cfip.xxxxxxxx.tk', 'www.iios.club', 'www.wubei520.com', 'www.lyzdzy.com', 'www.99wxw.cc', '086181.xyz', 'www.tervis.com', 'www.m6y6.com', 'pk299.com', 'zgwangzhan.com', 'www.polymers.total.com', 'www.rxjh520.cc', 'www.zgwangzhan.com', 'www.tv1080.com', 'zlcq520.com', 'www.uu93.com', 'm.msgao.com', 'www.showdm.com', 'galzy.eu.org', 'www.tlbb888.com', '4kmh.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for pk299.com...
+Performing DNS lookup for 4kmh.cc...
+Performing DNS lookup for www.m6y6.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
