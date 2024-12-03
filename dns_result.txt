@@ -1,22 +1,30 @@
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.xzmoyu.com: SERVFAIL
+Non-authoritative answer:
+www.77zw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.21.193
+Name:	ips.993888.xyz
+Address: 104.17.131.189
+Name:	ips.993888.xyz
+Address: 104.17.23.8
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find pt.downloadatoz.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-hkaa.geotrust.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global12.66666654.xyz.
-Name:	cfcn-a-global12.66666654.xyz
-Address: 104.20.20.44
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.9ehao.com: NXDOMAIN
+Name:	www.downloadatoz.com
+Address: 104.21.235.147
+Name:	www.downloadatoz.com
+Address: 104.21.235.148
+Name:	www.downloadatoz.com
+Address: 2606:4700:3038::6815:eb94
+Name:	www.downloadatoz.com
+Address: 2606:4700:3038::6815:eb93
 
