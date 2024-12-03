@@ -1,34 +1,22 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-weai.columbia.edu	canonical name = weai.columbia.edu.cdn.cloudflare.net.
-Name:	weai.columbia.edu.cdn.cloudflare.net
-Address: 162.159.138.64
-Name:	weai.columbia.edu.cdn.cloudflare.net
-Address: 162.159.128.65
-Name:	weai.columbia.edu.cdn.cloudflare.net
-Address: 2606:4700:7::a29f:8a40
-Name:	weai.columbia.edu.cdn.cloudflare.net
-Address: 2606:4700:7::a29f:8041
+** server can't find www.xzmoyu.com: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	xs.wxtv.cc
-Address: 104.16.112.168
-Name:	xs.wxtv.cc
-Address: 104.16.112.141
-Name:	xs.wxtv.cc
-Address: 104.19.135.154
-Name:	xs.wxtv.cc
-Address: 104.21.227.211
-Name:	xs.wxtv.cc
-Address: 104.19.136.169
+hkaa.geotrust.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global12.66666654.xyz.
+Name:	cfcn-a-global12.66666654.xyz
+Address: 104.20.20.44
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.4huff44.com: NXDOMAIN
+** server can't find www.9ehao.com: NXDOMAIN
 

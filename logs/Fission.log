@@ -14363,3 +14363,25 @@ Performing DNS lookup for www.btbdys.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4d102d4] Update project files
+ 4 files changed, 74 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   887234d..4d102d4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.0.82...
+Fetching domains for 104.18.19.34...
+Fetching domains for 104.18.2.30...
+succeed to fetch domains for 104.18.0.82 from https://site.ip138.com/
+succeed to fetch domains for 104.18.19.34 from https://site.ip138.com/
+succeed to fetch domains for 104.18.2.30 from https://ipchaxun.com/
+域名列表为
+['www.cargill.com.cn', 'remotesupport.psasines.pt', 'ipdb.rr.nu', 'www.mojemedicina.cz', 'www.2456su.com', '2114hu.com', 'cf.openxai.link', 'x5s44.com', '6677bq.com', 'www.a345sn.com', 'bambulab.net', 'xs.wxtv.cc', 'www.4huff44.com', '2456su.com', 'c1onlinetest.hackyous.com', 'www.50zw.co', 'www.51jion.com', 'www.airliners.net', 'www.5234di.com', 'nlsdwsz.66666654.xyz', 'www.6677bq.com', '4huff44.com', 'cf1.492745.xyz', 'u777r.com', 'www.888dyy.cc', 'c678f.com', '5234di.com', '7.namesilo123.top', 'www.8024hu.com', 'www.engineering.columbia.edu', 'airliners.net', 'www.a567dn.com', 'search.malindoair.com', 'www.533tu.com', 'wz.weishao2023.uk.eu.org', 'www.3d.me', 'www.4hut33.com', 'extrabutterny.com', 'www.kanju8.com', 'x002d.com', '533tu.com', 'x1t22.com', 'www.shy6666.com', 'jpadwinfs.114514782.xyz', 'weai.columbia.edu', '4huc23.com', 'www.sf123.mobi', 'www.991kan.com', 'www.bambulab.net', 'devifcac.malindoair.com', 'pan.axxpan.com', 'acus.cloudflarest.link', 'www.881dy.com', 'www.x1t22.com', 'odapi.malindoair.com', 'c234i.com', 'www.gab234.com', 'kanju8.com', 'www.52ys.cc', 'g6248w.com', 'speed.marisalnc.com', 'www.2114hu.com', 'www.x5s44.com', 'gab234.com', 'www.c234i.com', 'b2b.malindoair.com', 'www.g6248w.com', 'usshsaba.114514782.xyz', 'jdhoe.com', 'www.carnival-bb.com', 'xfltd.net', 'a567dn.com', 'www.probuilder.com', 'furrina.team']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for weai.columbia.edu...
+Performing DNS lookup for xs.wxtv.cc...
+Performing DNS lookup for www.4huff44.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
