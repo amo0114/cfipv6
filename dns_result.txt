@@ -2,32 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.shukucn.com
-Address: 172.67.223.248
-Name:	m.shukucn.com
-Address: 104.21.25.77
-Name:	m.shukucn.com
-Address: 2606:4700:3036::6815:194d
-Name:	m.shukucn.com
-Address: 2606:4700:3037::ac43:dff8
+weai.columbia.edu	canonical name = weai.columbia.edu.cdn.cloudflare.net.
+Name:	weai.columbia.edu.cdn.cloudflare.net
+Address: 162.159.138.64
+Name:	weai.columbia.edu.cdn.cloudflare.net
+Address: 162.159.128.65
+Name:	weai.columbia.edu.cdn.cloudflare.net
+Address: 2606:4700:7::a29f:8a40
+Name:	weai.columbia.edu.cdn.cloudflare.net
+Address: 2606:4700:7::a29f:8041
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.4j4j.cn
-Address: 104.21.47.69
-Name:	www.4j4j.cn
-Address: 172.67.170.163
-Name:	www.4j4j.cn
-Address: 2606:4700:3030::6815:2f45
-Name:	www.4j4j.cn
-Address: 2606:4700:3032::ac43:aaa3
+Name:	xs.wxtv.cc
+Address: 104.16.112.168
+Name:	xs.wxtv.cc
+Address: 104.16.112.141
+Name:	xs.wxtv.cc
+Address: 104.19.135.154
+Name:	xs.wxtv.cc
+Address: 104.21.227.211
+Name:	xs.wxtv.cc
+Address: 104.19.136.169
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.btbdys.com
-Address: 162.210.196.167
+** server can't find www.4huff44.com: NXDOMAIN
 
