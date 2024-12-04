@@ -1,31 +1,34 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find vofolo2023.vip: NXDOMAIN
+Non-authoritative answer:
+www.80yy.org	canonical name = ccc.seogg.com.
+Name:	ccc.seogg.com
+Address: 172.67.201.211
+Name:	ccc.seogg.com
+Address: 104.21.22.14
+Name:	ccc.seogg.com
+Address: 2606:4700:3035::6815:160e
+Name:	ccc.seogg.com
+Address: 2606:4700:3033::ac43:c9d3
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.np180.com
+Name:	www.z2py.com
+Address: 104.247.81.52
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.wangbaomen78.buzz
 Address: 172.67.198.116
-Name:	www.np180.com
+Name:	www.wangbaomen78.buzz
 Address: 104.21.68.204
-Name:	www.np180.com
+Name:	www.wangbaomen78.buzz
 Address: 2606:4700:3033::6815:44cc
-Name:	www.np180.com
+Name:	www.wangbaomen78.buzz
 Address: 2606:4700:3036::ac43:c674
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	amateurpornlove.com
-Address: 104.21.234.53
-Name:	amateurpornlove.com
-Address: 104.21.234.52
-Name:	amateurpornlove.com
-Address: 2606:4700:3038::6815:ea35
-Name:	amateurpornlove.com
-Address: 2606:4700:3038::6815:ea34
 
