@@ -14679,3 +14679,25 @@ Performing DNS lookup for www.buliang133.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4985704] Update project files
+ 4 files changed, 68 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   6374815..4985704  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.151.234...
+Fetching domains for 104.17.188.236...
+Fetching domains for 104.17.166.187...
+succeed to fetch domains for 104.17.166.187 from https://site.ip138.com/
+succeed to fetch domains for 104.17.188.236 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.151.234 from https://dnsdblookup.com/
+域名列表为
+['www.xigua5.com', 'www.99wxw.cc', 'www.cx888my.com', 'www.nitianwx.com', 'www.cocanwelding.com', 'www.zzztch.com', 'www.kbss888.com', 'yt9995.c2.hycdn.xyz', 'www.kanju8.com', 'www.28et.com', 'www.yh9pk.com', 'www.iios.club', 'www.85xscc.com', 'www.nitianxieshen.com', 'www.xz898my.com', 'www.tjxfs.com', 'www.nitianzw.com', 'www.lyzdzy.com', 'www.993my.com', 'tw04.nttkk.com', 'yiqi1234.com', 'www.huaidan1.com', 'www.5522tl.com', '18player.cc', 'www.zongcaixs.com', 'yh78563.com', 'www.75uw.com', 'www.wubei520.com', 'www.92mili.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yiqi1234.com...
+Performing DNS lookup for www.kanju8.com...
+Performing DNS lookup for www.yh9pk.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
