@@ -2,35 +2,48 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.55evd.com	canonical name = planone.seihappy.com.
-Name:	planone.seihappy.com
-Address: 23.224.11.188
-Name:	planone.seihappy.com
-Address: 162.209.221.183
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.b7yy.cc	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.186.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.187.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:bb1f
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:ba1f
+m.vodbd.com	canonical name = vodbd.com.
+vodbd.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.dmbj.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.13.84
-Name:	ips.993888.xyz
-Address: 104.17.146.130
-Name:	ips.993888.xyz
-Address: 104.16.125.7
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 

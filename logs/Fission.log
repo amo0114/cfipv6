@@ -14504,3 +14504,25 @@ Performing DNS lookup for yx.887141.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9dacfb8] Update project files
+ 4 files changed, 70 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   a2058ef..9dacfb8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.92.192...
+Fetching domains for 104.17.116.159...
+Fetching domains for 104.17.125.41...
+succeed to fetch domains for 104.17.116.159 from https://site.ip138.com/
+succeed to fetch domains for 104.17.125.41 from https://site.ip138.com/
+succeed to fetch domains for 104.18.92.192 from https://site.ip138.com/
+域名列表为
+['www.xinyi176.com', 'www.whpaiger.com', 'www.kbss888.com', 'www.xinpian8.com', 'jp03.nttkk.com', 'hk.wish.ml', 'www.zzztch.com', 'www.dmbj.cc', 'www.b7yy.cc', 'www.55evd.com', 'www.xinjuc.com', 'www.yx521.net', 'www.yan176.com', 'www.75uw.com', 'www.shy6666.com', 'm.niuerzs.com', 'www.91m.cc', 'www.hnyhy.com', 'www.iios.club', 'www.888dyy.cc', 'www.lyzdzy.com', 'www.cfhuagong.com', 'www.paconsulting.com', 'www.hhyy028.com', 'www.cx888my.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.55evd.com...
+Performing DNS lookup for www.b7yy.cc...
+Performing DNS lookup for www.dmbj.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
