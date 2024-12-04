@@ -14657,3 +14657,25 @@ Performing DNS lookup for www.wangbaomen78.buzz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6374815] Update project files
+ 4 files changed, 71 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   5684b0e..6374815  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.92.215...
+Fetching domains for 104.21.227.91...
+Fetching domains for 104.18.103.131...
+succeed to fetch domains for 104.18.103.131 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.227.91 from https://site.ip138.com/
+succeed to fetch domains for 104.21.92.215 from https://dnsdblookup.com/
+域名列表为
+['www.buliang133.cc', 'jiaohang.kameng.com', 'www.384bb.com', '19shuwu.com', 'www.whpaiger.com', 'www.sh171.cn', '286.im', 'pay.th333.cc', 'key.aiiz.cc', 'ketomaphk.com.cdn.cloudflare.net', 'sinoucar.com', '8cat6.buliang133.cc', 'adeneo-embedded.com', 'ltjm.37o.cc', 'wkin.cn', 'www.suying711.net', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.sinoucar.com', 'xiemiwang5.buzz', '7703.org', 'www.simcitychina.com', 'www.69t193.com', 'suying711.net', 'ketomaphk.com', 'ricohca.com', 'www.ricohca.com', 'getadmx.com', 'x8b2d.com', 'www.gay2022.biz', '384bb.com', 'th333.cc', 'www.adeneo-embedded.com', 'buliang133.cc', 'www.whkjpf.com', '69x2887.cc', 'onest.ar', '48maott.com', 'www.x8b2d.com', 'www.wn04.cc', 'open.wkin.cn', 'www.ketomaphk.com', 'fk.th333.cc', 'gay2022.biz', 'www.ketomaphk.com.cdn.cloudflare.net', 'r8nou50.buliang133.cc', 'www.7703.org', 'www.ygdy8.cc', 'johnthompsonbukkake.com', '29660z.com', 'www.zzztch.com', 'www.wuke99.com', 'yinghao2.app', 'www.cgfxw.com', 'www.ddwhm.com', 'www.61mp.com', '123gs.com', 'www.48maott.com', 'www.jiaonangguan.com', 'dalong8.com', 'www.35kan.com', 'idc.mushu.me']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wn04.cc...
+Performing DNS lookup for www.7703.org...
+Performing DNS lookup for www.buliang133.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
