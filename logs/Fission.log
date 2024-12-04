@@ -14526,3 +14526,25 @@ Performing DNS lookup for www.dmbj.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 12511c5] Update project files
+ 4 files changed, 84 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   9dacfb8..12511c5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.53.120...
+Fetching domains for 104.16.248.233...
+Fetching domains for 104.17.17.177...
+succeed to fetch domains for 104.16.248.233 from https://site.ip138.com/
+succeed to fetch domains for 104.17.17.177 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.53.120 from https://ipchaxun.com/
+域名列表为
+['www.6988tv.com', 'www.118club.com', 'www.e0101.com', '118club.com', 'speedip.tuyoyo.link', 'm.niuerzs.com', 'www.28et.com', 'm.vodbd.com', 'www.cfhuagong.com', 'www.meijuttk.cc', '17800.net', 'cloudflare.182682.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.6988tv.com...
+Performing DNS lookup for m.vodbd.com...
+Performing DNS lookup for m.niuerzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
