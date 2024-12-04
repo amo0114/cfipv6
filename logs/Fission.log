@@ -14548,3 +14548,25 @@ Performing DNS lookup for m.niuerzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d885aeb] Update project files
+ 4 files changed, 66 insertions(+), 62 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   12511c5..d885aeb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.251.9...
+Fetching domains for 104.18.24.212...
+Fetching domains for 104.21.19.5...
+succeed to fetch domains for 104.21.19.5 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.24.212 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.251.9 from https://site.ip138.com/
+域名列表为
+['www.ccu73.com', 'www.f345y.com', 'www.881dy.com', 'sdytjsj.net', 'wap.njvkglo.top', 'kh188.xyz', 'zzgo781.top', 'sccgmy.top', 'www.pala888.com', 'orangecounty.zoskincentre.com', 'www.bitz.ai', 'www.b8b8.tv', 'xxy.su', 'xxxpornvideostube.com', 'www.ddwhm.com', 'www.33mov.com', 'zoskincentre.com', 'www.xxxpornvideostube.com', 'boty.cc', 'b8s55.com', 'wap.sccgmy.top', '28q25.com', 'forms.exim.go.th', 'www.thiswebsitewillselfdestruct.com', 'princepalace.co.th', 'www.bjgouwuka.cn', 'www.exim.go.th', 'www.tkbqf2.life', '8xing59.xyz', 'm.ibtdy.com', 'www.yz002.cc', '980323.com', 'df.jdjuezhan.com', 'gogo.zzgo781.top', 'tp10.icu', 'm.sccgmy.top', 'www.shirui18.com', 'ff870.com', 'www.sccgmy.top', 'production-api.postmen.com', 'www.zifaner.com', 'hanyafanggu.com', 'www.6567ce.com', 'decorplanet.com', '5444411.com', 'thiswebsitewillselfdestruct.com', 'www.duochuangke.com', 'www.bookmarkstonotion.com', 'ibtdy.com', 'ce235.com', 'www.ce235.com', 'www.decorplanet.com', 'zifaner.com', 'ngdiqw.cc', '3g.sccgmy.top', 'www.checkatrade.com', '6567ce.com', 'f345y.com', 'www.qingrihr.com', 'njvkglo.top', 'www.lu2106.com', 'miduobao.com', 'itsong.com', 'bffs.com', '8893458793-xsj.jdjuezhan.com', 'tisfx.com', 'www.hibbingchryslercenter.net', 'lu2106.com', 'game.zzgo781.top', 'www.rudolphhonda.com', 'www.haimiaoyp.com', 'zgnmglyw.com', 'www.xxy.su', 'ccu73.com', '3g.njvkglo.top', 'www.ibtdy.com', 'elearning.exim.go.th', 'tw-present-61.com', 'tkbqf2.life']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for itsong.com...
+Performing DNS lookup for www.881dy.com...
+Performing DNS lookup for df.jdjuezhan.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

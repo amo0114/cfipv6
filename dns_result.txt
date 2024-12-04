@@ -2,33 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	itsong.com
-Address: 104.21.19.5
-Name:	itsong.com
-Address: 172.67.184.93
-Name:	itsong.com
-Address: 2606:4700:3036::ac43:b85d
-Name:	itsong.com
-Address: 2606:4700:3034::6815:1305
+Name:	www.lnudz.com
+Address: 208.98.43.16
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.881dy.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	hg9383.com
+Address: 104.21.18.26
+Name:	hg9383.com
+Address: 172.67.179.170
+Name:	hg9383.com
+Address: 2606:4700:3033::ac43:b3aa
+Name:	hg9383.com
+Address: 2606:4700:3036::6815:121a
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	df.jdjuezhan.com
-Address: 18.162.62.195
+Name:	travelzhugb.com
+Address: 185.213.18.233
 
