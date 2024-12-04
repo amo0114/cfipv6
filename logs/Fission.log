@@ -14570,3 +14570,25 @@ Performing DNS lookup for df.jdjuezhan.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 61c188d] Update project files
+ 4 files changed, 58 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   d885aeb..61c188d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.223.155...
+Fetching domains for 104.21.18.26...
+Fetching domains for 104.22.17.89...
+succeed to fetch domains for 198.41.223.155 from https://site.ip138.com/
+succeed to fetch domains for 104.22.17.89 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.18.26 from https://site.ip138.com/
+域名列表为
+['www.7zhenyibao.com', 'www.ylsbzs.com', '9sexp6q.com', '3g.wssys.top', 'sexsister.com', '2377m.com', 'www.93xscc.com', 'www.4148.net', 'perfectrolex.io', 'bnb13.com', 'www.11txt.com', 'cfip.xxxxxxxx.tk', 'm.wssys.top', 'sgv3.com', 'www.jsjkyy.com', 'sbshe.com', 'www.qdtsdp.com', 'actionfund.sandyhookpromise.org', 'forum.sunal.top', 'xn---jifanggcom-uu0ty71c3m3evyue1b8a.www-jfgsou-com.com', 'shop.hostmonit.com', 'www.hg9383.com', 'dfrobot.com', 'qh2.orzzro.cf', '4148.net', 'toyo2333.tk', 'ag.hg2096.com', 'pianba.tv', 'vmateai.com', 'app.bombcrypto.io', 'fqm6.com', 'cgdd.digicert.pp.ua', 'www.qixiaozhu.com', 'xn--so-j6f6g-com-yr4v6861a.www-jfgsou-com.com', 'www.keen.com.mt', 'yh6.dtku41.xyz', 'tv9090.com', 'www.zhantengwang.com', 'eltuledetuxtla.com', '126je.com', 'kunzedu.com', 'www.lingyi44.com', 'raw.gitmirror.com', '012dy.com', 'caga.rapidssl.pp.ua', '9av9.cc', 'stock.hostmonit.com', 'wap.ldtfzp.top', 'www.sex5ukkw.com', 'bombcrypto.io', 'www.zzztch.com', 'www.tuozhan021.com', 'interracialcuckoldvideo.com', 'api.bombcrypto.io', 'sandyhookpromise.org', 'apifans.qianweimh.com', 'cf-lt.sharecentre.online', 'www.126je.com', 'travelzhugb.com', 'www.novonoticias.com', '432234.com', 'www.17712662.com', 'm.niuerzs.com', 'xn--ff4-jifanggcom-265y81sv86ipxq897b.www-jfgsou-com.com', 'www.ub888.cc', 'gayxxx.gay', '8810868.com', 'whzy.club', '3g.ldtfzp.top', 'www.teenbdtube.com', 'www.jhhtech.com', 'jdyhg.ujdli505.xyz', 'dacsubs.com', 'kefu10008.com', 'qdtsdp.com', 'archives.vip', 'hsj.lbxjc.online', 'www.yjeky.com', 'www.10zhanpai.com', 'xn---jfgsoucom-4s2r687bes0e8b8dk65a.www-jfgsou-com.com', 'xn---jfgsoucom-xo3rt4olv7g07mz39a.www-jfgsou-com.com', 'www.fqm6.com', 'baxtc.66666654.xyz', 'www.012dy.com', 'yx.887141.xyz', 'www.shsanrui.com', 'www.ldtfzp.top', '55199.vip', 'jqggzyjy.com.cn', 'uzv.by', 'xn--ksv-jifanggcom-s17vt13e90o4m0gi5r.www-jfgsou-com.com', 'prncpzthsz.com', 'www.bnb13.com', 'm.ldtfzp.top', '17712662.com', 'aixingge6.com', 'www.hr0354.com', 'www.zjgamy.com', 'www.paizipai.top', 'www.sintingtoys.com', 'www.kingdicg.com', 'www.sxyzxh.com', 'www.professional-ar.com', 'iyoule9288.cn', 'xfltd.net', 'www.ez2car.com', 'ez2car.com', 'cookieclicker.me', 'www.sjzsckj.com', 'qianweimh.com', 'j.bmio.cn', 'm.4j4j.cn', '1024popo.com', 'kan234.com', 'wssys.top', 'qhweb.orzzro.cf', '99856.org', 'www.whglb.com', 'czcdc.com', 'www.huanyaad.com', 'www.tv9090.com', 'www.dfrobot.com', 'www.tpyyc.com', 'yyxycn.com', 'www.gzlatin.com', '7zhenyibao.com', 'hg9383.com', 'm.tushencn.com', 'xuntu.org', 'www.360xianhua.com', 'socialtrd.com', 'www.sandyhookpromise.org', 'www.uzheba.com', 'keen.com.mt', 'wap.wssys.top', 'cf1.492745.xyz', 'www.woaiqi.com', 'www.xwjpack.com', 'image.dfrobot.com', 'www.ngjqjx.com', 'www.zzgszg.com', 'ldtfzp.top', 'www.706i.com', 'www.jqggzyjy.com.cn', 'www.wssys.top', 'www.09718266988.com', 'www.lnudz.com', 'handou.tv', 'www.y674.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.lnudz.com...
+Performing DNS lookup for hg9383.com...
+Performing DNS lookup for travelzhugb.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
