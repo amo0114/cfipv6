@@ -14745,3 +14745,25 @@ Performing DNS lookup for www.k77yy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7715c04] Update project files
+ 4 files changed, 67 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   cb6d329..7715c04  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.24.69...
+Fetching domains for 104.21.221.190...
+Fetching domains for 172.67.67.169...
+succeed to fetch domains for 104.18.24.69 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.67.169 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.221.190 from https://ipchaxun.com/
+域名列表为
+['www.tinghen.com', 'um.dk', 'www.paizipai.top', 'www.17kty.com', 'www.yiqianhg.com', 'www.py982.com', 'www.cocanwelding.com', 'bk.jdkg.fun', 'www.266958.com', 'img.hostmonit.com', 'www.zhongyunyang.com', 'www.galzy.eu.org', 'yundunwawablogcdn1yd.wawacm.com', 'www.50zw.co', 'www.bigtits.com', 'cointiger.pro', 'www.gxzkgy.com', 'www.jjtyss.com', 'py982.com', 'cf2.tuxianimg.com', 'www.hktvmi.com', 'www.lnudz.com', 'www.giglio.com', 'www.6988tv.com', 'ten.com', 'kina.um.dk', 'ucsandiegobookstore.com', 'www.555dy1.com', 'www.jingshuai888.com', 'www.tvyb03.com', 'www.de535.com', '173du.com', 'www.iios.me', 'm.y3600.cc', 'www.xinjuc.com', 'freeyx.cloudflare88.eu.org', 'www.0550cq.com', 'www.scxdex.com', 'devilsfilm.com', 'www.hosemicon.com', 'www.dgytlt.com', 'www.wao9.com', 'www.uu93.com', 'www.cointiger.pro', 'm.0550cq.com', 'www.qchkj.com', 'www.hktvyun.com', 'www.gzcfmy.com', 'jpadwinfs.114514782.xyz', 'www.um.dk', '2789ji.com', 'www.2789ji.com', 'www.7sc.cc', 'qjtyl.com', 'www.jsdrtzn.com', 'www.173du.com', 'www.11txt.com', 'www.630book.com', 'www.lzhdsn.com', 'www.wxxzzs.com', 'wao9.com', 'cf.m3mytv.cn', 'www.90dushu.com', 'www.iios.club', 'www.tvyb10.com', 'www.szxjsj.com', 'hktv03.com', 'www.gzlatin.com', 'www.devilsfilm.com', 'www.hktv03.com', 'luwangyangrong.com', 'hktvyun.com', 'www.huanyaad.com', 'www.91m.cc', 'www.uzheba.com', 'bigtits.com', 'www.asmrgay.com', 'm.jingshuai888.com', 'www.web120.org', 'www.lvhuisb.com', 'vcd.la', 'cf-lt.sharecentre.online', 'www.6i5.com', 'www.ten.com', 'www.qire88.com', 'www.x52bq.com', 'www.lvgu.org', 'www.bjfqmj.com', 'iios.fun', 'www.qjtyl.com', 'www.hxsy888.com', 'www.tv9090.com', 'www.sxyzxh.com', 'www.chinarlb.com', 'www.qixiaozhu.com', 'cfhdd.tvbox2.com', '999696.xyz', 'www.imeiju.net', 'www.yjeky.com', 'blog.hostmonit.com', 'www.4148.net', 'baxtc.66666654.xyz', 'q8oils.be']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ten.com...
+Performing DNS lookup for www.lvhuisb.com...
+Performing DNS lookup for www.50zw.co...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
