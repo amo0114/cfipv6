@@ -14789,3 +14789,25 @@ Performing DNS lookup for survivejs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 73d74cb] Update project files
+ 4 files changed, 60 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   cfce16d..73d74cb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.202.13...
+Fetching domains for 198.41.201.159...
+Fetching domains for 104.18.22.63...
+succeed to fetch domains for 198.41.202.13 from https://site.ip138.com/
+succeed to fetch domains for 198.41.201.159 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.22.63 from https://site.ip138.com/
+域名列表为
+['yx.887141.xyz', 'www.566ii.com', 'www.pvi.com', 'capi.bitget.com', '7.namesilo123.top', 'www.5522tl.com', 'zl.aitrjc.xyz', 'speed.marisalnc.com', 'macvbb.555556789.xyz', 'baxtc.66666654.xyz', 'nlsdwsz.66666654.xyz', 'www.banffjaspercollection.com', 'www.4huqq84.com', 'www.tvyb02.com', 'arp7.com', 'www.newebul.com', 'ddwhm.com', 'api.stepn.io', 'www.88wwk.com', 'cfcdn3.sanfencdn9.com', 'www.wn01.cc', 'www.cx888my.com', 'www.xworldadmin.com', 'www.laowang.co', 'www.yh9pk.com', 'www.ddwhm.com', '566ii.com', 'www.arp7.com', 'banffjaspercollection.com', 'www.hnxtx.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for speed.marisalnc.com...
+Performing DNS lookup for www.yh9pk.com...
+Performing DNS lookup for api.stepn.io...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

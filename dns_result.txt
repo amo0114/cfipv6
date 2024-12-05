@@ -2,28 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-speed.marisalnc.com	canonical name = speed-freefly-ctagttb-sjc.dnshtcb.pp.ua.
-speed-freefly-ctagttb-sjc.dnshtcb.pp.ua	canonical name = cfcn-ct-gttb33.dnshtca.pp.ua.
-Name:	cfcn-ct-gttb33.dnshtca.pp.ua
-Address: 172.67.111.155
+Name:	www.penglecheng.com
+Address: 134.122.184.247
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yh9pk.com
-Address: 127.0.0.127
+Name:	www.zzztch.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	api.stepn.io
-Address: 104.18.40.172
-Name:	api.stepn.io
-Address: 172.64.147.84
-Name:	api.stepn.io
-Address: 2606:4700:4400::ac40:9354
-Name:	api.stepn.io
-Address: 2606:4700:4400::6812:28ac
+Name:	dsxys.com
+Address: 192.64.119.232
 
