@@ -2,26 +2,39 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.szshiyao.com
-Address: 154.206.130.136
+www.dy420.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	2061363.com
-Address: 172.67.148.15
-Name:	2061363.com
-Address: 104.21.63.169
-Name:	2061363.com
-Address: 2606:4700:3031::ac43:940f
-Name:	2061363.com
-Address: 2606:4700:3034::6815:3fa9
+Name:	www.gyxwjz.com
+Address: 104.21.88.160
+Name:	www.gyxwjz.com
+Address: 172.67.185.203
+Name:	www.gyxwjz.com
+Address: 2606:4700:3037::6815:58a0
+Name:	www.gyxwjz.com
+Address: 2606:4700:3036::ac43:b9cb
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find vipm3u8.com: SERVFAIL
+Non-authoritative answer:
+Name:	m.haokantiyu.com
+Address: 104.21.63.109
+Name:	m.haokantiyu.com
+Address: 172.67.145.98
+Name:	m.haokantiyu.com
+Address: 2606:4700:3037::6815:3f6d
+Name:	m.haokantiyu.com
+Address: 2606:4700:3032::ac43:9162
 
