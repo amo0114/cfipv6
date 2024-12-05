@@ -14701,3 +14701,25 @@ Performing DNS lookup for www.yh9pk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main acca4ea] Update project files
+ 4 files changed, 60 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   4985704..acca4ea  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.47.182...
+Fetching domains for 104.16.240.54...
+Fetching domains for 104.17.209.71...
+succeed to fetch domains for 104.16.240.54 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.47.182 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.209.71 from https://site.ip138.com/
+域名列表为
+['proxyip.jp.fxxk.dedyn.io', 'bdx100.com', 'tl654.com', 'www.nxyxzl.com', 'www.93xscc.com', 'www.sjzsckj.com', 'www.longwangchuanshuo.com', 'www.265pp.com', 'ylw123.cc', 'www.bt4kyy.com', 'www.xyd78.com', 'www.ylw123.cc', 'www.50zw.co', 'www.927600.com', 'www.diskgirl.com', 'proxyip.kr.fxxk.dedyn.io', 'www.kanmanhuala.cc', 'www.cfhuagong.com', 'www.x7w.cc', 'www.m90s.com', 'www.gdriustb.com', 'www.steemedu.com', 'www.nangua55.com', 'www.saodong.cc', 'st1122.com', 'www.btbdys.com', 'www.iios.club', 'xyd78.com', 'iios.club', 'www.ws123.cc', 'xi15.com', 'www.zyyy.cc', 'www.lyzdzy.com', 'td876.com', 'www.bfb3.com', 'www.yyxxi.com', 'www.77ty.com', 'm.niuerzs.com', 'www.linnuozs.com', 'dsxys.pro', 'www.td876.com', 'www.ttxyy.com', 'www.oscaro.pt', 'zyyy.cc', 'www.xaodi.com', 'cfhuagong.com', 'www.kxgdyw.com', 'www.28et.com', 'www.tl654.com', 'ws123.cc', 'saodong.cc', 'www.cbcv.cc', 'qqqdy.com', 'nba01.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ws123.cc...
+Performing DNS lookup for nba01.com...
+Performing DNS lookup for bdx100.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

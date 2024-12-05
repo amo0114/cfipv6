@@ -2,27 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-ws123.cc	canonical name = back.dizan.net.
-Name:	back.dizan.net
-Address: 104.21.51.235
-Name:	back.dizan.net
-Address: 172.67.191.133
-Name:	back.dizan.net
-Address: 2606:4700:3030::6815:33eb
-Name:	back.dizan.net
-Address: 2606:4700:3032::ac43:bf85
+Name:	www.yhddsb.com
+Address: 134.122.184.248
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	nba01.com
-Address: 103.234.54.73
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	bdx100.com
-Address: 162.209.175.122
+www.k77yy.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
