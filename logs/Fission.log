@@ -14767,3 +14767,25 @@ Performing DNS lookup for www.50zw.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cfce16d] Update project files
+ 4 files changed, 72 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   7715c04..cfce16d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.180.201...
+Fetching domains for 104.21.238.89...
+Fetching domains for 172.66.42.225...
+succeed to fetch domains for 104.18.180.201 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.238.89 from https://site.ip138.com/
+succeed to fetch domains for 172.66.42.225 from https://ipchaxun.com/
+域名列表为
+['www.xuanqishi.cc', 'www.93xscc.com', 'www.w23us.com', 'clubmodel.com.br', 'survivejs.com', 'www.91m.cc', 'jonessnowboards.com', 'www.wn04.cc', '123.xady88.com', 'www.sbdm.net', 'ipdb.app.tc', 'www.rmsxs.com', 'www.iios.fun', 'www.iios.club', 'www.881dy.com', 'www.999998.vip', 'tv8box.com', 'www.jonessnowboards.com', 'noovell.com', 'www.tlbb888.com', 'lunhuan.24cdn.top', 'www.findaphd.com', 'www.30hu.com', 'www.75uw.com', 'popcast.tv', 'swag.nft.nyc', 'findaphd.com', 'vn.mu88.sc', 'w88st.com', 'www.mldyc.com', 'www.85xs.cc', 'm.suibiankan.cc', 'www.58wangpan.com', 'www.kuaikan66.com', 'jahc.na.ticketsearch.com', 'starltoken.com', 'www.zpdyw.com', 'www.9ehao.com', 'hll88.com', 'www.inmotionhosting.com', 'www.answers.opencv.org', 'answers.opencv.org', 'www.6988tv.com', 'nlsdwsz.66666654.xyz', 'seedly.sg', 'lt.clun.top', '58wangpan.com', 'mbp.good--game-network.com', 'www.77kp.com', 'trx888.vip', 'gate.defo.xyz', 'www.onlinebusiness.com', 'opencv.org', 'm.w88st.com', 'img.touchgalstatic.org', 'yjyfdc.com', 'www.sixyin.com', 'www.changlitouzi.com', 'www.starltoken.com', 'm.xgfu.cc', '111.xady88.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 58wangpan.com...
+Performing DNS lookup for www.starltoken.com...
+Performing DNS lookup for survivejs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

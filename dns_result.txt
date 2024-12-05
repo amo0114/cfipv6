@@ -2,38 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	58wangpan.com
-Address: 172.67.183.236
-Name:	58wangpan.com
-Address: 104.21.18.243
-Name:	58wangpan.com
-Address: 2606:4700:3034::ac43:b7ec
-Name:	58wangpan.com
-Address: 2606:4700:3033::6815:12f3
+speed.marisalnc.com	canonical name = speed-freefly-ctagttb-sjc.dnshtcb.pp.ua.
+speed-freefly-ctagttb-sjc.dnshtcb.pp.ua	canonical name = cfcn-ct-gttb33.dnshtca.pp.ua.
+Name:	cfcn-ct-gttb33.dnshtca.pp.ua
+Address: 172.67.111.155
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.starltoken.com
-Address: 172.67.137.117
-Name:	www.starltoken.com
-Address: 104.21.48.209
-Name:	www.starltoken.com
-Address: 2606:4700:3031::6815:30d1
-Name:	www.starltoken.com
-Address: 2606:4700:3033::ac43:8975
+Name:	www.yh9pk.com
+Address: 127.0.0.127
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	survivejs.com
-Address: 172.66.41.31
-Name:	survivejs.com
-Address: 172.66.42.225
-Name:	survivejs.com
-Address: 2606:4700:3108::ac42:2ae1
-Name:	survivejs.com
-Address: 2606:4700:3108::ac42:291f
+Name:	api.stepn.io
+Address: 104.18.40.172
+Name:	api.stepn.io
+Address: 172.64.147.84
+Name:	api.stepn.io
+Address: 2606:4700:4400::ac40:9354
+Name:	api.stepn.io
+Address: 2606:4700:4400::6812:28ac
 
