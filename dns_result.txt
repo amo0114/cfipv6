@@ -2,20 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.penglecheng.com
-Address: 134.122.184.247
+Name:	www.szshiyao.com
+Address: 154.206.130.136
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 91.195.240.12
+Name:	2061363.com
+Address: 172.67.148.15
+Name:	2061363.com
+Address: 104.21.63.169
+Name:	2061363.com
+Address: 2606:4700:3031::ac43:940f
+Name:	2061363.com
+Address: 2606:4700:3034::6815:3fa9
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
+** server can't find vipm3u8.com: SERVFAIL
 
