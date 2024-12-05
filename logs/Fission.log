@@ -14882,3 +14882,25 @@ Performing DNS lookup for m.haokantiyu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6be422d] Update project files
+ 4 files changed, 52 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   036d89c..6be422d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.168.95...
+Fetching domains for 104.17.152.36...
+Fetching domains for 104.17.175.152...
+succeed to fetch domains for 104.17.175.152 from https://site.ip138.com/
+succeed to fetch domains for 104.17.152.36 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.168.95 from https://site.ip138.com/
+域名列表为
+['www.yobit.net', 'www.nmhydz.com', 'www.ttxyy.com', 'www.zzztch.com', 'www.kuaikan66.com', 'www.qilishusong.cn', 'xtall.top', 'www.lyzdzy.com', 'www.pianku5.com', 'yobit.net', 'www.iios.club', 'xfltd.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yobit.net...
+Performing DNS lookup for www.kuaikan66.com...
+Performing DNS lookup for xtall.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
