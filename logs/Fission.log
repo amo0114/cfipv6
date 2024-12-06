@@ -14904,3 +14904,25 @@ Performing DNS lookup for xtall.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2ba4ef4] Update project files
+ 4 files changed, 53 insertions(+), 30 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   6be422d..2ba4ef4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.126.175...
+Fetching domains for 198.41.208.20...
+Fetching domains for 104.16.243.129...
+succeed to fetch domains for 104.16.243.129 from https://site.ip138.com/
+succeed to fetch domains for 198.41.208.20 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.126.175 from https://ipchaxun.com/
+域名列表为
+['www.huanyaad.com', 'www.qp666.com', 'ayuer.com', 'www.3dck.com', 'www.hg098.com', 'dh.publicvm.com', 'yundunwawablogcdn1yd.wawacm.com', '6dm.cc', 'www.huakai2018.com', 'www.4wa.cc', 'www.99kan.cc', 'www.ooe.la', 'www.quanji55.com', 'www.uu93.com', 'www.75uw.com', 'www.k77kk.cc', 'www.0550cq.com', 'www.abu22.com', 'www.tftlcd.cc', 'www.65bao2.com', 'www.11txt.com', 'chinalace.org', 'www.mqvisa.com', 'www.wn01.cc', 'www.ganpian.com', 'www.sixyin.com', 'www.4gdiy.com', 'pan.axxpan.com', 'www.gzlatin.com', '36dm.com', 'vod114.com', 'cfip.xxxxxxxx.tk', 'download.yunzhongzhuan.com', 'www.hnxinlian.org', 'www.web120.org', 'cdn.chigua.tk', 'www.xinjuc.com', 'www.qindixs.com', 'wallhaven.club', 'www.cbcv.cc', 'www.kuaikan66.com', 'www.shouzhuan126.com', 'f1.xuxui5.com', 'tv9090.com', '909855.com', 'www.fcwei.com', 'uu93.com', 'www.whpaiger.com', 'www.6i5.com', 'yyxycn.com', 'www.xiaoywz.com', 'kk554.com', 'yx.sulink.one', 'www.itsq.org', 'www.tv9090.com', 'www.wodzudio.com', 'www.vodbd.com', 'www.93xscc.com', 'www.xuanqishi.com', 'www.hefei-stip.com.cn', 'a1.gutu65.com', 'www.k77yy.com', 'cf1.492745.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.shouzhuan126.com...
+Performing DNS lookup for tv9090.com...
+Performing DNS lookup for wallhaven.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

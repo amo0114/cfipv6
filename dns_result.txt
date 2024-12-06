@@ -1,22 +1,15 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.shouzhuan126.com
-Address: 39.106.31.215
+** server can't find www.jshl1000.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	tv9090.com
-Address: 208.98.43.139
+** server can't find dzy66666.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	wallhaven.club
-Address: 1.0.0.5
-wallhaven.club	canonical name = cname.sodj.top.
+** server can't find www.zlcq520.com: NXDOMAIN
 
