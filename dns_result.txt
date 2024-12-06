@@ -2,30 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-raw.gitmirror.com	canonical name = cdn.401403404.xyz.
-Name:	cdn.401403404.xyz
-Address: 172.67.221.5
-Name:	cdn.401403404.xyz
-Address: 104.21.24.234
-Name:	cdn.401403404.xyz
-Address: 2606:4700:3036::6815:18ea
-Name:	cdn.401403404.xyz
-Address: 2606:4700:3036::ac43:dd05
+Name:	www.5kmjw.com
+Address: 162.209.175.125
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.bldgc.com
-Address: 208.98.40.79
+www.77zw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.31.112
+Name:	ips.993888.xyz
+Address: 104.17.85.14
+Name:	ips.993888.xyz
+Address: 104.16.249.222
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
 Non-authoritative answer:
-cname2.164182.xyz	canonical name = us-cn2.164182.xyz.
-Name:	us-cn2.164182.xyz
-Address: 43.153.80.208
-Name:	us-cn2.164182.xyz
-Address: 43.153.103.203
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
