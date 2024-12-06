@@ -1,35 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.uu93.com
-Address: 104.21.35.197
-Name:	www.uu93.com
-Address: 172.67.179.23
-Name:	www.uu93.com
-Address: 2606:4700:3037::ac43:b317
-Name:	www.uu93.com
-Address: 2606:4700:3033::6815:23c5
+** server can't find gopay.tw: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-aktv.top	canonical name = aktv_host.foxcloud.asia.
-Name:	aktv_host.foxcloud.asia
-Address: 172.67.197.220
-Name:	aktv_host.foxcloud.asia
-Address: 104.21.49.251
+Name:	www.135ww.com
+Address: 172.67.194.190
+Name:	www.135ww.com
+Address: 104.21.20.230
+Name:	www.135ww.com
+Address: 2606:4700:3037::ac43:c2be
+Name:	www.135ww.com
+Address: 2606:4700:3030::6815:14e6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.157.9
-Name:	ips.993888.xyz
-Address: 104.17.58.241
-Name:	ips.993888.xyz
-Address: 104.16.92.175
+Name:	www.no1watchs.com
+Address: 154.221.26.173
 
