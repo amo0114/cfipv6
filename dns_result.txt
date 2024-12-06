@@ -2,20 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yh9pk.com
-Address: 127.0.0.127
+raw.gitmirror.com	canonical name = cdn.401403404.xyz.
+Name:	cdn.401403404.xyz
+Address: 172.67.221.5
+Name:	cdn.401403404.xyz
+Address: 104.21.24.234
+Name:	cdn.401403404.xyz
+Address: 2606:4700:3036::6815:18ea
+Name:	cdn.401403404.xyz
+Address: 2606:4700:3036::ac43:dd05
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.bt4kyy.com
-Address: 162.209.175.126
+Name:	www.bldgc.com
+Address: 208.98.40.79
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yhddsb.com
-Address: 134.122.184.248
+cname2.164182.xyz	canonical name = us-cn2.164182.xyz.
+Name:	us-cn2.164182.xyz
+Address: 43.153.80.208
+Name:	us-cn2.164182.xyz
+Address: 43.153.103.203
 
