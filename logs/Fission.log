@@ -14968,3 +14968,25 @@ Performing DNS lookup for www.93xscc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a06cd40] Update project files
+ 4 files changed, 54 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   f6251fa..a06cd40  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.20.230...
+Fetching domains for 104.18.72.167...
+Fetching domains for 104.26.7.31...
+succeed to fetch domains for 104.26.7.31 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.72.167 from https://site.ip138.com/
+succeed to fetch domains for 104.21.20.230 from https://ipchaxun.com/
+域名列表为
+['go.zibie.link', 'levelupcasino.com', 'qrkr.com.cn', 'zhaji.xyz', 'mrot.dcgzu.cn', '77mcmc.com', 'yjys05.com', 'www.sixyin.com', 'opastpublishers.com', 'thisav.fcw408.xyz', 'www.zhaosf.ca', 'jyiwbb.site', 'www.pk299.com', 'www.m6y6.com', '135ww.com', 'fxxproo7x.com', 'oin2.com', 'i57n.com', 'pafilia.com', 'www.930my.com', 'll895.com', 'onenetcom.com', 'cfip.xxxxxxxx.tk', 'www.skysway.com', 'accesswdun.com', 'xtmeng.com', 'www.spltea.com', 'v666x.com', '3zxt4n0ibgm2r.com', 'www.v666x.com', 'api.tsuixin.com', 'hongkong.qing1999.eu.org', 'aact.org', 'www.livingreefs.com', 'getbootstrap.com.vn', 'www.lyys8.com', 'jpcbauwfv.114514782.xyz', 'cfip.201043.xyz', '359jj.com', 'www.laughseejapan.com', 'bxptyarm.76898102.xyz', 'm.tlyyzz.com', 'qan487.ga', 'fenghemp.com', 'www.359jj.com', 'www.iios.club', 'gv09.com', '8sgwyskqtrsvg99vyavw.vip', 'www.tpyyc.com', 'www.i57n.com', 'www.ningboputaisupply.com', 'te93.vip', 'coll.huabaopay.com', 'hinlet.vn', 'www.99wx.cc', 'shengbeixian.com', 'eshop.wiki', '7.namesilo123.top', 'www.zzztch.com', 'www.qilishusong.cn', 'pdzmre77473.sanfen001.top', 'bk.jdkg.fun', 'www.98ks.vip', 'www.dongcheng-pf.com', 'heiye150.com', 'acnhcdn.com', 'www.yezi.asia', 'www.5522tl.com', 'www.miyou14.top', 'www.zhouxingchi.cn', 'namdlkat.xyz', 'www.btdad.cloud', 'www.77mcmc.com', 'freeyx.cloudflare88.eu.org', 'www.clun.top', 'spca.114514782.xyz', '98ks.vip', 'm.niuerzs.com', 'samy.co.in', 'www.135ww.com', 'www.hhh623.com', 'www.lwshuku.net', 'gopay.tw', 'www.hhyy028.com', 'www.mydytt.com', 'yk7au3.tw', '911s5.com', 'ukws.suppertstaemperfect.com', 'www.allbusinesstemplates.com', 'cbdpharm.com', 'app.bobobo41.top', 'www.cntfdq.com', 'www.forduck10.com', 'www.heiye150.com', 'www.zhaji.xyz', 'forduck10.com', 'www.google123.com.cn', 'ipdb.rr.nu', 'sixyin.com', 'lwshuku.net', 'digitalstress.net', 'www.subodi.com', 'www.shaanxizhongxin.com', 'www.no1watchs.com', 'www.xt131419.com', 'vpn.20yj4hgt.workers.dev', 'www.yjys05.com', 'buyiyoupin.com', '8mav1801.com', 'www.bm158.com', 'www.fenghemp.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for gopay.tw...
+Performing DNS lookup for www.135ww.com...
+Performing DNS lookup for www.no1watchs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -1,25 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find gopay.tw: NXDOMAIN
+Non-authoritative answer:
+Name:	wormvideopublish.0007xnxx.com
+Address: 172.232.25.148
+Name:	wormvideopublish.0007xnxx.com
+Address: 172.232.31.180
+Name:	wormvideopublish.0007xnxx.com
+Address: 172.232.4.213
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.135ww.com
-Address: 172.67.194.190
-Name:	www.135ww.com
-Address: 104.21.20.230
-Name:	www.135ww.com
-Address: 2606:4700:3037::ac43:c2be
-Name:	www.135ww.com
-Address: 2606:4700:3030::6815:14e6
+Name:	jiazco.com
+Address: 144.168.79.34
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.no1watchs.com
-Address: 154.221.26.173
+Name:	chiba.com.tw
+Address: 104.21.21.48
+Name:	chiba.com.tw
+Address: 172.67.196.105
+Name:	chiba.com.tw
+Address: 2606:4700:3035::ac43:c469
+Name:	chiba.com.tw
+Address: 2606:4700:3032::6815:1530
 
