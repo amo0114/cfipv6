@@ -2,49 +2,23 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.48wk.com	canonical name = api.212166.xyz.
-Name:	api.212166.xyz
-Address: 13.212.203.22
-Name:	api.212166.xyz
-Address: 47.76.252.177
-Name:	api.212166.xyz
-Address: 45.78.38.213
-Name:	api.212166.xyz
-Address: 47.238.81.36
-Name:	api.212166.xyz
-Address: 8.210.80.51
-Name:	api.212166.xyz
-Address: 18.179.206.163
-Name:	api.212166.xyz
-Address: 45.150.164.139
+Name:	www.focal.cn
+Address: 104.17.184.238
+Name:	www.focal.cn
+Address: 104.17.185.238
+Name:	www.focal.cn
+Address: 2606:4700::6811:b8ee
+Name:	www.focal.cn
+Address: 2606:4700::6811:b9ee
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.166txt.com	canonical name = api.212166.xyz.
-Name:	api.212166.xyz
-Address: 47.76.252.177
-Name:	api.212166.xyz
-Address: 18.179.206.163
-Name:	api.212166.xyz
-Address: 47.238.81.36
-Name:	api.212166.xyz
-Address: 13.212.203.22
-Name:	api.212166.xyz
-Address: 45.150.164.139
-Name:	api.212166.xyz
-Address: 8.210.80.51
-Name:	api.212166.xyz
-Address: 45.78.38.213
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-aktv.top	canonical name = aktv_host.foxcloud.asia.
-Name:	aktv_host.foxcloud.asia
-Address: 104.21.49.251
-Name:	aktv_host.foxcloud.asia
-Address: 172.67.197.220
+** server can't find api.mihoyo.buzz: NXDOMAIN
 
