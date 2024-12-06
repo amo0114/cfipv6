@@ -14990,3 +14990,25 @@ Performing DNS lookup for www.no1watchs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 56bf6ec] Update project files
+ 4 files changed, 64 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   a06cd40..56bf6ec  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.31.105...
+Fetching domains for 104.18.72.180...
+Fetching domains for 104.21.21.48...
+succeed to fetch domains for 104.21.21.48 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.72.180 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.31.105 from https://site.ip138.com/
+域名列表为
+['4huyy177.com', 'www.i-card.vip', 'py.imtoken.group', 'shoptinhyeu.vn', 'k704dp.com', 'www.chiba.com.tw', 'www.4huyy177.com', 'he25.vip', 'ar.vuyicd9.cc', 'www.28et.com', 'hruyf.com', 'achk.cloudflarest.link', 'xiaomage666.net', 'www.bve3.com', '4huy80.com', 'vip.movie-pass.club', 'www.iios.club', 'd109j804.na1.hubspotlinks.com', 'rrdyw.net', '5817009.cc', '69x1801.cc', 'lcqyy.com', '0007xnxx.com', 'vistaback.com', 'rrr52.com', 'extpublic.com', 'www.yin33.top', 'dsxys.com', 'www.rrr52.com', 'www.chiba.com.tw.cdn.cloudflare.net', 'junmeitu.com', 'www.300.im', 'www.jiazco.com', 'www.ddwhm.com', 'www.cc99ll.com', '69866.top', 'jn116.com', 'cc99ll.com', 'cfip.xxxxxxxx.tk', 'www.gjmb-wxzx.com', 'trc.imtoken.group', 'www.tpyyc.com', 'www.chigua0.com', 'www.yiren58.cc', 'piza.cc', 'www.gzln6.com', 'aibsmart.top', 'www.duomei08.com', 'ql.aibsmart.top', 'bve3.com', 'chiba.com.tw.cdn.cloudflare.net', 'duomei08.com', 'fuck996.aibsmart.top', 'yiren58.cc', 'genesis-losinyostrov.ru', 'www.09mnnid.net', 'soufeedh.info', 'www.kpd306.me', 'fennenwo.life', 'imtoken.group', 'feiseav6.com', 'www.5817009.cc', 'www.vistaback.com', 'www.mynkswfk.com', 'cgymv04.na1.hubspotlinks.com', 'www.fennenwo.life', 'blog.crediblock.com', 'chigua0.com', 'www.151yx.cn', 'www.tonysautoservicecenter.com', 'www.rrdyw.net', 'jiazco.com', 'www.kbss888.com', 'www.vipdy802.icu', 'www.tockt.com', 'kpd306.me', 'm.kpd306.me', 'www.4huy80.com', 'cgnf004.na1.hubspotlinks.com', 'ce.dinside.no', 'chiba.com.tw', 'wormvideopublish.0007xnxx.com', 'www.3345fa.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wormvideopublish.0007xnxx.com...
+Performing DNS lookup for jiazco.com...
+Performing DNS lookup for chiba.com.tw...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,30 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wormvideopublish.0007xnxx.com
-Address: 172.232.25.148
-Name:	wormvideopublish.0007xnxx.com
-Address: 172.232.31.180
-Name:	wormvideopublish.0007xnxx.com
-Address: 172.232.4.213
+Name:	www.yh9pk.com
+Address: 127.0.0.127
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jiazco.com
-Address: 144.168.79.34
+Name:	www.bt4kyy.com
+Address: 162.209.175.126
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	chiba.com.tw
-Address: 104.21.21.48
-Name:	chiba.com.tw
-Address: 172.67.196.105
-Name:	chiba.com.tw
-Address: 2606:4700:3035::ac43:c469
-Name:	chiba.com.tw
-Address: 2606:4700:3032::6815:1530
+Name:	www.yhddsb.com
+Address: 134.122.184.248
 
