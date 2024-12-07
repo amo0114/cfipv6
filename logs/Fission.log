@@ -15231,3 +15231,25 @@ Performing DNS lookup for www.90dushu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 61faa36] Update project files
+ 4 files changed, 69 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   d2271e1..61faa36  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.247.234...
+Fetching domains for 172.66.43.165...
+Fetching domains for 104.21.226.226...
+succeed to fetch domains for 104.21.226.226 from https://site.ip138.com/
+succeed to fetch domains for 190.93.247.234 from https://dnsdblookup.com/
+succeed to fetch domains for 172.66.43.165 from https://ipchaxun.com/
+域名列表为
+['www.ldstv116.com', 'fiction.com', 'www.71dir.com', 'crm-user-apl.mf-888.com', 'anu6.com', 'mcfeelys.com', 'www.sdhsnj.com', '070910.xyz', 'www.295k.com', 'secure.aje.com', 'www.paizipai.top', 'www.xinpian8.com', 'www.gzqhjdgc.com', 'wei333.com', 'www.92mili.com', 'www.80yy.org', 'eyeuc.com', 'china.aje.com', 'www.xn--bst-i-test-q5a.se', 'www.sxyzxh.com', 'www.91m.cc', 'www.556889.com', 'aje.com', 'www.ddwhm.com', 'u.eyeuc.com', 'www.linet.org.il', 'sgv7.com', 'trove.treasure.lol', 'admin.payisok.com', '0550cq.com', 'www.genscript.com', 'zuanshivpn.com', 'btcs.love', 'stock.hostmonit.com', 'www.betterbatt.com.au', 'api.payisok.com', 'www.cbcv.cc', 'bwin.189988.xyz', 'www.kanju8.com', 'www.cshsj.org', 'e0101.com', 'www.881dy.com', 'www.6988tv.com', '92mili.com', 'm.huichan.com', 'www.carolinaforestvacuum.com', '7sc.cc', 'www.33mov.com', 'huichan.com', 'www.50zw.co', 'www.aje.com', 'okay.xyz', 'www.huichan.com', 'lancmchzsol3od46.dnnbo.xyz', 'www.0550cq.com', 'smartserials.com', 'www.j232a.com', 'www.66se14.com', 'www.3dmll.com', 'www.iios.club', 'le-routeur-wifi.com', 'www.c333.net', 'yindushenyou.net', 'jade.io', 'm.niuerzs.com', 'www.vodbd.com', 'www.zuanshivpn.com', 'm.0550cq.com', 'xn--bst-i-test-q5a.se', 'swapspace.co', 'www.tv9090.com', 'www.btcs.love', 'www.6i5.com', 'm.50zw.co', 'www.90dushu.com', 'api.anu6.com', 'www.cfhuagong.com', 'zmkan.top', 'egfront.payisok.com', 'uu93.com', 'chat.wawacm.com', 'woo18vip.com', 'wxxzzs.com', 'www.k77yy.com', 'cf.autocdnip.top', 'www.vcd.la', '66se.tv', 'www.4gdiy.com', 'www.1080p.club', 'www.wn04.cc', 'property.co.zw', 'suhr.com', 'sgv3.com', 'm.6988tv.com', 'utahadvocates.com', 'www.asmrgay.com', '3dmll.com', 'www.3dck.com', 'www.wxxzzs.com', 'xn--48s.pin12.xyz', 'bbs.eyeuc.com', 'www.jjtyss.com', 'j232a.com', 'agedcareguide.com.au', 'www.suhr.com', 'www.anu6.com', 'www.jhhtech.com', 'www.pwcai.com', 'www.dy420.com', 'baxtc.66666654.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cshsj.org...
+Performing DNS lookup for zmkan.top...
+Performing DNS lookup for jade.io...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

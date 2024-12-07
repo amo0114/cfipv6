@@ -2,34 +2,29 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cshsj.org
-Address: 172.67.140.126
-Name:	www.cshsj.org
-Address: 104.21.65.43
-Name:	www.cshsj.org
-Address: 2606:4700:3032::6815:412b
-Name:	www.cshsj.org
-Address: 2606:4700:3034::ac43:8c7e
+Name:	www.zzztch.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	zmkan.top
-Address: 104.21.94.114
-Name:	zmkan.top
-Address: 172.67.222.191
-Name:	zmkan.top
-Address: 2606:4700:3037::6815:5e72
-Name:	zmkan.top
-Address: 2606:4700:3034::ac43:debf
+Name:	stenbergcollege.com
+Address: 172.67.157.4
+Name:	stenbergcollege.com
+Address: 104.21.48.242
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jade.io
-Address: 172.66.40.95
-Name:	jade.io
-Address: 172.66.43.161
+www.gzgafk.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.121.169
+Name:	cf.zmdhc.com
+Address: 172.67.156.20
+Name:	cf.zmdhc.com
+Address: 172.67.151.86
+Name:	cf.zmdhc.com
+Address: 172.67.92.16
 
