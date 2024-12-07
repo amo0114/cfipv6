@@ -15209,3 +15209,25 @@ Performing DNS lookup for www.wingstory.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d2271e1] Update project files
+ 4 files changed, 73 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   3f16757..d2271e1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.22.93...
+Fetching domains for 190.93.245.163...
+Fetching domains for 190.93.244.168...
+succeed to fetch domains for 104.22.22.93 from https://site.ip138.com/
+succeed to fetch domains for 190.93.244.168 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.245.163 from https://ipchaxun.com/
+域名列表为
+['www.qindi.net', 'www.qindixs.com', 'www.web120.org', 'www.weizhijc.com', 'www.4pcc.com', 'www.yhcyzgy.com', '0550cq.com', 'www.e0101.com', 'www.55evd.com', 'subodi.com', 'm.11txt.com', '8810868.com', 'www.paizipai.top', 'www.ddwhm.com', 'www.fnyy.net', 'www.6i5.com', 'www.tv9090.com', 'uu93.com', 'xs.wxtv.cc', 'yyxycn.com', 'www.0550cq.com', 'm.6i5.com', 'www.bimiacg.net', '606977.com', 'www.anglesya.win', 'ag.hg2096.com', 'ayuer.com', 'dsxys.com', 'www.zgjmw.net', 'www.sxyzxh.com', 'alist.qyide.com', 'stock.hostmonit.com', 'www.iwzmanhua.com', 'm.0550cq.com', 'www.tvyb02.com', 'www.116.ag', 'www.6988tv.com', 'm.niuerzs.com', 'www.nyafun.net', 'www.lailai360.com', 'www.ddaculture.com', 'www.hnkswh.com', 'www.4gdiy.com', 'vcd.la', 'www.omd2008.com', 'www.80yy.org', 'www.qp666.com', 'sp.rweek.top', 'www.hktv01.com', 'www.mahua110.com', 'www.90dushu.com', 'www.vcd.la', 'www.606977.com', 'www.75uw.com', '923055.com', 'www.mecuo.com', 'www.uu93.com', 'www.womyt.com', 'qp66.com', 'www.679077.com', '55evd.com', 'www.tinghen.com', 'www.qf527.com', 'www.suboji.com', 'www.qire88.com', 'www.boyangjt.com', 'www.huanyaad.com', 'wei333.com', 'www.xxpg888.com', 'www.4148.net', 'www.cbcv.cc', 'www.11txt.com', '4gdiy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.mahua110.com...
+Performing DNS lookup for www.qindi.net...
+Performing DNS lookup for www.90dushu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
