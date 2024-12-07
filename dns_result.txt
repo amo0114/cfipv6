@@ -2,34 +2,36 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wubei520.com	canonical name = cf.host106.america96.com.
-Name:	cf.host106.america96.com
-Address: 172.67.165.85
-Name:	cf.host106.america96.com
-Address: 104.21.15.245
-Name:	cf.host106.america96.com
-Address: 2606:4700:3036::ac43:a555
-Name:	cf.host106.america96.com
-Address: 2606:4700:3037::6815:ff5
+Name:	www.mahua110.com
+Address: 172.232.4.213
+Name:	www.mahua110.com
+Address: 172.232.25.148
+Name:	www.mahua110.com
+Address: 172.232.31.180
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	czyinyao.com
-Address: 134.122.181.139
+www.qindi.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.88.71
+Name:	ips.993888.xyz
+Address: 104.17.163.160
+Name:	ips.993888.xyz
+Address: 104.17.196.247
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wingstory.net	canonical name = cdn.wingcdn.xyz.
-Name:	cdn.wingcdn.xyz
-Address: 172.67.138.156
-Name:	cdn.wingcdn.xyz
-Address: 104.21.8.61
-Name:	cdn.wingcdn.xyz
-Address: 2606:4700:3033::ac43:8a9c
-Name:	cdn.wingcdn.xyz
-Address: 2606:4700:3034::6815:83d
+www.90dushu.com	canonical name = back.52biqv.com.
+Name:	back.52biqv.com
+Address: 104.21.53.154
+Name:	back.52biqv.com
+Address: 172.67.214.157
+Name:	back.52biqv.com
+Address: 2606:4700:3034::ac43:d69d
+Name:	back.52biqv.com
+Address: 2606:4700:3032::6815:359a
 

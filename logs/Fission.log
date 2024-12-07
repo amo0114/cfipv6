@@ -15187,3 +15187,25 @@ Performing DNS lookup for www.hjf29.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3f16757] Update project files
+ 4 files changed, 68 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   e5d3f38..3f16757  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.138.49...
+Fetching domains for 104.17.8.30...
+Fetching domains for 104.17.0.152...
+succeed to fetch domains for 104.17.138.49 from https://site.ip138.com/
+succeed to fetch domains for 104.17.0.152 from https://site.ip138.com/
+succeed to fetch domains for 104.17.8.30 from https://ipchaxun.com/
+域名列表为
+['www.kbss888.com', 'www.93xscc.com', 'www.77zw.cc', 'www.wubei520.com', 'www.75xs.cc', 'www.doupobook.com', 'www.sf123.mobi', 'www.xwbhk.com', 'www.55xs.cc', 'www.xamaj.com', 'kytyy.com', 'www.rxjh520.cc', 'ws083.com', 'www.99wx.cc', 'www.longwangchuanshuo.net', 'www.787hh.com', 'czyinyao.com', 'www.bjhgyh.com', 'www.lyzdzy.com', 'www.daomubiji.cc', 'www.207my.com', 'www.wingstory.net', 'kan234.com', 'wingstory.net', 'www.doupobook.cc', 'www.pk299.com', 'www.nitianxieshen.com', 'www.99wxw.cc', 'www.cocanwelding.com', 'dsxys.com', 'www.dmbj.cc', 'www.douluodalu1.com', 'www.cx888my.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wubei520.com...
+Performing DNS lookup for czyinyao.com...
+Performing DNS lookup for www.wingstory.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
