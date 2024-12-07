@@ -2,29 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 91.195.240.12
+Name:	m.4j4j.cn
+Address: 104.21.47.69
+Name:	m.4j4j.cn
+Address: 172.67.170.163
+Name:	m.4j4j.cn
+Address: 2606:4700:3032::ac43:aaa3
+Name:	m.4j4j.cn
+Address: 2606:4700:3030::6815:2f45
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	stenbergcollege.com
-Address: 172.67.157.4
-Name:	stenbergcollege.com
-Address: 104.21.48.242
+Name:	www.75uw.com
+Address: 23.225.148.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.gzgafk.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.121.169
-Name:	cf.zmdhc.com
-Address: 172.67.156.20
-Name:	cf.zmdhc.com
-Address: 172.67.151.86
-Name:	cf.zmdhc.com
-Address: 172.67.92.16
+www.heidaoxs.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.156.250
+Name:	ips.993888.xyz
+Address: 104.17.26.189
+Name:	ips.993888.xyz
+Address: 104.17.19.160
 

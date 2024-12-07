@@ -15253,3 +15253,25 @@ Performing DNS lookup for jade.io...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main de5f511] Update project files
+ 4 files changed, 64 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   61faa36..de5f511  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.157.4...
+Fetching domains for 104.17.37.154...
+Fetching domains for 104.16.215.121...
+succeed to fetch domains for 104.16.215.121 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.37.154 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.157.4 from https://ipchaxun.com/
+域名列表为
+['textilegence.com', 'www.478983.com', 'wldwz.icu', 'www.476zz.com', 'm.zcgys.top', 'wap.cueswsw.top', 'www.tinghen.com', 'mm429.com', 'www.0550cq.com', 'www.ur-xiaoyang.com', 'v26.bytedance-tos-cn-v-douyin.fun', '3g.cueswsw.top', 'www.jsdrtzn.com', 'tianpinghao.com', 'resawear.com', 'm.cueswsw.top', 'yx.timeswath.uk', 'yh6.dtku41.xyz', 'www.cocanwelding.com', 'blog.hostmonit.com', 'jpaa.sectigo.pp.ua', 'www.kanju8.com', '92mili.com', 'www.ibex-lib.org', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'm.boyangjt.com', '88av26.xyz', 'yh7.dtku41.xyz', 'www.17ttx.com', 'www.30989i.com', 'stenbergcollege.com', 'www.266958.com', 'wxxzzs.com', '96dushu.com', 'nlsdwsz.66666654.xyz', 'm.tvfff.com', 'speed.marisalnc.com', 'www.gzgafk.com', '478983.com', 'www.c333.net', 'unixcloud.ltd', 'www.hxsy888.com', 'www.imeiju.net', 'www.jingshuai888.com', 'gongyihost.com', 'www.lyzdzy.com', 'm.tvccc.org', 'www.dgytlt.com', 'jpvsavhyu.76898102.xyz', 'ur-xiaoyang.com', 'www.zgjmw.net', 'm.jingshuai888.com', 'www.k77yy.com', 'baxtc.66666654.xyz', 'mail.yyk0.cn', 'yx.887141.xyz', 'www.11txt.com', 'wap.zcgys.top', 'zcgys.top', 'www.kunzedu.com', 'www.ao3-cn.top', 'www.dy420.com', 'freeyx.cloudflare88.eu.org', 'adfa.cn', 'clt8.com', 'www.ai2moe.org', 'cueswsw.top', 'www.zzztch.com', 'f36u.xyz', '3g.zcgys.top', '2recepta.com', 'm.niuerzs.com', 'www.iios.club', 'www.manhuadb.com', 'cn-efu.com', 'www.cueswsw.top', 'www.630book.com', 'www.lijunys.com', '476zz.com', 'www.hnxinlian.org', 'www.3dck.com', 'fr.zizijiejie.top', 'www.tv9090.com', 'www.888dyy.cc', 'www.resawear.com', 'www.xinpian8.com', '806q.cc', 'icnetwork.com.hk', 'www.jlsxfdz.com', 'www.textilegence.com', 'www.stenbergcollege.com', 'www.96dushu.com', 'www.wxxzzs.com', 'papapa666.xyz', 'www.4148.net', 'www.hnxytzm.com', 'www.33mov.com', 'www.kuaikan66.com', 'www.ddwhm.com', 'www.dafuhao.com', 'www.6i5.com', 'registry.credclouds.com', 'www.50zw.co', 'qwvqsn.top', 'www.mm429.com', 'www.qumiyun.com', '3g.qwvqsn.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for stenbergcollege.com...
+Performing DNS lookup for www.gzgafk.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
