@@ -15143,3 +15143,25 @@ Performing DNS lookup for www.awanmy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4e3e8bf] Update project files
+ 4 files changed, 60 insertions(+), 56 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   5127aef..4e3e8bf  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.235.6...
+Fetching domains for 198.41.207.216...
+Fetching domains for 104.16.233.24...
+succeed to fetch domains for 104.21.235.6 from https://site.ip138.com/
+succeed to fetch domains for 198.41.207.216 from https://site.ip138.com/
+succeed to fetch domains for 104.16.233.24 from https://ipchaxun.com/
+域名列表为
+['yh6.dtku41.xyz', 'yx.887141.xyz', 'javct.net', 'jpvsavhyu.76898102.xyz', 'www.iios.club', 'jpaa.sectigo.pp.ua', 'www.lkktv.com', 'www.v2raz.vip', 'www.cfhuagong.com', 'www.vod56.com', 'www.sixyin.com', '295k.com', 'www.ddwhm.com', 'www.btdad.best', 'k2tor.at', 'superduperteens.com', 'www.veporno.net', 'www.tuyuyun.com', 'anycast.cf.030419.xyz', 'bestcf.onecf.eu.org', 'ku5188.com', 'www.feet-job-sex.com', 'www.yingshixiaoshuo.com', 'imgtop.gaytubevideos.net', 'bdx100.com', 'www.tpyyc.com', 'www.whpaiger.com', 'www.ai2moe.org', 'luwangyangrong.com', 'chinapress.com.my', 'www.superduperteens.com', 'www.yncareer.com', 'cf.090227.xyz', 'xebonysex.com', 'iios.fun', 'tube4world.com', 'pic.monidai.com', 'www.gaytubevideos.net', 'leakedmodels.com', 'www.chinapress.com.my', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'gaytubevideos.net', 'hd.freehentaistream.com', 'veporno.net', 'sxyprn.net', 'img.gaytubevideos.net', 'www.sxyprn.net', 'www.tanhuazu.com', 'cdn.0578.eu.org', 'm.kssw.net', 'videos.freehentaistream.com', 'freehentaistream.com', 'anime.freehentaistream.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for k2tor.at...
+Performing DNS lookup for www.yncareer.com...
+Performing DNS lookup for www.btdad.best...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

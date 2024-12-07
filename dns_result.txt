@@ -1,28 +1,38 @@
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find k2tor.at: SERVFAIL
+Non-authoritative answer:
+Name:	womn.126.yaodashu.cn
+Address: 172.67.169.215
+Name:	womn.126.yaodashu.cn
+Address: 104.21.27.242
+Name:	womn.126.yaodashu.cn
+Address: 2606:4700:3036::ac43:a9d7
+Name:	womn.126.yaodashu.cn
+Address: 2606:4700:3035::6815:1bf2
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yncareer.com
-Address: 162.209.149.23
+www.45maoak.com	canonical name = cdn.mao50456.com.
+Name:	cdn.mao50456.com
+Address: 172.67.72.36
+Name:	cdn.mao50456.com
+Address: 104.26.10.129
+Name:	cdn.mao50456.com
+Address: 104.26.11.129
+Name:	cdn.mao50456.com
+Address: 2606:4700:20::681a:b81
+Name:	cdn.mao50456.com
+Address: 2606:4700:20::681a:a81
+Name:	cdn.mao50456.com
+Address: 2606:4700:20::ac43:4824
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.btdad.best	canonical name = www.btdad.best.cdn.cloudflare.net.
-Name:	www.btdad.best.cdn.cloudflare.net
-Address: 104.21.79.7
-Name:	www.btdad.best.cdn.cloudflare.net
-Address: 172.67.139.78
-Name:	www.btdad.best.cdn.cloudflare.net
-Address: 2606:4700:3031::6815:4f07
-Name:	www.btdad.best.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:8b4e
+Name:	www.hjf29.com
+Address: 103.224.182.238
 
