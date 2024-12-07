@@ -15165,3 +15165,25 @@ Performing DNS lookup for www.btdad.best...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e5d3f38] Update project files
+ 4 files changed, 71 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   4e3e8bf..e5d3f38  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.83.71...
+Fetching domains for 104.21.27.242...
+Fetching domains for 104.18.65.121...
+succeed to fetch domains for 104.21.27.242 from https://site.ip138.com/
+succeed to fetch domains for 104.18.65.121 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.83.71 from https://ipchaxun.com/
+域名列表为
+['pr.cvy914.xyz', 'maryposh.com', '9p3456.xyz', 'zhs.dhammakaya.net', 'eab2r4n.buliang102.cc', 'yjpt.buliang102.cc', 'www.kcbhsm.cn', 'bgnqbm.top', 'www.52shuku.vip', 'hm449.com', 'vtol.m.yaodashu.cn', 'qhoy.126.yaodashu.cn', '6689966.com', 'womn.126.yaodashu.cn', 'ktrh.gov.yaodashu.cn', 'm.bgnqbm.top', 'hmox.m.yaodashu.cn', 'hwwo.126.yaodashu.cn', '3g.bgnqbm.top', 'www.whpaiger.com', '951ll.com', 'dtai.m.yaodashu.cn', 'www.bgnqbm.top', 'californiapc.com', 'dl.yile-tech.com', 'www.520film.net', 'www.ttzzq888.com', 'hjf29.com', 'www.imyzm.com', '802cc.com', 'wap.qouyumma.top', 'ba0.buliang102.cc', 'bsgx.gov.yaodashu.cn', 'i61o8pq.buliang102.cc', 'wjjsk.com', 'rfzj.buliang102.cc', '3g.buliang102.cc', 'qx2839.top', '45maoak.com', '5l.buliang102.cc', 'ylzl.126.yaodashu.cn', 'www.swiss365temps.net', 'lera.126.yaodashu.cn', 'jg.buliang102.cc', 'm.y3600.cz', 'acxx.m.yaodashu.cn', 'www.50zw.co', 'xcnh.m.yaodashu.cn', 'vufb.m.yaodashu.cn', 'www.nitianzw.com', 'guoyuno2o.com', '6662228.com', 'www.gdjuji.com', 'yadg.gov.yaodashu.cn', '173044.com', 'tornaveu.cat', 'byyum36.com', 'www.guangguntv-mv.top', 'www.521kg.com', 'thep1692.cc', 'www.zzxsmfzz.com', 'byy.buliang102.cc', '1024videos.io', 'dsxys.pro', 'www.6662228.com', 'dtos.ltd', 'der.buliang102.cc', 'glfz.gov.yaodashu.cn', 'mgmv.126.yaodashu.cn', 'bt.zwyxsgl.xyz', 'm.guangguntv-mv.top', 'ccnu.m.yaodashu.cn', 'ortt.126.yaodashu.cn', 'nnb.buliang102.cc', '0i36gpdt6i.xyz', 'fkgl.m.yaodashu.cn', 'mim-essay.com', 'mhybdijlkc.com', 'www.cellreception.com', 'cobo.126.yaodashu.cn', 'tmnp.gov.yaodashu.cn', 'www.gaoqingw.com', 'fhsw.buliang102.cc', 'www.45maoak.com', 'www.tv1080.com', 'hhm.buliang102.cc', 'nnu77.com', 'chatbotai.one', 'd47uh.buliang102.cc', 'wap.guangguntv-mv.top', '386919.com', 'buliang102.cc', 'fsd888.com', '0bm.buliang102.cc', '91p160.cc', 'n256m.com', 'sqlc.m.yaodashu.cn', 'sc666.lat', 'www.pyhsbj.com', 'momf.126.yaodashu.cn', 'www.fsd888.com', 'cellreception.com', 'www.sf0018.com', 'ciyk.126.yaodashu.cn', 'www.wyfk.shop', 'hlpt.m.yaodashu.cn', 'nn847.com', 'www.gunduzaricilik.com', '222bbv.com', 'mo17vss0.buliang102.cc', 'ytvm.m.yaodashu.cn', 'uplc.gov.yaodashu.cn', 'gdnk.m.yaodashu.cn', 'lfibz33r4.buliang102.cc', 'minqin.top.ethrsa.cn', '5555266.com', 'www.laryyj.com', 'ssooo2.xyz', 'www.selahx.com', 'www.hjf29.com', 'jjax.m.yaodashu.cn', 'www.yanhurencai.com', 'www.gshlu.com', 'www.dhammakaya.net', '3g.qouyumma.top', 'wduv.gov.yaodashu.cn', 'qouyumma.top', 'app-b.insvr-game.com', 'www.wc313.cn', 'www.qx2839.top', 'jingdong.qwrqr.xyz', 'v11av1355.xyz', 'vwmc.m.yaodashu.cn', 'm.qouyumma.top', 'www.zkxhcc.com', 'www.wjjsk.com', 'www.xuanqishi.cc', 'www.trpc.cn', 'klhe.m.yaodashu.cn', 'kfa8xn.com', 'jm778899.com', 'kefu.qwrqr.xyz', 'guangguntv-mv.top', 'f77777.com', 'yeer.m.yaodashu.cn', 'neyi.gov.yaodashu.cn', 'vpae.m.yaodashu.cn', 'b6c88.com', 'gdjuji.com', 'www.qindi.net', 'gshlu.com', 'www.n256m.com', 'zwyxsgl.xyz', 'es5i4fl2.buliang102.cc', 'dhammakaya.net', 'www.plshzw.cn', 'zzxsmfzz.com', 'arth.m.yaodashu.cn', 'acvh.gov.yaodashu.cn', 'www.b6c88.com', 'wnme6038l7j.top', 'www.dongse.vip', 'kary.126.yaodashu.cn', 'tcju.126.yaodashu.cn', 'www.guoyuno2o.com', 'yuci.top.5lmprb.cn', 'hixiashi.com', 'yaodashu.cn', 'hyvt.m.yaodashu.cn', 'enho.gov.yaodashu.cn', 'kok.buliang102.cc', '3g.qx2839.top', 'ucxi.126.yaodashu.cn', 'furrina.shop', 'jgph.126.yaodashu.cn', 'vfla.gov.yaodashu.cn', 'www.qouyumma.top', 'www.hm449.com', 'www.qijidate.com', 'wap.qx2839.top', 'miaj.126.yaodashu.cn', 'selahx.com', 'kr0.buliang102.cc', 'www.mim-essay.com', 'imyzm.com', '52shuku.vip', 'ttzzq888.com', 'wap.bgnqbm.top', 'akdpjsxtpnm4.xyz', 'www.singlewindow-hb.com', 'www.99wx.cc', 'xic.buliang102.cc', 'www.jbhulyd.cn', 'www.zhaizhuanwang.com', 'hewr.gov.yaodashu.cn', 'eody.m.yaodashu.cn', 'dongse.vip', 'droa.gov.yaodashu.cn', 'mrjn.gov.yaodashu.cn', 'sgwa.126.yaodashu.cn', 'www.x22fulisuo.xyz', 'bksa.m.yaodashu.cn', 'itvy.gov.yaodashu.cn', 'fryq.126.yaodashu.cn', 'www.802cc.com', 'www.kunzedu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for womn.126.yaodashu.cn...
+Performing DNS lookup for www.45maoak.com...
+Performing DNS lookup for www.hjf29.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
