@@ -15121,3 +15121,25 @@ Performing DNS lookup for api.mihoyo.buzz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5127aef] Update project files
+ 4 files changed, 78 insertions(+), 31 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   e17eab7..5127aef  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.64.0...
+Fetching domains for 104.18.133.209...
+Fetching domains for 104.21.79.111...
+succeed to fetch domains for 104.18.133.209 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.79.111 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.64.0 from https://dnsdblookup.com/
+域名列表为
+['www.930my.com', 'csmen15.cc', 'www.8899tl.com', 'r4433.com', '123.billy4chen.link', 'kk.wlhacker.lol', 'www.matacourses.com', 'www.shy6666.com', 'www.yiqi1234.com', 'www.haowan.monster', 'www.11amy.com', 'www.999998.vip', 'www.tl123123.com', 'www.cx888my.com', 'www.zlcq520.com', '88a2931.xyz', 'www.awanmy.com', 'zsshanghu.com', 'www.myvod365.com', 'flirtmeetday.com', 'www.8828pk.com', 'www.kbss888.com', 'ac.koffaezpme.xyz', 'c937b3.csmen15.cc', 'cdn.wlcf.lol', 'www.wubei520.com', 'jxtco.top', 'm.myvod365.com', 'www.m6y6.com', 'www.kanmanhuala.cc', 'www.dzy66666.com', 'www.tockt.com', 'www.36dm.club', 'www.yageys.com', 'yageys.com', 'www.zsshanghu.com', 'f2023.com', 'www.993my.com', 'www.moeeg.com', '90maott.com', 'ip.wlcf.lol', 'www.ady001.xyz', 'upload.yunzhongzhuan.com', 'www.5522tl.com', 'www.x23us.org', 'www.7lq.com', 'www.lookju.in', 'nigria.xyz', 'moeeg.com', 'www.jshl1000.com', 'zfb5800.com', 'www.521sg.com', 'www.yan176.com', 'www.yh9pk.com', 'www.tlbb888.com', '104-18-64-0.ip.flares.cloud', 'www.xczq1.top', 'dzy66666.com', 'www.8dsb.top', 'www.sightmagazine.com.au', 'dermeau.com', 'bdyy2.xyz', 'www.jg666.top', 'matacourses.com', 'www.dmk18.com', 'www.hhyy028.com', 'www.97777pk.com', 'www.pk299.com', 'yiqi1234.com', 'www.zfb5800.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jxtco.top...
+Performing DNS lookup for zsshanghu.com...
+Performing DNS lookup for www.awanmy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

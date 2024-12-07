@@ -1,39 +1,28 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-jxtco.top	canonical name = host1112927a.c.huyuncdn.xyz.
-host1112927a.c.huyuncdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.16.92.220
-Name:	dcs.jqddos.xyz
-Address: 104.25.102.97
-Name:	dcs.jqddos.xyz
-Address: 104.24.203.194
-Name:	dcs.jqddos.xyz
-Address: 104.17.9.208
-Name:	dcs.jqddos.xyz
-Address: 104.16.228.28
-Name:	dcs.jqddos.xyz
-Address: 104.17.16.216
-Name:	dcs.jqddos.xyz
-Address: 104.25.2.202
-Name:	dcs.jqddos.xyz
-Address: 104.25.198.120
-Name:	dcs.jqddos.xyz
-Address: 104.25.44.139
-Name:	dcs.jqddos.xyz
-Address: 104.25.61.240
+** server can't find k2tor.at: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	zsshanghu.com
-Address: 38.238.100.166
+Name:	www.yncareer.com
+Address: 162.209.149.23
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.awanmy.com: NXDOMAIN
+Non-authoritative answer:
+www.btdad.best	canonical name = www.btdad.best.cdn.cloudflare.net.
+Name:	www.btdad.best.cdn.cloudflare.net
+Address: 104.21.79.7
+Name:	www.btdad.best.cdn.cloudflare.net
+Address: 172.67.139.78
+Name:	www.btdad.best.cdn.cloudflare.net
+Address: 2606:4700:3031::6815:4f07
+Name:	www.btdad.best.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:8b4e
 
