@@ -2,31 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.4j4j.cn
-Address: 104.21.47.69
-Name:	m.4j4j.cn
-Address: 172.67.170.163
-Name:	m.4j4j.cn
-Address: 2606:4700:3032::ac43:aaa3
-Name:	m.4j4j.cn
-Address: 2606:4700:3030::6815:2f45
+Name:	www.bfb3.com
+Address: 23.224.179.245
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.heidaoxs.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.156.250
-Name:	ips.993888.xyz
-Address: 104.17.26.189
-Name:	ips.993888.xyz
-Address: 104.17.19.160
+www.iios.me	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
