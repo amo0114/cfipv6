@@ -2,28 +2,55 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.bfb3.com
-Address: 23.224.179.245
+Name:	www.renren163.com
+Address: 208.98.40.76
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
+m.btdad.in	canonical name = m.btdad.in.cdn.cloudflare.net.
+Name:	m.btdad.in.cdn.cloudflare.net
+Address: 172.67.173.218
+Name:	m.btdad.in.cdn.cloudflare.net
+Address: 104.21.40.13
+Name:	m.btdad.in.cdn.cloudflare.net
+Address: 2606:4700:3034::ac43:adda
+Name:	m.btdad.in.cdn.cloudflare.net
+Address: 2606:4700:3031::6815:280d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.me	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.229.38
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.47.218
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.232.18
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.231.219
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.78.249
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.233.107
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.0.77
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.65.253
+Name:	cfip.xxxxxxxx.tk
+Address: 141.101.115.236
+Name:	cfip.xxxxxxxx.tk
+Address: 141.101.114.224
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.67.109
+Name:	cfip.xxxxxxxx.tk
+Address: 104.23.100.135
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.79.130
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.69.232
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.4.120
 
