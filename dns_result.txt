@@ -2,55 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.renren163.com
-Address: 208.98.40.76
+Name:	javjoy.com
+Address: 104.21.63.97
+Name:	javjoy.com
+Address: 172.67.145.32
+Name:	javjoy.com
+Address: 2606:4700:3033::ac43:9120
+Name:	javjoy.com
+Address: 2606:4700:3032::6815:3f61
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-m.btdad.in	canonical name = m.btdad.in.cdn.cloudflare.net.
-Name:	m.btdad.in.cdn.cloudflare.net
-Address: 172.67.173.218
-Name:	m.btdad.in.cdn.cloudflare.net
-Address: 104.21.40.13
-Name:	m.btdad.in.cdn.cloudflare.net
-Address: 2606:4700:3034::ac43:adda
-Name:	m.btdad.in.cdn.cloudflare.net
-Address: 2606:4700:3031::6815:280d
+** server can't find tqv5v7.tw: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.229.38
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.47.218
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.232.18
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.231.219
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.78.249
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.233.107
-Name:	cfip.xxxxxxxx.tk
-Address: 104.22.0.77
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.65.253
-Name:	cfip.xxxxxxxx.tk
-Address: 141.101.115.236
-Name:	cfip.xxxxxxxx.tk
-Address: 141.101.114.224
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.67.109
-Name:	cfip.xxxxxxxx.tk
-Address: 104.23.100.135
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.79.130
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.69.232
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.4.120
+** server can't find www.sdil3n.top: NXDOMAIN
 

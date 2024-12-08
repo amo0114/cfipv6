@@ -15319,3 +15319,25 @@ Performing DNS lookup for www.iios.me...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 48bdf99] Update project files
+ 4 files changed, 102 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   d2055c4..48bdf99  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.15.85...
+Fetching domains for 104.21.225.212...
+Fetching domains for 104.21.228.243...
+succeed to fetch domains for 104.21.225.212 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.228.243 from https://site.ip138.com/
+succeed to fetch domains for 104.22.15.85 from https://ipchaxun.com/
+域名列表为
+['toonkor.to', 'lax.sagg.us.kg', 'cfip.xxxxxxxx.tk', 'www.xshuxs.com', 'www.gdriustb.com', 'mq1.wfgold.com', 'www.yncareer.com', 'm.btdad.in', 'm.163fahao.com', 'www.zongcaixs.cc', 'ysdg.cc', 'www.wfgold.com.hk', 'www.guozhi.org', 'www.85xs.cc', 'www.fnyyw.net', 'www.renren163.com', 'speed.marisalnc.com', 'www.99wxw.cc', 'www.artdeco.de', 'www.295k.com', 'www.lingyi44.com', 'www.91m.cc', 'www.luwangyangrong.com', 'www.aps.org', '25mj.com', 'www.28et.com', 'journals.aps.org', 'www.cqbzh.cn', 'hmoe.top', 'www.99wx.cc', 'www.lyzdzy.com', 'tvbgj.com', 'www.wfgold.com', '1080p.club', 'www.55xs.cc', 'proxyip.us.fxxk.dedyn.io', 'www.17kyun.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.renren163.com...
+Performing DNS lookup for m.btdad.in...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
