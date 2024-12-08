@@ -2,50 +2,36 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find www.goshop.com.my: No answer
+Name:	086181.xyz
+Address: 198.41.209.70
+Name:	086181.xyz
+Address: 104.17.221.248
+Name:	086181.xyz
+Address: 104.17.213.241
+Name:	086181.xyz
+Address: 104.16.155.10
+Name:	086181.xyz
+Address: 104.19.48.236
+Name:	086181.xyz
+Address: 2606:4700:3032::818:669e
+Name:	086181.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	086181.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	086181.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	086181.xyz
+Address: 2606:4700:e7::3151:47a9
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 108.162.198.90
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.254.42
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.244.31
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.200.84
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.149.42
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.151.8
-Name:	cfip.xxxxxxxx.tk
-Address: 141.101.115.20
-Name:	cfip.xxxxxxxx.tk
-Address: 172.66.44.101
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.43.114
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.36.53
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.0.86
-Name:	cfip.xxxxxxxx.tk
-Address: 172.66.40.91
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.171.184
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.111.71
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.219.108
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global15.66666654.xyz.
-Name:	cfcn-a-global15.66666654.xyz
-Address: 104.17.254.166
+** server can't find i0.mspcdn0.xyz: NXDOMAIN
 
