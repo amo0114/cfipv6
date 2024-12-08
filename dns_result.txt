@@ -2,26 +2,8 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	086181.xyz
-Address: 198.41.209.70
-Name:	086181.xyz
-Address: 104.17.221.248
-Name:	086181.xyz
-Address: 104.17.213.241
-Name:	086181.xyz
-Address: 104.16.155.10
-Name:	086181.xyz
-Address: 104.19.48.236
-Name:	086181.xyz
-Address: 2606:4700:3032::818:669e
-Name:	086181.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	086181.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	086181.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	086181.xyz
-Address: 2606:4700:e7::3151:47a9
+Name:	www.lyzdzy.com
+Address: 208.98.43.136
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
@@ -33,5 +15,15 @@ Address: 162.209.149.30
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find i0.mspcdn0.xyz: NXDOMAIN
+Non-authoritative answer:
+www.omd2008.com	canonical name = img.dns.ubu-kdi8.com.
+img.dns.ubu-kdi8.com	canonical name = cdndns.128xf.com.
+Name:	cdndns.128xf.com
+Address: 104.21.9.19
+Name:	cdndns.128xf.com
+Address: 172.67.140.246
+Name:	cdndns.128xf.com
+Address: 2606:4700:3031::6815:913
+Name:	cdndns.128xf.com
+Address: 2606:4700:3037::ac43:8cf6
 

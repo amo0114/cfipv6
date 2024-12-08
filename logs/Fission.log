@@ -15460,3 +15460,25 @@ Performing DNS lookup for nlsdwsz.66666654.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cd73155] Update project files
+ 4 files changed, 76 insertions(+), 70 deletions(-)
+ rewrite dns_result.txt (89%)
+To github.com:amo0114/cfipv6.git
+   5948955..cd73155  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.237.96...
+Fetching domains for 104.21.233.236...
+Fetching domains for 104.17.13.84...
+succeed to fetch domains for 104.21.233.236 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.237.96 from https://site.ip138.com/
+succeed to fetch domains for 104.17.13.84 from https://dnsdblookup.com/
+域名列表为
+['www.gelbooru.com', 'topsexwebsites.eu', 'img3.gelbooru.com', 'www.xinpian8.com', 'img2.gelbooru.com', 'www.ygdy8.cc', 'proxyip.kr.fxxk.dedyn.io', 'www.lyzdzy.com', 'hotmilfbitch.com', '086181.xyz', 'www.pussyvideos.pro', 'hentaicream.com', 'www.xworldadmin.com', 'ljcam.com', 'votingapi.com', 'speedcl.5489265.xyz', 'leagueoflegends.hentaicream.com', 'www.hm17.lol', 'ja.gelbooru.com', 'hdporn1080p.com', 'www.1080p.club', '7y26.com', 'cfip.xxxxxxxx.tk', 'mspcdn0.xyz', 'www.663dy.com', 'www.wn01.uk', 'www.tvyb10.com', 'www.75uw.com', 'www.ljcam.com', 'sezhano.me', 'gimyvod.com', 'www.videoszoofiliahd.com', 'www.315kc.com', '663dy.com', 'bleach.hentaicream.com', 'www.dqhedu.cn', 'porndao.com', 'nakedmature.net', 'thumbs.gelbooru.com', 'i0.mspcdn0.xyz', 'www.hxncpgs.com', 'videoszoofiliahd.com', 'mxc3.lbuy.top', 'gelbooru.com', 'www.tpyyc.com', 'www.cocanwelding.com', 'www.7789922.com', 'www.ddwhm.com', 'www.349y.com', 'www.whpaiger.com', 'nlsdwsz.66666654.xyz', 'interracialreality.com', 'www.porndao.com', 'yx.887141.xyz', 'jrrt.io', 'img1.gelbooru.com', 'www.zcgs668.com', 'jpvsavhyu.76898102.xyz', '91m.cc', 'www.hentaicream.com', '778992.com', 'www.dafuhao.com', 'www.gimyvod.com', 'fuck-cam.com', 'risquesluts.com', 'm.163fahao.com', 'pq53.cc', '11.namesilo123.top', 'www.113my.com', 'freeyx.cloudflare88.eu.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 086181.xyz...
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for i0.mspcdn0.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
