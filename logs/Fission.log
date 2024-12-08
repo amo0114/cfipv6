@@ -15482,3 +15482,25 @@ Performing DNS lookup for i0.mspcdn0.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5554a19] Update project files
+ 4 files changed, 60 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   cd73155..5554a19  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.172.130...
+Fetching domains for 104.16.247.220...
+Fetching domains for 104.17.171.200...
+succeed to fetch domains for 104.16.247.220 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.171.200 from https://site.ip138.com/
+succeed to fetch domains for 104.17.172.130 from https://dnsdblookup.com/
+域名列表为
+['www.163my.com', 'www.lyzdzy.com', 'www.zongcaixs.cc', 'www.tv1080.com', 'm.6988tv.com', 'www.51jion.com', 'www.xkceo.com', 'www.whpaiger.com', 'www.cfhuagong.com', 'www.nb6080.com', 'www.omd2008.com', 'pan.axxpan.com', 'www.iios.club', 'www.cocanwelding.com', '6988tv.com', 'cfip.xxxxxxxx.tk', 'dm84.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.lyzdzy.com...
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for www.omd2008.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,28 +2,27 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.43.136
+Name:	www.langyue777.com
+Address: 172.67.175.212
+Name:	www.langyue777.com
+Address: 104.21.83.122
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find biezaicuoguoxyz.qiliqili.store: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.omd2008.com	canonical name = img.dns.ubu-kdi8.com.
-img.dns.ubu-kdi8.com	canonical name = cdndns.128xf.com.
-Name:	cdndns.128xf.com
-Address: 104.21.9.19
-Name:	cdndns.128xf.com
-Address: 172.67.140.246
-Name:	cdndns.128xf.com
-Address: 2606:4700:3031::6815:913
-Name:	cdndns.128xf.com
-Address: 2606:4700:3037::ac43:8cf6
+www.wanmeikankan.net	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
