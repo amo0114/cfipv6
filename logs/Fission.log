@@ -15385,3 +15385,24 @@ Performing DNS lookup for www.qiufulife.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e0a2142] Update project files
+ 4 files changed, 53 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   a7907ef..e0a2142  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.88.19...
+Fetching domains for 104.21.21.58...
+Fetching domains for 104.17.10.134...
+succeed to fetch domains for 104.17.10.134 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.21.58 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.88.19 from https://site.ip138.com/
+域名列表为
+['fanyi.one', 'huxwz1.ccgg9.com', 'www.59dm.com', 'www.mahua128.com', 'www.shanpow.com', 'www.rcyys.com', 'ch.louwangzhiyu.xyz', 'www.309zz.com', 'cixi.sight.fpbut8.com', 'm.iptv807.com', 'www.wpx.nl', 'sawlady.com', 'v.iptv807.com', 'shanpow.com', 'www.yu6cm06.top', 'm.y3600.cz', 'xcc188.cn', 'www.dhhnhcb.cn', 'www.400pp.com', 'www.bb44ss.com', 'www.yxjrjy.com', 'laishan.mip.fpbut8.com', 'www.bb66ll.com', 'carefully.ccgg9.com', 'adviser.ccgg9.com', 'www.520ad.top', 'api.fanyi.one', 'www.97maopp.com', 'sb10p.xyz', 'huxjz1.ccgg9.com', 'apapp1.com', '66se15.com', 'chaos.pp.ua', 'ledong2062.com', '5hehe.com', 'm.y3600.cc', 'tkshopvok.com', 'ziya333.com', 'merchant-boss.panggua.info', 'www.koref.co.kr', 'www.79983d.com', 'sax05.com', '91x1297.xyz', '18ccc.tv', '9555u.com', 'www.tpyyc.com', 'www.szunioncargo.com', '400pp.com', 'm2.iptv807.com', 'huycz2.ccgg9.com', 'www.wojaksol.info', 'www.zwgreen.com', 'www.ledong2062.com', 'pp395.com', 'iptv807.com', 'allegrovpn.com', 'www.501cc.com', 'www.8e017.com', 'xqf888.com', 'www.36hukk.com', 'tpyyc.com', 'm1.iptv807.com', '79983d.com', 'betpanda.io', 'minecraftapkpro.club', 'mrds7.com', 'cdok.eth961.xyz', 'huxkz1.ccgg9.com', 'www.diynw.com', 'www.9555u.com', 'www.creamsource.com', 'www.77zw.cc', 'w6.zh358z.com', 'hnglsz.com', 'www.xitongjishu.cn', 'www.xqf888.com', 'diynw.com', 'photomarket.hk', 'www.rys360s.com', 'xafsxdc.com', 'wojaksol.info', 'www.gp.app', 'zf.uutu555.ga', 'thjsport.com', 'www.cialiswest.com', '501cc.com', 'zwgreen.com', '6863835.com', 'www.pp395.com', 'www.b24.am', 'avxcl30.lat', 'cl.wddya.com', 'www.njox.cn', 'koref.co.kr', 'www.lyzdzy.com', 'yu6cm06.top', 'wap.yu6cm06.top', 'iptvx.tv', 'xhhjz.avxcl30.lat', '3g.yu6cm06.top', 'w775.com', '309zz.com', 'huxez2.ccgg9.com', 'www.photomarket.hk', 's4.hw3388.xyz', 'm5.iptv807.com', 'iospygic3cc38bzhrw.top', 'bb44ss.com', 'bb66ll.com', 'kingdomslot88.com', '97maopp.com', '2417kk.com', 'louwangzhiyu.xyz', 'www.iptv807.com', 'www.ccgg9.com', 'c.aihyo.cn', 'm.luwangyangrong.com', 'ylteflon.com', 'www.avxcl30.lat', '70hj.com', 'www.livefishdirect.com', 'www.sf123.mobi', 'www.2417kk.com', 'www.itbhvgq.cn', 'theartfulpour.us', 'www.thjsport.com', '8mav346.com', 'www.zuyckyy.cn', 'purple-bitch.vip', 'huxvz8.ccgg9.com', 'm.yu6cm06.top', '36hukk.com', 'origincloudx.xyz', 'sub2.vandoisp.com', 'www.engyrhl.cn', 'h.aihyo.cn', 'wuc656.com', 'm88.iptv807.com', 'www.sb10p.xyz', 'b24.am', 'shixia.news.fpbut8.com', 'www.qiuxiaw.com', 'demos.co.uk', '949k.com', 'mi.iptv807.com', 'currency.clinicalpsychologistme.com', 'www.70hj.com', 'zss68c.com', 'ri54.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.520ad.top...
+Performing DNS lookup for huxjz1.ccgg9.com...
+Performing DNS lookup for huxkz1.ccgg9.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
