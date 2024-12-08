@@ -2,38 +2,50 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	secure.aje.com
-Address: 172.64.144.19
-Name:	secure.aje.com
-Address: 104.18.43.237
-Name:	secure.aje.com
-Address: 2606:4700:4400::ac40:9013
-Name:	secure.aje.com
-Address: 2606:4700:4400::6812:2bed
+*** Can't find www.goshop.com.my: No answer
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	agedcareguide.com.au
+Name:	cfip.xxxxxxxx.tk
+Address: 108.162.198.90
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.254.42
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.244.31
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.200.84
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.149.42
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.151.8
+Name:	cfip.xxxxxxxx.tk
+Address: 141.101.115.20
+Name:	cfip.xxxxxxxx.tk
+Address: 172.66.44.101
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.43.114
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.36.53
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.0.86
+Name:	cfip.xxxxxxxx.tk
 Address: 172.66.40.91
-Name:	agedcareguide.com.au
-Address: 172.66.43.165
-Name:	agedcareguide.com.au
-Address: 2606:4700:3108::ac42:285b
-Name:	agedcareguide.com.au
-Address: 2606:4700:3108::ac42:2ba5
+Name:	cfip.xxxxxxxx.tk
+Address: 172.67.171.184
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.111.71
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.219.108
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	aje.com
-Address: 172.64.144.19
-Name:	aje.com
-Address: 104.18.43.237
-Name:	aje.com
-Address: 2606:4700:4400::6812:2bed
-Name:	aje.com
-Address: 2606:4700:4400::ac40:9013
+nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global15.66666654.xyz.
+Name:	cfcn-a-global15.66666654.xyz
+Address: 104.17.254.166
 
