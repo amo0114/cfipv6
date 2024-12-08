@@ -15363,3 +15363,25 @@ Performing DNS lookup for www.sdil3n.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a7907ef] Update project files
+ 4 files changed, 52 insertions(+), 31 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   fddffc5..a7907ef  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.227.232...
+Fetching domains for 104.18.29.19...
+Fetching domains for 104.21.18.192...
+succeed to fetch domains for 104.21.227.232 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.29.19 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.18.192 from https://dnsdblookup.com/
+域名列表为
+['tgtfg.cn', 'speed.marisalnc.com', 'whoiswhois.dynadot.com', 'ww.ddddky.com', 'u888v.com', 'index1.xxm3u8.top', 'yyds14.xbx81.top', 'mm5.xbx81.top', 'xo27.xbx81.top', 'www.wangyunzi.com', 'baxtc.66666654.xyz', 'sitebuilder109752.dynadot.com', 'av24.xbx81.top', 'www.oaksmart.com', 'yyds16.xbx81.top', 'av61.xbx81.top', 'www.hdhdjc.cn', 'cao33.xbx81.top', 'www.v2raz.vip', 'thep519.cc', 'sitebuilder98298.dynadot.com', 'www.discountdance.com', 'xb93.xbx81.top', 'www.ddwhm.com', 'nlsdwsz.66666654.xyz', 'www.8644hu.com', 'xbx81.top', 'www.qiufulife.com', 'yyds88.xbx81.top', 'qw.qwsign.com', 'xo61.xbx81.top', 'mm87.xbx81.top', 'freeyx.cloudflare88.eu.org', 'xb67.xbx81.top', '88maoab.com', 'www.106318.com', 'ljr.tgtfg.cn', 'www.xworldadmin.com', '2bfz.com', 'dw.dwahdw.com', 'jhpcza.66666654.xyz', 'oddity.com', 'xo33.xbx81.top', 'proxyip.us.fxxk.dedyn.io', 'ransom-db.com', 'cao13.xbx81.top', 'yyds74.xbx81.top', 'app-router-01.dynadot.com', 'veapps.me', 'mm51.xbx81.top', 'www.tixnve.top', 'xb21.xbx81.top', 'm.bqg789.co', 'm.w23us.com', 'wap.ceengqiasscrg.top', 'discountdance.com', 'av17.xbx81.top', 'chunbb.sectigo.pp.ua', 'www.uuu72.com', 'www.xxxlesnina.si', 'dynadot.com', 'www.jssta.com', 'www.163my.com', 'apk.awww124.com', 'www.787hh.com', 'www.176sf999.com', 'www.meijui.net', 'sitebuilder130991.dynadot.com', 'huanrann.com', 'xxxlesnina.si', '3g.tixnve.top', 'blog.amlibrary.top', 'ladalbd.com', 'hkaa.sectigo.pp.ua', 'xo45.xbx81.top', 'av9.xbx81.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.dvdspring.com', 'xb49.xbx81.top', 'meijuttw1.com', 'down.bggfk.com', 'www.ceengqiasscrg.top', 'signalbooster.co.za', 'thrills.com', 'qmwipa.com', '3zx.lol', 'xb92.xbx81.top', '8644hu.com', 'onesource.techstyle.tech', 'jpaa.entrust.pp.ua', 'www.medinatx.com', 'www.kuaikan66.com', 'yyds59.xbx81.top', 'www.tianyabook.com', 'yh6.dtku41.xyz', 'av78.xbx81.top', 'www.cfbk.top', 'tixnve.top', 'www.u888v.com', 'jpaa.sectigo.pp.ua', 'tunneltransfer.bpyjc.com', 'www.700kan.com', 'xb60.xbx81.top', 'www.dynadot.com', 'sitebuilder145918.dynadot.com', 'whtbco.com', 'sgaa.sectigo.pp.ua', 'xo38.xbx81.top', 'www.33mov.com', 'cao59.xbx81.top', 'sisi3.com', 'www.ai2moe.org', 'down.dawdop.com', 'uuu72.com', 'sitebuilder56350.dynadot.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for dynadot.com...
+Performing DNS lookup for dw.dwahdw.com...
+Performing DNS lookup for www.qiufulife.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
