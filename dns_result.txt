@@ -2,22 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	javjoy.com
-Address: 104.21.63.97
-Name:	javjoy.com
-Address: 172.67.145.32
-Name:	javjoy.com
-Address: 2606:4700:3033::ac43:9120
-Name:	javjoy.com
-Address: 2606:4700:3032::6815:3f61
+Name:	dynadot.com
+Address: 104.16.153.132
+Name:	dynadot.com
+Address: 104.16.152.132
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find tqv5v7.tw: NXDOMAIN
+** server can't find dw.dwahdw.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.sdil3n.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.qiufulife.com
+Address: 154.206.182.254
 

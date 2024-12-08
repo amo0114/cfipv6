@@ -15341,3 +15341,25 @@ Performing DNS lookup for cfip.xxxxxxxx.tk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main fddffc5] Update project files
+ 4 files changed, 53 insertions(+), 80 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   48bdf99..fddffc5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.92.112...
+Fetching domains for 104.21.232.219...
+Fetching domains for 104.21.21.157...
+succeed to fetch domains for 104.21.232.219 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.21.157 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.92.112 from https://site.ip138.com/
+域名列表为
+['www.1267kk.com', 'ww.bbm3nes.com', 'justswitch.com', 'tmzmp3.xyz', 'www.gitpals.cn', 'yh6.dtku41.xyz', 'tqv5v7.tw', 'www.jonny-donna.top', 'jonny-donna.top', 'baota.me', 'vs556.com', 'www.652tv.com', 'shandongkelin.com', 'www.223mo.com', 'avjingling1.party', '4odoqcw.top', 'yx.887141.xyz', 'talkforex.com', 'www.narutoinu.top', 'c137cc.com', 'm.narutoinu.top', 'm.jonny-donna.top', 'wxqunchang.com', 'www.talkforex.com', 'bigname7.top', 'hmoe.top', 'www.wxqunchang.com', 'v2.goyo123.ip-dynamic.org', 'ysq2.xyz', 'wap.4odoqcw.top', '3g.cdd8sarj.top', 'www.zzta.net', '999850.com', 'vip88t.top', 'pistar.uk', 'saosesao.info', '1076.vip', 'www.kunzedu.com', 'www.ynradiology.net', 'ynradiology.net', 'jiz.avjingling1.party', 'www.shandongkelin.com', 'pmaip.xyz', 'jpvsavhyu.76898102.xyz', 'dsd200.com', 'www.zzztch.com', 'www.anluyg.net', '4cltt.vip', 'wap.jonny-donna.top', 'm.shandongkelin.com', 'www.penana.com', '9ehao.com', 'www.4odoqcw.top', '992r.cc', 'tpo1503.cc', 'dash.friezamenu.cn', '5gbh.sbs', 'm.4odoqcw.top', 'bbm3nes.com', 'sakshiturningheads.com', '3g.jonny-donna.top', 'xwow.eu', 'www.92fvsao.com', 'm.sdil3n.top', 'bk.jdkg.fun', 'm.cdd8sarj.top', 'jw2024.asia', 'weav978.cc', 'www.ddwhm.com', '3g.sdil3n.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', '223mo.com', 'www.295k.com', 'pph55.xyz', 'glossmeters.com', 'k8051.com', 'www.lalakfv.cn', 'wap.cdd8sarj.top', 'www.riyt.xyz', 'wortel21.net', 'ht.julirope.com', 'www.5gbh.sbs', 'uquq5.com', 'www.bwin1188.com', 'taro-810.buzz', 'www.95789.com.cn', 'www.tvyb10.com', 'www.af-theia.com', 'wap.sdil3n.top', 'speed.freefly.pp.ua', 'www.gxmen.cn', '3g.4odoqcw.top', 'www.p8nocnysvet.sk', 'aq9c4i.com', 'www.stjjj1.icu', 'gztianyuan.vip', 'www.cdd8sarj.top', 'www.pistar.uk', 'yuepao.us', 'www.justswitch.com', 'www.xxav2037.sbs', '91yun.org', 'www.wecaidan.com', 'phantomweedonline.com', 'thep1190.cc', 'javjoy.com', 'www.zefpyvr.cn', 'www.07kx.com', 'cdd8sarj.top', '066nn.com', 'narutoinu.top', 'songshanrencai.com', 'www.tpyyc.com', 'worker.jw2024.asia', '2023457.xyz', 'm.tpyyc.com', '07kx.com', 'www.91yun.org', 'julirope.com', 'bwin1188.com', 'hxianggp06.com', '3g.narutoinu.top', 'g432.cc', 'vvvv9wm9.icu', 'eeeex.top', 'www.songshanrencai.com', 'www.uquq5.com', '086181.xyz', 'www.luwangyangrong.com', 'www.nb6080.com', '92fvsao.com', 'www.992341.xyz', 's.5gbh.sbs', '1267kk.com', 'ydi6.com', 'www.sdil3n.top', 'sdil3n.top', 'jstv82.com', 'cgg.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for javjoy.com...
+Performing DNS lookup for tqv5v7.tw...
+Performing DNS lookup for www.sdil3n.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
