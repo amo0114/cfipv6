@@ -15504,3 +15504,25 @@ Performing DNS lookup for www.omd2008.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 59ba0e4] Update project files
+ 4 files changed, 60 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   5554a19..59ba0e4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.208.181...
+Fetching domains for 104.17.114.177...
+Fetching domains for 198.41.220.249...
+succeed to fetch domains for 198.41.208.181 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.114.177 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.220.249 from https://ipchaxun.com/
+域名列表为
+['0550cq.com', 'www.116.ag', 'hkfg1.fgmcx.top', 'www.wanmeikankan.net', 'www.langyue777.com', 'm.vodbd.com', 'www.tv9090.com', 'www.lnudz.com', 'www.paizipai.top', 'www.cfhuagong.com', '17ttx.com', 'www.qixiaozhu.com', 'm.6988tv.com', 'www.0550cq.com', 'clun.top', 'hkaa.sectigo.pp.ua', 'spca.114514782.xyz', 'ipdb.rr.nu', 'duzhege.cn', 'www.630book.com', 'www.50zw.co', 'www.dy420.com', 'www.sxyzxh.com', 'www.k77yy.com', 'www.xinjuc.com', 'www.7749tv.com', '7749tv.com', 'kkyx.yydsii.com', 'm.0550cq.com', 'krcfahucnfd.marisalnc.com', 'm.tvccc.org', 'dl.gdstudio.xyz', 'www.sglrjc.com', 'www.789kp.com', 'www.tinghen.com', 'www.wxxzzs.com', 'www.6i5.com', 'www.888dyy.cc', 'blog.hostmonit.com', 'cf1.492745.xyz', 'www.xinpian8.com', 'biezaicuoguoxyz.qiliqili.store', 'www.679077.com', 'tushencn.com', 'www.yjeky.com', 'm.6i5.com', 'zmkan.top', 'pan.axxpan.com', 'www.nitianxieshen.com', 'www.4148.net', 'www.ddwhm.com', 'www.90dushu.com', 'uu93.com', 'www.tushencn.com', 'qp66.com', 'www.nsisfans.com', 'www.zgjmw.net', 'tv9090.com', 'www.qf527.com', 'k77kk.cc', 'cf-lt.sharecentre.online', 'www.706i.com', 'www.meijukan.com', 'nlsdwsz.66666654.xyz', 'xxcc.tv', 'jhpcza.66666654.xyz', 'stock.hostmonit.com', '7.namesilo123.top', 'www.yy4080dy.com', 'www.11txt.com', 'wz.weishao2023.uk.eu.org', 'www.huanyaad.com', 'www.uu93.com', 'www.yedu360.com', 'www.ylsbzs.com', 'www.lvfengsh.com', 'www.zjhainashoes.com', 'www.6988tv.com', 'sgv7.com', 'www.c333.net', 'yyxycn.com', 'yx.887141.xyz', 'www.k77kk.cc', 'www.lyzdzy.com', 'cfip.xxxxxxxx.tk', 'www.tvyb02.com', 'www.04045858.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.langyue777.com...
+Performing DNS lookup for biezaicuoguoxyz.qiliqili.store...
+Performing DNS lookup for www.wanmeikankan.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

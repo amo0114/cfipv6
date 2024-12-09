@@ -2,27 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.langyue777.com
-Address: 172.67.175.212
-Name:	www.langyue777.com
-Address: 104.21.83.122
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find biezaicuoguoxyz.qiliqili.store: NXDOMAIN
+pan.axxpan.com	canonical name = pan.axxpan.com.cdn.cloudflare.net.
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 104.21.49.104
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 172.67.189.189
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 2606:4700:3035::6815:3168
+Name:	pan.axxpan.com.cdn.cloudflare.net
+Address: 2606:4700:3032::ac43:bdbd
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wanmeikankan.net	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+www.99wxw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.211.203
+Name:	ips.993888.xyz
+Address: 104.16.157.55
+Name:	ips.993888.xyz
+Address: 104.16.166.126
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.211.203
+Name:	ips.993888.xyz
+Address: 104.16.166.126
+Name:	ips.993888.xyz
+Address: 104.16.157.55
 
