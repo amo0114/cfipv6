@@ -15619,3 +15619,25 @@ Performing DNS lookup for zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e3706b0] Update project files
+ 4 files changed, 49 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   a717c4e..e3706b0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.85.10...
+Fetching domains for 104.18.18.54...
+Fetching domains for 104.21.34.244...
+succeed to fetch domains for 104.18.18.54 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.34.244 from https://site.ip138.com/
+succeed to fetch domains for 104.21.85.10 from https://site.ip138.com/
+域名列表为
+['reretv.xyz', 'add-reviews.com', 'x981j.com', 'www.6988tv.com', 'm.lcxwnn.top', 'www.4hupp33.com', '8mav1803.com', 'www.x3t77.com', '1196.tk', '8m2619.com', 'wap.351l.top', '69av7109.cc', 'www.yingtao-shipin.com', 'www.tpyyc.com', 'www.motoworldltd.co.uk', 'digooe.com', 'www.ldtrlzh.cn', 'hami.htjz.com', 'www.tubesjav.com', 'sxlszl.org.cn', '432299b.com', 'www.718cg.com', 'acus2.cloudflarest.link', 'c678n.com', 'www.ylutvzwj.xyz', 'www.stp123.com', 'win-winfinancial.com', 'ku7955.net', 'wap.nthqs2h.top', 'www.sixyin.com', 'www.cbsedu.com.cn', 'truyentranhhai.com', '22.jd9901.cf', 'www.6374hu.com', '336868d.com', 'www.351l.top', 'nthqs2h.top', 'www.652tv.com', 'www.99wxw.cc', 'www.yien.com', 'hryy.hr66688.top', 'www.5789ti.com', 'm.nthqs2h.top', 'beautycompass.net', 'xiaobot.org', 'viewconference.it', '4xg.cc', 'wap.junij.com', 'www.omgbet568.com', 'm.mmjdgl.com', 'mahua110.com', 'long8966.com', 'xiaodong1.cn', 'm.dxdvnfpv.top', '351l.top', 'meiguoshicidh.net', 'wap.rqvbyx.top', 'posta-rs.life', '3g.dxdvnfpv.top', 'api.capital666.com', '0365.co', 'www.quanben360.com', 'www.sfbt1.com', 'lcxwnn.top', 'askword.io', 'www.viewconference.it', 'www.iios.club', 'img.shu88.cc', 'wlssrpro.link', 'keetru.com', 'gamesofdesired.com', 'mufanhuaye.com', 'www.yjys05.com', 'www.zhaosfcqw.com', 'www.ddwhm.com', 'xj617.com', 'zzslby.net', 'www.bjnnflw.com', '8mei103.xyz', 'www.4xg.cc', 'm.rqvbyx.top', 'ukuwan02.top', 'cloudreve.chitang.dev', 'www.lcxwnn.top', 'rencaifeidong.com', '0431.xuanjianghui.com.cn', 'xuanjianghui.com.cn', '69g8o6.tw', 'm.351l.top', 'wz.weishao2023.dk.eu.org', 'www.summerpockets.com', 'www.30hu.com', 'ylutvzwj.xyz', 'yingtao-shipin.com', 'xn--sqr762b7yt.tk', 'www.zmqcyp.com', 'gf-ws.com', 'cfip.xxxxxxxx.tk', 'www.xinlvsesenlin.com', 'wap.dxdvnfpv.top', 'jpbb.sectigo.pp.ua', 'wap.lcxwnn.top', 'rqvbyx.top', 'cjvu.xyz', 'groupemodus.com', 'www.jpboy.me', 'www.x981j.com', '628000.xyz', 'bb1444.com', 'www.sxlszl.org.cn', '3g.lcxwnn.top', 'yien.com', 'zhaosfcqw.com', '5104009vip66.com', 'www.tv9090.com', 'k-found.com', 'stp123.com', '718cg.com', 'beeon.cn', '327888.com', 'www.keetru.com', '895577u.com', 'www.9456tt.com', 'www.dailymoslem.com', 'www.langtengcaifu.com', 'w773.top', 'www.nthqs2h.top', 'angeli-r.com.ua', 'www.sisuiji163.com', 'zmqcyp.com', 'radondelete.com', 'www.432299b.com', 'www.qiman2.com', '3g.351l.top', 'jieduanxin.com', 'www.xueyi5.com', 'www.nomadasaurus.com', 'bole.htjz.com', 'op55.xyz', 'app.yoummt.com', 'd.jkqd9797.xyz', 'hunjiang.htjz.com', '5dang.net', 'jpboy.me', 'www.kidsclubhouseinc.com', 'www.njxinle.com', 'www.rj5.org', 'www.jinshaly.com', 'qssjx.com', 'www.dxdvnfpv.top', 'dxdvnfpv.top', 'sfbt1.com', '4hupp33.com', 'www.mrzxfc.com', 'www.1561.info', 'www.cjvu.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qiman2.com...
+Performing DNS lookup for www.718cg.com...
+Performing DNS lookup for k-found.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
