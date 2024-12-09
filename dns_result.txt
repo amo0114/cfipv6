@@ -2,26 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.5ddy.cc
-Address: 208.98.43.73
+Name:	www.nba01.com
+Address: 103.234.54.73
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	pattybrisbenfoundation.org
-Address: 104.18.27.215
-Name:	pattybrisbenfoundation.org
-Address: 104.18.26.215
-Name:	pattybrisbenfoundation.org
-Address: 2606:4700::6812:1bd7
-Name:	pattybrisbenfoundation.org
-Address: 2606:4700::6812:1ad7
+www.qindi.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.156.69
+Name:	ips.993888.xyz
+Address: 104.16.127.208
+Name:	ips.993888.xyz
+Address: 104.17.207.118
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.bdyy1.xyz
-Address: 35.241.21.52
+Name:	zzztch.com
+Address: 91.195.240.12
 
