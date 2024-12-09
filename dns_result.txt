@@ -2,26 +2,46 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	666cp11.com
-Address: 103.233.9.89
+Name:	www.df180pk.com
+Address: 47.244.221.51
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find zlcq520.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wap.hst4jdfs.top
-Address: 104.21.96.41
-Name:	wap.hst4jdfs.top
-Address: 172.67.172.252
-Name:	wap.hst4jdfs.top
-Address: 2606:4700:3034::6815:6029
-Name:	wap.hst4jdfs.top
-Address: 2606:4700:3034::ac43:acfc
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	dengbi2.com
-Address: 208.98.43.16
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.93.40
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.209.28
+Name:	cfip.xxxxxxxx.tk
+Address: 104.19.32.69
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.118.111
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.144.224
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.20
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.54.54
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.151.36
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.113.21
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.220.232
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.221.217
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.148.8
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.170.127
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.152.206
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.149.199
 
