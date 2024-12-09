@@ -15597,3 +15597,25 @@ Performing DNS lookup for www.bdyy1.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a717c4e] Update project files
+ 4 files changed, 64 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   03dbf86..a717c4e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.229.86...
+Fetching domains for 104.17.141.83...
+Fetching domains for 141.101.114.29...
+succeed to fetch domains for 104.21.229.86 from https://site.ip138.com/
+succeed to fetch domains for 104.17.141.83 from https://ipchaxun.com/
+succeed to fetch domains for 141.101.114.29 from https://ipchaxun.com/
+域名列表为
+['www.wxxzzs.com', 'www.kuaikan66.com', 'niuerzs.com', 'www.116.ag', 'www.tv9090.com', 'cslairun.com', 'www.wei333.com', 'www.cfhuagong.com', 'www.pictureslook.com', 'api.mjdjourney.cn', 'www.lingyi44.com', 'tcdn1.youkuvip.xyz', 'm.6i5.com', 'm.niuerzs.com', 'www.anluyg.net', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.yhddsb.com', 'www.99wx.cc', '919ku.com', 'wei333.com', 'www.boyangjt.com', 'wap.sp6080.com', 'www.whpaiger.com', 'www.web120.org', 'ag.hg2096.com', 'www.pwcai.com', 'kuaikan66.com', 'www.xwsxs.com', 'www.hnyhy.com', 'dmhy.b168.net', 'www.tinghen.com', 'www.tpyyc.com', 'www.1a1v.com', 'www.kxgdyw.com', 'xs.wxtv.cc', 'www.nba01.com', 'www.dmbj.cc', 'www.qindi.net', 'www.999yh.vip', '75uw.com', 'www.91mjw.com', 'www.woaiqi.com', 'www.whwanet.com', 'kz22.cc', 'www.qdlzmgjx.com', 'www.sdjhh.com', 'www.lyzdzy.com', 'www.90dushu.com', 'uu93.com', 'k91k.com', 'www.btdad.best', 'www.99wxw.cc', 'www.yncareer.com', '4gdiy.com', 'mdm.xinbosign.com', '77ty.com', 'www.hg098.com', 'flog.ficc.cc', 'm.kuaikan66.com', 'm.womyt.com', 'www.75uw.com', 'www.nmhydz.com', 'www.xinjuc.com', 'www.adcmove.com', 'hnhcbw.com', 'cf1.492745.xyz', 'www.fnyy.net', 'www.223ss.com', 'stock.hostmonit.com', 'www.7z9a.com', 'www.4148.net', 'www.hnhcbw.com', '28et.com', 'www.6i5.com', 'www.sjzsckj.com', 'www.cocanwelding.com', '55evd.com', 'www.newqiyu.com', 'suboji.com', 'www.96dushu.com', 'www.kunzedu.com', 'm90s.com', 'www.wyssh.org', 'www.55evd.com', 'www.91m.cc', 'whjinwu.com', 'www.28et.com', 'kxgdyw.com', 'www.iios.club', 'www.tvccc.org', 'www.nangua55.com', 'ygbb.rapidssl.pp.ua', 'www.55xs.cc', 'womyt.com', 'hg1599.com', 'zzztch.com', 'www.92mili.com', 'nxyxzl.com', 'td1.yese5577.com', 'm.28dushu.com', 'www.uu93.com', 'm.anluyg.net', 'www.cbcv.cc', 'www.e0101.com', 'www.womyt.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.nba01.com...
+Performing DNS lookup for www.qindi.net...
+Performing DNS lookup for zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

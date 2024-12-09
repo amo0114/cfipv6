@@ -2,25 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.nba01.com
-Address: 103.234.54.73
+Name:	www.qiman2.com
+Address: 156.254.203.3
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qindi.net	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.156.69
-Name:	ips.993888.xyz
-Address: 104.16.127.208
-Name:	ips.993888.xyz
-Address: 104.17.207.118
+Name:	www.718cg.com
+Address: 23.225.148.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	zzztch.com
-Address: 91.195.240.12
+** server can't find k-found.com: NXDOMAIN
 
