@@ -2,26 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.dxdvnfpv.top
-Address: 156.250.221.91
+Name:	666cp11.com
+Address: 103.233.9.89
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	sfbt1.com
-Address: 23.225.43.64
+Name:	wap.hst4jdfs.top
+Address: 104.21.96.41
+Name:	wap.hst4jdfs.top
+Address: 172.67.172.252
+Name:	wap.hst4jdfs.top
+Address: 2606:4700:3034::6815:6029
+Name:	wap.hst4jdfs.top
+Address: 2606:4700:3034::ac43:acfc
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ylutvzwj.xyz
-Address: 172.67.129.126
-Name:	ylutvzwj.xyz
-Address: 104.21.1.157
-Name:	ylutvzwj.xyz
-Address: 2606:4700:3031::6815:19d
-Name:	ylutvzwj.xyz
-Address: 2606:4700:3037::ac43:817e
+Name:	dengbi2.com
+Address: 208.98.43.16
 
