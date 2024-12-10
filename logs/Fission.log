@@ -15843,3 +15843,24 @@ Performing DNS lookup for t789.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bf78a21] Update project files
+ 4 files changed, 88 insertions(+), 19 deletions(-)
+To github.com:amo0114/cfipv6.git
+   5691554..bf78a21  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.5.82...
+Fetching domains for 104.21.24.169...
+Fetching domains for 104.21.22.32...
+succeed to fetch domains for 104.22.5.82 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.24.169 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.22.32 from https://dnsdblookup.com/
+域名列表为
+['www.5522tl.com', 'www.90qr.com', 'm.sqgbmf.top', '5791.com', 'xb72.xbx37.top', '777vvx.com', 'www.kokhucren.com', 'www.dqhedu.cn', '7777.dasb.xyz', 't789.top', 'www.djm.kaufen', 'blender.vn', 'epal.pt', 'mm6.xbx37.top', '8mav1621.com', 'www1.kanhm15.cn', 'xx22yy.com', 'www.apbeiwo.com', '83maoah.com', 'wap.22xgqh03.top', 'n66h6y.mom', 'www.ktda.com.cn', 'kt03.vip', 'momsonmemes.com', 'yyds35.xbx37.top', 'www.add777.com', 'sota.kh.ua', 'm.amidolobs.top', 'www.adshares.net', 'sqgbmf.top', 'icy.gsbdo.xyz', 'www.4hu37y.com', 'ccav.dasb.xyz', 'www.kanhm15.cn', 'dandan.danbotv33.cc', 'korwah.com', 'www2.kanhm15.cn', 'ikik.dasb.xyz', 'av43.xbx37.top', 'www.28et.com', 'msoso.com', 'www.luwangyangrong.com', 'cable907.cc', 'mail.korwah.com', 'www.fuwuo.top', 'x513.com', '5gz7n.xyz', 'v88av1990.xyz', '22xgqh03.top', 'graddelfisch.de', 'cfip.xxxxxxxx.tk', 'tom021.com', 'qfgy.dasb.xyz', 'www.youwu132.com', 'www.gudacc.com', 'telegragm.com', 'www.64149.com', 'www.oke-3d.com', 'www.whpaiger.com', 'gudacc.com', 'www.52dy8.cc', 'uok88.com', 'www.biquxsw.cc', '52dy8.cc', 'kanhm15.cn', 'www.cx888my.com', 'www.99vv49.com', 'www.2v1q.cn', 'xb29.xbx37.top', 'www.tpyyc.com', '2ffqw7.tw', 'anzocn.com', 'mexcond.com', 'www.ys8989.com', 'www.kbss888.com', '668j.com', 'tofucloud.net', 'api.telegragm.com', 'e.anshenghua.com', '4hu37y.com', 'yyds34.xbx37.top', 'www.haiyuer.me', '3g.sqgbmf.top', 'www.zjxunhun.com', 'wap.fuwuo.top', 'www.hhyy028.com', '99vv49.com', 'www.tlbb888.com', 'fuwuo.top', 'www.guanaiweilai.com', 'kt777.app', 'www.xx22yy.com', 'www3.kanhm15.cn', '3g.amidolobs.top', 'ccjck.bgz957.xyz', 'm.22xgqh03.top', 'www.awanmy.com', 'www.1888988.com', 'qiangqi.net', 'www.tlbbhy.com', 'www.jzserve.com', 'av1.xbx37.top', 'xo63.xbx37.top', 'vpswo.cn', 'passportes.co.il', 'www.at18.com', 'youwu132.com', 'dqhedu.cn', 'wzmn.com', 'www.yncareer.com', 'www.993my.com', 'www.xlidmsd.cn', 'www.5gz7n.xyz', 'xo78.xbx37.top', 'wap.amidolobs.top', 'all1990.cc', 'localmonero.co', 'e27rb.cn', 'www.qindixs.com', '64149.com', 'www.gwrbwid.cn', 'see.news', 'iiii.dasb.xyz', 'zgoli.com', 'cao37.xbx37.top', 'm.fuwuo.top', 'sivamsl.com', 'www.tramatm.com', 'www.senlindou.com', '3g.fuwuo.top', 'www.cscshebei.com', 'www.52iuu.cn', 'www.tom021.com', 'sprlotto.com', 'add777.com', 'jav8.one', 'amidolobs.top', 'www.668j.com', 'www.syxsa.cn', 'www.8828pk.com', '91xx.dasb.xyz', 'www.amidolobs.top', '3g.22xgqh03.top', 'adshares.net', 'gzbl56.com', '4ad83y.mom', 'at18.com', 'www.apsny.ge', 'www.hfsfyw.cn', 'www.zgoli.com', 'www.wubei520.com', 'www.shanyouqinwangluo.com', 'minihorseshop.cz', '14tp.com', 'www.e27rb.cn', 'www.22xgqh03.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for sprlotto.com...
+Performing DNS lookup for 83maoah.com...
+Performing DNS lookup for v88av1990.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
