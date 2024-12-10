@@ -2,32 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	111649.com
-Address: 172.67.181.29
-Name:	111649.com
-Address: 104.21.72.100
-Name:	111649.com
-Address: 2606:4700:3033::6815:4864
-Name:	111649.com
-Address: 2606:4700:3032::ac43:b51d
+Name:	www.tramatm.com
+Address: 172.67.219.193
+Name:	www.tramatm.com
+Address: 104.21.24.169
+Name:	www.tramatm.com
+Address: 2606:4700:3030::6815:18a9
+Name:	www.tramatm.com
+Address: 2606:4700:3037::ac43:dbc1
+
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+** server can't find m.amidolobs.top: NXDOMAIN
 
 Server:		2001:4860:4860::8888
 Address:	2001:4860:4860::8888#53
 
 Non-authoritative answer:
-Name:	www.lzawlj.top
-Address: 172.67.181.29
-Name:	www.lzawlj.top
-Address: 104.21.72.100
-Name:	www.lzawlj.top
-Address: 2606:4700:3033::6815:4864
-Name:	www.lzawlj.top
-Address: 2606:4700:3032::ac43:b51d
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.tpyyc.com
-Address: 107.148.242.9
+Name:	t789.top
+Address: 3.36.38.239
 
