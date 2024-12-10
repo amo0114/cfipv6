@@ -2,22 +2,23 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	jp.921219.xyz
-Address: 172.64.83.235
-Name:	jp.921219.xyz
-Address: 104.16.120.12
-Name:	jp.921219.xyz
-Address: 162.159.153.119
+www.99wxw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.216.159
+Name:	ips.993888.xyz
+Address: 104.16.204.201
+Name:	ips.993888.xyz
+Address: 104.16.155.167
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
+Name:	zhuijuju.com
+Address: 208.98.43.139
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find pc.ulzdk.com: NXDOMAIN
+** server can't find xiaolen2.lz.wtf: NXDOMAIN
 
