@@ -15864,3 +15864,25 @@ Performing DNS lookup for v88av1990.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bd11934] Update project files
+ 4 files changed, 72 insertions(+), 80 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   bf78a21..bd11934  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.197.126...
+Fetching domains for 104.18.95.110...
+Fetching domains for 104.22.2.199...
+succeed to fetch domains for 104.17.197.126 from https://site.ip138.com/
+succeed to fetch domains for 104.22.2.199 from https://site.ip138.com/
+succeed to fetch domains for 104.18.95.110 from https://ipchaxun.com/
+域名列表为
+['923055.com', 'www.hg098.com', 'e0101.com', 'www.sf123.mobi', 'ag.hg2096.com', 'www.cfhuagong.com', 'www.bkmanhuas.com', 'subodi.com', 'www.679077.com', 'www.penglecheng.com', 'www.meteo.it', 'www.sportsmans.com', 'www.5522tl.com', 'graviex.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for www.meteo.it...
+Performing DNS lookup for graviex.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

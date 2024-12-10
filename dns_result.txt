@@ -2,41 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+www.c333.net	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.meteo.it	canonical name = www.meteo.it.cdn.cloudflare.net.
-Name:	www.meteo.it.cdn.cloudflare.net
-Address: 104.22.3.199
-Name:	www.meteo.it.cdn.cloudflare.net
-Address: 104.22.2.199
-Name:	www.meteo.it.cdn.cloudflare.net
-Address: 172.67.4.5
-Name:	www.meteo.it.cdn.cloudflare.net
-Address: 2606:4700:10::ac43:405
-Name:	www.meteo.it.cdn.cloudflare.net
-Address: 2606:4700:10::6816:3c7
-Name:	www.meteo.it.cdn.cloudflare.net
-Address: 2606:4700:10::6816:2c7
+Name:	shnakun.com
+Address: 104.23.122.156
+Name:	shnakun.com
+Address: 104.23.109.70
+Name:	shnakun.com
+Address: 104.23.125.175
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	graviex.net
-Address: 172.67.4.5
-Name:	graviex.net
-Address: 104.22.3.199
-Name:	graviex.net
-Address: 104.22.2.199
-Name:	graviex.net
-Address: 2606:4700:10::6816:2c7
-Name:	graviex.net
-Address: 2606:4700:10::ac43:405
-Name:	graviex.net
-Address: 2606:4700:10::6816:3c7
+Name:	www.xwbhk.com
+Address: 149.115.241.53
 
