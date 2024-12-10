@@ -1,24 +1,41 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.216.159
-Name:	ips.993888.xyz
-Address: 104.16.204.201
-Name:	ips.993888.xyz
-Address: 104.16.155.167
+** server can't find qfgy.xbx33.top: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	zhuijuju.com
-Address: 208.98.43.139
+Name:	gaxgqy.com
+Address: 69.87.193.70
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find xiaolen2.lz.wtf: NXDOMAIN
+Non-authoritative answer:
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.25.55.61
+Name:	dcs.jqddos.xyz
+Address: 104.17.6.35
+Name:	dcs.jqddos.xyz
+Address: 104.16.206.92
+Name:	dcs.jqddos.xyz
+Address: 104.19.237.175
+Name:	dcs.jqddos.xyz
+Address: 104.18.106.23
+Name:	dcs.jqddos.xyz
+Address: 104.19.190.100
+Name:	dcs.jqddos.xyz
+Address: 104.17.117.68
+Name:	dcs.jqddos.xyz
+Address: 104.18.106.64
+Name:	dcs.jqddos.xyz
+Address: 104.17.153.144
+Name:	dcs.jqddos.xyz
+Address: 104.16.95.121
 

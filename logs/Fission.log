@@ -15727,3 +15727,26 @@ Performing DNS lookup for pc.ulzdk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f486362] Update project files
+ 4 files changed, 42 insertions(+), 19 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7e6c434..f486362  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.64.229.80...
+Fetching domains for 104.17.148.220...
+Fetching domains for 104.17.188.91...
+succeed to fetch domains for 104.17.188.91 from https://ipchaxun.com/
+succeed to fetch domains for 172.64.229.80 from https://ipchaxun.com/
+Error fetching domains for 104.17.148.220 from https://dnsdblookup.com/: HTTPSConnectionPool(host='dnsdblookup.com', port=443): Max retries exceeded with url: /104.17.148.220/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f42204f2b50>, 'Connection to dnsdblookup.com timed out. (connect timeout=10)'))
+Fetching domains for 104.17.148.220...
+succeed to fetch domains for 104.17.148.220 from https://site.ip138.com/
+域名列表为
+['www.cylove.cc', 'www.myvod365.com', 'market.icook.tw', 'yy6080y.net', 'www.zhimawx.com', 'lenchan.lz.wtf', 'iwzyw.com', 'www.zongcaixs.com', 'www.iwzyw.com', 'xiaolen.lz.wtf', 'www.1do.top', 'www.showdm.com', 'www.cdmytravel.com', 'www.douluodalu1.com', 'achk.cloudflarest.link', 'www.yingshixiaoshuo.com', 'r10086.com', 'www.93xscc.com', 'www.aikansu.com', 'www.mtr123.cn', 'www.yanqin8.com', 'best.cdn.sqeven.cn', 'www.77zw.cc', 'www.xiuluoxiaoshuo.com', 'www.dj5157.com', 'cdn.adsllyg.be.eu.org', 'sdsdfgjj.cloudflare.182682.xyz', 'xxcoco.com', 'www.50zw.co', 'cf.hw.090227.xyz', 'www.nitianxieshen.com', 'www.927600.com', 'www.lailai360.com', 'j8mao.com', 'www.yncareer.com', 'www.icook.tw', 'www.digwow.net', 'www.cfhuagong.com', 'digwow.net', 'www.gaoqingw.com', 'blog.iyume.top', 'www.gongxiangxiu.com', 'www.cgfxw.com', 'www.iios.club', 'ru01.pttkk.com', 'm.longbulo.com', '80.lz.wtf', 'myvod365.com', 'www.6988tv.com', 'www.qilaixiaoshuo.com', 'icook.tw', 'msjh520.com', 'www.dmbj.cc', 'jp01.pttkk.com', 'www.99wx.cc', 'sg.lz.wtf', 'xiaolen2.lz.wtf', 'bk.lz.wtf', 'xiaoren.lz.wtf', 'www.yy6080y.net', 'www.827wg.com', 'www.acaeo.com', 'zhuijuju.com', 'www.cocanwelding.com', 'hwcf.cmnriseocean.top', 'www.qingganbook.com', '123.qwe888.com', 'jp02.pttkk.com', 'www.lookju.com', 'taoismhome.com', 'www.bbbyun.cn', 'www.yekan360.com', 'm.niuerzs.com', 'wp.lz.wtf', 'xuwutv.com', 'blog.icook.tw', 'www.99wxw.cc', 'www.myvod360.com', 'lookju.com', 'gtt.top', 'waxxl.ga', 'aka.akatohsht.xyz', 'tv.icook.tw', 'www.xinjuc.com', 'www.ikantv.net', 'www.longwangchuanshuo.net', 'acaeo.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.99wxw.cc...
+Performing DNS lookup for zhuijuju.com...
+Performing DNS lookup for xiaolen2.lz.wtf...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
