@@ -2,24 +2,62 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tramatm.com
-Address: 172.67.219.193
-Name:	www.tramatm.com
+Name:	sprlotto.com
 Address: 104.21.24.169
-Name:	www.tramatm.com
+Name:	sprlotto.com
+Address: 172.67.219.193
+Name:	sprlotto.com
 Address: 2606:4700:3030::6815:18a9
-Name:	www.tramatm.com
+Name:	sprlotto.com
 Address: 2606:4700:3037::ac43:dbc1
 
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
-
-** server can't find m.amidolobs.top: NXDOMAIN
-
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	t789.top
-Address: 3.36.38.239
+Name:	83maoah.com
+Address: 172.67.72.36
+Name:	83maoah.com
+Address: 104.26.10.129
+Name:	83maoah.com
+Address: 104.26.11.129
+Name:	83maoah.com
+Address: 2606:4700:20::681a:b81
+Name:	83maoah.com
+Address: 2606:4700:20::681a:a81
+Name:	83maoah.com
+Address: 2606:4700:20::ac43:4824
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	v88av1990.xyz
+Address: 104.21.80.1
+Name:	v88av1990.xyz
+Address: 104.21.48.1
+Name:	v88av1990.xyz
+Address: 104.21.96.1
+Name:	v88av1990.xyz
+Address: 104.21.16.1
+Name:	v88av1990.xyz
+Address: 104.21.32.1
+Name:	v88av1990.xyz
+Address: 104.21.64.1
+Name:	v88av1990.xyz
+Address: 104.21.112.1
+Name:	v88av1990.xyz
+Address: 2606:4700:3030::6815:1001
+Name:	v88av1990.xyz
+Address: 2606:4700:3030::6815:3001
+Name:	v88av1990.xyz
+Address: 2606:4700:3030::6815:4001
+Name:	v88av1990.xyz
+Address: 2606:4700:3030::6815:2001
+Name:	v88av1990.xyz
+Address: 2606:4700:3030::6815:5001
+Name:	v88av1990.xyz
+Address: 2606:4700:3030::6815:7001
+Name:	v88av1990.xyz
+Address: 2606:4700:3030::6815:6001
 

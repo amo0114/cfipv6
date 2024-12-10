@@ -15821,3 +15821,25 @@ Performing DNS lookup for www.tpyyc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5691554] Update project files
+ 4 files changed, 60 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   a242cb2..5691554  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.56.96...
+Fetching domains for 104.21.239.139...
+Fetching domains for 104.21.24.169...
+succeed to fetch domains for 104.21.239.139 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.24.169 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.56.96 from https://ipchaxun.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'qiaokuang.net', 'www.52iuu.cn', 'www.jzserve.com', 'dqhedu.cn', 'www.1888988.com', 'www.fuwuo.top', 'e27rb.cn', '2ffqw7.tw', 'gggggyy.com', 'www.kbss888.com', 'www.52dy8.cc', 'tunneltransfer.bpyjc.com', 'xx22yy.com', 'www.22xgqh03.top', 'www.64149.com', 'wap.22xgqh03.top', 'www.adshares.net', 'kanhm15.cn', 'www.mydytt.com', 'www.guanaiweilai.com', 'www.amidolobs.top', 'www3.kanhm15.cn', 'localmonero.co', 'm.luwangyangrong.com', 'graddelfisch.de', 'www.223ss.com', 'tom021.com', 'dns.trli.club', 'www.5522tl.com', 'mail.korwah.com', 'zgoli.com', 'www.gudacc.com', 'www.shanyouqinwangluo.com', 'www.senlindou.com', 'mexcond.com', 'www1.kanhm15.cn', '3g.fuwuo.top', 'www.52dgm.cn', 'www.tpyyc.com', 'www.hfsfyw.cn', 'passportes.co.il', 'www.91m.cc', 'www.jdlikeinfo.com', 'api.telegragm.com', 'korwah.com', 'www.zgoli.com', '3g.amidolobs.top', 'www.cscshebei.com', 'www.qdbangsen.com', '64149.com', 'www.tramatm.com', 'www.kanhm15.cn', 'www.whpaiger.com', 'wap.fuwuo.top', 'sota.kh.ua', '14tp.com', '83maoah.com', 'www.kokhucren.com', 'www.97hjw.com', 'qiangqi.net', '3g.22xgqh03.top', 'www.zlpack.cn', 'www.ys8989.com', 'www.yncareer.com', 'www.whjinwu.com', '5791.com', 'at18.com', 'sprlotto.com', 'www.cfhuagong.com', 'www.haiyuer.me', 'anzocn.com', 'kt777.app', 'gudacc.com', 'wzmn.com', 'vpswo.cn', 'www.bm158.com', 'fuwuo.top', 'www.zzkdhb.com', 'www.hkmytv.com', 'icy.gsbdo.xyz', 'www.dqhedu.cn', 'www2.kanhm15.cn', 'www.apsny.ge', '52dy8.cc', 'youwu132.com', 't789.top', '22xgqh03.top', 'uok88.com', 'www.28et.com', 'www.xlidmsd.cn', 'adshares.net', 'www.652tv.com', 'www.4hu37y.com', 'm.fuwuo.top', 'www.e27rb.cn', 'www.luwangyangrong.com', 'www.youwu132.com', 'www.oke-3d.com', 'www.at18.com', 'www.zzztch.com', 'www.2955kk.com', 'm.feiniutv.com', 'www.gwrbwid.cn', 'www.zjxunhun.com', 'www.tom021.com', 'sivamsl.com', 'www.kunzedu.com', 'm.22xgqh03.top', 'zzztch.com', 'amidolobs.top', 'msoso.com', 'wap.amidolobs.top', '4hu37y.com', 'www.xx22yy.com', 'ccjck.bgz957.xyz', 'momsonmemes.com', 'telegragm.com', 'www.djm.kaufen', 'blender.vn', 'm.amidolobs.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tramatm.com...
+Performing DNS lookup for m.amidolobs.top...
+Performing DNS lookup for t789.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
