@@ -2,77 +2,32 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-yundunwawablogcdn1yd.wawacm.com	canonical name = blogwaf.yava.pw.
-Name:	blogwaf.yava.pw
-Address: 104.18.224.0
-Name:	blogwaf.yava.pw
-Address: 104.17.152.0
-Name:	blogwaf.yava.pw
-Address: 104.24.18.0
-Name:	blogwaf.yava.pw
-Address: 104.17.120.0
-Name:	blogwaf.yava.pw
-Address: 104.25.128.0
+Name:	111649.com
+Address: 172.67.181.29
+Name:	111649.com
+Address: 104.21.72.100
+Name:	111649.com
+Address: 2606:4700:3033::6815:4864
+Name:	111649.com
+Address: 2606:4700:3032::ac43:b51d
+
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+Non-authoritative answer:
+Name:	www.lzawlj.top
+Address: 172.67.181.29
+Name:	www.lzawlj.top
+Address: 104.21.72.100
+Name:	www.lzawlj.top
+Address: 2606:4700:3033::6815:4864
+Name:	www.lzawlj.top
+Address: 2606:4700:3032::ac43:b51d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.9.83
-Name:	cfip.xxxxxxxx.tk
-Address: 141.101.114.140
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.29.24
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.97.225
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.26.224
-Name:	cfip.xxxxxxxx.tk
-Address: 104.22.14.201
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.157.37
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.0.71
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.249.5
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.66.190
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.139.128
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.40.189
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.65.250
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.241.139
-Name:	cfip.xxxxxxxx.tk
-Address: 104.22.50.148
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.6988tv.com	canonical name = 6988tv.com.
-6988tv.com	canonical name = cf.cloudflare.182682.xyz.
-Name:	cf.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	cf.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	cf.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	cf.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
+Name:	www.tpyyc.com
+Address: 107.148.242.9
 
