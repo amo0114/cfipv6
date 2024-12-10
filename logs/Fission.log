@@ -15750,3 +15750,25 @@ Performing DNS lookup for xiaolen2.lz.wtf...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5967c7d] Update project files
+ 4 files changed, 82 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   f486362..5967c7d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.20.99...
+Fetching domains for 172.67.208.84...
+Fetching domains for 104.17.5.226...
+succeed to fetch domains for 104.21.20.99 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.208.84 from https://site.ip138.com/
+succeed to fetch domains for 104.17.5.226 from https://site.ip138.com/
+域名列表为
+['gezila.com', 'www.ssp123456.com', '33883885.com', 'piyi.xbx33.top', 'ustd.tonghanglive.net', 'xxx.xbx33.top', 'down.dawdop.com', 'gloryministries.org.tw', 'qwef.xbx33.top', '3g.flsw32jz.top', 'www.6i5.com', '3wj6.xbx33.top', 'xopa.xbx33.top', 'b47w.com', 'ssp123456.com', 'gt121.com', 'sinatianmao.com', 'tm.emr2.com', 'www.lyzdzy.com', 'www.flsw32jz.top', 'm.shuzwz.com', 'www.yangmaojob.com', 'www.tinghen.com', 'xs.wxtv.cc', 'mo.nuoappdev.info', 'x3r4.xbx33.top', 'm.flsw32jz.top', 'x0x0x.xbx33.top', 'mimi.xbx33.top', 'www.guangxindai.com', 'www.4564bb.com', 'oqezvt.cn', 'saohu235.com', 'swap.daocoswap.vip', 'www.11txt.com', 'm.gezila.com', '89345.cn', '3hentai.buzz', '4814.com', 'www.ooe.la', 'z8q5.xbx33.top', 'lnrxth.com', '5678123.com', '22qqqqq.com', '8mav911.com', 'm32g18jr.xyz', 'www.tpyyc.com', 'www.5678123.com', 'www.gt121.com', '17se.xbx33.top', 'www.b47w.com', 'www.shy6666.com', 'yangmaojob.com', 'www.longlitech.top', 'www.demy-bearing.com', 'www.taoyinshequ.com', 'caobb.xbx33.top', 'c.webscan.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'flsw32jz.top', 'www.gezila.com', 'yundunwawablogcdn1dx.wawacm.com', 'gaxgqy.com', 'kk44kk.xbx33.top', 'wrldsecurity.net', 'av91.xbx33.top', 'neversteadyfilm.com', 'slidedog.com', '8b9c.cn', 'down.hphtp.com', '440300.xyz', 'ccav.xbx33.top', 'sese.xbx33.top', '2baz.xbx33.top', 'pk299.com', 'ummat.net', 'www.vnlhpzj.cn', 'researchcub.info', '91xx.xbx33.top', 'www.99b42.com', 'xrss.jnd188.xyz', 'zfb33.com', 'cctv.xbx33.top', 'ysz8.com', 'www.tv9090.com', '3g.longlitech.top', 'aspoem.com', '445366.com', 'webscan.cc', '8888.xbx33.top', 'qsi1z18.top', 'emr2.com', 'chhv.xbx33.top', 'qj8h.xbx33.top', 'qfgy.xbx33.top', 'www.kexingnaicai.com', 'lysp80.top', 'down.aoligeos.com', 'vbw0.xbx33.top', 'xxbb.xbx33.top', 'kingtec.net', 'www.xshlf1314.com', 'rr602.com', '52mm.xbx33.top', 'longlitech.top', 'miank.net', 'www.zzztch.com', 'www.295k.com', '9999.xbx33.top', 'xl5567.com', 'www.cfhuagong.com', 'www.0571edu.cn', 'taoyinshequ.com', 'stadiumseating.net', 'm.longlitech.top', 'www.ggyy555.com', '58yibao.com', 'uuuu70.com', 'azinhonar.ir', 'down.chaojis2.com', 'blog.hostmonit.com', 'jxdaxing.com', 'bps.yonpj.com', 'www.cocanwelding.com', 'xxoo.xbx33.top', 'dsfafdsdf.taoyinshequ.com', '07rx.xbx33.top', 'www.mknykj.com', 'l.wkb225.xyz', 'smwbm100004.cfd', '0550cq.com', 'eoh.com.br', 'yyds.xbx33.top', 'pg5r.xbx33.top', 'www.787hh.com', 'www.oqaipkl.cn', 'www.qsscrm.com', 'bsxv.xbx33.top', 'wap.flsw32jz.top', 'www.50zw.com', 'www.tlbb888.com', 'ggyy555.com', 'dzy66666.com', 'www.xbx33.top', 'www.zhong-zhu.com', 'www.9ekk.com', 'www.duo130.top', 's7bu.xbx33.top', '0099r.com', 'rrl88.com', '1199n.com', 'm1oissy6dtl.com', 'www.fjycjkpp.xyz', 'vttm.xbx33.top', '99xing290.xyz', 'www.hker.life', 'www.4148.net', 'www.22qqqqq.com', 'toserk.top', 'www.uuuu70.com', 'qsscrm.com', 'www.kunzedu.com', 'www.nangua55.com', 'zyj.miank.net', 'clhydh.online', 'www.lcjdkt.icu', 'kexingnaicai.com', 'www.hhyy028.com', 'niconico.cc', 'vtulv.miank.net', 'm.duo130.top', 'm.biqu78.com', 'www.8828pk.com', 'www.3hentai.buzz', 'wppjuxcfkr.top', 'www.hdzyzy.cn', 'api.webscan.cc', 'www.seascape.network', '69xx.xbx33.top', 'xbx33.top', '7879235.com', 'www.0550cq.com', 'www.iios.club', 'cf-lt.sharecentre.online', 'cg5773.com', 'wap.longlitech.top', 'www.dztfxx.com', 'zhong-zhu.com', 'dinglicl.com', 'www.66se7.com', 'uswings.com', 'www.kbss888.com', 'aavv.xbx33.top', 'www.tokyo-hot.cc', 'www.di786jg.cn', 'm.niuerzs.com', 'ihd1.xbx33.top', 'www.lysp80.top', '555017.com', 'www.webscan.cc', 'tokyo-hot.cc', 'lulu.xbx33.top', 'www.hmyxjia.com', 'd18h.xbx33.top', 'stock.hostmonit.com', '91mayi.com', 'q.taoyinshequ.com', '4564bb.com', 'wkb225.xyz', 'duo130.top', 'xbxb.xbx33.top', 'antdh.net', 'fixanchor.com', 'kc361.com', 'dequejeito.com.br', '7777.xbx33.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for qfgy.xbx33.top...
+Performing DNS lookup for gaxgqy.com...
+Performing DNS lookup for www.kbss888.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
