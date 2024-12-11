@@ -2,7 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.meijukan.com	canonical name = p.urlwa.com.
+Name:	www.xworldadmin.com
+Address: 185.216.71.118
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.4148.net	canonical name = www.4148.net.cdn.cloudflare.net.
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 172.67.184.20
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 104.21.59.212
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 2606:4700:3031::ac43:b814
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:3bd4
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.k77kk.cc	canonical name = p.urlwa.com.
 Name:	p.urlwa.com
 Address: 172.67.141.40
 Name:	p.urlwa.com
@@ -11,29 +32,4 @@ Name:	p.urlwa.com
 Address: 2606:4700:3036::ac43:8d28
 Name:	p.urlwa.com
 Address: 2606:4700:3032::6815:26f8
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global2.66666654.xyz.
-Name:	cfcn-a-global2.66666654.xyz
-Address: 104.17.253.235
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.iios.me	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
 

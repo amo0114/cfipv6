@@ -15913,3 +15913,24 @@ Performing DNS lookup for www.xwbhk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a087b57] Update project files
+ 4 files changed, 53 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   5d8660f..a087b57  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.58.154...
+Fetching domains for 104.17.211.54...
+Fetching domains for 172.64.157.9...
+succeed to fetch domains for 172.64.157.9 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.58.154 from https://site.ip138.com/
+succeed to fetch domains for 104.17.211.54 from https://dnsdblookup.com/
+域名列表为
+['dafuweng.com', 'www.kytyy.com', 'www.laowang.co', 'www.xworldadmin.com', 'www.28et.com', 'cdn.756577.xyz', 'ddwhm.com', 'cgcc.digicert.pp.ua', 'www.ddwhm.com', 'm.6988tv.com', 'www.kanunu2.com', 'www.991kan.com', 'www.223a.com', 'www.ai2moe.org', 'www.881dy.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.letu9.com', 'www.99wxw.cc', 'www.kx10.com', 'www.c333.net', 'www.yedu360.com', 'www.7lq.com', 'www.75uw.com', 'www.52dvd.cn', 'www.778668.com', 'www.48wk.com', 'www.lyys8.com', 'yx.887141.xyz', 'www.tl123123.com', 'www.xwsxs.com', 'www.yh9pk.com', 'www.88wwk.com', 'www.mm5517.com', '778992.com', 'www.nangua55.com', 'fnyyw.net', 'www.33mov.com', 'www.zzztch.com', 'baxtc.66666654.xyz', 'www.yanqin9.cc', 'www.pk299.com', 'm.niuerzs.com', '7.namesilo123.top', 'yh6.dtku41.xyz', 'www.tlbb888.com', 'nlsdwsz.66666654.xyz', 'www.iios.me', 'oaksmart.com', 'www.hhyy028.com', 'shy6666.com', 'www.yncareer.com', 'www.kunzedu.com', 'www.93xscc.com', 'www.rxjh520.cc', 'www.7277tl.com', 'acjp2.cloudflarest.link', 'www.meijukan.com', 'fr.dogbuddy.com', 'www.tanhuazu.com', 'furrina.xyz', 'yxy176.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.meijukan.com...
+Performing DNS lookup for nlsdwsz.66666654.xyz...
+Performing DNS lookup for www.iios.me...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
