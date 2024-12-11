@@ -15934,3 +15934,25 @@ Performing DNS lookup for www.iios.me...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f9d68a1] Update project files
+ 4 files changed, 67 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   a087b57..f9d68a1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.172.92...
+Fetching domains for 198.41.208.27...
+Fetching domains for 198.41.220.88...
+succeed to fetch domains for 198.41.208.27 from https://site.ip138.com/
+succeed to fetch domains for 104.17.172.92 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.220.88 from https://dnsdblookup.com/
+域名列表为
+['www.cbcv.cc', 'cf-lt.sharecentre.online', 'sgv7.com', 'www.50zw.co', 'www.yy4080dy.com', 'www.6988tv.com', 'm.50zw.co', 'www.axxsjx.com', 'www.meijui.net', 'www.k77kk.cc', '7749tv.com', 'uu93.com', 'www.whpaiger.com', 'www.gggggyy.com', 'm.0550cq.com', 'www.ycbtwl.com', 'yh6.dtku41.xyz', '789kp.com', 'www.wei333.com', 'www.7749tv.com', 'www.4gdiy.com', 'stock.hostmonit.com', 'www.xworldadmin.com', 'www.4148.net', 'yyxycn.com', 'www.web120.org', 'www.cfhuagong.com', 'hkaa.sectigo.pp.ua', 'yundunwawablogcdn1yd.wawacm.com', 'www.6i5.com', 'www.bjyongcheng.com', 'www.789kp.com', 'kanmanhuala.cc', 'jpvsavhyu.76898102.xyz', 'www.lijunys.com', 'iios.fun', 'speed.marisalnc.com', '0550cq.com', 'www.28dushu.com', 'www.115tv.com', 'www.iios.club', 'bt9527.com', 'www.11txt.com', 'vcd.la', 'acus.cloudflarest.link', 'e0101.com', 'www.sp6080.com', 'www.ugome.com', 'www.kanju8.com', 'tv9090.com', 'www.omd2008.com', 'zi0.cc', '923055.com', 'blog.hostmonit.com', 'www.ri15.com', 'www.606977.com', 'mayaba9.com', 'www.kk5694.com', 'www.jsmx999.com', 'www.gzlatin.com', 'www.tinghen.com', 'freeyx.cloudflare88.eu.org', 'www.0550cq.com', '26.namesilo123.top', 'hk.gc.aikun.onflashdrive.app', 'www.jjtyss.com', 'www.dy1255.com', 'www.dandanzan.cc', 'www.ddwhm.com', 'www.k77yy.com', 'www.33mov.com', 'www.tvyb02.com', '606977.com', 'k.eeuss66.com', 'www.c333.net', 'www.xinpian8.com', 'www.zzgszz.com', '4gdiy.com', 'www.tv9090.com', 'www.xj2.app', 'www.17ttx.com', 'www.1a1v.com', 'www.x52bq.com', 'www.77yeye.com', 'www.888dyy.cc', 'www.paizipai.top', 'baxtc.66666654.xyz', 'www.dy420.com', 'www.75uw.com', 'zdx03.1-qhhc-2.top', 'www.7sc.cc', 'cfip.xxxxxxxx.tk', '5xs.org', 'www.uu93.com', 'ayuer.com', 'www.nsisfans.com', 'www.btbdys.com', 'www.ylsbzs.com', 'www.tuozhan22.com', 'www.dianying2.com', 'www.881dy.com', '4148.net', 'ukcc.digicert.pp.ua']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xworldadmin.com...
+Performing DNS lookup for www.4148.net...
+Performing DNS lookup for www.k77kk.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
