@@ -16042,3 +16042,25 @@ Performing DNS lookup for www.wxxzzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b988d65] Update project files
+ 4 files changed, 63 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   9be33cc..b988d65  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.212.32...
+Fetching domains for 104.19.156.185...
+Fetching domains for 198.41.220.88...
+succeed to fetch domains for 198.41.212.32 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.156.185 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.220.88 from https://dnsdblookup.com/
+域名列表为
+['nlsdwsz.66666654.xyz', 'm.0550cq.com', 'fr.zzzzz.fn-node.site', 'www.jinricp.net', 'www.ai2moe.org', 'zi0.cc', 'stock.hostmonit.com', 'hkaa.sectigo.pp.ua', 'ayuer.com', 'www.dianying2.com', 'yh6.dtku41.xyz', 'www.881dy.com', 'btlshb.com', 'hk.gc.aikun.onflashdrive.app', 'ygbb.rapidssl.pp.ua', 'www.asmrgo.com', 'jpvsavhyu.76898102.xyz', 'hub.gitmirror.com', 'e0101.com', 'www.jsmx999.com', 'vcd.la', 'www.wei333.com', 'www.6i5.com', 'www.6988tv.com', 'speed-freefly-cm.114514782.xyz', 'wzragxjx.com', 'www.888dyy.cc', 'www.axxsjx.com', 'm.niuerzs.com', 'www.b7yy.cc', 'www.woaiqi.com', 'www.c333.net', 'www.dy420.com', '606977.com', 'www.77yeye.com', 'spca.114514782.xyz', 'www.92mili.com', 'qiangkouzhao.com', 'www.bjyongcheng.com', 'www.pk299.com', 'speed.marisalnc.com', 'www.migudy.com', 'uu93.com', 'baxtc.66666654.xyz', 'www.nsisfans.com', 'wwwww.net78.top', 'jpee.sectigo.pp.ua', 'pan.axxpan.com', 'cfip.xxxxxxxx.tk', 'acus.cloudflarest.link', 'www.17ttx.com', 'www.11txt.com', 'cf.iam8.shop', 'www.0550cq.com', '26.namesilo123.top', 'www.90dushu.com', 'www.iios.club', 'yxus.juna3066.store', 'www.paizipai.top', 'www.k77yy.com', 'ukcc.digicert.pp.ua', 'www.cu90.com', 'www.4148.net', 'www.ugome.com', 'www.zzgszz.com', 'www.tuozhan22.com', 'www.zzgszg.com', 'www.706i.com', 'cf-lt.sharecentre.online', 'www.xz898my.com', 'www.xinyi176.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.tv9090.com', 'www.xworldadmin.com', 'www.wxxzzs.com', 'yx.887141.xyz', 'www.tvyb02.com', 'freeyx.cloudflare88.eu.org', 'www.kungal.com', 'www.80yy.org', 'www.x52bq.com', 'www.606977.com', 'raw.gitmirror.com', 'www.tinghen.com', 'www.4gdiy.com', 'www.zzztch.com', 'img.hostmonit.com', 'www.ddwhm.com', 'www.gzlatin.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.kbss888.com', 'www.lijunys.com', 'www.dafuhao.com', 'www.zsych.net', 'www.xinpian8.com', 'ysz8.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.paizipai.top...
+Performing DNS lookup for www.wxxzzs.com...
+Performing DNS lookup for ukcc.digicert.pp.ua...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

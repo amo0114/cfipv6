@@ -1,34 +1,21 @@
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.paizipai.top
-Address: 104.21.75.195
-Name:	www.paizipai.top
-Address: 172.67.180.229
-Name:	www.paizipai.top
-Address: 2606:4700:3037::ac43:b4e5
-Name:	www.paizipai.top
-Address: 2606:4700:3035::6815:4bc3
+Name:	www.yncareer.com
+Address: 162.209.149.23
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.wxxzzs.com
-Address: 104.19.81.91
-Name:	www.wxxzzs.com
-Address: 104.18.75.142
-Name:	www.wxxzzs.com
-Address: 104.18.109.224
+*** Can't find www.nmhydz.com: No answer
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-ukcc.digicert.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global18.66666654.xyz.
-Name:	cfcn-a-global18.66666654.xyz
-Address: 104.17.253.14
+www.ycbtwl.com	canonical name = ycbtwl.haofanghu123.com.
+Name:	ycbtwl.haofanghu123.com
+Address: 111.178.10.208
 
