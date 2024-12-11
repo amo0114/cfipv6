@@ -16064,3 +16064,25 @@ Performing DNS lookup for ukcc.digicert.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6449639] Update project files
+ 4 files changed, 51 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   b988d65..6449639  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.249.125...
+Fetching domains for 104.17.172.92...
+Fetching domains for 104.16.254.236...
+succeed to fetch domains for 104.17.172.92 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.254.236 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.249.125 from https://dnsdblookup.com/
+域名列表为
+['www.cfhuagong.com', 'www.dandanzan.cc', 'www.ri15.com', 'www.btbdys.com', 'tt.dv.cloudns.org', 'www.vcd.la', 'vcd.la', 'cf.iam8.shop', 'tuu.dv.cloudns.org', 'www.xj2.app', 'www.whpaiger.com', 'www.75uw.com', 'www.uu93.com', 'mayaba9.com', 'k.eeuss66.com', 'www.70ts.com', 'www.sp6080.com', '789ys.com', 'www.789kp.com', 'www.kk5694.com', 'www.zzztch.com', '36mh.net', 'iios.fun', 'www.65bao2.com', 'www.ycbtwl.com', 'www.jjtyss.com', 'www.iios.club', 'kanmanhuala.cc', 'www.1a1v.com', 'cfip.xxxxxxxx.tk', 'www.nmhydz.com', 'pimkie.fr', 'work.guai.hz.cz', 'y.dv.cloudns.org', 'www.yncareer.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yncareer.com...
+Performing DNS lookup for www.nmhydz.com...
+Performing DNS lookup for www.ycbtwl.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
