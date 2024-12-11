@@ -2,60 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.90dushu.com	canonical name = back.52biqv.com.
-Name:	back.52biqv.com
-Address: 172.67.214.157
-Name:	back.52biqv.com
-Address: 104.21.53.154
-Name:	back.52biqv.com
-Address: 2606:4700:3032::6815:359a
-Name:	back.52biqv.com
-Address: 2606:4700:3034::ac43:d69d
+Name:	www.75uw.com
+Address: 23.225.148.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.881dy.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	y.dv.cloudns.org
+Address: 104.16.249.125
+Name:	y.dv.cloudns.org
+Address: 172.64.229.221
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	uu93.com
-Address: 104.21.96.1
-Name:	uu93.com
-Address: 104.21.16.1
-Name:	uu93.com
-Address: 104.21.112.1
-Name:	uu93.com
-Address: 104.21.64.1
-Name:	uu93.com
-Address: 104.21.80.1
-Name:	uu93.com
-Address: 104.21.32.1
-Name:	uu93.com
-Address: 104.21.48.1
-Name:	uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:1001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:2001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:7001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:6001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:3001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:5001
+Name:	www.yncareer.com
+Address: 162.209.149.23
 
