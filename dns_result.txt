@@ -1,31 +1,34 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
 Non-authoritative answer:
-www.55evd.com	canonical name = planone.seihappy.com.
-Name:	planone.seihappy.com
-Address: 162.209.221.183
-Name:	planone.seihappy.com
-Address: 23.224.11.188
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.ddwhm.com	canonical name = speed.marisalnc.com.
-speed.marisalnc.com	canonical name = speed-freefly-ctagttb-sjc.dnshtcb.pp.ua.
-speed-freefly-ctagttb-sjc.dnshtcb.pp.ua	canonical name = cfcn-ct-gttb38.dnshtca.pp.ua.
-Name:	cfcn-ct-gttb38.dnshtca.pp.ua
-Address: 172.67.112.206
+Name:	www.paizipai.top
+Address: 104.21.75.195
+Name:	www.paizipai.top
+Address: 172.67.180.229
+Name:	www.paizipai.top
+Address: 2606:4700:3037::ac43:b4e5
+Name:	www.paizipai.top
+Address: 2606:4700:3035::6815:4bc3
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.wxxzzs.com
-Address: 104.18.75.142
 Name:	www.wxxzzs.com
 Address: 104.19.81.91
 Name:	www.wxxzzs.com
+Address: 104.18.75.142
+Name:	www.wxxzzs.com
 Address: 104.18.109.224
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ukcc.digicert.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global18.66666654.xyz.
+Name:	cfcn-a-global18.66666654.xyz
+Address: 104.17.253.14
 

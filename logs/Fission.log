@@ -16021,3 +16021,24 @@ Performing DNS lookup for www.yncareer.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9be33cc] Update project files
+ 4 files changed, 50 insertions(+), 17 deletions(-)
+To github.com:amo0114/cfipv6.git
+   c3a3e96..9be33cc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.249.125...
+Fetching domains for 104.17.60.168...
+Fetching domains for 198.41.212.32...
+succeed to fetch domains for 104.16.249.125 from https://site.ip138.com/
+succeed to fetch domains for 198.41.212.32 from https://site.ip138.com/
+succeed to fetch domains for 104.17.60.168 from https://dnsdblookup.com/
+域名列表为
+['www.55evd.com', 'wzragxjx.com', '789ys.com', 'www.woaiqi.com', 'www.706i.com', 'tuu.dv.cloudns.org', 'www.223ss.com', 'www.subodi.com', 'www.70ts.com', 'danfeng.tk', 'raw.gitmirror.com', 'www.wxxzzs.com', 'www.b7yy.cc', 'www.tv9090.com', 'work.guai.hz.cz', 'www.zzgszg.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.0550cq.com', 'nlsdwsz.66666654.xyz', 'baxtc.66666654.xyz', '923055.com', 'www.c333.net', 'tt.dv.cloudns.org', 'www.zsych.net', 'www.789kp.com', 'www.asmrgo.com', 'www.6i5.com', 'ygbb.rapidssl.pp.ua', 'www.x52bq.com', 'www.xinpian8.com', 'yx.887141.xyz', 'www.sxyzxh.com', 'cfip.xxxxxxxx.tk', 'hub.gitmirror.com', 'www.kan234.com', 'subodi.com', 'www.paizipai.top', 'yxus.juna3066.store', 'www.4myy.com', 'speed.marisalnc.com', 'www.92mili.com', 'www.4148.net', 'cfip.201043.xyz', 'pan.axxpan.com', 'www.yncareer.com', 'www.wei333.com', 'www.zzztch.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.jinricp.net', 'www.ai2moe.org', 'www.dafuhao.com', 'www.80yy.org', 'y.dv.cloudns.org', 'wap.xbiquge.me', 'btlshb.com', 'www.meijubo.com', 'sgv3.com', 'mip.xbiquge.me', 'www.ddwhm.com', 'www.606977.com', 'www.nsisfans.com', 'cf-lt.sharecentre.online', 'www.tinghen.com', 'stock.hostmonit.com', 'www.11txt.com', 'cf.iam8.shop', 'speed-freefly-cm.114514782.xyz', 'jpee.sectigo.pp.ua', 'qiangkouzhao.com', 'www.90dushu.com', 'img.hostmonit.com', 'fr.zzzzz.fn-node.site', 'spca.114514782.xyz', 'www.q2042.com', 'www.dy420.com', 'www.uu93.com', 'www.kungal.com', '4gdiy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.55evd.com...
+Performing DNS lookup for www.ddwhm.com...
+Performing DNS lookup for www.wxxzzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
