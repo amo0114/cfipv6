@@ -16261,3 +16261,25 @@ Performing DNS lookup for 8031zz.tv...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 45b16ff] Update project files
+ 4 files changed, 65 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   695d3ce..45b16ff  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.219.47...
+Fetching domains for 104.17.0.63...
+Fetching domains for 104.22.16.30...
+succeed to fetch domains for 104.22.16.30 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.0.63 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.219.47 from https://ipchaxun.com/
+域名列表为
+['fldsubgigtujuy.76898102.xyz', '9861.5ip.xyz', 'haosf1314.com', 'www.sf999.fr', 'www.khjn.com.cn', 'www.tvyb02.com', 'pan.axxpan.com', 'spca.114514782.xyz', 'yx.887141.xyz', 'nlsdwsz.66666654.xyz', 'jpvsavhyu.76898102.xyz', '315kc.com', 'www.iios.club', 'speed.marisalnc.com', 'hub.gitmirror.com', 'baxtc.66666654.xyz', 'www.17173sf.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 9861.5ip.xyz...
+Performing DNS lookup for yx.887141.xyz...
+Performing DNS lookup for www.iios.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

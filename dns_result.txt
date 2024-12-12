@@ -1,33 +1,28 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	9861.5ip.xyz
-Address: 104.21.13.165
-Name:	9861.5ip.xyz
-Address: 172.67.156.204
-Name:	9861.5ip.xyz
-Address: 2606:4700:3033::6815:da5
-Name:	9861.5ip.xyz
-Address: 2606:4700:3030::ac43:9ccc
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find yx.887141.xyz: NXDOMAIN
+** server can't find wz.weishao2023.uk.eu.org: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+Name:	4gdiy.com
+Address: 199.59.243.227
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	laowang.co
+Address: 103.172.111.19
+Name:	laowang.co
+Address: 103.172.111.20
+Name:	laowang.co
+Address: 103.172.111.18
+Name:	laowang.co
+Address: 103.172.111.16
+Name:	laowang.co
+Address: 103.172.111.17
+laowang.co	canonical name = lwdy.xyz.
 
