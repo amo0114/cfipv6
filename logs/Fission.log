@@ -16173,3 +16173,25 @@ Performing DNS lookup for www.zyprototype.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 67314ba] Update project files
+ 4 files changed, 59 insertions(+), 66 deletions(-)
+ rewrite dns_result.txt (89%)
+To github.com:amo0114/cfipv6.git
+   1e90f68..67314ba  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.33.203...
+Fetching domains for 198.41.212.215...
+Fetching domains for 104.18.39.219...
+succeed to fetch domains for 198.41.212.215 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.33.203 from https://site.ip138.com/
+succeed to fetch domains for 104.18.39.219 from https://ipchaxun.com/
+域名列表为
+['yundunwawablogcdn1yd.wawacm.com', 'www.dy420.com', 'www.njwbhz.com', 'tmtgcorp.com', 'www.4hug46.com', 'www.mobile-spying.com', 'rz558.com', 'gucci.gucci-2015.com.tw', 'multiz.com', 'ychr.co', 'www.wo1115.com', 'cdn.xn--yfr044l.net', 'www.redboxrx.com', 'www.4148.net', 'www.biinn.com', 'www.nsisfans.com', 'www.chc7o6.cn', 'xiaomi.ua', 'www.314eee.com', 'www.overseastao.com', 'www.xinpian8.com', 'www.c333.net', 'www.6cc1.com', 'gucci-2015.com.tw', 'www.xiaomi.ua', 'f.w24.rocks', 'm.0550cq.com', 'www.k77kk.cc', '2.868896.xyz', 'wap.wo1115.com', 'www.yedu360.com', 'www.gucci-2015.com.tw', 'overseastao.com', 'www.bau999.com', 'www.maximperio.com.mx', 'www.aqdtv195.com', 'pocomu.com', 'hl8s8.com', 'www.cdnbus.in', 'qigougou.pw', 'speed.marisalnc.com', 'www.dafuhao.com', 'www.0550cq.com', 'www.3dck.com', 'iwin.game', 'prada.gucci-2015.com.tw', 'txt.al', 'tbr.tangbr.net', 'www.jiyue.com', 'lbdown26.com', 'www.991kan.com', 'www.wxxzzs.com', 'www.bunnings.com.au', 'xfltd.net', 'www.falcon.io', 'www.paizipai.top', 'www.haqiandu.com', 'cfip.xxxxxxxx.tk', 'smyy6080.com', 'yx.887141.xyz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', '10688a.com', 'stock.hostmonit.com', 'www.k77yy.com', 'iios.club', 'cdnbus.in', 'jpadwinfs.114514782.xyz', 'zi0.cc', 'gamegamept.com', 'www.yv51o9c.cn', 'jiyue.com', 'www.iios.me', 'jpbb.sectigo.pp.ua', 'aktv.top', 'jhpcza.66666654.xyz', 'aptinex.com', 'bestcf.onecf.eu.org', 'www.881dy.com', 'zmkan.top', 'www.taogetu.com', 'www.51jion.com', 'www.foot18.com', 'yuntu.cloud', 'www.kanmanhuala.cc', 'www.28dushu.com', '4hug46.com', 'spify.xyz', 'www.92mili.com', 'baxtc.66666654.xyz', 'cg.22yy7.com', '4096.tw', 'www.sxyzxh.com', 'www.aikankan.cn', 'www.33mov.com', 'www.11txt.com', 'iios.fun', 'www.7749tv.com', 'm.6988tv.com', 'www.6i5.com', 'www.888dyy.cc', 'www.airbitclub.info', 'www.heinu.cc', 'www.woaiqi.com', '253sihu.com', 'nlsdwsz.66666654.xyz', 'www.pocomu.com', 'www.goodlab.hk', 'www.smyy6080.com', 'www.iios.club', 'sgv3.com', 'miumiu.gucci-2015.com.tw', 'www.ddwhm.com', 'www.bkstockeshop.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.aqdtv195.com...
+Performing DNS lookup for xfltd.net...
+Performing DNS lookup for www.881dy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

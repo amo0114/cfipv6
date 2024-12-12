@@ -1,28 +1,25 @@
+Server:		8.8.4.4
+Address:	8.8.4.4#53
+
+** server can't find www.30moyu.top: NXDOMAIN
+
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.aqdtv195.com: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-xfltd.net	canonical name = 7fec9db2.xfcdn.top.
-7fec9db2.xfcdn.top	canonical name = gb807f5.cdn.xfcdn.top.
-Name:	gb807f5.cdn.xfcdn.top
-Address: 101.132.157.106
+** server can't find www.bkmanhuas.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.881dy.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+www.8899tl.com	canonical name = host1113008b.c2.huyuncdn.xyz.
+host1113008b.c2.huyuncdn.xyz	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 104.21.15.245
+Name:	cf.host106.america96.com
+Address: 172.67.165.85
+Name:	cf.host106.america96.com
+Address: 2606:4700:3036::ac43:a555
+Name:	cf.host106.america96.com
+Address: 2606:4700:3037::6815:ff5
 
