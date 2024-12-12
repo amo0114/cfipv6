@@ -1,25 +1,19 @@
-Server:		8.8.4.4
-Address:	8.8.4.4#53
-
-** server can't find www.30moyu.top: NXDOMAIN
-
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.bkmanhuas.com: NXDOMAIN
+** server can't find hg1599.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.8899tl.com	canonical name = host1113008b.c2.huyuncdn.xyz.
-host1113008b.c2.huyuncdn.xyz	canonical name = cf.host106.america96.com.
-Name:	cf.host106.america96.com
-Address: 104.21.15.245
-Name:	cf.host106.america96.com
-Address: 172.67.165.85
-Name:	cf.host106.america96.com
-Address: 2606:4700:3036::ac43:a555
-Name:	cf.host106.america96.com
-Address: 2606:4700:3037::6815:ff5
+Name:	www.zzztch.com
+Address: 91.195.240.12
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+** server can't find www.lewen5.com: SERVFAIL
 

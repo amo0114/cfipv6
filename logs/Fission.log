@@ -16195,3 +16195,25 @@ Performing DNS lookup for www.881dy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f293ebd] Update project files
+ 4 files changed, 56 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   67314ba..f293ebd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.33.205...
+Fetching domains for 104.21.224.202...
+Fetching domains for 104.17.3.237...
+succeed to fetch domains for 104.21.224.202 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.33.205 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.3.237 from https://dnsdblookup.com/
+域名列表为
+['www.bkmanhuas.com', 'www.rxjh520.cc', 'www.feidiedy.com', 'www.wn01.cc', 'www.lwxs6.com', '123.shequnquan.com', 'www.tockt.com', 'www.zzztch.com', 'www.xinyi176.com', 'www.24xunlei.com', 'www.16888cs.cn', 'www.skyqn.com', 'www.hhyy028.com', 'www.88wwk.com', 'zlcq520.com', 'www.nlxs.org', 'www.dafuhao.com', 'm.luwangyangrong.com', 'www.cx888my.com', 'www.m6y6.com', 'www.tl123123.com', 'www.kbss888.com', 'www.99wx.cc', '660f.com', 'www.pk299.com', 'www.xxootl.com', 'achk.cloudflarest.link', 'www.shy6666.com', 'www.dy1255.com', 'wwwww.net78.top', 'www.99xkxtl.com', 'www.xkx999.com', 'wsm.wwysw.cn', 'www.tlbb888.com', 'www.puffsme.com', 'www.cfhuagong.com', 'www.hnxtx.com', 'www.dingdingtl.vip', 'www.cocanwelding.com', 'www.baota.me', 'www.828tl.com', 'yxy176.com', 'www.930my.com', '8877fz.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.993my.com', 'www.28et.com', 'www.8899tl.com', 'www.zlcq520.com', 'www.30moyu.top', 'm.tttkxs.com', 'www.115fhd.com', 'www.zddzd.top', 'www.7lq.com', 'www.kanju8.com', 'pk299.com', 'jxjz.xtlbb3.com', 'www.hljsghb.com', 'ysz8.com', 'www.dzy66666.com', 'hmoe.top', 'w.whaiopprde.com', 'www.5200tl.cn', 'www.yh9pk.com', 'www.80yy.org', 'www.jg666.top', 'www.97777pk.com', 'dzy66666.com', 'www.tzfile.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.30moyu.top...
+Performing DNS lookup for www.bkmanhuas.com...
+Performing DNS lookup for www.8899tl.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
