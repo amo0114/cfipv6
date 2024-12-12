@@ -1,28 +1,38 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find wz.weishao2023.uk.eu.org: NXDOMAIN
+** server can't find zm7.m3u8list.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	4gdiy.com
-Address: 199.59.243.227
+778992.com	canonical name = ips.299570.com.
+Name:	ips.299570.com
+Address: 104.17.129.226
+Name:	ips.299570.com
+Address: 104.17.141.141
+Name:	ips.299570.com
+Address: 104.17.141.42
+Name:	ips.299570.com
+Address: 104.17.128.61
+Name:	ips.299570.com
+Address: 104.17.135.122
+Name:	ips.299570.com
+Address: 104.16.121.144
+Name:	ips.299570.com
+Address: 104.17.135.130
+Name:	ips.299570.com
+Address: 104.17.141.139
+Name:	ips.299570.com
+Address: 104.17.134.210
+Name:	ips.299570.com
+Address: 104.17.128.32
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
 
-Non-authoritative answer:
-Name:	laowang.co
-Address: 103.172.111.19
-Name:	laowang.co
-Address: 103.172.111.20
-Name:	laowang.co
-Address: 103.172.111.18
-Name:	laowang.co
-Address: 103.172.111.16
-Name:	laowang.co
-Address: 103.172.111.17
-laowang.co	canonical name = lwdy.xyz.
+** server can't find yh.yjyfdc.com: SERVFAIL
 
