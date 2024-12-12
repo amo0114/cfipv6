@@ -1,19 +1,40 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find hg1599.com: NXDOMAIN
+Non-authoritative answer:
+Name:	hk.918518.xyz
+Address: 104.21.69.61
+Name:	hk.918518.xyz
+Address: 172.67.205.206
+Name:	hk.918518.xyz
+Address: 2606:4700:3035::6815:453d
+Name:	hk.918518.xyz
+Address: 2606:4700:3030::ac43:cdce
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 91.195.240.12
+wap.sp6080.com	canonical name = www.tuoniaoyy.com.
+Name:	www.tuoniaoyy.com
+Address: 104.21.29.137
+Name:	www.tuoniaoyy.com
+Address: 172.67.149.57
+Name:	www.tuoniaoyy.com
+Address: 2606:4700:3034::6815:1d89
+Name:	www.tuoniaoyy.com
+Address: 2606:4700:3030::ac43:9539
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.lewen5.com: SERVFAIL
+Non-authoritative answer:
+Name:	8031zz.tv
+Address: 104.21.69.61
+Name:	8031zz.tv
+Address: 172.67.205.206
+Name:	8031zz.tv
+Address: 2606:4700:3035::6815:453d
+Name:	8031zz.tv
+Address: 2606:4700:3030::ac43:cdce
 
