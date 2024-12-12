@@ -2,28 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+114514.1919180.xyz	canonical name = abc.072122.xyz.
+Name:	abc.072122.xyz
+Address: 104.21.86.136
+Name:	abc.072122.xyz
+Address: 172.67.220.89
+Name:	abc.072122.xyz
+Address: 2606:4700:3033::6815:5688
+Name:	abc.072122.xyz
+Address: 2606:4700:3034::ac43:dc59
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find wap.xbiquge.me: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.qianlimaerp.com
-Address: 162.209.149.30
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	ysz8.com
-Address: 103.224.212.118
+www.xiuluo942.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
 
