@@ -16239,3 +16239,25 @@ Performing DNS lookup for www.lewen5.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 695d3ce] Update project files
+ 4 files changed, 71 insertions(+), 27 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   a5e4308..695d3ce  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 141.101.115.160...
+Fetching domains for 104.17.42.107...
+Fetching domains for 104.21.69.61...
+succeed to fetch domains for 104.17.42.107 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.69.61 from https://site.ip138.com/
+succeed to fetch domains for 141.101.115.160 from https://site.ip138.com/
+域名列表为
+['m.bbiquge.cc', 'www.6988tv.com', 'www.28dushu.com', 'bdx100.com', 'www.c333.net', 'www.0048510.com', 'bt.ciliguanjia2.xyz', '77ty.com', 'jx.nanfnet.com', 'www.snzj.net', 'www.262690.com', 'nanfnet.com', 'www.zhongziso.bid', 'www.xingalbum.cn', 'static.8bv.fit', 'm.gtqdyy.com', 'zhongziso.bid', '264073395.xyz', 'btdad.us', 'sgv3.com', 'uu93.com', '094qwdqw.qpeorudfmsa.com', 'www.kk554.com', 'www.50zw.com', 'www.tao528.com', 'www.04045858.com', 'e0101.com', 'www.btdad.live', 'www.anluyg.net', 'm.zhiqihuo.cc', '98tang691.xyz', 'macvbb.555556789.xyz', 'btdad.icu', 'www.4hu12e.com', 'www.wn05.cc', 'www.lvfengsh.com', 'www.6i5.com', 'app.liuxingw.com', 'www.8a8d8.com', 'www.cocanwelding.com', 'www.x52bq.com', 'tjabjm.com', 'hnhcbw.com', 'gwsms.cc', 'm.niuerzs.com', 'www.whjinwu.com', 'www.e0101.com', 'www.btdad.life', 'www.btdad.cyou', 'www.nba01.com', 'ciliba.bid', 'ios.jinniuddos.com', 'btdad.live', 'www.my028.com', 'qpeorudfmsa.com', 'www.gnfangbao.com', 'laoniubt.com', 'www.k26.net', 'www.50zw.co', 'united-compressor.com', 'arrowheadlapidarysupply.com', 'btdad.bid', 'btdad.pw', 'qdlzmgjx.com', 'bt.zhangyusousuo.net', 'ios.jinniumdm168.com', 'www.oeutsos.cn', '4hudizhi147.com', 'oss.nanfnet.co', 'www.btdad.bid', 'www.1a1v.com', 'nanfnet.co', 'www.0550cq.com', 'www.btdad.best', 'www.laoniubt.com', 'www.ciliba.bid', 'www.dogfight360.com', 'www.c384n.com', 'www.boyangjt.com', 'bt.btdad3.xyz', 'www.sjzsckj.com', 'zhongziso.top', 'qdyouxinde.com', 'www.bfb3.com', 'cfhuagong.com', 'btdad.best', 'www.shiyouxiao.com', '0048510.com', '789ys.com', 'www.paizipai.top', 'www.sxyzxh.com', 'www.28et.com', 'wap.sp6080.com', 'www.hhsp.in', 'btdad3.xyz', 'kuaikan66.com', '6969xs.de', 'zzztch.com', 'bt.btdad.us', 'www.4gdiy.com', 'www.tzhrtzxp.top', '8a8d8.com', 'mutvideo.cc', 'www.888dyy.cc', 'btdad2.xyz', 'nftv112.xyz', 'www.11txt.com', 'm.6969xs.de', 'www.24yyy.com', 'www.96dushu.com', '119qwdqw.qpeorudfmsa.com', 'm.0550cq.com', 'www.wanmeikankan.net', 'www.lfszjy.com', '4hu12e.com', 'www.united-compressor.com', 'ekpcicgk.xyz', 'ganpian.com', 'www.cbcv.cc', 'hk1.264073395.xyz', 'www.cfhuagong.com', 'www.karata.com', '24yyy.com', 'shop.hostmonit.com', 'www.dpfunded.com', 'dsdnjl.com', '050qmsiq.qpeorudfmsa.com', 'gtqdyy.com', 'killnet.top', 'imgcdn.bbs.liuxingw.com', 'www.mb5060.com', 'www.kunzedu.com', '28et.com', 'whjinwu.com', 'www.gzshanzhijia.com', '17800.net', 'www.btdad2.xyz', 'www.xinpian8.com', 'www.yncareer.com', '8031zz.tv', 'www.liuxingw.com', '092qwdqw.qpeorudfmsa.com', 'txt2re.com', 'www.uu93.com', 'newfemdomvideos.com', 'www.p2007.com', 'www.978c.com', 'www.qkzw.cc', 'www.3dck.com', 'www.zhongziso.top', 'blog.nakeu.cn', 'www.whwanet.com', 'c384n.com', 'wrwhwy.com', 'www.77ty.com', 'www.tvccc.org', 'www.zzztch.com', 'www.penglecheng.com', '262690.com', '058qmsiq.qpeorudfmsa.com', 'anluyg.net', 'hhsp.in', 'www.naimilu.com', 'hk.918518.xyz', 'stock.hostmonit.com', 'www.btdad.pw', '4499.us', 'www.fnyyw.net', 'www.zaaae.com', 'www.kuaikan66.com', 'pkdytt.com', 'www.lyzdzy.com', 'www.tv9090.com', 'www.pkdytt.com', 'www.whpaiger.com', 'btdad.life', 'www.kxgdyw.com', 'www.75uw.com', 'www.txt2re.com', 'cdn.nakeu.cn', 'm.tvccc.org', 'www.wn01.uk', 'www.bdx100.com', '037uejcmd.qpeorudfmsa.com', 'liuxingw.com', 'www.xpj844.com', 'www.70ts.com', 'www.btdad.icu', 'karata.com', 'qkzw.cc', 'www.wn01.cc', 'www.92mili.com', 'sysy8.com', 'ismosys.com', 'img.free-img.com', 'bzkz.xyz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'shop.liuxingw.com', 'bt.ciliba.cyou', 'www.manhuadb.com', 'bt.btdad2.xyz', 'www.13gang.com', 'thep2649.cc', 'www.bison.com.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for hk.918518.xyz...
+Performing DNS lookup for wap.sp6080.com...
+Performing DNS lookup for 8031zz.tv...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
