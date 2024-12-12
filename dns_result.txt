@@ -1,31 +1,51 @@
+Server:		8.8.4.4
+Address:	8.8.4.4#53
+
+Non-authoritative answer:
+www.qdxqgc.com	canonical name = qddns.hnyjg.top.
+qddns.hnyjg.top	canonical name = dns456.wsyhu.top.
+Name:	dns456.wsyhu.top
+Address: 104.21.112.1
+Name:	dns456.wsyhu.top
+Address: 104.21.32.1
+Name:	dns456.wsyhu.top
+Address: 104.21.80.1
+Name:	dns456.wsyhu.top
+Address: 104.21.16.1
+Name:	dns456.wsyhu.top
+Address: 104.21.64.1
+Name:	dns456.wsyhu.top
+Address: 104.21.48.1
+Name:	dns456.wsyhu.top
+Address: 104.21.96.1
+
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-114514.1919180.xyz	canonical name = abc.072122.xyz.
-Name:	abc.072122.xyz
-Address: 104.21.86.136
-Name:	abc.072122.xyz
-Address: 172.67.220.89
-Name:	abc.072122.xyz
-Address: 2606:4700:3033::6815:5688
-Name:	abc.072122.xyz
-Address: 2606:4700:3034::ac43:dc59
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find wap.xbiquge.me: NXDOMAIN
+www.lsvisionhd.com	canonical name = sea-c221.custom.wppw.net.
+sea-c221.custom.wppw.net	canonical name = cdn.476666.xyz.
+Name:	cdn.476666.xyz
+Address: 172.67.148.111
+Name:	cdn.476666.xyz
+Address: 104.21.87.238
+Name:	cdn.476666.xyz
+Address: 2606:4700:3030::ac43:946f
+Name:	cdn.476666.xyz
+Address: 2606:4700:3031::6815:57ee
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xiuluo942.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
+www.zyprototype.com	canonical name = sea-c221.custom.wppw.net.
+sea-c221.custom.wppw.net	canonical name = cdn.476666.xyz.
+Name:	cdn.476666.xyz
+Address: 172.67.148.111
+Name:	cdn.476666.xyz
+Address: 104.21.87.238
+Name:	cdn.476666.xyz
+Address: 2606:4700:3030::ac43:946f
+Name:	cdn.476666.xyz
+Address: 2606:4700:3031::6815:57ee
 
