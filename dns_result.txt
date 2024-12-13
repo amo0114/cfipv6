@@ -1,19 +1,35 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.haha1.top: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
 Non-authoritative answer:
-Name:	www.z2py.com
-Address: 104.247.81.52
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	deltaexploits.net
+Name:	www.luwangyangrong.com
+Address: 172.232.31.180
+Name:	www.luwangyangrong.com
 Address: 172.232.25.148
+Name:	www.luwangyangrong.com
+Address: 172.232.4.213
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.nsisfans.com	canonical name = cf.080814.xyz.
+Name:	cf.080814.xyz
+Address: 104.21.72.152
+Name:	cf.080814.xyz
+Address: 172.67.186.69
+Name:	cf.080814.xyz
+Address: 2606:4700:3035::6815:4898
+Name:	cf.080814.xyz
+Address: 2606:4700:3034::ac43:ba45
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+phaa.entrust.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global31.66666654.xyz.
+Name:	cfcn-a-global31.66666654.xyz
+Address: 104.17.254.170
 
