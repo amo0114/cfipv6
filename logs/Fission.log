@@ -16327,3 +16327,25 @@ Performing DNS lookup for yh.yjyfdc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a0fa996] Update project files
+ 4 files changed, 71 insertions(+), 55 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   b72ddee..a0fa996  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.59.32...
+Fetching domains for 104.17.157.205...
+Fetching domains for 104.17.99.220...
+succeed to fetch domains for 104.17.157.205 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.59.32 from https://site.ip138.com/
+succeed to fetch domains for 104.17.99.220 from https://ipchaxun.com/
+域名列表为
+['www.7749tv.com', '555dy1.com', 'www.555dy8.com', 'www.cgfxw.com', '789kp.com', 'o8tv.com', '630book.com', 'www.66se14.com', 'www.yncareer.com', 'www.piaotian.org', 'www.555dy1.com', 'www.ddwhm.com', 'hk.wish.ml', 'www.ynradiology.net', 'www.1xiaoshuo.com', 'www.52bqg.net', 'www.kunzedu.com', 'www.456gg.com', 'www.99wxw.cc', '66se.tv', 'www.630book.com', 'www.icaqd.com', 'acjp2.cloudflarest.link', 'www.tvccc.org', 'yh6.dtku41.xyz', 'www.xigua5.com', 'ynradiology.net', 'www.b7yy.cc', '66se14.com', 'tuaofdc.cn', 'www.789kp.com', 'www.zzztch.com', 'www.28et.com', 'm.niuerzs.com', 'www.o8tv.com', '555dy.me', 'www.yyxxi.com', 'yyxxi.com', 'www.manhuadb.com', 'www.zhiqihuo.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.o8tv.com...
+Performing DNS lookup for 555dy1.com...
+Performing DNS lookup for www.piaotian.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

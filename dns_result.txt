@@ -1,35 +1,19 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.o8tv.com
-Address: 172.67.166.244
-Name:	www.o8tv.com
-Address: 104.21.16.82
-Name:	www.o8tv.com
-Address: 2606:4700:3033::6815:1052
-Name:	www.o8tv.com
-Address: 2606:4700:3033::ac43:a6f4
+** server can't find www.haha1.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	555dy1.com
-Address: 23.224.179.148
-Name:	555dy1.com
-Address: 172.247.18.163
-Name:	555dy1.com
-Address: 23.225.61.180
-Name:	555dy1.com
-Address: 23.225.248.101
-Name:	555dy1.com
-Address: 137.220.130.105
+Name:	www.z2py.com
+Address: 104.247.81.52
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.piaotian.org: SERVFAIL
+Non-authoritative answer:
+Name:	deltaexploits.net
+Address: 172.232.25.148
 
