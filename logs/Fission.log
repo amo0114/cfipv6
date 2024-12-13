@@ -16397,3 +16397,25 @@ Performing DNS lookup for phaa.entrust.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3eb6479] Update project files
+ 4 files changed, 61 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   a49495f..3eb6479  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.77.110...
+Fetching domains for 104.21.230.40...
+Fetching domains for 104.16.234.67...
+succeed to fetch domains for 104.21.77.110 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.230.40 from https://site.ip138.com/
+succeed to fetch domains for 104.16.234.67 from https://ipchaxun.com/
+域名列表为
+['www.91m.cc', 'dsxys.com', 'www.kk090.com', 'www.lzqh.net', 'unsuv.cn', 'ww1.fijidown.com', 'www.bikemore.cn', 'www.dyssqhhlw.com', 'www.dyxs8.xyz', 'ggpk.me', 'www.92mili.com', 'krogerapp.vip', 'a4301t.top', 'www.a4301t.top', '8x3jpq.xyz', 'hey-ai.com', 'p25.06img.cc', 'www.realopty.top', 'pay.lzqh.net', 'www.ddwhm.com', '74143.com', 'www.liangyucm.com', 'www.902c0.com', 'nkkb01.com', 'cfip.201043.xyz', 'showdoc.rhcsujg.site', '8mei426.top', 'kk090.com', 'm.ss781my.top', 'www.zzztch.com', 'www.hey-ai.com', 'cf.aaok.vip', 'www.cfhuagong.com', 'liangyucm.com', 'wap.a4301t.top', 'www.pingshu365.com', '902c0.com', '3g.a4301t.top', 'www.htrbgck.cn', 'dyxs8.xyz', 'cf.cdn.cmliu.net', 'www.qumiyun.com', 'www.74143.com', 'www.8x3jpq.xyz', 'www.4j4j.cn', 'ww1.06img.cc', 'bm7bm.com', 'www.nodeconn.com', 'www.ss781my.top', 'www.summerpockets.com', 'www.28et.com', 'www.76jj76.net', 'qiutianquan.top', 'www.6988tv.com', 'www.cgfxw.com', 'realopty.top', 'www.seom.se', 'cfip.xxxxxxxx.tk', 'tlxhnet.com', 'www.nsisfans.com', 'wexin.wydz6.cn', '3g.realopty.top', 'seom.se', 'ss781my.top', 'senhuoge.com', 'wap.realopty.top', 'www.whpaiger.com', 'www.lyzdzy.com', 'cdn.cf.clun.top', 'c.lzqh.net', 'm.niuerzs.com', 'cao.pp.ua']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for realopty.top...
+Performing DNS lookup for ww1.fijidown.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

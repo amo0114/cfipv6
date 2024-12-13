@@ -2,29 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find realopty.top: NXDOMAIN
+Name:	www.haiquankeji.com
+Address: 172.87.25.48
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-ww1.fijidown.com	canonical name = ww1.010dwn.com.
-Name:	ww1.010dwn.com
-Address: 172.67.70.150
-Name:	ww1.010dwn.com
-Address: 104.26.10.188
-Name:	ww1.010dwn.com
-Address: 104.26.11.188
-Name:	ww1.010dwn.com
-Address: 2606:4700:20::681a:bbc
-Name:	ww1.010dwn.com
-Address: 2606:4700:20::ac43:4696
-Name:	ww1.010dwn.com
-Address: 2606:4700:20::681a:abc
+Name:	www871678.com
+Address: 137.175.50.23
+
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+Non-authoritative answer:
+Name:	3g.eygvma.top
+Address: 172.67.134.174
+Name:	3g.eygvma.top
+Address: 104.21.25.210
+Name:	3g.eygvma.top
+Address: 2606:4700:3034::ac43:86ae
+Name:	3g.eygvma.top
+Address: 2606:4700:3032::6815:19d2
 
