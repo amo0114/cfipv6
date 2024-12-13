@@ -2,34 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kukedy.tv
-Address: 208.98.43.74
+Name:	kan234.com
+Address: 172.67.211.76
+Name:	kan234.com
+Address: 104.21.23.133
+Name:	kan234.com
+Address: 2606:4700:3036::6815:1785
+Name:	kan234.com
+Address: 2606:4700:3031::ac43:d34c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	calmlab.com
-Address: 172.67.203.49
-Name:	calmlab.com
-Address: 104.21.69.29
-Name:	calmlab.com
-Address: 2606:4700:3031::ac43:cb31
-Name:	calmlab.com
-Address: 2606:4700:3036::6815:451d
+** server can't find www.dzy66666.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.iios.me	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+** server can't find www.11amy.com: NXDOMAIN
 
