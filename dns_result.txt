@@ -2,28 +2,41 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.hswxs.com
-Address: 192.151.211.146
-Name:	www.hswxs.com
-Address: 192.151.211.19
+www.17kty.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.128.202
+Name:	cf.zmdhc.com
+Address: 172.67.165.27
+Name:	cf.zmdhc.com
+Address: 172.67.142.168
+Name:	cf.zmdhc.com
+Address: 172.67.150.18
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.huaxuan-media.com
-Address: 154.215.144.134
+www.c333.net	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cdn.baka9.eu.org
-Address: 172.67.176.56
-Name:	cdn.baka9.eu.org
-Address: 104.21.31.106
-Name:	cdn.baka9.eu.org
-Address: 2606:4700:3035::ac43:b038
-Name:	cdn.baka9.eu.org
-Address: 2606:4700:3036::6815:1f6a
+www.agribiztv.com	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
 

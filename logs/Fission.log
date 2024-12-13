@@ -16441,3 +16441,25 @@ Performing DNS lookup for 3g.eygvma.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 11dcfc8] Update project files
+ 4 files changed, 61 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   fcba6b5..11dcfc8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.31.106...
+Fetching domains for 104.18.153.216...
+Fetching domains for 104.22.19.67...
+succeed to fetch domains for 104.18.153.216 from https://site.ip138.com/
+succeed to fetch domains for 104.21.31.106 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.19.67 from https://ipchaxun.com/
+域名列表为
+['xhg1001.com', 'cfip.xxxxxxxx.tk', 'ghser.com', 'jxzb9999.net', 'f03.twtv0300.com', '3g.weixingjjm.top', 'ajqfvnltpx.com', 'cdn.baka9.eu.org', 'www.zzztch.com', 'www.4hudy778.com', 'www.dybz88888.com', 'freesafeporn.com', 'my8881.com', '1129999.net', 'www.1129999.net', '69170077.com', 'cirno.baka9.eu.org', 'pctupd.info', 'akxs.org', 'www.akxs.org', 'www.lvshitian.com', '4hupp18.com', 'hgdd18.app', 'x.dawn.com', 'muchuanrencai.com', 'www.75uw.com', 'www.muchuanrencai.com', 'www.heiye622.com', 'plasticssheet.com', 'www.bitdu.club', 'www.huaxuan-media.com', 'www.942578.top', 'www.ordknives.co.uk', 'www.xcc121.com', 'www.hswxs.com', 'www.532dd.com', 'www.letsvqr.xyz', 'xcc121.com', 'www.4hupp18.com', '44gxgx.com', 'xvdizhi7.sbs', 'zztt87.su', 'www.844yy.com', 'heiye622.com', 'www.kuai.bo', 'www.smiletemplates.com', 'www.essvote.com', 'www.6678yo.com', '532dd.com', 'wpcjf.idm6699.win', 'powderandbulkshow.com', 'u-acg.com', 'www.44gxgx.com', 'kuai.bo', 'www.szyingfanrz.cn', 'www.ygdy8.cc', 'xinchuangdianzi.com', '6678yo.com', 'dybz88888.com', 'api.xinchuangdianzi.com', 'www.plasticssheet.com', 'tuxbase.xyz', '4hudy778.com', 'xsy99.cn', 'mry33.com', 'cosplayonsale.com', 'www.dawn.com', 'id1sz8r.idm6699.win', 'www.my8881.com', 'mondialrelay.fr', 'dewustore1669.vip', 'www.xinchuangdianzi.com', '844yy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.hswxs.com...
+Performing DNS lookup for www.huaxuan-media.com...
+Performing DNS lookup for cdn.baka9.eu.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
