@@ -2,35 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-tv9box.com	canonical name = cdn000198.banode301.com.
-cdn000198.banode301.com	canonical name = cdn000198.qsnode301.com.
-Name:	cdn000198.qsnode301.com
-Address: 192.151.224.164
+Name:	www.eyhlxdj.com
+Address: 154.85.210.173
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+Name:	18moe.net
+Address: 104.21.9.75
+Name:	18moe.net
+Address: 172.67.159.76
+Name:	18moe.net
+Address: 2606:4700:3037::6815:94b
+Name:	18moe.net
+Address: 2606:4700:3036::ac43:9f4c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.66.133
-Name:	ips.993888.xyz
-Address: 104.17.53.53
-Name:	ips.993888.xyz
-Address: 104.17.109.107
+Name:	www.kk554.com
+Address: 23.225.33.88
 
