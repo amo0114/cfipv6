@@ -2,35 +2,46 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.bonusfinder.co.uk
-Address: 172.66.40.159
-Name:	www.bonusfinder.co.uk
-Address: 172.66.43.97
-Name:	www.bonusfinder.co.uk
-Address: 2606:4700:3108::ac42:2b61
-Name:	www.bonusfinder.co.uk
-Address: 2606:4700:3108::ac42:289f
+www.guozhi.org	canonical name = ips.333600.xyz.
+ips.333600.xyz	canonical name = dns.danmeii.com.
+Name:	dns.danmeii.com
+Address: 104.21.96.1
+Name:	dns.danmeii.com
+Address: 104.21.16.1
+Name:	dns.danmeii.com
+Address: 104.21.48.1
+Name:	dns.danmeii.com
+Address: 104.21.64.1
+Name:	dns.danmeii.com
+Address: 104.21.112.1
+Name:	dns.danmeii.com
+Address: 104.21.32.1
+Name:	dns.danmeii.com
+Address: 104.21.80.1
+Name:	dns.danmeii.com
+Address: 2606:4700:3030::6815:4001
+Name:	dns.danmeii.com
+Address: 2606:4700:3030::6815:7001
+Name:	dns.danmeii.com
+Address: 2606:4700:3030::6815:3001
+Name:	dns.danmeii.com
+Address: 2606:4700:3030::6815:6001
+Name:	dns.danmeii.com
+Address: 2606:4700:3030::6815:2001
+Name:	dns.danmeii.com
+Address: 2606:4700:3030::6815:5001
+Name:	dns.danmeii.com
+Address: 2606:4700:3030::6815:1001
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-spca.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global3.66666654.xyz.
-Name:	cfcn-a-global3.66666654.xyz
-Address: 104.17.253.20
+Name:	www.sjzsckj.com
+Address: 208.98.40.206
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.cloudyflex.com
-Address: 172.66.43.97
-Name:	www.cloudyflex.com
-Address: 172.66.40.159
-Name:	www.cloudyflex.com
-Address: 2606:4700:3108::ac42:289f
-Name:	www.cloudyflex.com
-Address: 2606:4700:3108::ac42:2b61
+** server can't find midsecltion.tk: NXDOMAIN
 

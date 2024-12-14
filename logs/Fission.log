@@ -16573,3 +16573,25 @@ Performing DNS lookup for www.99wx.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b1247b5] Update project files
+ 4 files changed, 66 insertions(+), 76 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   c04cdd4..b1247b5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.244.233...
+Fetching domains for 104.17.253.154...
+Fetching domains for 172.66.43.97...
+succeed to fetch domains for 104.17.253.154 from https://site.ip138.com/
+succeed to fetch domains for 190.93.244.233 from https://dnsdblookup.com/
+succeed to fetch domains for 172.66.43.97 from https://site.ip138.com/
+域名列表为
+['wei333.com', 'spca.114514782.xyz', 'www.ttmjtt.com', 'www.proceedings.blucher.com.br', 'uu93.com', 'www.womyt.com', 'www.vpn-experte.com', 'www.getapp.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.vcd.la', 'sociomile.net', 'theeventscalendar.com', 'www.v2raz.vip', 'www.xiaoshuofen.com', 'www.blucher.com.br', 'sleepfoundation.org', 'www.yhddsb.com', 'www.11txt.com', 'dictanote.co', 'www.tv1080.com', 'www.978c.com', 'jjtyss.com', 'www.w88988.net', 'blucher.com.br', 'www.xxpg888.com', 'majortom.com', 'aktv.top', 'www.whpaiger.com', 'www.sxyzxh.com', 'vergleich.vpn-experte.com', 'relayto.com', 'vectorlabs.com', 'planetrenders.net', 'discovermuscatine.com', 'www.123soha.com', '66ccff.cc', 'www.uu93.com', 'www.hzjmled.com', 'tv.ci', 'vpn-experte.com', 'www.cloudyflex.com', 'www.federa.com', 'www.51kuer.com', 'untalent.org', 'sbobetsh.com', 'igao.mdr.com', 'www.littlepotatoes.com', 'www.cocanwelding.com', 'www.0550cq.com', 'www.jsjkyy.com', 'www.qp666.com', 'www.888dyy.cc', '2dd.cc', 'www.jjdxsc.com', 'pocketsmith.com', 'ethnologue.com', 'www.weightworld.se', 'okfenfa.xyz', 'stack3d.com', 'skycheats.com', 'type.brankas.moe', 'tm992.com', 'techvidvan.com', '4gdiy.com', 'cf-lt.sharecentre.online', 'www.ethnologue.com', 'auth.brankas.moe', 'www.bonusfinder.co.uk', 'app.sociomile.net', 'ude898.com', 'www.yncareer.com', 'zzsj.vip', 'www.knvod.com', 'www.icpms.com', 'www.inx.co', 'www.lailai360.com', 'www.stack3d.com', 'bbs.66ccff.cc', 'mdr.com', 'www.nitianzw.com', 'www.e0101.com', 'cfip.xxxxxxxx.tk', 'fusolab.net', 'www.dafuhao.com', 'w88988.net', 'www.bimiacg.net', 'www.xiaowenduo.com', 'www.kjyxyw.com', 'm.mw171.com', 'shiyue00.eu.org', 'www.tm992.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.bonusfinder.co.uk...
+Performing DNS lookup for spca.114514782.xyz...
+Performing DNS lookup for www.cloudyflex.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
