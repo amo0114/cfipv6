@@ -16682,3 +16682,25 @@ Performing DNS lookup for macvbb.555556789.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 25982a6] Update project files
+ 4 files changed, 51 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (91%)
+To github.com:amo0114/cfipv6.git
+   c41d998..25982a6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.111.85...
+Fetching domains for 104.17.188.51...
+Fetching domains for 104.17.98.72...
+succeed to fetch domains for 104.17.98.72 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.111.85 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.188.51 from https://site.ip138.com/
+域名列表为
+['www.xinjuc.com', 'www.xigua5.com', 'kyj36.com', 'www.cfhuagong.com', 'bfb3.com', 'www.kunzedu.com', 'bestcf.onecf.eu.org', 'www.kyj36.com', 'www.cocanwelding.com', '75uw.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for bfb3.com...
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for www.kyj36.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
