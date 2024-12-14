@@ -1,26 +1,58 @@
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.77zw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.37.1
-Name:	ips.993888.xyz
-Address: 104.16.248.6
-Name:	ips.993888.xyz
-Address: 104.17.53.254
+Name:	www.cf8dc.com
+Address: 172.67.216.21
+Name:	www.cf8dc.com
+Address: 104.21.69.249
+Name:	www.cf8dc.com
+Address: 2606:4700:3033::6815:45f9
+Name:	www.cf8dc.com
+Address: 2606:4700:3035::ac43:d815
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	acus.cloudflarest.link
-Address: 104.247.82.50
+Name:	wap.pnjhhv.top
+Address: 104.21.96.1
+Name:	wap.pnjhhv.top
+Address: 104.21.32.1
+Name:	wap.pnjhhv.top
+Address: 104.21.112.1
+Name:	wap.pnjhhv.top
+Address: 104.21.64.1
+Name:	wap.pnjhhv.top
+Address: 104.21.80.1
+Name:	wap.pnjhhv.top
+Address: 104.21.48.1
+Name:	wap.pnjhhv.top
+Address: 104.21.16.1
+Name:	wap.pnjhhv.top
+Address: 2606:4700:3030::6815:2001
+Name:	wap.pnjhhv.top
+Address: 2606:4700:3030::6815:5001
+Name:	wap.pnjhhv.top
+Address: 2606:4700:3030::6815:1001
+Name:	wap.pnjhhv.top
+Address: 2606:4700:3030::6815:6001
+Name:	wap.pnjhhv.top
+Address: 2606:4700:3030::6815:3001
+Name:	wap.pnjhhv.top
+Address: 2606:4700:3030::6815:4001
+Name:	wap.pnjhhv.top
+Address: 2606:4700:3030::6815:7001
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find 28et.com: SERVFAIL
+Non-authoritative answer:
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.14.211
+Name:	ips.993888.xyz
+Address: 104.17.139.13
+Name:	ips.993888.xyz
+Address: 104.17.100.102
 

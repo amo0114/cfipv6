@@ -16529,3 +16529,25 @@ Performing DNS lookup for www.11amy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 956ceef] Update project files
+ 4 files changed, 59 insertions(+), 31 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   f160405..956ceef  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.219.250...
+Fetching domains for 104.16.233.172...
+Fetching domains for 104.17.12.190...
+succeed to fetch domains for 198.41.219.250 from https://site.ip138.com/
+succeed to fetch domains for 104.17.12.190 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.233.172 from https://ipchaxun.com/
+域名列表为
+['www.dmbj.cc', 'cfip.xxxxxxxx.tk', 'yx.887141.xyz', 'www.77zw.cc', 'www.whpaiger.com', 'ipdb.rr.nu', 'yh6.dtku41.xyz', 'www.zzztch.com', 'm.niuerzs.com', 'www.yncareer.com', '28et.com', 'www.iios.club', 'bestcf.onecf.eu.org', 'acus.cloudflarest.link']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.77zw.cc...
+Performing DNS lookup for acus.cloudflarest.link...
+Performing DNS lookup for 28et.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
