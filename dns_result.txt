@@ -2,57 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cf8dc.com
-Address: 172.67.216.21
-Name:	www.cf8dc.com
-Address: 104.21.69.249
-Name:	www.cf8dc.com
-Address: 2606:4700:3033::6815:45f9
-Name:	www.cf8dc.com
-Address: 2606:4700:3035::ac43:d815
+Name:	www.bonusfinder.co.uk
+Address: 172.66.40.159
+Name:	www.bonusfinder.co.uk
+Address: 172.66.43.97
+Name:	www.bonusfinder.co.uk
+Address: 2606:4700:3108::ac42:2b61
+Name:	www.bonusfinder.co.uk
+Address: 2606:4700:3108::ac42:289f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wap.pnjhhv.top
-Address: 104.21.96.1
-Name:	wap.pnjhhv.top
-Address: 104.21.32.1
-Name:	wap.pnjhhv.top
-Address: 104.21.112.1
-Name:	wap.pnjhhv.top
-Address: 104.21.64.1
-Name:	wap.pnjhhv.top
-Address: 104.21.80.1
-Name:	wap.pnjhhv.top
-Address: 104.21.48.1
-Name:	wap.pnjhhv.top
-Address: 104.21.16.1
-Name:	wap.pnjhhv.top
-Address: 2606:4700:3030::6815:2001
-Name:	wap.pnjhhv.top
-Address: 2606:4700:3030::6815:5001
-Name:	wap.pnjhhv.top
-Address: 2606:4700:3030::6815:1001
-Name:	wap.pnjhhv.top
-Address: 2606:4700:3030::6815:6001
-Name:	wap.pnjhhv.top
-Address: 2606:4700:3030::6815:3001
-Name:	wap.pnjhhv.top
-Address: 2606:4700:3030::6815:4001
-Name:	wap.pnjhhv.top
-Address: 2606:4700:3030::6815:7001
+spca.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global3.66666654.xyz.
+Name:	cfcn-a-global3.66666654.xyz
+Address: 104.17.253.20
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.14.211
-Name:	ips.993888.xyz
-Address: 104.17.139.13
-Name:	ips.993888.xyz
-Address: 104.17.100.102
+Name:	www.cloudyflex.com
+Address: 172.66.43.97
+Name:	www.cloudyflex.com
+Address: 172.66.40.159
+Name:	www.cloudyflex.com
+Address: 2606:4700:3108::ac42:289f
+Name:	www.cloudyflex.com
+Address: 2606:4700:3108::ac42:2b61
 

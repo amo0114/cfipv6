@@ -16551,3 +16551,25 @@ Performing DNS lookup for 28et.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c04cdd4] Update project files
+ 4 files changed, 98 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   956ceef..c04cdd4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.228.82...
+Fetching domains for 104.21.91.109...
+Fetching domains for 104.17.205.135...
+succeed to fetch domains for 104.17.205.135 from https://site.ip138.com/
+succeed to fetch domains for 104.21.228.82 from https://site.ip138.com/
+succeed to fetch domains for 104.21.91.109 from https://dnsdblookup.com/
+域名列表为
+['thep4539.cc', 'www.55evd.com', 'freeyx.cloudflare88.eu.org', 'www.yjys05.com', 'fulipan.info', 'hy9nb95.top', 'pnjhhv.top', 'www.laomitong.com', 'bz.gf2bn0lol.xyz', 'www.qindixs.com', 'www.hzt99.com', 'www.gogo12345.cn', 'hzt99.com', 'm.pnjhhv.top', 'cf8dc.com', 'xuyan.cc', 'zerxzonline.com', 'yunb.tv', 'app.tmp.link', 'www.wn01.cc', 'www.315kc.com', 'www.zycie.pila.pl', 'www.ydwltech.com', 'www.luwangyangrong.com', 'dolcn.zerxzonline.com', 'www.bxwx10.com', 'app2.yy55.me', 'www.pnjhhv.top', 'yulinzhanye6.xyz', 'www.cf8dc.com', 'esm89.com', '404xav92.xyz', 'bn2u56vhs7c.asia', 'kanju.wang', 'lai533.com', 'chunbb.sectigo.pp.ua', 'mxx399.com', 'www.mxx399.com', 'ads.todos777.com', 'www.njxnjy.com', '1286369.com', 'www.loluta.com', 'yy55.me', 'm.hy9nb95.top', 'www.smizuav.cc', 'ifcstore.cn', 'www.99wx.cc', 'vpro11.win', 'njxnjy.com', 'ja.photo2image.casa', 'www.sxyouke.cn', 'proxy.dial.to', 'pointemagazine.com', 'myfamilyortho.com', 'www.tmp.link', 'www.mofacat.cn', 'www.yunb.tv', 'metmac.com', 'tmp.link', 'wap.pnjhhv.top', 'tongtengshiye.com', 'www.sc-qtsteam.com', 'www.lai533.com', 'mingshizaixia.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cf8dc.com...
+Performing DNS lookup for wap.pnjhhv.top...
+Performing DNS lookup for www.99wx.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
