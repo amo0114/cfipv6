@@ -2,46 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.guozhi.org	canonical name = ips.333600.xyz.
-ips.333600.xyz	canonical name = dns.danmeii.com.
-Name:	dns.danmeii.com
-Address: 104.21.96.1
-Name:	dns.danmeii.com
-Address: 104.21.16.1
-Name:	dns.danmeii.com
-Address: 104.21.48.1
-Name:	dns.danmeii.com
-Address: 104.21.64.1
-Name:	dns.danmeii.com
-Address: 104.21.112.1
-Name:	dns.danmeii.com
-Address: 104.21.32.1
-Name:	dns.danmeii.com
-Address: 104.21.80.1
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:4001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:7001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:3001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:6001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:2001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:5001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:1001
+tv9box.com	canonical name = cdn000198.banode301.com.
+cdn000198.banode301.com	canonical name = cdn000198.qsnode301.com.
+Name:	cdn000198.qsnode301.com
+Address: 192.151.224.164
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.sjzsckj.com
-Address: 208.98.40.206
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find midsecltion.tk: NXDOMAIN
+Non-authoritative answer:
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.66.133
+Name:	ips.993888.xyz
+Address: 104.17.53.53
+Name:	ips.993888.xyz
+Address: 104.17.109.107
 

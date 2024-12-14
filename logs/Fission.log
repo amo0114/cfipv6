@@ -16595,3 +16595,25 @@ Performing DNS lookup for www.cloudyflex.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 71ca605] Update project files
+ 4 files changed, 83 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   b1247b5..71ca605  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.64.243...
+Fetching domains for 104.18.37.147...
+Fetching domains for 108.162.193.180...
+succeed to fetch domains for 104.17.64.243 from https://site.ip138.com/
+succeed to fetch domains for 104.18.37.147 from https://ipchaxun.com/
+succeed to fetch domains for 108.162.193.180 from https://dnsdblookup.com/
+域名列表为
+['www.gl67y5.cn', 'www.guozhi.org', 'www.schtbz.com', 'www.bdx100.com', '08009.com', 'www.cocanwelding.com', 'hcxns.org', 'www.5aihh.cn', 'mec222.com', 'www.j9062t.com', 'ehvtx.online', 'www.sjzsckj.com', 'www.dzy66666.com', 'www.goodwood.com', 'www.ehvtx.online', 'www.uutte.com', 'jp.automaton.am', 'cdn03.quay.io', 'www.midsecltion.tk', 'login.dfinsolutions.com', 'www.xlwuu.cn', 'sexchatlive.org', 'jeremy.ns.cloudflare.com', 'www.zlcq520.com', 'www.k8467w.com', 'k8467w.com', 'www.ukpx1u.cn', 'gcgvfep.com', 'midsecltion.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.guozhi.org...
+Performing DNS lookup for www.sjzsckj.com...
+Performing DNS lookup for midsecltion.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
