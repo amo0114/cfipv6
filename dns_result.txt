@@ -1,50 +1,45 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	uu93.com
-Address: 104.21.64.1
-Name:	uu93.com
-Address: 104.21.96.1
-Name:	uu93.com
-Address: 104.21.32.1
-Name:	uu93.com
-Address: 104.21.16.1
-Name:	uu93.com
-Address: 104.21.112.1
-Name:	uu93.com
-Address: 104.21.80.1
-Name:	uu93.com
-Address: 104.21.48.1
-Name:	uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:6001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:5001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:2001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:1001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:7001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:3001
+** server can't find 7.namesilo123.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.140.87
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.237.33
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.252.57
+Name:	okdiario.com
+Address: 104.18.18.5
+Name:	okdiario.com
+Address: 104.18.19.5
+Name:	okdiario.com
+Address: 2606:4700::6812:1205
+Name:	okdiario.com
+Address: 2606:4700::6812:1305
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find 115155.xyz: No answer
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
 
