@@ -16861,3 +16861,25 @@ Performing DNS lookup for www.6988tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9922dba] Update project files
+ 4 files changed, 60 insertions(+), 57 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   36424b3..9922dba  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.138.179...
+Fetching domains for 104.21.36.92...
+Fetching domains for 108.162.194.53...
+succeed to fetch domains for 108.162.194.53 from https://site.ip138.com/
+succeed to fetch domains for 104.21.36.92 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.138.179 from https://dnsdblookup.com/
+域名列表为
+['bzske.top', '64maoab.com', 'zouxizang.com', 'www.wife91.info', 'www.ynguohai.com', 'www.lalawbf.cn', 'nogi46.me', 'a48e.com', 'ghzko17.site', 'www.kwwbfxd.cn', 'hjc4edf.top', 'www.feiyangxinyue.com', 'katja.ns.cloudflare.com.cdn.cloudflare.net', 'mmheje.com', 'katja.ns.cloudflare.com', 'www.lanhaijiasu.me', 'lai992.com', 'www.iios.club', 'yx.lj888.cloudns.biz', 'www.rklsm.com', 'hm.hanmzj.com', 'www.nyafun.net', 'm-piku-tv-tudou.pikudeffd94.com', 'www.ikantv.net', '1688807.vip', 'www.tncn65.com', 'www.yanxiit.com', 'heep9fq.top', 'www.7z9a.com', 'hanmzj.com', 'www.38198.com', '38198.com', 'yanxiit.com', 'lanhaijiasu.me', 'nas.northbird.ml', 'www.sucai-fengbao.com', 'www.gntkids.com', 'novamurus.com', 'bums-bus.com', 'www.hanmzj.com', 'www.whpaiger.com', 'www.728ka.cn', 'wap.bzske.top', 'www.lai992.com', 'app.134120.com', 'www.a48e.com', '134120.com', 'amatyoga.cn', 'www.bzske.top', 'pay.134120.com', 'jd.jx1036.cn', 'www.mmheje.com', '3g.bzske.top', 'm.bzske.top', 'www.iios.fun', 'www.penglecheng.com', '91av484.top', 'showby.top', 'www.64maoab.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for katja.ns.cloudflare.com.cdn.cloudflare.net...
+Performing DNS lookup for www.wife91.info...
+Performing DNS lookup for www.gntkids.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,28 +2,48 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
-Address: 162.159.38.53
-Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
-Address: 108.162.194.53
-Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
-Address: 172.64.34.53
-Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
-Address: 2a06:98c1:50::ac40:2235
-Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
-Address: 2803:f800:50::6ca2:c235
-Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
-Address: 2606:4700:50::a29f:2635
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.wife91.info: NXDOMAIN
+Name:	www.lyzdzy.com
+Address: 208.98.43.19
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.gntkids.com
-Address: 23.19.200.87
+ct.090227.xyz	canonical name = ct.hw.090227.xyz.
+ct.hw.090227.xyz	canonical name = xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz.
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	xn--fiq8ko5eucw15ay4lvkq6qiujx787eyme.xn--bsuo0e4vdh63b.xn--cpqxea39sba872ajn386a7s8ectrq96a.xn--4gq4ve5ff0s15ciuhey6e.xn--41tp7fuxa474m.xn--fiqs8svwbxj594csibz33d97pyvz.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.456gg.com	canonical name = 456gg.haofanghu123.com.
+456gg.haofanghu123.com	canonical name = www.456gg.com.cdn.cloudflare.net.
+Name:	www.456gg.com.cdn.cloudflare.net
+Address: 104.21.76.67
+Name:	www.456gg.com.cdn.cloudflare.net
+Address: 172.67.190.240
+Name:	www.456gg.com.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:4c43
+Name:	www.456gg.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:bef0
 
