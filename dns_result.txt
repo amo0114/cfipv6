@@ -2,38 +2,49 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	rcwkybai.xyz
-Address: 104.21.55.114
-Name:	rcwkybai.xyz
-Address: 172.67.171.32
-Name:	rcwkybai.xyz
-Address: 2606:4700:3036::6815:3772
-Name:	rcwkybai.xyz
-Address: 2606:4700:3037::ac43:ab20
+Name:	uu93.com
+Address: 104.21.64.1
+Name:	uu93.com
+Address: 104.21.96.1
+Name:	uu93.com
+Address: 104.21.32.1
+Name:	uu93.com
+Address: 104.21.16.1
+Name:	uu93.com
+Address: 104.21.112.1
+Name:	uu93.com
+Address: 104.21.80.1
+Name:	uu93.com
+Address: 104.21.48.1
+Name:	uu93.com
+Address: 2606:4700:3030::6815:4001
+Name:	uu93.com
+Address: 2606:4700:3030::6815:6001
+Name:	uu93.com
+Address: 2606:4700:3030::6815:5001
+Name:	uu93.com
+Address: 2606:4700:3030::6815:2001
+Name:	uu93.com
+Address: 2606:4700:3030::6815:1001
+Name:	uu93.com
+Address: 2606:4700:3030::6815:7001
+Name:	uu93.com
+Address: 2606:4700:3030::6815:3001
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.18comic.icu
-Address: 172.67.197.48
-Name:	www.18comic.icu
-Address: 104.21.74.35
-Name:	www.18comic.icu
-Address: 2606:4700:3037::6815:4a23
-Name:	www.18comic.icu
-Address: 2606:4700:3032::ac43:c530
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.140.87
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.237.33
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.252.57
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	biofil-septic-tank.com
-Address: 172.67.171.32
-Name:	biofil-septic-tank.com
-Address: 104.21.55.114
-Name:	biofil-septic-tank.com
-Address: 2606:4700:3036::6815:3772
-Name:	biofil-septic-tank.com
-Address: 2606:4700:3037::ac43:ab20
+*** Can't find 115155.xyz: No answer
 
