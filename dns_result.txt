@@ -2,26 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.thelocal.se
-Address: 104.18.29.82
-Name:	www.thelocal.se
-Address: 104.18.28.82
-Name:	www.thelocal.se
-Address: 2606:4700::6812:1c52
-Name:	www.thelocal.se
-Address: 2606:4700::6812:1d52
+Name:	rcwkybai.xyz
+Address: 104.21.55.114
+Name:	rcwkybai.xyz
+Address: 172.67.171.32
+Name:	rcwkybai.xyz
+Address: 2606:4700:3036::6815:3772
+Name:	rcwkybai.xyz
+Address: 2606:4700:3037::ac43:ab20
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	3567re.com
-Address: 23.225.33.88
+Name:	www.18comic.icu
+Address: 172.67.197.48
+Name:	www.18comic.icu
+Address: 104.21.74.35
+Name:	www.18comic.icu
+Address: 2606:4700:3037::6815:4a23
+Name:	www.18comic.icu
+Address: 2606:4700:3032::ac43:c530
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.77n.com
-Address: 103.229.66.211
+Name:	biofil-septic-tank.com
+Address: 172.67.171.32
+Name:	biofil-septic-tank.com
+Address: 104.21.55.114
+Name:	biofil-septic-tank.com
+Address: 2606:4700:3036::6815:3772
+Name:	biofil-septic-tank.com
+Address: 2606:4700:3037::ac43:ab20
 
