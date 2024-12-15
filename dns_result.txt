@@ -2,27 +2,23 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tv9090.com
-Address: 208.98.43.78
+usus.diao.icu	canonical name = speed.marisalnc.com.
+speed.marisalnc.com	canonical name = speed-freefly-ctagttb-sjc.dnshtcb.pp.ua.
+speed-freefly-ctagttb-sjc.dnshtcb.pp.ua	canonical name = cfcn-ct-gttb16.dnshtca.pp.ua.
+Name:	cfcn-ct-gttb16.dnshtca.pp.ua
+Address: 172.67.112.123
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	909855.com
-Address: 206.233.165.73
+Name:	4hu24h.com
+Address: 162.209.175.126
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.meijubo.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	d123p.com
+Address: 23.225.33.88
 
