@@ -1,23 +1,27 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find qqw110.com: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find dns1.piero.work: NXDOMAIN
+Non-authoritative answer:
+Name:	www.thelocal.se
+Address: 104.18.29.82
+Name:	www.thelocal.se
+Address: 104.18.28.82
+Name:	www.thelocal.se
+Address: 2606:4700::6812:1c52
+Name:	www.thelocal.se
+Address: 2606:4700::6812:1d52
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	xiaoniao55.buzz
-Address: 104.21.47.203
-Name:	xiaoniao55.buzz
-Address: 172.67.172.116
-Name:	xiaoniao55.buzz
-Address: 2606:4700:3037::6815:2fcb
-Name:	xiaoniao55.buzz
-Address: 2606:4700:3033::ac43:ac74
+Name:	3567re.com
+Address: 23.225.33.88
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.77n.com
+Address: 103.229.66.211
 

@@ -16747,3 +16747,25 @@ Performing DNS lookup for d123p.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main aebf3df] Update project files
+ 4 files changed, 52 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   a36865e..aebf3df  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.90.163...
+Fetching domains for 104.17.192.195...
+Fetching domains for 104.21.47.203...
+succeed to fetch domains for 104.21.90.163 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.192.195 from https://site.ip138.com/
+succeed to fetch domains for 104.21.47.203 from https://site.ip138.com/
+域名列表为
+['14maovip.com', '013.jav128.com', 'obeidarash.ir', 'g.momotex.top', 'aavv.aiav3.top', '91xx.aiav3.top', 'www.k77yy.com', 'www.xinzhixu.top', 'dns1.piero.work', 'lcav.top', 'www.dcupdxx.cn', 'g2.momotex.top', 'xiaoniao55.buzz', 'cctv.aiav3.top', 'www.liangyiteyao.com', 'chengren.amituojingds.com', 'www.n1dy.com', 'www.pz0083.com', 'xxx.aiav3.top', 'hkhk715.cfd', '04.jav128.com', 'www.vcd.la', 'www.najwi.com', 'caobb.aiav3.top', 'aa320.com', 'vttm.aiav3.top', 'qqw110.com', 'www.zypx1797.com', '8888.aiav3.top', 'x3r4.aiav3.top', 'www.aiav3.top', 'jqjqgp.top', 'yiboyyx.com', 'wesoonq.com', 'm.qjrsksw.com', 'n1dy.com', 'www.k9876.com', 'www.alexgift.com', 'www.fbzqcq.top', 'www.lcav.top', 'wap.xinzhixu.top', 'vbw0.aiav3.top', 'g3.momotex.top', 'www.kunzedu.com', 'youliyu.com', 'uqeew.top', '49oooo.com', 'gpt4-openai.com', 'mimi.aiav3.top', '851635.vip', '07.jav128.com', 'dnf321.com', 'x0x0x.aiav3.top', 'z8q5.aiav3.top', 'qfgy.aiav3.top', 'temp.now', 'fbzqcq.top', 'y309n.com', 'xxbb.aiav3.top', 'bycsp4.com', 'www.tichain.cc', 'www.tzuspgo.cn', 'c2000.com', 'www.dnf321.com', 'yyds.aiav3.top', 'bsxv.aiav3.top', '7777.aiav3.top', '2baz.aiav3.top', 'wap.fbzqcq.top', 'sese.aiav3.top', 'yx8888.vip', '168-zr1.com', 'g22t.com', 'allworldcards.today', 'pg5r.aiav3.top', 'sgs678.com', 'www.g22t.com', '3g.igjlwaytlgi.top', '3wj6.aiav3.top', 'www.igjlwaytlgi.top', 'g1.momotex.top', 'chhv.aiav3.top', 'wap.jqjqgp.top', 'huawei.loeilwkqome0815.top', 'www.eqeq7.com', 'www.c2000.com', '07rx.aiav3.top', 'hayatnuri.mobi', 'm.igjlwaytlgi.top', 'kk44kk.aiav3.top', 'ju.wesoonq.com', 'www.hayatnuri.mobi', '17se.aiav3.top', '3g.jqjqgp.top', 'www.baixinchangcheng.com', 'm.xinzhixu.top', 'buff.163i.cc', 'www.y309n.com', 'www.lyzdzy.com', 'haiyuemould.com', '03.jav128.com', 'www.cocanwelding.com', 'm.jqjqgp.top', 'ihd1.aiav3.top', 'alexgift.com', 'greenwichmetalfinishing.com', 'qwef.aiav3.top', 'www.14maovip.com', 'piyi.aiav3.top', 'folieporno.fr', '3g.xinzhixu.top', 'www.162027.com', 'tycm1.com', 'xxoo.aiav3.top', 'www.yx8888.vip', 'zkoqkt.usw78.com', 'eqeq7.com', 'usw78.com', 'aiav3.top', 'lulu.aiav3.top', 'xopa.aiav3.top', 'd18h.aiav3.top', 'xinzhixu.top', 's7bu.aiav3.top', 'www.folieporno.fr', 'www.tycm1.com', '52mm.aiav3.top', 'av91.aiav3.top', 'emc208.com', 'wap.igjlwaytlgi.top', 'www.xigua5.com', 'www.cfhuagong.com', 'www.greenwichmetalfinishing.com', 'ruay6666.com', 'dy.ikuncloud.com', 'www.jav128.com', '3g.fbzqcq.top', 'anichin.top', 'xbxb.aiav3.top', '69xx.aiav3.top', 'jav128.com', '05.jav128.com', 'bpip.shop', 'www.slgcpt.cn', '01.jav128.com', 'ccav.aiav3.top', 'qj8h.aiav3.top', 'freesami.com.ng', 'hjc2a4.com', '9999.aiav3.top', 'www.hjc2a4.com', 'www.gulangxs.com', 'torch.sh', 'sssg.ga']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for qqw110.com...
+Performing DNS lookup for dns1.piero.work...
+Performing DNS lookup for xiaoniao55.buzz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
