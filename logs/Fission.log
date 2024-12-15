@@ -16839,3 +16839,25 @@ Performing DNS lookup for 115155.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 36424b3] Update project files
+ 4 files changed, 79 insertions(+), 66 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   15b5eaf..36424b3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.229.18...
+Fetching domains for 104.18.18.5...
+Fetching domains for 104.18.252.57...
+succeed to fetch domains for 104.18.252.57 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.18.5 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.229.18 from https://ipchaxun.com/
+域名列表为
+['www.whpaiger.com', '1080p.club', 'www.wuwu5kq.wiki', 'www.mhs.com', 'mhs.com', 'okdiario.com', 'www.6988tv.com', 'www.luwangyangrong.com', '7.namesilo123.top', 'www.svk567.com', 'svk567.com', 'www.tieto.lv', 'www.wuwu24n.shop', 'cfip.xxxxxxxx.tk', 'www.295k.com', '778992.com', 'www.ddwhm.com', '158499.com', 'acus.cloudflarest.link', 'vc-otc.com', 'hsj.lbxjc.online', 'www.knvod.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 7.namesilo123.top...
+Performing DNS lookup for okdiario.com...
+Performing DNS lookup for www.6988tv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

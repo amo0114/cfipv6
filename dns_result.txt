@@ -1,45 +1,29 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 7.namesilo123.top: NXDOMAIN
+Non-authoritative answer:
+Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
+Address: 162.159.38.53
+Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
+Address: 108.162.194.53
+Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
+Address: 172.64.34.53
+Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
+Address: 2a06:98c1:50::ac40:2235
+Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
+Address: 2803:f800:50::6ca2:c235
+Name:	katja.ns.cloudflare.com.cdn.cloudflare.net
+Address: 2606:4700:50::a29f:2635
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.wife91.info: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	okdiario.com
-Address: 104.18.18.5
-Name:	okdiario.com
-Address: 104.18.19.5
-Name:	okdiario.com
-Address: 2606:4700::6812:1205
-Name:	okdiario.com
-Address: 2606:4700::6812:1305
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.6988tv.com	canonical name = 6988tv.com.
-6988tv.com	canonical name = cf.cloudflare.182682.xyz.
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	cf.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	cf.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	cf.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	cf.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
+Name:	www.gntkids.com
+Address: 23.19.200.87
 
