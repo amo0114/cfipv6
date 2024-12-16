@@ -2,30 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.pk299.com
-Address: 160.121.16.110
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.208.210
+Name:	ips.993888.xyz
+Address: 104.17.153.96
+Name:	ips.993888.xyz
+Address: 104.17.201.139
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.m6y6.com	canonical name = host1111776b.c2.huyuncdn.xyz.
-host1111776b.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
+www.zongcaiwx.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.153.96
+Name:	ips.993888.xyz
+Address: 104.17.201.139
+Name:	ips.993888.xyz
+Address: 104.16.208.210
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-cfcdn1.sanfencdn9.com	canonical name = us.cijftwfk.xyz.
-us.cijftwfk.xyz	canonical name = us.ct.pdkqulmi.xyz.
-Name:	us.ct.pdkqulmi.xyz
-Address: 104.17.238.140
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
