@@ -16954,3 +16954,24 @@ Performing DNS lookup for www.lyzdzy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5783e1c] Update project files
+ 4 files changed, 67 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   e7f7cf6..5783e1c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.213.47...
+Fetching domains for 104.17.88.109...
+Fetching domains for 104.18.105.99...
+succeed to fetch domains for 104.17.88.109 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.105.99 from https://site.ip138.com/
+succeed to fetch domains for 104.25.213.47 from https://ipchaxun.com/
+域名列表为
+['www.xiangcun66.cc', 'animal.iswitch.app', '12min.activehosted.com', 'activehosted.com', 'vrcollab.activehosted.com', 'ipdb.rr.nu', '1439779883240.activehosted.com', 'athlonoutdoors66674.activehosted.com', 'www.carefordeals.nl', 'iqax.activehosted.com', 'www.hnyhy.com', 'www.fanshuxiaoshuo.com', 'do.990xf.cc', 'www.yekan360.com', 'healthaffairs.activehosted.com', 'www.superduperdeal.nl', 'www.85xscc.com', 'www.p2007.com', 'www.cfhuagong.com', 'innovamarketinsights.activehosted.com', 'scapetechnologies.activehosted.com', 'cnsmedia.activehosted.com', 'www.whwanet.com', 'richmondbizsense49716.activehosted.com', 'ehsciences.activehosted.com', 'tsukaeru.activehosted.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.fanshuxiaoshuo.com...
+Performing DNS lookup for activehosted.com...
+Performing DNS lookup for www.cfhuagong.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
