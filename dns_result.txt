@@ -1,25 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find m.lxdytt.net: NXDOMAIN
+Non-authoritative answer:
+Name:	www.pk299.com
+Address: 160.121.16.110
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m888v.com
-Address: 172.247.26.10
+www.m6y6.com	canonical name = host1111776b.c2.huyuncdn.xyz.
+host1111776b.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.66et.cn
-Address: 172.67.184.113
-Name:	www.66et.cn
-Address: 104.21.19.14
-Name:	www.66et.cn
-Address: 2606:4700:3036::ac43:b871
-Name:	www.66et.cn
-Address: 2606:4700:3037::6815:130e
+cfcdn1.sanfencdn9.com	canonical name = us.cijftwfk.xyz.
+us.cijftwfk.xyz	canonical name = us.ct.pdkqulmi.xyz.
+Name:	us.ct.pdkqulmi.xyz
+Address: 104.17.238.140
 

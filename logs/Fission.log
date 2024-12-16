@@ -17068,3 +17068,25 @@ Performing DNS lookup for www.ladbrokes.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6a30a55] Update project files
+ 4 files changed, 55 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   89d3c7c..6a30a55  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.244.7...
+Fetching domains for 104.21.19.14...
+Fetching domains for 104.17.1.151...
+succeed to fetch domains for 104.18.244.7 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.1.151 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.19.14 from https://site.ip138.com/
+域名列表为
+['www.295k.com', 'www.zhzhiai.com', '5295a.com', 'wanzhongda.com', 'taiaicc.cn', 'landerleasing.com', 'www.kbss888.com', 'ycy07.com', 'www.ff792.com', 'mss79.com', 'www.713ld.com', 'a.gyiqufqdjnxwlqrn.com', 'www.hengtaiyy.com', 'lfidc.pw', 'wwgslot1.com', 'vwwaeqa.top', '3g.vwwaeqa.top', 'www.m888v.com', 'wap.myulove.top', 'www.tiao29.net', 'www.jinnaike.com', 'www.m6y6.com', 'www.wubei520.com', 'bb17.life', 'tiao29.net', '713ld.com', 'www.hotx.pro', 'www.gtqysw.com', 'm.lxdytt.net', 'uu349.com', 'www.180xcss.com', 'litoreum.org', 'texas59.com', 'detokenpro.depaas.de', 'www.ycy07.com', 'ccxing18.com', 'www.n866f.cn', 'snoxatja.xyz', 'www.yan176.com', 'scan.depaas.de', 'e2408101037326241.waittj2.com', '8808119.xyz', 'm888v.com', 'hotx.pro', 'gramfree.net', 'www.whwuwei.cn', 'sinhalamp3.com', 'www.zbchaoyun.com', 'www.85maomm.com', 'googlevoice.cc', 'www.99mav.com', 'explorer.depaas.de', 'www.gtqdyy.com', 'depaas.de', '99mav.com', 'ff792.com', 'xn208.cc', 'bt.btdad5.xyz', 'www.uu349.com', 'www.8808119.xyz', 'xnxx.loytube.com', 'smeli.02lopdzczz1.com', 'www.landerleasing.com', 'jinnaike.com', 'www.tockt.com', 'www.pkdytt.com', 'wap.vwwaeqa.top', 'www.tlbb888.com', 'www.hhyy028.com', 'www.cfhuagong.com', 'www.gcsppw.cn', 'i214q.com', 'www.gtqdyw.com', 'm.vwwaeqa.top', 'www.vwwaeqa.top', 'www.mimisenlin.com', '3g.myulove.top', '85maomm.com', 'www.lailai360.com', 'www.66et.cn', 'mojtv.hr', 'sm.smrk125.top', 'www.gdsqteu.cn', 'm.gtqdyw.com', 'tianmaosc8898.com', 'btt1365.com', 'jx2nwrenisgp0771c41.top', 'gyiqufqdjnxwlqrn.com', 'www.lxdytt.net', 'www.0037009.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.lxdytt.net...
+Performing DNS lookup for m888v.com...
+Performing DNS lookup for www.66et.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
