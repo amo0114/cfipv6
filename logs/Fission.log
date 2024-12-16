@@ -16932,3 +16932,25 @@ Performing DNS lookup for www.penglecheng.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e7f7cf6] Update project files
+ 4 files changed, 52 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   54d2095..e7f7cf6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.111.21...
+Fetching domains for 104.17.109.182...
+Fetching domains for 104.17.49.74...
+succeed to fetch domains for 104.17.109.182 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.49.74 from https://site.ip138.com/
+succeed to fetch domains for 104.17.111.21 from https://dnsdblookup.com/
+域名列表为
+['free.nordvpn.com', 'support.nordvpn.com', 'www.niuerzs.com', 'www.jg666.top', 'www.nordvpn.com', 'nordvpn.com', '52bqg.net', 'ip-sin.rzserve.icu', 'www.gaycn.top', 'www.zzztch.com', 'www.dzy66666.com', 'vip1.hpyjc.top', 'api.nordvpn.com', 'repo.nordvpn.com', 'www.mir1001.com', 'www.mir1888.com', 'www.lyzdzy.com', 'www.92mili.com', 'www.cfhuagong.com', 'join.nordvpn.com', 'www.kbss888.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for nordvpn.com...
+Performing DNS lookup for www.mir1001.com...
+Performing DNS lookup for www.lyzdzy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

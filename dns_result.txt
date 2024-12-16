@@ -2,20 +2,43 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	nordvpn.com
-Address: 104.16.208.203
-Name:	nordvpn.com
-Address: 104.19.159.190
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.mir1001.com: NXDOMAIN
+www.fanshuxiaoshuo.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.40.76
+Name:	activehosted.com
+Address: 104.17.203.31
+Name:	activehosted.com
+Address: 104.17.205.31
+Name:	activehosted.com
+Address: 104.17.202.31
+Name:	activehosted.com
+Address: 104.17.206.31
+Name:	activehosted.com
+Address: 104.17.204.31
+Name:	activehosted.com
+Address: 2606:4700::6811:cd1f
+Name:	activehosted.com
+Address: 2606:4700::6811:cc1f
+Name:	activehosted.com
+Address: 2606:4700::6811:cb1f
+Name:	activehosted.com
+Address: 2606:4700::6811:ca1f
+Name:	activehosted.com
+Address: 2606:4700::6811:ce1f
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
