@@ -17002,3 +17002,25 @@ Performing DNS lookup for yunbtv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f6e3c52] Update project files
+ 4 files changed, 51 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   b3e6299..f6e3c52  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.40.212...
+Fetching domains for 104.17.39.72...
+Fetching domains for 104.22.21.216...
+succeed to fetch domains for 104.22.21.216 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.39.72 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.40.212 from https://dnsdblookup.com/
+域名列表为
+['zksync.io', '6800.buzz', 'www.99wxw.cc', 'www.lyzdzy.com', 'www.6802.buzz', 'www.4j4j.cn', 'www.52ys.cc', '6808.buzz', 'm.x23us.org', 'www.pianku5.com', 'www.223ss.com', '6806.buzz', 'www.btbdys.com', 'www.6806.buzz', '6802.buzz', 'www.93xscc.com', 'xfltd.net', 'www.zongcaiwx.com', 'www.6814.buzz', 'mpimg.cn', 'www.linnuozs.com', 'tjxfs.com', 'www.6800.buzz', 'www.1a1v.com', 'www.2499kp.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.6814.buzz...
+Performing DNS lookup for 6808.buzz...
+Performing DNS lookup for www.btbdys.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
