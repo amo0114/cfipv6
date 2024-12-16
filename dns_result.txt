@@ -2,24 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	606977.com
-Address: 172.232.4.213
-Name:	606977.com
-Address: 172.232.31.180
-Name:	606977.com
-Address: 172.232.25.148
+Name:	nordvpn.com
+Address: 104.16.208.203
+Name:	nordvpn.com
+Address: 104.19.159.190
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.yqzww.cc: SERVFAIL
+** server can't find www.mir1001.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.penglecheng.com
-Address: 134.122.184.247
+Name:	www.lyzdzy.com
+Address: 208.98.40.76
 

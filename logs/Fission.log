@@ -16910,3 +16910,25 @@ Performing DNS lookup for www.456gg.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 54d2095] Update project files
+ 4 files changed, 64 insertions(+), 63 deletions(-)
+ rewrite dns_result.txt (95%)
+To github.com:amo0114/cfipv6.git
+   6d8b1e9..54d2095  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.102.169...
+Fetching domains for 104.17.114.103...
+Fetching domains for 104.17.166.245...
+succeed to fetch domains for 104.17.166.245 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.114.103 from https://site.ip138.com/
+succeed to fetch domains for 104.17.102.169 from https://dnsdblookup.com/
+域名列表为
+['www.penglecheng.com', 'm.niuerzs.com', 'www.whpaiger.com', 'ag.hg2096.com', 'www.lewen5.com', 'qp66.com', 'www.630book.com', '630book.com', 'www.qp666.com', 'www.yqzww.cc', 'www.zzztch.com', 'www.52dym.com', 'www.28et.com', 'www.93xs.net', 'www.manhuadb.com', 'www.52bqg.net', 'www.hg0389.com', 'www.6988tv.com', 'www.gaycn.top', 'www.pianku5.com', '923055.com', 'ip.rzqwq1.top', 'www.hanfangxiang.com', '606977.com', 'www.ranwen8.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 606977.com...
+Performing DNS lookup for www.yqzww.cc...
+Performing DNS lookup for www.penglecheng.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
