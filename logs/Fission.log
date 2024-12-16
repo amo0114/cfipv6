@@ -17046,3 +17046,25 @@ Performing DNS lookup for www.xiuluo942.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 89d3c7c] Update project files
+ 4 files changed, 59 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   07c1cba..89d3c7c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.224.8...
+Fetching domains for 104.17.240.236...
+Fetching domains for 104.18.138.44...
+succeed to fetch domains for 104.17.240.236 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.138.44 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.224.8 from https://site.ip138.com/
+域名列表为
+['www.cocanwelding.com', 'www.ladbrokes.com', 'www.zzztch.com', 'www.thebandbkeeper.com', 'www.77ty.com', 'www.manhuadb.com', '521vr.com', 'fcww37.com', 'www.croftphysicaltherapy.com', 'cdn1.homeadvisor.com', 'www.1080p.club', 'www.lyzdzy.com', 'ct.090227.xyz', 'sports.ladbrokes.com', 'iios.fun', 'www.btbdys.com', 'pro.homeadvisor.com', 'www.nitianxieshen.com', 'kz22.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for fcww37.com...
+Performing DNS lookup for www.77ty.com...
+Performing DNS lookup for www.ladbrokes.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

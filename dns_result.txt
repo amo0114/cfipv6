@@ -1,27 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	fcww37.com
-Address: 137.220.137.149
+** server can't find m.lxdytt.net: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.77ty.com	canonical name = 103top.delivery-cf-103.sbs.
-Name:	103top.delivery-cf-103.sbs
-Address: 104.237.157.185
-Name:	103top.delivery-cf-103.sbs
-Address: 173.255.219.146
+Name:	m888v.com
+Address: 172.247.26.10
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.ladbrokes.com	canonical name = www.ladbrokes.com.cdn.cloudflare.net.
-Name:	www.ladbrokes.com.cdn.cloudflare.net
-Address: 104.18.139.44
-Name:	www.ladbrokes.com.cdn.cloudflare.net
-Address: 104.18.138.44
+Name:	www.66et.cn
+Address: 172.67.184.113
+Name:	www.66et.cn
+Address: 104.21.19.14
+Name:	www.66et.cn
+Address: 2606:4700:3036::ac43:b871
+Name:	www.66et.cn
+Address: 2606:4700:3037::6815:130e
 
