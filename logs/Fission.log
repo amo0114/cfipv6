@@ -17024,3 +17024,25 @@ Performing DNS lookup for www.btbdys.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 07c1cba] Update project files
+ 4 files changed, 60 insertions(+), 24 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   f6e3c52..07c1cba  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.139.113...
+Fetching domains for 104.18.245.84...
+Fetching domains for 104.20.113.191...
+succeed to fetch domains for 104.18.139.113 from https://site.ip138.com/
+succeed to fetch domains for 104.20.113.191 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.245.84 from https://ipchaxun.com/
+域名列表为
+['m.niuerzs.com', 'www.zongcaixs.cc', 'www.xiuluo942.com', 'www.vcd.la', 'www.longwangchuanshuo.com', 'www.75uw.com', 'subowu.com', '663dy.com', 'www.295k.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 663dy.com...
+Performing DNS lookup for www.75uw.com...
+Performing DNS lookup for www.xiuluo942.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

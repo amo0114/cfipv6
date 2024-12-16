@@ -1,26 +1,27 @@
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find 663dy.com: SERVFAIL
+Non-authoritative answer:
+Name:	fcww37.com
+Address: 137.220.137.149
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+www.77ty.com	canonical name = 103top.delivery-cf-103.sbs.
+Name:	103top.delivery-cf-103.sbs
+Address: 104.237.157.185
+Name:	103top.delivery-cf-103.sbs
+Address: 173.255.219.146
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xiuluo942.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
+www.ladbrokes.com	canonical name = www.ladbrokes.com.cdn.cloudflare.net.
+Name:	www.ladbrokes.com.cdn.cloudflare.net
+Address: 104.18.139.44
+Name:	www.ladbrokes.com.cdn.cloudflare.net
+Address: 104.18.138.44
 
