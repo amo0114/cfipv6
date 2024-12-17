@@ -1,31 +1,56 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.208.210
-Name:	ips.993888.xyz
-Address: 104.17.153.96
-Name:	ips.993888.xyz
-Address: 104.17.201.139
+** server can't find 888.778852.xyz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.zongcaiwx.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.153.96
-Name:	ips.993888.xyz
-Address: 104.17.201.139
-Name:	ips.993888.xyz
-Address: 104.16.208.210
+index1.xxm3u8.top	canonical name = proxy.xxxm3u8.top.
+Name:	proxy.xxxm3u8.top
+Address: 104.21.64.1
+Name:	proxy.xxxm3u8.top
+Address: 104.21.16.1
+Name:	proxy.xxxm3u8.top
+Address: 104.21.32.1
+Name:	proxy.xxxm3u8.top
+Address: 104.21.48.1
+Name:	proxy.xxxm3u8.top
+Address: 104.21.96.1
+Name:	proxy.xxxm3u8.top
+Address: 104.21.112.1
+Name:	proxy.xxxm3u8.top
+Address: 104.21.80.1
+Name:	proxy.xxxm3u8.top
+Address: 2606:4700:3030::6815:4001
+Name:	proxy.xxxm3u8.top
+Address: 2606:4700:3030::6815:7001
+Name:	proxy.xxxm3u8.top
+Address: 2606:4700:3030::6815:6001
+Name:	proxy.xxxm3u8.top
+Address: 2606:4700:3030::6815:1001
+Name:	proxy.xxxm3u8.top
+Address: 2606:4700:3030::6815:5001
+Name:	proxy.xxxm3u8.top
+Address: 2606:4700:3030::6815:3001
+Name:	proxy.xxxm3u8.top
+Address: 2606:4700:3030::6815:2001
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	www.cronachedellacampania.it
+Address: 104.26.15.211
+Name:	www.cronachedellacampania.it
+Address: 172.67.68.7
+Name:	www.cronachedellacampania.it
+Address: 104.26.14.211
+Name:	www.cronachedellacampania.it
+Address: 2606:4700:20::681a:ed3
+Name:	www.cronachedellacampania.it
+Address: 2606:4700:20::681a:fd3
+Name:	www.cronachedellacampania.it
+Address: 2606:4700:20::ac43:4407
 
