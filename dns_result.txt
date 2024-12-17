@@ -2,16 +2,36 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.jgwlyy.com
-Address: 38.11.1.193
+ks20.cc	canonical name = chzko.c4bla.bond.
+Name:	chzko.c4bla.bond
+Address: 172.67.219.29
+Name:	chzko.c4bla.bond
+Address: 104.21.62.29
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3030::ac43:db1d
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3034::6815:3e1d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.bitkeep.org: NXDOMAIN
+Non-authoritative answer:
+Name:	www.lijunys.com
+Address: 156.234.146.205
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find crawlab.babiego.com: NXDOMAIN
+Non-authoritative answer:
+www.cbcv.cc	canonical name = cbcv.cc.
+cbcv.cc	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 
