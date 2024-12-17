@@ -17254,3 +17254,26 @@ Performing DNS lookup for ipdb.rr.nu...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0dfa70c] Update project files
+ 4 files changed, 214 insertions(+), 242 deletions(-)
+ rewrite Fission_ip_backup.txt (96%)
+ rewrite dns_result.txt (94%)
+To github.com:amo0114/cfipv6.git
+   9423f56..0dfa70c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 108.162.192.14...
+Fetching domains for 190.93.247.14...
+Fetching domains for 104.16.187.249...
+succeed to fetch domains for 104.16.187.249 from https://ipchaxun.com/
+succeed to fetch domains for 108.162.192.14 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.247.14 from https://site.ip138.com/
+域名列表为
+['www.77dv.com', 'v.shtd.xyz', 'cnamefuckxxs.yuchen.icu', 'www.77zw.cc', 'www.978c.com', 'www.k77yy.com', 'www.paizipai.top', 'wei333.com', 'www.akyue.com', 'www.tuozhan021.com', 'www.quanji55.com', 'www.woaiqi.com', 'www.tv9090.com', 'www.tinghen.com', 'manhuadb.com', 'www.qire88.com', 'www.ganpian.com', 'www.wallis.co.uk', 'www.huanyaad.com', 'ayuer.com', 'www.lyzdzy.com', 'www.11txt.com', 'www.ddaculture.com', 'www.92mili.com', 'www.haqiandu.com', 'www.888dyy.cc', 'www.yuegq.com', 'uu93.com', 'www.4gdiy.com', 'www.ayuer.com', 'm.zhiqihuo.cc', 'cdntest.yuchen.icu', 'www.cbcv.cc', 'www.6988tv.com', 'cfip.201043.xyz', 'www.0550cq.com', 'suboji.com', 'm.niuerzs.com', 'zmkan.top', 'www.uu93.com', 'cf.1-human-2.com', 'www.6kwu.com', '1979y.com', 'www.suboji.com', 'sgv7.com', 'www.hanmatv.com', 'www.93xscc.com', 'mjtt5.com', 'cfip.xxxxxxxx.tk', 'www.sxyzxh.com', 'cf1.492745.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cnamefuckxxs.yuchen.icu...
+Performing DNS lookup for wei333.com...
+Performing DNS lookup for www.k77yy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
