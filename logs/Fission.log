@@ -17300,3 +17300,24 @@ Performing DNS lookup for crawlab.babiego.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c6000fb] Update project files
+ 4 files changed, 58 insertions(+), 11 deletions(-)
+To github.com:amo0114/cfipv6.git
+   86a7cb9..c6000fb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.191.33...
+Fetching domains for 104.17.187.231...
+Fetching domains for 198.41.221.185...
+succeed to fetch domains for 198.41.221.185 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.191.33 from https://site.ip138.com/
+succeed to fetch domains for 104.17.187.231 from https://site.ip138.com/
+域名列表为
+['www.4gdiy.com', '0550cq.com', 'www.dy1255.com', 'www.cbcv.cc', 'yundunwawablogcdn1dx.wawacm.com', 'www.90dushu.com', 'www.qp666.com', '652tv.com', 'sgv7.com', 'ks20.cc', 'yv16.com', 'm.niuerzs.com', 'www.hanmatv.com', 'www.tinghen.com', 'www.lyzdzy.com', 'zi0.cc', 'www.yekan361.com', 'www.iios.club', 'www.uu93.com', 'www.lijunys.com', 'www.sixyin.com', 'm.0550cq.com', 'sgaa.sectigo.pp.ua', 'stock.hostmonit.com', 'www.hnxinlian.org', 'www.991kan.com', 'www.quanben360.com', 'www.0550cq.com', '8810868.com', 'cf.openxai.link', 'www.74ms.com', 'www.92mili.com', 'www.6i5.com', 'www.ganpian.com', 'www.sxyzxh.com', 'ag.hg2096.com', 'www.iios.me', 'yx.887141.xyz', 'www.qf527.com', 'www.4148.net', 'www.k77kk.cc', 'cfip.xxxxxxxx.tk', 'www.6988tv.com', 'blog.hostmonit.com', 'www.4j4j.cn', 'www.zzgszg.com', 'cf-lt.sharecentre.online', 'www.lnudz.com', 'www.11txt.com', 'www.tv9090.com', 'www.ddwhm.com', 'uu93.com', 'www.wxxzzs.com', 'www.allshanghaioffice.com', 'yh6.dtku41.xyz', '606977.com', 'www.cfhuagong.com', 'www.116.ag', 'iios.fun', 'baxtc.66666654.xyz', 'zjhainashoes.com', 'm.6988tv.com', 'www.huanyaad.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ks20.cc...
+Performing DNS lookup for www.lijunys.com...
+Performing DNS lookup for www.cbcv.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
