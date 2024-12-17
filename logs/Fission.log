@@ -17161,3 +17161,25 @@ Performing DNS lookup for www.cronachedellacampania.it...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1c4886c] Update project files
+ 4 files changed, 63 insertions(+), 72 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   c6bec49..1c4886c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.192.184...
+Fetching domains for 198.41.219.151...
+Fetching domains for 104.25.135.34...
+succeed to fetch domains for 198.41.192.184 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.135.34 from https://site.ip138.com/
+succeed to fetch domains for 198.41.219.151 from https://site.ip138.com/
+域名列表为
+['xxxhay.net', '248ju.com', 'www.tv1080.com', 'www.shy6666.com', 'www.xpsxs.com', 'yhddsb.com', 'www.207my.com', 'm.niuerzs.com', 'www.xshuxs.com', 'spca.114514782.xyz', 'www.51tthxg.com', 'www.qindi.net', 'www.huashubao.org', 'www.yourupload.com', 'www.dmbj.cc', 'cgdd.digicert.pp.ua', 'www.rxjh520.cc', 'www.93xscc.com', 'www.kbss888.com', 'www.88wwk.com', 'www.xkstxt.com', 'www.dzy66666.com', 'a393.cc', 'www.dqhedu.cn', 'www.df180pk.com', 'yourupload.com', 'www.ddwhm.com', 'www.99xkxtl.com', 'www.hhyy028.com', 'www.99wxw.cc', 'www.t9gm.com', 'www.8877fz.com', 'acus.cloudflarest.link', 'www.97777pk.com', 'www.xkx999.com', 'www.17ttx.com', 'cfip.xxxxxxxx.tk', 'www.zongcaiwx.com', 'www.56fu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.99wxw.cc...
+Performing DNS lookup for www.zongcaiwx.com...
+Performing DNS lookup for www.xkstxt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
