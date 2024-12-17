@@ -17231,3 +17231,26 @@ Performing DNS lookup for edelrid.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9423f56] Update project files
+ 4 files changed, 265 insertions(+), 49 deletions(-)
+ rewrite Fission_ip_backup.txt (93%)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   51af02e..9423f56  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.40.136...
+Fetching domains for 104.18.136.159...
+Fetching domains for 190.93.247.14...
+succeed to fetch domains for 104.17.40.136 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.247.14 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.136.159 from https://ipchaxun.com/
+域名列表为
+['www.paizipai.top', 'www.ayuer.com', 'www.0550cq.com', 'www.888dyy.cc', 'suboji.com', 'www.978c.com', 'www.4gdiy.com', 'cf.1-human-2.com', 'manhuadb.com', 'www.77dv.com', 'www.k77yy.com', 'www.haqiandu.com', 'www.tv9090.com', 'www.92mili.com', 'cfip.xxxxxxxx.tk', 'www.ganpian.com', 'www.ddaculture.com', 'www.hanmatv.com', 'www.anluyg.net', 'zmkan.top', 'www.11txt.com', '1979y.com', 'sgv7.com', 'www.93xscc.com', 'www.50zw.co', '996.hjq.cloudns.biz', 'm.zhiqihuo.cc', 'www.6kwu.com', 'www.uu93.com', 'www.suboji.com', 'www.yuegq.com', 'mjtt5.com', 'www.cocanwelding.com', 'www.6988tv.com', 'ayuer.com', 'ipdb.rr.nu', 'www.qire88.com', 'www.woaiqi.com', 'cf1.492745.xyz', 'cfip.201043.xyz', 'www.tuozhan021.com', 'www.cbcv.cc', 'www.huanyaad.com', 'www.tinghen.com', 'www.sxyzxh.com', 'uu93.com', 'www.akyue.com', 'www.quanji55.com', 'wei333.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wei333.com...
+Performing DNS lookup for 996.hjq.cloudns.biz...
+Performing DNS lookup for ipdb.rr.nu...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
