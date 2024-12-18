@@ -2,28 +2,33 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 172.67.172.249
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 104.21.30.140
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:acf9
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:1e8c
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find jg.gjdun.top: NXDOMAIN
+Name:	7460.co
+Address: 162.218.30.9
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.55evd.com	canonical name = planone.seihappy.com.
-Name:	planone.seihappy.com
-Address: 162.209.221.183
-Name:	planone.seihappy.com
-Address: 23.224.11.188
+bbs.csgohvh.org	canonical name = origin.bbgg.eu.org.
+Name:	origin.bbgg.eu.org
+Address: 172.67.170.36
+Name:	origin.bbgg.eu.org
+Address: 104.21.28.11
+Name:	origin.bbgg.eu.org
+Address: 2606:4700:3030::ac43:aa24
+Name:	origin.bbgg.eu.org
+Address: 2606:4700:3031::6815:1c0b
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	789kp.com
+Address: 104.21.52.35
+Name:	789kp.com
+Address: 172.67.194.200
+Name:	789kp.com
+Address: 2606:4700:3033::ac43:c2c8
+Name:	789kp.com
+Address: 2606:4700:3033::6815:3423
 

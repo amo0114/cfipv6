@@ -17387,3 +17387,25 @@ Performing DNS lookup for polystarco.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5d604b5] Update project files
+ 4 files changed, 61 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   41e33e1..5d604b5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.245.187...
+Fetching domains for 104.22.11.61...
+Fetching domains for 104.18.19.181...
+succeed to fetch domains for 190.93.245.187 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.19.181 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.11.61 from https://ipchaxun.com/
+域名列表为
+['www.11txt.com', 'www.ddwhm.com', 'b345p.com', 'www.nxizm.com', 'qp66.com', 'www.116.ag', '606977.com', 'www.235t.com', 'rainbet.com', 'www.6i5.com', 'www.6988tv.com', 'm.bqg789.co', 'www.yhddsb.com', '8810868.com', 'e0101.com', 'www.mknykj.com', 'uu93.com', 'dsxys.com', 'dd33xx.com', 'jg.gjdun.top', 'www.99wx.cc', 'www.suboji.com', 'www.tushencn.com', 'www.a345ay.com', 'xs.wxtv.cc', 'www.tejiawan.com', 'www.55evd.com', 'm.6988tv.com', 'www.uu93.com', 'www.shsanrui.com', 'fwreports.com', 'www.17173sf.com', 'www.chuanqisf.com', 'www.75xs.cc', 'www.paizipai.top', 'www.hejincb.com', 'www.wenxueyuedu.com', 'www.b345p.com', 'www.xl69.cn', 'www.aikansu.com', 'www.166en.com', 'www.ycbzcl.com', 'www.qp666.com', 'qiangkouzhao.com', 'www.bb55tt.com', 'www.4gdiy.com', 'h-dnet.com', 'www.zongcaiwx.com', 'www.jsmx999.com', 'cfip.xxxxxxxx.tk', 'bb55tt.com', 'www.93xscc.com', 'www.bqg789.co', 'subodi.com', 'gua.gg', 'www.lyzdzy.com', 'ayuer.com', 'www.77zw.cc', 'www.web120.org', '11.namesilo123.top', 'nxizm.com', 'www.qf527.com', 'www.hihi123.com', '6323s.nxizm.com', 'cf-lt.sharecentre.online', 'www.boyangjt.com', 'm.28dushu.com', 'ag.hg2096.com', 'www.4huxjd.com', 'www.quanji55.com', 'www.dd33xx.com', '18comic.nxizm.com', 'www.tinghen.com', 'www.b4c88.com', 'www.85xs.cc', 'www.wei333.com', 'www.huanyaad.com', 'www.tv9090.com', 'www.0550cq.com', 'www.4148.net', 'img.hostmonit.com', 'www.1717tv.com', 'www.sxyzxh.com', 'wz.weishao2023.uk.eu.org', 'nangua55.com', 'stock.hostmonit.com', 'www.99wxw.cc', 'www.606977.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tinghen.com...
+Performing DNS lookup for jg.gjdun.top...
+Performing DNS lookup for www.55evd.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
