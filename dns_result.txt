@@ -2,36 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	suying666.com
-Address: 104.21.5.40
-Name:	suying666.com
-Address: 172.67.132.240
-Name:	suying666.com
-Address: 2606:4700:3033::ac43:84f0
-Name:	suying666.com
-Address: 2606:4700:3035::6815:528
+www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 172.67.172.249
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 104.21.30.140
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:acf9
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:1e8c
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find jg.gjdun.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.abtdrains.com
-Address: 104.26.6.65
-Name:	www.abtdrains.com
-Address: 172.67.74.4
-Name:	www.abtdrains.com
-Address: 104.26.7.65
-Name:	www.abtdrains.com
-Address: 2606:4700:20::681a:741
-Name:	www.abtdrains.com
-Address: 2606:4700:20::ac43:4a04
-Name:	www.abtdrains.com
-Address: 2606:4700:20::681a:641
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	polystarco.com
-Address: 204.197.252.122
+www.55evd.com	canonical name = planone.seihappy.com.
+Name:	planone.seihappy.com
+Address: 162.209.221.183
+Name:	planone.seihappy.com
+Address: 23.224.11.188
 

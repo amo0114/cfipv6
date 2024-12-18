@@ -17365,3 +17365,25 @@ Performing DNS lookup for www.2955kk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 41e33e1] Update project files
+ 4 files changed, 71 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   7ca5260..41e33e1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.45.37...
+Fetching domains for 104.26.10.117...
+Fetching domains for 104.18.79.205...
+succeed to fetch domains for 104.17.45.37 from https://dnsdblookup.com/
+succeed to fetch domains for 104.26.10.117 from https://site.ip138.com/
+succeed to fetch domains for 104.18.79.205 from https://dnsdblookup.com/
+域名列表为
+['www.lewen5.com', 'myworkwear.org', 'pdzmre77473.sanfen001.top', 'uboy.run', 'bululu.shop', 'www.99wx.cc', 'tv.proyectox.vip', 'wz.weishao2023.uk.eu.org', 'bbs.chaosuzhibo.com', 'xtemos.com', 'naw.org', 'www.sf123.mobi', 'www.forankra.se', 'www.zongcaiwx.com', 'www.antratek.com', 'www.77zw.cc', 'm.69shuba.cc', 'www.iios.club', 'www.173vv.com', 'ko-fi.com', 'www.whwanet.com', 'www.shyuxisw.com', 'wonga.com', 'mv432.com', 'woodmart.xtemos.com', 'sport365.fr', 'www.aikansu.com', 'autonocion.com', 'm.niuerzs.com', 'designplan.com', 'hongkong.qing1999.eu.org', 'www.autonocion.com', 'iios.fun', 'www.adhesivesandbondingexpo.eu', 'www.abtdrains.com', 'app.chaosuzhibo.com', 'wolf.bet', 'www.91m.cc', 'www.superyachttimes.com', '1.namesilo123.top', 'www.myworkwear.org', 'www.thehackernews.com', 'm.vodbd.com', 'www.99wxw.cc', 'u.uboy03.xyz', 'www.zpdyw.com', 'polystarco.com', 'www.92mili.com', 'www.whpaiger.com', 'www.sport365.fr', 'cf.yx.alue.link', 'suying666.com', 'www.kigalitoday.com', 'www.xshuxs.com', 'iios.club', 'www.kushubao.cc', 'thehackernews.com', 'superyachttimes.com', 'tvlist.chaosuzhibo.com', 'www.polystarco.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for suying666.com...
+Performing DNS lookup for www.abtdrains.com...
+Performing DNS lookup for polystarco.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
