@@ -2,40 +2,36 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.fastdl.app.cdn.cloudflare.net
-Address: 104.26.14.180
-Name:	www.fastdl.app.cdn.cloudflare.net
-Address: 104.26.15.180
-Name:	www.fastdl.app.cdn.cloudflare.net
-Address: 172.67.69.174
-Name:	www.fastdl.app.cdn.cloudflare.net
-Address: 2606:4700:20::681a:eb4
-Name:	www.fastdl.app.cdn.cloudflare.net
-Address: 2606:4700:20::ac43:45ae
-Name:	www.fastdl.app.cdn.cloudflare.net
-Address: 2606:4700:20::681a:fb4
+Name:	suying666.com
+Address: 104.21.5.40
+Name:	suying666.com
+Address: 172.67.132.240
+Name:	suying666.com
+Address: 2606:4700:3033::ac43:84f0
+Name:	suying666.com
+Address: 2606:4700:3035::6815:528
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	s3d2.turboimg.net
-Address: 104.26.12.244
-Name:	s3d2.turboimg.net
-Address: 104.26.13.244
-Name:	s3d2.turboimg.net
-Address: 172.67.72.150
-Name:	s3d2.turboimg.net
-Address: 2606:4700:20::681a:cf4
-Name:	s3d2.turboimg.net
-Address: 2606:4700:20::681a:df4
-Name:	s3d2.turboimg.net
-Address: 2606:4700:20::ac43:4896
+Name:	www.abtdrains.com
+Address: 104.26.6.65
+Name:	www.abtdrains.com
+Address: 172.67.74.4
+Name:	www.abtdrains.com
+Address: 104.26.7.65
+Name:	www.abtdrains.com
+Address: 2606:4700:20::681a:741
+Name:	www.abtdrains.com
+Address: 2606:4700:20::ac43:4a04
+Name:	www.abtdrains.com
+Address: 2606:4700:20::681a:641
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.2955kk.com
-Address: 162.209.175.126
+Name:	polystarco.com
+Address: 204.197.252.122
 

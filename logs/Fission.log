@@ -17343,3 +17343,25 @@ Performing DNS lookup for www.bt4kyy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7ca5260] Update project files
+ 4 files changed, 74 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   e3ada52..7ca5260  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.62.0...
+Fetching domains for 104.26.14.180...
+Fetching domains for 104.26.13.244...
+succeed to fetch domains for 104.26.14.180 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.13.244 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.62.0 from https://site.ip138.com/
+域名列表为
+['www.fastdl.app.cdn.cloudflare.net', 's8d2.turboimg.net', 'ebc-fin.com', 'www.foe.co.uk', 'foe.co.uk', 'blacksoncougars.com', 'www.cgltg.com', 'www.blacksoncougars.com', 'www.primaryweapons.com', 'www.295k.com', 'uagtrade.cn', 'sellanycode.com', 'baxtc.66666654.xyz', 'www.92mili.com', 'www.argo-hytos-expo.com', 'x2industries.com', 'www.wswwpf.com', 'www.jingan110.cn', 'playtoearn.net', '52ys.cc', 'www.altcointrader.co.za', 'www.iios.me', 'www.a333ae.com', 'cfcdn1.sanfencdn9.com', '2048kg.com', '104-17-62-0.ip.flares.cloud', 'www.jmapinode4.cc', 'www.ebc-fin.com', 'www.7dami.com', '7.namesilo123.top', 'www.652tv.com', 'jmapinode4.cc', 's3d2.turboimg.net', 'tfnn.nnkhd.vip', 'turboimg.net', 'sf999.org', 'siospa.it', 'www.lampeetlumiere.be', 'superslot888.net', 'www.2955kk.com', 'www.91m.cc', 'www.mosaiquefm.net', 'www.luwangyangrong.com', 'www.camp4.de', 'www.hee88.com', 's8d6.turboimg.net', 'm.niuerzs.com', 'a333ae.com', 'www.85xs.cc', 'jpvsavhyu.76898102.xyz', 'www.sellanycode.com', 'www.cfhuagong.com', 'www.pk299.com', 'www.tpyyc.com', 'wordproject.org', 'fastdl.app.cdn.cloudflare.net', 's7d8.turboimg.net', 'www.niuerzs.com', 'acjp2.cloudflarest.link', 'iios.club', 'transformationtalkradio.com', 'www.dzy66666.com', 'www.66se8.com', 'www.809dm.com', 'www.80qr.com', 'www.shenmapian.org', 'www.kbss888.com', 'www.iios.club', 'xl.chunqiu25.com', 'dxhoutai.space', 'cerodosbe.com', 's8d3.turboimg.net', 'china.worldscientific.com', 'www.fastdl.app', 'thegg.net', 'kuaikan66.com', 'hwzone.co.il', 'www.7277tl.com', 'www.6988tv.com', 'www.2048kg.com', 'altcointrader.co.za', 'ss.moonriver.sbs', 'tanda-feng.com', 'mosaiquefm.net', 'fastdl.app', 'eca.edu.au', 'ohyeahlady.com', 'worldscientific.com', 'www.x2industries.com', 'www.infoescola.com', 'kc9494.com', 'pluus.se', 'indec.qkhbyf.tech', 'www.ldssz.com', 'www.50zw.co', 'europe.worldscientific.com', 'www.97777pk.com', 'primaryweapons.com', 'www.topdoctors.es']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.fastdl.app.cdn.cloudflare.net...
+Performing DNS lookup for s3d2.turboimg.net...
+Performing DNS lookup for www.2955kk.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
