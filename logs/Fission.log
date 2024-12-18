@@ -17321,3 +17321,25 @@ Performing DNS lookup for www.cbcv.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e3ada52] Update project files
+ 4 files changed, 75 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   c6000fb..e3ada52  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.149.230...
+Fetching domains for 104.17.145.160...
+Fetching domains for 104.17.160.62...
+succeed to fetch domains for 104.17.149.230 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.145.160 from https://site.ip138.com/
+succeed to fetch domains for 104.17.160.62 from https://dnsdblookup.com/
+域名列表为
+['www.cocanwelding.com', 'm.niuerzs.com', 'www.tanhuazu.com', 'www.longzemy.com', 'www.6988tv.com', 'www.autodoc24.ro', 'www.msgao.com', 'www.yncareer.com', 'www.bt4kyy.com', 'www.vcd.la', 'www.zzztch.com', 'www.cfhuagong.com', 'autodoc24.ro']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.6988tv.com...
+Performing DNS lookup for www.vcd.la...
+Performing DNS lookup for www.bt4kyy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
