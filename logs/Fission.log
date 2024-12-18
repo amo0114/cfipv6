@@ -17475,3 +17475,24 @@ Performing DNS lookup for w417.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9eaea01] Update project files
+ 4 files changed, 77 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   63dc400..9eaea01  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.45.41...
+Fetching domains for 104.16.238.197...
+Fetching domains for 104.17.138.165...
+succeed to fetch domains for 104.17.138.165 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.238.197 from https://ipchaxun.com/
+succeed to fetch domains for 172.66.45.41 from https://dnsdblookup.com/
+域名列表为
+['www.qiuxiaw.com', 'www.93xscc.com', 'www.zzztch.com', 'hmoe.top', 'www.lyzdzy.com', 'www.4wa.cc', 'www.huaidan1.com', 'psychic-octo-waddle-ev3.pages.dev', 'acjp2.cloudflarest.link', 'www.lailai360.com', 'kuaikan66.com', 'www.99wxw.cc', 'galacg.pages.dev', 'www.cfhuagong.com', 'www.xinjuc.com', 'www.qumiyun.com', 'www.wuda.cf', 'www.ddwhm.com', 'www.xsj.com', 'ss.moonriver.sbs', 'www.652tv.com', 'www.hmoeh.com', 'yx.sulink.one', 'xsj.com', 'www.bagezw.com', 'hmhu79.dfy89ty65hj.hz.cz', 'poloum.pages.dev', 'www.6988tv.com', 'wzccc.cloudflare.182682.xyz', 'www.99wx.cc', 'krulm.cloudflare.182682.xyz', 'xn--zfr188b.cloudflare.182682.xyz', 'www.baota.me', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.iios.club', 'acus3.cloudflarest.link', 'cfip.201043.xyz', 'www.qindixs.com', 'xuyan.cc', 'cloudflare.182682.xyz', 'www.cocanwelding.com', 'warp-sub.pages.dev', 'xn--vjq503a.cloudflare.182682.xyz', 'bk.jdkg.fun', 'www.hm17.lol', 'www.yekan360.com', 'cdn.cf.clun.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qumiyun.com...
+Performing DNS lookup for www.6988tv.com...
+Performing DNS lookup for krulm.cloudflare.182682.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
