@@ -1,32 +1,21 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	4huyy299.com
-Address: 104.21.14.168
-Name:	4huyy299.com
-Address: 172.67.160.19
-Name:	4huyy299.com
-Address: 2606:4700:3033::ac43:a013
-Name:	4huyy299.com
-Address: 2606:4700:3033::6815:ea8
+** server can't find 1.hehui7.eu.org: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.249.33
-Name:	ips.993888.xyz
-Address: 104.16.124.94
-Name:	ips.993888.xyz
-Address: 104.16.115.120
+Name:	www.zgjmw.net
+Address: 127.0.0.1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.17173sf.com
-Address: 43.129.210.19
+Name:	w417.cc
+Address: 138.199.9.104
+Name:	w417.cc
+Address: 2400:52e0:1a01::907:1
 
