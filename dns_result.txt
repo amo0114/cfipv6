@@ -1,21 +1,58 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 1.hehui7.eu.org: NXDOMAIN
+Non-authoritative answer:
+www.qumiyun.com	canonical name = speed.marisalnc.com.
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zgjmw.net
-Address: 127.0.0.1
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	w417.cc
-Address: 138.199.9.104
-Name:	w417.cc
-Address: 2400:52e0:1a01::907:1
+Name:	krulm.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	krulm.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	krulm.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	krulm.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	krulm.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	krulm.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	krulm.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	krulm.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	krulm.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	krulm.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
 
