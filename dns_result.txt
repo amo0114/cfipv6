@@ -1,24 +1,38 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 91dajin.com: NXDOMAIN
+Non-authoritative answer:
+www.doupobook.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.255.109
+Name:	ips.993888.xyz
+Address: 104.17.208.49
+Name:	ips.993888.xyz
+Address: 104.16.123.174
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.hg098.com
-Address: 104.21.16.96
-Name:	www.hg098.com
-Address: 172.67.167.52
-Name:	www.hg098.com
-Address: 2606:4700:3032::ac43:a734
-Name:	www.hg098.com
-Address: 2606:4700:3036::6815:1060
+www.wn01.cc	canonical name = cf-4.sjcdn.top.
+cf-4.sjcdn.top	canonical name = cn.wnacg.com.
+Name:	cn.wnacg.com
+Address: 172.67.74.237
+Name:	cn.wnacg.com
+Address: 104.26.13.109
+Name:	cn.wnacg.com
+Address: 104.26.12.109
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:c6d
+Name:	cn.wnacg.com
+Address: 2606:4700:20::ac43:4aed
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:d6d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find nmhydz.com: No answer
+Name:	www.byylgc.com
+Address: 23.225.148.166
 

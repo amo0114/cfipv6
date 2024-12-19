@@ -17678,3 +17678,25 @@ Performing DNS lookup for www.lyys8.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5c19172] Update project files
+ 4 files changed, 54 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   d3a94b3..5c19172  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.246.172...
+Fetching domains for 198.41.198.152...
+Fetching domains for 104.16.232.53...
+succeed to fetch domains for 198.41.198.152 from https://site.ip138.com/
+succeed to fetch domains for 104.16.232.53 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.246.172 from https://ipchaxun.com/
+域名列表为
+['www.8877fz.com', 'www.zddzd.top', 'www.nsisfans.com', 'www.tinghen.com', 'www.sxyzxh.com', 'www.zgjmw.net', 'www.tvyb02.com', 'm.iwzmanhua.com', 'diyishe.com', 'speedcl.5489265.xyz', 'www.679077.com', 'menmaza.76898102.xyz', 'cfip.xxxxxxxx.tk', 'www.meijui.net', 'www.df180pk.com', 'www.hm13.lol', 'www.apboxi.com', 'yh6.dtku41.xyz', 'cf-lt.sharecentre.online', 'www.nmhydz.com', 'www.fnyy.net', '8810868.com', 'www.youjiuxy.com', 'www.ddwhm.com', 'www.88wwk.com', 'wei333.com', 'www.appuq.com', 'www.tv9090.com', 'ddwhm.com', 'www.7277tl.com', 'www.tockt.com', 'raw.gitmirror.com', 'www.hg098.com', 'cfcdn2.sanfencdn9.com', 'www.uu93.com', 'm.9sha.com', 'freeyx.cloudflare88.eu.org', 'speed.marisalnc.com', 'www.75uw.com', 'c.xf.free.hr', '7.namesilo123.top', 'www.4gdiy.com', 'v4.cfnode.eu.org', 'www.paizipai.top', 'www.xinyi176.com', 'www.kbss888.com', '91dajin.com', 'www.606977.com', 'www.zhsq666.com', 'www.tlbb888.com', 'www.tushencn.com', 'yx.887141.xyz', 'www.womyt.com', 'jpvsavhyu.76898102.xyz', 'nlsdwsz.66666654.xyz', 'spca.114514782.xyz', 'nmhydz.com', 'www.6i5.com', 'ag.hg2096.com', 'www.jg666.top', 'www.huanyaad.com', 'www.652tv.com', 'www.wei333.com', 'www.xkx999.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 91dajin.com...
+Performing DNS lookup for www.hg098.com...
+Performing DNS lookup for nmhydz.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
