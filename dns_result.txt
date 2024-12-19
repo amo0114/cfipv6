@@ -1,29 +1,34 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find a2.hh.887733.xyz: NXDOMAIN
+** server can't find i.nakeu.site: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xinjuc.com	canonical name = www.xinjuc.com.cdn.cloudflare.net.
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 172.67.158.71
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 104.21.73.59
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:493b
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:9e47
+www.33mov.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-hzefss.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global31.66666654.xyz.
-Name:	cfcn-b-global31.66666654.xyz
-Address: 104.17.250.228
+www.web120.org	canonical name = sbcdn.cc.
+sbcdn.cc	canonical name = dash.cloudflare.com.
+Name:	dash.cloudflare.com
+Address: 104.17.110.184
+Name:	dash.cloudflare.com
+Address: 104.17.111.184
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6eb8
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6fb8
 
