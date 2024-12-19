@@ -17634,3 +17634,25 @@ Performing DNS lookup for hzefss.66666654.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 39d6f78] Update project files
+ 4 files changed, 67 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   0a6faa6..39d6f78  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 108.162.198.19...
+Fetching domains for 172.64.163.17...
+Fetching domains for 104.21.123.221...
+succeed to fetch domains for 172.64.163.17 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.123.221 from https://ipchaxun.com/
+succeed to fetch domains for 108.162.198.19 from https://site.ip138.com/
+域名列表为
+['www.web120.org', 'www.laowang.co', 'i.nakeu.site', 'www.11txt.com', 'www.tv9090.com', 'cgdd.digicert.pp.ua', 'luwangyangrong.com', 'acjp2.cloudflarest.link', 'www.vodbd.com', 'www.lyzdzy.com', 'www.rxjh520.cc', 'xfltd.net', 'hj487834.top', 'cf-lt.sharecentre.online', 'www.7277tl.com', 'www.28dushu.com', 'tv.ci', 'm.niuerzs.com', 'blog.hostmonit.com', 'www.x52bq.com', 'nlsdwsz.66666654.xyz', 'www.0550cq.com', 'www.6xr.com', 'jhpcza.66666654.xyz', 'yundunwawablogcdn1yd.wawacm.com', 'www.80yy.org', 'www.7sc.cc', 'www.cfhuagong.com', 'ct.090227.xyz', 'www.tvccc.org', 'www.paizipai.top', 'oss.nanfnet.co', 'www.iios.club', 'm.tvfff.com', 'www.33mov.com', 'jsonip.com', 'stock.hostmonit.com', 'freeyx.cloudflare88.eu.org', 'www.huakai2018.com', 'www.6988tv.com', 'hj554cb.top', 'www.4148.net', 'laowang.co', 'www.tinghen.com', 'www.888dyy.cc', 'acidblog.net', 'www.tpyyc.com', 'www.511my.com', 'cf1.492745.xyz', 'nanfnet.co', 'hvg1jfxup43lan2zbyok.sdfmnbvcoxz.top', 'www.kungal.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.whpaiger.com', 'baxtc.66666654.xyz', 'bestcf.onecf.eu.org', 'www.0789pk.com', 'www.home66.net', 'renet.tw', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.295k.com', 'www.kbss888.com', 'www.hm17.lol', 'www.cbcv.cc', 'img1.gelbooru.com', 'www.116mh.com', 'cdn.nakeu.cn', 'ja.gelbooru.com', 'm.sxyzxh.com', 'www.5699my.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for i.nakeu.site...
+Performing DNS lookup for www.33mov.com...
+Performing DNS lookup for www.web120.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
