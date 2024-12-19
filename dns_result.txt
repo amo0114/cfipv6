@@ -2,37 +2,55 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.doupobook.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.255.109
-Name:	ips.993888.xyz
-Address: 104.17.208.49
-Name:	ips.993888.xyz
-Address: 104.16.123.174
+Name:	cf1.492745.xyz
+Address: 172.67.10.232
+Name:	cf1.492745.xyz
+Address: 162.159.133.174
+Name:	cf1.492745.xyz
+Address: 172.67.39.148
+Name:	cf1.492745.xyz
+Address: 190.93.245.150
+Name:	cf1.492745.xyz
+Address: 172.67.212.51
+Name:	cf1.492745.xyz
+Address: 198.41.222.110
+Name:	cf1.492745.xyz
+Address: 104.26.5.11
+Name:	cf1.492745.xyz
+Address: 172.67.227.178
+Name:	cf1.492745.xyz
+Address: 172.64.111.111
+Name:	cf1.492745.xyz
+Address: 172.64.167.1
+Name:	cf1.492745.xyz
+Address: 172.67.68.78
+Name:	cf1.492745.xyz
+Address: 172.67.104.54
+Name:	cf1.492745.xyz
+Address: 172.67.155.160
+Name:	cf1.492745.xyz
+Address: 172.67.229.196
+Name:	cf1.492745.xyz
+Address: 172.67.28.89
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wn01.cc	canonical name = cf-4.sjcdn.top.
-cf-4.sjcdn.top	canonical name = cn.wnacg.com.
-Name:	cn.wnacg.com
-Address: 172.67.74.237
-Name:	cn.wnacg.com
-Address: 104.26.13.109
-Name:	cn.wnacg.com
-Address: 104.26.12.109
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:c6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::ac43:4aed
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:d6d
+blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.byylgc.com
-Address: 23.225.148.166
+Name:	www.66se.tv
+Address: 74.63.241.25
 
