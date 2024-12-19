@@ -17656,3 +17656,25 @@ Performing DNS lookup for www.web120.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d3a94b3] Update project files
+ 4 files changed, 66 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   39d6f78..d3a94b3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 141.101.121.20...
+Fetching domains for 172.64.163.17...
+Fetching domains for 104.24.224.123...
+succeed to fetch domains for 141.101.121.20 from https://site.ip138.com/
+succeed to fetch domains for 104.24.224.123 from https://ipchaxun.com/
+succeed to fetch domains for 172.64.163.17 from https://ipchaxun.com/
+域名列表为
+['www.paizipai.top', 'www.yh9pk.com', 'www.ydkj088.com', 'www.tx58tl.com', 'www.hg098.com', 'www.wxxzzs.com', 'www.dmzg-cn.com', 'yh6.dtku41.xyz', 'tv.ci', 'www.8806pk.com', 'www.90tsg.com', 'm.50zw.co', 'www.28dushu.com', 'm.sxyzxh.com', 'macvbb.555556789.xyz', 'www.qumiyun.com', 'www.92mili.com', '0550cq.com', 'www.11txt.com', 'www.tv9090.com', 'www.aiwanmoyu.com', 'www.hktv03.com', 'www.ikantv.net', 'www.nb6080.cc', 'yh.fgmjm.com', 'cdn.hkdvb.com', 'www.4148.net', 'www.7sc.cc', '512yyds.com', 'www.97777pk.com', 'www.115fhd.com', 'cg.33xf.cc', 'm.tvfff.com', 'baxtc.66666654.xyz', 'www.33mov.com', 'www.9805tl.xyz', 'www.ldssz.com', 'www.tvccc.org', 'www.dafuhao.com', 'www.rxjh520.cc', 'yx.887141.xyz', 'wap.dmzg-cn.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.993my.com', 'www.7lq.com', 'wap.sp6080.com', 'www.bm158.com', 'www.apex521.com', 'www.huakai2018.com', 'www.512yyds.com', 'cloudflare.cfgo.cc', 'www.sem888.com', 'm.0550cq.com', 'www.iios.club', 'www.dcs99.com', 'www.lyys8.com', 'hvg1jfxup43lan2zbyok.sdfmnbvcoxz.top', 'www.77wg.vip', 'cf-lt.sharecentre.online', 'www.nsisfans.com', 'www.lyzdzy.com', 'www.58zztl.xyz', 'www.tinghen.com', 'www.whpaiger.com', 'cf.090227.xyz', 'www.home66.net', 'www.888dyy.cc', 'www.xiaonatl.com', 'www.0808my.com', 'www.99qhmy.com', 'www.x52bq.com', 'www.579my.com', '456gg.com', 'www.fengyun180.cn', 'xzsfdc.com', 'www.ddwhm.com', 'yh7.dtku41.xyz', 'www.xinyi176.com', 'www.zhiqihuo.com', 'www.web120.org', 'freeyx.cloudflare88.eu.org', 'fa1.fun', 'nlsdwsz.66666654.xyz', 'www.182qw.com', 'sgv7.com', 'www.cfhuagong.com', 'www.0550cq.com', 'www.jxss688.com', 'acjp2.cloudflarest.link', 'v.hi.sy', 'www.jinwanchiji.top', 'www.511my.com', 'ja.gelbooru.com', 'pan.axxpan.com', 'www.6i5.com', 'www.yytl.monster', 'z1.lykk001.cn', 'www.66se26.com', 'www.huashubao.org', 'yyxycn.com', 'renet.tw', 'www.zxc999.cn', 'www.mutefun.com', 'www.heinu.cc', 'img1.gelbooru.com', 'www.88wwk.com', 'diejumi.com', 'www.tlbbtb.top', 'cf1.492745.xyz', 'www.9889my.com', 'www.6988tv.com', 'speed.marisalnc.com', 'www.cqguxiang.com', 'blog.hostmonit.com', 'acus.cloudflarest.link', 'ao3-cn.top', 'www2011india.com', 'picacgz.cn', 'www.b7yy.cc', 'www.smdyy.cc', 'picacgo.cn', '666tv.org', 'www.207my.com', '606977.com', 'www.summerpockets.com', 'www.gxg-cn.com', '7sc.cc', 'www.diejumi.com', 'www.sy5151.com', 'hj487834.top', 'www.cbcv.cc', 'www.50zw.co', 'www.picacgo.cn', 'www.5699my.cn', 'www.sy790.com', 'www.717zfsf.com', 'stock.hostmonit.com', 'wz.weishao2023.uk.eu.org', 'www.80yy.org', 'mutefun.com', 'www.51jion.com', 'www.picacgz.cn', 'dmzg-cn.com', 'www.116mh.com', '7.namesilo123.top', 'ct.090227.xyz', 'kkyx.yydsii.com', 'gxg-cn.com', 'hj554cb.top', 'jsonip.com', 'www.6xr.com', 'gcjt119.com', 'acidblog.net', 'www.kbss888.com', '20.namesilo123.top', 'www.91dajin.com', 'www.hm17.lol', 'yundunwawablogcdn1dx.wawacm.com', 'www.7277tl.com', '116.ag', 'www.0789pk.com', 'www.wecaidan.com', 'www.xworldadmin.com', 'cgdd.digicert.pp.ua', 'www.30moyu.top', 'yundunwawablogcdn1yd.wawacm.com', 'www.guojihuaijiu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qumiyun.com...
+Performing DNS lookup for www.4148.net...
+Performing DNS lookup for www.lyys8.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
