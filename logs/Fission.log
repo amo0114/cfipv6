@@ -17518,3 +17518,25 @@ Performing DNS lookup for www.dzy66666.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f68f4d4] Update project files
+ 4 files changed, 72 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   ab8a0c1..f68f4d4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.167.155...
+Fetching domains for 104.18.92.149...
+Fetching domains for 104.17.155.254...
+succeed to fetch domains for 104.17.155.254 from https://site.ip138.com/
+succeed to fetch domains for 104.18.92.149 from https://site.ip138.com/
+succeed to fetch domains for 104.17.167.155 from https://dnsdblookup.com/
+域名列表为
+['www.cn46.com', '1.namesilo123.top', '6.namesilo123.top', 'yncareer.com', 'cfip.xxxxxxxx.tk', 'www.xigua5.com', 'www.huakai2018.com', 'i.97p.org', '7.namesilo123.top', 'www.cocanwelding.com', 'www.tanhuazu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tanhuazu.com...
+Performing DNS lookup for 7.namesilo123.top...
+Performing DNS lookup for www.huakai2018.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

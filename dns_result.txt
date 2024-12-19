@@ -1,38 +1,26 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.tanhuazu.com	canonical name = th.cloudflare.182682.xyz.
-Name:	th.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	th.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	th.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	th.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	th.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	th.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	th.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	th.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	th.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	th.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find 7.namesilo123.top: NXDOMAIN
+** server can't find test.91yun.org: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.huakai2018.com
+www.whrsoc.org.uk	canonical name = whrsoc.org.uk.
+Name:	whrsoc.org.uk
+Address: 192.0.78.139
+Name:	whrsoc.org.uk
+Address: 192.0.78.221
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.hhi7.com
+Address: 172.232.4.213
+Name:	www.hhi7.com
 Address: 172.232.25.148
+Name:	www.hhi7.com
+Address: 172.232.31.180
 
