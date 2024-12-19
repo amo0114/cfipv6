@@ -1,26 +1,22 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find test.91yun.org: NXDOMAIN
+Non-authoritative answer:
+Name:	www.pk299.com
+Address: 160.121.16.110
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.whrsoc.org.uk	canonical name = whrsoc.org.uk.
-Name:	whrsoc.org.uk
-Address: 192.0.78.139
-Name:	whrsoc.org.uk
-Address: 192.0.78.221
+Name:	www.xkx999.com
+Address: 103.224.212.214
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.hhi7.com
-Address: 172.232.4.213
-Name:	www.hhi7.com
-Address: 172.232.25.148
-Name:	www.hhi7.com
-Address: 172.232.31.180
+163fahao.com	canonical name = pltraffic7.com.
+Name:	pltraffic7.com
+Address: 72.52.179.174
 
