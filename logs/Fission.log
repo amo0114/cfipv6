@@ -17589,3 +17589,25 @@ Performing DNS lookup for 163fahao.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e6fb3ce] Update project files
+ 4 files changed, 203 insertions(+), 17 deletions(-)
+ rewrite Fission_ip_backup.txt (91%)
+To github.com:amo0114/cfipv6.git
+   a08479f..e6fb3ce  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.237.27...
+Fetching domains for 198.41.215.142...
+Fetching domains for 104.18.92.64...
+succeed to fetch domains for 198.41.215.142 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.237.27 from https://site.ip138.com/
+succeed to fetch domains for 104.18.92.64 from https://ipchaxun.com/
+域名列表为
+['stock.hostmonit.com', '923055.com', 'www.lijunys.com', 'www.606977.com', 'kk101.me', 'shop.hostmonit.com', 'www.tv9090.com', 'yyxxi.com', 'yunwei.org', 'www.whpaiger.com', 'www.gjtvb.com', 'www.mingkansy.com', 'www.tinghen.com', 'www.jsmx999.com', 'www.qp666.com', 'dm84.tv', '678pao.com', 'www.0550cq.com', '8810868.com', 'www.6i5.com', 'www.11txt.com', 'www.paizipai.top', 'www.shengwanggongcheng.com', 'qp66.com', 'www.mm5517.com', 'www.33mov.com', 'www.npmjs.com', 'iios.fun', 'www.116.ag', 'www.vip1280.net', 'www.dy420.com', '909855.com', 'www.axxsjx.com', 'www.sxyzxh.com', 'acjp.cloudflarest.link', 'sgv3.com', 'www.ddwhm.com', 'www.xxpg888.com', 'www.qf527.com', 'yh6.dtku41.xyz', 'zshjba.com', 'www.d8kj.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yyxxi.com...
+Performing DNS lookup for shop.hostmonit.com...
+Performing DNS lookup for kk101.me...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
