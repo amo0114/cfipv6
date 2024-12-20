@@ -2,32 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	892yu.com
-Address: 104.21.29.77
-Name:	892yu.com
-Address: 172.67.148.152
-Name:	892yu.com
-Address: 2606:4700:3032::ac43:9498
-Name:	892yu.com
-Address: 2606:4700:3036::6815:1d4d
+Name:	www.revivalandreformation.org
+Address: 104.18.42.246
+Name:	www.revivalandreformation.org
+Address: 172.64.145.10
+Name:	www.revivalandreformation.org
+Address: 2606:4700:4400::6812:2af6
+Name:	www.revivalandreformation.org
+Address: 2606:4700:4400::ac40:910a
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	hentaicore.com
-Address: 172.67.148.152
-Name:	hentaicore.com
-Address: 104.21.29.77
-Name:	hentaicore.com
-Address: 2606:4700:3032::ac43:9498
-Name:	hentaicore.com
-Address: 2606:4700:3036::6815:1d4d
+Name:	www.9388111.com
+Address: 91.195.240.94
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	cz88.net
-Address: 175.6.228.147
+** server can't find yx.887141.xyz: NXDOMAIN
 

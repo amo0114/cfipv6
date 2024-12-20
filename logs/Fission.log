@@ -17766,3 +17766,25 @@ Performing DNS lookup for wap.iqicgd.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 15fd41f] Update project files
+ 4 files changed, 63 insertions(+), 81 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   a4cc040..15fd41f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.31.145...
+Fetching domains for 104.18.27.91...
+Fetching domains for 104.21.29.77...
+succeed to fetch domains for 104.18.27.91 from https://site.ip138.com/
+succeed to fetch domains for 104.21.31.145 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.29.77 from https://site.ip138.com/
+域名列表为
+['dk-finder.dk', 'qwerdsfhoasdgmklngaig.30471.gs', 'www.hotrodders.com', 'm.patriviciz.top', 'smjk.edu.my', 'www.wjnyapp.online', 'a567px.com', 'jieav.co', 'xfltd.net', 'www.qiqibrand.cn', 'zl.aitrjc.xyz', 'tiankongzy.com', '8mav777.com', 'www.369.dog', '985thesportshub.com', '123daohang1.buzz', 'cz88.net', 'app230.com', '26.namesilo123.top', 'jzhvndnn.top', 'www.zzztch.com', '533398.com', 'www.a567px.com', 'www.qtp4txxix.top', 'jdav0001.xyz', 'www.kan9096.com', '7.namesilo123.top', 'www.zhouyi369.com', 'dailyjav.co', 'p7dh1x.com', 'qiqibrand.cn', 'smoothieking.com', 'd719u.com', 'www.892yu.com', 'javbum.com', 'www.ledong867.cc', 'www.gzjiangshejiuye.com', 'hub.gitmirror.com', 'wf5pf.com', 'www.7mx07.com', 'www.keddk.com', 'j88519.com', '135ju.com', 'mossav10.cc', 'getvgxl.com', 'www.cfhuagong.com', 'wap.patriviciz.top', 'www.weyipan.cn', '7mx07.com', 'www.azn747.com', 'st.yahxg.cn', '9maovip.com', 'www.h123j.com', 'clg3c.com', 'kan9096.com', 'www.b9ubep.lol', 'ageae.usj28j4jsofjdijk029r.vip', 'www.jzhvndnn.top', 'www.sorte7.co', 'missinro.cn', 'freeyx.cloudflare88.eu.org', 'www.wozio.xyz', '163pomkbn002.psdiosyamdsl.com', 'www.inflatablelist.com', 'ledong867.cc', 'www.qtyidc.cn', 'www.gzqibing.com', '063pomkbn002.psdiosyamdsl.com', 'www.dk-finder.dk', 'www.mhlnews.com', 'dailynayadiganta.com', 'zhouyi369.com', '8zkw.com', 'wap.c4mzvrkj1.top', 'jmhanyang.com', '147pomkbn002.psdiosyamdsl.com', 'pg8.io', 'www.ddwhm.com', '1433688.com', 'www.cz88.net', 'wap.jzhvndnn.top', 'www.javsee.art', 'xn--rov.mossav10.cc', 'cfip.xxxxxxxx.tk', 'wjnyapp.online', 'www.s768w.com', 'www.191515.com', 'www.huipuruisi.com', 'www.jsjiangmian.com', 'hk799.com', 'protonsales.online', 'www.evsdgv.com', '128pomkbn002.psdiosyamdsl.com', '823hu.com', 'p.jinjiuling.tk', 'www.acmilan.cc', 'weibow.xyz', '081pomkbn002.psdiosyamdsl.com', 'www.135ju.com', 'www.thehappydept.com', 'www.w83n4.cn', 'yfxcxc.b9ubep.lol', 'www.c4mzvrkj1.top', 'www.zcslyy.com', 'www.d719u.com', 'hentaicore.com', '156pomkbn002.psdiosyamdsl.com', 'm.jzhvndnn.top', 'www.823hu.com', 'vip2.feifanji.com', 'm.evsdgv.com', 'labox.one', 'sbornews.ru', 'hiltonca77.com', 'airpost.bd0dcbb7-3449-42ccthe-best-airphonsvfgsd.top', 'hzefss.66666654.xyz', 'www.baijiasong.com', 'southbalticweblab.eu', 'www.car.com.cy', 'www.yjd2.com', 'm.tpyyc.com', 'tp589.cc', '70cnstg.top', 'yp.jinjiuling.tk', 'an767.com', '3g.jzhvndnn.top', 'b9ubep.lol', 'www.iios.club', '97tttt.com', '319tk.com', 'wkvpcr.xyz', 'adsmartcloudapp.site', 'c4mzvrkj1.top', 'www.an767.com', 'jx.jinjiuling.tk', 'cname.volcengine.eu.org', 'www.etorocn.com.cn', 'thehappydept.com', 'cn2.9968.xyz', 'rouxin520.top', '191515.com', 'jpvsavhyu.76898102.xyz', 's3601.gzjiangshejiuye.com', 'baxtc.66666654.xyz', '058pomkbn002.psdiosyamdsl.com', 'keddk.com', 'www.pengchaojixie.com', 'www.jmhanyang.com', '892yu.com', 'bet55t.com', 'inflatablelist.com', 'lusailnews.qa', 'www.jieav.co', 'www.9maovip.com', 'richmanmovies.com', 'healthx.com.bd', '3g.patriviciz.top', 'www.javbum.com', 'javsee.art', 'acus.cloudflarest.link', 'www.dailyjav.co']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 892yu.com...
+Performing DNS lookup for hentaicore.com...
+Performing DNS lookup for cz88.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
