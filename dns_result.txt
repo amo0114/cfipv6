@@ -2,30 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	app.huarenjie.com
-Address: 172.67.11.149
-Name:	app.huarenjie.com
-Address: 104.22.11.109
-Name:	app.huarenjie.com
-Address: 104.22.10.109
+Name:	www.tpyyc.com
+Address: 107.148.242.9
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xsiluke.com	canonical name = cdn.cloudfront.bz.
-cdn.cloudfront.bz	canonical name = 77980.bodis.com.
-Name:	77980.bodis.com
-Address: 199.59.243.227
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tushyraw.com
-Address: 104.22.10.109
-Name:	www.tushyraw.com
-Address: 104.22.11.109
-Name:	www.tushyraw.com
-Address: 172.67.11.149
+Name:	www.subodi.com
+Address: 162.209.175.124
 
