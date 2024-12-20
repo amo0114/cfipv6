@@ -2,24 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.revivalandreformation.org
-Address: 104.18.42.246
-Name:	www.revivalandreformation.org
-Address: 172.64.145.10
-Name:	www.revivalandreformation.org
-Address: 2606:4700:4400::6812:2af6
-Name:	www.revivalandreformation.org
-Address: 2606:4700:4400::ac40:910a
+baxtc.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global20.66666654.xyz.
+Name:	cfcn-b-global20.66666654.xyz
+Address: 104.17.250.204
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.9388111.com
-Address: 91.195.240.94
+Name:	www.75uw.com
+Address: 23.225.148.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find yx.887141.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	www.zpdyw.com
+Address: 172.67.157.210
+Name:	www.zpdyw.com
+Address: 104.21.8.194
 

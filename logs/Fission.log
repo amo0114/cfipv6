@@ -17788,3 +17788,25 @@ Performing DNS lookup for cz88.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 16de3fb] Update project files
+ 4 files changed, 56 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   15fd41f..16de3fb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.177.231...
+Fetching domains for 104.17.225.250...
+Fetching domains for 104.18.21.251...
+succeed to fetch domains for 104.18.177.231 from https://site.ip138.com/
+succeed to fetch domains for 104.17.225.250 from https://site.ip138.com/
+succeed to fetch domains for 104.18.21.251 from https://ipchaxun.com/
+域名列表为
+['www.888dyy.cc', 'm.xinpian8.com', 'www.llwx.net', 'www.9388111.com', 'zztt.a5a5.xyz', 'www.6456ju.com', 'www.ququxiaoshuo.com', 'www.cocanwelding.com', 'www.177kb.com', '6456ju.com', 'sparrowexchange.com', 'm.kuaikan66.com', 'www.nangua55.com', 'www.33mov.com', '933wa.com', 'www.revivalandreformation.org', '3123uu.com', 'cocanwelding.com', 'www.k77yy.com', 'yx.887141.xyz', 'www.dy420.com', 'www.xigua5.com', 'www.luoqiuzw.com', 'www.89bet.com', 'www.iios.club', 'www.c333.net', 'iios.club', 'cfip.xxxxxxxx.tk', 'mlt345.com', 'www.3123uu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.revivalandreformation.org...
+Performing DNS lookup for www.9388111.com...
+Performing DNS lookup for yx.887141.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
