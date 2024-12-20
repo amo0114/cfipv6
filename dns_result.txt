@@ -2,34 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	h5abz1.lxxcled.com
-Address: 172.67.173.220
-Name:	h5abz1.lxxcled.com
-Address: 104.21.30.204
-Name:	h5abz1.lxxcled.com
-Address: 2606:4700:3032::6815:1ecc
-Name:	h5abz1.lxxcled.com
-Address: 2606:4700:3035::ac43:addc
+Name:	app.huarenjie.com
+Address: 172.67.11.149
+Name:	app.huarenjie.com
+Address: 104.22.11.109
+Name:	app.huarenjie.com
+Address: 104.22.10.109
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.909ff.com
-Address: 194.53.53.3
-Name:	www.909ff.com
-Address: 194.53.53.253
+www.xsiluke.com	canonical name = cdn.cloudfront.bz.
+cdn.cloudfront.bz	canonical name = 77980.bodis.com.
+Name:	77980.bodis.com
+Address: 199.59.243.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	teli.net
-Address: 104.18.31.161
-Name:	teli.net
-Address: 104.18.30.161
-Name:	teli.net
-Address: 2606:4700::6812:1ea1
-Name:	teli.net
-Address: 2606:4700::6812:1fa1
+Name:	www.tushyraw.com
+Address: 104.22.10.109
+Name:	www.tushyraw.com
+Address: 104.22.11.109
+Name:	www.tushyraw.com
+Address: 172.67.11.149
 

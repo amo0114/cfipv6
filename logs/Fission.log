@@ -17832,3 +17832,25 @@ Performing DNS lookup for www.zpdyw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 60d4805] Update project files
+ 4 files changed, 67 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   d9ec85c..60d4805  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.30.161...
+Fetching domains for 104.22.60.117...
+Fetching domains for 104.21.30.204...
+succeed to fetch domains for 104.21.30.204 from https://site.ip138.com/
+succeed to fetch domains for 104.18.30.161 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.60.117 from https://ipchaxun.com/
+域名列表为
+['www.e4wt.cn', 'www.sohoparknyc.com', 'www.paid8.com', 'www.lutu2.cc', 'www.tvyb02.com', 'www.kanunu2.com', 'wz.weishao2023.dk.eu.org', '498aaa.com', '164816.cn', 'fofa168.com', '101803.com', 'm.tpyyc.com', 'ipdb.rr.nu', 'm.kanmanhuala.cc', 'www.178zmy.com', 'meijushijie.com', 'www.121ch.com', 'h26qz3.urhqjjpn.news', 'ba.bafgzxcqwu.info', 'www.ddwhm.com', 'reposhub.com', 'h5abz1.lxxcled.com', 'cause.urhqjjpn.news', 'www.meijushijie.com', 'api.a-premium-test.com', 'a789ts.com', 'www.498aaa.com', 'nav.151bxj.top', '5123pu.com', 'fan.yutian.us.kg', 'www.fofa168.com', 'fqarwsbhy.icu', 'hiretual.com', 'www.bi251.com', 'www.jingguanghang.com', 'cfip.xxxxxxxx.tk', 'ml.cbdcyb.ml', 'a.paid8.com', 'teli.net', '127ll.tv', 'www.e6622.com', 'www.suicamyun.cn', 'www.flash-dowload-cna.ml', 'www.manhuadd.com', 'tianmao13.com', '230yu.com', 'oozj.org', 'www.tpyyc.com', 'www.909ff.com', '8m2817.com', 'app.hiretual.com', '151bxj.top', 'www.cfhuagong.com', '91xxx11.com', 'www.lailai360.com', 'ccacpineville.org', 'garnier.hu', '121ch.com', 'www.yjys05.com', 'h24rz6.urhqjjpn.news', 'www.230yu.com', 'akaihentai.com', 'www.a789ts.com', 'www.meisternote.com', 'www.5123pu.com', 'paid8.com', 'www.92mili.com', 'www.garnier.hu', 'www.megumirawr.cc', 'ze60.com', 'm.6988tv.com', 'www.0714hu.com', '909ff.com', 'acus.cloudflarest.link', 'www.101803.com', 'decathlon.es', 'h22qz2.urhqjjpn.news']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for h5abz1.lxxcled.com...
+Performing DNS lookup for www.909ff.com...
+Performing DNS lookup for teli.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
