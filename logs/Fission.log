@@ -17722,3 +17722,25 @@ Performing DNS lookup for www.byylgc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 43430ed] Update project files
+ 4 files changed, 102 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   cb1cf64..43430ed  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.210.50...
+Fetching domains for 198.41.221.199...
+Fetching domains for 104.16.249.58...
+succeed to fetch domains for 104.16.249.58 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.221.199 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.210.50 from https://ipchaxun.com/
+域名列表为
+['agent.scm333.com', 'www.bjyongcheng.com', 'www.smdyy.cc', 'ag.hg2096.com', 'www.qf527.com', 'cdn.cf.clun.top', 'blog.hostmonit.com', 'www.512yyds.com', 'scm333.com', 'www.zjgamy.com', 'suboji.com', 'www.4148.net', 'vcd.la', 'www.hnxinlian.org', 'www.icehua.cc', 'www.tinghen.com', 't083.com', 'yundunwawablogcdn1dx.wawacm.com', '606977.com', 'www.51jion.com', 'www.baiitv.com', 'www.6988tv.com', 'www.11txt.com', 'cf1.492745.xyz', 'sgv7.com', 'www.7sc.cc', 'm.52bqg.net', 'www.uu93.com', 'www.paizipai.top', 'www.66se.tv', 'www.qp666.com', 'cg.22yy7.com', 'www.ddwhm.com', 'qp66.com', '8810868.com', 'www.4gdiy.com', 'yyxycn.com', 'stock.hostmonit.com', '7sc.cc', 'www.dvdspring.com', 'www.116.ag', '909855.com', 'clun.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cf1.492745.xyz...
+Performing DNS lookup for blog.hostmonit.com...
+Performing DNS lookup for www.66se.tv...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
