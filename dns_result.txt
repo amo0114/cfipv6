@@ -2,28 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.lailai360.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
+Name:	titosvodka.com
+Address: 104.26.2.73
+Name:	titosvodka.com
+Address: 104.26.3.73
+Name:	titosvodka.com
+Address: 172.67.73.44
+Name:	titosvodka.com
+Address: 2606:4700:20::ac43:492c
+Name:	titosvodka.com
+Address: 2606:4700:20::681a:349
+Name:	titosvodka.com
+Address: 2606:4700:20::681a:249
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.king92.net: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global18.66666654.xyz.
-Name:	cfcn-b-global18.66666654.xyz
-Address: 104.17.251.150
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.40.77
+Name:	www.paizipai.top
+Address: 104.21.75.195
+Name:	www.paizipai.top
+Address: 172.67.180.229
+Name:	www.paizipai.top
+Address: 2606:4700:3037::ac43:b4e5
+Name:	www.paizipai.top
+Address: 2606:4700:3035::6815:4bc3
 
