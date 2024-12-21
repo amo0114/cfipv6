@@ -18077,3 +18077,25 @@ Performing DNS lookup for nlsdwsz.66666654.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bd44bb4] Update project files
+ 4 files changed, 56 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (92%)
+To github.com:amo0114/cfipv6.git
+   6986004..bd44bb4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.43.72...
+Fetching domains for 104.17.243.234...
+Fetching domains for 104.21.236.201...
+succeed to fetch domains for 172.66.43.72 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.236.201 from https://site.ip138.com/
+succeed to fetch domains for 104.17.243.234 from https://site.ip138.com/
+域名列表为
+['www.exporthub.com', 'm.wanjinglife.com', 'www.zzztch.com', 'www.cam69.com', 'www.lyys8.com', 'globalpokerindex.com', 'www.50zw.co', 'user.colacloud.net', 'www.30hu.com', 'uncova.com', 'www.lygzfdz.com', 'rovmaker.org', 'cam69.com', 'love.com', 'exporthub.com', 'www.tmg-ball.com', 'ukcc.digicert.pp.ua', 'www.295k.com', 'www.cocanwelding.com', 'colacloud.net', 'rangwozuo.com', 'cfip.xxxxxxxx.tk', 'www.whpaiger.com', 'www.31bz.com', 'baxtc.66666654.xyz', 'www.pkunetlaw.cn', 'poweizu.com', 'alexis.lindaikejisblog.com', 'www.rf-craftworld.ru', 'www.dafuhao.com', 'www.lyzdzy.com', 'm.6988tv.com', 'nlsdwsz.66666654.xyz', 'www.lindaikejisblog.com', 'newsguide.onlinecasinos.net', 'www.iios.me', 'netuniversecorp.com', 'ss.jvi99.xyz', 'tmg-ball.com', 'hkaa.sectigo.pp.ua', 'man.luwangyangrong.com', 'www.pianku5.com', 'www.ddwhm.com', 'www.love.com', 'www.1ccglobal.org', 'down.jvi99.xyz', 'a1.jvi99.xyz', 'www.galzy.eu.org', 'freeyingshi.com', 'www.wanjinglife.com', 'fsys.app', 'www.sjzsckj.com', 'science.colacloud.net', 'www.pay555.xyz', '1ccglobal.org', 'www.775252.xyz', 'www.7seasproshopthai.com', 'www.iios.club', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.tpyyc.com', 'www.portugalcasino.pt', 'lindaikejisblog.com', 'yh6.dtku41.xyz', 'www.mossimo.com.au', 'payloadspace.com', 'xm.jvi99.xyz', 'freeyx.cloudflare88.eu.org', 'www.orlandohealth.com', 'pay555.xyz', 'acus.cloudflarest.link', 'acjp2.cloudflarest.link', 'gwruqrboxtitjdcppyow.ludashitv986.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for www.50zw.co...
+Performing DNS lookup for www.lyys8.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

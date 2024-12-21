@@ -2,25 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.50zw.co: NXDOMAIN
+Name:	www.themasksinger.com
+Address: 172.67.221.53
+Name:	www.themasksinger.com
+Address: 104.21.24.241
+Name:	www.themasksinger.com
+Address: 2606:4700:3032::ac43:dd35
+Name:	www.themasksinger.com
+Address: 2606:4700:3034::6815:18f1
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.lyys8.com	canonical name = cname.lingyun.in.
-Name:	cname.lingyun.in
-Address: 104.21.39.9
-Name:	cname.lingyun.in
-Address: 172.67.141.208
-Name:	cname.lingyun.in
-Address: 2606:4700:3031::ac43:8dd0
-Name:	cname.lingyun.in
-Address: 2606:4700:3032::6815:2709
+www.nitianxieshen.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.162.213
+Name:	ips.993888.xyz
+Address: 104.17.222.7
+Name:	ips.993888.xyz
+Address: 104.17.31.83
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	bdx100.com
+Address: 162.209.175.122
 
