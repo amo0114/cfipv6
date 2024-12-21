@@ -2,46 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yjys05.com	canonical name = nz.7zz.cn.
-nz.7zz.cn	canonical name = cdn.7zz.cn.
-Name:	cdn.7zz.cn
-Address: 104.18.36.72
-Name:	cdn.7zz.cn
-Address: 104.19.240.89
-Name:	cdn.7zz.cn
-Address: 104.17.72.2
-Name:	cdn.7zz.cn
-Address: 104.19.251.64
-Name:	cdn.7zz.cn
-Address: 104.17.138.206
-Name:	cdn.7zz.cn
-Address: 2606:4700:a0::65ee:27fd
-Name:	cdn.7zz.cn
-Address: 2a06:98c1:3121::2f10:789d
-Name:	cdn.7zz.cn
-Address: 2606:4700:3113::1cb8:1e02
-Name:	cdn.7zz.cn
-Address: 2606:4700:311f::20f2:78e2
-Name:	cdn.7zz.cn
-Address: 2606:4700:3035::6adf:202a
+Name:	www.whpaiger.com
+Address: 162.209.149.30
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.50zw.co: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-chunbb.sectigo.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global13.66666654.xyz.
-Name:	cfcn-b-global13.66666654.xyz
-Address: 104.17.250.188
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global.66666654.xyz.
-Name:	cfcn-a-global.66666654.xyz
-Address: 104.17.253.197
+www.lyys8.com	canonical name = cname.lingyun.in.
+Name:	cname.lingyun.in
+Address: 104.21.39.9
+Name:	cname.lingyun.in
+Address: 172.67.141.208
+Name:	cname.lingyun.in
+Address: 2606:4700:3031::ac43:8dd0
+Name:	cname.lingyun.in
+Address: 2606:4700:3032::6815:2709
 
