@@ -2,34 +2,43 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	titosvodka.com
-Address: 104.26.2.73
-Name:	titosvodka.com
-Address: 104.26.3.73
-Name:	titosvodka.com
-Address: 172.67.73.44
-Name:	titosvodka.com
-Address: 2606:4700:20::ac43:492c
-Name:	titosvodka.com
-Address: 2606:4700:20::681a:349
-Name:	titosvodka.com
-Address: 2606:4700:20::681a:249
+Name:	sneakerworld.yupoo.us
+Address: 104.21.64.1
+Name:	sneakerworld.yupoo.us
+Address: 104.21.96.1
+Name:	sneakerworld.yupoo.us
+Address: 104.21.48.1
+Name:	sneakerworld.yupoo.us
+Address: 104.21.16.1
+Name:	sneakerworld.yupoo.us
+Address: 104.21.112.1
+Name:	sneakerworld.yupoo.us
+Address: 104.21.32.1
+Name:	sneakerworld.yupoo.us
+Address: 104.21.80.1
+Name:	sneakerworld.yupoo.us
+Address: 2606:4700:3030::6815:5001
+Name:	sneakerworld.yupoo.us
+Address: 2606:4700:3030::6815:6001
+Name:	sneakerworld.yupoo.us
+Address: 2606:4700:3030::6815:7001
+Name:	sneakerworld.yupoo.us
+Address: 2606:4700:3030::6815:4001
+Name:	sneakerworld.yupoo.us
+Address: 2606:4700:3030::6815:3001
+Name:	sneakerworld.yupoo.us
+Address: 2606:4700:3030::6815:1001
+Name:	sneakerworld.yupoo.us
+Address: 2606:4700:3030::6815:2001
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.king92.net: NXDOMAIN
+** server can't find nc1-song.twow42.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.paizipai.top
-Address: 104.21.75.195
-Name:	www.paizipai.top
-Address: 172.67.180.229
-Name:	www.paizipai.top
-Address: 2606:4700:3037::ac43:b4e5
-Name:	www.paizipai.top
-Address: 2606:4700:3035::6815:4bc3
+www.ddwhm.com	canonical name = speed.marisalnc.com.
 

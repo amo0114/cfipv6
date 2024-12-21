@@ -17990,3 +17990,25 @@ Performing DNS lookup for www.lyzdzy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b7105bd] Update project files
+ 4 files changed, 67 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   725089d..b7105bd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.4.75...
+Fetching domains for 104.17.252.226...
+Fetching domains for 172.67.73.44...
+succeed to fetch domains for 104.17.252.226 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.73.44 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.4.75 from https://site.ip138.com/
+域名列表为
+['cdn.autodoc.de', 'www.jingshuai888.com', 'www.hnxinlian.org', 'www.chemringds.com', 'www.182qw.com', 'dk.ryobitools.eu', 'web.hksfbet.com', 'www.tinghen.com', 'www.6xr.com', 'www.kelongwo.com', 'shuimutv.com', 'www.pensionbee.com', 'www.0550cq.com', 'www.7lq.com', 'www.czlbfrp.com', 'www.greenstyle.it', 'titosvodka.com', 'www.6988tv.com', 'www.ikantv.net', 'm.czlbfrp.com', 'cdn.didi8.com', 'jqggzyjy.com.cn', 'mg.orcoin.net', 'best.cdn.sqeven.cn', 'www.28et.com', 'www.0789pk.com', 'www.gzgafk.com', 'www.angloamerican.com', 'www.wxxzzs.com', 'sgv7.com', 'www.vol-direct.fr', 'www.tyresgator.com', 'www.cc88ee.com', 'najlacnejsie-knihy.sk', 'cfip.xxxxxxxx.tk', 'www.miyaip.com', 'www.65bao2.com', 'www.hxsy888.com', 'ulinkaou.com', 'www.lvhuisb.com', 'www.jsdrtzn.com', 'www.cbcv.cc', 'rexbo.it', 'www.ifineair.com', 'cdn.cmliu.net', 'pt.ryobitools.eu', 'flatio.com', 'www.92mili.com', 'www.tv9090.com', 'www.manhuadb.com', 'www.hljja.com', 'fly.volanta.app', 'www.rakumachi.jp', 'cloudflare.182682.xyz', 'md107.com', 'www.7k21.com', 'm.vodbd.com', 'www.smdyy.cc', 'dn.eaglegame777.com', 'www.11txt.com', 'www.iios.club', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.jve0.com', 'www.74ms.com', 'volanta.app', 'www.511my.com', 'www.17kty.com', 'www.99qhmy.com', 'jve0.com', 'tv9090.com', 'img.hostmonit.com', 'www.shuimutv.com', 'fons.com', 'www.gzcfmy.com', '7k21.com', 'www.4148.net', 'gamesbarq.com', 'cc88ee.com', 'www.bqg3.cc', 'autodoc.de', 'www.king92.net', 'www.7sc.cc', 'miyaip.com', 'm.boyangjt.com', '789kp.com', 'hu.ryobitools.eu', 'blog.ipleaders.in', 'www.789kp.com', 'www.bjfqmj.com', 'blog.hostmonit.com', 'www.4hun02.com', 'cloudflare.cfgo.cc', 'kan234.com', 'cfip.201043.xyz', 'www.zgjmw.net', 'www.dgytlt.com', 'wyxs.cc', 'www.nwtlbb.cn', 'interface.eaglegame777.com', 'cf.qq.ms', 'www.cgfxw.com', 'www.sztimi.com', 'm.niuerzs.com', 'www.5699my.cn', 'zi0.cc', 'www.web120.org', 'k77yy.com', 'brasil.angloamerican.com', 'www.paizipai.top', 'hbws.com', 'fraktura.hr', 'www.28dushu.com', 'rp-ch-swmdmz13.harmanota.com.cn', 'm.y3600.cz', 'www.6i5.com', 'greenstyle.it', 'pensionbee.com', 'www.yjys05.com', 'www.aidanmu.me', 'xs.wxtv.cc', 'pl.ryobitools.eu', 'www.266958.com', 'pepelaunch.finance', 'www.wn03.cc', 'www.cocanwelding.com', 'jp57.cc', 'yundunwawablogcdn1yd.wawacm.com', 'haihangchem.com', '92lottery.net', 'www.bjyongcheng.com', 'www.wuda.cf', 'www.reliaquestbowl.com', 'hksfbet.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for titosvodka.com...
+Performing DNS lookup for www.king92.net...
+Performing DNS lookup for www.paizipai.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
