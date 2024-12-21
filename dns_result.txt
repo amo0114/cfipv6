@@ -2,33 +2,38 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.59.213
+Name:	ips.993888.xyz
+Address: 104.17.186.28
+Name:	ips.993888.xyz
+Address: 104.17.122.235
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global32.66666654.xyz.
-Name:	cfcn-b-global32.66666654.xyz
-Address: 104.17.251.177
+Name:	www.xbiquge.me
+Address: 104.21.20.159
+Name:	www.xbiquge.me
+Address: 172.67.193.47
+Name:	www.xbiquge.me
+Address: 2606:4700:3034::ac43:c12f
+Name:	www.xbiquge.me
+Address: 2606:4700:3033::6815:149f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-cfcdn1.sanfencdn9.com	canonical name = us.cijftwfk.xyz.
-us.cijftwfk.xyz	canonical name = us.ct.pdkqulmi.xyz.
-Name:	us.ct.pdkqulmi.xyz
-Address: 104.17.238.140
+www.flukeprocessinstruments.com.cn	canonical name = www.flukeprocessinstruments.com.cn.cdn.cloudflare.net.
+Name:	www.flukeprocessinstruments.com.cn.cdn.cloudflare.net
+Address: 104.17.85.20
+Name:	www.flukeprocessinstruments.com.cn.cdn.cloudflare.net
+Address: 104.17.86.20
+Name:	www.flukeprocessinstruments.com.cn.cdn.cloudflare.net
+Address: 2606:4700::6811:5614
+Name:	www.flukeprocessinstruments.com.cn.cdn.cloudflare.net
+Address: 2606:4700::6811:5514
 
