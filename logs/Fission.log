@@ -18012,3 +18012,25 @@ Performing DNS lookup for www.paizipai.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ca91d98] Update project files
+ 4 files changed, 79 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   b7105bd..ca91d98  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.44.181...
+Fetching domains for 104.21.29.191...
+Fetching domains for 104.17.252.226...
+succeed to fetch domains for 104.17.252.226 from https://site.ip138.com/
+succeed to fetch domains for 104.21.29.191 from https://site.ip138.com/
+succeed to fetch domains for 172.66.44.181 from https://ipchaxun.com/
+域名列表为
+['linchuanjia.yupoo.us', 'dehuizhaopin.com', 'maggievip.yupoo.us', 'yang120978179.yupoo.us', 'jason007-watch.yupoo.us', 'shoesnice.yupoo.us', 'shop.yshhy.dynv6.net', 'www.manhuadb.com', 'luxxeclub.yupoo.us', 'fclxx.top', 'robinmall.yupoo.us', 'usdcome-h.yupoo.us', '3g.fclxx.top', 'supplierzhuo.yupoo.us', 'darcy.yupoo.us', 'www.v2raz.vip', 'superstoney.yupoo.us', 'jingerbags.yupoo.us', 'yge-babaoli.yupoo.us', 'www.gd9855.com', 'xsj.com', 'shoesoffers.yupoo.us', 'iwocar.com', 'jhpcza.66666654.xyz', 'www.iios.club', 'sneakernew.yupoo.us', 'www.nitianxieshen.com', 'www.wn04.cc', 'www.fulidwq.cn', 'hgk38413160.yupoo.us', 'baxtc.66666654.xyz', 'www.28et.com', 'www.dehuizhaopin.com', 'www.syzhitai.com', 'toserk.tk', '69xx1007.xyz', 'wholesale1984.yupoo.us', 'md1189.xyz', 'sese8301.com', 'runningshoes1880.yupoo.us', 'jindian-factory.yupoo.us', 'powerchen.yupoo.us', 'alasimahonline.com', 'sinaweibo5168304734.yupoo.us', '46yg.com', 'www.ddwhm.com', 'light-1.yupoo.us', 'mytrojan-b29.pages.dev', 'running001.yupoo.us', 'ed.xuanwuhu.us.kg', 'telegram-marketing-software.pages.dev', 'www.gic.com.tr', 'hxl18.com', 'listenuponlinestore.yupoo.us', 'lb801111.yupoo.us', 'www.cocanwelding.com', 'm.qflf85.cc', 'www.blcraft.top', 'www.txisfine.cn', 'm.fclxx.top', 'xbgg116.com', '567890.com', 'luxussachen.yupoo.us', 'xu-520.yupoo.us', 'nikeaa99668.yupoo.us', 'www.dafuhao.com', 'nc1-song.twow42.com', 'scofeechen.yupoo.us', 'ygbb.rapidssl.pp.ua', 'qzone3859847717.yupoo.us', 'sneakerworld.yupoo.us', 'replica-shoes.yupoo.us', 'kelly171003.yupoo.us', 'www.bhxsw.com', 'qzone3590752957.yupoo.us', 'maturesinlove.com', 'iofferlv.yupoo.us', 'www.93xscc.com', 'jblx2017.yupoo.us', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'yezhibin07yx.yupoo.us', 'nlsdwsz.66666654.xyz', 'gagajichang.pages.dev', 'www.fclxx.top', 'www.65bao2.com', 'yuelaiyuehao.yupoo.us', 'www.sddid.top', 'cfip.xxxxxxxx.tk', '81djbh.com', 'zhangjinzhen.yupoo.us', 'tradegoldkey.yupoo.us', 'ysz-0594.yupoo.us', 'www.sese8301.com', 'www.aikx.cc', 'nb-new.yupoo.us', 'www.algorand.com', 'shopgomi.yupoo.us', 'zelandfactory.yupoo.us', 'aikx.cc', 'tina02843911.yupoo.us', 'pic.pages.dev', 'l4jnf7.dna-ltb.com', 'md129.yupoo.us', 'jqkwholesale01.yupoo.us', 'kaitesi.yupoo.us', 'tianmaoi.yupoo.us', 'sneakerheads.yupoo.us', 'topwholesale.yupoo.us', 'lisabusiness.yupoo.us', 'poge.yupoo.us', 'tina0284.yupoo.us', 'paloman.yupoo.us', 'jingdongg.yupoo.us', 'www.yjys05.com', 'javx.org', 'lulushoes2018.yupoo.us', 'wismar2008.yupoo.us', 'nikeairmaxshoes.yupoo.us', 'wujinhui518.yupoo.us', 'kingqian000.yupoo.us', 'moschinosale.yupoo.us', 'kickssofire.yupoo.us', 'www.gg0103.com', 'm.niuerzs.com', 'topacney.yupoo.us', 'www.lguverse.com', 'www.wn05.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for sneakerworld.yupoo.us...
+Performing DNS lookup for nc1-song.twow42.com...
+Performing DNS lookup for www.ddwhm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
