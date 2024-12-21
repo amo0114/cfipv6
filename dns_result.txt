@@ -1,19 +1,47 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 3g.bb3tv.top: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find m.y3600.cz: NXDOMAIN
+Non-authoritative answer:
+www.yjys05.com	canonical name = nz.7zz.cn.
+nz.7zz.cn	canonical name = cdn.7zz.cn.
+Name:	cdn.7zz.cn
+Address: 104.18.36.72
+Name:	cdn.7zz.cn
+Address: 104.19.240.89
+Name:	cdn.7zz.cn
+Address: 104.17.72.2
+Name:	cdn.7zz.cn
+Address: 104.19.251.64
+Name:	cdn.7zz.cn
+Address: 104.17.138.206
+Name:	cdn.7zz.cn
+Address: 2606:4700:a0::65ee:27fd
+Name:	cdn.7zz.cn
+Address: 2a06:98c1:3121::2f10:789d
+Name:	cdn.7zz.cn
+Address: 2606:4700:3113::1cb8:1e02
+Name:	cdn.7zz.cn
+Address: 2606:4700:311f::20f2:78e2
+Name:	cdn.7zz.cn
+Address: 2606:4700:3035::6adf:202a
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	saba168.com
-Address: 13.248.213.45
-Name:	saba168.com
-Address: 76.223.67.189
+chunbb.sectigo.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global13.66666654.xyz.
+Name:	cfcn-b-global13.66666654.xyz
+Address: 104.17.250.188
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global.66666654.xyz.
+Name:	cfcn-a-global.66666654.xyz
+Address: 104.17.253.197
 

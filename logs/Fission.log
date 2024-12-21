@@ -18034,3 +18034,25 @@ Performing DNS lookup for www.ddwhm.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 01190ba] Update project files
+ 4 files changed, 49 insertions(+), 57 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   ca91d98..01190ba  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.4.75...
+Fetching domains for 172.67.73.44...
+Fetching domains for 104.21.24.241...
+succeed to fetch domains for 104.18.4.75 from https://site.ip138.com/
+succeed to fetch domains for 104.21.24.241 from https://site.ip138.com/
+succeed to fetch domains for 172.67.73.44 from https://site.ip138.com/
+域名列表为
+['wap.bb3tv.top', 'jh551.com', 'www.182qw.com', 'xzhan.dxqx.xyz', 'haihangchem.com', 'mg.orcoin.net', 'bestgames-2022.com', 'k77yy.com', 'www.iios.club', 'hu.ryobitools.eu', 'pensionbee.com', 'www.789kp.com', 'www.themasksinger.com', 'www.woshizhuzhu.com', 'hyd-relay.com', 'weav176.cc', '9light.vip', 'uu340.com', 'www.17kty.com', 'xs.wxtv.cc', 'www.chemringds.com', 'ciotur.com', 'no.tc', 'greenstyle.it', 'v.jh551.com', 'cdn.didi8.com', 'cloudflare.cfgo.cc', 'www.czlbfrp.com', 'hdatmos.club', 'www.4hun02.com', 'www.74ms.com', 'www.shuimutv.com', 'rp-ch-swmdmz13.harmanota.com.cn', 'm.yqlyxz.top', 'www.92mili.com', 'tv9090.com', 'www.7k21.com', 'm.niuerzs.com', 'www.reliaquestbowl.com', 'www.paizipai.top', 'cdn.autodoc.de', 'img.hostmonit.com', 'www.cgfxw.com', 'brasil.angloamerican.com', 'www.tyresgator.com', 'www.3567re.com', 'www.kfily.com', 'www.11txt.com', 'www.smdyy.cc', 'fishing-weekend.com.ua', 'jve0.com', 'web.hksfbet.com', 'hmx0.com', '3g.bb3tv.top', 'www.6988tv.com', 'www.cbcv.cc', 'bb3tv.top', 'lovelive.vip', 'm.boyangjt.com', 'www.wuda.cf', 'cf.qq.ms', 'www.nwtlbb.cn', 'pt.ryobitools.eu', 'www.rakumachi.jp', 'flatio.com', 'www.lvhuisb.com', 'www.4148.net', 'dk.ryobitools.eu', 'kan234.com', 'wx518.net', 'fish520.cn', 'oh101.com', 'www.kytyy.com', '92lottery.net', 'autodoc.de', 'www.7sc.cc', 'fons.com', 'www.vol-direct.fr', '11122vns.com', '4343zz.com', 'cc88ee.com', 'luo1.xyz', 'pl.ryobitools.eu', 'rehabmed.or.th', 'porndued.com', 'hcweb.3eyvi7.live', 'www.bjyongcheng.com', 'hongkongbgp01.mukyu.asia', 'cloudflare.182682.xyz', 'www.bjfqmj.com', '7k21.com', 'www.graydeervpn.com', 'fraktura.hr', 'saba168.com', 'www.feji6.cn', 'www.szluojian.com', 'g1.36889aa.com', 'www.gzgafk.com', 'jp57.cc', '3g.yqlyxz.top', 'italtrike.com', 'w1.36889aa.com', 'fly.volanta.app', 'www.tv9090.com', 'www.lovelive.vip', 'cfip.xxxxxxxx.tk', 'www.dgytlt.com', 'huolang.lol', 'www.5699my.cn', 'www.hljja.com', 'best.cdn.sqeven.cn', 'www.gzcfmy.com', 'www.upics.ru', 'www.jingshuai888.com', 'www.cc88ee.com', 'hksfbet.com', 'iafhrodf.xyz', 'www.greenstyle.it', 'www.arowanafishtalk.com', 'app.dcv4s.xyz', 'hbws.com', 'www.kelongwo.com', 'www.vvv.office2222.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.hnxinlian.org', 'pepelaunch.finance', 'gamesbarq.com', 'www.jve0.com', 'www.ifineair.com', 'najlacnejsie-knihy.sk', 'www.uu340.com', '900jpg.com', 'arowanafishtalk.com', 'jmcomi.mobi', 'm.vodbd.com', 'blutopia.cc', 'www.6i5.com', 'www.ikantv.net', '2444hu.com', 'www.web120.org', 'www.511my.com', 'www.jsdrtzn.com', 'blog.hostmonit.com', 'www.bqg3.cc', 'shuimutv.com', 'manufakturindo.com', 'interface.eaglegame777.com', 'm.czlbfrp.com', 'iecmk.com', 'www.wn03.cc', 'miyaip.com', 'www.28dushu.com', 'www.92free.icu', 'www.99qhmy.com', 'clash3d.com', 'www.2444hu.com', 'feji6.cn', 'blog.ipleaders.in', 'www.sztimi.com', 'www.zgjmw.net', '789kp.com', 'm.bb3tv.top', 'www.wxxzzs.com', 'www.whpaiger.com', 'www.iafhrodf.xyz', 'jqggzyjy.com.cn', 'www.676967.com', 'www.angloamerican.com', 'www.iecmk.com', 'www.7lq.com', 'm.y3600.cz', 'www.266958.com', 'www.yjys05.com', 'www.miyaip.com', 'ulinkaou.com', 'ct.090227.xyz', 'sdyl.me', 'www.hxsy888.com', 'www.0789pk.com', 'rexbo.it', 'ye73.com', 'www.0550cq.com', 'www.tinghen.com', 'dn.eaglegame777.com', 'ukepj45vo.xyz', '90bola.id', 'www.huolang.lol', 'news.oh101.com', '92free.icu', 'www.hyd-relay.com', 'upics.ru', 'www.pensionbee.com', 'cfip.201043.xyz', 'volanta.app', 'www.aidanmu.me', 'heiliao80.lol', 'www.9light.vip', '230088.app', 'md107.com', 'www.king92.net', 'www.bb3tv.top', 'sgv7.com', 'titosvodka.com', 'cdn.cmliu.net', '36889aa.com', '3567re.com', 'wyxs.cc', 'www.cd697.cn', 'zi0.cc', 'www.6xr.com', 'uni.app', 'xxht8188.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3g.bb3tv.top...
+Performing DNS lookup for m.y3600.cz...
+Performing DNS lookup for saba168.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
