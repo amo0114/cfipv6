@@ -1,32 +1,53 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		1.1.1.1
+Address:	1.1.1.1#53
 
-Non-authoritative answer:
-Name:	www.themasksinger.com
-Address: 172.67.221.53
-Name:	www.themasksinger.com
-Address: 104.21.24.241
-Name:	www.themasksinger.com
-Address: 2606:4700:3032::ac43:dd35
-Name:	www.themasksinger.com
-Address: 2606:4700:3034::6815:18f1
+** server can't find hxl18.com: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nitianxieshen.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.162.213
-Name:	ips.993888.xyz
-Address: 104.17.222.7
-Name:	ips.993888.xyz
-Address: 104.17.31.83
+Name:	runningshoes1880.yupoo.us
+Address: 104.21.16.1
+Name:	runningshoes1880.yupoo.us
+Address: 104.21.48.1
+Name:	runningshoes1880.yupoo.us
+Address: 104.21.96.1
+Name:	runningshoes1880.yupoo.us
+Address: 104.21.64.1
+Name:	runningshoes1880.yupoo.us
+Address: 104.21.80.1
+Name:	runningshoes1880.yupoo.us
+Address: 104.21.32.1
+Name:	runningshoes1880.yupoo.us
+Address: 104.21.112.1
+Name:	runningshoes1880.yupoo.us
+Address: 2606:4700:3030::6815:6001
+Name:	runningshoes1880.yupoo.us
+Address: 2606:4700:3030::6815:5001
+Name:	runningshoes1880.yupoo.us
+Address: 2606:4700:3030::6815:4001
+Name:	runningshoes1880.yupoo.us
+Address: 2606:4700:3030::6815:1001
+Name:	runningshoes1880.yupoo.us
+Address: 2606:4700:3030::6815:3001
+Name:	runningshoes1880.yupoo.us
+Address: 2606:4700:3030::6815:2001
+Name:	runningshoes1880.yupoo.us
+Address: 2606:4700:3030::6815:7001
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	bdx100.com
-Address: 162.209.175.122
+Name:	www.bhxsw.com
+Address: 104.21.29.191
+Name:	www.bhxsw.com
+Address: 172.67.149.169
+Name:	www.bhxsw.com
+Address: 2606:4700:3032::ac43:95a9
+Name:	www.bhxsw.com
+Address: 2606:4700:3037::6815:1dbf
 

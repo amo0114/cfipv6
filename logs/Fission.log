@@ -18099,3 +18099,25 @@ Performing DNS lookup for www.lyys8.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main fa89254] Update project files
+ 4 files changed, 65 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   bd44bb4..fa89254  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.44.181...
+Fetching domains for 104.21.229.149...
+Fetching domains for 104.21.24.241...
+succeed to fetch domains for 104.21.24.241 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.229.149 from https://site.ip138.com/
+succeed to fetch domains for 172.66.44.181 from https://dnsdblookup.com/
+域名列表为
+['clash3d.com', 'bwin.189988.xyz', 'www.wn05.cc', 'www.graydeervpn.com', 'www.themasksinger.com', 'www.wn04.cc', 'bdx100.com', 'shop.yshhy.dynv6.net', 'www.tpyyc.com', 'www.txisfine.cn', 'lovelive.vip', 'wap.bb3tv.top', 'ed.xuanwuhu.us.kg', 'blutopia.cc', 'saba168.com', 'www.uu340.com', 'uu340.com', 'www.cd697.cn', 'pic.pages.dev', 'www.cgltg.com', 'iecmk.com', 'cfip.xxxxxxxx.tk', 'www.iecmk.com', 'jhpcza.66666654.xyz', 'upics.ru', 'gagajichang.pages.dev', 'www.szluojian.com', 'ukepj45vo.xyz', 'www.hm13.lol', '9light.vip', 'nlsdwsz.66666654.xyz', 'porndued.com', 'www.upics.ru', 'm.niuerzs.com', 'uni.app', 'rehabmed.or.th', '92free.icu', 'jh551.com', '3g.bb3tv.top', 'www.iios.club', 'huolang.lol', 'www.kukedy.tv', 'www.woshizhuzhu.com', 'heiliao80.lol', 'www.93xscc.com', 'www.dafuhao.com', 'www.nitianxieshen.com', 'www.v2raz.vip', 'freeyingshi.com', '11122vns.com', '90bola.id', 'fish520.cn', 'www.algorand.com', 'www.bb3tv.top', 'luo1.xyz', 'www.ddwhm.com', 'xsj.com', 'baxtc.66666654.xyz', 'www.clun.top', 'www.doupobook.com', 'www.blcraft.top', 'www.pingshu365.com', 'sdyl.me', 'm.999wx.net', 'www.huolang.lol', 'www.92free.icu', 'www.yhsqxy.com', 'weav176.cc', '3g.yqlyxz.top', '900jpg.com', 'www.laohanzong.com', 'mytrojan-b29.pages.dev', 'www.whpaiger.com', 'ct.090227.xyz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'hongkongbgp01.mukyu.asia', 'www.feji6.cn', 'bb3tv.top', 'achk.cloudflarest.link', 'www.176sf999.com', 'telegram-marketing-software.pages.dev', 'm.bb3tv.top', 'www.9light.vip', 'feji6.cn', 'www.vvv.office2222.com', 'no.tc', 'hmx0.com', 'yx.887141.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.themasksinger.com...
+Performing DNS lookup for www.nitianxieshen.com...
+Performing DNS lookup for bdx100.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
