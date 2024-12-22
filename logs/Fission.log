@@ -18275,3 +18275,26 @@ Performing DNS lookup for www.1a1v.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f28e903] Update project files
+ 4 files changed, 62 insertions(+), 124 deletions(-)
+ rewrite Fission_ip_backup.txt (98%)
+ rewrite dns_result.txt (90%)
+To github.com:amo0114/cfipv6.git
+   adba9c0..f28e903  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.71.60...
+Fetching domains for 104.21.236.201...
+Fetching domains for 104.17.252.226...
+succeed to fetch domains for 104.21.236.201 from https://site.ip138.com/
+succeed to fetch domains for 104.17.252.226 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.71.60 from https://dnsdblookup.com/
+域名列表为
+['www.dafuhao.com', 'www.50zw.co', 'www.iios.me', 'www.28et.com', 'www.ddwhm.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.cocanwelding.com', 'cfip.xxxxxxxx.tk', 'acjp2.cloudflarest.link', 'www.zzztch.com', 'ukcc.digicert.pp.ua', 'www.megumirawr.cc', 'man.luwangyangrong.com', 'www.pkunetlaw.cn', 'www.pianku5.com', 'www.momdm.com', 'www.sjzsckj.com', 'poweizu.com', 'freeyx.cloudflare88.eu.org', 'www.whpaiger.com', 'www.30hu.com', 'yh6.dtku41.xyz', 'hkaa.sectigo.pp.ua', 'www.lygzfdz.com', 'm.6988tv.com', 'www.lyys8.com', 'www.iios.club', 'acus.cloudflarest.link', 'www.tpyyc.com', 'www.yjys05.com', 'www.65bao2.com', 'www.775252.xyz', 'www.295k.com', 'www.manhuadb.com', 'freeyingshi.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.megumirawr.cc...
+Performing DNS lookup for www.tpyyc.com...
+Performing DNS lookup for www.momdm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

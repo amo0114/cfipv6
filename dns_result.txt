@@ -2,27 +2,43 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.megumirawr.cc	canonical name = www.megumirawr.top.
-Name:	www.megumirawr.top
-Address: 104.21.83.187
-Name:	www.megumirawr.top
-Address: 172.67.180.217
-Name:	www.megumirawr.top
-Address: 2606:4700:3035::ac43:b4d9
-Name:	www.megumirawr.top
-Address: 2606:4700:3037::6815:53bb
+www.wn03.cc	canonical name = cf-4.sjcdn.top.
+cf-4.sjcdn.top	canonical name = cn.wnacg.com.
+Name:	cn.wnacg.com
+Address: 104.26.12.109
+Name:	cn.wnacg.com
+Address: 104.26.13.109
+Name:	cn.wnacg.com
+Address: 172.67.74.237
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:d6d
+Name:	cn.wnacg.com
+Address: 2606:4700:20::ac43:4aed
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:c6d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tpyyc.com
-Address: 107.148.242.9
+www.czlbfrp.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.160.2
+Name:	cf.zmdhc.com
+Address: 172.67.42.62
+Name:	cf.zmdhc.com
+Address: 172.67.49.202
+Name:	cf.zmdhc.com
+Address: 172.67.47.188
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.momdm.com
-Address: 185.107.56.195
+Name:	www.ifineair.com
+Address: 104.16.159.18
+Name:	www.ifineair.com
+Address: 104.17.200.169
+Name:	www.ifineair.com
+Address: 104.16.111.54
 
