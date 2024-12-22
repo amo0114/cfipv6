@@ -18252,3 +18252,26 @@ Performing DNS lookup for fsys.app...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main adba9c0] Update project files
+ 4 files changed, 146 insertions(+), 83 deletions(-)
+ rewrite Fission_ip_backup.txt (80%)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   3ab1e94..adba9c0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.43.72...
+Fetching domains for 104.21.229.149...
+Fetching domains for 104.21.23.203...
+succeed to fetch domains for 172.66.43.72 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.229.149 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.23.203 from https://site.ip138.com/
+域名列表为
+['fkydh26.shop', 'www.wanjinglife.com', 'zbsp.top', 'cwmtt.com', 'm.wanjinglife.com', 'www.tmg-ball.com', 'pp089.com', 'www.tpyyc.com', 'flzx1.com', 'freeyingshi.com', 'www.pingshu365.com', 'tmg-ball.com', 'www.lindaikejisblog.com', 'wap.pplxwit.top', 'www.zjochen.com', 'pplxwit.top', '300wzyz.life', '024tom.com', 'mc.baicarrots.top', 'andersondawr16159.blogs-service.com', 'gay2022.singles', 'netuniversecorp.com', 'www.jxdaogeng.cn', 'baxtc.66666654.xyz', 'nlsdwsz.66666654.xyz', 'www.hm13.lol', 'www.pplxwit.top', '71dn.com', 'www.dafuhao.com', 'ax4444.icu', 'bdx100.com', 'www.nsisfans.com', 'tq123.top', 'www.mossimo.com.au', 'www.176sf999.com', 'ism-pro.ru', '1ccglobal.org', 'www.clun.top', 'www.xigua5.com', 'www.portugalcasino.pt', 'www.doupobook.com', 'www.i7j5nb.xyz', 'hh468.com', 'science.colacloud.net', 'www.gay2022.singles', 'www.gaycn.top', 'www.1a1v.com', 'hanmanhome.xyz', 'love.com', 'kpd367.pw', 'www.iios.me', 'yx.887141.xyz', 'www.cgltg.com', 'igwicuwffw.club', 'fsys.app', 'kba.com.gr', 'www.hanmanhome.xyz', 'www.10086tv.com', 'www.guminzj.com', '10086tv.com', 'www.flzx1.com', 'www.love.com', 'www.iios.club', 'amour234.tw', 'achk.cloudflarest.link', 'bwin.189988.xyz', 'uncova.com', 'rangwozuo.com', 'www.rf-craftworld.ru', 'onani.cn', '3g.xy2017.top', 'netionaldastak.com', 'exporthub.com', 'tp140.cc', 'a1.jvi99.xyz', 'www.pay555.xyz', 'www.kuaikan66.com', 'www.exporthub.com', 'www.yhsqxy.com', 'colacloud.net', 'xm.jvi99.xyz', 'm.xy2017.top', 'www.lnwow.net', 'www.ism-pro.ru', 'newsguide.onlinecasinos.net', 'down.jvi99.xyz', 'www.xy2017.top', 'www.admin789.xyz', 'www.tq123.top', '019km.com', 'rovmaker.org', 'cam69.com', 'guminzj.com', 'sharekit.io', 'cc.11859.cc', 'yunyu666.net', 'www.typewriter.com.hk', 'admin789.xyz', 'wap.xy2017.top', 'www.kukedy.tv', 'gy188.top', 'm.niuerzs.com', 'xy2017.top', 'globalpokerindex.com', 'www.laohanzong.com', 'www.megumirawr.cc', 'www.cwmtt.com', 'cfip.xxxxxxxx.tk', 'wap.kkcwu.top', 'm.999wx.net', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.muzicahot.net', 'cl.1531y.xyz', 'baicarrots.top', 'gwruqrboxtitjdcppyow.ludashitv986.com', 'pay555.xyz', 'eul6.com', 'www.ddwhm.com', 'm.pplxwit.top', 'www.cam69.com', 'user.colacloud.net', '50dcmx.com', 'kkcwu.top', 'www.shanxishifanmba.com', 'xpd100.top', 'www.1ccglobal.org', 'payloadspace.com', 'lindaikejisblog.com', 'gymvitals.io', 'www.qumiyun.com', 'ss.jvi99.xyz', 'alexis.lindaikejisblog.com', 'www.galzy.eu.org', '22r5.com', 'www.7seasproshopthai.com', 'www.22r5.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 300wzyz.life...
+Performing DNS lookup for cc.11859.cc...
+Performing DNS lookup for www.1a1v.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

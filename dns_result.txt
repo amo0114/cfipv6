@@ -1,84 +1,28 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 300wzyz.life: NXDOMAIN
-
-;; Truncated, retrying in TCP mode.
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
 Non-authoritative answer:
-cc.11859.cc	canonical name = 88.67cdn.cc.
-88.67cdn.cc	canonical name = cdn1.bwcdn.com.
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.147
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.196
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.142
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.140
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.170
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.250
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.183
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.189
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.190
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.150
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.137
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.231
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.180
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.131
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.188
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.146
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.241
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.143
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.220
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.184
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.140
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.236
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.237
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.165
-Name:	cdn1.bwcdn.com
-Address: 103.240.142.145
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.134
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.200
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.202
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.225
-Name:	cdn1.bwcdn.com
-Address: 45.61.241.230
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.194
-Name:	cdn1.bwcdn.com
-Address: 43.248.171.158
+www.megumirawr.cc	canonical name = www.megumirawr.top.
+Name:	www.megumirawr.top
+Address: 104.21.83.187
+Name:	www.megumirawr.top
+Address: 172.67.180.217
+Name:	www.megumirawr.top
+Address: 2606:4700:3035::ac43:b4d9
+Name:	www.megumirawr.top
+Address: 2606:4700:3037::6815:53bb
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.1a1v.com
-Address: 204.11.56.37
+Name:	www.tpyyc.com
+Address: 107.148.242.9
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.momdm.com
+Address: 185.107.56.195
 
