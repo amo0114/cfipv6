@@ -2,56 +2,60 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 172.67.172.249
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 104.21.30.140
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:acf9
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:1e8c
+Name:	freeyingshi.com
+Address: 104.17.252.226
+Name:	freeyingshi.com
+Address: 172.66.44.181
+Name:	freeyingshi.com
+Address: 104.21.230.58
+Name:	freeyingshi.com
+Address: 104.18.4.75
+Name:	freeyingshi.com
+Address: 104.17.254.219
+Name:	freeyingshi.com
+Address: 104.21.229.149
+Name:	freeyingshi.com
+Address: 172.66.43.72
+Name:	freeyingshi.com
+Address: 104.18.71.60
+Name:	freeyingshi.com
+Address: 104.21.23.203
+Name:	freeyingshi.com
+Address: 198.41.215.221
+Name:	freeyingshi.com
+Address: 172.67.73.44
+Name:	freeyingshi.com
+Address: 104.21.236.201
+Name:	freeyingshi.com
+Address: 104.21.29.191
+Name:	freeyingshi.com
+Address: 104.17.243.234
+Name:	freeyingshi.com
+Address: 104.21.24.241
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yhsqxy.com	canonical name = dns.m3u8cache.top.
-Name:	dns.m3u8cache.top
-Address: 104.21.80.1
-Name:	dns.m3u8cache.top
-Address: 104.21.48.1
-Name:	dns.m3u8cache.top
-Address: 104.21.96.1
-Name:	dns.m3u8cache.top
-Address: 104.21.64.1
-Name:	dns.m3u8cache.top
-Address: 104.21.16.1
-Name:	dns.m3u8cache.top
-Address: 104.21.32.1
-Name:	dns.m3u8cache.top
-Address: 104.21.112.1
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::6815:6001
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::6815:2001
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::6815:7001
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::6815:1001
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::6815:5001
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::6815:4001
-Name:	dns.m3u8cache.top
-Address: 2606:4700:3030::6815:3001
+Name:	exporthub.com
+Address: 172.66.40.184
+Name:	exporthub.com
+Address: 172.66.43.72
+Name:	exporthub.com
+Address: 2606:4700:3108::ac42:2b48
+Name:	exporthub.com
+Address: 2606:4700:3108::ac42:28b8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global5.66666654.xyz.
-Name:	cfcn-a-global5.66666654.xyz
-Address: 104.17.253.56
+Name:	fsys.app
+Address: 104.21.84.115
+Name:	fsys.app
+Address: 172.67.191.146
+Name:	fsys.app
+Address: 2606:4700:3036::ac43:bf92
+Name:	fsys.app
+Address: 2606:4700:3033::6815:5473
 

@@ -18209,3 +18209,24 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e53f294] Update project files
+ 4 files changed, 81 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   6a3d599..e53f294  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.229.149...
+Fetching domains for 104.17.254.219...
+Fetching domains for 198.41.215.221...
+succeed to fetch domains for 198.41.215.221 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.229.149 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.254.219 from https://site.ip138.com/
+域名列表为
+['www.c333.net', 'www.connoisseurtravel.com', 'www.megumirawr.cc', 'www.11txt.com', 'stock.hostmonit.com', '0550cq.com', 'www.7sc.cc', 'www.sintingtoys.com', 'achk.cloudflarest.link', 'www.pingshu365.com', 'spca.114514782.xyz', 'm.niuerzs.com', 'asbcva.entrust.pp.ua', 'nlsdwsz.66666654.xyz', 'raw.gitmirror.com', 'www.dafuhao.com', 'www.96dushu.com', 'm.999wx.net', 'www.wxxzzs.com', 'm.6988tv.com', 'www.yunyou4.com', 'www.paizipai.top', 'www.clun.top', 'www.kanju8.com', 'www.hm13.lol', 'bdx100.com', 'www.tpyyc.com', 'longli.online', 'cf1.492745.xyz', 'yjys05.com', 'm.9sha.com', 'www.tinghen.com', 'jpvsavhyu.76898102.xyz', 'www.yhsqxy.com', 'www.xxpg888.com', 'www.jsmx999.com', 'm.0550cq.com', 'www.6988tv.com', 'www.laohanzong.com', 'jpaa.sectigo.pp.ua', 'cfip.xxxxxxxx.tk', 'www.ddwhm.com', 'www.nsisfans.com', 'www.kukedy.tv', 'cddone.com', 'www.176sf999.com', 'www.cbcv.cc', 'www.xworldadmin.com', 'chunbb.sectigo.pp.ua', 'www.10zhanpai.com', 'www.tuozhan22.com', 'www.888dyy.cc', 'www.tvccc.org', 'www.lhman.com', 'www.k77yy.com', 'www.hengdawatch.com', 'www.0550cq.com', 'www.sxyzxh.com', 'bwin.189988.xyz', 'www.99wx.cc', 'www.cgltg.com', 'kkyx.yydsii.com', 'jpee.sectigo.pp.ua', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'yx.887141.xyz', 'macvbb.555556789.xyz', 'm.tpyyc.com', 'www.yjys05.com', 'www.woaiqi.com', 'www.92mili.com', 'www.6i5.com', 'www.boyangjt.com', 'www.hnxinlian.org', 'www.jsjkyy.com', 'www.web120.org', 'www.doupobook.com', 'www.hkbn.xyz', 'freeyingshi.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tinghen.com...
+Performing DNS lookup for www.yhsqxy.com...
+Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
