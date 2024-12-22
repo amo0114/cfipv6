@@ -18143,3 +18143,25 @@ Performing DNS lookup for www.bhxsw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b3d00d6] Update project files
+ 4 files changed, 131 insertions(+), 66 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   d54e862..b3d00d6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.29.191...
+Fetching domains for 104.17.243.234...
+Fetching domains for 172.67.73.44...
+succeed to fetch domains for 104.17.243.234 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.29.191 from https://site.ip138.com/
+succeed to fetch domains for 172.67.73.44 from https://dnsdblookup.com/
+域名列表为
+['567890.com', 'ygbb.rapidssl.pp.ua', 'www.gg0103.com', 'hbws.com', 'md1189.xyz', 'l4jnf7.dna-ltb.com', 'running001.yupoo.us', 'sinaweibo5168304734.yupoo.us', 'md129.yupoo.us', 'yezhibin07yx.yupoo.us', 'linchuanjia.yupoo.us', 'light-1.yupoo.us', 'sneakernew.yupoo.us', 'www.lguverse.com', 'www.4148.net', 'jblx2017.yupoo.us', 'maturesinlove.com', 'nb-new.yupoo.us', 'www.paizipai.top', 'hxl18.com', 'hksfbet.com', 'tina0284.yupoo.us', 'haihangchem.com', 'usdcome-h.yupoo.us', 'jingdongg.yupoo.us', 'iwocar.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.6i5.com', 'best.cdn.sqeven.cn', 'maggievip.yupoo.us', 'www.dgytlt.com', 'www.31bz.com', 'scofeechen.yupoo.us', 'powerchen.yupoo.us', 'qzone3859847717.yupoo.us', 'xs.wxtv.cc', 'nikeaa99668.yupoo.us', 'cfip.201043.xyz', 'nikeairmaxshoes.yupoo.us', 'najlacnejsie-knihy.sk', 'www.0550cq.com', 'www.lyzdzy.com', 'superstoney.yupoo.us', 'fclxx.top', 'shoesoffers.yupoo.us', 'www.czlbfrp.com', 'shoesnice.yupoo.us', 'javx.org', 'hgk38413160.yupoo.us', 'www.gd9855.com', 'zelandfactory.yupoo.us', 'www.yjys05.com', 'ysz-0594.yupoo.us', 'wujinhui518.yupoo.us', 'aikx.cc', 'jindian-factory.yupoo.us', 'sneakerheads.yupoo.us', 'darcy.yupoo.us', 'qzone3590752957.yupoo.us', 'iofferlv.yupoo.us', 'cfip.xxxxxxxx.tk', 'runningshoes1880.yupoo.us', 'tradegoldkey.yupoo.us', 'supplierzhuo.yupoo.us', '81djbh.com', 'www.zzztch.com', 'topacney.yupoo.us', 'www.ifineair.com', 'm.fclxx.top', 'www.gzgafk.com', 'jingerbags.yupoo.us', 'titosvodka.com', 'freeyingshi.com', 'luxxeclub.yupoo.us', 'listenuponlinestore.yupoo.us', 'www.6988tv.com', 'dehuizhaopin.com', 'www.hxsy888.com', 'www.17kty.com', 'replica-shoes.yupoo.us', 'www.cbcv.cc', 'www.28dushu.com', 'www.syzhitai.com', 'sgv7.com', 'wismar2008.yupoo.us', 'www.lvhuisb.com', 'lulushoes2018.yupoo.us', 'tianmaoi.yupoo.us', 'tina02843911.yupoo.us', 'cloudflare.182682.xyz', 'toserk.tk', 'greenstyle.it', 'www.fulidwq.cn', 'nc1-song.twow42.com', 'jason007-watch.yupoo.us', 'lisabusiness.yupoo.us', 'shopgomi.yupoo.us', 'www.92mili.com', 'www.tinghen.com', 'yge-babaoli.yupoo.us', 'm.qflf85.cc', 'kelly171003.yupoo.us', 'web.hksfbet.com', 'topwholesale.yupoo.us', 'kingqian000.yupoo.us', 'zhangjinzhen.yupoo.us', 'www.gzcfmy.com', 'moschinosale.yupoo.us', '69xx1007.xyz', 'jp57.cc', 'img.hostmonit.com', 'www.web120.org', 'www.gic.com.tr', 'www.aikx.cc', 'xbgg116.com', 'm.niuerzs.com', 'cdn.didi8.com', 'www.orlandohealth.com', 'luxussachen.yupoo.us', 'www.wn03.cc', 'www.11txt.com', 'volanta.app', 'www.sddid.top', 'kaitesi.yupoo.us', 'fraktura.hr', 'wyxs.cc', 'wholesale1984.yupoo.us', 'flatio.com', 'www.sese8301.com', '46yg.com', 'www.jsdrtzn.com', 'xu-520.yupoo.us', 'yang120978179.yupoo.us', '3g.fclxx.top', 'sneakerworld.yupoo.us', 'jqkwholesale01.yupoo.us', 'kickssofire.yupoo.us', 'www.wxxzzs.com', 'paloman.yupoo.us', 'robinmall.yupoo.us', 'cf.qq.ms', 'lb801111.yupoo.us', 'sese8301.com', 'www.7sc.cc', '92lottery.net', 'www.bhxsw.com', 'www.cgfxw.com', 'alasimahonline.com', 'www.fclxx.top', 'www.dehuizhaopin.com', 'm.vodbd.com', 'poge.yupoo.us', 'blog.hostmonit.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for nb-new.yupoo.us...
+Performing DNS lookup for luxxeclub.yupoo.us...
+Performing DNS lookup for listenuponlinestore.yupoo.us...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
