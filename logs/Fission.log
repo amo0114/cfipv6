@@ -18298,3 +18298,25 @@ Performing DNS lookup for www.momdm.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9b16c07] Update project files
+ 4 files changed, 82 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   f28e903..9b16c07  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.73.44...
+Fetching domains for 104.17.243.234...
+Fetching domains for 104.17.252.226...
+succeed to fetch domains for 104.17.252.226 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.73.44 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.243.234 from https://ipchaxun.com/
+域名列表为
+['cfip.201043.xyz', 'www.tinghen.com', 'www.web120.org', 'www.orlandohealth.com', 'hbws.com', '92lottery.net', 'www.dgytlt.com', 'www.31bz.com', 'freeyingshi.com', 'www.17kty.com', 'www.lvhuisb.com', 'fraktura.hr', 'www.megumirawr.cc', 'www.cgfxw.com', 'www.cocanwelding.com', 'img.hostmonit.com', 'www.zzztch.com', 'www.czlbfrp.com', 'hksfbet.com', 'wyxs.cc', 'www.wn03.cc', 'greenstyle.it', 'www.ifineair.com', 'www.6988tv.com', 'blog.hostmonit.com', 'flatio.com', 'www.65bao2.com', 'www.gzcfmy.com', 'www.6i5.com', 'cloudflare.182682.xyz', 'sgv7.com', 'www.28dushu.com', 'www.yjys05.com', 'volanta.app', 'www.7sc.cc', 'titosvodka.com', 'www.gzgafk.com', 'www.4148.net', 'yundunwawablogcdn1yd.wawacm.com', 'www.cbcv.cc', 'www.paizipai.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'najlacnejsie-knihy.sk', 'cfip.xxxxxxxx.tk', 'www.hxsy888.com', 'xs.wxtv.cc', 'jp57.cc', 'www.11txt.com', 'www.manhuadb.com', 'haihangchem.com', 'www.28et.com', 'web.hksfbet.com', 'www.jsdrtzn.com', 'cf.qq.ms', 'www.92mili.com', 'm.vodbd.com', 'cdn.didi8.com', 'best.cdn.sqeven.cn', 'www.lyzdzy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wn03.cc...
+Performing DNS lookup for www.czlbfrp.com...
+Performing DNS lookup for www.ifineair.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

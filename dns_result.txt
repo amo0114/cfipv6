@@ -2,43 +2,52 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wn03.cc	canonical name = cf-4.sjcdn.top.
-cf-4.sjcdn.top	canonical name = cn.wnacg.com.
-Name:	cn.wnacg.com
-Address: 104.26.12.109
-Name:	cn.wnacg.com
-Address: 104.26.13.109
-Name:	cn.wnacg.com
-Address: 172.67.74.237
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:d6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::ac43:4aed
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:c6d
+Name:	www.zjgamy.com
+Address: 208.98.40.18
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.czlbfrp.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.160.2
-Name:	cf.zmdhc.com
-Address: 172.67.42.62
-Name:	cf.zmdhc.com
-Address: 172.67.49.202
-Name:	cf.zmdhc.com
-Address: 172.67.47.188
+Name:	topacney.yupoo.us
+Address: 104.21.80.1
+Name:	topacney.yupoo.us
+Address: 104.21.112.1
+Name:	topacney.yupoo.us
+Address: 104.21.96.1
+Name:	topacney.yupoo.us
+Address: 104.21.32.1
+Name:	topacney.yupoo.us
+Address: 104.21.48.1
+Name:	topacney.yupoo.us
+Address: 104.21.64.1
+Name:	topacney.yupoo.us
+Address: 104.21.16.1
+Name:	topacney.yupoo.us
+Address: 2606:4700:3030::6815:6001
+Name:	topacney.yupoo.us
+Address: 2606:4700:3030::6815:4001
+Name:	topacney.yupoo.us
+Address: 2606:4700:3030::6815:2001
+Name:	topacney.yupoo.us
+Address: 2606:4700:3030::6815:3001
+Name:	topacney.yupoo.us
+Address: 2606:4700:3030::6815:1001
+Name:	topacney.yupoo.us
+Address: 2606:4700:3030::6815:5001
+Name:	topacney.yupoo.us
+Address: 2606:4700:3030::6815:7001
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.ifineair.com
-Address: 104.16.159.18
-Name:	www.ifineair.com
-Address: 104.17.200.169
-Name:	www.ifineair.com
-Address: 104.16.111.54
+Name:	wap.kkcwu.top
+Address: 172.67.213.61
+Name:	wap.kkcwu.top
+Address: 104.21.23.203
+Name:	wap.kkcwu.top
+Address: 2606:4700:3033::ac43:d53d
+Name:	wap.kkcwu.top
+Address: 2606:4700:3036::6815:17cb
 
