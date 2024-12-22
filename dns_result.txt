@@ -1,61 +1,84 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
+** server can't find 300wzyz.life: NXDOMAIN
+
+;; Truncated, retrying in TCP mode.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
 Non-authoritative answer:
-Name:	freeyingshi.com
-Address: 104.17.252.226
-Name:	freeyingshi.com
-Address: 172.66.44.181
-Name:	freeyingshi.com
-Address: 104.21.230.58
-Name:	freeyingshi.com
-Address: 104.18.4.75
-Name:	freeyingshi.com
-Address: 104.17.254.219
-Name:	freeyingshi.com
-Address: 104.21.229.149
-Name:	freeyingshi.com
-Address: 172.66.43.72
-Name:	freeyingshi.com
-Address: 104.18.71.60
-Name:	freeyingshi.com
-Address: 104.21.23.203
-Name:	freeyingshi.com
-Address: 198.41.215.221
-Name:	freeyingshi.com
-Address: 172.67.73.44
-Name:	freeyingshi.com
-Address: 104.21.236.201
-Name:	freeyingshi.com
-Address: 104.21.29.191
-Name:	freeyingshi.com
-Address: 104.17.243.234
-Name:	freeyingshi.com
-Address: 104.21.24.241
+cc.11859.cc	canonical name = 88.67cdn.cc.
+88.67cdn.cc	canonical name = cdn1.bwcdn.com.
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.147
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.196
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.142
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.140
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.170
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.250
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.183
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.189
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.190
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.150
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.137
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.231
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.180
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.131
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.188
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.146
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.241
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.143
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.220
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.184
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.140
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.236
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.237
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.165
+Name:	cdn1.bwcdn.com
+Address: 103.240.142.145
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.134
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.200
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.202
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.225
+Name:	cdn1.bwcdn.com
+Address: 45.61.241.230
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.194
+Name:	cdn1.bwcdn.com
+Address: 43.248.171.158
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	exporthub.com
-Address: 172.66.40.184
-Name:	exporthub.com
-Address: 172.66.43.72
-Name:	exporthub.com
-Address: 2606:4700:3108::ac42:2b48
-Name:	exporthub.com
-Address: 2606:4700:3108::ac42:28b8
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	fsys.app
-Address: 104.21.84.115
-Name:	fsys.app
-Address: 172.67.191.146
-Name:	fsys.app
-Address: 2606:4700:3036::ac43:bf92
-Name:	fsys.app
-Address: 2606:4700:3033::6815:5473
+Name:	www.1a1v.com
+Address: 204.11.56.37
 

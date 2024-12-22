@@ -18230,3 +18230,25 @@ Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3ab1e94] Update project files
+ 4 files changed, 102 insertions(+), 72 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   e53f294..3ab1e94  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.43.72...
+Fetching domains for 104.18.71.60...
+Fetching domains for 104.18.4.75...
+succeed to fetch domains for 104.18.71.60 from https://ipchaxun.com/
+succeed to fetch domains for 172.66.43.72 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.4.75 from https://site.ip138.com/
+域名列表为
+['rangwozuo.com', 'pt.ryobitools.eu', 'www.jve0.com', 'www.1ccglobal.org', 'www.wanjinglife.com', 'gwruqrboxtitjdcppyow.ludashitv986.com', 'rovmaker.org', 'www.iios.me', 'www.portugalcasino.pt', 'user.colacloud.net', 'www.pay555.xyz', 'cfip.xxxxxxxx.tk', 'www.vol-direct.fr', 'cdn.cmliu.net', 'ulinkaou.com', 'www.zgjmw.net', 'www.tmg-ball.com', 'cc88ee.com', 'newsguide.onlinecasinos.net', 'lindaikejisblog.com', 'www.rf-craftworld.ru', 'down.jvi99.xyz', 'www.aidanmu.me', 'www.lindaikejisblog.com', 'www.love.com', 'brasil.angloamerican.com', 'exporthub.com', 'autodoc.de', 'www.mossimo.com.au', 'pay555.xyz', 'www.megumirawr.cc', 'uncova.com', 'alexis.lindaikejisblog.com', 'www.pensionbee.com', 'nlsdwsz.66666654.xyz', 'cdn.autodoc.de', 'www.chemringds.com', 'payloadspace.com', 'www.7seasproshopthai.com', 'rp-ch-swmdmz13.harmanota.com.cn', 'baxtc.66666654.xyz', 'science.colacloud.net', 'freeyingshi.com', 'netuniversecorp.com', 'cloudflare.cfgo.cc', 'www.momdm.com', 'love.com', 'www.rakumachi.jp', 'dk.ryobitools.eu', 'www.cc88ee.com', 'www.galzy.eu.org', 'www.ddwhm.com', 'www.wuda.cf', 'm.wanjinglife.com', 'xm.jvi99.xyz', 'cam69.com', 'fsys.app', 'ss.jvi99.xyz', 'jve0.com', 'pl.ryobitools.eu', 'rexbo.it', 'www.iios.club', 'www.cam69.com', 'www.exporthub.com', 'hu.ryobitools.eu', 'www.4hun02.com', 'www.angloamerican.com', 'www.king92.net', 'tmg-ball.com', 'a1.jvi99.xyz', '1ccglobal.org', 'globalpokerindex.com', 'colacloud.net', 'pensionbee.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for freeyingshi.com...
+Performing DNS lookup for exporthub.com...
+Performing DNS lookup for fsys.app...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
