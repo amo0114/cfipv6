@@ -18187,3 +18187,25 @@ Performing DNS lookup for wap.xy2017.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6a3d599] Update project files
+ 4 files changed, 49 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   c24b669..6a3d599  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.215.221...
+Fetching domains for 104.21.24.241...
+Fetching domains for 104.17.243.234...
+succeed to fetch domains for 104.17.243.234 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.24.241 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.215.221 from https://dnsdblookup.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'v.jh551.com', 'www.676967.com', 'www.hengdawatch.com', 'www.lhman.com', 'www.vvv.office2222.com', 'upics.ru', 'www.92free.icu', 'w1.36889aa.com', 'www.nsisfans.com', 'lovelive.vip', '9light.vip', '230088.app', 'www.0550cq.com', 'm.tpyyc.com', 'm.bb3tv.top', '4343zz.com', 'www.10zhanpai.com', 'www.ddwhm.com', 'cf1.492745.xyz', 'www.888dyy.cc', '11122vns.com', '2444hu.com', 'jpvsavhyu.76898102.xyz', 'hdatmos.club', 'www.cbcv.cc', 'www.zzztch.com', 'fish520.cn', 'www.wxxzzs.com', 'hyd-relay.com', 'www.31bz.com', 'www.paizipai.top', 'm.6988tv.com', 'huolang.lol', 'rehabmed.or.th', 'kkyx.yydsii.com', 'www.sintingtoys.com', 'www.6i5.com', 'www.99wx.cc', 'freeyingshi.com', 'www.jsjkyy.com', 'www.9light.vip', 'www.themasksinger.com', 'iafhrodf.xyz', 'jpaa.sectigo.pp.ua', 'uu340.com', 'jmcomi.mobi', 'www.lyzdzy.com', 'italtrike.com', 'app.dcv4s.xyz', 'www.yunyou4.com', 'hongkongbgp01.mukyu.asia', '3567re.com', 'www.kanju8.com', 'bb3tv.top', 'www.connoisseurtravel.com', '3g.bb3tv.top', 'www.2444hu.com', 'www.graydeervpn.com', 'ukepj45vo.xyz', 'luo1.xyz', 'longli.online', 'www.iecmk.com', 'www.7sc.cc', '90bola.id', 'www.hnxinlian.org', 'www.iafhrodf.xyz', 'cddone.com', 'www.96dushu.com', 'www.c333.net', 'www.szluojian.com', 'arowanafishtalk.com', 'www.11txt.com', 'www.huolang.lol', 'clash3d.com', 'xxht8188.com', '900jpg.com', 'm.yqlyxz.top', 'ciotur.com', 'stock.hostmonit.com', 'manufakturindo.com', 'www.uu340.com', 'www.bb3tv.top', 'www.arowanafishtalk.com', 'saba168.com', 'www.woaiqi.com', '0550cq.com', 'www.6988tv.com', 'wx518.net', 'www.k77yy.com', 'www.web120.org', 'www.xxpg888.com', 'hmx0.com', 'raw.gitmirror.com', 'www.lovelive.vip', 'wap.bb3tv.top', 'sdyl.me', 'www.orlandohealth.com', 'hcweb.3eyvi7.live', '92free.icu', 'www.whpaiger.com', '36889aa.com', 'news.oh101.com', 'iecmk.com', 'm.0550cq.com', 'www.kytyy.com', 'www.xworldadmin.com', 'xzhan.dxqx.xyz', 'www.cd697.cn', 'www.boyangjt.com', 'www.woshizhuzhu.com', 'www.jsmx999.com', 'fishing-weekend.com.ua', 'blutopia.cc', 'ye73.com', 'www.tuozhan22.com', 'ct.090227.xyz', 'www.upics.ru', 'weav176.cc', 'www.kfily.com', 'www.megumirawr.cc', 'www.feji6.cn', 'g1.36889aa.com', 'feji6.cn', 'oh101.com', 'www.tinghen.com', 'www.sxyzxh.com', 'porndued.com', 'heiliao80.lol', 'm.9sha.com', 'www.3567re.com', 'no.tc', 'jh551.com', 'uni.app', 'bestgames-2022.com', 'www.92mili.com', '3g.yqlyxz.top', 'www.hyd-relay.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3567re.com...
+Performing DNS lookup for 3g.bb3tv.top...
+Performing DNS lookup for www.zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
