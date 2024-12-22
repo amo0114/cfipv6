@@ -2,25 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	onani.cn
-Address: 34.41.105.151
+Name:	3567re.com
+Address: 23.225.33.88
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find 3g.bb3tv.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.megumirawr.cc	canonical name = www.megumirawr.top.
-Name:	www.megumirawr.top
-Address: 104.21.83.187
-Name:	www.megumirawr.top
-Address: 172.67.180.217
-Name:	www.megumirawr.top
-Address: 2606:4700:3037::6815:53bb
-Name:	www.megumirawr.top
-Address: 2606:4700:3035::ac43:b4d9
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find wap.xy2017.top: NXDOMAIN
+Name:	www.zzztch.com
+Address: 91.195.240.12
 

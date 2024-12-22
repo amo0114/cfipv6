@@ -18165,3 +18165,25 @@ Performing DNS lookup for listenuponlinestore.yupoo.us...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c24b669] Update project files
+ 4 files changed, 57 insertions(+), 112 deletions(-)
+ rewrite dns_result.txt (93%)
+To github.com:amo0114/cfipv6.git
+   b3d00d6..c24b669  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.23.203...
+Fetching domains for 104.21.230.58...
+Fetching domains for 104.21.229.149...
+succeed to fetch domains for 104.21.230.58 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.229.149 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.23.203 from https://dnsdblookup.com/
+域名列表为
+['www.typewriter.com.hk', 'www.22r5.com', 'www.admin789.xyz', 'hanmanhome.xyz', 'www.pingshu365.com', 'www.hanmanhome.xyz', 'ism-pro.ru', 'www.gaycn.top', 'www.kukedy.tv', 'onani.cn', 'www.pplxwit.top', 'fkydh26.shop', 'www.guminzj.com', 'sharekit.io', 'www.wn05.cc', 'www.wecaidan.com', 'freeyingshi.com', 'kkcwu.top', '22r5.com', 'www.yhsqxy.com', 'wap.xy2017.top', 'yx.887141.xyz', 'igwicuwffw.club', 'www.megumirawr.cc', 'kpd367.pw', 'www.91m.cc', 'gy188.top', 'www.xy2017.top', 'www.emgvideo.com', 'cl.1531y.xyz', 'guminzj.com', 'www.qumiyun.com', 'www.i7j5nb.xyz', 'www.ism-pro.ru', 'pplxwit.top', 'bdx100.com', 'bwin.189988.xyz', 'www.tq123.top', 'cfip.xxxxxxxx.tk', 'xy2017.top', 'www.dafuhao.com', 'achk.cloudflarest.link', 'www.hm13.lol', 'www.flzx1.com', 'www.gay2022.singles', 'gay2022.singles', 'm.xy2017.top', 'www.176sf999.com', 'www.nsisfans.com', 'www.clun.top', 'gymvitals.io', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.cgltg.com', 'www.jxdaogeng.cn', 'wap.kkcwu.top', 'www.doupobook.com', 'www.shanxishifanmba.com', '3g.xy2017.top', 'www.tpyyc.com', 'm.999wx.net', 'www.sixyin.com', 'zbsp.top', 'hh468.com', 'www.laohanzong.com', 'eul6.com', 'xpd100.top', 'bestcf.top', 'pp089.com', 'm.niuerzs.com', 'baicarrots.top', 'amour234.tw', 'wap.pplxwit.top', 'cloudflare.cfgo.cc', 'm.pplxwit.top', 'www.lyzdzy.com', 'www.yjys05.com', 'admin789.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for onani.cn...
+Performing DNS lookup for www.megumirawr.cc...
+Performing DNS lookup for wap.xy2017.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
