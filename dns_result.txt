@@ -2,38 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yangjiangzpw.com
-Address: 172.67.173.71
-Name:	yangjiangzpw.com
-Address: 104.21.96.52
-Name:	yangjiangzpw.com
-Address: 2606:4700:3035::ac43:ad47
-Name:	yangjiangzpw.com
-Address: 2606:4700:3030::6815:6034
+www.c333.net	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ht53z2.hbkdonrho.com
-Address: 172.67.173.71
-Name:	ht53z2.hbkdonrho.com
-Address: 104.21.96.52
-Name:	ht53z2.hbkdonrho.com
-Address: 2606:4700:3035::ac43:ad47
-Name:	ht53z2.hbkdonrho.com
-Address: 2606:4700:3030::6815:6034
+lyys8.com	canonical name = cname.lingyun.in.
+Name:	cname.lingyun.in
+Address: 172.67.141.208
+Name:	cname.lingyun.in
+Address: 104.21.39.9
+Name:	cname.lingyun.in
+Address: 2606:4700:3032::6815:2709
+Name:	cname.lingyun.in
+Address: 2606:4700:3031::ac43:8dd0
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yw156.com
-Address: 104.21.42.117
-Name:	yw156.com
-Address: 172.67.161.215
-Name:	yw156.com
-Address: 2606:4700:3035::6815:2a75
-Name:	yw156.com
-Address: 2606:4700:3033::ac43:a1d7
+Name:	www.0550cq.com
+Address: 103.150.11.223
 
