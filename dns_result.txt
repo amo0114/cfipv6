@@ -2,34 +2,42 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.c333.net	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	www.limeblogue.ca
+Address: 104.26.10.176
+Name:	www.limeblogue.ca
+Address: 172.67.74.43
+Name:	www.limeblogue.ca
+Address: 104.26.11.176
+Name:	www.limeblogue.ca
+Address: 2606:4700:20::681a:bb0
+Name:	www.limeblogue.ca
+Address: 2606:4700:20::681a:ab0
+Name:	www.limeblogue.ca
+Address: 2606:4700:20::ac43:4a2b
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-lyys8.com	canonical name = cname.lingyun.in.
-Name:	cname.lingyun.in
-Address: 172.67.141.208
-Name:	cname.lingyun.in
-Address: 104.21.39.9
-Name:	cname.lingyun.in
-Address: 2606:4700:3032::6815:2709
-Name:	cname.lingyun.in
-Address: 2606:4700:3031::ac43:8dd0
+Name:	www.theafricareport.com
+Address: 104.18.1.210
+Name:	www.theafricareport.com
+Address: 104.18.0.210
+Name:	www.theafricareport.com
+Address: 2606:4700::6812:1d2
+Name:	www.theafricareport.com
+Address: 2606:4700::6812:d2
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.0550cq.com
-Address: 103.150.11.223
+Name:	theafricareport.com
+Address: 104.18.0.210
+Name:	theafricareport.com
+Address: 104.18.1.210
+Name:	theafricareport.com
+Address: 2606:4700::6812:d2
+Name:	theafricareport.com
+Address: 2606:4700::6812:1d2
 
