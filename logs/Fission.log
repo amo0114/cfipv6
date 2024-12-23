@@ -18504,3 +18504,25 @@ Performing DNS lookup for theafricareport.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6482405] Update project files
+ 4 files changed, 64 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   a7bbfc9..6482405  main -> main
+Downloaded 13 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.90.64...
+Fetching domains for 104.24.76.145...
+Fetching domains for 172.67.64.105...
+succeed to fetch domains for 172.67.64.105 from https://site.ip138.com/
+succeed to fetch domains for 104.17.90.64 from https://site.ip138.com/
+succeed to fetch domains for 104.24.76.145 from https://site.ip138.com/
+域名列表为
+['www.lvhuisb.com', 'www.manhuadb.com', 'www.lzhdsn.com', 'www.dafuhao.com', 'www.iios.me', 'www.cfhuagong.com', 'yx1.chinayyds.xyz', 'www.oaksmart.com', 'www.zhongyunyang.com', 'nrwa906.tbwe1ii6b1zaifng2y2g.top', 'fldsubgigtujuy.76898102.xyz', 'ddwhm.com', 'www.6i5.com', 'iios.club', 'cf1.trojan.tel', 'www.v2raz.vip', 'www.qdyxsd.com', 'www.11txt.com', 'baxtc.66666654.xyz', 'www.gzlatin.com', 'www.web120.org', 'www.iios.club', 'jhpcza.66666654.xyz', 'www.vodbd.com', 'cf-lt.sharecentre.online', 'm.jingshuai888.com', 'www.gzcfmy.com', 'm.y3600.cz', 'www.991kan.com', 'www.yjeky.com', 'www.266958.com', 'www.jzku.top', 'www.imeiju.net', 'dsxys.com', 'www.potentcera.com', 'www.qumiyun.com', 'www.hxsy888.com', 'menmaza.76898102.xyz', 'cg.22yy7.com', 'ukcc.digicert.pp.ua', 'www.881dy.com', 'www.dgytlt.com', 'www.dy1255.com', 'zi0.cc', 'm.niuerzs.com', 'www.4148.net', 'www.knvod.com', 'www.paizipai.top', 'www.kanju8.com', 'www.ai2moe.org', 'www.meijubo.com', 'www.huanyaad.com', 'www.baiitv.com', 'jpvsavhyu.76898102.xyz', 'spca.114514782.xyz', 'www.tv9090.com', 'www.ddwhm.com', 'www.80yy.org', 'vip1.hpyjc.top', 'www.yiqianhg.com', 'www.17kty.com', 'www.sxyzxh.com', 'laxdscaa.76898102.xyz', 'xinaa.rapidssl.pp.ua', 'iybc.cc', 'yundunwawablogcdn1dx.wawacm.com', 'frsadubidd.76898102.xyz', 'freeyx.cloudflare88.eu.org', 'nlsdwsz.66666654.xyz', 'www.66se.tv', 'www.k77kk.cc', 'www.elc.edu', 'www.789ys.com', 'www.888dyy.cc', 'school.xn--vjqp6xkwblzeyv2h.cn', 'macvbb.555556789.xyz', 'www.lnudz.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.y3600.cz...
+Performing DNS lookup for www.elc.edu...
+Performing DNS lookup for www.6i5.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
