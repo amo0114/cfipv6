@@ -18320,3 +18320,25 @@ Performing DNS lookup for www.ifineair.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c7c5fae] Update project files
+ 4 files changed, 90 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   9b16c07..c7c5fae  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.215.221...
+Fetching domains for 104.21.29.191...
+Fetching domains for 104.21.23.203...
+succeed to fetch domains for 104.21.23.203 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.215.221 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.29.191 from https://dnsdblookup.com/
+域名列表为
+['wap.kkcwu.top', 'www.paizipai.top', 'wholesale1984.yupoo.us', '22r5.com', 'xpd100.top', 'longli.online', 'kba.com.gr', 'www.888dyy.cc', 'm.pplxwit.top', 'andersondawr16159.blogs-service.com', '019km.com', 'm.6988tv.com', 'www.i7j5nb.xyz', 'www.typewriter.com.hk', '024tom.com', 'eul6.com', 'www.web120.org', 'www.lnfitness.com', 'l4jnf7.dna-ltb.com', 'www.hengdawatch.com', 'sese8301.com', '3g.fclxx.top', 'smdyy.cc', 'www.hnxinlian.org', 'www.hanmanhome.xyz', 'm.xy2017.top', 'www.qiangkouzhao.com', 'www.cwmtt.com', 'kkcwu.top', 'www.sddid.top', 'www.muzicahot.net', 'www.bhxsw.com', 'sinaweibo5168304734.yupoo.us', 'mc.baicarrots.top', 'www.k77yy.com', 'www.sese8301.com', 'www.lguverse.com', 'kpd367.pw', 'www.zzgszz.com', 'sharekit.io', 'jx.w8q.cc', 'baicarrots.top', 'm.9sha.com', 'www.flzx1.com', 'jingdongg.yupoo.us', '50dcmx.com', 'gymvitals.io', 'sneakerworld.yupoo.us', 'www.fulidwq.cn', 'www.cbcv.cc', 'www.xxpg888.com', 'www.tuozhan22.com', 'www.shengwanggongcheng.com', 'poge.yupoo.us', 'www.mfwzhs.com', 'www.syzhitai.com', 'admin789.xyz', 'www.wxxzzs.com', 'xbgg116.com', 'www.99wx.cc', '81djbh.com', 'ax4444.icu', 'gy188.top', 'www.xy2017.top', 'www.dehuizhaopin.com', 'igwicuwffw.club', 'jpvsavhyu.76898102.xyz', 'm.fclxx.top', 'www.fclxx.top', 'www.qf527.com', 'zbsp.top', 'cfip.xxxxxxxx.tk', 'www.connoisseurtravel.com', 'alasimahonline.com', 'maturesinlove.com', 'javx.org', 'www.lnwow.net', 'fkydh26.shop', 'hh468.com', 'pplxwit.top', 'iwocar.com', 'hgk38413160.yupoo.us', 'www.0550cq.com', 'm.niuerzs.com', 'www.jxdaogeng.cn', 'md1189.xyz', 'www.96dushu.com', 'www.lewen5.com', 'www.kuaikan66.com', 'www.megumirawr.cc', 'guminzj.com', 'zhangjinzhen.yupoo.us', 'fclxx.top', 'www.sxyzxh.com', 'topacney.yupoo.us', 'www.xigua5.com', 'www.zjgamy.com', '71dn.com', 'www.nsisfans.com', 'www.shanxishifanmba.com', 'yge-babaoli.yupoo.us', 'tq123.top', 'md129.yupoo.us', 'www.gzlatin.com', 'cddone.com', 'okdytt6.com', 'www.woaiqi.com', '923055.com', 'www.22r5.com', 'www.zjochen.com', 'www.yunyou4.com', 'www.gd9855.com', 'www.7sc.cc', 'freeyingshi.com', 'www.admin789.xyz', 'www.c333.net', 'm.0550cq.com', 'www.jsjkyy.com', '10086tv.com', 'www.6i5.com', 'ygbb.rapidssl.pp.ua', 'pp089.com', 'nc1-song.twow42.com', 'www.ism-pro.ru', 'www.10086tv.com', 'www.scxdexx.com', 'wap.pplxwit.top', 'www.1a1v.com', '3g.xy2017.top', 'www.sztimi.com', 'www.lhman.com', 'cc.11859.cc', '46yg.com', 'www.jsmx999.com', 'm.qflf85.cc', 'www.guminzj.com', 'hanmanhome.xyz', 'cwmtt.com', 'wap.xy2017.top', 'yunyu666.net', 'www.92mili.com', 'www.aikx.cc', 'www.pplxwit.top', 'xy2017.top', 'aikx.cc', 'm.tpyyc.com', 'hxl18.com', 'dehuizhaopin.com', 'raw.gitmirror.com', 'flzx1.com', 'amour234.tw', 'jpaa.sectigo.pp.ua', 'www.qumiyun.com', 'zelandfactory.yupoo.us', 'gay2022.singles', 'toserk.tk', 'tradegoldkey.yupoo.us', 'www.xworldadmin.com', 'ism-pro.ru', 'www.ddwhm.com', 'netionaldastak.com', 'www.ddaculture.com', 'www.sintingtoys.com', 'www.10zhanpai.com', 'darcy.yupoo.us', 'www.11txt.com', 'www.gaycn.top', 'onani.cn', 'cf1.492745.xyz', 'kkyx.yydsii.com', 'www.boyangjt.com', '0550cq.com', 'www.kanju8.com', '300wzyz.life', 'www.tinghen.com', 'cl.1531y.xyz', 'stock.hostmonit.com', 'maggievip.yupoo.us', 'www.tq123.top', 'ysz-0594.yupoo.us', 'www.6988tv.com', 'tina02843911.yupoo.us', 'www.gay2022.singles', 'tp140.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zjgamy.com...
+Performing DNS lookup for topacney.yupoo.us...
+Performing DNS lookup for wap.kkcwu.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

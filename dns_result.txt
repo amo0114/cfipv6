@@ -1,53 +1,29 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.zjgamy.com
-Address: 208.98.40.18
+** server can't find 9900k.cn: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	topacney.yupoo.us
-Address: 104.21.80.1
-Name:	topacney.yupoo.us
-Address: 104.21.112.1
-Name:	topacney.yupoo.us
-Address: 104.21.96.1
-Name:	topacney.yupoo.us
-Address: 104.21.32.1
-Name:	topacney.yupoo.us
-Address: 104.21.48.1
-Name:	topacney.yupoo.us
-Address: 104.21.64.1
-Name:	topacney.yupoo.us
-Address: 104.21.16.1
-Name:	topacney.yupoo.us
-Address: 2606:4700:3030::6815:6001
-Name:	topacney.yupoo.us
-Address: 2606:4700:3030::6815:4001
-Name:	topacney.yupoo.us
-Address: 2606:4700:3030::6815:2001
-Name:	topacney.yupoo.us
-Address: 2606:4700:3030::6815:3001
-Name:	topacney.yupoo.us
-Address: 2606:4700:3030::6815:1001
-Name:	topacney.yupoo.us
-Address: 2606:4700:3030::6815:5001
-Name:	topacney.yupoo.us
-Address: 2606:4700:3030::6815:7001
+Name:	suboji.com
+Address: 13.248.169.48
+Name:	suboji.com
+Address: 76.223.54.146
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wap.kkcwu.top
-Address: 172.67.213.61
-Name:	wap.kkcwu.top
-Address: 104.21.23.203
-Name:	wap.kkcwu.top
-Address: 2606:4700:3033::ac43:d53d
-Name:	wap.kkcwu.top
-Address: 2606:4700:3036::6815:17cb
+456gg.com	canonical name = 456gg.haofanghu123.com.
+456gg.haofanghu123.com	canonical name = www.456gg.com.cdn.cloudflare.net.
+Name:	www.456gg.com.cdn.cloudflare.net
+Address: 172.67.190.240
+Name:	www.456gg.com.cdn.cloudflare.net
+Address: 104.21.76.67
+Name:	www.456gg.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:bef0
+Name:	www.456gg.com.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:4c43
 
