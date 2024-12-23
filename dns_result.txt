@@ -1,43 +1,32 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.limeblogue.ca
-Address: 104.26.10.176
-Name:	www.limeblogue.ca
-Address: 172.67.74.43
-Name:	www.limeblogue.ca
-Address: 104.26.11.176
-Name:	www.limeblogue.ca
-Address: 2606:4700:20::681a:bb0
-Name:	www.limeblogue.ca
-Address: 2606:4700:20::681a:ab0
-Name:	www.limeblogue.ca
-Address: 2606:4700:20::ac43:4a2b
+** server can't find m.y3600.cz: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.theafricareport.com
-Address: 104.18.1.210
-Name:	www.theafricareport.com
-Address: 104.18.0.210
-Name:	www.theafricareport.com
-Address: 2606:4700::6812:1d2
-Name:	www.theafricareport.com
-Address: 2606:4700::6812:d2
+Name:	www.elc.edu
+Address: 104.25.61.77
+Name:	www.elc.edu
+Address: 104.25.62.77
+Name:	www.elc.edu
+Address: 2606:4700:20::6819:3e4d
+Name:	www.elc.edu
+Address: 2606:4700:20::6819:3d4d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	theafricareport.com
-Address: 104.18.0.210
-Name:	theafricareport.com
-Address: 104.18.1.210
-Name:	theafricareport.com
-Address: 2606:4700::6812:d2
-Name:	theafricareport.com
-Address: 2606:4700::6812:1d2
+www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 104.21.53.57
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 172.67.209.38
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:3539
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:d126
 
