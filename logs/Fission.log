@@ -18386,3 +18386,25 @@ Performing DNS lookup for www.295k.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main fcf23ed] Update project files
+ 4 files changed, 73 insertions(+), 64 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   7d813f5..fcf23ed  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.23.172...
+Fetching domains for 104.17.30.147...
+Fetching domains for 198.41.199.90...
+succeed to fetch domains for 198.41.199.90 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.23.172 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.30.147 from https://dnsdblookup.com/
+域名列表为
+['nlsdwsz.66666654.xyz', '7.namesilo123.top', 'www.dj5157.com', 'www.iios.club', 'www.50zw.co', 'a2.hh.887733.xyz', '652tv.com', 'spca.114514782.xyz', 'wei333.com', 'fldsubgigtujuy.76898102.xyz', 'iios.club', 'www.anluyg.net', 'www.99wx.cc', 'www.xiuluo942.com', 'jpvsavhyu.76898102.xyz', 'www.cfhuagong.com', 'www.calmlab.com', 'cgcc.digicert.pp.ua', 'www.ddwhm.com', 'www.tvyb02.com', 'yh6.dtku41.xyz', '29.namesilo123.top', 'pan.axxpan.com', 'www.nsisfans.com', 'acus.cloudflarest.link', 'www.zzztch.com', 'baxtc.66666654.xyz', 'macvbb.555556789.xyz', 'm.niuerzs.com', 'www.iios.me', 'www.93xscc.com', 'www.rmsxs.com', 'speed.marisalnc.com', 'www.iios.fun']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.me...
+Performing DNS lookup for iios.club...
+Performing DNS lookup for www.iios.fun...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
