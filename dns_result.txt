@@ -1,32 +1,38 @@
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.xczq1.top: SERVFAIL
+Non-authoritative answer:
+www.5522tl.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.zongcaixs.cc	canonical name = ips.993888.xyz.
+www.jinyongwuxia.com	canonical name = ips.993888.xyz.
 Name:	ips.993888.xyz
-Address: 104.16.157.160
+Address: 104.17.122.243
 Name:	ips.993888.xyz
-Address: 104.17.209.177
+Address: 104.16.156.72
 Name:	ips.993888.xyz
-Address: 104.17.25.7
+Address: 104.16.1.54
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
 Non-authoritative answer:
-Name:	www.789kp.com
-Address: 172.67.194.200
-Name:	www.789kp.com
-Address: 104.21.52.35
-Name:	www.789kp.com
-Address: 2606:4700:3033::6815:3423
-Name:	www.789kp.com
-Address: 2606:4700:3033::ac43:c2c8
+u.uboy03.xyz	canonical name = unweb.unweb01.xyz.
+Name:	unweb.unweb01.xyz
+Address: 162.159.134.216
+Name:	unweb.unweb01.xyz
+Address: 162.159.130.18
+Name:	unweb.unweb01.xyz
+Address: 162.159.135.30
 
