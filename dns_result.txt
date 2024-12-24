@@ -2,30 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 172.67.172.249
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 104.21.30.140
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:1e8c
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:acf9
+Name:	www.fnyyw.net
+Address: 162.209.175.122
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-spca.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global35.66666654.xyz.
-Name:	cfcn-b-global35.66666654.xyz
-Address: 104.17.249.96
+Name:	www.furuimedical.com
+Address: 172.67.161.55
+Name:	www.furuimedical.com
+Address: 104.21.74.182
+Name:	www.furuimedical.com
+Address: 2606:4700:3034::ac43:a137
+Name:	www.furuimedical.com
+Address: 2606:4700:3030::6815:4ab6
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find yjyfdc.com: SERVFAIL
+** server can't find s1.shuangms.com: NXDOMAIN
 
