@@ -18549,3 +18549,26 @@ Performing DNS lookup for v10.fijkl.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a89adca] Update project files
+ 4 files changed, 93 insertions(+), 190 deletions(-)
+ rewrite Fission_ip_backup.txt (98%)
+ rewrite dns_result.txt (92%)
+To github.com:amo0114/cfipv6.git
+   04c94fe..a89adca  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.152.241...
+Fetching domains for 104.17.146.8...
+Fetching domains for 104.17.181.59...
+succeed to fetch domains for 104.17.152.241 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.181.59 from https://site.ip138.com/
+succeed to fetch domains for 104.17.146.8 from https://ipchaxun.com/
+域名列表为
+['www.zzztch.com', 'www.6988tv.com', 'www.zgjmw.net', 'www.cfhuagong.com', '0702.rr.nu', 'cfip.xxxxxxxx.tk', 'www.wn01.cc', 'www.dmbj.cc', 'www.zgwangzhan.com', 'www.99wxw.cc', 'www.cocanwelding.com', 'www.eezdm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
