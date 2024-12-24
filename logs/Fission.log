@@ -18526,3 +18526,26 @@ Performing DNS lookup for www.6i5.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 04c94fe] Update project files
+ 4 files changed, 212 insertions(+), 43 deletions(-)
+ rewrite Fission_ip_backup.txt (92%)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   6482405..04c94fe  main -> main
+Downloaded 8 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.64.84.86...
+Fetching domains for 104.19.90.213...
+Fetching domains for 172.64.131.136...
+succeed to fetch domains for 172.64.84.86 from https://dnsdblookup.com/
+succeed to fetch domains for 172.64.131.136 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.90.213 from https://ipchaxun.com/
+域名列表为
+['v4.wxxy0.com', 'www.ai2moe.org', 'www.11txt.com', 'www.zgjmw.net', 'v10.fijkl.com', 'cf-lt.sharecentre.online', 'v2.nnoo44.com', 'm.niuerzs.com', 'www.bp6688.fun', 'www.cgtlbb.com', 'www.whpaiger.com', 'v10.ijkkl.vip', 'www.789ys.com', 'cdn.didi8.com', 'xs.wxtv.cc', 'www.20tl.cn', 'v6.dfhhijk.com', 'v6.wwxy0.com', 'histar.zapi.us.kg', 'v8.ijkmnno.com', 'www.tv9090.com', 'www.zxc999.cn', 'www.niuerzs.com', 'www.qumiyun.com', 'www.sixyin.com', 'hk.921219.xyz', 'www.zzgszg.com', 'sgv7.com', 'www.btdad.pw', 'cf.fovi.tk', 'www.991kan.com', 'v3.wxyy88.com', 'v6.tuvvv.vip', 'www.rxjh520.cc', 'www.7277tl.com', 'www.99qhmy.com', 'v4.uvwwx.vip', '511my.com', 'www.90dushu.com', 'v9.bdeef.com', 'm.lencier.com', 'm.28dushu.com', 'v5.nopqq.vip', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'baxtc.66666654.xyz', 'www.6296pk.com', 'v7.effgh.com', 'www.6xr.com', 'www.wyxs.cc', 'www.kanju8.com', 'v3.vwx01.com', 'www.0550cq.com', 'www.xkx999.com', 'v3.uwxy011.com', 'v11.stttu.vip', 'www.7lq.com', 'www.tinghen.com', 'zmkan.top', 'www.cocanwelding.com', 'weixinf5.com', 'www.ygdy8.cc', '6988tv.com', 'www.92mili.com', 'www.6i5.com', 'shop.hostmonit.com', 'yh4.dtku41.xyz', 'www.652tv.com', 'www.6988tv.com', 'www.33mov.com', 'www.ikantv.net', 'www.xjiujiu99.com', 'www.96dushu.com', 'www.58zztl.xyz', 'macvbb.555556789.xyz', 'www.down28.cn', 'm.gzlatin.com', 'www.x52bq.com', 'www.wn04.cc', 'www.9805tl.xyz', 'v6.defgg.vip', '789ys.com', 'cf.yx.alue.link', 'www.511my.com', 'www.4148.net', 'v8.679ab.com', 'v11.lprst.vip', 'hmoe.top', 'www.hnhlsy.com', 'www.paizipai.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wn04.cc...
+Performing DNS lookup for www.9805tl.xyz...
+Performing DNS lookup for v10.fijkl.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
