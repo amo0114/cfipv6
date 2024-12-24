@@ -18572,3 +18572,25 @@ Performing DNS lookup for cfip.xxxxxxxx.tk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4915de4] Update project files
+ 4 files changed, 63 insertions(+), 68 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   a89adca..4915de4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.63.164...
+Fetching domains for 104.18.65.71...
+Fetching domains for 104.16.254.190...
+succeed to fetch domains for 104.18.63.164 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.65.71 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.254.190 from https://ipchaxun.com/
+域名列表为
+['www.xinjuc.com', 'xyj1.club', 'renavast.us', '920sp.com', 'surf-vakanties.nl', 'pcgamestorrents.com', 'www.shanlufangcheng.com', 'www.kanmanhuala.cc', 'm.6988tv.com', 'hy82.cc', 'www.4gdiy.com', 'cfcdn.sanfencdn.net', 'www.iios.club', 'eja430a.com', 'www.eja430a.com', 'www.93xscc.com', 'www.zongcaixs.cc', 'www.295k.com', 'portasound.net', 'www.99wxw.cc', 'www.surf-vakanties.nl', 'bdx100.com', 'www.gdriustb.com', 'www.tlyy.cc', 'czxiangshenggd.com', 'www.kdiwu.com', 'www.cfhuagong.com', 'kanmanhuala.cc', 'nekopoi.care', 'oihsilfsh643542.oihsilfsh643542.com', 'www.55xs.cc', 'docker.milulu.xyz', 'pogruzchik.dp.ua', 'suseso-manufaktur.de', 'spca.114514782.xyz', 'ky8837.com', 'www.yyxxi.com', 'www.91m.cc', 'www.zcrpik.cn', 'www.wenxueyuedu.com', 'www.yanqin8.com', 'www.nrckdkao.xyz', 'yh6.dtku41.xyz', 'www.23ml.com', 'www.vrouekeur.co.za', 'www.dstsx.cn', 'layravemin.ml']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for oihsilfsh643542.oihsilfsh643542.com...
+Performing DNS lookup for www.vrouekeur.co.za...
+Performing DNS lookup for www.gdriustb.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

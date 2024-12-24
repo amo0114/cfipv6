@@ -2,30 +2,19 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-oihsilfsh643542.oihsilfsh643542.com	canonical name = okimges.xdpddos.com.
-okimges.xdpddos.com	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global31.66666654.xyz.
-Name:	cfcn-b-global31.66666654.xyz
-Address: 104.17.251.135
+tpyyc.com	canonical name = url.dnspod.com.
+Name:	url.dnspod.com
+Address: 18.140.70.202
+Name:	url.dnspod.com
+Address: 54.255.146.174
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.vrouekeur.co.za
-Address: 172.67.159.242
-Name:	www.vrouekeur.co.za
-Address: 104.21.49.69
-Name:	www.vrouekeur.co.za
-Address: 2606:4700:3030::ac43:9ff2
-Name:	www.vrouekeur.co.za
-Address: 2606:4700:3037::6815:3145
+** server can't find 91m.cc: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.gdriustb.com
-Address: 162.209.149.30
+** server can't find m.ulzdk.com: NXDOMAIN
 
