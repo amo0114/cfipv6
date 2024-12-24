@@ -18594,3 +18594,25 @@ Performing DNS lookup for www.gdriustb.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cb78254] Update project files
+ 4 files changed, 50 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   4915de4..cb78254  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.238.253...
+Fetching domains for 104.22.57.69...
+Fetching domains for 104.21.228.11...
+succeed to fetch domains for 104.17.238.253 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.57.69 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.228.11 from https://ipchaxun.com/
+域名列表为
+['91m.cc', 'www.cu90.com', 'www.sixyin.com', 'www.dzy66666.com', 'tl123123.com', '663dy.com', 'www.tpyyc.com', 'www.kuaikan66.com', 'www.nitianxieshen.com', 'www.tlbb888.com', 'www.yh9pk.com', 'm.niuerzs.com', 'www.tsdingxin.com', 'www.tl123123.com', 'www.295k.com', 'www.xinjuc.com', '58ha.com', 'www.993my.com', 'www.cfhuagong.com', 'yncareer.com', 'www.tlbbhy.com', 'www.hxncpgs.com', 'tpyyc.com', 'www.lyzdzy.com', 'www.jg666.top', 'www.kbss888.com', 'www.tockt.com', 'btdad.pro', 'www.m6y6.com', 'www.t9gm.com', 'm.ulzdk.com', 'cfip.xxxxxxxx.tk', 'www.hhyy028.com', 'www.wubei520.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for tpyyc.com...
+Performing DNS lookup for 91m.cc...
+Performing DNS lookup for m.ulzdk.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
