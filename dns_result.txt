@@ -2,71 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
+www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 172.67.172.249
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 104.21.30.140
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:1e8c
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:acf9
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
 spca.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global11.66666654.xyz.
-Name:	cfcn-a-global11.66666654.xyz
-Address: 104.17.253.83
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global35.66666654.xyz.
+Name:	cfcn-b-global35.66666654.xyz
+Address: 104.17.249.96
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		1.1.1.1
+Address:	1.1.1.1#53
 
-Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 172.64.206.232
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.10.75
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.5.171
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.227.28
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.57.160
-Name:	cfip.xxxxxxxx.tk
-Address: 141.101.122.231
-Name:	cfip.xxxxxxxx.tk
-Address: 172.66.44.238
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.4.254
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.205.206
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.88.197
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.226.226
-Name:	cfip.xxxxxxxx.tk
-Address: 104.22.62.236
-Name:	cfip.xxxxxxxx.tk
-Address: 108.162.195.104
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.132.251
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.228.78
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.6988tv.com	canonical name = 6988tv.com.
-6988tv.com	canonical name = cf.cloudflare.182682.xyz.
-Name:	cf.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	cf.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	cf.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	cf.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
+** server can't find yjyfdc.com: SERVFAIL
 
