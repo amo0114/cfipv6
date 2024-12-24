@@ -1,25 +1,32 @@
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		1.1.1.1
+Address:	1.1.1.1#53
+
+** server can't find www.xczq1.top: SERVFAIL
+
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.fnyyw.net
-Address: 162.209.175.122
+www.zongcaixs.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.157.160
+Name:	ips.993888.xyz
+Address: 104.17.209.177
+Name:	ips.993888.xyz
+Address: 104.17.25.7
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.furuimedical.com
-Address: 172.67.161.55
-Name:	www.furuimedical.com
-Address: 104.21.74.182
-Name:	www.furuimedical.com
-Address: 2606:4700:3034::ac43:a137
-Name:	www.furuimedical.com
-Address: 2606:4700:3030::6815:4ab6
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find s1.shuangms.com: NXDOMAIN
+Name:	www.789kp.com
+Address: 172.67.194.200
+Name:	www.789kp.com
+Address: 104.21.52.35
+Name:	www.789kp.com
+Address: 2606:4700:3033::6815:3423
+Name:	www.789kp.com
+Address: 2606:4700:3033::ac43:c2c8
 
