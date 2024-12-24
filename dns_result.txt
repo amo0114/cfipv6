@@ -2,52 +2,71 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.manhuadb.com
-Address: 104.21.32.1
-Name:	www.manhuadb.com
-Address: 104.21.16.1
-Name:	www.manhuadb.com
-Address: 104.21.80.1
-Name:	www.manhuadb.com
-Address: 104.21.64.1
-Name:	www.manhuadb.com
-Address: 104.21.96.1
-Name:	www.manhuadb.com
-Address: 104.21.112.1
-Name:	www.manhuadb.com
-Address: 104.21.48.1
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:6001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:5001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:2001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:4001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:7001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:1001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:3001
+spca.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global11.66666654.xyz.
+Name:	cfcn-a-global11.66666654.xyz
+Address: 104.17.253.83
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	galzy.eu.org
-Address: 104.21.37.37
-Name:	galzy.eu.org
-Address: 172.67.203.183
-Name:	galzy.eu.org
-Address: 2606:4700:3034::ac43:cbb7
-Name:	galzy.eu.org
-Address: 2606:4700:3037::6815:2525
+Name:	cfip.xxxxxxxx.tk
+Address: 172.64.206.232
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.10.75
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.5.171
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.227.28
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.57.160
+Name:	cfip.xxxxxxxx.tk
+Address: 141.101.122.231
+Name:	cfip.xxxxxxxx.tk
+Address: 172.66.44.238
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.4.254
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.205.206
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.88.197
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.226.226
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.62.236
+Name:	cfip.xxxxxxxx.tk
+Address: 108.162.195.104
+Name:	cfip.xxxxxxxx.tk
+Address: 104.20.132.251
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.228.78
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.ma-tong.com
-Address: 38.63.96.23
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
 

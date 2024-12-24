@@ -18616,3 +18616,24 @@ Performing DNS lookup for m.ulzdk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 97bf417] Update project files
+ 4 files changed, 78 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   cb78254..97bf417  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.18.204...
+Fetching domains for 104.18.4.167...
+Fetching domains for 104.17.232.251...
+succeed to fetch domains for 104.18.18.204 from https://site.ip138.com/
+succeed to fetch domains for 104.17.232.251 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.4.167 from https://ipchaxun.com/
+域名列表为
+['www.3678yu.com', 'www.kbss888.com', 'invite.teamspeak.com', 'www.50zw.co', 'forum.teamspeak.com', 'galzy.eu.org', 'm.50zw.co', 'magents.bestperhead.com', 'teamspeak.com', 'www.g789z.com', '050500.xyz', 'www.993my.com', 'www.6988tv.com', 'jib.com', '3678yu.com', 'www.jib.com', 'www.wn01.cc', 'www.teamspeak.com', 'hsj.lbxjc.online', 'www.kanju8.com', 'raw.gitmirror.com', 'la.teamspeak.com', 'www.jg666.top', 'asmrfs.com', 'wve1.com', '1567uu.com', 'www.hm11.lol', '869yt.com', 'www.zgjmw.net', 'www.chinadangjian.org', 'www.jjtyss.com', 'www.gaycn.top', 'www.bibiwu.com', 'www.hanfangxiang.com', '4hupp38.com', 'www.crocs.co.jp', 'www.1567uu.com', 'xs.wxtv.cc', 'www.lineagelogistics.com', 'www.sf52l.com', 'www.869yt.com', 'www.52ys.cc', 'blacklist2.teamspeak.com', 'versions.teamspeak.com', 'www.wubei520.com', 'www.tvccc.org', 'www.wve1.com', 'www.868ut.com', 'proxyip.aliyun.fxxk.dedyn.io', 'www.pk299.com', 'go.snangua.com', 'www.letaoke.cn', 'www.630book.com', 'www.muangthai.co.th', 'bqg34.com', 'yiqi1234.com', 'www.881dy.com', 'www.manhuadb.com', 'www.50zw.com', 'm.zhiqihuo.org', 'www.hefuyanchu.com', 'tunneltransfer.bpyjc.com', 'www.dy420.com', 'www.iios.me', 'www.ys900.com', 'www.reaxys.com', 'www.cx888my.com', 'm.bqg789.co', 'www.ma-tong.com', 'www.luwangyangrong.com', 'qqq.kwbhuah.cn', 'www.processingmagazine.com', 'm.tvfff.com', 'ts3services.teamspeak.com', 'm.ma-tong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.manhuadb.com...
+Performing DNS lookup for galzy.eu.org...
+Performing DNS lookup for www.ma-tong.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
