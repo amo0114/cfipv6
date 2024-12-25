@@ -1,25 +1,32 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 3345la.com: NXDOMAIN
+Non-authoritative answer:
+Name:	ird.govt.nz
+Address: 104.18.38.32
+Name:	ird.govt.nz
+Address: 172.64.149.224
+Name:	ird.govt.nz
+Address: 2606:4700:4400::ac40:95e0
+Name:	ird.govt.nz
+Address: 2606:4700:4400::6812:2620
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+www.wubei520.com	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 104.21.15.245
+Name:	cf.host106.america96.com
+Address: 172.67.165.85
+Name:	cf.host106.america96.com
+Address: 2606:4700:3036::ac43:a555
+Name:	cf.host106.america96.com
+Address: 2606:4700:3037::6815:ff5
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	cc44nn.com
-Address: 104.21.86.111
-Name:	cc44nn.com
-Address: 172.67.218.146
-Name:	cc44nn.com
-Address: 2606:4700:3034::ac43:da92
-Name:	cc44nn.com
-Address: 2606:4700:3035::6815:566f
+** server can't find www.dzy66666.com: NXDOMAIN
 
