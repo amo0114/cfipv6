@@ -2,37 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-hzefss.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global39.66666654.xyz.
-Name:	cfcn-a-global39.66666654.xyz
-Address: 104.17.253.100
+Name:	m.hk18.co
+Address: 104.21.30.124
+Name:	m.hk18.co
+Address: 172.67.172.233
+Name:	m.hk18.co
+Address: 2606:4700:3037::ac43:ace9
+Name:	m.hk18.co
+Address: 2606:4700:3033::6815:1e7c
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.ddaculture.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nsisfans.com	canonical name = cf.080814.xyz.
-Name:	cf.080814.xyz
-Address: 104.21.72.152
-Name:	cf.080814.xyz
-Address: 172.67.186.69
-Name:	cf.080814.xyz
-Address: 2606:4700:3034::ac43:ba45
-Name:	cf.080814.xyz
-Address: 2606:4700:3035::6815:4898
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-m.6i5.com	canonical name = m.6i5.com.cdn.cloudflare.net.
-Name:	m.6i5.com.cdn.cloudflare.net
-Address: 104.21.53.57
-Name:	m.6i5.com.cdn.cloudflare.net
-Address: 172.67.209.38
-Name:	m.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:3539
-Name:	m.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:d126
+Name:	www9p3456.com
+Address: 54.67.42.145
 
