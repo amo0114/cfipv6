@@ -18908,3 +18908,26 @@ Performing DNS lookup for www9p3456.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d353a5e] Update project files
+ 4 files changed, 262 insertions(+), 34 deletions(-)
+ rewrite Fission_ip_backup.txt (90%)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   0ca8dde..d353a5e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.95.113...
+Fetching domains for 104.17.45.78...
+Fetching domains for 104.17.224.200...
+succeed to fetch domains for 104.17.45.78 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.224.200 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.95.113 from https://ipchaxun.com/
+域名列表为
+['www.cfhuagong.com', 'www.tichain.cc', 'www.iios.club', 'zzztch.com', 'www.iios.fun', 'hmoe.top', 'www.52ys.cc', 'www.dj5157.com', 'www.cocanwelding.com', 'www.kunzedu.com', '66se.tv', 'ipdb.rr.nu', '10.sanfen002.top', 'www.zzztch.com', 'www.myvod360.com', 'blog.bestip.one']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for ipdb.rr.nu...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
