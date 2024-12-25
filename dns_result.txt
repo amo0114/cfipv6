@@ -2,37 +2,76 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.5522tl.com	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
+Name:	www.4hubb75.com
+Address: 162.209.175.122
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.jinyongwuxia.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.122.243
-Name:	ips.993888.xyz
-Address: 104.16.156.72
-Name:	ips.993888.xyz
-Address: 104.16.1.54
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.232.157
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.16.245
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.238.226
+Name:	cfip.xxxxxxxx.tk
+Address: 172.67.68.209
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.24.114
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.49.74
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.31.17
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.10.217
+Name:	cfip.xxxxxxxx.tk
+Address: 172.67.10.85
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.19.1
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.234.64
+Name:	cfip.xxxxxxxx.tk
+Address: 172.67.65.62
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.64.147
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.231.80
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.65.45
 
-Server:		8.8.4.4
-Address:	8.8.4.4#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
 Non-authoritative answer:
-u.uboy03.xyz	canonical name = unweb.unweb01.xyz.
-Name:	unweb.unweb01.xyz
-Address: 162.159.134.216
-Name:	unweb.unweb01.xyz
-Address: 162.159.130.18
-Name:	unweb.unweb01.xyz
-Address: 162.159.135.30
+Name:	bestcf.onecf.eu.org
+Address: 104.21.21.230
+Name:	bestcf.onecf.eu.org
+Address: 104.21.239.44
+Name:	bestcf.onecf.eu.org
+Address: 172.67.73.22
+Name:	bestcf.onecf.eu.org
+Address: 104.17.240.57
+Name:	bestcf.onecf.eu.org
+Address: 104.21.226.178
+Name:	bestcf.onecf.eu.org
+Address: 104.22.52.50
+Name:	bestcf.onecf.eu.org
+Address: 104.17.228.41
+Name:	bestcf.onecf.eu.org
+Address: 104.17.225.77
+Name:	bestcf.onecf.eu.org
+Address: 104.19.236.45
+Name:	bestcf.onecf.eu.org
+Address: 104.21.28.245
+Name:	bestcf.onecf.eu.org
+Address: 104.22.54.47
+Name:	bestcf.onecf.eu.org
+Address: 104.17.252.80
+Name:	bestcf.onecf.eu.org
+Address: 104.17.234.123
+Name:	bestcf.onecf.eu.org
+Address: 104.17.243.99
+Name:	bestcf.onecf.eu.org
+Address: 104.19.227.68
 

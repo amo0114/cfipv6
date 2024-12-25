@@ -18730,3 +18730,25 @@ Performing DNS lookup for www.789kp.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main edfdfce] Update project files
+ 4 files changed, 74 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   77fb657..edfdfce  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.23.15...
+Fetching domains for 104.18.93.10...
+Fetching domains for 104.17.49.103...
+succeed to fetch domains for 104.17.23.15 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.93.10 from https://site.ip138.com/
+succeed to fetch domains for 104.17.49.103 from https://dnsdblookup.com/
+域名列表为
+['www.115fhd.com', '29.namesilo123.top', 'www.zgwangzhan.com', 'jpadwinfs.114514782.xyz', 'www.yh9pk.com', 'wei333.com', 'www.worldwidecorp.com', 'www.5522tl.com', 'zl.aitrjc.xyz', 'www.993my.com', '7.namesilo123.top', 'www.clun.top', 'www.zlcq520.com', 'www.88wwk.com', 'www.sf123.mobi', 'www.whpaiger.com', 'nlsdwsz.66666654.xyz', 'chundd.sectigo.pp.ua', 'www.kjyxyw.com', 'www.pk299.com', 'www.tlbb888.com', 'www.1101tl.cn', 'www.kbss888.com', 'www.xinyi176.com', 'iudbvcxa.76898102.xyz', 'www.90qr.com', 'usshsaba.114514782.xyz', 'www.cx888my.com', 'u.uboy03.xyz', 'www.m6y6.com', 'www.yan176.com', 'wudeyy.com', 'panel3.touhou.tel', 'personal.worldwidecorp.com', 'www.91m.cc', 'www.55xs.cc', 'm.niuerzs.com', 'hzefss.66666654.xyz', 'www.93xscc.com', 'www.jinyongwuxia.com', 'www.haowan.monster', 'www.99wx.cc', 'freeyx.cloudflare88.eu.org', 'longzemy.com', '26.namesilo123.top', 'yiqi1234.com', 'baxtc.66666654.xyz', 'www.zzztch.com', 'www.8877fz.com', 'worldwidecorp.com', 'www.lyzdzy.com', 'www.xczq1.top', 'miraigo.net', 'm6y6.com', 'www.kxgdyw.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.5522tl.com...
+Performing DNS lookup for www.jinyongwuxia.com...
+Performing DNS lookup for u.uboy03.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
