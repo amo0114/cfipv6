@@ -2,31 +2,37 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	ird.govt.nz
-Address: 104.18.38.32
-Name:	ird.govt.nz
-Address: 172.64.149.224
-Name:	ird.govt.nz
-Address: 2606:4700:4400::ac40:95e0
-Name:	ird.govt.nz
-Address: 2606:4700:4400::6812:2620
+hzefss.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global39.66666654.xyz.
+Name:	cfcn-a-global39.66666654.xyz
+Address: 104.17.253.100
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wubei520.com	canonical name = cf.host106.america96.com.
-Name:	cf.host106.america96.com
-Address: 104.21.15.245
-Name:	cf.host106.america96.com
-Address: 172.67.165.85
-Name:	cf.host106.america96.com
-Address: 2606:4700:3036::ac43:a555
-Name:	cf.host106.america96.com
-Address: 2606:4700:3037::6815:ff5
+www.nsisfans.com	canonical name = cf.080814.xyz.
+Name:	cf.080814.xyz
+Address: 104.21.72.152
+Name:	cf.080814.xyz
+Address: 172.67.186.69
+Name:	cf.080814.xyz
+Address: 2606:4700:3034::ac43:ba45
+Name:	cf.080814.xyz
+Address: 2606:4700:3035::6815:4898
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.dzy66666.com: NXDOMAIN
+Non-authoritative answer:
+m.6i5.com	canonical name = m.6i5.com.cdn.cloudflare.net.
+Name:	m.6i5.com.cdn.cloudflare.net
+Address: 104.21.53.57
+Name:	m.6i5.com.cdn.cloudflare.net
+Address: 172.67.209.38
+Name:	m.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:3539
+Name:	m.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:d126
 
