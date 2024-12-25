@@ -2,40 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.pp910.com
-Address: 172.67.198.31
-Name:	www.pp910.com
-Address: 104.21.34.48
-Name:	www.pp910.com
-Address: 2606:4700:3037::6815:2230
-Name:	www.pp910.com
-Address: 2606:4700:3030::ac43:c61f
+www.99wxw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.133.173
+Name:	ips.993888.xyz
+Address: 104.17.31.14
+Name:	ips.993888.xyz
+Address: 104.17.143.43
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
+www.1a1v.com	canonical name = sp.gname.net.
+sp.gname.net	canonical name = sp.gs-cdn.com.
+sp.gs-cdn.com	canonical name = sp1.gname.net.
+sp1.gname.net	canonical name = b5e584ac541a4754af8f59bf2915a9a7.pacloudflare.com.
+Name:	b5e584ac541a4754af8f59bf2915a9a7.pacloudflare.com
+Address: 172.65.185.109
+Name:	b5e584ac541a4754af8f59bf2915a9a7.pacloudflare.com
+Address: 2606:4700:90:0:725d:5c1b:8e8c:5d4c
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-90dushu.com	canonical name = back.52biqv.com.
-Name:	back.52biqv.com
-Address: 172.67.214.157
-Name:	back.52biqv.com
-Address: 104.21.53.154
-Name:	back.52biqv.com
-Address: 2606:4700:3034::ac43:d69d
-Name:	back.52biqv.com
-Address: 2606:4700:3032::6815:359a
+Name:	www.lingyi44.com
+Address: 208.98.43.80
 

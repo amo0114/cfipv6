@@ -18775,3 +18775,26 @@ Performing DNS lookup for bestcf.onecf.eu.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main de4f176] Update project files
+ 4 files changed, 76 insertions(+), 115 deletions(-)
+ rewrite Fission_ip_backup.txt (98%)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   3a29ded..de4f176  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.11.169...
+Fetching domains for 104.17.11.59...
+Fetching domains for 172.67.198.31...
+succeed to fetch domains for 172.67.198.31 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.11.59 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.11.169 from https://ipchaxun.com/
+域名列表为
+['www.gzcfmy.com', 'www.hhyy028.com', 'www.43a1xb8.top', 'www.11txt.com', 'lyaw37.com', 'www.taose1.cc', 'zlibsearch.1kbtool.com', 'www.jsdrtzn.com', 'www.eob9.com', '90dushu.com', 'q888e.com', 'www.hosemicon.com', 'www.17kty.com', 'www.358zz.com', 'sm.hga1123.com', 'v11av575.xyz', 'www.92mili.com', 'www.shsxjzzs.com', 'www.tinghen.com', '43a1xb8.top', 'w4.sif12a.cc', 'www.lvhuisb.com', 'www.bjfqmj.com', 'www.rxjh520.cc', 'www.266958.com', 'eob9.com', 'ogolosha.com', 'www.shyangfu.com', 'www.gzgafk.com', 'www.q888e.com', 'pp910.com', 'www.hxsy888.com', 'www.54ck.com', 'www.yh9pk.com', 'wap.yyjjyyj.top', 'www.hzscwl.com', 'www.shy6666.com', 'www.pp910.com', 'www.zzztch.com', '111usdt.top', '999696.xyz', 'www.mebel-partner.pl', 'www.yimoe.cc', 'd.yimoe.cc', 'www.tlbb888.com', 'www.iios.club', '54ck.com', 'www.lyaw37.com', 'taose1.cc', 'kt5000.com', 'www.antakyaescort.com', 'rufixed.1kbtool.com', 'www.imeiju.net', 'www.szxjsj.com', 'yimoe.cc', 'www.kanju8.com', 'www.shfmgc.com', 'www.cx888my.com', 'wap.43a1xb8.top', 'stock.hostmonit.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.pp910.com...
+Performing DNS lookup for stock.hostmonit.com...
+Performing DNS lookup for 90dushu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
