@@ -1,32 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.133.173
-Name:	ips.993888.xyz
-Address: 104.17.31.14
-Name:	ips.993888.xyz
-Address: 104.17.143.43
+** server can't find 3345la.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.1a1v.com	canonical name = sp.gname.net.
-sp.gname.net	canonical name = sp.gs-cdn.com.
-sp.gs-cdn.com	canonical name = sp1.gname.net.
-sp1.gname.net	canonical name = b5e584ac541a4754af8f59bf2915a9a7.pacloudflare.com.
-Name:	b5e584ac541a4754af8f59bf2915a9a7.pacloudflare.com
-Address: 172.65.185.109
-Name:	b5e584ac541a4754af8f59bf2915a9a7.pacloudflare.com
-Address: 2606:4700:90:0:725d:5c1b:8e8c:5d4c
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lingyi44.com
-Address: 208.98.43.80
+Name:	cc44nn.com
+Address: 104.21.86.111
+Name:	cc44nn.com
+Address: 172.67.218.146
+Name:	cc44nn.com
+Address: 2606:4700:3034::ac43:da92
+Name:	cc44nn.com
+Address: 2606:4700:3035::6815:566f
 

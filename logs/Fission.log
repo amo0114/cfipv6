@@ -18798,3 +18798,25 @@ Performing DNS lookup for 90dushu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3340af6] Update project files
+ 4 files changed, 66 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   de4f176..3340af6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.60.247...
+Fetching domains for 104.17.241.161...
+Fetching domains for 104.17.234.240...
+succeed to fetch domains for 104.17.234.240 from https://site.ip138.com/
+succeed to fetch domains for 104.17.241.161 from https://site.ip138.com/
+succeed to fetch domains for 104.22.60.247 from https://ipchaxun.com/
+域名列表为
+['www.28et.com', 'www.btdad.live', 'www.ygdy8.cc', '33.6bnw.top', 'www.zzztch.com', 'www.99wxw.cc', 'www.mm5517.com', 'www.ikantv.net', 'www.wubei520.com', 'www.lingyi44.com', 'www.jg666.top', 'www.993my.com', '28et.com', 'amoebi.com', 'yxy176.com', 'www.999998.vip', 'www.taopianwu.com', 'm6y6.com', 'www.99wx.cc', 'www.whpaiger.com', 'www.75uw.com', 'www.kuaikan66.com', 'www.nangua55.com', 'www.1a1v.com', 'www.ayzjj.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.99wxw.cc...
+Performing DNS lookup for www.1a1v.com...
+Performing DNS lookup for www.lingyi44.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
