@@ -2,6 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.43.136
+Name:	a234px.com
+Address: 104.21.62.79
+Name:	a234px.com
+Address: 172.67.221.207
+Name:	a234px.com
+Address: 2606:4700:3035::6815:3e4f
+Name:	a234px.com
+Address: 2606:4700:3033::ac43:ddcf
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find v11av160.xyz: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	wx42crmo.com
+Address: 172.67.134.53
+Name:	wx42crmo.com
+Address: 104.21.25.119
+Name:	wx42crmo.com
+Address: 2606:4700:3037::ac43:8635
+Name:	wx42crmo.com
+Address: 2606:4700:3036::6815:1977
 
