@@ -2,24 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tlbb888.com
-Address: 156.224.122.4
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	www.4hu46t.com
-Address: 162.209.175.126
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
 Name:	www.cykz.net
-Address: 172.232.25.148
+Address: 172.232.31.180
 Name:	www.cykz.net
 Address: 172.232.4.213
 Name:	www.cykz.net
-Address: 172.232.31.180
+Address: 172.232.25.148
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.91m.cc: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.yqkbook.com
+Address: 23.225.148.166
 
