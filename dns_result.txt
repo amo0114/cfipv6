@@ -2,20 +2,24 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kxgdyw.com
-Address: 208.98.43.135
-
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		1.1.1.1
-Address:	1.1.1.1#53
-
-** server can't find 2xigua.com: SERVFAIL
+Name:	www.tlbb888.com
+Address: 156.224.122.4
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.qianlimaerp.com
-Address: 162.209.149.30
+Name:	www.4hu46t.com
+Address: 162.209.175.126
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.cykz.net
+Address: 172.232.25.148
+Name:	www.cykz.net
+Address: 172.232.4.213
+Name:	www.cykz.net
+Address: 172.232.31.180
 
