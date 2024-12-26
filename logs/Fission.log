@@ -19054,3 +19054,25 @@ Performing DNS lookup for www.yqkbook.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0057c34] Update project files
+ 4 files changed, 59 insertions(+), 32 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   5c3f575..0057c34  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.41.117...
+Fetching domains for 104.21.235.230...
+Fetching domains for 104.22.17.212...
+succeed to fetch domains for 104.21.235.230 from https://dnsdblookup.com/
+succeed to fetch domains for 172.66.41.117 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.17.212 from https://ipchaxun.com/
+域名列表为
+['www.shgyqc.com', 'www.xz898my.com', 'www.xjiujiu99.com', 'www.jshl1000.com', 'cfcdn1.sanfencdn9.com', 'www.91m.cc', '669acg.com', 'dcs.jqddos.xyz', 'www.dcs99.com', 'jpvsavhyu.76898102.xyz', 'www.ddwhm.com', 'www.sf52l.com', 'www.zddzd.top', 'www.cryptohopper.com', 'h5.chunxin99.com', 'www.tockt.com', 'www.97777pk.com', 'www.jg666.top', 'www.iios.club', 'www.kbss888.com', 'i.duaixs.com', 'www.993my.com', 'www.7277tl.com', 'www.bkmanhuas.com', 'www.yan176.com', 'www.521sg.com', 'm.niuerzs.com', 'www.5522tl.com', 'cfip.xxxxxxxx.tk', 'www.block.website', 'www.zxc999.cn', 'www.yh9pk.com', 'www.huashubao.org', 'wxwxwx01.com', 'www.tx58tl.com', 'www.cx888my.com', 'yiqi1234.com', 'www.luwangyangrong.com', 'www.xinyi176.com', 'www.shy6666.com', 'www.tlbb888.com', 'xfltd.net', 'ks50.cc', 'en.topsport.lt', 'index1.xxm3u8.top', 'www.sy790.com', 'klt.haswh.com', 'www.tl123123.com', 'www.zlcq520.com', 'www.tlbbhy.com', 'sm.zhilingli.cn', 'www.88wwk.com', 'www.m6y6.com', 'www.30moyu.top', 'www.207my.com', 'www.lolfz.com', 'www.rxjh520.cc', 'achk.cloudflarest.link', 'huashubao.org', 'www.pk299.com', 'www.niuniu9.com', 'www.8899tl.com', 'm.52ggd.com', 'securedrop.org', 'ygdy8.cc', 'dzy66666.com', 'yxy176.com', 'www.ciliba.life', 'ysz8.com', 'www.maomp.net', 'www.iios.me', 'www.btdad.shop', 'www.930my.com', 'www.7lq.com', 'www.gdriustb.com', 'www.hhyy028.com', 'www.dzy66666.com', 'www.wubei520.com', 'www.czbmy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tlbbhy.com...
+Performing DNS lookup for www.huashubao.org...
+Performing DNS lookup for ks50.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -1,29 +1,53 @@
-Server:		8.8.4.4
-Address:	8.8.4.4#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.tlbbhy.com	canonical name = host1110567a.c2.huyuncdn.xyz.
-host1110567a.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
+Name:	stake7.com
+Address: 104.18.33.226
+Name:	stake7.com
+Address: 172.64.154.30
+Name:	stake7.com
+Address: 2606:4700:4400::6812:21e2
+Name:	stake7.com
+Address: 2606:4700:4400::ac40:9a1e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.huashubao.org	canonical name = huashubao.org.
-Name:	huashubao.org
-Address: 38.49.14.245
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.25.69.73
+Name:	dcs.jqddos.xyz
+Address: 104.17.158.180
+Name:	dcs.jqddos.xyz
+Address: 104.16.114.255
+Name:	dcs.jqddos.xyz
+Address: 104.17.151.104
+Name:	dcs.jqddos.xyz
+Address: 104.17.124.100
+Name:	dcs.jqddos.xyz
+Address: 104.25.215.99
+Name:	dcs.jqddos.xyz
+Address: 104.24.60.117
+Name:	dcs.jqddos.xyz
+Address: 104.24.1.156
+Name:	dcs.jqddos.xyz
+Address: 104.17.3.45
+Name:	dcs.jqddos.xyz
+Address: 104.25.54.194
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find ks50.cc: No answer
+Name:	a234sf.com
+Address: 104.21.28.152
+Name:	a234sf.com
+Address: 172.67.170.228
+Name:	a234sf.com
+Address: 2606:4700:3035::6815:1c98
+Name:	a234sf.com
+Address: 2606:4700:3031::ac43:aae4
 
