@@ -1,23 +1,29 @@
+Server:		8.8.4.4
+Address:	8.8.4.4#53
+
+Non-authoritative answer:
+www.tlbbhy.com	canonical name = host1110567a.c2.huyuncdn.xyz.
+host1110567a.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cykz.net
-Address: 172.232.31.180
-Name:	www.cykz.net
-Address: 172.232.4.213
-Name:	www.cykz.net
-Address: 172.232.25.148
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.91m.cc: NXDOMAIN
+www.huashubao.org	canonical name = huashubao.org.
+Name:	huashubao.org
+Address: 38.49.14.245
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yqkbook.com
-Address: 23.225.148.166
+*** Can't find ks50.cc: No answer
 
