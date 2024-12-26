@@ -2,30 +2,54 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	a234px.com
-Address: 104.21.62.79
-Name:	a234px.com
-Address: 172.67.221.207
-Name:	a234px.com
-Address: 2606:4700:3035::6815:3e4f
-Name:	a234px.com
-Address: 2606:4700:3033::ac43:ddcf
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find v11av160.xyz: NXDOMAIN
+Name:	789kp.com
+Address: 172.67.194.200
+Name:	789kp.com
+Address: 104.21.52.35
+Name:	789kp.com
+Address: 2606:4700:3033::6815:3423
+Name:	789kp.com
+Address: 2606:4700:3033::ac43:c2c8
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wx42crmo.com
-Address: 172.67.134.53
-Name:	wx42crmo.com
-Address: 104.21.25.119
-Name:	wx42crmo.com
-Address: 2606:4700:3037::ac43:8635
-Name:	wx42crmo.com
-Address: 2606:4700:3036::6815:1977
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.162.175
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.54.121
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.79.20
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.60.218
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.0.151
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.255.191
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.49.67
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.56.195
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.3.178
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.236.127
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.50.245
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.239.85
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.230.64
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.253.209
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.53.152
 

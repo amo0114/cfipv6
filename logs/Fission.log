@@ -18948,3 +18948,22 @@ Performing DNS lookup for www.lyzdzy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b0eae8e] Update project files
+ 4 files changed, 51 insertions(+), 5 deletions(-)
+To github.com:amo0114/cfipv6.git
+   319be86..b0eae8e  main -> main
+Downloaded 2 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 2 IPs.
+Fetching domains for 104.21.18.151...
+Fetching domains for 104.21.25.119...
+succeed to fetch domains for 104.21.18.151 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.25.119 from https://ipchaxun.com/
+域名列表为
+['www.rzjqmp3.top', 'www.4hua80.com', 'm.rzjqmp3.top', 'www.menrbns.cn', 'www.eemkmvv.cn', 'www.814ii.com', 'www.byyum25.com', '4778c.com', 'www.karaokenetwork.com', 'cfip.xxxxxxxx.tk', 'www.qxsndw.cn', 'www.yjys05.com', 'davron.co.il', 'www.www-9708.com', 'mjsq.tv', 'nankeha.com', 'hfdjt.com', 'www.mjsq.tv', 'meteorclient.com', 'www.souba-kakugen.com', 'm.0nqv2c.top', 'ee639.cc', '0nqv2c.top', 'hfdyjj.com', 'hu466.com', 'dgougou.com', 'ubglobal.online', '3g.rzjqmp3.top', 'www.zenmedapei.com', 'www.lyzdzy.com', 'www.xfb82.com', 'launcher.aionempire.com', 'hi88ym.com', 'dotunnel.net', 'www.aspirecloud.vip', 'thep605.cc', '0568.vip', 'ppb77.com', 'www.tyjiatui.top', 'plasteurasia.com', 'aaaxyx.com', 'littleneko.cf', 'woaixinbak321.icu', 'bluemei.com', 'www.75uw.com', 'readersmagnet.com', 'flirtroulette.com', 'www.joker118.net', 'wap.aqedhn.top', 'www.cc8win.com', 'uwzfv5kajggf9mu.xyz', 'www.99rre0.com', 'walmartsells.com', 'crackedfully.com', '3g.aqedhn.top', 'www.hackerbbs.cc', 'www.hdjlink.top', 'www.ahshumei.cn', 'mayivpn.net', 'www.ra7188.com', '322683.com', 'byyum25.com', 'chqs222.com', 'www.y3600.cz', 'aspirecloud.vip', 'aionempire.com', 'www.cocacoder.cn', 'emodolls.wang', 'm.hdjlink.top', 'rzjqmp3.top', 'www.aaaxyx.com', 'www.nankeha.com', 'bf6c.pw', 'www.rencaihuojia.com', 'www.chqs222.com', 'www.e99w.com', 'cc8win.com', 'www.322683.com', 'aqedhn.top', 'xfb82.com', 'rencaihuojia.com', 'tecp.cc', 'www.evermoral.com', 'm.aqedhn.top', 'pdnene61uo.xyz', 'www.my1143.com', 'evermoral.com', 'www.tpyyc.com', 'zencart.lgtva.com', 'www.4j4j.cn', 'www.a234px.com', 'wwww.my1143.com', 'moremirno.com', 'www.zgwangzhan.com', 'irespeak.top', 'childroadsafety.org.au', 'www.mayivpn.net', '1179tom.com', 'www.haochi6.com', 'www.stamparijaff.rs', 'usdt.hackerbbs.cc', 'my1143.com', 'www.0568.vip', 'www.118711197.com', 'f2dko.com', 'www-9708.com', 'hackerbbs.cc', '3g.hdjlink.top', 'www.bekaretzari.com', 'www.xxsm267.com', 'wap.rzjqmp3.top', 'wap.0nqv2c.top', 'karaokenetwork.com', 'a234px.com', '999888tab.com', 'www.daifaliwu.com', '4hua80.com', 'hdjlink.top', 'www.r1kt.cn', 'bt383.com', 'thepthep3177.cc', 'v11av160.xyz', 'www.f2dko.com', 'haipeng123.com', 'www.davron.co.il', 'wjm.wheesapp.top', 'www.aqedhn.top', 'wap.hdjlink.top', 'www.zzweida.cn', 'www.shiqiangyimin.com', 'joker118.net', 'zenmedapei.com', 'stamparijaff.rs', 'www.0nqv2c.top', 'www.haipeng123.com', '118711197.com', 'www.sixyin.com', 'otpbots.com', 'wx42crmo.com', 'yetuji.com', 'www.readersmagnet.com', 'www.syc1.buzz', '3g.0nqv2c.top', '3g.xunhuatv.top', '814ii.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for a234px.com...
+Performing DNS lookup for v11av160.xyz...
+Performing DNS lookup for wx42crmo.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
