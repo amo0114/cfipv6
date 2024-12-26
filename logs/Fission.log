@@ -19098,3 +19098,25 @@ Performing DNS lookup for a234sf.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6b9bf6e] Update project files
+ 4 files changed, 87 insertions(+), 73 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   473b9d9..6b9bf6e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.41.213...
+Fetching domains for 104.24.188.39...
+Fetching domains for 104.16.38.158...
+succeed to fetch domains for 172.67.41.213 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.38.158 from https://dnsdblookup.com/
+succeed to fetch domains for 104.24.188.39 from https://dnsdblookup.com/
+域名列表为
+['www.mobilesentrix.com', 'www.93xscc.com', 'bestcf.top', 'www.6i5.com', 'www.tv9090.com', 'www.sxyzxh.com', 'www.zdqx.com', 'm.50zw.co', 'www.iios.me', 'mobilesentrix.com', 'www.56th.cc', 'www.qhnow.com', 'www.heinu.cc', 'www.31bz.com', 'www.66se7.com', 'www.zzgszg.com', 'www.6988tv.com', 'www.nmgtzb.org.cn', 'wap.sp6080.com', 'www.gaoqingw.com', 'www.24xunlei.com', 'www.11txt.com', 'www.qindixs.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.hanmatv.com', 'a1.dnsapi123.com', 'www.tinghen.com', 'cloudflare.cfgo.cc', 'zi0.cc', 'www.630book.com', 'kytyy.com', 'www.4148.net', 'www.smdyy.cc', 'www.66se6.com', 'v6.11txt.com', 'www.k77yy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.6988tv.com...
+Performing DNS lookup for www.mobilesentrix.com...
+Performing DNS lookup for www.56th.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

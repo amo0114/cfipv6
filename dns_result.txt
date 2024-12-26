@@ -2,50 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.6988tv.com	canonical name = 6988tv.com.
-6988tv.com	canonical name = cf.cloudflare.182682.xyz.
-Name:	cf.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	cf.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	cf.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	cf.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
+www.ygdy8.cc	canonical name = ygdy8.jiasule.xyz.
+ygdy8.jiasule.xyz	canonical name = cname.jiasule.xyz.
+Name:	cname.jiasule.xyz
+Address: 104.19.191.125
+Name:	cname.jiasule.xyz
+Address: 104.17.121.153
+Name:	cname.jiasule.xyz
+Address: 104.16.199.55
+Name:	cname.jiasule.xyz
+Address: 104.19.145.155
+Name:	cname.jiasule.xyz
+Address: 162.159.15.24
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.mobilesentrix.com
-Address: 104.22.52.95
-Name:	www.mobilesentrix.com
-Address: 104.22.53.95
-Name:	www.mobilesentrix.com
-Address: 172.67.41.213
-Name:	www.mobilesentrix.com
-Address: 2606:4700:10::ac43:29d5
-Name:	www.mobilesentrix.com
-Address: 2606:4700:10::6816:355f
-Name:	www.mobilesentrix.com
-Address: 2606:4700:10::6816:345f
+Name:	4huqq51.com
+Address: 23.225.33.88
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.56th.cc
-Address: 38.12.33.141
+Name:	www.4huqq51.com
+Address: 23.225.33.88
 
