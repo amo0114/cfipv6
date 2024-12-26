@@ -19076,3 +19076,25 @@ Performing DNS lookup for ks50.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 473b9d9] Update project files
+ 4 files changed, 94 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   0057c34..473b9d9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.217.199...
+Fetching domains for 104.18.28.223...
+Fetching domains for 172.66.41.117...
+succeed to fetch domains for 104.18.28.223 from https://dnsdblookup.com/
+succeed to fetch domains for 172.66.41.117 from https://site.ip138.com/
+succeed to fetch domains for 104.25.217.199 from https://ipchaxun.com/
+域名列表为
+['www.kbss888.com', 'www.88wwk.com', 'cfcdn1.sanfencdn9.com', 'www.m6y6.com', 'www.sy790.com', 'www.cpo.lt', 'i.duaixs.com', 'www.ata234.com', 'www.4hudy885.com', 'd719u.com', 'rrys1.com', 'stake7.com', 'www.ady001.xyz', 'www.99wxw.cc', 'cfip.xxxxxxxx.tk', 'fcww37.com', 'ata234.com', 'rus456.com', 'www.196cf.com', 'www.rrys1.com', 'www.887ii.com', 'a234sf.com', 'www.zxc999.cn', 'www.smdyy.cc', 'www.shy6666.com', 'wz.weishao2023.dk.eu.org', 'www.wayutan023.com', 'www.rus456.com', 'www.hhyy028.com', '4hudy885.com', 'huashubao.org', 'www.xkx999.com', 'www.cx888my.com', 'www.myriadgreeyn.com', 'www.yh9pk.com', 'www.k167l.com', 'www.d719u.com', '887ii.com', 'xfltd.net', 'www.a234sf.com', 'www.huashubao.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for stake7.com...
+Performing DNS lookup for www.hhyy028.com...
+Performing DNS lookup for a234sf.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
