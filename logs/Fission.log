@@ -19268,3 +19268,25 @@ Performing DNS lookup for uu93.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main acbc2f7] Update project files
+ 4 files changed, 80 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   8aff711..acbc2f7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.234.57...
+Fetching domains for 104.18.176.190...
+Fetching domains for 104.21.28.189...
+succeed to fetch domains for 104.17.234.57 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.28.189 from https://site.ip138.com/
+succeed to fetch domains for 104.18.176.190 from https://site.ip138.com/
+域名列表为
+['tocopharm.com.cn', 'by1994.cc', 'chubbypornpics.com', 'tieba.isoyu.com', '3g.dwyer.top', 'hytmould.com', 'www.aliyunse.com', 'www.8haotv.com', 'yx.887141.xyz', 'tu.isoyu.com', 'www.coolenman-sports.com', 'www.v88av.com', 'q596j.com', 'www.whpaiger.com', 'www.wn01.cc', 'bj.isoyu.com', 'lanse.ml', 'www.lyzdzy.com', 'www.csszgr.com', 'www.zongcaixs.cc', 'www.njn48.com', 'm.isoyu.com', 'img.aibizhi.isoyu.com', 'www.axyy.cc', 'dwyer.top', 'cdn.cf.clun.top', 'blog.isoyu.com', 'www.wechat.pw', '10.isoyu.com', 'www.bbpoint.cn', 'cdn.isoyu.com', 'www.gaycn.top', '771zzz.com', 'tt384.com', 'ms365.isoyu.com', 'www.haichuanqy.cn', 'www.jnjqkj.com', 'forum.isoyu.com', 'ql.isoyu.com', 'www.ddwhm.com', 'm.myzf.org', 'siekwkg.top', 'cun.isoyu.com', 'kuaishou123.xyz', 'bei-feng.top', 'www.yjys05.com', 'www.sixyin.com', 'www.dwyer.top', 'losreplicantes.com', 'www.tpyyc.com', 'isoyu.com', '1e9zv31ope57xl.xyz', 'www.hbzks.com', 'wap.dwyer.top', 'jrszhib.com', 'www.0p.net.cn', 'eu.isoyu.com', 'www.nxjujia.cn', 'wujiang.isoyu.com', 'zl.aitrjc.xyz', 'sj01.isoyu.com', 'www.siekwkg.top', '0p.net.cn', 'myzf.org', 'book.isoyu.com', '3g.siekwkg.top', 'zdyy.cc', 'm.siekwkg.top', 'overbankroll.eletang.com.tw', 'www.gzgxsl.com', 'wap.siekwkg.top', 'cfip.xxxxxxxx.tk', 'v88av.com', 'aliyunse.com', 'm.niuerzs.com', 'aibizhi.isoyu.com', 'hhk26.sbs', '8haotv.com', 'yoolego.com', 'gzgxsl.com', 'www.isoyu.com', 'www.twfysf.top', 'twfysf.top', 'wwxiaoqi.com', 'nakpo.info', 'www.q596j.com', 'www.771zzz.com', 'islamport.com', 'shop.isoyu.com', 'www.islamport.com', 'm.dwyer.top', 'www.xigua5.com', 'api.isoyu.com', 'lifez.cc', 'wap.twfysf.top', 'www.wwxiaoqi.com', 'www.haqu.cc', 'www.1a1v.com', 'api.isoyu.com.s.galileo.jcloud-cdn.com', 'www.myfootjob.com', 'aypcable.com', 'tomtv366.com', 'eletang.com.tw', 'pan.isoyu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.csszgr.com...
+Performing DNS lookup for www.bbpoint.cn...
+Performing DNS lookup for 3g.dwyer.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
