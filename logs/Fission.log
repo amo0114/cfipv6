@@ -19140,3 +19140,23 @@ Performing DNS lookup for www.4huqq51.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f130266] Update project files
+ 4 files changed, 21 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (100%)
+To github.com:amo0114/cfipv6.git
+   11b1c4f..f130266  main -> main
+Downloaded 1 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 1 IPs.
+Fetching domains for 104.24.38.127...
+Error fetching domains for 104.24.38.127 from https://dnsdblookup.com/: No domains found
+Fetching domains for 104.24.38.127...
+Error fetching domains for 104.24.38.127 from https://site.ip138.com/: No domains found
+Fetching domains for 104.24.38.127...
+Error fetching domains for 104.24.38.127 from https://ipchaxun.com/: No domains found
+Fetching domains for 104.24.38.127...
+域名列表为
+[]
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
