@@ -19290,3 +19290,25 @@ Performing DNS lookup for 3g.dwyer.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c1742ab] Update project files
+ 4 files changed, 55 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   acbc2f7..c1742ab  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.250.246...
+Fetching domains for 104.17.26.207...
+Fetching domains for 104.16.241.96...
+succeed to fetch domains for 104.16.250.246 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.26.207 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.241.96 from https://ipchaxun.com/
+域名列表为
+['www.93xs.net', 'www.cfhuagong.com', '7.namesilo123.top', 'www.jingubank.com', 'chuncc.sectigo.pp.ua', 'www.cocanwelding.com', 'iios.club', 'cfip.xxxxxxxx.tk', 'cfcdn.sanfencdn.net', 'v26.bytedance-tos-cn-v-douyin.fun', 'www.93xscc.com', 'www.jswojx.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for chuncc.sectigo.pp.ua...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
