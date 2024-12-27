@@ -2,47 +2,44 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-baxtc.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global17.66666654.xyz.
-Name:	cfcn-a-global17.66666654.xyz
-Address: 104.17.252.33
+Name:	www.csszgr.com
+Address: 104.21.64.1
+Name:	www.csszgr.com
+Address: 104.21.112.1
+Name:	www.csszgr.com
+Address: 104.21.80.1
+Name:	www.csszgr.com
+Address: 104.21.48.1
+Name:	www.csszgr.com
+Address: 104.21.16.1
+Name:	www.csszgr.com
+Address: 104.21.32.1
+Name:	www.csszgr.com
+Address: 104.21.96.1
+Name:	www.csszgr.com
+Address: 2606:4700:3030::6815:6001
+Name:	www.csszgr.com
+Address: 2606:4700:3030::6815:2001
+Name:	www.csszgr.com
+Address: 2606:4700:3030::6815:3001
+Name:	www.csszgr.com
+Address: 2606:4700:3030::6815:7001
+Name:	www.csszgr.com
+Address: 2606:4700:3030::6815:5001
+Name:	www.csszgr.com
+Address: 2606:4700:3030::6815:4001
+Name:	www.csszgr.com
+Address: 2606:4700:3030::6815:1001
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find fmv108.xn--31-if7cp35t.com: NXDOMAIN
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
 Non-authoritative answer:
-Name:	uu93.com
-Address: 104.21.96.1
-Name:	uu93.com
-Address: 104.21.64.1
-Name:	uu93.com
-Address: 104.21.48.1
-Name:	uu93.com
-Address: 104.21.112.1
-Name:	uu93.com
-Address: 104.21.80.1
-Name:	uu93.com
-Address: 104.21.32.1
-Name:	uu93.com
-Address: 104.21.16.1
-Name:	uu93.com
-Address: 2606:4700:3030::6815:7001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:3001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:1001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:5001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:6001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:2001
+Name:	www.bbpoint.cn
+Address: 38.177.90.31
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find 3g.dwyer.top: NXDOMAIN
 

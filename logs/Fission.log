@@ -19246,3 +19246,25 @@ Performing DNS lookup for cfip.xxxxxxxx.tk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8aff711] Update project files
+ 4 files changed, 83 insertions(+), 74 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   ed4f1c5..8aff711  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 108.162.192.147...
+Fetching domains for 198.41.216.50...
+Fetching domains for 104.21.56.214...
+succeed to fetch domains for 198.41.216.50 from https://site.ip138.com/
+succeed to fetch domains for 104.21.56.214 from https://ipchaxun.com/
+succeed to fetch domains for 108.162.192.147 from https://ipchaxun.com/
+域名列表为
+['www.xjiujiu99.com', 'dcs.jqddos.xyz', 'www.4p4w5rq2.top', 'www.4gdiy.com', 'www.16845.com', 'm6y6.com', 'egbo.com', 'www.cu90.com', 'v.123qn.com', 'pagenews.gr', 'www.tockt.com', 'www.tl2938.xyz', 'xso116.com', 'nlsdwsz.66666654.xyz', 'besoo.com', 'wap.4p4w5rq2.top', 'www.tl123123.com', 'www.iman61.com', 'www.993my.com', 'www.eurovisionworld.com', 'www.dmk18.com', 'xnm182.buzz', 'www.hhyy028.com', 'www.888dyy.cc', 'www.xkx999.com', 'ke42.com', 'bjkzs.com', '07355.net', 'cnamefuckxxs.yuchen.icu', 'acus.cloudflarest.link', 'stairwell.com', 'www.5522tl.com', '6x6a27.neacz3.lol', 'eurovisionworld.com', 'www.puffsme.com', 'xox.qianqian1.top', '3g.4p4w5rq2.top', 'www.sh123tl.com', 'wwwww.net78.top', 'www.7277tl.com', 'www.suboji.com', 'www.dbpznxh.cn', 'd005pd.xyz', 'jpnewacs.114514782.xyz', 'linioltd.co', '15.namesilo123.top', 'ad.oneptp.com', '959239.com', 'www.xfj2.digital', 'www.oneptp.com', 'www.besoo.com', 'cfip.xxxxxxxx.tk', 'www.jyyz.cn', 'xxx11.top', '9385g.com', 'm.4p4w5rq2.top', 'www.m6y6.com', '16845.com', 'www.zlcq520.com', 'dou23.me', 'www.cx888my.com', 'www.xxx11.top', 'www.6xr.com', 'blog.rainsin.cn', 'www.tx58tl.com', 'www.yh9pk.com', 'www.miwocf.com', 'www.kbss888.com', 'langhs207.com', 'www.rxjh520.cc', 'yxy176.com', 'vera.ns.cloudflare.com', 'shy6666.com', '8419.info', '8mav700.com', 'www.xz898my.com', 'www.jg666.top', '565xyz.xyz', 'www.mir1001.com', 'dcs99.com', 'www.awanmy.com', 'hewacc.com', 'dnwgmuhj.xyz', 'oneptp.com', 'ush83.com', 'www.pk299.com', 'www.yxy176.com', 'yx.887141.xyz', 'www.dnwgmuhj.xyz', 'fldsubgigtujuy.76898102.xyz', 'www.30moyu.top', '7.namesilo123.top', 'www.wubei520.com', 'www.dcoin.co.kr', '321029.com', '4p4w5rq2.top', 'img.besoo.com', 'uu93.com', 'baxtc.66666654.xyz', 'dzy66666.com', '8877fz.com', 'www.shy6666.com', 'www.tlbb888.com', 'www.88wwk.com', 'www.999998.vip', 'www.iios.club', 'fmv108.xn--31-if7cp35t.com', 'www.xso116.com', 'www.565xyz.xyz', 'www.dzy66666.com', 'fa1.fun', 'www.qnhl888.com', 'www.tr125.cn', 'www.hcq170.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for baxtc.66666654.xyz...
+Performing DNS lookup for fmv108.xn--31-if7cp35t.com...
+Performing DNS lookup for uu93.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
