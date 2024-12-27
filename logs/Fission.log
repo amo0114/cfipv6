@@ -19120,3 +19120,23 @@ Performing DNS lookup for www.56th.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 11b1c4f] Update project files
+ 4 files changed, 64 insertions(+), 65 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   6b9bf6e..11b1c4f  main -> main
+Downloaded 2 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 2 IPs.
+Fetching domains for 104.18.19.180...
+Fetching domains for 104.24.135.225...
+succeed to fetch domains for 104.24.135.225 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.19.180 from https://site.ip138.com/
+域名列表为
+['www.751ii.com', '751ii.com', 'www.8074hu.com', '55evd.com', 'www.iios.club', 'q777n.com', '4huqq51.com', 'cfcdn1.sanfencdn9.com', 'za88.com', '8074hu.com', 'lirunex.online', 'www.4huqq51.com', 'www.766pf.com', 'www.q777n.com', '7814hu.com', 'www.ygdy8.cc', '766pf.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ygdy8.cc...
+Performing DNS lookup for 4huqq51.com...
+Performing DNS lookup for www.4huqq51.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
