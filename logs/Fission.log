@@ -19224,3 +19224,25 @@ Performing DNS lookup for www.livepartners.co.uk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ed4f1c5] Update project files
+ 4 files changed, 96 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   06464c1..ed4f1c5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.151.63...
+Fetching domains for 104.25.17.42...
+Fetching domains for 108.162.192.147...
+succeed to fetch domains for 172.66.151.63 from https://dnsdblookup.com/
+succeed to fetch domains for 104.25.17.42 from https://dnsdblookup.com/
+succeed to fetch domains for 108.162.192.147 from https://dnsdblookup.com/
+域名列表为
+['vera.ns.cloudflare.com', 'www.55zb.net', 'cnamefuckxxs.yuchen.icu', 'ityn.com.cn', 'cfip.xxxxxxxx.tk', 'longzemy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for longzemy.com...
+Performing DNS lookup for www.55zb.net...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
