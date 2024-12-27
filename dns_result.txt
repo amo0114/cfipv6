@@ -2,47 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.fnyyw.net
-Address: 162.209.175.122
+Name:	wnet.one
+Address: 172.67.130.242
+Name:	wnet.one
+Address: 104.21.3.165
+Name:	wnet.one
+Address: 2606:4700:3030::ac43:82f2
+Name:	wnet.one
+Address: 2606:4700:3034::6815:3a5
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
+www.ddwhm.com	canonical name = speed.marisalnc.com.
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-2bfz.com	canonical name = xirancdns.vip.
-xirancdns.vip	canonical name = cname.xirancdn.us.
-Name:	cname.xirancdn.us
-Address: 104.21.16.1
-Name:	cname.xirancdn.us
-Address: 104.21.64.1
-Name:	cname.xirancdn.us
-Address: 104.21.96.1
-Name:	cname.xirancdn.us
-Address: 104.21.32.1
-Name:	cname.xirancdn.us
-Address: 104.21.48.1
-Name:	cname.xirancdn.us
-Address: 104.21.80.1
-Name:	cname.xirancdn.us
-Address: 104.21.112.1
-Name:	cname.xirancdn.us
-Address: 2606:4700:3030::6815:2001
-Name:	cname.xirancdn.us
-Address: 2606:4700:3030::6815:1001
-Name:	cname.xirancdn.us
-Address: 2606:4700:3030::6815:3001
-Name:	cname.xirancdn.us
-Address: 2606:4700:3030::6815:5001
-Name:	cname.xirancdn.us
-Address: 2606:4700:3030::6815:6001
-Name:	cname.xirancdn.us
-Address: 2606:4700:3030::6815:7001
-Name:	cname.xirancdn.us
-Address: 2606:4700:3030::6815:4001
+Name:	www.penglecheng.com
+Address: 134.122.184.247
 

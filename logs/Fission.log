@@ -19160,3 +19160,24 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5a2150a] Update project files
+ 4 files changed, 83 insertions(+), 1 deletion(-)
+To github.com:amo0114/cfipv6.git
+   f130266..5a2150a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.247.81...
+Fetching domains for 104.17.255.38...
+Fetching domains for 104.22.63.97...
+succeed to fetch domains for 104.17.247.81 from https://site.ip138.com/
+succeed to fetch domains for 104.17.255.38 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.63.97 from https://dnsdblookup.com/
+域名列表为
+['www.liquidityx.com', 'www.fnyyw.net', 'hyrzs.com', 'www.yncareer.com', 'www.joiebaby.com', 'www.e0101.com', 'cfip.xxxxxxxx.tk', 'www.92mili.com', '2bfz.com', 'fitguide.joiebaby.com', 'www.newequipment.com', 'www.kanmanhuala.cc', 'm.niuerzs.com', 'www.steemedu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.fnyyw.net...
+Performing DNS lookup for m.niuerzs.com...
+Performing DNS lookup for 2bfz.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
