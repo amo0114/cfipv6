@@ -19203,3 +19203,24 @@ Performing DNS lookup for www.penglecheng.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 06464c1] Update project files
+ 4 files changed, 48 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   3d30e93..06464c1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.60.16...
+Fetching domains for 104.18.16.35...
+Fetching domains for 104.18.24.168...
+succeed to fetch domains for 104.18.16.35 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.60.16 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.24.168 from https://dnsdblookup.com/
+域名列表为
+['www.cc77hh.com', 'www.309ii.com', 'bluepearlvet.com', 'www.livepartners.cn', 'track-eu.hungrypanda.co', 'www.75uw.com', 'www.livepartners.it', 'qaadmin.livepartners.com', '4huxx558.com', 'cchain.explorer.avax.network', 'sourcebooks.fordham.edu', 'achk.cloudflarest.link', 'www.224yu.com', 'cfip.xxxxxxxx.tk', 'www.hughessubaru.com', 'www.garnier.com.ru', 'cc77hh.com', 'monterrey.locanto.com.mx', 'app.uk.hungrypanda.co', '9388111.com', 'api.avax.network', 'www.whpaiger.com', 'legacy.fordham.edu', 'www.livepartners.fi', 'a567xf.com', 'member.hungrypanda.co', 'admin.hungrypanda.co', 'www.91m.cc', 'www.advanced-energy.com', 'g273.cc', 'www.subarubr.com', 'www.livepartners.de', 'wuxianguhua10010.com', 'www.529tu.com', 'www.livepartners.com', 'pos-aus.hungrypanda.co', '529tu.com', 'www.livepartners.co.uk', 'acus.cloudflarest.link', 'www.4huxx558.com', 'bdyy1.xyz', 'www.rr1rr.com', 'www.livepartners.ng', 'www.41114.tv', 'behringer.com', 'rr1rr.com', 'www.subaruoflasvegas.com', 'www.livepartners.com.mx', '224yu.com', 'www.livepartners.at', 'www.behringer.com', 'wallet.avax.network', 'weblogic.hungrypanda.co', 'qqsign6.com', 'www.a567xf.com', 'hungrypanda.co', '309ii.com', 'gmc03.com', 'www.qqsign6.com', 'www.fordham.edu']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for member.hungrypanda.co...
+Performing DNS lookup for weblogic.hungrypanda.co...
+Performing DNS lookup for www.livepartners.co.uk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
