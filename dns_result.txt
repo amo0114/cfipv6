@@ -2,26 +2,22 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.0.106
-Name:	ips.993888.xyz
-Address: 104.17.218.124
-Name:	ips.993888.xyz
-Address: 104.17.103.235
+ta97.app	canonical name = http-domain.dns.aa5aa5.com.
+http-domain.dns.aa5aa5.com	canonical name = http-301.cdn.goodluck-co.com.
+Name:	http-301.cdn.goodluck-co.com
+Address: 143.92.53.209
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-yxy176.com	canonical name = host1108236b.host1068.zhamerica.com.
-Name:	host1108236b.host1068.zhamerica.com
-Address: 23.224.10.238
+Name:	www.sztimi.com
+Address: 208.98.43.20
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.c666x.com
-Address: 23.225.148.166
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
