@@ -19443,3 +19443,25 @@ Performing DNS lookup for www.c666x.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ef342f1] Update project files
+ 4 files changed, 52 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   190c5b4..ef342f1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 141.101.115.23...
+Fetching domains for 104.18.28.110...
+Fetching domains for 104.16.233.132...
+succeed to fetch domains for 104.16.233.132 from https://ipchaxun.com/
+succeed to fetch domains for 141.101.115.23 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.28.110 from https://dnsdblookup.com/
+域名列表为
+['www.cfhuagong.com', 'm.tushencn.com', 'yncareer.com', 'www.xjiujiu99.com', 'www.50zw.com', 'www.gdriustb.com', 'www.x52bq.com', 'www.cocanwelding.com', 'www.b4g11.com', '224b.net', 'www.akyue.com', 'stock.hostmonit.com', 'www.uu93.com', 'www.yh9pk.com', 'www.iios.me', 'yhddsb.com', 'www.whwanet.com', 'tv125.com', 'www.0550cq.com', 'm.niuerzs.com', 'www.28et.com', 'www.suboji.com', 'www.m6y6.com', 'www.706i.com', 'www.smdyy.cc', 'www.xkx999.com', 'm.ghtbxg.com', 'www.lyzdzy.com', 'suboji.com', 'www.6i5.com', 'www.kunzedu.com', 'uu93.com', 'www.sxyzxh.com', 'www.kk554.com', 'yxy176.com', 'ayuer.com', 'www.longwangchuanshuo.com', 'www.whpaiger.com', 'www.penglecheng.com', 'www.c666x.com', 'www.zhiqihuo.com', 'www.tx58tl.com', 'www.ayuer.com', 'www.linnuozs.com', 'www.iios.ga', 'www.224b.net', 'www.6345ba.com', '4.868896.xyz', 'www.tv9090.com', 'whpaiger.com', 'kanbang.cc', 'www.b7yy.cc', '7sc.cc', 'cf.1-human-2.com', 'www.yncareer.com', 'www.6988tv.com', 'www.sztimi.com', 'b4g11.com', 'www.bestxjguidelk.tk', 'hnhcbw.com', 'www.kejianlida.com', 'www.99wx.cc', 'killnet.top', 'www.zzztch.com', 'www.bfb3.com', '6345ba.com', 'www.tinghen.com', 'ta97.app', 'www.11txt.com', 'www.ta97.app', 'www.tlbb888.com', 'www.77dv.com', 'www.awanmy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ta97.app...
+Performing DNS lookup for www.sztimi.com...
+Performing DNS lookup for www.cfhuagong.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
