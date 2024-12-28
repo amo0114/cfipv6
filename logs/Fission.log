@@ -19334,3 +19334,25 @@ Performing DNS lookup for 628000.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 58a6104] Update project files
+ 4 files changed, 66 insertions(+), 80 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   e086764..58a6104  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.248.31...
+Fetching domains for 104.21.120.64...
+Fetching domains for 104.17.225.87...
+succeed to fetch domains for 104.17.248.31 from https://site.ip138.com/
+succeed to fetch domains for 104.21.120.64 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.225.87 from https://ipchaxun.com/
+域名列表为
+['555t.com', 'tv.ci', 'www.cocanwelding.com', 'www.652tv.com', 'www.wenxueyuedu.com', 'wap.luwangyangrong.com', 'www.90qr.com', '28et.com', 'www.lyzdzy.com', 'www.zongcaiwx.com', 'www.5522tl.com', 'www.815aa.com', 'www.99wx.cc', 'www.tockt.com', 'cfip.xxxxxxxx.tk', 'www.iios.club', 'www.zyhcz.com', 'www.778668.com', 'www.whpaiger.com', 'www.wei333.com', 'yunyu51.com', 'whmytz.com', 'www.kbss888.com', 'www.cfhuagong.com', 'www.hhyy028.com', 'www.dcs99.com', 'www.xinjuc.com', '815aa.com', 'www.tpyyc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 815aa.com...
+Performing DNS lookup for 555t.com...
+Performing DNS lookup for www.zongcaiwx.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

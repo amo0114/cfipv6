@@ -2,30 +2,45 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	815aa.com
-Address: 194.53.53.11
-Name:	815aa.com
-Address: 194.53.53.245
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.19.233.230
+Name:	dcs.jqddos.xyz
+Address: 104.16.32.136
+Name:	dcs.jqddos.xyz
+Address: 104.25.107.87
+Name:	dcs.jqddos.xyz
+Address: 104.18.247.0
+Name:	dcs.jqddos.xyz
+Address: 104.18.245.60
+Name:	dcs.jqddos.xyz
+Address: 104.16.238.30
+Name:	dcs.jqddos.xyz
+Address: 104.16.198.129
+Name:	dcs.jqddos.xyz
+Address: 104.17.37.127
+Name:	dcs.jqddos.xyz
+Address: 104.16.82.116
+Name:	dcs.jqddos.xyz
+Address: 104.16.112.176
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.zlcq520.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-555t.com	canonical name = 103cname.website-tcp-cf-dns.sbs.
-Name:	103cname.website-tcp-cf-dns.sbs
-Address: 173.255.219.146
-Name:	103cname.website-tcp-cf-dns.sbs
-Address: 104.237.157.185
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.zongcaiwx.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.157.232
-Name:	ips.993888.xyz
-Address: 104.17.204.63
-Name:	ips.993888.xyz
-Address: 104.17.222.193
+www.frontiercoop.com	canonical name = prod.magentocloud.map.fastly.net.
+Name:	prod.magentocloud.map.fastly.net
+Address: 151.101.1.124
+Name:	prod.magentocloud.map.fastly.net
+Address: 151.101.129.124
+Name:	prod.magentocloud.map.fastly.net
+Address: 151.101.193.124
+Name:	prod.magentocloud.map.fastly.net
+Address: 151.101.65.124
 
