@@ -19312,3 +19312,25 @@ Performing DNS lookup for chuncc.sectigo.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e086764] Update project files
+ 4 files changed, 102 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   c1742ab..e086764  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.208.7...
+Fetching domains for 104.17.147.6...
+Fetching domains for 104.18.80.143...
+succeed to fetch domains for 104.18.80.143 from https://site.ip138.com/
+succeed to fetch domains for 104.17.147.6 from https://site.ip138.com/
+succeed to fetch domains for 198.41.208.7 from https://ipchaxun.com/
+域名列表为
+['www.52ys.cc', 'www.bkmanhuas.com', 'www.taiwanheguo.com', 'www.789kp.com', 'www.jg666.top', 'money668.com', 'www.yan176.com', 'www.ynradiology.net', 'www.k77yy.com', 'www.k77kk.cc', 'www.cbcv.cc', 'm.uzheba.com', 'www.8899tl.com', 'www.yh9pk.com', 'www.hm17.lol', 'www.28dushu.com', 'www.tockt.com', 'cf1.492745.xyz', 'www.xz898my.com', 'www.dzy66666.com', 'qiuxiaw.com', 'www.aier.cloud', 'www.gzlatin.com', 'www.shy6666.com', 'www.993my.com', 'jpnewacs.114514782.xyz', 'www.qiuxiaw.com', 'www.cx888my.com', 'pan.yukaidi.com', 'www.qqsvip9.top', 'shy6666.com', 'www.97777pk.com', 'www.7277tl.com', 'raw.gitmirror.com', 'uu93.com', 'www.xxootl.com', 'zi0.cc', 'www.zgjmw.net', 'www.paizipai.top', 'www.uu93.com', 'www.underarmour.it', 'www.90dushu.com', 'www.wubei520.com', 'www.whpaiger.com', 'www.xjiujiu99.com', 'www.hmoeh.com', 'www.881dy.com', 'www.smdyy.cc', 'yxy176.com', 'hg1599.com', 'www.xxpg888.com', 'www.e0101.com', 'nlsdwsz.66666654.xyz', 'cfip.xxxxxxxx.tk', 'www.allshanghaioffice.com', 'www.baota.me', 'yun.al', 'www.tv9090.com', 'acus.cloudflarest.link', 'www.jjtyss.com', 'www.xinyi176.com', '606977.com', 'jpadwinfs.114514782.xyz', 'www.jingguanghang66.com', '17kanju.com', 'www.xinjuc.com', 'www.m6y6.com', 'cdn-download.yunzhongzhuan.xyz', 'stock.hostmonit.com', 'www.6i5.com', 'cfcdn.sanfencdn.net', 'ganpian.com', 'www.tlbb888.com', 'www.dcs99.com', 'zl.aitrjc.xyz', 'www.hljlinuo.com', 'www.cq3.in', 'www.679077.com', '628000.xyz', 'www.cskji.com', 'www.lvfengsh.com', 'shoueraa.76898102.xyz', 'www.kbss888.com', 'www.pk299.com', 'm.niuerzs.com', 'www.kanju8.com', 'hzefss.66666654.xyz', '789kp.com', 'www.4148.net', 'www.7lq.com', 'www.sixyin.com', 'www.ranwen8.com', 'www.sintingtoys.com', 'www.5522tl.com', 'www.ganpian.com', 'wz.weishao2023.uk.eu.org', '97777pk.com', 'wei333.com', 'www.4gdiy.com', 'www.rxjh520.cc', 'www.yunsxzw.com', 'jjtyss.com', 'www.tinghen.com', 'usshsaba.114514782.xyz', 'www.zlcq520.com', 'www.0550cq.com', 'www.woaiqi.com', 'www.hhyy028.com', 'www.xkx999.com', 'www.lfcxmy.top', 'www.x52bq.com', 'www.tuozhan22.com', 'cdn-1.164182.xyz', 'www.9415hf.com', 'www.biqune.com', 'www.606977.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.smdyy.cc...
+Performing DNS lookup for www.28dushu.com...
+Performing DNS lookup for 628000.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
