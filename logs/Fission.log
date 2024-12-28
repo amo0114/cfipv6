@@ -19491,3 +19491,25 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c61d769] Update project files
+ 4 files changed, 63 insertions(+), 62 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   ee224c7..c61d769  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.255.227...
+Fetching domains for 104.17.181.66...
+Fetching domains for 104.17.161.224...
+succeed to fetch domains for 104.17.161.224 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.255.227 from https://site.ip138.com/
+succeed to fetch domains for 104.17.181.66 from https://ipchaxun.com/
+域名列表为
+['www.sp6080.com', '600300.xyz', 'www.5xs.cc', 'achk.cloudflarest.link', 'www.cfhuagong.com', 'www.doupobook.cc', 'cfip.xxxxxxxx.tk', 'www.76sf.com', 'ru.600300.xyz', 'www.xiuluo942.com', 'www.ktwz.cc', 'www.77ty.com', 'www.wenxueyuedu.com', 'www.kuaikan66.com', 'qkmov.com', 'www.6988tv.com', 'm.akmeiju.cc', 'www.lyzdzy.com', 'www.cocanwelding.com', 'www.jjxsxs.com', 'www.99wx.cc', 'www.holdoo.cn', 'www.whpaiger.com', 'www.66se.tv', 'aw5858.net', 'www.qire88.com', 'www.kunzedu.com', 'wme.aw5858.net', 'www.qindi.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for qkmov.com...
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for www.99wx.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
