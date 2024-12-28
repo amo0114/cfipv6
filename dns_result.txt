@@ -1,26 +1,24 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		8.8.4.4
+Address:	8.8.4.4#53
 
 Non-authoritative answer:
-Name:	d567k.com
-Address: 216.245.197.45
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	tv3.ee
-Address: 104.26.3.131
-Name:	tv3.ee
-Address: 172.67.75.158
-Name:	tv3.ee
-Address: 104.26.2.131
+Name:	077g.com
+Address: 198.41.201.25
+Name:	077g.com
+Address: 104.19.52.30
+Name:	077g.com
+Address: 104.24.15.23
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.szstsh.org	canonical name = ctec.org.stringcdn.com.
-Name:	ctec.org.stringcdn.com
-Address: 0.0.0.0
+*** Can't find www.zzztch.com: No answer
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	yh6.dtku41.xyz
+Address: 72.52.178.23
 
