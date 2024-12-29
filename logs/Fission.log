@@ -19556,3 +19556,25 @@ Performing DNS lookup for wap.43uby83.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 33d235e] Update project files
+ 4 files changed, 98 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   8e72036..33d235e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.58.164...
+Fetching domains for 104.18.77.89...
+Fetching domains for 104.17.227.135...
+succeed to fetch domains for 104.17.227.135 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.58.164 from https://site.ip138.com/
+succeed to fetch domains for 104.18.77.89 from https://ipchaxun.com/
+域名列表为
+['www.yjys05.com', 'www.295k.com', 'www.manhuadb.com', 'www.50zw.co', '720p.tv', 'www.ygdy8.cc', 'www.630book.com', 'www.113my.com', 'm.qqxsw.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.manhuadb.com...
+Performing DNS lookup for www.ygdy8.cc...
+Performing DNS lookup for www.295k.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

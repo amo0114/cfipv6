@@ -2,56 +2,30 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.manhuadb.com
-Address: 104.21.112.1
-Name:	www.manhuadb.com
-Address: 104.21.96.1
-Name:	www.manhuadb.com
-Address: 104.21.80.1
-Name:	www.manhuadb.com
-Address: 104.21.48.1
-Name:	www.manhuadb.com
-Address: 104.21.32.1
-Name:	www.manhuadb.com
-Address: 104.21.64.1
-Name:	www.manhuadb.com
-Address: 104.21.16.1
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:3001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:4001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:7001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:6001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:5001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:1001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:2001
+oneapi.gptnb.ai	canonical name = origin.gptnbcdn1.xyz.
+Name:	origin.gptnbcdn1.xyz
+Address: 104.26.10.204
+Name:	origin.gptnbcdn1.xyz
+Address: 172.67.68.47
+Name:	origin.gptnbcdn1.xyz
+Address: 104.26.11.204
+Name:	origin.gptnbcdn1.xyz
+Address: 2606:4700:20::681a:bcc
+Name:	origin.gptnbcdn1.xyz
+Address: 2606:4700:20::681a:acc
+Name:	origin.gptnbcdn1.xyz
+Address: 2606:4700:20::ac43:442f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.ygdy8.cc	canonical name = ygdy8.jiasule.xyz.
-ygdy8.jiasule.xyz	canonical name = cname.jiasule.xyz.
-Name:	cname.jiasule.xyz
-Address: 104.16.22.18
-Name:	cname.jiasule.xyz
-Address: 104.16.178.204
-Name:	cname.jiasule.xyz
-Address: 104.16.21.106
-Name:	cname.jiasule.xyz
-Address: 104.16.239.127
-Name:	cname.jiasule.xyz
-Address: 104.19.63.85
+www.solinscription.com	canonical name = 77980.bodis.com.
+Name:	77980.bodis.com
+Address: 199.59.243.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.295k.com
-Address: 208.98.40.14
+** server can't find m.fg11hty.top: NXDOMAIN
 
