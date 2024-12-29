@@ -1,31 +1,57 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find 3g.ldzixun.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.manhuadb.com
+Address: 104.21.112.1
+Name:	www.manhuadb.com
+Address: 104.21.96.1
+Name:	www.manhuadb.com
+Address: 104.21.80.1
+Name:	www.manhuadb.com
+Address: 104.21.48.1
+Name:	www.manhuadb.com
+Address: 104.21.32.1
+Name:	www.manhuadb.com
+Address: 104.21.64.1
+Name:	www.manhuadb.com
+Address: 104.21.16.1
+Name:	www.manhuadb.com
+Address: 2606:4700:3030::6815:3001
+Name:	www.manhuadb.com
+Address: 2606:4700:3030::6815:4001
+Name:	www.manhuadb.com
+Address: 2606:4700:3030::6815:7001
+Name:	www.manhuadb.com
+Address: 2606:4700:3030::6815:6001
+Name:	www.manhuadb.com
+Address: 2606:4700:3030::6815:5001
+Name:	www.manhuadb.com
+Address: 2606:4700:3030::6815:1001
+Name:	www.manhuadb.com
+Address: 2606:4700:3030::6815:2001
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	byym44.com
-Address: 172.67.207.29
-Name:	byym44.com
-Address: 104.21.22.213
-Name:	byym44.com
-Address: 2606:4700:3035::ac43:cf1d
-Name:	byym44.com
-Address: 2606:4700:3030::6815:16d5
+www.ygdy8.cc	canonical name = ygdy8.jiasule.xyz.
+ygdy8.jiasule.xyz	canonical name = cname.jiasule.xyz.
+Name:	cname.jiasule.xyz
+Address: 104.16.22.18
+Name:	cname.jiasule.xyz
+Address: 104.16.178.204
+Name:	cname.jiasule.xyz
+Address: 104.16.21.106
+Name:	cname.jiasule.xyz
+Address: 104.16.239.127
+Name:	cname.jiasule.xyz
+Address: 104.19.63.85
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	wap.43uby83.top
-Address: 104.21.23.121
-Name:	wap.43uby83.top
-Address: 172.67.210.216
-Name:	wap.43uby83.top
-Address: 2606:4700:3036::6815:1779
-Name:	wap.43uby83.top
-Address: 2606:4700:3030::ac43:d2d8
+Name:	www.295k.com
+Address: 208.98.40.14
 

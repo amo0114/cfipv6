@@ -19534,3 +19534,25 @@ Performing DNS lookup for www.5522tl.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8e72036] Update project files
+ 4 files changed, 61 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   4d74203..8e72036  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.22.213...
+Fetching domains for 104.17.250.189...
+Fetching domains for 173.245.58.110...
+succeed to fetch domains for 104.17.250.189 from https://site.ip138.com/
+succeed to fetch domains for 104.21.22.213 from https://dnsdblookup.com/
+succeed to fetch domains for 173.245.58.110 from https://site.ip138.com/
+域名列表为
+['m.tvccc.org', 'www.ldzixun.top', 'www.yx521.net', 'mriskyjatt.com', 'www.zcjx99.com', 'ldzixun.top', 'hg008888.com', 'vqtnj-gov.top', 'www.zhiqihuo.com', 'www.adnin.basicsmartedu.cn', 'rsrgyti.top', '43uby83.top', 'basicsmartedu.cn', '3g.43uby83.top', 'elle.ns.cloudflare.com', 'theporndude.club', 'md2539.xyz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.vqtnj-gov.top', 'tj.basicsmartedu.cn', '00381.xyz', 'uu93.com', 'www.8a7a9.com', '3g.vqtnj-gov.top', 'www.hg008888.com', 'www.43uby83.top', 'mtn.ircf.space', 'wap.vqtnj-gov.top', 'syy.hk', 'sniz.porn', 'qixituo.top', 'wap.43uby83.top', 'tm.cnwcg.com', 'jpk.basicsmartedu.cn', 'www.ydsdkj.com', 'hc9158.com', 'm.43uby83.top', 'wap.vvqrgt.top', 'urw65.bijgv8491r4nbm405hov.buzz', '8a7a9.com', 'www.xuanxi928.com', 'www.xuegongxinxi.com', 'm.vqtnj-gov.top', 'www.basicsmartedu.cn', '3g.qixituo.top', 'nlsdwsz.66666654.xyz', 'www.b7yy.cc', 'ab7d93.com', 'byym44.com', 'malibubarbie.life', '3g.ldzixun.top', 'www.1464a.com', 'ss.qxsnoy.xyz', 'm.6080w.com', 'www.mw1245.com', 'm.qixituo.top', 'mellysews.com', '3g.vvqrgt.top', 'www.93xscc.com', 'admin.basicsmartedu.cn', 'www.ab7d93.com', 'mw1245.com', 'jpvsavhyu.76898102.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3g.ldzixun.top...
+Performing DNS lookup for byym44.com...
+Performing DNS lookup for wap.43uby83.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
