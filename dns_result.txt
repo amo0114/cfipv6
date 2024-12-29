@@ -2,30 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-oneapi.gptnb.ai	canonical name = origin.gptnbcdn1.xyz.
-Name:	origin.gptnbcdn1.xyz
-Address: 104.26.10.204
-Name:	origin.gptnbcdn1.xyz
-Address: 172.67.68.47
-Name:	origin.gptnbcdn1.xyz
-Address: 104.26.11.204
-Name:	origin.gptnbcdn1.xyz
-Address: 2606:4700:20::681a:bcc
-Name:	origin.gptnbcdn1.xyz
-Address: 2606:4700:20::681a:acc
-Name:	origin.gptnbcdn1.xyz
-Address: 2606:4700:20::ac43:442f
+Name:	www.tsdingxin.com
+Address: 134.122.181.146
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.solinscription.com	canonical name = 77980.bodis.com.
-Name:	77980.bodis.com
-Address: 199.59.243.227
+Name:	bestcf.030101.xyz
+Address: 104.18.191.103
+Name:	bestcf.030101.xyz
+Address: 172.66.43.248
+Name:	bestcf.030101.xyz
+Address: 2606:4700:3037::73dd:3111
+Name:	bestcf.030101.xyz
+Address: 2606:4700:3035::557e:60e9
+Name:	bestcf.030101.xyz
+Address: 2a06:98c1:56::18be:2a76
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find m.fg11hty.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.luwangyangrong.com
+Address: 172.232.25.148
 
