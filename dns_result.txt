@@ -2,38 +2,23 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.zongcaiwx.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.59.63
-Name:	ips.993888.xyz
-Address: 104.17.137.34
-Name:	ips.993888.xyz
-Address: 104.16.250.81
+Name:	piaku.cc
+Address: 15.197.148.33
+Name:	piaku.cc
+Address: 3.33.130.190
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.ikhma.com
-Address: 38.46.8.30
-Name:	www.ikhma.com
-Address: 38.46.8.26
-Name:	www.ikhma.com
-Address: 38.46.8.29
-Name:	www.ikhma.com
-Address: 38.46.8.28
-Name:	www.ikhma.com
-Address: 38.46.8.27
+nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global21.66666654.xyz.
+Name:	cfcn-a-global21.66666654.xyz
+Address: 104.17.253.58
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.93xs.net	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.59.63
-Name:	ips.993888.xyz
-Address: 104.16.250.81
-Name:	ips.993888.xyz
-Address: 104.17.137.34
+** server can't find www.qp666.com: NXDOMAIN
 

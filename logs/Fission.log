@@ -19672,3 +19672,26 @@ Performing DNS lookup for www.28et.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a347e9c] Update project files
+ 4 files changed, 77 insertions(+), 249 deletions(-)
+ rewrite Fission_ip_backup.txt (99%)
+ rewrite dns_result.txt (97%)
+To github.com:amo0114/cfipv6.git
+   8cb096c..a347e9c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.247.117...
+Fetching domains for 104.18.8.23...
+Fetching domains for 104.17.246.41...
+succeed to fetch domains for 104.18.8.23 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.246.41 from https://site.ip138.com/
+succeed to fetch domains for 104.17.247.117 from https://ipchaxun.com/
+域名列表为
+['dexscreener.com', 'www.77zw.cc', 'www.cfhuagong.com', 'www.5345la.com', 'bk.jdkg.fun', 'www.lailai360.com', 'ipcf.cfyuncdn.cn', 'www.93xscc.com', 'best.cdn.sqeven.cn', 'docs.nameless13.com', 'www.4hun59.com', 'ycy.yyqzd.cn', 'lanyucy.com', 'www.nitianxieshen.com', 'www.longwangchuanshuo.com', 'www.sunbobo.com', 'www.gilman-group.com', 'www.galaxysports.com', 'taoismhome.com', 'www.99wxw.cc', 'www.99wx.cc', 'www.btbdys.com', 'dsxys.com', '789kp.com', '402fun.fun', 'www.getdistributors.com', 'www.nilinl.link', 'www.zongcaixs.cc', 'www.zzztch.com', 'api.dexscreener.com', 'www.zongcaiwx.com', 'cfip.xxxxxxxx.tk', 'www.rmsxs.com', 'www.xiuluo942.com', 'www.ysysys.vip', 'www.hm17.lol', 'www.50zw.co', '3l6e2.c6tu5uwk9.buzz', 'm.niuerzs.com', 'www.75xs.cc', 'cfip.cfcdn.vip', 'www.nilinl.me', 'www.ikhma.com', 'www.cocanwelding.com', 'www.qindixs.com', 'www.dmbj.cc', 'www.93xs.net', 'www.whpaiger.com', 'www.yzhma.com', 'www.wenxueyuedu.com', 'www.ranwen8.com', 'cctv5.sfacg.uk', 'dns.leung0108.us.kg', 'www.kanunu2.com', 'www.twainharterentals.com', 'galaxysports.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zongcaiwx.com...
+Performing DNS lookup for www.ikhma.com...
+Performing DNS lookup for www.93xs.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
