@@ -2,23 +2,29 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	piaku.cc
-Address: 15.197.148.33
-Name:	piaku.cc
-Address: 3.33.130.190
+Name:	m.lencier.com
+Address: 91.195.240.12
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global21.66666654.xyz.
-Name:	cfcn-a-global21.66666654.xyz
-Address: 104.17.253.58
+Name:	www.lijunys.com
+Address: 156.234.146.205
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.qp666.com: NXDOMAIN
+Non-authoritative answer:
+www.wyxs.cc	canonical name = xs.wxtv.cc.
+Name:	xs.wxtv.cc
+Address: 104.21.227.211
+Name:	xs.wxtv.cc
+Address: 104.19.135.154
+Name:	xs.wxtv.cc
+Address: 104.16.112.141
+Name:	xs.wxtv.cc
+Address: 104.16.112.168
+Name:	xs.wxtv.cc
+Address: 104.19.136.169
 
