@@ -1,36 +1,31 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.55.229
-Name:	ips.993888.xyz
-Address: 104.17.55.245
-Name:	ips.993888.xyz
-Address: 104.17.55.230
+** server can't find 3g.ldzixun.top: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.diskgirl.com	canonical name = diskgirl.com.cdn.cloudflare.net.
-Name:	diskgirl.com.cdn.cloudflare.net
-Address: 104.21.235.112
-Name:	diskgirl.com.cdn.cloudflare.net
-Address: 104.21.235.111
+Name:	byym44.com
+Address: 172.67.207.29
+Name:	byym44.com
+Address: 104.21.22.213
+Name:	byym44.com
+Address: 2606:4700:3035::ac43:cf1d
+Name:	byym44.com
+Address: 2606:4700:3030::6815:16d5
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.5522tl.com	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
+Name:	wap.43uby83.top
+Address: 104.21.23.121
+Name:	wap.43uby83.top
+Address: 172.67.210.216
+Name:	wap.43uby83.top
+Address: 2606:4700:3036::6815:1779
+Name:	wap.43uby83.top
+Address: 2606:4700:3030::ac43:d2d8
 
