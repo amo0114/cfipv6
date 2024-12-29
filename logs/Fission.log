@@ -19627,3 +19627,25 @@ Performing DNS lookup for www.luwangyangrong.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 651641d] Update project files
+ 4 files changed, 63 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   e8f0281..651641d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.24.142.158...
+Fetching domains for 104.25.141.122...
+Fetching domains for 172.67.71.236...
+succeed to fetch domains for 104.24.142.158 from https://site.ip138.com/
+succeed to fetch domains for 172.67.71.236 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.141.122 from https://ipchaxun.com/
+域名列表为
+['lowkickmma.com', 'beefitswhatsfordinner.com', 'www.6i5.com', 'dzy66666.com', 'www.hcq170.com', 'www.789kp.com', 'www.xxootl.com', 'www.97654.com', 'www.92mili.com', '111.app2023.top', 'www.cocanwelding.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.xiaonatl.com', 'www.toolsandtimber.co.uk', 'www.xkx999.com', 'www.kx87.com', 'www.yh9pk.com', 'www.k77yy.com', 'ayzjj.cn', 'www.88wwk.com', 'www.wealthclub.co.uk', 'malayalam.mapsofindia.com', 'buydirectonline.com.au', 'www.717zfsf.com', 'pandas.pydata.org', 'release.signalrgb.com', 'www.7277tl.com', 'animal.iswitch.app', '511my.com', 'www.tx58tl.com', 'www.8877fz.com', 'www.lol566.com', 'www.sf52l.com', 'www.x52bq.com', 'kt5000.com', 'www.horizonyachtusa.com', 'www.paizipai.top', 'www.cdxpel.cn', 'x52bq.com', 'www.hhyy028.com', 'www.jgtm998.com', 'www.6xr.com', 'cdn.didi8.com', 'www.52110my.com', 'www.dapian1234.com', 'v.123qn.com', 'www.downloadpipe.com', 'doc.ua', 'www.tinghen.com', 'www.id9yy.com', 'tjxfs.com', 'cydia-app.com', '8877fz.com', 'www.kt5000.com', 'codecheap.org', 'www.niuniu9.com', 'stock.hostmonit.com', 'sgv3.com', 'www.7lq.com', 'mir1001.com', 'www.xjiujiu99.com', 'www.pk299.com', 'www.airtel.com.ng', 'www.4148.net', 'www.yunyou4.com', 'm.6988tv.com', 'xpnal.cn', 'www.96dushu.com', 'cf-lt.sharecentre.online', 'm.niuerzs.com', 'www.zddzd.top', 'xjiujiu99.com', 'www.shenyuantl.shop', 'www.kbss888.com', 'metaspins.com', 'www.555558f.com', 'toolsandtimber.co.uk', 'www.signalrgb.com', 'www.5522tl.com', '123bgg.com', 'pk299.com', 'www.7sc.cc', 'tpyyc.com', 'www.993my.com', 'ipdb.app.tc', 'www.0550cq.com', 'www.dy1255.com', 'automobiles.mapsofindia.com', 'kx87.com', 'www.fnyy666.com', 'www.picacgz.cn', 'www.b7yy.cc', 'www.dzy66666.com', 'pydata.org', 'www.ug180.com', 'sgv7.com', 'www.iios.club', 'www.cbcv.cc', 'www.ikantv.net', 'www.20cy.com', 'm.28dushu.com', 'www.sh123tl.com', 'www.shy6666.com', 'www.rxjh520.cc', 'www.11txt.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for tjxfs.com...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for www.hcq170.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
