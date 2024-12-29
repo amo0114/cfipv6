@@ -2,28 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tsdingxin.com
-Address: 134.122.181.146
+Name:	tjxfs.com
+Address: 38.11.96.5
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	bestcf.030101.xyz
-Address: 104.18.191.103
-Name:	bestcf.030101.xyz
-Address: 172.66.43.248
-Name:	bestcf.030101.xyz
-Address: 2606:4700:3037::73dd:3111
-Name:	bestcf.030101.xyz
-Address: 2606:4700:3035::557e:60e9
-Name:	bestcf.030101.xyz
-Address: 2a06:98c1:56::18be:2a76
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.luwangyangrong.com
-Address: 172.232.25.148
+** server can't find www.hcq170.com: NXDOMAIN
 
