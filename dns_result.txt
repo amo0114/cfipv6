@@ -2,49 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-u.uboy03.xyz	canonical name = unweb.unweb01.xyz.
-Name:	unweb.unweb01.xyz
-Address: 162.159.130.18
-Name:	unweb.unweb01.xyz
-Address: 162.159.134.216
-Name:	unweb.unweb01.xyz
-Address: 162.159.135.30
+Name:	www.e0101.com
+Address: 199.59.243.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	heritageprinting.com
-Address: 104.21.96.1
-Name:	heritageprinting.com
-Address: 104.21.32.1
-Name:	heritageprinting.com
-Address: 104.21.64.1
-Name:	heritageprinting.com
-Address: 104.21.112.1
-Name:	heritageprinting.com
-Address: 104.21.80.1
-Name:	heritageprinting.com
-Address: 104.21.48.1
-Name:	heritageprinting.com
-Address: 104.21.16.1
-Name:	heritageprinting.com
-Address: 2606:4700:3030::6815:4001
-Name:	heritageprinting.com
-Address: 2606:4700:3030::6815:5001
-Name:	heritageprinting.com
-Address: 2606:4700:3030::6815:7001
-Name:	heritageprinting.com
-Address: 2606:4700:3030::6815:2001
-Name:	heritageprinting.com
-Address: 2606:4700:3030::6815:3001
-Name:	heritageprinting.com
-Address: 2606:4700:3030::6815:1001
-Name:	heritageprinting.com
-Address: 2606:4700:3030::6815:6001
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.115.114
+Name:	ips.993888.xyz
+Address: 104.17.51.181
+Name:	ips.993888.xyz
+Address: 104.16.8.153
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.7789922.com: NXDOMAIN
+Non-authoritative answer:
+yundunwawablogcdn1yd.wawacm.com	canonical name = blogwaf.yava.pw.
+Name:	blogwaf.yava.pw
+Address: 104.24.18.0
+Name:	blogwaf.yava.pw
+Address: 104.17.152.0
+Name:	blogwaf.yava.pw
+Address: 104.18.224.0
+Name:	blogwaf.yava.pw
+Address: 104.25.128.0
+Name:	blogwaf.yava.pw
+Address: 104.17.120.0
 
