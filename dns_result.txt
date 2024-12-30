@@ -2,29 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	m.lencier.com
-Address: 91.195.240.12
+Name:	www.nba01.com
+Address: 103.234.54.73
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lijunys.com
-Address: 156.234.146.205
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.wyxs.cc	canonical name = xs.wxtv.cc.
-Name:	xs.wxtv.cc
-Address: 104.21.227.211
-Name:	xs.wxtv.cc
-Address: 104.19.135.154
-Name:	xs.wxtv.cc
-Address: 104.16.112.141
-Name:	xs.wxtv.cc
-Address: 104.16.112.168
-Name:	xs.wxtv.cc
-Address: 104.19.136.169
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
