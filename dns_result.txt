@@ -2,62 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.mahindratruckandbus.com
-Address: 104.18.91.72
-Name:	www.mahindratruckandbus.com
-Address: 104.18.90.72
-Name:	www.mahindratruckandbus.com
-Address: 2606:4700::6812:5a48
-Name:	www.mahindratruckandbus.com
-Address: 2606:4700::6812:5b48
+www.dy420.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+Name:	ysz8.com
+Address: 103.224.212.212
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.186.128
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.157.46
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.172.245
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.212.106
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.187.1
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.175.96
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.190.210
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.155.215
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.84.129
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.171.113
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.218.178
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.164.220
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.124.29
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.222.39
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.168.172
+www.cx888my.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
