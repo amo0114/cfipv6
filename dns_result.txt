@@ -2,28 +2,35 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-jhpcza.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global32.66666654.xyz.
-Name:	cfcn-a-global32.66666654.xyz
-Address: 104.17.252.56
+www.85xs.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.145.100
+Name:	ips.993888.xyz
+Address: 104.17.143.13
+Name:	ips.993888.xyz
+Address: 104.17.31.208
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-asbcc.geotrust.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global14.66666654.xyz.
-Name:	cfcn-b-global14.66666654.xyz
-Address: 104.17.249.150
+www.99wxw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.31.208
+Name:	ips.993888.xyz
+Address: 104.17.143.13
+Name:	ips.993888.xyz
+Address: 104.17.145.100
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.8bb.vip
-Address: 194.53.53.4
-Name:	www.8bb.vip
-Address: 194.53.53.252
+www.longwangchuanshuo.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.31.208
+Name:	ips.993888.xyz
+Address: 104.17.145.100
+Name:	ips.993888.xyz
+Address: 104.17.143.13
 
