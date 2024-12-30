@@ -19836,3 +19836,25 @@ Performing DNS lookup for www.8bb.vip...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ad7f4e9] Update project files
+ 4 files changed, 67 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   ff0478f..ad7f4e9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.226.123...
+Fetching domains for 104.18.24.122...
+Fetching domains for 104.18.22.3...
+succeed to fetch domains for 104.21.226.123 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.22.3 from https://site.ip138.com/
+succeed to fetch domains for 104.18.24.122 from https://ipchaxun.com/
+域名列表为
+['s5.66xnxn91.com', 'www.qindixs.com', 'www.99wxw.cc', 'www.longwangchuanshuo.com', 'www.77zw.cc', 'q666w.com', 'cfip.xxxxxxxx.tk', 'www.93xs.net', 'www.nitianzw.com', 'computers.mwave.com.au', 'www.exirio.com', 'www.catnamesmeow.com', 'uboy.cc', 'ppxdm.com', 'www.4hupp53.com', 'www.kanunu2.com', 'v.ximei.love', 'www.85xscc.com', 'www.mwave.com.au', 'www.lailai360.com', 'www.txydd.com', 's2.66xnxn91.com', '1345da.com', 'www.55xs.cc', 'www.pianku5.com', 'tengbo398.com', 'www.f345w.com', 'www.ykmov.cc', '1.namesilo123.top', 'www.qdrxh.com', 'www.1345da.com', '4hu34d.com', 'www.99wx.cc', 'www.nitianxieshen.com', 'www.avatrade.id', 'peugeotphumyhung.vn', 'www.4huc87.com', '74fan.com', 'www.4hu34d.com', 'www.jjtyss.com', 'www.xiuluo942.com', 'yx.887141.xyz', 's3.66xnxn91.com', 'www.93xscc.com', 'www.kie9.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.q666w.com', 'www.dmbj.cc', 'www.91m.cc', 'www.doupobook.cc', 'b789g.com', 'www.677ca.com', 'www.4hua88.com', 'www.85xs.cc', 'wz.weishao2023.uk.eu.org', 'txydd.com', '4huxpt.com', 'www.cbcv.cc', 'www.xwbhk.com', 'www.yhddsb.com', 'www.ddwhm.com', 'www.gaoqingw.com', 'www.xuanqishi.cc', 'mwave.com.au', 'kie9.com', 'www.zongcaixs.cc', '4huc87.com', '677ca.com', 'yxxy01.com', 'cdn.nankoyo.com', 'www.4hu49y.com', 'www.xwsxs.com', 'www.ppxdm.com', 'www.longwangchuanshuo.net', 'f345w.com', '4hupp53.com', 'www.741dm.com', 'gazetawroclawska.pl', 'www.74us.com', 'xfltd.net', 'www.yinshuaji1688.com', 'www.b789g.com', 'www.zongcaiwx.com', 'www.e777j.com', 'qdtsdp.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.85xs.cc...
+Performing DNS lookup for www.99wxw.cc...
+Performing DNS lookup for www.longwangchuanshuo.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
