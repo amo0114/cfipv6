@@ -2,34 +2,62 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.e0101.com
-Address: 199.59.243.227
+Name:	www.mahindratruckandbus.com
+Address: 104.18.91.72
+Name:	www.mahindratruckandbus.com
+Address: 104.18.90.72
+Name:	www.mahindratruckandbus.com
+Address: 2606:4700::6812:5a48
+Name:	www.mahindratruckandbus.com
+Address: 2606:4700::6812:5b48
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.115.114
-Name:	ips.993888.xyz
-Address: 104.17.51.181
-Name:	ips.993888.xyz
-Address: 104.16.8.153
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-yundunwawablogcdn1yd.wawacm.com	canonical name = blogwaf.yava.pw.
-Name:	blogwaf.yava.pw
-Address: 104.24.18.0
-Name:	blogwaf.yava.pw
-Address: 104.17.152.0
-Name:	blogwaf.yava.pw
-Address: 104.18.224.0
-Name:	blogwaf.yava.pw
-Address: 104.25.128.0
-Name:	blogwaf.yava.pw
-Address: 104.17.120.0
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.186.128
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.157.46
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.172.245
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.212.106
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.187.1
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.175.96
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.190.210
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.155.215
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.84.129
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.171.113
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.218.178
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.164.220
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.124.29
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.222.39
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.168.172
 
