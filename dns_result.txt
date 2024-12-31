@@ -1,32 +1,30 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.zdqx.com: NXDOMAIN
+** server can't find gbminers-club.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.gaycn.top
-Address: 172.67.188.89
-Name:	www.gaycn.top
-Address: 104.21.48.234
-Name:	www.gaycn.top
-Address: 2606:4700:3033::ac43:bc59
-Name:	www.gaycn.top
-Address: 2606:4700:3032::6815:30ea
+www.qdzhongbei.com	canonical name = qdzbdns.hai888.top.
+qdzbdns.hai888.top	canonical name = dns123.xin6.top.
+Name:	dns123.xin6.top
+Address: 172.67.75.125
+Name:	dns123.xin6.top
+Address: 104.26.13.83
+Name:	dns123.xin6.top
+Address: 104.26.12.83
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xinjuc.com	canonical name = www.xinjuc.com.cdn.cloudflare.net.
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 172.67.158.71
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 104.21.73.59
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:493b
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:9e47
+www.dmbj.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.155.76
+Name:	ips.993888.xyz
+Address: 104.17.129.195
+Name:	ips.993888.xyz
+Address: 104.16.252.214
 
