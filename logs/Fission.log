@@ -19924,3 +19924,25 @@ Performing DNS lookup for cfip.xxxxxxxx.tk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 956bfc0] Update project files
+ 4 files changed, 68 insertions(+), 87 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   30caa4c..956bfc0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.170.127...
+Fetching domains for 104.17.185.176...
+Fetching domains for 104.17.180.209...
+succeed to fetch domains for 104.17.180.209 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.170.127 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.185.176 from https://ipchaxun.com/
+域名列表为
+['ysz8.com', 'www.tx58tl.com', 'www.6xr.com', 'hmoe.top', 'www.45zw.org', 'yxy176.com', 'www.xigua5.com', 'm.69shuba.cc', 'www.cx888my.com', 'kuaikan66.com', 'www.8877fz.com', 'www.hkshuibao.com', 'ayzjj.cn', 'www.fnyy666.com', 'kqyhb.com', 'www.whpaiger.com', 'plotiofinance.com', 'www.881dy.com', 'www.cocanwelding.com', 'www.dy420.com', 'www.888dyy.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.dy420.com...
+Performing DNS lookup for ysz8.com...
+Performing DNS lookup for www.cx888my.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
