@@ -1,37 +1,17 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.4148.net	canonical name = www.4148.net.cdn.cloudflare.net.
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 104.21.59.212
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 172.67.184.20
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:3bd4
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 2606:4700:3031::ac43:b814
+** server can't find www.qk2mik.cn: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.55evd.com	canonical name = planone.seihappy.com.
-Name:	planone.seihappy.com
-Address: 162.209.221.183
-Name:	planone.seihappy.com
-Address: 23.224.11.188
+Name:	www.xkstxt.com
+Address: 38.207.123.78
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.789kp.com
-Address: 172.67.194.200
-Name:	www.789kp.com
-Address: 104.21.52.35
-Name:	www.789kp.com
-Address: 2606:4700:3033::ac43:c2c8
-Name:	www.789kp.com
-Address: 2606:4700:3033::6815:3423
+** server can't find www.xfyy812.com: NXDOMAIN
 

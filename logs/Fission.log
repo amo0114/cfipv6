@@ -20076,3 +20076,25 @@ Performing DNS lookup for www.dmbj.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b64aeb2] Update project files
+ 4 files changed, 71 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   bc121ce..b64aeb2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.237.56...
+Fetching domains for 104.23.129.52...
+Fetching domains for 141.101.123.217...
+succeed to fetch domains for 141.101.123.217 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.237.56 from https://dnsdblookup.com/
+succeed to fetch domains for 104.23.129.52 from https://ipchaxun.com/
+域名列表为
+['man.luwangyangrong.com', 'www.11txt.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.k77kk.cc', 'www.55evd.com', 'www.789kp.com', 'blog.hostmonit.com', 'www.92mili.com', '0550cq.com', 'www.ydxs.cc', 'm.kuaikan66.com', 'www.ub888.cc', 'www.6i5.com', 'www.cu518.com', 'panel3.touhou.tel', 'www.lewen5.com', 'www.dy420.com', 'm.bbiquge.cc', 'cf1.492745.xyz', 'www.lijunys.com', 'www.lyzdzy.com', 'www.xiuluo942.com', 'www.93xscc.com', 'www.4148.net', 'stock.hostmonit.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.4148.net...
+Performing DNS lookup for www.55evd.com...
+Performing DNS lookup for www.789kp.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
