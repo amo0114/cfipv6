@@ -2,40 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	smxrsj.cn
-Address: 38.63.95.204
+Name:	tjcaizhuang.com
+Address: 45.194.245.201
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	sms-man.com
-Address: 104.22.53.152
-Name:	sms-man.com
-Address: 104.22.52.152
-Name:	sms-man.com
-Address: 172.67.21.206
-Name:	sms-man.com
-Address: 2606:4700:10::ac43:15ce
-Name:	sms-man.com
-Address: 2606:4700:10::6816:3498
-Name:	sms-man.com
-Address: 2606:4700:10::6816:3598
+Name:	www.66se7.com
+Address: 162.210.196.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	neighbor.com
-Address: 104.22.48.212
-Name:	neighbor.com
-Address: 172.67.40.80
-Name:	neighbor.com
-Address: 104.22.49.212
-Name:	neighbor.com
-Address: 2606:4700:10::ac43:2850
-Name:	neighbor.com
-Address: 2606:4700:10::6816:31d4
-Name:	neighbor.com
-Address: 2606:4700:10::6816:30d4
+Name:	66se.tv
+Address: 162.210.196.167
 

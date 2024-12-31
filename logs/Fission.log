@@ -19968,3 +19968,24 @@ Performing DNS lookup for mycafe-cdn.mgsn.it...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a94c976] Update project files
+ 4 files changed, 61 insertions(+), 10 deletions(-)
+To github.com:amo0114/cfipv6.git
+   a2d71d9..a94c976  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.48.6...
+Fetching domains for 104.22.52.152...
+Fetching domains for 104.22.49.212...
+succeed to fetch domains for 104.22.52.152 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.48.6 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.49.212 from https://dnsdblookup.com/
+域名列表为
+['www.zddzd.top', 'www.tlbb888.com', 'api2.sms-man.com', 'www.hnhcbw.com', 'www.yh9pk.com', 'neighbor.com', 'sms-man.com', 'www.wubei520.com', 'www.webrick.com', 'www.iios.club', 'webrick.com', 'www.85xs.cc', 'www.88wwk.com', 'smxrsj.cn', 'www.993my.com', 'www.whpaiger.com', 'www.pk299.com', 'www.m6y6.com', 'ecaytrade.com', 'cfip.xxxxxxxx.tk', '8y73.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for smxrsj.cn...
+Performing DNS lookup for sms-man.com...
+Performing DNS lookup for neighbor.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
