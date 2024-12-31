@@ -20098,3 +20098,25 @@ Performing DNS lookup for www.789kp.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a6abdd4] Update project files
+ 4 files changed, 46 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   b64aeb2..a6abdd4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.33.45...
+Fetching domains for 104.19.145.99...
+Fetching domains for 104.18.46.243...
+succeed to fetch domains for 104.18.46.243 from https://site.ip138.com/
+succeed to fetch domains for 104.18.33.45 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.145.99 from https://dnsdblookup.com/
+域名列表为
+['e-mucha.tk', 'www.nbdy8.cc', 'tcr9i.chat.openai.com', 'help.openai.com.cdn.cloudflare.net', 'www.99wx.cc', 'panattasportclub.ru', 'tp75299.zhiding8.com', 'beta.openai.com', 'fuli88.info', 'atd-elektronik.cz', 'www.atd-elektronik.cz', 'api.10086niuka.com', '10086niuka.com', 'mutrter.tk', 'ani.gimy.tv', 'passportnews.co.il', 'www.xfyy812.com', 'xfyy812.com', 'www.qk2mik.cn', 'openai.com.cdn.cloudflare.net', 'platform.openai.com.cdn.cloudflare.net', 'www.2123uu.com', 'kuaiyam9.xyz', 'nlsdwsz.66666654.xyz', 'www.fuli88.info', 'oleb.net', 'www.openai.com.cdn.cloudflare.net', 'refersion.com', '866bo.com', 'sora.openai.com', 'help.openai.com', 'www.cfhuagong.com', '2123uu.com', 'platform.openai.com', 'ajaj3.com', 'internationalreserve.club', 'www.xkstxt.com', 'www.openai.com', 'v2.001ladder100.ml', 'openai.com', 'gimy.tv', 'meyzo.me', 'www.93xscc.com', 'www.worldsoccershop.com', 'chunfastone.com', 'auth.openai.com', 'xtiyu.com', 'xn--r8vz4pdzo.com', 'm.niuerzs.com', 'www.77zw.cc', 'americacomesalive.com', 'playground.openai.com', 'sora.api.openai.com', 'baxtc.66666654.xyz', 'www.stafabband.online', 'primalkitchen.refersion.com', 'platform.api.openai.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qk2mik.cn...
+Performing DNS lookup for www.xkstxt.com...
+Performing DNS lookup for www.xfyy812.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
