@@ -20054,3 +20054,25 @@ Performing DNS lookup for www.xinjuc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bc121ce] Update project files
+ 4 files changed, 63 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   eb871fe..bc121ce  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.6.115...
+Fetching domains for 104.18.24.3...
+Fetching domains for 104.17.233.151...
+succeed to fetch domains for 104.17.233.151 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.24.3 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.6.115 from https://dnsdblookup.com/
+域名列表为
+['app.gbminers-club.com', 'www.xiuluo942.com', 'gtts.life', 'www.qdzhongbei.com', 'www.xkstxt.com', 'www.yanqin9.cc', 'www.douluodalu1.com', 'www.ddwhm.com', 'www.longwangchuanshuo.com', 'cfip.xxxxxxxx.tk', 'www.betrallyindia.com', 'www.gumanxs.com', 'www.dmbj.cc', 'www.doupobook.cc', 'forum.grasscity.com', 'www.99wxw.cc', 'www.yjys05.com', 'www.75xs.cc', 'docs.nium.com', 'www.xsj80.com', 'www.visa.ca', 'www.lailai360.com', 'www.teepublic.com', 'www.longwangchuanshuo.net', 'www.77zw.cc', 'www.55xs.cc', 'www.iios.me', 'www.74us.com', 'yx.887141.xyz', 'www.ourxh.com', 'production-api.postmen.com', 'www.qdjljy.com', 'www.99wx.cc', 'gbminers-club.com', 'www.nanhuyt.com', 'www.xinjuc.com', 'www.zzqq178.com', 'achk.cloudflarest.link', 'www.nitianxieshen.com', 'www.zongcaiwx.com', 'www.cocanwelding.com', 'www.85xs.cc', 'www.nium.com', 'ppxdm.com', 'www.nitianzw.com', 'www.ququxiaoshuo.com', 'www.wuhanzoo.com', 'www.qindixs.com', 'www.93xscc.com', 'www.dingdingdm.com', 'www.qdtsdp.com', 'www.iios.club', 'www.megumirawr.cc', 'www.gaycn.top', 'www.xwsxs.com', 'www.ppxdm.com', '74fan.com', 'www.xpsxs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for gbminers-club.com...
+Performing DNS lookup for www.qdzhongbei.com...
+Performing DNS lookup for www.dmbj.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
