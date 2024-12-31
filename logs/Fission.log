@@ -19989,3 +19989,25 @@ Performing DNS lookup for neighbor.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6b5338f] Update project files
+ 4 files changed, 51 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   a94c976..6b5338f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.253.164...
+Fetching domains for 104.22.51.238...
+Fetching domains for 172.67.68.14...
+succeed to fetch domains for 104.22.51.238 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.253.164 from https://site.ip138.com/
+succeed to fetch domains for 172.67.68.14 from https://ipchaxun.com/
+域名列表为
+['www.tinghen.com', 'www.tjcaizhuang.com', 'www.6988tv.com', 'www.17kty.com', 'www.gytsxdnyw.com', 'www.6i5.com', 'www.yiqianhg.com', 'www.0550cq.com', 'gov.goodhome.bar', 'www.bjyongcheng.com', 'www.gzgafk.com', 'www.offing.cc', 'www.m6y6.com', 'www.2bfz.com', 'm.6i5.com', 'baxtc.66666654.xyz', 'www.wxxzzs.com', 'ttfuman.com', 'www.mlekozfarmy.cz', 'tjcaizhuang.com', '66se.icu', 'www.36dm.club', 'www.pk299.com', 'blog.hostmonit.com', 'www.qire88.com', 'vcd.la', 'www.7749tv.com', 'www.zhongyunyang.com', 'www.xxootl.com', 'www.zkkz.cc', 'chavetas.es', 'www.bjfqmj.com', 'qingproxy.xyz', 'www.ytshenxian.com', 'm.y3600.cc', 'm.niuerzs.com', '36dm.club', 'www.hxsy888.com', 'yt9995.c2.hycdn.xyz', 'ddwhm.com', 'm.jingshuai888.com', 'www.hosemicon.com', 'sgv7.com', 'laimanhua.net', 'www.hhyy028.com', 'www.rxjh520.cc', 'www.cx888my.com', 'iios.fun', '999696.xyz', 'usc168.com', 'www.web120.org', 'm.laimanhua.net', 'russia-insider.com', 'viajes.chavetas.es', 'www.881dy.com', 'dyhome.cc', 'www.dgytlt.com', 'www.laimanhua.net', 'e1a5ec99176ffb25.u.usc168.com', 'www.paizipai.top', 'www.11txt.com', 'www.yzbang.cc', 'www.csoxf.com', 'www.tv9090.com', 'jpvsavhyu.76898102.xyz', 'mlekozfarmy.cz', 'www.baisuishu.com', 'lemanagement.dk', 'www.shuzw.top', 'fa16.co', 'www.jsdrtzn.com', 'ao3-cn.top', 'm.y3600.cz', 'www.bestmov.net', 'tichonbg.schooly.co.il', 'dmk18.com', 'www.cocanwelding.com', 'www.w69thai.com', 'www.jjtyss.com', 'drconsulta.com', 'goldswat.com', 'www.ai2moe.org', 'www.yingxiu.tv', 'www.66se7.com', 'jhpcza.66666654.xyz', 'www.ddwhm.com', 'zlcq520.com', 'www.feiji.la', 'www.luwangyangrong.com', 'www.roo5.com', 'fldsubgigtujuy.76898102.xyz', 'www.qdbangsen.com', 'zkkz.cc', 'tabib.schooly.co.il', 'www.ikantv.net', 'www.szaitai.com', 'www.gzcfmy.com', 'm.fakti.bg', 'm.dyhome.cc', 'sgaa.sectigo.pp.ua', 'www.iios.club', 'www.295k.com', 'www.yy4080dy.com', 'stormproxies.com', 'nlsdwsz.66666654.xyz', 'bestmov.net', 'www.50zw.co', 'www.qchkj.com', 'www.ttfuman.com', 'asia2tv.co', 'www.zzztch.com', 'www.266958.com', 'www.cbcv.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', '66se.tv', 'www.schooly.co.il', 'yingxiu.tv', 'index1.xxm3u8.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for tjcaizhuang.com...
+Performing DNS lookup for www.66se7.com...
+Performing DNS lookup for 66se.tv...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

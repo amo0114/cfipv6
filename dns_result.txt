@@ -2,20 +2,48 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	tjcaizhuang.com
-Address: 45.194.245.201
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.7.239
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.5.205
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.17.131
+Name:	cfip.xxxxxxxx.tk
+Address: 104.24.212.172
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.230.174
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.224.98
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.34.21
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.238.107
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.63.169
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.226.108
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.30.233
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.31.149
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.178.108
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.225.120
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.13.105
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.66se7.com
-Address: 162.210.196.166
+Name:	www.234aa.net
+Address: 69.16.230.165
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	66se.tv
-Address: 162.210.196.167
+Name:	www.sau234.com
+Address: 23.225.33.88
 
