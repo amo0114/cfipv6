@@ -2,32 +2,47 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-m.tvccc.org	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.186.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.187.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:bb1f
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:ba1f
+Name:	www.hm17.lol
+Address: 185.107.56.52
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 172.67.203.171
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 104.21.44.202
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:cbab
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:2cca
+tv.yydsys.cc	canonical name = cf.aduo.eu.org.
+Name:	cf.aduo.eu.org
+Address: 104.21.80.1
+Name:	cf.aduo.eu.org
+Address: 104.21.112.1
+Name:	cf.aduo.eu.org
+Address: 104.21.48.1
+Name:	cf.aduo.eu.org
+Address: 104.21.16.1
+Name:	cf.aduo.eu.org
+Address: 104.21.64.1
+Name:	cf.aduo.eu.org
+Address: 104.21.96.1
+Name:	cf.aduo.eu.org
+Address: 104.21.32.1
+Name:	cf.aduo.eu.org
+Address: 2606:4700:3030::6815:1001
+Name:	cf.aduo.eu.org
+Address: 2606:4700:3030::6815:6001
+Name:	cf.aduo.eu.org
+Address: 2606:4700:3030::6815:2001
+Name:	cf.aduo.eu.org
+Address: 2606:4700:3030::6815:5001
+Name:	cf.aduo.eu.org
+Address: 2606:4700:3030::6815:7001
+Name:	cf.aduo.eu.org
+Address: 2606:4700:3030::6815:4001
+Name:	cf.aduo.eu.org
+Address: 2606:4700:3030::6815:3001
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find cs359.yxsoft.in: NXDOMAIN
+Non-authoritative answer:
+Name:	www.bt4kyy.com
+Address: 162.209.175.126
 

@@ -20228,3 +20228,24 @@ Performing DNS lookup for www.91m.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 80a6f4f] Update project files
+ 4 files changed, 52 insertions(+), 11 deletions(-)
+To github.com:amo0114/cfipv6.git
+   36f5f6c..80a6f4f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.170.93...
+Fetching domains for 104.17.230.140...
+Fetching domains for 104.17.238.224...
+succeed to fetch domains for 104.17.238.224 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.170.93 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.230.140 from https://ipchaxun.com/
+域名列表为
+['www.hosemicon.com', 'www.11txt.com', 'cloudflare.182682.xyz', 'shopcs68.yxsoft.in', 'www.lvhuisb.com', '440w.com', '69t227.com', 'comomag.com', 'www.paizipai.top', '314uu.com', 'aladdinmyr.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.iios.me', 'xx903.com', 'www.bmhtz.com', 'www.szxjsj.com', 'www.zzztch.com', 'cs359.yxsoft.in', 'www.266958.com', 'www.52ys.cc', 'xs.wxtv.cc', 'www.x52bq.com', 'wx04.xyz', 'www.lyzdzy.com', 'www.ydxs.cc', 'www.zhongyunyang.com', 'www.17kty.com', 'xydzgc.com', 'histar.zapi.us.kg', 'scp.hr', 'www.dgytlt.com', 'teacat1.com', 'www.jsdrtzn.com', 'ggg.ali.17cloud.me', 'www.xigua5.net', 'avba.cc', 'www.gzgafk.com', 'dioptrija.hr', 'www.qzkeenkq.com', 'tianxikt.com', 'www.12349hg.com', 'm.tvccc.org', '1101aigc.cn', 'www.bjyongcheng.com', 'www.avba.cc', 'www.scp.hr', '999696.xyz', 'www.314uu.com', 'www.zhiqihuo.com', 'chinahubtrading.com', 'www.xydzgc.com', 'www.hxsy888.com', 'www.6i5.com', 'm.jingshuai888.com', 'm.niuerzs.com', 'www.whpaiger.com', 'www.69t227.com', '126800.com', 'www.chinahubtrading.com', 'www.cfhuagong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.tvccc.org...
+Performing DNS lookup for www.11txt.com...
+Performing DNS lookup for cs359.yxsoft.in...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
