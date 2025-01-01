@@ -2,26 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.q666v.com
-Address: 23.225.33.88
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find maomaohuai.com: NXDOMAIN
+Name:	www.guoyanni.com
+Address: 103.47.82.88
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.me	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	www.pk299.com
+Address: 160.121.18.101
 
