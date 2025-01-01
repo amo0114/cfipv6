@@ -20271,3 +20271,25 @@ Performing DNS lookup for www.bt4kyy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0fec5cd] Update project files
+ 4 files changed, 57 insertions(+), 63 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   36bb9d7..0fec5cd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.23.157...
+Fetching domains for 104.17.238.161...
+Fetching domains for 104.17.240.71...
+succeed to fetch domains for 104.17.240.71 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.238.161 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.23.157 from https://ipchaxun.com/
+域名列表为
+['www.x666m.com', 'qwysvip.com', 'printerstudio.es', 'ww.kh8d.com', 'cajdydinje.com', 'fvigroup.com', 'www.printerstudio.es', 'protyre.co.uk', 'helpling.de', 'hfch.hgwdk.net', 'blackmorasv.com', 'www.zgjmw.net', 'www.thelocal.at', 'qnbfs.com.qa', 'm.50zw.co', 'm.niuerzs.com', 'www.570rr.com', 'ngenge.cd', 'dd.ddffsk.com', 'www.scriphessco.com', 'www.nestle.lt', 'fga.ivnnswhkvv.com', 'apk.awww123.com', 'kdxlbnrjyf.com', '234hou.com', 'x666m.com', '3234ku.com', 'holdoo.cn', 'www.helpling.de', 'www.234hou.com', 'wsq.ivnnswhkvv.com', 'login.fvigroup.com', 'dylfhg.com', 'www.50zw.co', 'www.b7k22.com', '570rr.com', 'dl.acronis.com', 'xbxb88.s8k.cc', 'www.x2k55.com', 'scriphessco.com', 'bornhut.com', 'www.hxncpgs.com', 'www.protyre.co.uk', 'ipdb.rr.nu', 'nips.kwyaovd.com', 'b7k22.com', 'www.iios.club', '3dmoxing.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.nestle.lt...
+Performing DNS lookup for www.50zw.co...
+Performing DNS lookup for x666m.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

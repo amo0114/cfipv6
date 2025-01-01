@@ -2,25 +2,31 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.nestle.lt	canonical name = www.nestle.lt.cdn.cloudflare.net.
-Name:	www.nestle.lt.cdn.cloudflare.net
-Address: 104.18.8.124
-Name:	www.nestle.lt.cdn.cloudflare.net
-Address: 104.18.9.124
-Name:	www.nestle.lt.cdn.cloudflare.net
-Address: 2606:4700::6812:87c
-Name:	www.nestle.lt.cdn.cloudflare.net
-Address: 2606:4700::6812:97c
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find www.50zw.co: NXDOMAIN
+www.93xs.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.199.238
+Name:	ips.993888.xyz
+Address: 104.16.244.29
+Name:	ips.993888.xyz
+Address: 104.17.111.64
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	x666m.com
-Address: 103.224.212.216
+www.yx521.net	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find zgjmw.net: No answer
 
