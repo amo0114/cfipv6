@@ -2,20 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.guoyanni.com
-Address: 103.47.82.88
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
+Name:	cocanwelding.com
 Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.pk299.com
-Address: 160.121.18.101
+www.778668.com	canonical name = cdn.mianfeixiaoshuoba.com.
+cdn.mianfeixiaoshuoba.com	canonical name = code.baidu-cdn.online.
+Name:	code.baidu-cdn.online
+Address: 172.67.182.145
+Name:	code.baidu-cdn.online
+Address: 104.21.40.82
+Name:	code.baidu-cdn.online
+Address: 2606:4700:3033::6815:2852
+Name:	code.baidu-cdn.online
+Address: 2606:4700:3033::ac43:b691
 
