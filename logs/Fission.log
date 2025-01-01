@@ -20206,3 +20206,25 @@ Performing DNS lookup for siraplimau.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 36f5f6c] Update project files
+ 4 files changed, 46 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (89%)
+To github.com:amo0114/cfipv6.git
+   fec3bff..36f5f6c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.226.171...
+Fetching domains for 104.22.60.106...
+Fetching domains for 104.21.226.92...
+succeed to fetch domains for 104.17.226.171 from https://site.ip138.com/
+succeed to fetch domains for 104.21.226.92 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.60.106 from https://ipchaxun.com/
+域名列表为
+['speed.marisalnc.com', 'cloudflare.182682.xyz', 'dsxys.com', 'www.xtxtrar.com', 'www.pkunetlaw.cn', 'shop.hostmonit.com', 'www.luwangyangrong.com', 'www.m6y6.com', 'www.cocanwelding.com', 'www.ub.hsu-hh.de', 'huakai2018.com', 'www.70ts.com', 'yinghua.us', 'www.huixsw.com', 'www.nftstar.com', 'acgdhww.cn', 'www.xlys01.com', 'www.xxootl.com', 'www.gaycn.top', 'pic.haotv1.com', 'jpaa.sectigo.pp.ua', 'www.91m.cc', 'www.99wx.cc', 'freeyx.cloudflare88.eu.org', 'www.dzy66666.com', 'www.hhyy028.com', 'acjp.cloudflarest.link']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.nftstar.com...
+Performing DNS lookup for www.luwangyangrong.com...
+Performing DNS lookup for www.91m.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
