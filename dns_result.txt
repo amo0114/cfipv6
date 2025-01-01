@@ -1,32 +1,25 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-www.93xs.net	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.199.238
-Name:	ips.993888.xyz
-Address: 104.16.244.29
-Name:	ips.993888.xyz
-Address: 104.17.111.64
+** server can't find www.27maopp.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.yx521.net	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.186.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.187.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:ba1f
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:bb1f
+Name:	986xe.com
+Address: 148.135.3.158
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-*** Can't find zgjmw.net: No answer
+Name:	www.parinti.com
+Address: 104.21.68.34
+Name:	www.parinti.com
+Address: 172.67.185.219
+Name:	www.parinti.com
+Address: 2606:4700:3034::ac43:b9db
+Name:	www.parinti.com
+Address: 2606:4700:3031::6815:4422
 

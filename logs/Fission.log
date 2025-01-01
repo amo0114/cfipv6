@@ -20293,3 +20293,25 @@ Performing DNS lookup for x666m.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bee8c54] Update project files
+ 4 files changed, 65 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   0fec5cd..bee8c54  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.80.189...
+Fetching domains for 104.18.83.231...
+Fetching domains for 104.17.114.103...
+succeed to fetch domains for 104.18.80.189 from https://site.ip138.com/
+succeed to fetch domains for 104.18.83.231 from https://site.ip138.com/
+succeed to fetch domains for 104.17.114.103 from https://dnsdblookup.com/
+域名列表为
+['qp66.com', 'www.yx521.net', 'xfltd.net', 'zgjmw.net', 'm.tvccc.org', 'www.subozu.com', 'www.zzztch.com', 'msgao.com', 'www.6988tv.com', 'www.93xs.net', 'www.55evd.com', 'www.45zw.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.93xs.net...
+Performing DNS lookup for www.yx521.net...
+Performing DNS lookup for zgjmw.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
