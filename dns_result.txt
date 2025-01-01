@@ -1,37 +1,17 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-fdvinacs.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global21.66666654.xyz.
-Name:	cfcn-b-global21.66666654.xyz
-Address: 104.17.250.83
+** server can't find www.nftstar.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.altel.kz	canonical name = www.altel.kz.cdn.cloudflare.net.
-Name:	www.altel.kz.cdn.cloudflare.net
-Address: 172.66.0.200
-Name:	www.altel.kz.cdn.cloudflare.net
-Address: 162.159.140.202
-Name:	www.altel.kz.cdn.cloudflare.net
-Address: 2606:4700:7::c8
-Name:	www.altel.kz.cdn.cloudflare.net
-Address: 2a06:98c1:58::c8
+Name:	www.luwangyangrong.com
+Address: 69.16.230.165
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	siraplimau.com
-Address: 104.18.7.193
-Name:	siraplimau.com
-Address: 104.18.6.193
-Name:	siraplimau.com
-Address: 2606:4700::6812:7c1
-Name:	siraplimau.com
-Address: 2606:4700::6812:6c1
+** server can't find www.91m.cc: NXDOMAIN
 
