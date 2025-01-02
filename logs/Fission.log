@@ -20315,3 +20315,25 @@ Performing DNS lookup for zgjmw.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 75aca02] Update project files
+ 4 files changed, 56 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   bee8c54..75aca02  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.43.140...
+Fetching domains for 104.18.40.117...
+Fetching domains for 104.17.214.72...
+succeed to fetch domains for 104.18.43.140 from https://site.ip138.com/
+succeed to fetch domains for 104.17.214.72 from https://site.ip138.com/
+succeed to fetch domains for 104.18.40.117 from https://dnsdblookup.com/
+域名列表为
+['3344hj.com', 'hearnow.com', 'www.986xe.com', 'www.di-token.com', '986xe.com', 'www.lyzdzy.com', 'www.semi.org', 'www.wsktn.com', 'www.whyl883.com', '9927098.com', 'www.wn01.cc', 'w1.pptvbob18.com', 'tbccp.life', 'www.nb332.com', 'p1fp1f.com', 'tl.miuiappthemes.com', 'www.sh419.be', 'wsktn.com', 'nn699.net', '5918t.com', 'file.mpfstudio.site', 'www.zongcaiwx.com', 'snookelesji.tk', 'xbquge.com', 'www.iios.me', 'xfyy672.com', 'www.xbquge.com', 'beeg.tel', 'www.huakai2018.com', 'www.p1fp1f.com', 'bbpk.com', 'caigou.info', 'm5.urlpic.com', 'www.3344hj.com', 'nijpharma.org', 'www.vd7kqj1k.cn', '27maopp.com', 'di-token.com', 'www.caa1c8m.top', '007ii.com', 'www.dsjmkc.icu', 'parinti.com', 'miolive.tv', 'syscok.net', 'por.turnpast.com', 'controlengpolska.com', 'ryrdygdhj.tk', 'www.lhw.com', 'sewbc.com', 'www.27maopp.com', 'cl.3k7k.icu', 'www.iios.club', 'www.parinti.com', 'www.bbpk.com', 'www.74ki.com', 'taoh79.com', 'niantop2.top', 'lhw.com', 'www.93xs.net', '74ki.com', 'www.techeetahfe.com', 'xfltd.net', 'www.99wx.cc', 'aoyiyi.com', 'bcga.com.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.27maopp.com...
+Performing DNS lookup for 986xe.com...
+Performing DNS lookup for www.parinti.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -1,25 +1,27 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.27maopp.com: NXDOMAIN
+Non-authoritative answer:
+Name:	xb272.top
+Address: 154.23.64.98
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	986xe.com
-Address: 148.135.3.158
+Name:	piyi.xb272.top
+Address: 154.23.64.98
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.parinti.com
-Address: 104.21.68.34
-Name:	www.parinti.com
-Address: 172.67.185.219
-Name:	www.parinti.com
-Address: 2606:4700:3034::ac43:b9db
-Name:	www.parinti.com
-Address: 2606:4700:3031::6815:4422
+Name:	github.gitbook.io
+Address: 104.18.40.47
+Name:	github.gitbook.io
+Address: 172.64.147.209
+Name:	github.gitbook.io
+Address: 2606:4700:4400::6812:282f
+Name:	github.gitbook.io
+Address: 2606:4700:4400::ac40:93d1
 
