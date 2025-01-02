@@ -20402,3 +20402,25 @@ Performing DNS lookup for j20190813.jeulia.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 43ecb99] Update project files
+ 4 files changed, 67 insertions(+), 70 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   06c7e92..43ecb99  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.250.121...
+Fetching domains for 104.17.233.206...
+Fetching domains for 104.18.22.203...
+succeed to fetch domains for 104.18.22.203 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.250.121 from https://site.ip138.com/
+succeed to fetch domains for 104.17.233.206 from https://ipchaxun.com/
+域名列表为
+['speedip.tuyoyo.link', 'www.ayzjj.cn', 'hmoe.top', 'freeyingshi.com', 'www.x2x66.com', 'www.5522tl.com', 'www.cx888my.com', 'www.seventhgeneration.com', 'q8oils.it', 'www.3567ke.com', 'www.7lq.com', 'www.czbmy.com', 'www.xz898my.com', '3567ke.com', 'www.sixyin.com', 'asiangalore.com', 'ysz8.com', '7778765.com', 'www.kbss888.com', 'x2x66.com', 'www.tlbb888.com', 'www.m6y6.com', '1.namesilo123.top', 'acus.cloudflarest.link', 'cfip.xxxxxxxx.tk', 'www.q8oils.it', 'cloudflare.xrenblog.com', 'e234h.com', 'www.xxootl.com', 'www.ddwhm.com', '7.namesilo123.top', 'ramp.com', 'baxtc.66666654.xyz', 'achk.cloudflarest.link', 'm.niuerzs.com', 'medioq.com', 'www.e234h.com', 'www.tlbbhy.com', 'www.pianku5.com', 'www.asiangalore.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for hmoe.top...
+Performing DNS lookup for www.5522tl.com...
+Performing DNS lookup for www.pianku5.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
