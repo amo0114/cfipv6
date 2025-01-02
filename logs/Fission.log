@@ -20470,3 +20470,24 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e462996] Update project files
+ 4 files changed, 47 insertions(+), 40 deletions(-)
+To github.com:amo0114/cfipv6.git
+   68a6785..e462996  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.77.7...
+Fetching domains for 104.17.251.17...
+Fetching domains for 104.17.236.249...
+succeed to fetch domains for 104.17.236.249 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.251.17 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.77.7 from https://ipchaxun.com/
+域名列表为
+['cgdd.digicert.pp.ua', 'www.whpaiger.com', 'www.cfhuagong.com', 'cfip.xxxxxxxx.tk', 'www.iios.club', 'baxtc.66666654.xyz', 'cloudflare.cfgo.cc', 'nlsdwsz.66666654.xyz', 'jpdd.entrust.pp.ua', 'macvbb.555556789.xyz', 'www.zzztch.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.kuaikan66.com', 'zzztch.com', 'www.456gg.com', 'cgaa.digicert.pp.ua', 'www.cocanwelding.com', 'iios.club', 'jhpcza.66666654.xyz', 'chunbb.sectigo.pp.ua']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jhpcza.66666654.xyz...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
