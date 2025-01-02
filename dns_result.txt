@@ -2,32 +2,11 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.3wkan.com	canonical name = bvod25.95mo.xyz.
-Name:	bvod25.95mo.xyz
-Address: 172.67.209.173
-Name:	bvod25.95mo.xyz
-Address: 104.21.53.69
-Name:	bvod25.95mo.xyz
-Address: 2606:4700:3034::6815:3545
-Name:	bvod25.95mo.xyz
-Address: 2606:4700:3035::ac43:d1ad
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	rob.ns.cloudflare.com
-Address: 108.162.193.140
-Name:	rob.ns.cloudflare.com
-Address: 173.245.59.140
-Name:	rob.ns.cloudflare.com
-Address: 172.64.33.140
-Name:	rob.ns.cloudflare.com
-Address: 2803:f800:50::6ca2:c18c
-Name:	rob.ns.cloudflare.com
-Address: 2a06:98c1:50::ac40:218c
-Name:	rob.ns.cloudflare.com
-Address: 2606:4700:58::adf5:3b8c
+jhpcza.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global2.66666654.xyz.
+Name:	cfcn-a-global2.66666654.xyz
+Address: 104.17.254.41
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
@@ -36,11 +15,18 @@ Non-authoritative answer:
 www.iios.club	canonical name = 1357900.xyz.
 1357900.xyz	canonical name = back.246000.xyz.
 Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
 Address: 104.21.52.166
 Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+Address: 172.67.201.86
 Name:	back.246000.xyz
 Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	zzztch.com
+Address: 208.98.43.131
 
