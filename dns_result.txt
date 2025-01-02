@@ -2,54 +2,34 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.guozhi.org	canonical name = ips.333600.xyz.
-ips.333600.xyz	canonical name = dns.danmeii.com.
-Name:	dns.danmeii.com
-Address: 104.21.32.1
-Name:	dns.danmeii.com
-Address: 104.21.80.1
-Name:	dns.danmeii.com
-Address: 104.21.48.1
-Name:	dns.danmeii.com
-Address: 104.21.96.1
-Name:	dns.danmeii.com
-Address: 104.21.64.1
-Name:	dns.danmeii.com
-Address: 104.21.16.1
-Name:	dns.danmeii.com
-Address: 104.21.112.1
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:1001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:5001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:6001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:4001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:3001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:2001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:7001
+hmoe.top	canonical name = back.wl9.de.
+Name:	back.wl9.de
+Address: 172.67.208.137
+Name:	back.wl9.de
+Address: 104.21.85.174
+Name:	back.wl9.de
+Address: 2606:4700:3033::ac43:d089
+Name:	back.wl9.de
+Address: 2606:4700:3031::6815:55ae
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	fcww37.com
-Address: 137.220.137.149
+www.5522tl.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	j20190813.jeulia.com
-Address: 104.18.1.70
-Name:	j20190813.jeulia.com
-Address: 104.18.0.70
-Name:	j20190813.jeulia.com
-Address: 2606:4700::6812:46
-Name:	j20190813.jeulia.com
-Address: 2606:4700::6812:146
+Name:	www.pianku5.com
+Address: 103.224.182.238
 
