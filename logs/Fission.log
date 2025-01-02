@@ -20359,3 +20359,25 @@ Performing DNS lookup for github.gitbook.io...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f7b4903] Update project files
+ 4 files changed, 112 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   d0fed43..f7b4903  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.240.152...
+Fetching domains for 104.17.249.198...
+Fetching domains for 104.21.17.147...
+succeed to fetch domains for 104.17.249.198 from https://site.ip138.com/
+succeed to fetch domains for 104.17.240.152 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.17.147 from https://dnsdblookup.com/
+域名列表为
+['huahin.go.th', '334749.com', 'www.75uw.com', 'www.moffice.cc', 'vilq23.ab0m8i5t6ahijrlfr3mz.top', 'ytjsvpn.net', 'www.wudeyy.com', 'www.chengduhaorong.com', 'ab365.cc', 'www.guozhi.org', 'www.yjys05.com', 'zzztch.com', 'vordon.pl', 'www.6ok.net', 'dxpav.com', 'langpv.com', '3331321.com', 'gwen-hentai.top', 'hee.ink', '824tv.com', 'www.824tv.com', 'www.wowdl.net', '1b1t.org', 'kz22.cc', 'dapiya.top', 'e3vlqfssxhjdn96c.top', '501ss.com', 'ekapool.com', '3g.jingyicheng.top', 'www.ub888.com', 'www.cjrk3984.eu.org', 'jingyicheng.top', 'www.cocanwelding.com', 'ggg19.com', 'www.o8tv.com', 'wb6821.ckc999.com', 'dns.hee.ink', 'www.eco-enuo.com', 'www.wwwqdjc.com', 'www.sixyin.com', 'cloudflare.241234.xyz', 'wap.jingyicheng.top', 'ammjs.com', 'www.xiaoshuohi.com', 'www.huiyinmi.com', '319ndf.xyz', 'wlkiwiki.uhxhpzo.cc', 'www.jingyicheng.top', 'www.ririgan.fun', 'www.hrywhcb.com', 'www.iios.club', 'www.kinglondon.cn', 'www.ammjs.com', 'www.dxpav.com', 'ririgan.fun', 'www.iios.me', 'www.holdoo.cn', 'www.ggg19.com', '8955698.com', 'www.705dm.com', 'chengduhaorong.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', '448b.com', '1231.guatiouss.workers.dev', 'ipdb.rr.nu', 'wge4192.com', 'wowdl.net', 'ilysy.com', 'm.jingyicheng.top', 'admire.uhxhpzo.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xiaoshuohi.com...
+Performing DNS lookup for www.824tv.com...
+Performing DNS lookup for www.sixyin.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

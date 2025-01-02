@@ -2,75 +2,54 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.xiaoshuohi.com	canonical name = ips.333600.xyz.
+www.guozhi.org	canonical name = ips.333600.xyz.
 ips.333600.xyz	canonical name = dns.danmeii.com.
 Name:	dns.danmeii.com
+Address: 104.21.32.1
+Name:	dns.danmeii.com
+Address: 104.21.80.1
+Name:	dns.danmeii.com
 Address: 104.21.48.1
 Name:	dns.danmeii.com
 Address: 104.21.96.1
 Name:	dns.danmeii.com
-Address: 104.21.112.1
-Name:	dns.danmeii.com
-Address: 104.21.32.1
+Address: 104.21.64.1
 Name:	dns.danmeii.com
 Address: 104.21.16.1
 Name:	dns.danmeii.com
-Address: 104.21.64.1
-Name:	dns.danmeii.com
-Address: 104.21.80.1
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:3001
-Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:7001
+Address: 104.21.112.1
 Name:	dns.danmeii.com
 Address: 2606:4700:3030::6815:1001
 Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:6001
+Address: 2606:4700:3030::6815:5001
 Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:2001
+Address: 2606:4700:3030::6815:6001
 Name:	dns.danmeii.com
 Address: 2606:4700:3030::6815:4001
 Name:	dns.danmeii.com
-Address: 2606:4700:3030::6815:5001
+Address: 2606:4700:3030::6815:3001
+Name:	dns.danmeii.com
+Address: 2606:4700:3030::6815:2001
+Name:	dns.danmeii.com
+Address: 2606:4700:3030::6815:7001
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.824tv.com
-Address: 23.224.60.18
+Name:	fcww37.com
+Address: 137.220.137.149
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.sixyin.com	canonical name = 356366.xyz.
-Name:	356366.xyz
-Address: 104.21.112.1
-Name:	356366.xyz
-Address: 104.21.64.1
-Name:	356366.xyz
-Address: 104.21.32.1
-Name:	356366.xyz
-Address: 104.21.80.1
-Name:	356366.xyz
-Address: 104.21.48.1
-Name:	356366.xyz
-Address: 104.21.96.1
-Name:	356366.xyz
-Address: 104.21.16.1
-Name:	356366.xyz
-Address: 2606:4700:3030::6815:1001
-Name:	356366.xyz
-Address: 2606:4700:3030::6815:6001
-Name:	356366.xyz
-Address: 2606:4700:3030::6815:2001
-Name:	356366.xyz
-Address: 2606:4700:3030::6815:3001
-Name:	356366.xyz
-Address: 2606:4700:3030::6815:7001
-Name:	356366.xyz
-Address: 2606:4700:3030::6815:5001
-Name:	356366.xyz
-Address: 2606:4700:3030::6815:4001
+Name:	j20190813.jeulia.com
+Address: 104.18.1.70
+Name:	j20190813.jeulia.com
+Address: 104.18.0.70
+Name:	j20190813.jeulia.com
+Address: 2606:4700::6812:46
+Name:	j20190813.jeulia.com
+Address: 2606:4700::6812:146
 
