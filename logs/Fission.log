@@ -20424,3 +20424,26 @@ Performing DNS lookup for www.pianku5.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f170160] Update project files
+ 4 files changed, 206 insertions(+), 47 deletions(-)
+ rewrite Fission_ip_backup.txt (93%)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   43ecb99..f170160  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 108.162.192.7...
+Fetching domains for 198.41.217.175...
+Fetching domains for 104.27.59.73...
+succeed to fetch domains for 108.162.192.7 from https://site.ip138.com/
+succeed to fetch domains for 104.27.59.73 from https://site.ip138.com/
+succeed to fetch domains for 198.41.217.175 from https://ipchaxun.com/
+域名列表为
+['www.luwangyangrong.com', 'www.223ss.com', 'yh6.dtku41.xyz', 'www.ddwhm.com', 'akyx.andyweb.xyz', 'www.hedgehogaluminium.com', 'www.fj456.vip', 'fj456.vip', 'cnamefuckxxs.yuchen.icu', 'www.wenxueyuedu.com', 'www.2499kp.com', 'www.720p.tv']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.luwangyangrong.com...
+Performing DNS lookup for cnamefuckxxs.yuchen.icu...
+Performing DNS lookup for www.hedgehogaluminium.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
