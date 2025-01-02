@@ -20337,3 +20337,25 @@ Performing DNS lookup for www.parinti.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d0fed43] Update project files
+ 4 files changed, 58 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   75aca02..d0fed43  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.3.117...
+Fetching domains for 104.21.30.155...
+Fetching domains for 104.18.25.14...
+succeed to fetch domains for 104.18.3.117 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.25.14 from https://site.ip138.com/
+succeed to fetch domains for 104.21.30.155 from https://site.ip138.com/
+域名列表为
+['qnqb.app', 'cgcg50.com', 's7bu.xb272.top', 'www.igvault.com', 'docs.cordcloud.one', 'dev.fatpay.org', '56xt7.cn', 'x3r4.xb272.top', 'docs.hzcheats.wiki', '1p.131.gs', 'batff.com', 'wap.qwwzyk.top', 'docs.orc.cash', 'dizhi.gitbook.io', 'www.cargill.com.uy', 'kxsw.gitbook.io', 'myresipi.com', 'www.xlbibw.top', '3g.xlbibw.top', 'www.boysexclip.com', 'gardnerdenver.com.cn', '3qhkt.com', 'avlulu1070.xyz', 'piyi.xb272.top', 'shenjoy.com.cn', 'xxoo.xb272.top', 'binghe.gitbook.io', 'payboxcommunity.gitbook.io', 'dizhi91.gitbook.io', 'guo-chan-zi-pai-gm.gitbook.io', '17se.xb272.top', 'kaolkao.com', 'www.sdslfzjt.com', 'm.xlbibw.top', 'www.wl152.cn', 'www.kaolkao.com', 'jiuse.gitbook.io', 'www.asiaseeking.com', '78uu.site', 'qj8h.xb272.top', 'av91.xb272.top', 'www.3qhkt.com', 'mimi.xb272.top', 'gitbook.se7ensec.cn', 'docs.bito.ai', 'www.cgcg50.com', 'x-go.gitbook.io', 'www.youpsch.com', 'x0x0x.xb272.top', 'paybox.community.gitbook.io', 'www.jiudeyishang.com', 'wap.skakwz8.top', 'www.4hu27h.com', 'www.hjtvw.cc', 'soushudu.com', 'yabo-1.gitbook.io', 'kk44kk.xb272.top', 'm.cddm53d.top', 'www.vistabrokers.com', '91-la.gitbook.io', 'mobilo.pl', 'www.ddy36.com', 'activiti.gitbook.io', 'o2bmm.gitbook.io', 'sese.xb272.top', 'www.kkr777.com', 'j9io.gitbook.io', 'www.avlulu1070.xyz', 'cddm53d.top', 'skakwz8.top', 'ling-tze-hock.gitbook.io', 'vttm.xb272.top', 'zi91.gitbook.io', 'chhv.xb272.top', '07rx.xb272.top', 'www.77ugws.com', 'artificial-smart-brain-coin.gitbook.io', 'xxx.xb272.top', '118djqudjq16.oadskicjdnsv.com', 'gov.keo.auroramodagentil.com', 'www.028tyj.com', 'boysexclip.com', 'qwef.xb272.top', 'hjtvw.cc', 'www.cddm53d.top', 'aavv.xb272.top', 'github.gitbook.io', '21fuck.com', 'cfip.xxxxxxxx.tk', 'sdslfzjt.com', 'i.globalfabu.com', 'caobb.xb272.top', 'zfjvpn.gitbook.io', '3g.qwwzyk.top', 'tiktok569.com', 'asiaseeking.com', 'yiyo.gitbook.io', '69xx.xb272.top', 'docs.pageplug.cn', 'o103d.com', '2baz.xb272.top', '91home.gitbook.io', '4hu27h.com', 'docs.coredao.org', 'jiusehome91.gitbook.io', 'springland.gitbook.io', 'docs.genechain.io', 'www.xb272.top', 'vbw0.xb272.top', 'lulu.xb272.top', 'www.11sf.cc', 'xxbb.xb272.top', 'd18h.xb272.top', 'f1.avseetvw.pp.ua', 'dz91.gitbook.io', 'xbxb.xb272.top', 'qfgy.xb272.top', 'z8q5.xb272.top', 'hkaa.sectigo.pp.ua', 'gitbook.io', 'tuplers-note.gitbook.io', 'www.ddwhm.com', '8888.xb272.top', '91wyj.cn', 'aaa79.com', 'docs.lendland.finance', 'www.36fg.com', 'partner.vistabrokers.com', 'ihd1.xb272.top', 'b9x88.com', 'www.skakwz8.top', '9999.xb272.top', '52mm.xb272.top', 'yyds.xb272.top', 'xhl22.com', 'live.goodiptv.club', 'www.4hud74.com', 'c2c.igvault.com', 'm.qwwzyk.top', 'xlbibw.top', 'xb272.top', 'xopa.xb272.top', 'www.b9x88.com', '91xx.xb272.top', 'www.vxgoumai.com', '3wj6.xb272.top', 'home91.gitbook.io', 'pg5r.xb272.top', '69vn.so', 'www.fgzubnbw.cn', 'dark-forest-1.gitbook.io', 'sindia.gitbook.io', '3g.skakwz8.top', 'cctv.xb272.top', 'www.o103d.com', 'vistabrokers.com', 'ddy36.com', 'cz0.gitbook.io', 'wap.xlbibw.top', 'layer3-5.gitbook.io', 'vxgoumai.com', 'bsxv.xb272.top', 'ccav.xb272.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for xb272.top...
+Performing DNS lookup for piyi.xb272.top...
+Performing DNS lookup for github.gitbook.io...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
