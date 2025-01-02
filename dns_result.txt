@@ -2,20 +2,43 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.kuaikan66.com
-Address: 74.63.241.21
+www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.204.185
+Name:	ips.993888.xyz
+Address: 104.17.169.180
+Name:	ips.993888.xyz
+Address: 104.17.221.144
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.40.16
+m.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+** server can't find cfa.zpro.pro: NXDOMAIN
 
