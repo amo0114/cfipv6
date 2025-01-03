@@ -20580,3 +20580,25 @@ Performing DNS lookup for www.cocanwelding.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4a74a0b] Update project files
+ 4 files changed, 52 insertions(+), 67 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   160ba52..4a74a0b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.50.92...
+Fetching domains for 104.22.49.71...
+Fetching domains for 104.18.66.151...
+succeed to fetch domains for 104.22.49.71 from https://site.ip138.com/
+succeed to fetch domains for 104.18.66.151 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.50.92 from https://ipchaxun.com/
+域名列表为
+['www.kanju8.com', 'www.75uw.com', 'www.7749tv.com', 'www.91m.cc', 'www.whpaiger.com', 'www.yy4080dy.com', 'www.295k.com', 'dy1255.com', 'v.tlyy.cc', '13mysf.com', 'www.881dy.com', 'www.888dyy.cc', 'www.hnyhy.com', 'dsxys.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for v.tlyy.cc...
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for dsxys.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
