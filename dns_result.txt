@@ -3,47 +3,55 @@ Address:	8.8.8.8#53
 
 Non-authoritative answer:
 Name:	cfip.xxxxxxxx.tk
+Address: 104.17.254.184
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.232.46
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.245.117
+Name:	cfip.xxxxxxxx.tk
 Address: 104.17.253.207
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.249.146
+Address: 104.21.234.62
 Name:	cfip.xxxxxxxx.tk
-Address: 104.18.16.220
+Address: 172.67.68.0
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.240.108
+Address: 104.21.230.3
 Name:	cfip.xxxxxxxx.tk
 Address: 104.21.224.29
 Name:	cfip.xxxxxxxx.tk
 Address: 104.22.60.143
 Name:	cfip.xxxxxxxx.tk
-Address: 104.21.230.3
+Address: 104.18.14.250
 Name:	cfip.xxxxxxxx.tk
-Address: 104.17.254.184
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.87.227
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.232.46
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.234.62
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.245.117
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.68.0
+Address: 104.17.249.146
 Name:	cfip.xxxxxxxx.tk
 Address: 104.21.231.64
 Name:	cfip.xxxxxxxx.tk
-Address: 104.18.14.250
+Address: 104.17.240.108
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.16.220
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.87.227
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	yh6.dtku41.xyz
-Address: 72.52.178.23
+Name:	www.kuaikan66.com
+Address: 74.63.241.25
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.40.11
+www.sf123.mobi	canonical name = sf123mobi.haofanghu123.com.
+sf123mobi.haofanghu123.com	canonical name = www.sf123.mobi.cdn.cloudflare.net.
+Name:	www.sf123.mobi.cdn.cloudflare.net
+Address: 172.67.214.14
+Name:	www.sf123.mobi.cdn.cloudflare.net
+Address: 104.21.86.20
+Name:	www.sf123.mobi.cdn.cloudflare.net
+Address: 2606:4700:3037::ac43:d60e
+Name:	www.sf123.mobi.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:5614
 
