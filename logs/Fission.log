@@ -20668,3 +20668,25 @@ Performing DNS lookup for www.sf123.mobi...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 99bb6a1] Update project files
+ 4 files changed, 66 insertions(+), 78 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   1684d78..99bb6a1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.230.190...
+Fetching domains for 104.18.3.127...
+Fetching domains for 104.18.222.128...
+succeed to fetch domains for 104.17.230.190 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.3.127 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.222.128 from https://ipchaxun.com/
+域名列表为
+['sell-api.goat.com', 'www.iios.club', 'www.a567dh.com', 'arkdyrywq.com', 'www.bingwang.cc', 'm.tvfff.com', 'mygo.gomarkets.com', 'download.good-system-network.com', 'conoha.jp', 'dlportal.good-game-network.com', 'www.955pa.com', 'www.jxayyy.com', 'x8d99.com', 'www.41114.tv', 'www.5676rr.com', 'download.good-game-network.com', 'gaze.run', 'book.doupoxs.com', 'www.sjzsckj.com', 'ssd345.com', 'nlsdwsz.66666654.xyz', 'www.x8d99.com', 'www.kxgdyw.com', '5676rr.com', 'www.txtbye.com', 'www.thekase.com', 'img.wubizigeng.com', 'goat.com', 'www.lyzdzy.com', 'www.xcyy696.com', 'hostinger.in', 'www.2678fo.com', 'www.yingshixiaoshuo.com', 'www.optomap.com', 'www.zongcaiwx.com', 'www.ssd345.com', 'www.x1g22.com', '955pa.com', 'www.pocketfives.com', 'x1g22.com', 'manage.conoha.jp', 'www.55xs.cc', 'www.tvccc.org', 'www.goat.com', 'www.85xs.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for goat.com...
+Performing DNS lookup for www.955pa.com...
+Performing DNS lookup for m.tvfff.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
