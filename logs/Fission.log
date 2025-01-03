@@ -20558,3 +20558,25 @@ Performing DNS lookup for 28et.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 160ba52] Update project files
+ 4 files changed, 91 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   11bdc8b..160ba52  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.231.44...
+Fetching domains for 104.17.241.84...
+Fetching domains for 104.17.235.82...
+succeed to fetch domains for 104.17.235.82 from https://site.ip138.com/
+succeed to fetch domains for 104.17.241.84 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.231.44 from https://ipchaxun.com/
+域名列表为
+['www.xingkbjm.com', 'www.cx888my.com', 'www.wuhuyh.net', 'fan.yutian.us.kg', 'btdad.best', 'www.yh9pk.com', 'www.ttamj.com', 'cloudflare.182682.xyz', 'gaze.run', 'www.sixyin.com', 'www.tvbgj.com', 'www.88wwk.com', 'www.tv9090.com', 'www.cocanwelding.com', 'www.kailida.net', 'amoebi.com', 'www.zhiqihuo.com', 'www.295k.com', 'www.91m.cc', 'www.75uw.com', 'www.tlbb888.com', 'www.c333.net', 'ipdb.rr.nu', 'www.dy420.com', 'www.luwangyangrong.com', 'www.nsisfans.com', 'www.33mov.com', 'www.jg666.top', 'www.xinpian8.com', 'm.niuerzs.com', 'cf.090227.xyz', 'www.kbss888.com', 'www.30hu.com', 'www.lyzdzy.com', 'www.tpyyc.com', '33mov.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cx888my.com...
+Performing DNS lookup for www.kbss888.com...
+Performing DNS lookup for www.cocanwelding.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
