@@ -20602,3 +20602,25 @@ Performing DNS lookup for dsxys.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 14e4dc2] Update project files
+ 4 files changed, 116 insertions(+), 16 deletions(-)
+ rewrite Fission_ip_backup.txt (91%)
+To github.com:amo0114/cfipv6.git
+   4a74a0b..14e4dc2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.166.167...
+Fetching domains for 104.18.185.155...
+Fetching domains for 104.17.255.49...
+succeed to fetch domains for 104.17.255.49 from https://site.ip138.com/
+succeed to fetch domains for 104.18.185.155 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.166.167 from https://ipchaxun.com/
+域名列表为
+['www.zlcq520.com', 'xfltd.net', 'www.kunzedu.com', 'www.cocanwelding.com', 'www.kbss888.com', '233dm.net', 'hyrzs.com', '01zj.com', 'www.hhyy028.com', 'www.tlbb888.com', 'www.gaycn.top', 'v.saohuotv.com', 'www.789kp.com', '789ys.com', 'www.cx888my.com', 'www.93xscc.com', 'www.biqune.com', 'www.cbcv.cc', 'www.999998.vip', 'yxy176.com', 'www.pk299.com', 'www.wubei520.com', 'cfip.xxxxxxxx.tk', 'www.xuanqishi.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.kbss888.com...
+Performing DNS lookup for www.xuanqishi.com...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
