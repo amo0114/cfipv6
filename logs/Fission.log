@@ -20690,3 +20690,25 @@ Performing DNS lookup for m.tvfff.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1c67cc8] Update project files
+ 4 files changed, 49 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   99bb6a1..1c67cc8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.115.183...
+Fetching domains for 104.19.149.12...
+Fetching domains for 104.17.119.8...
+succeed to fetch domains for 104.17.119.8 from https://site.ip138.com/
+succeed to fetch domains for 104.19.149.12 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.115.183 from https://ipchaxun.com/
+域名列表为
+['www.whpaiger.com', 'www.mp4so.com', 'cf.kycc-nodes.bike', 'www.wlyjy.cn', '919ku.com', 'www.xigua5.com', 'www.85xs.cc', 'm.niuerzs.com', 'www.lyzdzy.com', 'www.cocanwelding.com', 'www.nmhydz.com', 'www.ldssz.com', 'www.iios.club', 'www.yncareer.com', 'zhongguotv.com', 'www.zhenbuka3.com', 'dsxys.com', 'www.conrad.nl', 'www.50zw.co', 'uu93.com', '28et.com', 'www.6988tv.com', 'www.zglscom.com', 'www.zzztch.com', 'cfip.xxxxxxxx.tk', 'www.kunzedu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cf.kycc-nodes.bike...
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.kunzedu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
