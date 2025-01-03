@@ -20534,3 +20534,27 @@ Performing DNS lookup for cfa.zpro.pro...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 11bdc8b] Update project files
+ 4 files changed, 55 insertions(+), 58 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   cf3f011..11bdc8b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.53.242...
+Fetching domains for 104.17.231.9...
+Fetching domains for 104.17.225.131...
+succeed to fetch domains for 104.17.225.131 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.231.9 from https://ipchaxun.com/
+Error fetching domains for 104.22.53.242 from https://ipchaxun.com/: HTTPSConnectionPool(host='ipchaxun.com', port=443): Max retries exceeded with url: /104.22.53.242/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='ipchaxun.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 104.22.53.242...
+succeed to fetch domains for 104.22.53.242 from https://site.ip138.com/
+域名列表为
+['www.888dyy.cc', 'www.30hu.com', 'www.cfhuagong.com', 'creator.nightcafe.studio', 'www.91m.cc', 'www.qindixs.com', 'www.kanju8.com', 'www.nxyxzl.com', 'www.makerbot.com', 'www.nitianzw.com', '28et.com', 'scez.cn', 'www.qdbangsen.com', 'iios.club', 'cloudflare.cfgo.cc', 'www.zzztch.com', 'smlsy.com', '6988tv.com', 'www.kanunu2.com', 'www.scez.cn', 'cfip.xxxxxxxx.tk', 'images.makerbot.com', 'kan51.com', 'www.smlsy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.30hu.com...
+Performing DNS lookup for www.qindixs.com...
+Performing DNS lookup for 28et.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -1,24 +1,48 @@
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find www.30hu.com: NXDOMAIN
+Non-authoritative answer:
+www.cx888my.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.qindixs.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.63.3
-Name:	ips.993888.xyz
-Address: 104.17.180.180
-Name:	ips.993888.xyz
-Address: 104.17.112.182
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.25.1.161
+Name:	dcs.jqddos.xyz
+Address: 104.24.84.19
+Name:	dcs.jqddos.xyz
+Address: 104.16.125.207
+Name:	dcs.jqddos.xyz
+Address: 104.16.9.152
+Name:	dcs.jqddos.xyz
+Address: 104.24.85.46
+Name:	dcs.jqddos.xyz
+Address: 104.27.202.192
+Name:	dcs.jqddos.xyz
+Address: 104.17.215.95
+Name:	dcs.jqddos.xyz
+Address: 104.24.87.24
+Name:	dcs.jqddos.xyz
+Address: 104.16.45.212
+Name:	dcs.jqddos.xyz
+Address: 104.19.253.124
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find 28et.com: SERVFAIL
+Non-authoritative answer:
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
