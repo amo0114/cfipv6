@@ -20647,3 +20647,24 @@ Performing DNS lookup for www.lyzdzy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1684d78] Update project files
+ 4 files changed, 64 insertions(+), 32 deletions(-)
+To github.com:amo0114/cfipv6.git
+   13f42e4..1684d78  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.87.227...
+Fetching domains for 104.17.240.108...
+Fetching domains for 104.17.245.117...
+succeed to fetch domains for 104.17.245.117 from https://dnsdblookup.com/
+succeed to fetch domains for 104.25.87.227 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.240.108 from https://site.ip138.com/
+域名列表为
+['itdlt.com.cn', 'www.sf123.mobi', 'www.iios.me', 'www.elfinkart.com', 'cfip.xxxxxxxx.tk', 'www.kuaikan66.com', 'www.iios.club', 'www.652tv.com', 'www.lyzdzy.com', 'bk.jdkg.fun', 'www.91m.cc', 'www.yncareer.com', 'xuyan.cc', 'brjnz.com.cn', 'rkyru.com.cn', 'www.qilishusong.cn', 'www.75uw.com', 'www.btbdys.com', 'fpqpn.com.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for www.kuaikan66.com...
+Performing DNS lookup for www.sf123.mobi...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
