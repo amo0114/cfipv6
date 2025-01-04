@@ -2,47 +2,26 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.lvhuisb.com	canonical name = cf.zmdhc.com.
-Name:	cf.zmdhc.com
-Address: 172.67.188.58
-Name:	cf.zmdhc.com
-Address: 172.67.172.86
-Name:	cf.zmdhc.com
-Address: 172.67.8.62
-Name:	cf.zmdhc.com
-Address: 172.67.18.175
+Name:	mocaandyuki.xyz
+Address: 67.230.162.5
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.6988tv.com	canonical name = 6988tv.com.
-6988tv.com	canonical name = cf.cloudflare.182682.xyz.
-Name:	cf.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	cf.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	cf.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	cf.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
+Name:	writersgang.com
+Address: 162.255.119.64
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.yjeky.com
-Address: 154.219.142.235
+Name:	cytiva.com.cn
+Address: 104.18.40.183
+Name:	cytiva.com.cn
+Address: 172.64.147.73
+Name:	cytiva.com.cn
+Address: 2606:4700:4400::ac40:9349
+Name:	cytiva.com.cn
+Address: 2606:4700:4400::6812:28b7
 
