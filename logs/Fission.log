@@ -20712,3 +20712,24 @@ Performing DNS lookup for www.kunzedu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8e5ac2a] Update project files
+ 4 files changed, 57 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   1c67cc8..8e5ac2a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.24.242...
+Fetching domains for 104.19.157.12...
+Fetching domains for 198.41.212.41...
+succeed to fetch domains for 198.41.212.41 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.24.242 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.157.12 from https://ipchaxun.com/
+域名列表为
+['wap.sp6080.com', 'www.e0101.com', 'stock.hostmonit.com', 'spca.114514782.xyz', '6.namesilo123.top', 'www.4gdiy.com', 'jpee.sectigo.pp.ua', '28et.com', 'www.web120.org', 'www.11txt.com', 'baxtc.66666654.xyz', 'jhpcza.66666654.xyz', 'jpnewacs.114514782.xyz', 'www.6i5.com', 'yx.887141.xyz', '5.namesilo123.top', 'www.ddwhm.com', 'www.bjyongcheng.com', '606977.com', 'cfip.xxxxxxxx.tk', 'subodi.com', 'sg1.zzzzz.fn-node.site', 'bk.jdkg.fun', 'www.wxxzzs.com', 'speedip.tuyoyo.eu.org', 'www.qumiyun.com', 'www.4148.net', 'freeyx.cloudflare88.eu.org', 'aktv.top', 'www.yx521.net', 'v.ximei.love', 'zl.aitrjc.xyz', 'nlsdwsz.66666654.xyz', 'www.b7yy.cc', 'ayuer.com', 'www.uu93.com', '15.namesilo123.top', 'www.tinghen.com', 'www.55evd.com', 'www.hanmatv.com', 'www.lyzdzy.com', 'www.dafuhao.com', 'www.lewen5.com', '77dv.com', 'www.93xscc.com', 'speed.marisalnc.com', 'www.3c8848.com', 'www.99wxw.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.xinjuc.com', 'www.888dyy.cc', '4gdiy.com', 'www.home66.net', 'www.0550cq.com', '26.namesilo123.top', 'www.iios.club', 'www.whpaiger.com', '050500.xyz', 'm.niuerzs.com', 'fdvinacs.66666654.xyz', 'www.6988tv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 28et.com...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for stock.hostmonit.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -1,36 +1,39 @@
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find 28et.com: SERVFAIL
+Non-authoritative answer:
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.55.227
+Name:	ips.993888.xyz
+Address: 104.17.195.124
+Name:	ips.993888.xyz
+Address: 104.16.195.30
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+Name:	www.xdkrt.com
+Address: 103.37.2.242
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
+sj01.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a5.zz.nttkk.com.
+a5.zz.nttkk.com	canonical name = zoom.earth.
+Name:	zoom.earth
+Address: 104.26.5.90
+Name:	zoom.earth
+Address: 104.26.4.90
+Name:	zoom.earth
+Address: 172.67.68.56
+Name:	zoom.earth
+Address: 2606:4700:20::681a:55a
+Name:	zoom.earth
+Address: 2606:4700:20::681a:45a
+Name:	zoom.earth
+Address: 2606:4700:20::ac43:4438
 
