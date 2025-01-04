@@ -2,26 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	mocaandyuki.xyz
-Address: 67.230.162.5
+Name:	www.kunzedu.com
+Address: 103.88.187.196
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find www.91m.cc: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	writersgang.com
-Address: 162.255.119.64
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	cytiva.com.cn
-Address: 104.18.40.183
-Name:	cytiva.com.cn
-Address: 172.64.147.73
-Name:	cytiva.com.cn
-Address: 2606:4700:4400::ac40:9349
-Name:	cytiva.com.cn
-Address: 2606:4700:4400::6812:28b7
+Name:	achk.cloudflarest.link
+Address: 104.247.82.50
 

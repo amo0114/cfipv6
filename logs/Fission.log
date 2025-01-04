@@ -20875,3 +20875,25 @@ Performing DNS lookup for www.yjeky.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 51260d1] Update project files
+ 4 files changed, 59 insertions(+), 64 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   a3e5071..51260d1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.179.91...
+Fetching domains for 104.18.37.63...
+Fetching domains for 104.18.183.68...
+succeed to fetch domains for 104.18.37.63 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.183.68 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.179.91 from https://dnsdblookup.com/
+域名列表为
+['www.yjys05.com', 'www.asfcends.tk', 'amtdiecasting.com', 'vistaprint.ch', 'tunecore.it', 'www.16888cs.cn', '67kcp.ws', 'www.iios.club', 'www.genial.al', '8x518.com', 'marathonbet.com', 'cfip.xxxxxxxx.tk', 'www.gunaideluntai.com', 'cytiva.com.cn', 'm1.jmss9.com', 'www.xjiujiu99.com', 'www.8x518.com', 'm6y6.com', 'www.marathonbet.com', 'gunaideluntai.com', 'www.ole.com.ar', 'www.videossa.com', 'www.vistaprint.ch', 'mocaandyuki.xyz', 'm.xiee33.cc', 'www.amtdiecasting.com', 'yyw17.com', 'theekkathir.in', 'www.tpyyc.com', 'pttman.com', 'www.yyw17.com', 'ysz8.com', 'www.bbyyj.top', 'm3u8131.yhdmm3u8.top', 'avk87.com', 'www.avk87.com', 'tccwrc.cn', 'mobile.marathonbet.com', 'apkdownloadforandroid.com', 'www.sixyin.com', 'www.sigua07.cc', 'videossa.com', 'www.ebgames.com.au', 'ebgames.com.au', '000075.com', 'shiya988.com', 'jinmengwenshi.com', 'writersgang.com', 'incesto69.com', 'www.kbss888.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for mocaandyuki.xyz...
+Performing DNS lookup for writersgang.com...
+Performing DNS lookup for cytiva.com.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
