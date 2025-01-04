@@ -2,20 +2,60 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
-
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
-
-** server can't find www.28et.com: SERVFAIL
+Name:	www.freepornx.org
+Address: 104.21.235.179
+Name:	www.freepornx.org
+Address: 104.21.235.180
+Name:	www.freepornx.org
+Address: 2606:4700:3038::6815:ebb4
+Name:	www.freepornx.org
+Address: 2606:4700:3038::6815:ebb3
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	pic.wbdy.tv
-Address: 37.48.65.154
+www.xiaoshuofen.com	canonical name = ips.333600.xyz.
+ips.333600.xyz	canonical name = fib.322555.xyz.
+Name:	fib.322555.xyz
+Address: 104.21.64.1
+Name:	fib.322555.xyz
+Address: 104.21.16.1
+Name:	fib.322555.xyz
+Address: 104.21.32.1
+Name:	fib.322555.xyz
+Address: 104.21.112.1
+Name:	fib.322555.xyz
+Address: 104.21.80.1
+Name:	fib.322555.xyz
+Address: 104.21.48.1
+Name:	fib.322555.xyz
+Address: 104.21.96.1
+Name:	fib.322555.xyz
+Address: 2606:4700:3030::6815:4001
+Name:	fib.322555.xyz
+Address: 2606:4700:3030::6815:6001
+Name:	fib.322555.xyz
+Address: 2606:4700:3030::6815:3001
+Name:	fib.322555.xyz
+Address: 2606:4700:3030::6815:1001
+Name:	fib.322555.xyz
+Address: 2606:4700:3030::6815:5001
+Name:	fib.322555.xyz
+Address: 2606:4700:3030::6815:2001
+Name:	fib.322555.xyz
+Address: 2606:4700:3030::6815:7001
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	psychopass.com
+Address: 104.21.235.179
+Name:	psychopass.com
+Address: 104.21.235.180
+Name:	psychopass.com
+Address: 2606:4700:3038::6815:ebb3
+Name:	psychopass.com
+Address: 2606:4700:3038::6815:ebb4
 

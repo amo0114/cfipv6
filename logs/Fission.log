@@ -20755,3 +20755,25 @@ Performing DNS lookup for sj01.nttkk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ad4989f] Update project files
+ 4 files changed, 52 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   4106f5e..ad4989f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.229.113...
+Fetching domains for 104.17.230.112...
+Fetching domains for 104.17.239.215...
+succeed to fetch domains for 104.17.230.112 from https://site.ip138.com/
+succeed to fetch domains for 104.17.239.215 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.229.113 from https://ipchaxun.com/
+域名列表为
+['www.zhiruolan.com', 'www.whpaiger.com', 'pic.wbdy.tv', 'www.zzztch.com', 'www.lyzdzy.com', 'www.28et.com', 'www.we35.com', 'm.niuerzs.com', 'www.iios.club', 'wbdy.tv']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for www.28et.com...
+Performing DNS lookup for pic.wbdy.tv...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
