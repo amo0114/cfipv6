@@ -2,38 +2,20 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.55.227
-Name:	ips.993888.xyz
-Address: 104.17.195.124
-Name:	ips.993888.xyz
-Address: 104.16.195.30
+Name:	www.whpaiger.com
+Address: 162.209.149.30
+
+;; Got SERVFAIL reply from 8.8.8.8, trying next server
+;; Got SERVFAIL reply from 8.8.4.4, trying next server
+Server:		2001:4860:4860::8888
+Address:	2001:4860:4860::8888#53
+
+** server can't find www.28et.com: SERVFAIL
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.xdkrt.com
-Address: 103.37.2.242
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-sj01.nttkk.com	canonical name = a1.nttkk.com.
-a1.nttkk.com	canonical name = a5.zz.nttkk.com.
-a5.zz.nttkk.com	canonical name = zoom.earth.
-Name:	zoom.earth
-Address: 104.26.5.90
-Name:	zoom.earth
-Address: 104.26.4.90
-Name:	zoom.earth
-Address: 172.67.68.56
-Name:	zoom.earth
-Address: 2606:4700:20::681a:55a
-Name:	zoom.earth
-Address: 2606:4700:20::681a:45a
-Name:	zoom.earth
-Address: 2606:4700:20::ac43:4438
+Name:	pic.wbdy.tv
+Address: 37.48.65.154
 
