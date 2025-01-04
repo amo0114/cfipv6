@@ -20831,3 +20831,25 @@ Performing DNS lookup for www.88wwk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 65cb698] Update project files
+ 4 files changed, 65 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   0dee0ef..65cb698  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.4.28...
+Fetching domains for 172.67.72.213...
+Fetching domains for 104.17.236.82...
+succeed to fetch domains for 104.18.4.28 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.72.213 from https://site.ip138.com/
+succeed to fetch domains for 104.17.236.82 from https://dnsdblookup.com/
+域名列表为
+['www.xinyi176.com', 'dzy66666.com', 'sougou.shurufacc.top', 'www.tinghen.com', 'www.wenxueyuedu.com', 'www.x1k88.com', '6xr.com', 'www.6677ah.com', 'cfip.xxxxxxxx.tk', 'www.shy6666.com', 'u.cornershopapp.com', 'shy6666.com', 'yyxycn.com', 'www.6i5.com', 'cornershopapp.com', 'www.zzztch.com', 'cf.getcdn.net', 'www.7sc.cc', '500000.xyz', 'www.jyyz.cn', 'klll.anhisq.com', '7.nf', 'www.kbss888.com', 'www.jg666.top', 'www.yjys05.com', 'www.77moyu.com', 'e2223d.com', 'catgirl.io', '7mlx.com', 'www.yh9pk.com', 'www.66amy.com', 'www.leetcode.com', 'www.ququxiaoshuo.com', 'acjp2.cloudflarest.link', 'gerb.bg', 'm.djihuo.com', 'xz.8ce.cn', 'www.7lq.com', 'www.99wx.cc', 'www.x1j22.com', '52jpzy.com', 'www.8877fz.com', 'pic.wenku8.com', 'www.lailai360.com', 'www.2002my.com', 'www.4hukk54.com', 'cf.krkr.vip', 'www.bt4kyy.com', 'www.88viptl.com', 'about.above.pp.ua', 'dy.xfltd.net', 'www.hnxinlian.org', 'dutchie.com', 'www.pk8888.top', 'www.nwtlbb.cn', 'web.cornershopapp.com', 'dsxys.pro', 'www.7749tv.com', 'cvapp.fi', '8877fz.com', 'www.sixyin.com', 'www.nst.com.my', 'www.auv176.com', '114514.1919180.xyz', 'www.yellowtrace.com.au', 'www.tx58tl.com', 'www.xjiujiu99.com', 'www.iios.club', 'www.xinpian8.com', 'x1k88.com', 'xjiujiu99.com', 'cryptoquant.com', 'www.pk299.com', '111.app2023.top', 'assets.leetcode.com', 'pk299.com', 'www.5522tl.com', 'www.521sg.com', 'www.ddwhm.com', 'www.huakai2018.com', 'www.555558f.com', 'x1j22.com', 'www.lycamobile.co.uk', 'www.catgirl.io', 'www.b1b11.com', 'dl2.wenku8.com', 'zi0.cc', 'www.96dushu.com', 'www.33mov.com', 'www.881dy.com', '2.jiedianv2go.top', 'yjys05.com', 'www.xiuluo942.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.k77yy.com', 'www.tockt.com', 'www.52110my.com', 'leetcode.com', 'www.nangua55.com', 'ip.woao.xyz', 'xfltd.net', 'www.hhyy028.com', '4hukk54.com', 'www.88wwk.com', 'bbs.cxthhhhh.com', 'www.lol566.com', 'www.e2223d.com', 'kx87.com', 'www.50zw.co', 'odc.cxthhhhh.com', 'cf1.515188.xyz', 'iios.club', 'www.93xscc.com', 'www.yy4080dy.com', 'mir1001.com', 'www.nitianxieshen.com', 'yt9995.c2.hycdn.xyz', 'www.rxjh520.cc', 'www.baglovein.com', 'www.7277tl.com', '6677ah.com', 'www.hcq170.com', 'www.jinwanchiji.top', 'www.whpaiger.com', 'wenku8.cc', 'www.knvod.com', 'www.717zfsf.com', 'www.kx87.com', 'www.dzy66666.com', 'www.xiaketl.xyz', 'www.91x.tv', 'www.wenku8.net', 'www.xkx999.com', 'www.cxthhhhh.com', 'www.807dm.com', 'www.lyzdzy.com', 'www.4234aa.com', 'www.bjyongcheng.com', 'www.6xr.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yyxycn.com...
+Performing DNS lookup for 500000.xyz...
+Performing DNS lookup for www.lyzdzy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
