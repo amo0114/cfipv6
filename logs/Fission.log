@@ -20897,3 +20897,25 @@ Performing DNS lookup for cytiva.com.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8ff0cb7] Update project files
+ 4 files changed, 49 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   51260d1..8ff0cb7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.153.61...
+Fetching domains for 104.17.217.28...
+Fetching domains for 104.18.84.153...
+succeed to fetch domains for 104.18.84.153 from https://site.ip138.com/
+succeed to fetch domains for 104.17.217.28 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.153.61 from https://dnsdblookup.com/
+域名列表为
+['www.kunzedu.com', 'cfcdn3.sanfencdn9.com', 'www.652tv.com', 'www.2v8d.com', 'www.zongcaiwx.com', 'www.quanben360.com', 'cfip.xxxxxxxx.tk', 'www.nitianxieshen.com', 'www.91m.cc', 'www.99wxw.cc', 'www.wn04.cc', 'www.huakai2018.com', 'achk.cloudflarest.link']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.kunzedu.com...
+Performing DNS lookup for www.91m.cc...
+Performing DNS lookup for achk.cloudflarest.link...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
