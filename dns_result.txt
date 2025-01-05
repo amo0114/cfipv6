@@ -2,20 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.mujkoberec.cz
-Address: 185.64.216.6
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.2tu.co
-Address: 69.16.230.165
+Name:	www.lyzdzy.com
+Address: 208.98.43.131
 
-;; Got SERVFAIL reply from 8.8.8.8, trying next server
-;; Got SERVFAIL reply from 8.8.4.4, trying next server
-Server:		2001:4860:4860::8888
-Address:	2001:4860:4860::8888#53
+Server:		8.8.8.8
+Address:	8.8.8.8#53
 
-** server can't find www.21nx.com: SERVFAIL
+Non-authoritative answer:
+www.77zw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.48.168
+Name:	ips.993888.xyz
+Address: 104.17.26.107
+Name:	ips.993888.xyz
+Address: 104.17.56.124
 

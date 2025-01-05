@@ -21051,3 +21051,25 @@ Performing DNS lookup for zhenbuka666.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cc45656] Update project files
+ 4 files changed, 51 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (96%)
+To github.com:amo0114/cfipv6.git
+   6f21e30..cc45656  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.54.15...
+Fetching domains for 104.18.63.121...
+Fetching domains for 104.18.31.83...
+succeed to fetch domains for 104.22.54.15 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.31.83 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.63.121 from https://site.ip138.com/
+域名列表为
+['at99twd.com', 'evo6666.com', 'www.agdaily.com', 'master.vns8vip.online', 'u30c.com', 'www.vns8sp.com', 'nlsdwsz.66666654.xyz', 'vns8l.com', 'www.1231nn.com', 'www.laowang.co', '21nx.com', 'a456pa.com', 'www.wn05.cc', 'www.5509345.com', '5509sx.com', 'www.nordvpnzh.info', 'yooread.net', 'www.mujkoberec.cz', 'www.2789pu.com', 'www.96dnb.com', 'timi98.com', 'm.5509345.com', 'vns8ww.com', 'www.416ww.com', 'www.zjd873.icu', '789ys.com', '5509hb.com', 'www.5509bet04.com', 'www.at99.io', 'cf.090227.xyz', 'moecat.best', 'video.parawap.com', '99wx.cc', 'www.xedq8.com', 'www.cf6080.com', 'www.wgtvip.com', 'm.niuerzs.com', 'www.gg721.com', 'www.empregoeformacao.com', 'www.590uu.com', 'www.iios.club', 'www.mytvsuper.xyz', 'at99tw.com', 'www.2tu.co', 'www.sex5hwdq.com', '966xi.com', 'c.sf-syn.com', 'natlallergy.com', 'gg721.com', 'www.yjys05.com', 'www.timi98.com', '416ww.com', '1231nn.com', 'mephim.net', 'b5c99.com', 'www.ddwhm.com', 'www.wgt99.com', 'www.summerpockets.com', 'shop.afrique.kaspersky.com', 'ksl69.xndmfiw59.pro', 'www.5509dh.com', 'www.hilinktech.com', 'at99.io', '810160.com', 'www.wn01.cc', '590uu.com', 'baxtc.66666654.xyz', '96dnb.com', 'www.parawap.com', 'hicao37.com', 'www.biqune.com', 'www.966xi.com', 'empregoeformacao.com', 'www.sf123.mobi', 'www.21nx.com', 'thyl888.com', 'thyl999.com', 'tv.gaofentv.com', 'xfltd.net', 'www.51tthxg.com', '777bet88.com', 'www.iios.me', 'jzz1c.xndmfiw59.pro', 'xedq8.com', 'bt.btdad3.xyz', 'm.xedq8.com', 'vns8sp.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.mujkoberec.cz...
+Performing DNS lookup for www.2tu.co...
+Performing DNS lookup for www.21nx.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
