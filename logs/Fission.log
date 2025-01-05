@@ -21008,3 +21008,25 @@ Performing DNS lookup for www.compiere.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b43261e] Update project files
+ 4 files changed, 98 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   ef8d210..b43261e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.8.128...
+Fetching domains for 104.21.224.193...
+Fetching domains for 104.21.238.78...
+succeed to fetch domains for 104.26.8.128 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.238.78 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.224.193 from https://dnsdblookup.com/
+域名列表为
+['www.xworldadmin.com', 'yx.sulink.one', 'service.motc.gov.mm', 'www.ddwhm.com', 'www.b6c6.com', 'gg678.com', 'lahora.gt', 'speed.marisalnc.com', 'wz.weishao2023.uk.eu.org', 'mob-1.com', 'www.yqkbook.com', 'go.wumaojichang.com', 'www.97hjw.com', 'clun.top', 'www.hamuzi.com', 'api.caiyuanguangjin.xyz', 'www.huakai2024.com', 'best.cdn.sqeven.cn', 'yyheli.cn', 'motc.gov.mm', 'www.19yolo.com', 'www.qiqi888.com', 'wap.luwangyangrong.com', 'www.6dm.cc', 'achk.cloudflarest.link', 'www.cn46.com', 'jp02.nttkk.com', 'www.tv7box.com', 'www.wei333.com', 'www.765my.com', 'www.kkkab.com', 'i.she.vc', 'hg2566.biz', 'www.ccget.cc', 'www.luwangyangrong.com', 'www.bj-cnpl.com', 'www.1a1v.com', 'www.295k.com', 'rwrwd.a1.nn5508.com', 'www.meiju7.com', 'www.wn05.cc', 'm.niuerzs.com', 'geeky-gadgets.com', 'www.cn565.com', 'capasdetelemoveis.pt', 'www.45zw.org', 'www.52dgm.cn', 'www.bamapolitics.com', 'www.tichain.cc', 'www.lyzdzy.com', 'www.jqb.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.zzztch.com', 'www.motc.gov.mm', 'www.gg678.com', 'www.983tv.com', 'www.91m.cc', 'www.66se11.com', 'www.yctianze.com', 'www.geeky-gadgets.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jp02.nttkk.com...
+Performing DNS lookup for best.cdn.sqeven.cn...
+Performing DNS lookup for api.caiyuanguangjin.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
