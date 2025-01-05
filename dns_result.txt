@@ -2,29 +2,36 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+Name:	xvideos.boypaly.com
+Address: 103.224.182.253
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-kibana.op-mobile.opera.com	canonical name = kibana.op-mobile.opera.com.cdn.cloudflare.net.
-Name:	kibana.op-mobile.opera.com.cdn.cloudflare.net
-Address: 104.18.25.215
-Name:	kibana.op-mobile.opera.com.cdn.cloudflare.net
-Address: 104.18.24.215
+Name:	www.tour-beijing.com
+Address: 104.26.9.249
+Name:	www.tour-beijing.com
+Address: 104.26.8.249
+Name:	www.tour-beijing.com
+Address: 172.67.70.228
+Name:	www.tour-beijing.com
+Address: 2606:4700:20::ac43:46e4
+Name:	www.tour-beijing.com
+Address: 2606:4700:20::681a:8f9
+Name:	www.tour-beijing.com
+Address: 2606:4700:20::681a:9f9
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
-** server can't find tengbo850.com: NXDOMAIN
+Non-authoritative answer:
+Name:	coinbene.com
+Address: 172.67.133.19
+Name:	coinbene.com
+Address: 104.21.13.192
+Name:	coinbene.com
+Address: 2606:4700:3032::ac43:8513
+Name:	coinbene.com
+Address: 2606:4700:3036::6815:dc0
 
