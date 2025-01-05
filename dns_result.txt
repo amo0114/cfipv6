@@ -2,25 +2,18 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	zgwangzhan.com
+Address: 154.218.103.176
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find m.ulzdk.com: NXDOMAIN
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.43.131
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-www.77zw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.48.168
-Name:	ips.993888.xyz
-Address: 104.17.26.107
-Name:	ips.993888.xyz
-Address: 104.17.56.124
+Name:	www.zzztch.com
+Address: 208.98.43.13
 
