@@ -20919,3 +20919,25 @@ Performing DNS lookup for achk.cloudflarest.link...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b78ecc0] Update project files
+ 4 files changed, 250 insertions(+), 14 deletions(-)
+ rewrite Fission_ip_backup.txt (89%)
+To github.com:amo0114/cfipv6.git
+   8ff0cb7..b78ecc0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.148.232...
+Fetching domains for 104.17.157.226...
+Fetching domains for 104.17.173.8...
+succeed to fetch domains for 104.17.157.226 from https://site.ip138.com/
+succeed to fetch domains for 104.19.148.232 from https://site.ip138.com/
+succeed to fetch domains for 104.17.173.8 from https://site.ip138.com/
+域名列表为
+['www.99wx.cc', 'www.zzztch.com', 'pkbet.am', 'ipdb.rr.nu', 'www.52dym.com', 'www.cocanwelding.com', 'www.wjxbj.com', 'cfip.xxxxxxxx.tk', 'www.lyzdzy.com', 'www.93xscc.com', 'www.cfhuagong.com', 'www.wei333.com', 'i.she.vc', 'www.2bfz.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'm.niuerzs.com', 'www.99wxw.cc', 'cfcdn1.sanfencdn9.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfcdn1.sanfencdn9.com...
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for ipdb.rr.nu...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
