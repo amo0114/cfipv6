@@ -2,36 +2,28 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	xvideos.boypaly.com
-Address: 103.224.182.253
+Name:	www.zzztch.com
+Address: 208.98.43.139
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.tour-beijing.com
-Address: 104.26.9.249
-Name:	www.tour-beijing.com
-Address: 104.26.8.249
-Name:	www.tour-beijing.com
-Address: 172.67.70.228
-Name:	www.tour-beijing.com
-Address: 2606:4700:20::ac43:46e4
-Name:	www.tour-beijing.com
-Address: 2606:4700:20::681a:8f9
-Name:	www.tour-beijing.com
-Address: 2606:4700:20::681a:9f9
+www.5k2m.com	canonical name = y.lmfjk.shop.
+y.lmfjk.shop	canonical name = chzko.c4bla.bond.
+Name:	chzko.c4bla.bond
+Address: 172.67.219.29
+Name:	chzko.c4bla.bond
+Address: 104.21.62.29
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3034::6815:3e1d
+Name:	chzko.c4bla.bond
+Address: 2606:4700:3030::ac43:db1d
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	coinbene.com
-Address: 172.67.133.19
-Name:	coinbene.com
-Address: 104.21.13.192
-Name:	coinbene.com
-Address: 2606:4700:3032::ac43:8513
-Name:	coinbene.com
-Address: 2606:4700:3036::6815:dc0
+Name:	www.compiere.com
+Address: 147.183.2.79
 

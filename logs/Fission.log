@@ -20964,3 +20964,25 @@ Performing DNS lookup for tengbo850.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5bd00d1] Update project files
+ 4 files changed, 71 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   b1166fa..5bd00d1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.70.228...
+Fetching domains for 104.16.231.231...
+Fetching domains for 104.18.24.175...
+succeed to fetch domains for 104.18.24.175 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.231.231 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.70.228 from https://dnsdblookup.com/
+域名列表为
+['do.22yy5.com', 'www.223ss.com', 'openapi-exchange.coinbene.com', 'www.ax7.com', 'livesexhouse.com', 'www.51jion.com', 'www.prk678.com', 'laxdscaa.76898102.xyz', 'www.manhuadb.com', 'freeyx.cloudflare88.eu.org', 'prk678.com', 'www.x3c77.com', 'x3c77.com', '9ee79.dzydvod.xyz', 'ipdb.rr.nu', 'www.coinbene.com', 'www.amt26.com', 'ax7.com', 'answear.ro', 'xvideos.boypaly.com', 'hoy.tv', 'www.tour-beijing.com', 'identity.getpostman.com', 'www.99dd38.com', 'a.coinbene.com', 'cfip.xxxxxxxx.tk', 'www.paizipai.top', 'www.11txt.com', 'sgaa.sectigo.pp.ua', 'hoy.tv.cdn.cloudflare.net', 'www.collibra.com', 'macvbb.555556789.xyz', 'school.xn--vjqp6xkwblzeyv2h.cn', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.6781uu.com', 'www.ai2moe.org', 'coinbene.com', 'www.lyzdzy.com', 'www.kungal.com', 'bazhan.wang', 'www.boedon.com', 'www.czzwl.com', '88p.tv', 'stock.hostmonit.com', 'www.dafuhao.com', 'xcyy696.com', 'www.wn01.uk', 'go.wumaojichang.com', 'tour-beijing.com', 'www.v2raz.vip', 'speed.marisalnc.com', 'jhpcza.66666654.xyz', 'www.tinghen.com', 'boedon.com', 'sydneytoday.com', 'dl.lsc.rs', 'www.livesexhouse.com', 'www.4hujj23.com', 'www.sydneytoday.com', 'www.hoy.tv', 'www.oaksmart.com', 'openapi-contract.coinbene.com', 'jpvsavhyu.76898102.xyz', 'www.xkyy899.com', 'www.xcyy696.com', 'amt26.com', 'baxtc.66666654.xyz', 'www.cbcv.cc', 'www.163my.com', 'cc11gg.com', 'www.b7yy.cc', 'www.cc11gg.com', '99dd38.com', 'www.hoy.tv.cdn.cloudflare.net', '4hujj23.com', 'tu.bd2020.com', 'nlsdwsz.66666654.xyz', 'www.djasheng.com', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for xvideos.boypaly.com...
+Performing DNS lookup for www.tour-beijing.com...
+Performing DNS lookup for coinbene.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
