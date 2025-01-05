@@ -2,18 +2,25 @@ Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	zgwangzhan.com
-Address: 154.218.103.176
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-** server can't find m.ulzdk.com: NXDOMAIN
+Name:	www.75uw.com
+Address: 23.225.148.166
 
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 208.98.43.13
+Name:	www.nangua55.com
+Address: 74.63.241.20
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.zongcaixs.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.118.31
+Name:	ips.993888.xyz
+Address: 104.17.27.93
+Name:	ips.993888.xyz
+Address: 104.17.216.40
 

@@ -21095,3 +21095,25 @@ Performing DNS lookup for www.77zw.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0049d0f] Update project files
+ 4 files changed, 49 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   61a6e0b..0049d0f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.157.74...
+Fetching domains for 104.17.146.239...
+Fetching domains for 104.19.155.167...
+succeed to fetch domains for 104.19.157.74 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.146.239 from https://ipchaxun.com/
+succeed to fetch domains for 104.19.155.167 from https://ipchaxun.com/
+域名列表为
+['zgwangzhan.com', 'www.zzztch.com', 'www.zongcaiwx.com', 'www.wei333.com', '789kp.com', 'www.longwangchuanshuo.com', 'cf.yx.alue.link', 'www.751ii.com', 'www.zgwangzhan.com', 'www.85xscc.com', '751ii.com', 'fhyjm.cn', 'm.niuerzs.com', 'm.e99w.com', 'm.ulzdk.com', '778992.com', 'hljlinuo.com', 'www.789kp.com', 'www.aikmha.com', 'speedip.tuyoyo.eu.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for zgwangzhan.com...
+Performing DNS lookup for m.ulzdk.com...
+Performing DNS lookup for www.zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
