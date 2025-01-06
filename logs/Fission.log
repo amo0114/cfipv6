@@ -21249,3 +21249,25 @@ Performing DNS lookup for www.oliviaburton.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c48a8c7] Update project files
+ 4 files changed, 52 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   08d0cd2..c48a8c7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.19.192...
+Fetching domains for 104.18.20.40...
+Fetching domains for 104.22.53.57...
+succeed to fetch domains for 104.18.19.192 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.53.57 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.20.40 from https://ipchaxun.com/
+域名列表为
+['www.qiuxiaw.com', 'www.xinjuc.com', 'dsxys.com', 'www.cnbcindonesia.com', 'www.iios.club', 'aac23.com', 'www.x8c33.com', 'i.otto.de', 'code.openhub.net', 'www.getyourguide.co.uk', '4455xv.com', 'www.4455xv.com', 'images.mcmworldwide.com', 'www.b1j11.com', 'www.bbd26.com', 'a456v.com', '2342aa.com', 'openhub.com', 'acjp2.cloudflarest.link', 'cf1.492745.xyz', 'www.honest-1.com', 'yunwei-ts.com', 'www.electronic-star.bg', 'cnbcindonesia.com', 'www.2342aa.com', '4hut35.com', 'www.aac23.com', 'openhub.net', 'www.4huyy552.com', 'www.a456v.com', 'www.africa.atkearney.com', 'b1j11.com', 'getyourguide.co.uk', '25hha.com', 'bk.jdkg.fun', 'acus.cloudflarest.link', 'www.x8n44.com', 'www.25hha.com', 'www.speelspelletjes.nl', 'wpfanyi.com', 'media.boohoo.com', 'pan.axxpan.com', 'www.hmoeh.com', 'bbd26.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for acus.cloudflarest.link...
+Performing DNS lookup for 2342aa.com...
+Performing DNS lookup for bk.jdkg.fun...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
