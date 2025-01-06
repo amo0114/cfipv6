@@ -21117,3 +21117,24 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9428259] Update project files
+ 4 files changed, 45 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   0049d0f..9428259  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.170.26...
+Fetching domains for 104.17.166.15...
+Fetching domains for 104.17.155.162...
+succeed to fetch domains for 104.17.170.26 from https://site.ip138.com/
+succeed to fetch domains for 104.17.166.15 from https://site.ip138.com/
+succeed to fetch domains for 104.17.155.162 from https://ipchaxun.com/
+域名列表为
+['www.xwsxs.com', 'www.nangua55.com', 'www.nxyxzl.com', 'kk554.com', 'www.dmbj.cc', 'www.75uw.com', 'www.6988tv.com', 'dm84.tv', 'www.cocanwelding.com', 'www.zongcaixs.cc', 'www.yyxxi.com', 'www.zzztch.com', 'www.lyzdzy.com', 'www.kanunu2.com', 'm.6988tv.com', 'www.77zw.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.75uw.com...
+Performing DNS lookup for www.nangua55.com...
+Performing DNS lookup for www.zongcaixs.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
