@@ -21227,3 +21227,25 @@ Performing DNS lookup for www.881dy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 08d0cd2] Update project files
+ 4 files changed, 63 insertions(+), 57 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   89c8cad..08d0cd2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.53.57...
+Fetching domains for 104.17.69.184...
+Fetching domains for 104.18.15.133...
+succeed to fetch domains for 104.17.69.184 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.15.133 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.53.57 from https://site.ip138.com/
+域名列表为
+['www.cocanwelding.com', 'x503i.com', 'www.dd77hh.com', '215po.com', 'wpfanyi.com', 'raw.gitmirror.com', 'dd77hh.com', 'bufhe.cc', '4huqq06.com', 'playing.io', 'oliviaburton.com', 'www.oliviaburton.com', 'www.z777c.com', 'fangkeyun6.com', 'www.215po.com', 'www.zgwangzhan.com', 'www.x503i.com', 'www.nba01.com', 'www.a456sb.com', 'zhuti.icu', 'www.ashdown-ingram.com.au', 'cf1.492745.xyz', 'z777c.com', 'www.sp6080.cc', 'www.playing.io', 'x7n33.com', 'a456sb.com', 'www.4563hh.com', 'www.huakai2018.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for zhuti.icu...
+Performing DNS lookup for www.z777c.com...
+Performing DNS lookup for www.oliviaburton.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
