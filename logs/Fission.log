@@ -21271,3 +21271,24 @@ Performing DNS lookup for bk.jdkg.fun...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0ea2d43] Update project files
+ 4 files changed, 50 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   c48a8c7..0ea2d43  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.29.165...
+Fetching domains for 104.22.55.109...
+Fetching domains for 104.18.20.118...
+succeed to fetch domains for 104.18.20.118 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.55.109 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.29.165 from https://ipchaxun.com/
+域名列表为
+['www.zjvxflxd.top', 'football5star.com', 'www.fulimir.cn', 'account.poolin.one', 'pe108.com', 'websso.vscocorp.com', 'hj57ecc.top', '559cf.com', '7650088.com', 'www.archiproducts.com', 'wap.zjvxflxd.top', 'static.archiproducts.com', 'www.559cf.com', '4hu22a.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'hgled18.com', 'k37s.com', 'freeyx.cloudflare88.eu.org', 'teambuilding.com', 'zjvxflxd.top', 'www.whpaiger.com', 'archiproducts.com', 'www.bbm14.com', 'fb368.com', 'www.yw664.com', 'www.poolin.one', 'www.9789p.net', 'www.hgled18.com', '9486592.com', 'www.meupatrocinio.com', 'm.zjvxflxd.top', '1.namesilo123.top', 'v.archiproducts.com', 'wap.psxphl.top', 'pwcs.staging.elcomcms.com', '837614.com', 'g0103.91p51.live', 'www.4hu22a.com', 'www.mintoutech.com', 'www.huitianservice.com', 'nvjtifbnwjb.xyz', 'www.cbre.com', 'defirate.com', 'lykb10.xyz', 'js8098.com', 'm.011001000.com', 'm.archiproducts.com', 'cpjll.cleanhands.com.ua', 'www.clinicalpainadvisor.com', 'uu847.com', '916zzz.net', 'csgolounge.com', 'legacy.archiproducts.com', '12880.net', 'mr44av.cc', '18687.info', 'kuaikan66.com', 'pumas.life', 'www.10zhanpai.com', 'www.bt278.com', '558ww.com', 'revit.archiproducts.com', 'www.ordlawfirm.com', 'qysjbg.com', 'mintoutech.com', '3g.psxphl.top', 'imtoken-v5.uno', 'www.hguodu.info', 'app.trxtrcs.com', 'xxss11.xyz', 'www.558ww.com', 'hguodu.info', 'hulu101.live', 'www.yzqwj.com', 'meupatrocinio.com', 'psxphl.top', 'www.solardaily.com', 'www.57txt.com', 'test.archiproducts.com', 'solardaily.com', 'yw664.com', 'library.archiproducts.com', 'www.91m.cc', 'o165m.com', 'thep364.cc', 'www.einsure.com.tw', 'www.aa3bf.com', 'www.seoqq.com.cn', 'www.55xs.cc', 'trxtrcs.com', 'uawei.cf', 'm.psxphl.top', 'www.football5star.com', 'api-prod.poolin.one', '3g.zjvxflxd.top', 'crm.einsure.com.tw', 'burmese.asia', 'bbm14.com', '011001000.com', 'www.nawbl.com', 'luxurytopfashion.ru', 'aa3bf.com', 'qi3.xyz', 'www.011001000.com', 'scihub.unblockit.zip', 'www.ozonxia.net', 'letoutoucoupetout.be', 'mbt-11.com', 'hg2877.com', 'up.91p51.live', 'seoqq.com.cn', 'www.longwangchuanshuo.com', '10zhanpai.com', 'eauction.uamulet.com', 'jh28c.com', 'ff319.com', 'www.pe108.com', '8mei567.xyz', 'm.hguodu.info']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for websso.vscocorp.com...
+Performing DNS lookup for www.bt278.com...
+Performing DNS lookup for qysjbg.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
