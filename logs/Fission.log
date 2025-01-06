@@ -21206,3 +21206,24 @@ Performing DNS lookup for cxcnctech.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 89c8cad] Update project files
+ 4 files changed, 66 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   ca098c3..89c8cad  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.70.224...
+Fetching domains for 104.18.0.233...
+Fetching domains for 190.93.247.148...
+succeed to fetch domains for 104.18.0.233 from https://site.ip138.com/
+succeed to fetch domains for 190.93.247.148 from https://site.ip138.com/
+succeed to fetch domains for 104.18.70.224 from https://ipchaxun.com/
+域名列表为
+['hongkong.qing1999.eu.org', 'uu93.com', '0550cq.com', 'www.zhexintang.com', 'www.web120.org', '92bn.com', 'invegahafyerahcp.com', 'www.ty88899.com', 'www.yzhma.com', 'www.295k.com', 'shop.redcross.org.au', '36dm.com', 'wei333.com', 'www.kwok7.com', 'kaledtech.com', 'www.nitianxieshen.com', 'api.geckoterminal.com', 'kwok7.com', 'www.tv9090.com', 'image.elonlo.top', 'm.0550cq.com', 'my.bandwidth.com', 'www.tuozhan22.com', 'www.redcross.org.au', 'xs.wxtv.cc', 'www.hr0354.com', 'www.paizipai.top', 'cf1.492745.xyz', 'www.pwcai.com', 'www.xwsxs.com', 'tlyy.cc', 'www.lnudz.com', 'www.11txt.com', 'www.jjxsxs.com', 'www.93xscc.com', 'www.rijiyize.com', 'www.6i5.com', 'www.99wx.cc', 'www.kanju8.com', 'www.sxyzxn.com', 'www.boyangjt.com', 'avatrade.co.za', 'www.dy420.com', 'www.92bn.com', 'www.avatrade.co.za', 'cf-lt.sharecentre.online', 'xkbjm.com', 'www.yunyou4.com', 'www.yy4080dy.com', 'www.lnfitness.com', 'www.ttamj.com', 'www.geckoterminal.com', 'www.881dy.com', 'stock.hostmonit.com', 'filegroup.kwok7.com', 'cdn.mlcat.tk', 'ikhma.com', 'www.96dushu.com', 'bnsbit.com', 'www.6988tv.com', 'suboji.com', 'www.haqiandu.com', 'www.706i.com', '335s.net', 'www.888dyy.cc', 'www.qindi.net', '882bi.com', 'www.99wxw.cc', 'www.ikhma.com', 'www.77zw.cc', 'file.kwok7.com', 'www.sintingtoys.com', 'www.dy1255.com', 'www.4gdiy.com', 'www.qindixs.com', 'www.czcdc.com', 'qiangkouzhao.com', 'www.xwbhk.com', 'www.taiwanheguo.com', 'blog.elonlo.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for kaledtech.com...
+Performing DNS lookup for 335s.net...
+Performing DNS lookup for www.881dy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
