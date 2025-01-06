@@ -1,26 +1,19 @@
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find 7778765.com: SERVFAIL
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.17job8.cn
-Address: 38.181.189.108
+Name:	fordeal.com
+Address: 104.18.21.145
+Name:	fordeal.com
+Address: 104.18.20.145
 
-Server:		8.8.8.8
-Address:	8.8.8.8#53
+Server:		46.203.222.47
+Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.209.177
-Name:	ips.993888.xyz
-Address: 104.17.132.239
-Name:	ips.993888.xyz
-Address: 104.16.155.231
-
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	yh6.dtku41.xyz
-Address: 72.52.178.23
+** server can't find cxcnctech.com: NXDOMAIN
 

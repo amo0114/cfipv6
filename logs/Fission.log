@@ -21161,3 +21161,26 @@ Performing DNS lookup for ipdb.rr.nu...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 696722d] Update project files
+ 4 files changed, 61 insertions(+), 259 deletions(-)
+ rewrite Fission_ip_backup.txt (99%)
+ rewrite dns_result.txt (97%)
+To github.com:amo0114/cfipv6.git
+   489d2db..696722d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.248.51...
+Fetching domains for 104.21.238.137...
+Fetching domains for 104.21.237.62...
+succeed to fetch domains for 104.17.248.51 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.238.137 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.237.62 from https://dnsdblookup.com/
+域名列表为
+['zlcq520.com', 'www.tvccc.org', 'm.niuerzs.com', 'xfltd.net', 'www.999998.vip', 'www.tpyyc.com', 'www.97hjw.com', 'www.cx888my.com', 'www.shecnudec.com', 'www.cqbzh.cn', 'www.17job8.cn', 'www.hxncpgs.com', 'www.zhiqihuo.com', 'www.zzztch.com', 'www.ttxyy.com', 'www.b7yy.cc', 'yh6.dtku41.xyz', 'www.hzbohai.com', 'www.yh9pk.com', 'www.linnuozs.com', 'www.shgyqc.com', 'www.30hu.com', 'www.xworldadmin.com', 'www.shy6666.com', 'www.993my.com', 'www.99wx.cc', 'www.99wxw.cc', 'www.ldssz.com', 'man.luwangyangrong.com', 'cfip.xxxxxxxx.tk', 'wxyhsyzx.com', 'www.daomubiji.cc', 'www.663dy.com', 'www.xsfsp.com', 'www.295k.com', 'www.kbss888.com', 'www.yx521.net', 'www.lyzdzy.com', 'www.91m.cc', 'www.tx58tl.com', 'www.75uw.com', 'www.rxjh520.cc', 'www.wolongtl.com', 'btdad.pro', 'baxtc.66666654.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.17job8.cn...
+Performing DNS lookup for www.99wxw.cc...
+Performing DNS lookup for yh6.dtku41.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
