@@ -21471,3 +21471,25 @@ Performing DNS lookup for www.997uy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 866de05] Update project files
+ 4 files changed, 53 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   712f2b0..866de05  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.27.186...
+Fetching domains for 104.18.79.8...
+Fetching domains for 104.21.31.78...
+succeed to fetch domains for 104.18.79.8 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.27.186 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.31.78 from https://site.ip138.com/
+域名列表为
+['www.69mi.me', 'www.4x4i.com', 'shop.planetfitness.com', 'm.luwangyangrong.com', 'ftbmkpo.top', '4hucc94.com', 'www.16a07.com', 'mjjspeed.ml', 'www.xiijcq.top', 'xfltd.net', 'www.min-mave.dk', 'www.cbzc-fag.com', 'www.xiaoyafafa.com', 'vapaalla.net', 'www.dnrldxtj.icu', 'luwangyangrong.com', 'www.4hucc94.com', 'www.88wwk.com', 'www.hdgjb.com', 'www.lyzdzy.com', '4x4i.com', '4hu35q.com', 'www.6859m.com', 'www.pp2266.com', 'wap.xiijcq.top', 'www.erotube.org', 'www.xxmh969.com', 'bm122.com', 'boo4321.com', '6859m.com', 'tu2.ttt669.com', '69v69.top', 'unic-sa.com', 'tu.ttt669.com', 'www.mjjspeed.ml', 'www.i9rc.cn', 'mo4tech.com', 'www.bm122.com', 'erotube.org', 'pp2266.com', 'xbdsp.xyz', 'www.521sg.com', 'cfip.xxxxxxxx.tk', '256vv.com', '3g.dnrldxtj.icu', 'm.dnrldxtj.icu', 'www.izdd.cc', '88a2137.cc', 'www.shenmapian.org', 'dojenje.net', 'www.solarspeed.co', 'wap.dnrldxtj.icu', 'www.hogpigcs.info', 'www.ub888.cc', 'www049tk.net', 'dnrldxtj.icu', '89578.bet', 'cl.2732x.xyz', 'www.baxter.com.cn', '3123ju.com', 'www.unic-sa.com', 'yinlin.blog', 'hdteensex.com', 'www.njjlxc.com', 'www.709a.com', 'tca567.com', 'www.tpyyc.com', 'aiwumd.info', 'www.93996b.com', 'cbzc-fag.com', 'baxter.com.cn', '1.namesilo123.top', 'www.m6y6.com', 'www.aiwumd.info', 'www.hdteensex.com', '293oo.com', 'iphone.erotube.org', 'sexmex.top', 'zm7.m3u8list.top', 'm.xiijcq.top', 'feige.online', 'www.dojenje.net', 'ttniao.org', 'xiaoyafafa.com', 'www.iudd.cc', 'www.xkx999.com', 'tw-bigredpacket-51.com', 'xiijcq.top', 'min-mave.dk', 'www.mbtcs.cc', '69mi.me', 'www.3123ju.com', 'www.tca567.com', 'hdgjb.com', 'www.la000.com', 'www.casino-movil.es', 'hkaa.sectigo.pp.ua', 'la000.com', 'www.4hu35q.com', 'mhgame.chongsiling.cc', 'belt.fi']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3g.dnrldxtj.icu...
+Performing DNS lookup for sexmex.top...
+Performing DNS lookup for www.solarspeed.co...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
