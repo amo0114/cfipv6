@@ -21449,3 +21449,25 @@ Performing DNS lookup for sgaa.sectigo.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 712f2b0] Update project files
+ 4 files changed, 61 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   30b43fc..712f2b0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.5.60...
+Fetching domains for 104.26.6.84...
+Fetching domains for 104.21.31.24...
+succeed to fetch domains for 104.18.5.60 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.31.24 from https://dnsdblookup.com/
+succeed to fetch domains for 104.26.6.84 from https://ipchaxun.com/
+域名列表为
+['5627c.com', 'man.luwangyangrong.com', 'dsxys.com', 'rosedaletube.com', 'iios.club', 'xfltd.net', 'h28bz1.xraumngrf.cc', 'www.366ti.com', 'starpay-finance.wallytglobal.com', '997uy.com', 'usshsaba.114514782.xyz', 'bb287.com', 'jobhainan.cn', 'nawll.top', 'honey.com', 'www.6988tv.com', 'www.redken.nl', 'tlwxgm.com', 'www.kpd142.vip', 'fk-kukesi.al', 'ns2servers.pw', 'www.44cpcp.com', 'mihuxiaoshuo.com', 'www.140299.com', 'www.migudy.com', 'girj0kai.top', 'svipfulishipin6.com', 'yht8.xyz', 's4farm.agriness-china.com', 'enws.it', 'ee8802.com', 'www.12maobk.com', 'www.smmy365.com', 'rechub.tv', 'leftclick.io', 'agriness-china.com', '140299.com', 'zhibite.com', 'www.asebi.xyz', 'eropics.org', 'wap.groxx.top', 'www.997uy.com', 'zlovedoll.com', 'www.92mili.com', 'wap.nawll.top', 'dixlimpieza.com', 'www.sve6.com', '366ti.com', 'www.fk-kukesi.al', 'www.groxx.top', 'h2quz1.xraumngrf.cc', 'www.ninefornews.nl', 'www.yy135.com', '3g.nawll.top', 'www.mihuxiaoshuo.com', 'speedip.thexin.cloudns.org', '7.namesilo123.top', 'thep4638.xyz', 'go.789.cloudns.org', 'asebi.xyz', '766px.com', 'www.295k.com', 'quyidashi.com', 'yy135.com', 'shopback.sg', 'm.nawll.top', 'thrasher.io', 'king998bet.com', 'kpd142.vip', 'www.339b.net', 'www.5627c.com', 'www.pianku5.com', 'juliomedina.com', 'www.jobhainan.cn', 'bestcf.onecf.eu.org', 'm.groxx.top', 'espnevents.com', 'www.xraumngrf.cc', 'www5.xraumngrf.cc', 'ar.radiocut.fm', 'www.4gdiy.com', '339b.net', 'cdn.dailyrummy.com', 'pdzmre77473.sanfen001.top', 'groxx.top', 'za57vip.com', 'speedip.x1n.free.hr', 'sve6.com', 'wap.luwangyangrong.com', 'www.c66uat.com', 'is.agriness-china.com', '44cpcp.com', 'email-usps.us', 'www.naimilu.com', '12maobk.com', 'www.766px.com', 'm.niuerzs.com', 'www.shopback.sg', 'www.xinjuc.com', '334wv.com', 'hgr1dwrdg2f.top', 'www.nawll.top', 'www.svipfulishipin6.com', 'www.tpyyc.com', 'tracker.openwebtorrent.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for thep4638.xyz...
+Performing DNS lookup for 766px.com...
+Performing DNS lookup for www.997uy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
