@@ -21379,3 +21379,24 @@ Performing DNS lookup for www.rejuku.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ae65efd] Update project files
+ 4 files changed, 53 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   32fa3d2..ae65efd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.234.1...
+Fetching domains for 141.101.114.161...
+Fetching domains for 104.18.16.232...
+succeed to fetch domains for 104.18.16.232 from https://ipchaxun.com/
+succeed to fetch domains for 141.101.114.161 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.234.1 from https://dnsdblookup.com/
+域名列表为
+['www.7sc.cc', 'www.xwsxs.com', 'www.99wx.cc', 'pncle8.com', 'www.92mili.com', 'www.gousa.or.kr', 'www.991kan.com', 'www.wn03.cc', 'www.yncareer.com', 'wxxzzs.com', 'm.0550cq.com', 'cloudflare.182682.xyz', 'www.hhyy028.com', 'yh9.dtku41.xyz', 'www.yjys05.com', 'www.scotrail.co.uk', 'www.11px.cn', 'achk.cloudflarest.link', 'www.zongcaiwx.com', 'www.kanju8.com', 'sgv7.com', 'www.roche.fr', 'www.yava.pw', 'mwmoe.me', 'www.iios.club', 'cdn.quantum.com', 'iios.club', 'www.6988tv.com', 'www.xiaowenduo.com', 'www.k77yy.com', 'm.11txt.com', 'www.boyangjt.com', 'www.wxxzzs.com', 'www.tv9090.com', 'stock.hostmonit.com', 'www.rivcoready.org', '11px.cn', 'www.77yeye.com', 'wz.weishao2023.uk.eu.org', 'www.cbcv.cc', 'cf-lt.sharecentre.online', 'm.6988tv.com', 'www.wort.lu', 'www.51jion.com', 'www.4148.net', 'www.80yy.org', 'yundunwawablogcdn1yd.wawacm.com', '7749tv.com', 'www.grantthornton.de', 'www.6i5.com', 'chat.wawacm.com', 'www.11txt.com', 'www.zhiqihuo.com', 'www.web120.org', 'www.wenxueyuedu.com', 'www.vodbd.com', 'www.b7yy.cc', 'www.rrdytt.com', 'www.dzy66666.com', 'www.456gg.com', 'scotrail.co.uk', '0550cq.com', 'www.28dushu.com', 'www.96dushu.com', 'www.sjm678.com', 'amoebi.com', 'sjm678.com', 'www.0550cq.com', 'www.1a1v.com', 'www.hnxinlian.org', 'm.11px.cn', 'www.ydxs.cc', '991kan.com', '52dym.com', 'cdn.didi8.com', 'www.tinghen.com', 'yundunwawablogcdn1dx.wawacm.com', 'yyxycn.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 11px.cn...
+Performing DNS lookup for www.vodbd.com...
+Performing DNS lookup for www.80yy.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
