@@ -1,31 +1,20 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-api.moetools.net	canonical name = cdn.moetools.net.
-cdn.moetools.net	canonical name = moetools.net.cdn.cloudflare.net.
-Name:	moetools.net.cdn.cloudflare.net
-Address: 172.67.201.42
-Name:	moetools.net.cdn.cloudflare.net
-Address: 104.21.44.157
+** server can't find www.dzy66666.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	www.jiubaju.com
+Address: 154.214.13.107
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	a234yn.com
-Address: 172.67.161.51
-Name:	a234yn.com
-Address: 104.21.82.177
-Name:	a234yn.com
-Address: 2606:4700:3033::ac43:a133
-Name:	a234yn.com
-Address: 2606:4700:3031::6815:52b1
+www.rejuku.cc	canonical name = waf.jiexiapi.com.
+Name:	waf.jiexiapi.com
+Address: 104.18.29.94
 

@@ -21336,3 +21336,24 @@ Performing DNS lookup for m.ituba.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cc1bdd9] Update project files
+ 4 files changed, 48 insertions(+), 18 deletions(-)
+To github.com:amo0114/cfipv6.git
+   4f92fde..cc1bdd9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.240.29...
+Fetching domains for 104.18.26.143...
+Fetching domains for 104.17.242.113...
+succeed to fetch domains for 104.18.26.143 from https://site.ip138.com/
+succeed to fetch domains for 104.17.242.113 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.240.29 from https://ipchaxun.com/
+域名列表为
+['www.55xs.cc', 'cfyx.sbjc.shop', 'cfip.xxxxxxxx.tk', 'www.wei333.com', 'www.cocanwelding.com', 'www.hhyy028.com', 'www.997ut.com', 'v.niuerzs.com', 'api.moetools.net', '997ut.com', 'nt-ept.com', 'www.tlbb888.com', 'm.niuerzs.com', 'www.sf123.mobi', 'kan234.com', 'www.wenxueyuedu.com', 'www.lailai360.com', 'www.x6h88.com', 'www.6567ta.com', 'www.clubindustry.com', 'jzss180.com', 'www.7277tl.com', 'aff.62game.vip', 'www.1234qi.com', 'www.gdriustb.com', 'www.pk299.com', 'www.88wwk.com', 'www.nitianxieshen.com', 'x6h88.com', 'www.m6y6.com', 'loreal-paris.co.il', 'www.interwetten.com', 'x5q44.com', 'www.lyzdzy.com', 'www.99wxw.cc', 'a234yn.com', '1234qi.com', 'duelbits.com', 'uuqp5678.com', 'cgcc.digicert.pp.ua', 'www.yh9pk.com', 'whatfix.com', 'www.digitalhome.ca', 'www.99wx.cc', 'www.wn01.cc', 'www.xiuluo942.com', 'www.a234yn.com', 'www.linnuozs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for api.moetools.net...
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for a234yn.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
