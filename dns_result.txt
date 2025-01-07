@@ -1,20 +1,35 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.dzy66666.com: NXDOMAIN
+** server can't find 11px.cn: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.jiubaju.com
-Address: 154.214.13.107
+www.vodbd.com	canonical name = vodbd.com.
+vodbd.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.rejuku.cc	canonical name = waf.jiexiapi.com.
-Name:	waf.jiexiapi.com
-Address: 104.18.29.94
+www.80yy.org	canonical name = ccc.seogg.com.
+Name:	ccc.seogg.com
+Address: 172.67.201.211
+Name:	ccc.seogg.com
+Address: 104.21.22.14
+Name:	ccc.seogg.com
+Address: 2606:4700:3033::ac43:c9d3
+Name:	ccc.seogg.com
+Address: 2606:4700:3035::6815:160e
 

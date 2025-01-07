@@ -21357,3 +21357,25 @@ Performing DNS lookup for a234yn.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 32fa3d2] Update project files
+ 4 files changed, 48 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   cc1bdd9..32fa3d2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.29.94...
+Fetching domains for 104.18.186.54...
+Fetching domains for 104.18.76.199...
+succeed to fetch domains for 104.18.186.54 from https://site.ip138.com/
+succeed to fetch domains for 104.18.29.94 from https://site.ip138.com/
+succeed to fetch domains for 104.18.76.199 from https://dnsdblookup.com/
+域名列表为
+['www.jsmw06.com', 'www.xingchenwu.com', 'www.98kkm.com', 'zhencangys.com', 'www.jiubakan.com', 'i9zk.com', '98kpw.com', '98kds.com', 'qqkpb.com', 'www.yinshuaji1688.com', 'www.kanjuba.tv', 'www.98kds.com', 'xingchenwu.com', 'xinkanpian.com', '98yyb.com', 'www.97777pk.com', 'jiubakan.com', 'www.7113c.com', 'www.98yyb.com', 'www.jiubaju.com', '98ksm.com', '98wap.com', 'www.97qkp.com', 'kanjuba.tv', 'jiubaku.com', 'www.98dyb.com', 'www.qqkpb.com', 'rejuku.cc', 'www.97kp.com', 'www.9kzy.com', 'dy40.com', '98kpb.com', '97kp.com', 'bahaoyy.com', 'zhiboche.me', 'zm3g.com', 'jsmw06.com', 'www.zhiboche.me', '98ju.cc', '9kzy.com', 'www.2v8d.com', 'www.9kdy.com', 'www.rejuku.cc', 'www.4kmh.cc', 'ituba.cc', 'sznbuy.com', 'www.98kpb.com', 'www.98ju.cc', 'soutiyi.com', 'www.donglixiaoyuan.com', '98dyb.com', 'www.8hju.com', 'www.8hyy.com', 'www.93xscc.com', 'www.muguaysw.com', 'usfree13.supernike.com', '98kkm.com', 'xn--uis52h1wdk52a.cn', '97kpz.com', 'www.futurelearn.com', 'www.xingchenju.com', 'u611.com', '9kdy.com', 'www.98ju.com', '98dyw.com', 'kanjubu.com', '98ju.com', 'www.charlottesweb.com', 'www.98wap.com', 'www.bahaoyy.com', 'futurelearn.com', 'us.cdn.611886.xyz', 'www.dzy66666.com', '98dsw.com', 'wenhi.com', 'www.98dyw.com', 'magic.ninomae.cn', '8hysw.com', '11.namesilo123.top', 'www.zm3g.com', 'cf.wzqaz24.cloudns.be', 'www.dy40.com', 'www.8hysw.com', 'www.97kpz.com', 'www.kanjubu.com', 'www.8hyyb.com', 'www.visa.co.jp', '37doc.com', 'm.7113c.com', 'www.jiubaku.com', 'jiubaju.com', 'www.98ksm.com', 'www.u611.com', 'kanxinpian.com', 'yinshuaji1688.com', 'www.98kpw.com', 'www.luobinwang.com', 'www.37doc.com', 'luobinwang.com', '7113c.com', 'www.bahaoju.com', 'www.ddwhm.com', 'www.kanjuba3.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.dzy66666.com...
+Performing DNS lookup for www.jiubaju.com...
+Performing DNS lookup for www.rejuku.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
