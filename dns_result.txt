@@ -2,28 +2,36 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.xsjysy.com	canonical name = xsjysy.com.
-Name:	xsjysy.com
-Address: 13.248.213.45
-Name:	xsjysy.com
-Address: 76.223.67.189
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.ts.com.cn: NXDOMAIN
+Name:	www.dxdpro.com
+Address: 104.21.71.118
+Name:	www.dxdpro.com
+Address: 172.67.144.204
+Name:	www.dxdpro.com
+Address: 2606:4700:3036::6815:4776
+Name:	www.dxdpro.com
+Address: 2606:4700:3032::ac43:90cc
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-poster-api.xd.com	canonical name = poster-api.xd.com.cdn.cloudflare.net.
-Name:	poster-api.xd.com.cdn.cloudflare.net
-Address: 172.64.155.200
-Name:	poster-api.xd.com.cdn.cloudflare.net
-Address: 104.18.32.56
-Name:	poster-api.xd.com.cdn.cloudflare.net
-Address: 2606:4700:4400::6812:2038
-Name:	poster-api.xd.com.cdn.cloudflare.net
-Address: 2606:4700:4400::ac40:9bc8
+retaillink.login.wal-mart.com	canonical name = retaillink.login-cdn.wal-mart.com.akadns.net.
+retaillink.login-cdn.wal-mart.com.akadns.net	canonical name = e167221.x.akamaiedge.net.
+Name:	e167221.x.akamaiedge.net
+Address: 104.84.150.124
+Name:	e167221.x.akamaiedge.net
+Address: 104.84.150.127
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.cron.com
+Address: 104.18.18.102
+Name:	www.cron.com
+Address: 104.18.19.102
+Name:	www.cron.com
+Address: 2606:4700::6812:1266
+Name:	www.cron.com
+Address: 2606:4700::6812:1366
 
