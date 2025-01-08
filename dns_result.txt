@@ -2,36 +2,20 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.dxdpro.com
-Address: 104.21.71.118
-Name:	www.dxdpro.com
-Address: 172.67.144.204
-Name:	www.dxdpro.com
-Address: 2606:4700:3036::6815:4776
-Name:	www.dxdpro.com
-Address: 2606:4700:3032::ac43:90cc
+Name:	z8q5.av603.top
+Address: 154.23.64.98
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-retaillink.login.wal-mart.com	canonical name = retaillink.login-cdn.wal-mart.com.akadns.net.
-retaillink.login-cdn.wal-mart.com.akadns.net	canonical name = e167221.x.akamaiedge.net.
-Name:	e167221.x.akamaiedge.net
-Address: 104.84.150.124
-Name:	e167221.x.akamaiedge.net
-Address: 104.84.150.127
+Name:	qileli.net
+Address: 38.28.155.58
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.cron.com
-Address: 104.18.18.102
-Name:	www.cron.com
-Address: 104.18.19.102
-Name:	www.cron.com
-Address: 2606:4700::6812:1266
-Name:	www.cron.com
-Address: 2606:4700::6812:1366
+Name:	x3r4.av603.top
+Address: 154.23.64.98
 

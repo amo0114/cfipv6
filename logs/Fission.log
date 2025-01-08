@@ -21558,3 +21558,25 @@ Performing DNS lookup for poster-api.xd.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3ae004c] Update project files
+ 4 files changed, 70 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   8e1256c..3ae004c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.18.102...
+Fetching domains for 104.17.12.201...
+Fetching domains for 104.18.0.226...
+succeed to fetch domains for 104.17.12.201 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.0.226 from https://site.ip138.com/
+succeed to fetch domains for 104.18.18.102 from https://ipchaxun.com/
+域名列表为
+['royalphnompenhhospital.com', 'www.a456xx.com', 'sourcengine.cn', 'www.4hue31.com', 'www.135ca.com', 'www.dxdpro.com', 'yd.bug666.us.kg', '545dd.com', 'duns100.co.il', 'www.663dy.com', 'www.wn05.cc', '789n.net', 'www.a234n.com', 'www.sourcengine.cn', 'www.kan234.com', 'rllogin.wal-mart.com', 'www.sixyin.com', 'www.77zw.cc', 'www.6988tv.com', 'www.wn01.uk', 'acus.cloudflarest.link', 'retaillink2.wal-mart.com', 'kan234.com', 'www.cron.com', 'retaillink.login.wal-mart.com', 'www.652tv.com', 'cgcc.digicert.pp.ua', 'www.lyzdzy.com', 'cron.com', '135ca.com', 'www.grc456.com', 'uboy.run', 'a234n.com', 'grc456.com', 'yh6.dtku41.xyz', 'a456xx.com', 'jhpcza.66666654.xyz', 'www.545dd.com', 'tw-luckypromo.com', '4hue31.com', 'www.93xscc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.dxdpro.com...
+Performing DNS lookup for retaillink.login.wal-mart.com...
+Performing DNS lookup for www.cron.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
