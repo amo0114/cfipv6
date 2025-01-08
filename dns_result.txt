@@ -1,27 +1,23 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+** server can't find www.hr0354.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	test.httpapi.com
-Address: 104.16.114.189
-Name:	test.httpapi.com
-Address: 104.16.115.189
-Name:	test.httpapi.com
-Address: 104.16.117.189
-Name:	test.httpapi.com
-Address: 104.16.113.189
-Name:	test.httpapi.com
-Address: 104.16.116.189
+freeyx.cloudflare88.eu.org	canonical name = xn--vjqp6xkwblzeyv2h.cn.
+xn--vjqp6xkwblzeyv2h.cn	canonical name = china.tencentapp.cn.
+china.tencentapp.cn	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global9.66666654.xyz.
+Name:	cfcn-a-global9.66666654.xyz
+Address: 172.67.151.90
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 60u1x.app: NXDOMAIN
+Non-authoritative answer:
+Name:	www.e0101.com
+Address: 199.59.243.228
 

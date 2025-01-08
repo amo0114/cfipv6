@@ -21694,3 +21694,24 @@ Performing DNS lookup for nakedpussy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f70adf1] Update project files
+ 4 files changed, 47 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   80dd1f7..f70adf1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.220.108...
+Fetching domains for 104.17.189.186...
+Fetching domains for 104.17.99.31...
+succeed to fetch domains for 104.17.189.186 from https://site.ip138.com/
+succeed to fetch domains for 104.17.99.31 from https://site.ip138.com/
+succeed to fetch domains for 104.17.220.108 from https://dnsdblookup.com/
+域名列表为
+['www.whpaiger.com', 'www.4wa.cc', 'web.yyheli.cn', 'httpapi.com', 'www.wn01.cc', 'oroe.eu.org', 'yyheli.cn', 'www.clun.top', 'acjp2.cloudflarest.link', 'www.lyzdzy.com', 'www.baota.me', '60u1x.app', 'www.iios.club', 'www.zzztch.com', 'www.99wxw.cc', 'test.httpapi.com', 'www.cocanwelding.com', 'www.huakai2018.com', 'www.75uw.com', 'clun.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for test.httpapi.com...
+Performing DNS lookup for 60u1x.app...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
