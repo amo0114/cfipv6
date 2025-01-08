@@ -21628,3 +21628,25 @@ Performing DNS lookup for macvbb.555556789.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f5b9465] Update project files
+ 4 files changed, 99 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   6961a3a..f5b9465  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.16.230...
+Fetching domains for 104.18.201.98...
+Fetching domains for 190.93.247.241...
+succeed to fetch domains for 104.21.16.230 from https://site.ip138.com/
+succeed to fetch domains for 190.93.247.241 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.201.98 from https://site.ip138.com/
+域名列表为
+['easywo.com', 'v1.zikingwang88.top', 'qingxu.live', 'jimo.mma56b.com', 'www.zs8qssc.top', 'www.see-o.com', 'www.longwangchuanshuo.com', 'www.wujieliulan.com', 'nsk.wujieliulan.com', '366fy.com', 'www.011s011.com', 'www.4gdiy.com', 'www.11gaoaa.com', 'www.bizcnwatch.top', 'www.natfrp.org', '11.hgvv.xyz', 'www.77zw.cc', '3g.kcczse.top', 'www.bitfga.com', 'www.wn05.cc', '91p1802.xyz', 'dev.vin689.com', 'www.kcczse.top', 'lanling.mma56b.com', 'www.366fy.com', 'clink.club', 'www.wmm207.com', 'cfip.xxxxxxxx.tk', 'www.338i.com', 'download.mp3cool.org', 'www.cxk8.com', 'muguacloud.buzz', 'www.gid.gov.jo', 'v6.zikingwang88.top', 'www.d41e0.com', 'k51r.com', 'www.k77yy.com', 'cdn.didi8.com', 'weiyuan.mma56b.com', 'www.pwcai.com', 'www.uu93.com', 'www.vickstech.com', 'www.weixinf5.com', 'www.snqssn.com', 'm.zs8qssc.top', 'wei333.com', 'abd.ddoh.cf', 'www.011b.com', 'www.tv9090.com', 'www.ganpian.com', 'www.75xs.cc', 'www.qdxinliangbaixin.com', '4195yy.com', 'hgvv.xyz', 'www.0550cq.com', 'www.yidaerka.com', 'hash03.vip', 'theworldnews.net', 'www.btokok.com', 'www.1haows.com', 'www.652tv.com', 'm.wujieliulan.com', 'javlibs.club', 'mp3cool.org', '11gaoaa.com', '54q.cc', 'mma56b.com', 'm.kcczse.top', 'www.80yy.org', 'czcdc.com', 'gid.gov.jo', 'm.0550cq.com', 'www.pkyolhe.cn', 'web.vin689.com', 'taoismhome.com', 'wdtp.eu.org', 'www.kunzedu.com', 'ai6ai.xyz', 'songbei.mma56b.com', 'natfrp.org', 'www.tinghen.com', 'zdx03.1-qhhc-2.top', 'www.mknykj.com', 'bbshu.top', 'www.dlkok.com', 'www.zjgamy.com', 'ilill.xyz', 'wmm207.com', 'baccarat88-th.com', 'blogmutt.com', 'www.njlxa.cn', '10.hgvv.xyz', 'www.javlibs.club', 'blog.natfrp.org', 'm.163fahao.com', 'www.k51r.com', 'wfjugh.com', 'www.teachine.com', 'www.6i5.com', 'masterindosupplier.com', 'tom-4545.com', 'us.wujieliulan.com', 'zs8qssc.top', 'cf1.492745.xyz', 'sgv7.com', 'www.jimmyviva.top', 'blog.jimmyviva.top', 'jlgbiy.cn', 'www.99wxw.cc', 'v3.zikingwang88.top', 'www.jlgbiy.cn', 'www.99wx.cc', 'wsfy.cn', 'd41e0.com', 'www.xsj.com', 'www.gosocial.org', 'www.gzlatin.com', 'www.nitianxieshen.com', 'xd558.com', 'www.muguacloud.buzz', 'bizcnwatch.top', 'abcplastik.ru', '3g.zs8qssc.top', 'wap.zs8qssc.top', 'www.zsych.net', '88av3034.xyz', 'www.imofclt.cn', 'wap.kcczse.top', 'manager3d.xyz', 'hk.wish.ml', 'gosocial.org', 'www.55xs.cc', 'www.zhengxumedia.com', 'www.boyangjt.com', 'stock.hostmonit.com', 'www.sxyzxh.com', 'www.tpyyc.com', '153ajtcih.z85y2xn2t8.vip', 'www.409644.com', 'www.6988tv.com', 'm.lencier.com', 'www.lailai360.com', '0550cq.com', 'wujieliulan.com', 'v.vickstech.com', 'yunyu51.com', 'vickstech.com', 'bnmhapp.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.338i.com...
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for www.d41e0.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
