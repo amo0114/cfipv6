@@ -21672,3 +21672,25 @@ Performing DNS lookup for www.baota.me...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 80dd1f7] Update project files
+ 4 files changed, 56 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   e351a18..80dd1f7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.8.78...
+Fetching domains for 104.18.185.253...
+Fetching domains for 104.17.254.38...
+succeed to fetch domains for 104.18.185.253 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.8.78 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.254.38 from https://ipchaxun.com/
+域名列表为
+['www.hentaiporn.com', 'nba01.com', 'adultsex.com', 'www.newequipment.com', 'matures.com', 'gayxxxspot.com', 'www.hentaivideos.com', 'steamofporn.com', 'www.nakedpussy.com', 'myass.com', 'famsimulators.com', 'www.g345i.com', 'www.iios.club', 'fuckvideo.com', 'www.porncomics.com', 'skeezy.com', 'cumshots.com', 'www.gayxxxspot.com', 'crazyporn.com', 'best20vpn.com', 'www.analsex.com', 'www.flytube.com', 'freehookupaffair.com', 'onlyfreetoonporn.com', 'www.bigdick.com', 'teenporn.com', 'maist.jp', 'hentaigame.com', 'gaysexarchive.com', 'cumsmart.com', 'www.hentaigame.com', 'slutsimulator.com', 'www.cumshots.com', 'www.65bao2.com', 'secure.rogueeconomics.com', 'www.hotvideos.com', 'masturmate.com', 'ef323.com', 'adultporn.com', 'www.whpaiger.com', 'nakedpussy.com', 'analsex.com', 'adultxxx.com', 'fuckbooks.com', 'adultgames.games', 'toongaming.com', 'dltube.com', 'www.adultdates.com', 'www.4huxx73.com', 'www.gaysexarchive.com', 'fuckmovie.com', 'ipdb.rr.nu', 'www.fuckvideo.com', 'familysimulator.com', 'www.cn46.com', 'www.cfhuagong.com', 'porngames.games', 'www.ef323.com', 'www.adultxxx.com', 'dominationtube.com', 'www.diariolaprovinciasj.com', 'www.4hu23m.com', 'familialsimulation.com', 'hentaiporn.com', 'www.5334hu.com', 'hentaivideos.com', 'familysimulator.io', 'trannysimulator.com', 'flytube.com', 'assxxx.com', 'www.teenporn.com', 'porncomics.com', 'www.adultsex.com', 'freexxxjoin.com', 'bigdick.com', '3dstepfamsexgames.com', 'shemalesexdate.com', 'www.crazyporn.com', 'www.lyzdzy.com', 'theblackfuckbook.com', 'hotporno.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for hentaigame.com...
+Performing DNS lookup for slutsimulator.com...
+Performing DNS lookup for nakedpussy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,26 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	hentaigame.com
-Address: 104.18.9.78
-Name:	hentaigame.com
-Address: 104.18.8.78
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	slutsimulator.com
-Address: 104.18.8.78
-Name:	slutsimulator.com
-Address: 104.18.9.78
+Name:	test.httpapi.com
+Address: 104.16.114.189
+Name:	test.httpapi.com
+Address: 104.16.115.189
+Name:	test.httpapi.com
+Address: 104.16.117.189
+Name:	test.httpapi.com
+Address: 104.16.113.189
+Name:	test.httpapi.com
+Address: 104.16.116.189
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	nakedpussy.com
-Address: 104.18.9.78
-Name:	nakedpussy.com
-Address: 104.18.8.78
+** server can't find 60u1x.app: NXDOMAIN
 
