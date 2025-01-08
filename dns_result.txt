@@ -1,27 +1,29 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.hm11.lol: NXDOMAIN
+Non-authoritative answer:
+www.xsjysy.com	canonical name = xsjysy.com.
+Name:	xsjysy.com
+Address: 13.248.213.45
+Name:	xsjysy.com
+Address: 76.223.67.189
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.ts.com.cn: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.xcyy696.com	canonical name = dns.hy1398.cc.
-Name:	dns.hy1398.cc
-Address: 104.26.7.103
-Name:	dns.hy1398.cc
-Address: 104.26.6.103
-Name:	dns.hy1398.cc
-Address: 172.67.68.247
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.point2homes.com	canonical name = www.point2homes.com.cdn.cloudflare.net.
-Name:	www.point2homes.com.cdn.cloudflare.net
-Address: 172.64.155.129
-Name:	www.point2homes.com.cdn.cloudflare.net
-Address: 104.18.32.127
+poster-api.xd.com	canonical name = poster-api.xd.com.cdn.cloudflare.net.
+Name:	poster-api.xd.com.cdn.cloudflare.net
+Address: 172.64.155.200
+Name:	poster-api.xd.com.cdn.cloudflare.net
+Address: 104.18.32.56
+Name:	poster-api.xd.com.cdn.cloudflare.net
+Address: 2606:4700:4400::6812:2038
+Name:	poster-api.xd.com.cdn.cloudflare.net
+Address: 2606:4700:4400::ac40:9bc8
 

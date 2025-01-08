@@ -21515,3 +21515,24 @@ Performing DNS lookup for www.whpaiger.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 85a35c1] Update project files
+ 4 files changed, 47 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   44d8437..85a35c1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.33.224...
+Fetching domains for 104.17.150.75...
+Fetching domains for 104.17.96.132...
+succeed to fetch domains for 104.17.96.132 from https://site.ip138.com/
+succeed to fetch domains for 104.17.150.75 from https://site.ip138.com/
+succeed to fetch domains for 104.18.33.224 from https://dnsdblookup.com/
+域名列表为
+['www.wuda.cf', 'www.hm13.lol', 'www.ptoutcomes.com', 'www.923055.com', 'jpadwinfs.114514782.xyz', 'www.fjlkjs.com', 'www.xcyy696.com', 'www.qp666.com', 'www.d00300.com', 'szfind.com', 'zh.nyahentai.net', 'www.akvarij-baska.com.hr', 'infozambia.com', 'lt2333.com', '366nu.com', 'www.93xscc.com', 'www.366nu.com', 'qp66.com', 'www.116.ag', 'd00300.com', 'www.anluyg.net', '10thmountainlid.tk', 'www.szfind.com', 'thepreggoporn.com', 'solidinvestments.global', 'cdn.cmliu.net', 'www.gaycn.top', 'dl.chaojizhan.xin', 'oghniya.org', 'lt.lt2333.com', 'ss.chaojizhan.xin', 'sub.xf.free.hr', 'www.d45.net', 'cloudflare.cfgo.cc', 't.nyahentai.net', 'pics.pikgram.com', 'www.solidinvestments.global', 'www.decathlon.eg', 'philanthropies.churchofjesuschrist.org', 'nyahentai.net', 'pandownload.vip', '8810868.com', '700zh.com', 'ja.nyahentai.net', 'cdn.freecdn.free.hr', 'cfip.xxxxxxxx.tk', 'www.point2homes.com', 'www.700zh.com', 'www.qf527.com', 'www.nyahentai.net', 'www.bsc.com.au', 'cfcdn1.sanfencdn9.com', 'www.hm11.lol', 'www.creascreative.com', 'ag.hg2096.com', 'www.qg222.com', 'www.nsisfans.com', 'v4.cfnode.eu.org', 'sp.rweek.top', 'gomarketplacefront-cf.zoom.us']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.hm11.lol...
+Performing DNS lookup for www.xcyy696.com...
+Performing DNS lookup for www.point2homes.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
