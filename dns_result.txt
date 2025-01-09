@@ -2,22 +2,35 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find www.clun.top: No answer
+blog.tellabs.com	canonical name = 2581329.group29.sites.hubspot.net.
+2581329.group29.sites.hubspot.net	canonical name = group29.sites.hscoscdn20.net.
+Name:	group29.sites.hscoscdn20.net
+Address: 199.60.103.254
+Name:	group29.sites.hscoscdn20.net
+Address: 199.60.103.2
+Name:	group29.sites.hscoscdn20.net
+Address: 2606:2c40::c73c:6702
+Name:	group29.sites.hscoscdn20.net
+Address: 2606:2c40::c73c:67fe
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.69.148
-Name:	ips.993888.xyz
-Address: 104.18.236.196
-Name:	ips.993888.xyz
-Address: 104.17.141.110
+www.nexusguard.com	canonical name = proxy-ssl.webflow.com.
+proxy-ssl.webflow.com	canonical name = proxy-ssl-geo.webflow.com.
+Name:	proxy-ssl-geo.webflow.com
+Address: 52.197.0.54
+Name:	proxy-ssl-geo.webflow.com
+Address: 52.199.221.217
+Name:	proxy-ssl-geo.webflow.com
+Address: 54.178.223.218
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.hm12.lol: NXDOMAIN
+Non-authoritative answer:
+www.aschulman.com	canonical name = aschulman.com.
+Name:	aschulman.com
+Address: 165.249.0.58
 
