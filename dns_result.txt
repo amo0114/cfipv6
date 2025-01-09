@@ -2,28 +2,22 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.63.7
-Name:	ips.993888.xyz
-Address: 104.17.96.155
-Name:	ips.993888.xyz
-Address: 104.17.60.11
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find moonwars.drakemoon.com: NXDOMAIN
+*** Can't find www.clun.top: No answer
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.heidaoxs.com	canonical name = ips.993888.xyz.
+www.99wxw.cc	canonical name = ips.993888.xyz.
 Name:	ips.993888.xyz
-Address: 104.17.63.7
+Address: 104.18.69.148
 Name:	ips.993888.xyz
-Address: 104.17.60.11
+Address: 104.18.236.196
 Name:	ips.993888.xyz
-Address: 104.17.96.155
+Address: 104.17.141.110
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.hm12.lol: NXDOMAIN
 
