@@ -21824,3 +21824,25 @@ Performing DNS lookup for www.luwangyangrong.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b8d4324] Update project files
+ 4 files changed, 90 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (93%)
+To github.com:amo0114/cfipv6.git
+   c2ae264..b8d4324  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.94.142...
+Fetching domains for 104.17.80.98...
+Fetching domains for 104.17.75.52...
+succeed to fetch domains for 104.17.94.142 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.80.98 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.75.52 from https://dnsdblookup.com/
+域名列表为
+['www.606977.com', 'www.xinyi176.com', 'www.laiduwx.com', 'www.gdriustb.com', 'www.pk299.com', 'www.dcs99.com', 'www.cocanwelding.com', '606977.com', 'www.cfhuagong.com', 'www.silisilifun.com', 'www.kunzedu.com', 'www.hhyy028.com', 'www.tlbb888.com', 'www.jmxhbgc.com', 'st.imywhr.com', 'www.kbss888.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.laiduwx.com...
+Performing DNS lookup for www.kunzedu.com...
+Performing DNS lookup for www.dcs99.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
