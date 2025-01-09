@@ -21889,3 +21889,24 @@ Performing DNS lookup for www.hm12.lol...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main eea4f47] Update project files
+ 4 files changed, 55 insertions(+), 18 deletions(-)
+To github.com:amo0114/cfipv6.git
+   e72ae58..eea4f47  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.124.180...
+Fetching domains for 104.17.106.225...
+Fetching domains for 104.17.167.197...
+succeed to fetch domains for 104.17.106.225 from https://site.ip138.com/
+succeed to fetch domains for 104.17.124.180 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.167.197 from https://dnsdblookup.com/
+域名列表为
+['info.texasfinaldrive.com', 'www.itemis.com', 'www.moveguides.com', 'www.cpaglobal.com', 'blog.gunnebo.com', 'www.deepsig.ai', 'www.dediserve.com', 'rfid.atlasrfidstore.com', 'www.crownbio.com', 'www.visibility.com', 'www.trolex.com', 'www.loftware.com', 'blog.tripplite.com', 'www.symplr.com', 'www.skyhook.com', 'www.complete-china.com', 'www.lynx.com', 'www.broadsoft.com', 'www.tmprotection.com', 'www.kbss888.com', 'm.niuerzs.com', 'www.lyzdzy.com', 'www.bench.com', 'www.amcastonline.com', 'blog.airsquirrels.com', 'www.bps-world.com', 'www.trxtraining.com', 'www.fileopen.com', 'www.sofinnova.fr', 'www.gosiger.com', 'www.ebankit.com', 'www.prophecyhealth.com', 'www.haagen.com', 'www.jscape.com', 'blog.fhblackinc.com', 'www.dropoff.com', 'stories.paymaya.com', 'www.durable-tech.com', 'www.nexusguard.com', 'www.avanan.com', 'www.solarart.com', 'blog.trello.com', 'www.mcloone.com', 'www.pk299.com', 'info.prophecyhealth.com', 'blog.tellabs.com', 'www.loffler.com', 'www.skyhookwireless.com', 'blog.events.com', 'info.localytics.com', 'www.partfiniti.com', 'cdn.sbs.cloudns.org', 'www.sportsolutions.com.mx', 'www.makingchips.com', 'www.factset.com', 'www.lantech.com', 'ventilation.vostermans.com', 'www.28et.com', 'www.elementum.com', 'blog.unicarrierseurope.com', 'blog.avast.com', 'www.valutrades.io', 'www.gomummy.in', 'www.weblite.com.my', 'buildingenergy.cx-associates.com', 'www.zzztch.com', 'www.hornbill.com', 'www.nri-secure.co.jp', 'www.crownbattery.com', 'try.sendle.com', 'www.xigua5.com', 'www.crystalknows.com', 'www.valutrades.com', 'www.fittingbox.com', 'blog.fysioterapialaitos-askelstudio.fi', 'www.fujifilm.com.au', 'www.inbound.com', 'www.cryptomathic.com', 'www.clarifai.com', 'www.openshift.com', 'www.asiowa.com', 'www.completemad.com', 'www.circusstreet.com', 'blog.quantumsilicones.com', 'www.uipath.com', 'www.vivalnk.com', 'www.cfhuagong.com', 'blog.mokapos.com', 'www.noblypos.com', 'blogg.pwc.se', 'blog.hoyavision.com', 'www.mooney.com', 'www.lalamove.com', 'www.lizardtech.com', 'www.aschulman.com', 'blog.mcloone.com', 'www.wellright.com', 'start.gmat.com', 'www.larkengineering.com', 'blogbrasil.comstor.com', 'www.link-labs.com', 'www.onixs.biz', 'www.omnicomm.com', 'www.long.com', 'cfip.xxxxxxxx.tk', 'www.xz898my.com', 'www.marscrowd.com', 'www.eojohnson.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for blog.tellabs.com...
+Performing DNS lookup for www.nexusguard.com...
+Performing DNS lookup for www.aschulman.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
