@@ -21737,3 +21737,25 @@ Performing DNS lookup for www.e0101.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e44cc7e] Update project files
+ 4 files changed, 88 insertions(+), 31 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   d2b688d..e44cc7e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.205.247...
+Fetching domains for 172.64.199.130...
+Fetching domains for 104.21.27.30...
+succeed to fetch domains for 104.21.27.30 from https://site.ip138.com/
+succeed to fetch domains for 172.64.199.130 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.205.247 from https://ipchaxun.com/
+域名列表为
+['www.3dck.com', 'tom281.com', 'yx.887141.xyz', 'www.0dyx.net', 'www.cle3e5d.com', 'lassenissila.net', 'gsoustar.cloud', 'gxzkgy.com', 'www.1775kkkkk.com', 'www.kanju8.com', 'speed.marisalnc.com', '65279999.com', 'uboy.run', 'pay.750fk.top', 'vx86.com', 'www.888dyy.cc', 'jidacopper.com', 'www.kunzedu.com', 'fmworlds.org', '811.16direct.xyz', '8877fz.com', 'rsoy6a1w7p.com', 'www.hhyy028.com', 'www.6i5.com', '37qnx1.tw', 'wang439.com', 'klmyca.com', 'www.sghgroup.com.sa', 'mojingge6.beauty', 'vip.sh61980.com', 'zhiyin.fun', 'guitarjamz.com', 'www.iminling.com', 'www.tom281.com', 'index1.xxm3u8.top', 'www.993my.com', '750fk.top', 'baxtc.66666654.xyz', 'www.mojingge6.beauty', 'getip.monster', 'stock.hostmonit.com', 'mmjd.live', 'mobile.uur0.com', 'fhkuba.com', 'www.tinghen.com', 'mjhead.com', 'www.wxxzzs.com', 'nlsdwsz.66666654.xyz', 'www.tztybz.com', 'katzglobal.com', 'www.pk299.com', 'apicf.6ut7y.xyz', 'tjtgtongda.com', 'www.kbss888.com', 'cname2.164182.xyz', 'www.52kpop.cc', 'yanjiusuo88.top', 'www.11txt.com', 'watchnfllive.us', 'szmxzszy.com', 'fan.yutian.us.kg', 'www.huanyaad.com', 'www.an9999.com', 'www.652tv.com', 'www.yxy176.com', 'an9999.com', 'www.wn01.uk', 'www.k77yy.com', 'www.klsescreener.com', 'www.80yy.org', 'www.tl123123.com', 'www.lailai360.com', 'www.rsoy6a1w7p.com', 'achk.cloudflarest.link', 'mobilephonediscuss.com', 'leletravel.com', 'raw.gitmirror.com', 'www.mahua128.com', 'www.czbydryer.com', 'www.jidacopper.com', 'm.yanjiusuo88.top', 'hitiki.cc', 'cle3e5d.com', 'www.ddwhm.com', 'www.xinchengjiaoyuzx.com', 'www.tv9090.com', 'www.295k.com', 'zcuobtkh.xyz', 'czbydryer.com', 'www.vx86.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for mobile.uur0.com...
+Performing DNS lookup for czbydryer.com...
+Performing DNS lookup for www.lailai360.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
