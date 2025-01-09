@@ -21759,3 +21759,25 @@ Performing DNS lookup for www.lailai360.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0de030b] Update project files
+ 4 files changed, 55 insertions(+), 66 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   e44cc7e..0de030b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.16.86...
+Fetching domains for 104.17.233.131...
+Fetching domains for 104.21.225.17...
+succeed to fetch domains for 104.21.225.17 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.16.86 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.233.131 from https://dnsdblookup.com/
+域名列表为
+['www.jg666.top', 'www.515uc.com', 'yt0758.c2.huyuncdn.xyz', 'www.7lq.com', 'www.kbss888.com', 'm.bjxfqc.net', 'www.cx888my.com', 'www.6988tv.com', 'www.dzy66666.com', 'www.993my.com', 'www.tockt.com', 'www.88wwk.com', 'www.6xr.com', 'www.tpyyc.com', 'www.wubei520.com', 'www.zddzd.top', 'www.92mili.com', 'm.52bqg.net', 'www.9bsr.com', 'yxy176.com', 'www.maomp.net', '99b32.com', 'www.sf52l.com', 'dsxys.com', 'www.tlbbhy.com', 'www.m6y6.com', 'www.bbiquge.cc', 'www.yh9pk.com', 'www.tl123123.com', 'www.99wx.cc', 'yiqi1234.com', 'www.iios.me', 'wcy.cloudflare.182682.xyz', 'www.dcs99.com', 'www.manhuadb.com', 'www.zzjh520.com', 'www.shy6666.com', 'www.cocanwelding.com', 'www.tx58tl.com', 'www.930my.com', 'dm84.tv', 'www.kunzedu.com', 'www.pk299.com', 'dzy66666.com', 'www.1888cq.com', 'www.awanmy.com', 'ysz8.com', 'www.5522tl.com', 'www.ddwhm.com', 'fabletics.co.uk', '52ggd.com', 'www.fs180.com', 'www.8828pk.com', 'www.207my.com', 'www.xkx999.com', 'edarling.de', 'www.wn05.cc', 'www.fabletics.co.uk', 'www.cfhuagong.com', 'www.xzmoyu.com', 'www.zlcq520.com', 'x4t88.com', 'parts.polarisind.com', 'cloudflare.182682.xyz', 'www.iios.club', 'www.hhyy028.com', 'www.xz898my.com', 'wap.luwangyangrong.com', 'www.lyzdzy.com', 'www.tlbb888.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for dzy66666.com...
+Performing DNS lookup for www.xz898my.com...
+Performing DNS lookup for www.shy6666.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

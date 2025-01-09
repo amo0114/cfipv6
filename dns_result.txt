@@ -1,25 +1,30 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find dzy66666.com: NXDOMAIN
+Non-authoritative answer:
+Name:	911win.net
+Address: 104.18.24.41
+Name:	911win.net
+Address: 104.18.25.41
+Name:	911win.net
+Address: 2606:4700::6812:1929
+Name:	911win.net
+Address: 2606:4700::6812:1829
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.xz898my.com	canonical name = host1109690a.c2.huyuncdn.xyz.
-host1109690a.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.shy6666.com: NXDOMAIN
+Non-authoritative answer:
+www.ddwhm.com	canonical name = csgo.com.
+Name:	csgo.com
+Address: 195.85.59.161
+Name:	csgo.com
+Address: 195.85.59.95
 
