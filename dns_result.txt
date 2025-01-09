@@ -1,23 +1,50 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.hr0354.com: NXDOMAIN
+** server can't find mobile.uur0.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-freeyx.cloudflare88.eu.org	canonical name = xn--vjqp6xkwblzeyv2h.cn.
-xn--vjqp6xkwblzeyv2h.cn	canonical name = china.tencentapp.cn.
-china.tencentapp.cn	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global9.66666654.xyz.
-Name:	cfcn-a-global9.66666654.xyz
-Address: 172.67.151.90
+Name:	czbydryer.com
+Address: 104.21.16.1
+Name:	czbydryer.com
+Address: 104.21.64.1
+Name:	czbydryer.com
+Address: 104.21.80.1
+Name:	czbydryer.com
+Address: 104.21.32.1
+Name:	czbydryer.com
+Address: 104.21.48.1
+Name:	czbydryer.com
+Address: 104.21.112.1
+Name:	czbydryer.com
+Address: 104.21.96.1
+Name:	czbydryer.com
+Address: 2606:4700:3030::6815:2001
+Name:	czbydryer.com
+Address: 2606:4700:3030::6815:1001
+Name:	czbydryer.com
+Address: 2606:4700:3030::6815:6001
+Name:	czbydryer.com
+Address: 2606:4700:3030::6815:3001
+Name:	czbydryer.com
+Address: 2606:4700:3030::6815:7001
+Name:	czbydryer.com
+Address: 2606:4700:3030::6815:5001
+Name:	czbydryer.com
+Address: 2606:4700:3030::6815:4001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.e0101.com
-Address: 199.59.243.228
+www.lailai360.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
 
