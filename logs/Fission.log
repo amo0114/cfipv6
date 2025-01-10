@@ -21954,3 +21954,24 @@ Performing DNS lookup for mov7.zota.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ce6adb3] Update project files
+ 4 files changed, 58 insertions(+), 21 deletions(-)
+To github.com:amo0114/cfipv6.git
+   2033ce7..ce6adb3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.224.138...
+Fetching domains for 104.17.226.235...
+Fetching domains for 104.17.228.193...
+succeed to fetch domains for 104.17.228.193 from https://site.ip138.com/
+succeed to fetch domains for 104.17.224.138 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.226.235 from https://dnsdblookup.com/
+域名列表为
+['www.dcs99.com', 'www.btdad.in', 'cheesegame.top', 'www.993my.com', 'www.btbdys.com', 'fmv.fccl.fujitsu.com', 'www.36dm.com', 'www.wn01.cc', 'www.789kp.com', '6988tv.com', 'www.8899tl.com', 'cfip.xxxxxxxx.tk', 'www.bt4kyy.com', 'www.rxjh520.cc', 'bk.jdkg.fun', 'www.iios.club', 'www.tockt.com', 'www.kbss888.com', 'www.shengdiyading.com', 'm.niuerzs.com', 'amoebi.com', 'www.whpaiger.com', 'www.hhyy028.com', 'www.cfhuagong.com', 'pan.axxpan.com', 'www.sp6080.com', 'www.lyzdzy.com', 'wap.btdad.in', 'www.huakai2018.com', 'iios.club', 'www.75uw.com', 'www.iios.fun', 'www.6988tv.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wn01.cc...
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for www.789kp.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,38 +2,54 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.wn01.cc	canonical name = cf-4.sjcdn.top.
-cf-4.sjcdn.top	canonical name = cn.wnacg.com.
-Name:	cn.wnacg.com
-Address: 172.67.74.237
-Name:	cn.wnacg.com
-Address: 104.26.13.109
-Name:	cn.wnacg.com
-Address: 104.26.12.109
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:d6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::ac43:4aed
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:c6d
+dm84.tv	canonical name = cf.699688.xyz.
+cf.699688.xyz	canonical name = www.cloudflare.com.
+Name:	www.cloudflare.com
+Address: 104.16.123.96
+Name:	www.cloudflare.com
+Address: 104.16.124.96
+Name:	www.cloudflare.com
+Address: 2606:4700::6810:7c60
+Name:	www.cloudflare.com
+Address: 2606:4700::6810:7b60
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
+Name:	22ddy.com
+Address: 156.248.60.195
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.789kp.com
-Address: 104.21.52.35
-Name:	www.789kp.com
-Address: 172.67.194.200
-Name:	www.789kp.com
-Address: 2606:4700:3033::ac43:c2c8
-Name:	www.789kp.com
-Address: 2606:4700:3033::6815:3423
+Name:	www.nb6080.cc
+Address: 104.21.80.1
+Name:	www.nb6080.cc
+Address: 104.21.16.1
+Name:	www.nb6080.cc
+Address: 104.21.96.1
+Name:	www.nb6080.cc
+Address: 104.21.32.1
+Name:	www.nb6080.cc
+Address: 104.21.112.1
+Name:	www.nb6080.cc
+Address: 104.21.48.1
+Name:	www.nb6080.cc
+Address: 104.21.64.1
+Name:	www.nb6080.cc
+Address: 2606:4700:3030::6815:7001
+Name:	www.nb6080.cc
+Address: 2606:4700:3030::6815:4001
+Name:	www.nb6080.cc
+Address: 2606:4700:3030::6815:2001
+Name:	www.nb6080.cc
+Address: 2606:4700:3030::6815:6001
+Name:	www.nb6080.cc
+Address: 2606:4700:3030::6815:1001
+Name:	www.nb6080.cc
+Address: 2606:4700:3030::6815:3001
+Name:	www.nb6080.cc
+Address: 2606:4700:3030::6815:5001
 
