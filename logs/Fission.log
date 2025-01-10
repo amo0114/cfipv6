@@ -22084,3 +22084,25 @@ Performing DNS lookup for qcapp.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bcebd0e] Update project files
+ 4 files changed, 61 insertions(+), 59 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   a015088..bcebd0e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.171.21...
+Fetching domains for 172.66.42.126...
+Fetching domains for 104.18.5.179...
+succeed to fetch domains for 104.18.5.179 from https://dnsdblookup.com/
+succeed to fetch domains for 172.66.42.126 from https://site.ip138.com/
+succeed to fetch domains for 172.67.171.21 from https://dnsdblookup.com/
+域名列表为
+['zywhsb.com', 'sopkdztrx.com', 'esdexpert.com', 'www.36dm.club', 'sesongshu.xyz', 'www.hosemicon.com', 'wap.bksmss.top', '4hu12n.com', 'www.tinghen.com', 'www.videosxxxputas.xxx', '47198.com', 'www.4148.net', 'cleanmymac.com', 'www.szxjsj.com', 'www.sxwm888.cn', 'a123as.com', 'www.bokacha.com', 'www.a123as.com', 'www.266958.com', 'www.6i5.com', 'www.bjfqmj.com', 'www.28dushu.com', 'meradmin.zywhsb.com', 'www.gzcfmy.com', 'm.bksmss.top', 'bg.allfont.net', 'pan.aytsao.cn', '60008.com', '16mma.com', 'www.bksmss.top', 'www.4hu12n.com', 'www.nmgrv.com', 'bokacha.com', '3g.bksmss.top', 'www.huizeshangmao.com', 'www.11txt.com', 'www.hxsy888.com', 'www.jsdrtzn.com', 'www.zywhsb.com', 'm.28dushu.com', 'www.7sc.cc', 'thep4402.cc', 'www.sesongshu.xyz', 'baidu.gov.94716.zkcolxa.top', 'wwww.zywhsb.com', 'amoebi.com', 'www.campro-edu.cn', 'dailies.com', 'www.16mma.com', 'bksmss.top', 'www.dgytlt.com', 'www.17kty.com', 'videopro.ccav1.org', 'uk.allfont.net', 'download.ccav1.org', 'ringoffirecards.com', 'yundunwawablogcdn1dx.wawacm.com', 'blog.hostmonit.com', 'www.60008.com', 'nmgrv.com', 'pgou.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wap.bksmss.top...
+Performing DNS lookup for www.szxjsj.com...
+Performing DNS lookup for dailies.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
