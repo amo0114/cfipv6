@@ -1,32 +1,45 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find strangetop.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.sexofilm.com
+Address: 72.52.178.23
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find canaismax.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.xinjuc.com	canonical name = www.xinjuc.com.cdn.cloudflare.net.
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 104.21.73.59
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 172.67.158.71
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:9e47
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:493b
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	www.tubetubetube.com
-Address: 104.21.65.156
-Name:	www.tubetubetube.com
-Address: 172.67.146.227
-Name:	www.tubetubetube.com
-Address: 2606:4700:3031::ac43:92e3
-Name:	www.tubetubetube.com
-Address: 2606:4700:3035::6815:419c
+Name:	qcapp.xyz
+Address: 104.21.48.1
+Name:	qcapp.xyz
+Address: 104.21.96.1
+Name:	qcapp.xyz
+Address: 104.21.32.1
+Name:	qcapp.xyz
+Address: 104.21.112.1
+Name:	qcapp.xyz
+Address: 104.21.16.1
+Name:	qcapp.xyz
+Address: 104.21.80.1
+Name:	qcapp.xyz
+Address: 104.21.64.1
+Name:	qcapp.xyz
+Address: 2606:4700:3030::6815:3001
+Name:	qcapp.xyz
+Address: 2606:4700:3030::6815:4001
+Name:	qcapp.xyz
+Address: 2606:4700:3030::6815:2001
+Name:	qcapp.xyz
+Address: 2606:4700:3030::6815:6001
+Name:	qcapp.xyz
+Address: 2606:4700:3030::6815:1001
+Name:	qcapp.xyz
+Address: 2606:4700:3030::6815:7001
+Name:	qcapp.xyz
+Address: 2606:4700:3030::6815:5001
 

@@ -22040,3 +22040,25 @@ Performing DNS lookup for www.a123dd.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9e9a5e6] Update project files
+ 4 files changed, 62 insertions(+), 72 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   ec810e0..9e9a5e6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.235.9...
+Fetching domains for 104.22.53.223...
+Fetching domains for 104.22.52.203...
+succeed to fetch domains for 104.22.52.203 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.53.223 from https://site.ip138.com/
+succeed to fetch domains for 104.21.235.9 from https://dnsdblookup.com/
+域名列表为
+['alivegore.com', 'sexyxxx.ooo', 'www.50zw.org', 'sexofilm.com', 'file.coffee', 'qcapp.xyz', 'www.iios.me', 'vdo.ai', 'www.hentaidream.org', 'iqq.qcapp.xyz', 'ovoxyz.com', 'yu-gi-yn.com', 'fatpreggosex.com', 'celebritysex.co', 'www.connectingsingles.com', '086181.xyz', 'connectingsingles.com', 'cdata2.xyz', 'a.vdo.ai', 'manhuadb.com', 'leakedmodels.com', 'www.45zw.org', 'asmr18.fans', 'www.knvod.com', 'c.bbdata.cc', 'www.99a51.com', 'www.rajwap.tv', 'www.gaymoviesarch.com', 'tubetubetube.com', 'gaypornx.com', '18ys.com', 'bbdata.cc', 'rajwap.tv', 'www.iios.club', '99a51.com', 'government.is', 'www.alivegore.com', 'www.zhaishulou.com', 'ladysoniavideos.com', 'www.hxncpgs.com', 'hotnakedphotos.com', 'www.fatpreggosex.com', 'www.wn01.cc', 'www.manhuadb.com', 'hugeassgirls.com', 'gobr.ml', '52bqg.net', 'www.ngcn.net', '7.bbdata.cc', 'www.hotnakedphotos.com', 'www.sexofilm.com', 'gaymoviesarch.com', 'strangetop.com', 'canaismax.com', 'hkhl.xyz', 'www.government.is', 'www.xcyy696.com', 'rocketseeds.com', 'sonpornmomincestsex.com', 'www.xinjuc.com', 'www.tubetubetube.com', 'www.gaypornx.com', 'www.ladysoniavideos.com', 'goldenageofgaia.com', 'www.wn04.cc', 'www.pornopark.nl', 'sexyhairybabes.com', 'hentaidream.org', 'www.v2raz.vip', 'www.1-800-girlman.com', 'tonglurenjiaoyu.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for strangetop.com...
+Performing DNS lookup for www.xinjuc.com...
+Performing DNS lookup for www.tubetubetube.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
