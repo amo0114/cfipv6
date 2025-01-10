@@ -21997,3 +21997,25 @@ Performing DNS lookup for www.nb6080.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4ddaef2] Update project files
+ 4 files changed, 80 insertions(+), 68 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   06b6165..4ddaef2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.20.69...
+Fetching domains for 104.17.254.88...
+Fetching domains for 104.26.1.249...
+succeed to fetch domains for 104.26.1.249 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.20.69 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.254.88 from https://dnsdblookup.com/
+域名列表为
+['www.guochenghr.com', 'www.qire88.com', 'www.xxxtubezoo.com', 'totalspoiler.com', 'www.xc377.com', 'xn--41t058e.hmttt.icu', 'www.leisi3.xyz', 'www.88wwk.com', 'jsscxjzxxw.com', 'qbit.fxept.cn', 'www.luminatibrindes.com.br', 'cgcc.digicert.pp.ua', 'www.laowang.co', 'www.omtch.com', 'dingdingdm.com', 'txydd.com', 'sgaa.sectigo.pp.ua', 'xc377.com', 'www.444ssv.com', 'www.dingdingdm.com', 'leisi3.xyz', 'forum.loups-garous-en-ligne.com', 'www.cp25.com', 'www.onlc.fr', 'omtch.com', 'zqkrk8dvu9o9u9.xyz', 'www.ddecc.com', 'www.fanzone91.com', 'xfltd.net', 'garnier.no', 'www.qdjljy.com', 'www.3xplanet.com', '74us.com', 'xn--vjq503a.hmttt.icu', 'mir1888.com', 'yingchuansocks.com', 'bestcf.onecf.eu.org', 'grandstream.net.ua', 'www.txydd.com', 'wycp213.com', 'www.tzezn.cn', 'www.xinyi176.com', 'www.304afaf.com', 'www.xinjuc.com', 'freshchoice.co.nz', 'm.hodpws.top', 'www.fuli26.lv', 'www.74fan.com', 'thep1252.cc', 'fanzone91.com', 'www.ff178.com', 'www.z8s57.cn', 'qdzhongbei.com', 'www.zjrobon.com', 'akak1.com', 'www.manchuconsulate.onlc.fr', 'tomleemusic.ca', '56874.com', '444ssv.com', 'luxplus.no', 'salad.com', 'qqq058.com', 'www.nanhuyt.com', 'www.iios.club', '74xz.com', 'www.5389g.com', 'qdtsdp.com', 'tangxinshipin.run', 'rmm.wenetwork.com', 'yiqi1234.com', 'www.hodpws.top', 'onlc.fr', '10.omtch.com', 'www.74xz.com', 'mercimamanboutique.com', 'www.luxplus.no', 'abersonexhibits.com', 'www.yh9pk.com', 'ppxdm.com', 'travelstories.gr', 'wap.hodpws.top', 'www.74us.com', 'www.5120tl.top', 'xrkkl.jcqgaiyi.cn', 'nanhuyt.com', 'uz3.xyz', 'guochenghr.com', 'jw.com.au', 'www.shenchong.com', 'loups-garous-en-ligne.com', 'handmadewriting.com', 'ff178.com', 'kuzu2019.net', 'didamh.com', 'm.niuerzs.com', 'www.limetorrents.info', 'www.garnier.no', 'www.hhyy028.com', 'cl.uz3.xyz', '3xplanet.com', 'www.295k.com', 'www.tangxinshipin.run', 'www.741dm.com', 'bc168.cc', 'www.ppxdm.com', 'xxxtubezoo.com', 'www.qdtsdp.com', 'limetorrents.info', 'rbtblog.com', 'www.akak1.com', 'www.m6y6.com', 'www.jw.com.au', 'www.qdzhongbei.com', '74fan.com', 'www.xigua5.com', 'v666cc.com', 'qdjljy.com', 'luminatibrindes.com.br', 'fuli26.lv', '5389g.com', 'hodpws.top', 'qhshenghuo.xyz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.nangua55.com', '304afaf.com', 'asbcc.geotrust.pp.ua', 'qigo.dk', 'www.ahlongtuan.com', 'www.gaoqingw.com', 'baxtc.66666654.xyz', 'www.tickcopy.com', 'thea1659.cc', '3g.hodpws.top', 'www.tockt.com', '5.sanfen001.top', 'cfip.xxxxxxxx.tk', 'chaoli.club', 'respotechnik.gr', 'pasino.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xc377.com...
+Performing DNS lookup for www.ppxdm.com...
+Performing DNS lookup for 3xplanet.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

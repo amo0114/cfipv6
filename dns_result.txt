@@ -2,44 +2,55 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.xc377.com
-Address: 45.207.75.112
+Name:	m.sbzlrpp.top
+Address: 104.21.37.173
+Name:	m.sbzlrpp.top
+Address: 172.67.210.199
+Name:	m.sbzlrpp.top
+Address: 2606:4700:3037::6815:25ad
+Name:	m.sbzlrpp.top
+Address: 2606:4700:3037::ac43:d2c7
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ppxdm.com	canonical name = ppdns.hai888.top.
-ppdns.hai888.top	canonical name = dns02.hddm.cc.
-Name:	dns02.hddm.cc
-Address: 104.21.64.1
-Name:	dns02.hddm.cc
-Address: 104.21.16.1
-Name:	dns02.hddm.cc
-Address: 104.21.80.1
-Name:	dns02.hddm.cc
+www.hxncpgs.com	canonical name = cf.czonkgc.com.
+Name:	cf.czonkgc.com
+Address: 104.19.62.52
+Name:	cf.czonkgc.com
+Address: 104.19.45.89
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.a123dd.com
 Address: 104.21.32.1
-Name:	dns02.hddm.cc
+Name:	www.a123dd.com
 Address: 104.21.48.1
-Name:	dns02.hddm.cc
-Address: 104.21.112.1
-Name:	dns02.hddm.cc
+Name:	www.a123dd.com
 Address: 104.21.96.1
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	3xplanet.com
-Address: 104.26.1.249
-Name:	3xplanet.com
-Address: 172.67.72.203
-Name:	3xplanet.com
-Address: 104.26.0.249
-Name:	3xplanet.com
-Address: 2606:4700:20::681a:1f9
-Name:	3xplanet.com
-Address: 2606:4700:20::ac43:48cb
-Name:	3xplanet.com
-Address: 2606:4700:20::681a:f9
+Name:	www.a123dd.com
+Address: 104.21.64.1
+Name:	www.a123dd.com
+Address: 104.21.80.1
+Name:	www.a123dd.com
+Address: 104.21.16.1
+Name:	www.a123dd.com
+Address: 104.21.112.1
+Name:	www.a123dd.com
+Address: 2606:4700:3030::6815:4001
+Name:	www.a123dd.com
+Address: 2606:4700:3030::6815:7001
+Name:	www.a123dd.com
+Address: 2606:4700:3030::6815:6001
+Name:	www.a123dd.com
+Address: 2606:4700:3030::6815:2001
+Name:	www.a123dd.com
+Address: 2606:4700:3030::6815:3001
+Name:	www.a123dd.com
+Address: 2606:4700:3030::6815:1001
+Name:	www.a123dd.com
+Address: 2606:4700:3030::6815:5001
 
