@@ -21932,3 +21932,25 @@ Performing DNS lookup for www.tl2938.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2033ce7] Update project files
+ 4 files changed, 58 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   8baff43..2033ce7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.40.67...
+Fetching domains for 104.18.6.45...
+Fetching domains for 104.21.27.46...
+succeed to fetch domains for 172.66.40.67 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.6.45 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.27.46 from https://ipchaxun.com/
+域名列表为
+['www.weekinchina.com', 'movie21.zota.club', 'movie25.zota.club', 'myetherwallet.com', 'ww314.com', '166577q.com', 'fightsite.hr', 'mov4.zota.club', 'movie15.zota.club', 'jdhnh865.xyz', 'zota.club', 'mjsqvip8.com', 'exypnes-idees.gr', 'hr.com', 'www.xssdata.top', 'bieler.at', 'www.smart.com.kh', 'mov2.zota.club', 'ty440.com', 'smg0.com', 'www.cfhuagong.com', 'e678a.com', '6833tyc.com', 'mengzhan71.top', 'www.cc99tt.com', 'movie23.zota.club', 'womansera.com', 'www.625748.com', 'cc99tt.com', 'ugtu.net', 'www.qntckw.cn', 'www.ty610.com', 'zhx837.com', 'www.hk2009.com', 'cctv2.eu.org', '18aaa.life', 'ahp68.com', 'sayerslondon.com', 'm.xssdata.top', 'xll04.buzz', 'www.ty440.com', 'maomiav2.com', '66yybb.com', 'movie32.zota.club', 'credissimo.bg', 'www.cstorv.com', 'www.sayerslondon.com', 'thetelegram.com', 'madewithnestle.ca', 'www.okyscdn38.com', 'www.slutarokalinjen.se', 'wap.xssdata.top', '233lt.com', 'www.ahp68.com', 'indwx.shop', 'ty557.com', '933ba.com', 'movie14.zota.club', 'hk830856.com', 'www.familycouncil.gov.hk', 'receive-sms-online.info', 'www.ty442.com', 'movie39.zota.club', 'www.gunbroker.com', 'ty442.com', 'mov1.zota.club', 'azuracast.com', 'movie8.zota.club', 'movie19.zota.club', 'movie2.zota.club', 'd022c.com', 'www.hk830856.com', 'movie5.zota.club', 'www.cydjxx.com', 'chihan.co', 'cf.xingkorg.top', 'www.madewithnestle.ca', 'www.vestibulandoweb.com.br', 'ty1755.com', 'movie20.zota.club', 'movie18.zota.club', 'zz080.com', 'api-gateway.seoclarity.dev', 'www.dwexperience.com', 'movie3.zota.club', 'movie33.zota.club', 'ty611.com', 'opua6.xyz', 'www.906oo.cn', 'fuzhaopeng.com', 'hankewins.com', 'www.myetherwallet.com', 'www.maomiav2.com', 'v3.zabeis.com', 'chess.am', 'www.hankewins.com', 'www.hanbiwolf.cc', '100maoaf.com', 'movie1.zota.club', 'cydjxx.com', 'www.splatshop.co.uk', 'mov6.zota.club', 'www.luvharry.net', 'www.75uw.com', 'www.hunanzhihui.com', 'simreg.smart.com.kh', 'meradmin.5gx.top', 'ali.cleanboildctips.com', 'www.dha.ln.cn', 'www.e678a.com', 'www.uvb311.com', 'www.ty99r.com', 'ty6633.com', 'www.receive-sms-online.info', 'www.66yybb.com', 'mov10.zota.club', 'mov7.zota.club', 'www.hr.com', 'ty447.com', '3g.xssdata.top', 'movie12.zota.club', 'www.vip23y.xyz', 'www.practicalnursing.org', 'movie35.zota.club', 'movie26.zota.club', 'www.d022c.com', 'sisolinmobiliaria.com', 'mov36.zota.club', 'www.reviewsfire.com', 'www.ty6633.com', 'ztgx-ah.com', 'hk2009.com', 'movie29.zota.club', '420couponcodes.com', 'ty99r.com', '5gx.top', '51515123.com', 'movie6.zota.club', 'www.s9c7irzvhes.com', 'i.countdownmail.com', 'l8k554.tw', 'mov30.zota.club', 'movie34.zota.club', 'www.w88br.com', 'www.islonline.com', 'www.madewithnestle.ca.cdn.cloudflare.net', 'xssdata.top', 'chips.gg', 'www.siliconera.com', 'cfip.xxxxxxxx.tk', 'dwexperience.com', 'www.2299tyc.com', 'movie36.zota.club', 'movie9.zota.club', 'movie16.zota.club', 'worldfinancialreview.com', 'dizhi.pin9.xyz', '625748.com', 'www.4huee10.com', 'm.w88br.com', 'movie24.zota.club', 'www.166577q.com', 'movie37.zota.club', 'thep371.cc', 'www.luwangyangrong.com', 'movie31.zota.club', 'www.fs-hengfeng.com', 'movie27.zota.club', 'hldp.cc', 'cloudpowerall.com', 'www.ty1755.com', 'madewithnestle.ca.cdn.cloudflare.net', 'movie11.zota.club', 'www.mengzhan71.top', 'yyds.im', 'uvb311.com', 'vip23y.xyz', '836nn.com', 'www.chihan.co', 'www.iuworld.cn', 'ac558.com', 'mov3.zota.club', 'e1.str881.xyz', 'smart.com.kh']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 836nn.com...
+Performing DNS lookup for www.166577q.com...
+Performing DNS lookup for mov7.zota.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

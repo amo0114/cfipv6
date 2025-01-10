@@ -2,26 +2,38 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	836nn.com
-Address: 172.67.168.232
-Name:	836nn.com
-Address: 104.21.27.46
-Name:	836nn.com
-Address: 2606:4700:3035::ac43:a8e8
-Name:	836nn.com
-Address: 2606:4700:3037::6815:1b2e
+www.wn01.cc	canonical name = cf-4.sjcdn.top.
+cf-4.sjcdn.top	canonical name = cn.wnacg.com.
+Name:	cn.wnacg.com
+Address: 172.67.74.237
+Name:	cn.wnacg.com
+Address: 104.26.13.109
+Name:	cn.wnacg.com
+Address: 104.26.12.109
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:d6d
+Name:	cn.wnacg.com
+Address: 2606:4700:20::ac43:4aed
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:c6d
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.166577q.com
-Address: 45.197.41.227
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	mov7.zota.club
-Address: 69.162.95.3
+Name:	www.789kp.com
+Address: 104.21.52.35
+Name:	www.789kp.com
+Address: 172.67.194.200
+Name:	www.789kp.com
+Address: 2606:4700:3033::ac43:c2c8
+Name:	www.789kp.com
+Address: 2606:4700:3033::6815:3423
 
