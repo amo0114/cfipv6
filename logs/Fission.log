@@ -22062,3 +22062,25 @@ Performing DNS lookup for www.tubetubetube.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a015088] Update project files
+ 4 files changed, 81 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   9e9a5e6..a015088  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.235.9...
+Fetching domains for 104.22.52.203...
+Fetching domains for 104.22.6.249...
+succeed to fetch domains for 104.22.6.249 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.52.203 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.235.9 from https://dnsdblookup.com/
+域名列表为
+['hkhl.xyz', '086181.xyz', 'sexyxxx.ooo', 'bbdata.cc', '99a51.com', 'celebritysex.co', 'hugeassgirls.com', 'www.wn04.cc', '18ys.com', 'www.sexofilm.com', 'www.ngcn.net', 'www.xcyy696.com', 'www.xinjuc.com', 'www.hxncpgs.com', 'connectingsingles.com', 'goldenageofgaia.com', 'file.coffee', 'gaypornx.com', 'ladysoniavideos.com', 'www.gaymoviesarch.com', 'www.gaypornx.com', 'www.alivegore.com', 'qcapp.xyz', 'tubetubetube.com', 'www.iios.club', '51sofu.com', 'www.hotnakedphotos.com', 'sexofilm.com', 'canaismax.com', 'www.government.is', 'vdo.ai', 'hentaidream.org', 'www.rajwap.tv', 'www.pornopark.nl', 'fatpreggosex.com', 'government.is', 'www.hentaidream.org', 'alivegore.com', 'sexyhairybabes.com', 'qx.se', 'sonpornmomincestsex.com', 'strangetop.com', 'www.fatpreggosex.com', 'www.99a51.com', '7.bbdata.cc', 'www.tubetubetube.com', 'www.wn01.cc', 'tonglurenjiaoyu.xyz', 'a.vdo.ai', 'www.connectingsingles.com', 'rocketseeds.com', 'www.1-800-girlman.com', 'hotnakedphotos.com', 'asmr18.fans', 'c.bbdata.cc', 'leakedmodels.com', 'www.zhaishulou.com', 'www.ladysoniavideos.com', 'rajwap.tv', 'cdata2.xyz', 'www.v2raz.vip', 'iqq.qcapp.xyz', 'cfip.xxxxxxxx.tk', 'yu-gi-yn.com', 'gaymoviesarch.com', 'gobr.ml', 'www.knvod.com', 'ovoxyz.com', 'www.iios.me']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.sexofilm.com...
+Performing DNS lookup for canaismax.com...
+Performing DNS lookup for qcapp.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

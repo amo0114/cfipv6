@@ -1,45 +1,28 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.sexofilm.com
-Address: 72.52.178.23
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find canaismax.com: SERVFAIL
+** server can't find wap.bksmss.top: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	qcapp.xyz
-Address: 104.21.48.1
-Name:	qcapp.xyz
-Address: 104.21.96.1
-Name:	qcapp.xyz
-Address: 104.21.32.1
-Name:	qcapp.xyz
-Address: 104.21.112.1
-Name:	qcapp.xyz
-Address: 104.21.16.1
-Name:	qcapp.xyz
-Address: 104.21.80.1
-Name:	qcapp.xyz
-Address: 104.21.64.1
-Name:	qcapp.xyz
-Address: 2606:4700:3030::6815:3001
-Name:	qcapp.xyz
-Address: 2606:4700:3030::6815:4001
-Name:	qcapp.xyz
-Address: 2606:4700:3030::6815:2001
-Name:	qcapp.xyz
-Address: 2606:4700:3030::6815:6001
-Name:	qcapp.xyz
-Address: 2606:4700:3030::6815:1001
-Name:	qcapp.xyz
-Address: 2606:4700:3030::6815:7001
-Name:	qcapp.xyz
-Address: 2606:4700:3030::6815:5001
+www.szxjsj.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.42.185
+Name:	cf.zmdhc.com
+Address: 172.67.180.118
+Name:	cf.zmdhc.com
+Address: 172.67.200.198
+Name:	cf.zmdhc.com
+Address: 172.67.175.150
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	dailies.com
+Address: 104.18.4.179
+Name:	dailies.com
+Address: 104.18.5.179
 
