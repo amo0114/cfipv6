@@ -1,25 +1,27 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.tockt.com: SERVFAIL
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.tl123123.com: NXDOMAIN
+Non-authoritative answer:
+Name:	836nn.com
+Address: 172.67.168.232
+Name:	836nn.com
+Address: 104.21.27.46
+Name:	836nn.com
+Address: 2606:4700:3035::ac43:a8e8
+Name:	836nn.com
+Address: 2606:4700:3037::6815:1b2e
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.tl2938.xyz	canonical name = yt3426.c2.hycdn.xyz.
-yt3426.c2.hycdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
+Name:	www.166577q.com
+Address: 45.197.41.227
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	mov7.zota.club
+Address: 69.162.95.3
 
