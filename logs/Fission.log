@@ -21975,3 +21975,25 @@ Performing DNS lookup for www.789kp.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 06b6165] Update project files
+ 4 files changed, 92 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   ce6adb3..06b6165  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.37.155...
+Fetching domains for 104.21.105.198...
+Fetching domains for 104.18.63.232...
+succeed to fetch domains for 104.21.105.198 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.63.232 from https://site.ip138.com/
+succeed to fetch domains for 104.17.37.155 from https://dnsdblookup.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'porntubent.com', 'achk.cloudflarest.link', 'www.fnyyw.net', 'www.97pojie.com', 'amoebi.com', 'www.luwangyangrong.com', 'www.2341pp.com', 'www.robotmarketplace.com', 'www.112tb.com', 'www.krcba.com', 'www.52xj7.com', '22ddy.com', 'www.iios.club', 'www.xworldadmin.com', 'www.mjrqkjj.icu', '2341pp.com', 'www.tpyyc.com', 'www.doupobook.cc', 'dm84.tv', '52xj7.com', 'www.earthorbittech.com', 'www.porntubent.com', '654eee.com', 'www.framedonmadison.com', 'www.nb6080.cc', '100maohh.com', 'netzwerkde.tk', 'w2.tztztz20.com', '0208.ws', '112tb.com', 'tztztz20.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for dm84.tv...
+Performing DNS lookup for 22ddy.com...
+Performing DNS lookup for www.nb6080.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
