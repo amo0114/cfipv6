@@ -2,28 +2,18 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-gameinfo.esports365hub.com	canonical name = proxyfallback.e10058aig2.com.
-proxyfallback.e10058aig2.com	canonical name = proxyfallback.e10058aig2.com.cdn.cloudflare.net.
-Name:	proxyfallback.e10058aig2.com.cdn.cloudflare.net
-Address: 104.18.20.248
-Name:	proxyfallback.e10058aig2.com.cdn.cloudflare.net
-Address: 104.18.21.248
-Name:	proxyfallback.e10058aig2.com.cdn.cloudflare.net
-Address: 2606:4700::6812:14f8
-Name:	proxyfallback.e10058aig2.com.cdn.cloudflare.net
-Address: 2606:4700::6812:15f8
+Name:	yadongpan26.org
+Address: 69.162.95.4
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.50zw.co: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.285nq.com
-Address: 194.53.53.3
-Name:	www.285nq.com
-Address: 194.53.53.253
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.dzy66666.com: NXDOMAIN
+Name:	images.xpornfly.com
+Address: 185.53.177.113
 

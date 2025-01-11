@@ -22194,3 +22194,25 @@ Performing DNS lookup for www.yh9pk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a478daa] Update project files
+ 4 files changed, 60 insertions(+), 93 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   977a6e8..a478daa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.21.248...
+Fetching domains for 104.17.224.111...
+Fetching domains for 104.18.26.19...
+succeed to fetch domains for 104.18.21.248 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.26.19 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.224.111 from https://ipchaxun.com/
+域名列表为
+['index.m3u8list.top', 'www.quimbee.com', 'sex5rpyd.com', 'www.dzy66666.com', 'www.xlys01.com', 'www.lyzdzy.com', 'www.wn04.cc', 'www.xxootl.com', 'www.ququxiaoshuo.com', 'www.xzmoyu.com', 'nlsdwsz.66666654.xyz', 'www.ddwhm.com', 'zs.polkaudio.com', 'cdn.razersynapse.com', 'www.equiti.com', 'y999a.com', 'www.kbss888.com', 'socket.esports365hub.com', 'www.selipu.com', 'dd44ww.com', '4664hu.com', 'gha345.com', 'www.gha345.com', 'cfip.xxxxxxxx.tk', '4huxnc.com', 'dns4.shenyum3u8.top', 'www.b8t66.com', 'www.sex5rpyd.com', 'z666e.com', 'gameinfo.esports365hub.com', 'www.wn01.cc', 'www.kanunu2.com', 'm3u814.shenyum3u8.top', 'moe.me', 'www.285nq.com', 'playdash.net', 'index1.xxm3u8.top', 'tractorhouse.ch', 'www.4huxnc.com', 'www.zzztch.com', 'www.dd44ww.com', 'www.5522tl.com', 'b3h66.com', '4hucc27.com', '285nq.com', 'www.z666e.com', 'www.lailai360.com', 'gms.razersynapse.com', 'www.cfhuagong.com', 'b8t66.com', 'www.4hucc27.com', 'www.pianku5.com', 'www.4huav177.com', 'www.y999a.com', 'www.4huk13.com', 'www.xiuluo942.com', 'www.skanska.fi', '3344sx.com', 'www.b3h66.com', 'quimbee.com', 'www.88wwk.com', 'www.yh9pk.com', 'gshgtts.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for gameinfo.esports365hub.com...
+Performing DNS lookup for www.285nq.com...
+Performing DNS lookup for www.dzy66666.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
