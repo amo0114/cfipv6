@@ -22216,3 +22216,25 @@ Performing DNS lookup for www.dzy66666.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c560fe9] Update project files
+ 4 files changed, 49 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   a478daa..c560fe9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.234.78...
+Fetching domains for 104.18.26.134...
+Fetching domains for 104.18.64.36...
+succeed to fetch domains for 104.18.26.134 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.64.36 from https://site.ip138.com/
+succeed to fetch domains for 104.21.234.78 from https://site.ip138.com/
+域名列表为
+['www.91m.cc', 'signapool.notallmine.net', 'k748g.com', 'www.royalcopenhagen.com', 'v.tlyy.cc', 'vaughnlive.tv', 'pornoaffe.com', '6988tv.com', 'www.pornoaffe.com', 'www.7lq.com', 'foot-trample.net', 'xaglls.com', 'www.5522tl.com', 'www.50zw.co', 'decc.66666654.xyz', 'www.k748g.com', 'raw.gitmirror.com', 'www.gcjt119.com', 'www.atkhairy.com', '1dgjjs1.com', 'www.2v8d.com', 'www.001my.com', 'sexyplus.com', 'yadongpan26.org', 'www.99wxw.cc', 'reader.epoch.cloud', 'hotleak.vip', 'upzone.cc', 'www.foot-trample.net', 'www.lailai360.com', 'km.visamiddleeast.com', 'theslutbay.com', 'pornimg.xyz', 'www.726ii.com', 'sz12.app', 'www.kbss888.com', 'www.czesciauto24.pl', 'atkhairy.com', 'baxtc.66666654.xyz', 'porn4days.net', 'www.xiaoshuohi.com', '36dm.club', 'www.92mili.com', 'nlsdwsz.66666654.xyz', '001my.com', 'www.iios.club', 'm.6988tv.com', 'www.kanmanhuala.cc', 'www.6988tv.com', 'images.xpornfly.com', 'yyxfxf.com', 'bestscat.com', 'www.sz12.app', 'www.4huxx336.com', 'javday.xyz', 'www.zhiqihuo.com', '4huxx336.com', 'luwangyangrong.com', 'srviral.com', 'zhencaozi.com', 'atlantissanyaphototreasures.cn', 'www.hhyy028.com', 'www.baota.me', 'www.dafuhao.com', '726ii.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yadongpan26.org...
+Performing DNS lookup for www.50zw.co...
+Performing DNS lookup for images.xpornfly.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
