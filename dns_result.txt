@@ -2,38 +2,66 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-best.cdn.sqeven.cn	canonical name = cloudflare.182682.xyz.
-cloudflare.182682.xyz	canonical name = xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz.
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find 8810868.com: NXDOMAIN
+www.yjys05.com	canonical name = nz.7zz.cn.
+nz.7zz.cn	canonical name = cdn.7zz.cn.
+Name:	cdn.7zz.cn
+Address: 104.19.98.32
+Name:	cdn.7zz.cn
+Address: 104.19.103.54
+Name:	cdn.7zz.cn
+Address: 104.19.91.122
+Name:	cdn.7zz.cn
+Address: 104.19.15.51
+Name:	cdn.7zz.cn
+Address: 104.19.35.16
+Name:	cdn.7zz.cn
+Address: 2606:4700:4400::720f:3902
+Name:	cdn.7zz.cn
+Address: 2606:4700:e7::2af4:4b5b
+Name:	cdn.7zz.cn
+Address: 2606:4700:3112::3cc2:14dd
+Name:	cdn.7zz.cn
+Address: 2606:4700:e2::157a:7b78
+Name:	cdn.7zz.cn
+Address: 2606:4700:e1::6906:6a99
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	ygdy8.cc
-Address: 156.224.139.175
+Name:	cf1.492745.xyz
+Address: 172.67.154.130
+Name:	cf1.492745.xyz
+Address: 162.159.242.95
+Name:	cf1.492745.xyz
+Address: 104.19.141.166
+Name:	cf1.492745.xyz
+Address: 104.21.228.218
+Name:	cf1.492745.xyz
+Address: 172.67.238.41
+Name:	cf1.492745.xyz
+Address: 104.17.143.98
+Name:	cf1.492745.xyz
+Address: 172.67.80.13
+Name:	cf1.492745.xyz
+Address: 172.67.45.76
+Name:	cf1.492745.xyz
+Address: 162.159.243.235
+Name:	cf1.492745.xyz
+Address: 172.67.87.152
+Name:	cf1.492745.xyz
+Address: 104.22.48.50
+Name:	cf1.492745.xyz
+Address: 141.101.123.217
+Name:	cf1.492745.xyz
+Address: 172.64.142.226
+Name:	cf1.492745.xyz
+Address: 172.67.37.11
+Name:	cf1.492745.xyz
+Address: 104.21.231.134
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.yh9pk.com: SERVFAIL
 

@@ -22150,3 +22150,25 @@ Performing DNS lookup for www.whpaiger.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 13f9c49] Update project files
+ 4 files changed, 73 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   bdc474f..13f9c49  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.237.50...
+Fetching domains for 104.17.82.7...
+Fetching domains for 104.21.236.136...
+succeed to fetch domains for 104.21.236.136 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.237.50 from https://site.ip138.com/
+succeed to fetch domains for 104.17.82.7 from https://dnsdblookup.com/
+域名列表为
+['www.pk299.com', 'www.4wa.cc', 'www.qumiyun.com', 'www.baota.me', 'yx.887141.xyz', 'www.shy6666.com', 'www.xinjuc.com', 'www.cocanwelding.com', 'www.cx888my.com', 'speed.marisalnc.com', 'www.xworldadmin.com', 'xn--mcrt9b.cloudflare.182682.xyz', 'www.yncareer.com', 'www.wn01.cc', 'xfltd.net', 'www.whpaiger.com', 'www.luwangyangrong.com', 'www.lyys8.com', 'yx.sulink.one', 'www.cfhuagong.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'best.cdn.sqeven.cn', 'www.kunzedu.com', 'www.kbss888.com', 'www.qf527.com', 'yxy176.com', 'www.doupobook.com', 'nlsdwsz.66666654.xyz', '8810868.com', 'www.vod56.com', 'yh6.dtku41.xyz', 'www.tpyyc.com', 'www.qp666.com', 'www.dcs99.com', 'bm158.com', 'www.ddwhm.com', 'qp66.com', 'www.m6y6.com', 'ygdy8.cc', 'www.tlbb888.com', 'www.tockt.com', 'www.kk554.com', 'www.huakai2018.com', 'ag.hg2096.com', 'www.vwcarhelp.com', 'www.115fhd.com', 'www.bm158.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for best.cdn.sqeven.cn...
+Performing DNS lookup for 8810868.com...
+Performing DNS lookup for ygdy8.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
