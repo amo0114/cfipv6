@@ -2,34 +2,32 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.jjtyss.com
-Address: 104.21.57.51
-Name:	www.jjtyss.com
-Address: 172.67.141.246
-Name:	www.jjtyss.com
-Address: 2606:4700:3035::6815:3933
-Name:	www.jjtyss.com
-Address: 2606:4700:3034::ac43:8df6
+Name:	thementornetwork.com
+Address: 104.18.16.155
+Name:	thementornetwork.com
+Address: 104.18.17.155
+Name:	thementornetwork.com
+Address: 2606:4700::6812:119b
+Name:	thementornetwork.com
+Address: 2606:4700::6812:109b
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	bk.jdkg.fun
-Address: 172.67.73.96
+Name:	thetokenizer.io
+Address: 172.66.40.119
+Name:	thetokenizer.io
+Address: 172.66.43.137
+Name:	thetokenizer.io
+Address: 2606:4700:3108::ac42:2877
+Name:	thetokenizer.io
+Address: 2606:4700:3108::ac42:2b89
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 

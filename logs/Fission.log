@@ -22106,3 +22106,25 @@ Performing DNS lookup for dailies.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 10be3fa] Update project files
+ 4 files changed, 68 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   bcebd0e..10be3fa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.212.32...
+Fetching domains for 104.17.225.65...
+Fetching domains for 104.18.95.1...
+succeed to fetch domains for 104.17.212.32 from https://site.ip138.com/
+succeed to fetch domains for 104.17.225.65 from https://site.ip138.com/
+succeed to fetch domains for 104.18.95.1 from https://site.ip138.com/
+域名列表为
+['www.wn01.cc', 'zzztch.com', 'www.jjtyss.com', 'cfip.xxxxxxxx.tk', 'www.e0101.com', 'm.niuerzs.com', '114514.1919180.xyz', 'www.iios.club', 'bk.jdkg.fun', 'www.xcyy696.com', 'www.vcd.la', 'www.whpaiger.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.jjtyss.com...
+Performing DNS lookup for bk.jdkg.fun...
+Performing DNS lookup for www.iios.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
