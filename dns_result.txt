@@ -2,26 +2,45 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	726ii.com
-Address: 194.53.53.248
-Name:	726ii.com
-Address: 194.53.53.8
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.88.101
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.214.64
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.209.160
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.219.159
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.218.210
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.16.25
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.217.250
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.83.71
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.223.76
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.243.140
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.221.22
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.80.170
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.21.174
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.246.134
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.23.193
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.74fan.com	canonical name = 74dns.hai888.top.
-74dns.hai888.top	canonical name = dns123.xin6.top.
-Name:	dns123.xin6.top
-Address: 104.26.12.83
-Name:	dns123.xin6.top
-Address: 172.67.75.125
-Name:	dns123.xin6.top
-Address: 104.26.13.83
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find sz12.app: NXDOMAIN
+** server can't find indec.qkhbyf.tech: NXDOMAIN
 
