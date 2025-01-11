@@ -22286,3 +22286,25 @@ Performing DNS lookup for sz12.app...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3d24320] Update project files
+ 4 files changed, 86 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   fb5b3f8..3d24320  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.246.134...
+Fetching domains for 104.17.16.25...
+Fetching domains for 104.18.80.170...
+succeed to fetch domains for 104.17.16.25 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.246.134 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.80.170 from https://ipchaxun.com/
+域名列表为
+['www.1080sm.com', 'm.niuerzs.com', 'tv.52dvd.cn', '0702.rr.nu', 'cfip.xxxxxxxx.tk', 'www.iios.me', 'www.665hg.com', 'www.991kan.com', 'm.dianshizb.com', 'www.dy1255.com', 'www.whpaiger.com', 'indec.qkhbyf.tech', 'www.tv9090.com', 'cm-cdn.kfcvme50.life', 'www.99wx.cc', 'zzztch.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for m.niuerzs.com...
+Performing DNS lookup for indec.qkhbyf.tech...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
