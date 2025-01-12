@@ -22483,3 +22483,25 @@ Performing DNS lookup for www.652tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4c442e8] Update project files
+ 4 files changed, 46 insertions(+), 56 deletions(-)
+ rewrite dns_result.txt (89%)
+To github.com:amo0114/cfipv6.git
+   3cb789d..4c442e8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.51.34...
+Fetching domains for 104.17.114.156...
+Fetching domains for 104.17.17.23...
+succeed to fetch domains for 104.17.17.23 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.114.156 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.51.34 from https://site.ip138.com/
+域名列表为
+['www.6988tv.com', 'www.ddwhm.com', '8810868.com', 'www.nitianxieshen.com', 'www.gggggyy.com', 'qp66.com', 'www.456gg.com', 'www.cocanwelding.com', '606977.com', 'www.q2054.com', 'www.75uw.com', 'www.116.ag', 'www.becarefree.com.au', 'raw.gitmirror.com', 'stock.hostmonit.com', 'soraneko.cn', 'az.xicao.link', '789kp.com', 'factory.pixiv.work', 'us02.nttkk.com', 'galzy.eu.org', 'www.iios.club', 'cfip.xxxxxxxx.tk', 'www.606977.com', '7.namesilo123.top', 'www.cn46.com', 'iios.club', 'www.biqune.com', 'www.92mili.com', 'www.gyhbhq.com', 'eagleyao.com', '4.namesilo123.top', 'www.nb6080.com', 'www.qf527.com', 'www.dmbj.cc', 'clouddown.xyz', 'm.niuerzs.com', 'www.nitianzw.com', 'baxtc.66666654.xyz', 'www.52ys.cc', 'www.652tv.com', 'hongkong.qing1999.eu.org', 'www.btbdys.com', 'i.she.vc', 'www.pubiu.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qf527.com...
+Performing DNS lookup for 7.namesilo123.top...
+Performing DNS lookup for www.52ys.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
