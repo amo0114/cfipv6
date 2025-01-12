@@ -22373,3 +22373,25 @@ Performing DNS lookup for gmmm188.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 65a80b6] Update project files
+ 4 files changed, 71 insertions(+), 63 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   8484eda..65a80b6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.13.101...
+Fetching domains for 104.22.11.97...
+Fetching domains for 104.17.237.93...
+succeed to fetch domains for 104.22.13.101 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.237.93 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.11.97 from https://dnsdblookup.com/
+域名列表为
+['syriancivilwarmap.com', 'www.jmcomic2.onl', 'xfltd.net', 'www.iios.club', 'www.652tv.com', 'www.zzap.ru', 'echo.wpc2027.live', 'www.28et.com', 'fldsubgigtujuy.76898102.xyz', 'www.tsdingxin.com', 'zzap.ru', 'www.1800wheelchair.com', 'wpc2027.live', '1800wheelchair.com', 'www.yncareer.com', 'cdn-msp2.jmcomic2.onl', 'dlzip.jmcomic2.onl', 'jmcomic2.onl', 'www.luwangyangrong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for fldsubgigtujuy.76898102.xyz...
+Performing DNS lookup for syriancivilwarmap.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

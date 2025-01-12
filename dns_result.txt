@@ -2,38 +2,49 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+Name:	99reliao.tv
+Address: 104.21.32.1
+Name:	99reliao.tv
+Address: 104.21.112.1
+Name:	99reliao.tv
+Address: 104.21.80.1
+Name:	99reliao.tv
+Address: 104.21.16.1
+Name:	99reliao.tv
+Address: 104.21.48.1
+Name:	99reliao.tv
+Address: 104.21.64.1
+Name:	99reliao.tv
+Address: 104.21.96.1
+Name:	99reliao.tv
+Address: 2606:4700:3030::6815:5001
+Name:	99reliao.tv
+Address: 2606:4700:3030::6815:3001
+Name:	99reliao.tv
+Address: 2606:4700:3030::6815:7001
+Name:	99reliao.tv
+Address: 2606:4700:3030::6815:4001
+Name:	99reliao.tv
+Address: 2606:4700:3030::6815:6001
+Name:	99reliao.tv
+Address: 2606:4700:3030::6815:1001
+Name:	99reliao.tv
+Address: 2606:4700:3030::6815:2001
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find yx1.chinayyds.xyz: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	fldsubgigtujuy.76898102.xyz
-Address: 172.67.162.247
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	syriancivilwarmap.com
-Address: 104.22.11.97
-Name:	syriancivilwarmap.com
-Address: 104.22.10.97
-Name:	syriancivilwarmap.com
-Address: 172.67.4.239
-Name:	syriancivilwarmap.com
-Address: 2606:4700:10::ac43:4ef
-Name:	syriancivilwarmap.com
-Address: 2606:4700:10::6816:b61
-Name:	syriancivilwarmap.com
-Address: 2606:4700:10::6816:a61
+www.99wxw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.143.243
+Name:	ips.993888.xyz
+Address: 104.18.231.159
+Name:	ips.993888.xyz
+Address: 104.18.227.130
 
