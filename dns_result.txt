@@ -2,18 +2,47 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.4hub95.com
-Address: 172.247.193.92
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.0474hu.com: NXDOMAIN
+www.296bb.com	canonical name = t102.301dns301.com.
+Name:	t102.301dns301.com
+Address: 38.12.66.164
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.733si.com
-Address: 154.197.81.196
+Name:	www.fnyy.net
+Address: 162.209.175.126
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	gmmm188.com
+Address: 104.21.64.1
+Name:	gmmm188.com
+Address: 104.21.48.1
+Name:	gmmm188.com
+Address: 104.21.112.1
+Name:	gmmm188.com
+Address: 104.21.32.1
+Name:	gmmm188.com
+Address: 104.21.16.1
+Name:	gmmm188.com
+Address: 104.21.96.1
+Name:	gmmm188.com
+Address: 104.21.80.1
+Name:	gmmm188.com
+Address: 2606:4700:3030::6815:6001
+Name:	gmmm188.com
+Address: 2606:4700:3030::6815:1001
+Name:	gmmm188.com
+Address: 2606:4700:3030::6815:2001
+Name:	gmmm188.com
+Address: 2606:4700:3030::6815:4001
+Name:	gmmm188.com
+Address: 2606:4700:3030::6815:3001
+Name:	gmmm188.com
+Address: 2606:4700:3030::6815:5001
+Name:	gmmm188.com
+Address: 2606:4700:3030::6815:7001
 

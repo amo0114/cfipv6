@@ -22330,3 +22330,25 @@ Performing DNS lookup for raw.gitmirror.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bf23f37] Update project files
+ 4 files changed, 49 insertions(+), 74 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   fd0176b..bf23f37  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.7.15...
+Fetching domains for 104.18.3.132...
+Fetching domains for 104.18.2.14...
+succeed to fetch domains for 104.18.7.15 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.3.132 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.2.14 from https://site.ip138.com/
+域名列表为
+['www.grantthornton.ge', 'pan.axxpan.com', 'm666w.com', 'www.5234hh.com', 'www.sixyin.com', '184.aa16608.com', 'www.2678uu.com', 'a789sb.com', '224.aa16608.com', 'd2303k.link', 'l2184.aa16608.com', 'www.733si.com', 'www.dafuhao.com', 'w2307k.cc', '5234hh.com', 'myaccount.crystalbet.com', 'kytyy.com', 'totallyweddingkoozies.com', '922ca.com', 'e2303s.cc', '168.aa16608.com', 'www.m666w.com', 'www.922ca.com', 'bk.jdkg.fun', 'www.bou4.com', 'cl2027.com', 'www.mve4.com', 'www.adiglobaldistribution.us', 'www.cqyunsen.com', 'www.totallyweddingkoozies.com', '6080ysm.cc', 'www.b9n33.com', '278.aa16608.com', 'bw.aa16608.com', 'www.0474hu.com', 'www.7678yy.com', 'mve4.com', 'www.x7h22.com', '106.aa16608.com', 'xuyan.cc', 'api.ptffejj.cn', '107.aa16608.com', 'z227m.com', 'mtm.ptffejj.cn', 'www.bisnode.hr', '66.aa16608.com', 'l1124.aa16608.com', '124.aa16608.com', 'b5c11.com', 'hair.com', '2678uu.com', '4480b.net', 'x227n.work', '733si.com', 'x7h22.com', 'z2212k.xyz', 'd2303k.work', 'www.4hu43w.com', 'www.a789sb.com', 'res.apk.vidmate.net', 'www.4hud97.com', 'www.sf123.mobi', 'e2303s.work', 'www.sqli.com', 'payment-beta.ptffejj.cn', '4480ysa.co', 'bou4.com', 'a227h.work', '1.aa16608.com', '166.aa16608.com', 'msjh520.com', 'dsxys.com', 'www.sixt.com.au', 'www.4hub95.com', '282.aa16608.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.4hub95.com...
+Performing DNS lookup for www.0474hu.com...
+Performing DNS lookup for www.733si.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
