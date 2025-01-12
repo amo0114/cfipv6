@@ -22395,3 +22395,25 @@ Performing DNS lookup for syriancivilwarmap.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9bae657] Update project files
+ 4 files changed, 88 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   65a80b6..9bae657  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.15.158...
+Fetching domains for 104.17.240.172...
+Fetching domains for 104.21.19.10...
+succeed to fetch domains for 104.17.240.172 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.15.158 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.19.10 from https://site.ip138.com/
+域名列表为
+['www.zjzmlaw.com', '74us.com', 'colo.665168.xyz', 'baxtc.66666654.xyz', 'xiaochuncnjp.com', 'mll1234.com', '8ma137.com', 'www.xplus.com', 'www.qdzhongbei.com', '40maonn.com', '50dgbyg.com', 'writesonic.com', '2052.cf.bestl.de', 'h5.acach1.cc', 'myim3banner.kloc.co', 'www.hentai2w.com', 'www.4huxbg.com', 'www.ikantv.net', 'www.14maobb.com', 'www.bjyuanqing.com', 'www.hengansl.com.hk', 'www.iios.me', 'jinyir18.com', 'wdkiller.com', '4568pp.com', 'heinu.cc', 'www.thinkers-tech.com', 'test.u7distribute.com', 'www.zongcaiwx.com', 'yiyo.io', 'dsxys.com', 'dezhouhao.com', 't2m.io', 'pdzmre77473.sanfen001.top', 'www.cdtuoye.com', 'freeyx.cloudflare88.eu.org', 'www.ppxdm.com', 'blacklist.easyareamc.net', '777qqe.com', 'www.tpyyc.com', 'www.777qqe.com', '80.cf.bestl.de', 'usshsaba.114514782.xyz', 'pppmag.com', 'www.741dm.com', 'k9zrxlk67zanq7.xyz', 'www.easyareamc.net', 'ys1084.xyz', 'www.meefx.com', '8888bp.com', 'dogess.club', 'www.timelessmessage.com', 'www.781890.com', 'pokemon.men', 'www.123456tt.com', 'easyareamc.net', 'ipcert.it', 'yes.665168.xyz', 'jpadwinfs.114514782.xyz', 'www.rrzmz.com', '11.cashdawiodxkawjaiocjdawdawdadwrawgfsegsededwadawfgrdrcvsssl.top', 'www.aks5.com', 'purpleptsd.com', 'www.jinyir18.com', '74xz.com', 's3.geeeeb.com', 'us02.nttkk.com', 'meefx.com', 'go.gujuji.top', 'www.zcgs668.com', 'www.heinu.cc', 'xxzhda.top', 'wap.danwenku.com', 'didamh.com', 'hzefss.66666654.xyz', '1443.cf.bestl.de', 'www.yfwh26.com', 'mail.xiaochuncnjp.com', '6.namesilo123.top', 'wz.weishao2023.dk.eu.org', 'chundd.sectigo.pp.ua', 'app-api.cyball.com', 'hengansl.com.hk', 'szssc6666.com', 'jp02.nttkk.com', 'decc.66666654.xyz', 'cvmaker.nl', 'www.pzsblw.cn', 'www.yjys05.com', '333.666999.world', 'a2.nttkk.com', 'join.easyareamc.cn', 'www.huakai2018.com', 'ppxdm.com', '1.namesilo123.top', 'mebudsv.114514782.xyz', 'hongkong.qing1999.eu.org', '7.namesilo123.top', '443.cf.bestl.de', 'ss126.xyz', 'pan.sxios.xyz', 'fldsubgigtujuy.76898102.xyz', '26.namesilo123.top', 'rrzmz.com', 'uu.pcyjs.com', 'fadan.net', 'app.writesonic.com', '74fan.com', 'intel471.com', 'belteriajtobirodalom.hu', 'm.niuerzs.com', 'huakai2018.com', 'www.92mili.com', 'hentai2w.com', 'www.qdjljy.com', 'gallery.manypixels.co', 'www.77zw.cc', 'bbs.easyareamc.net', 'flokishima.finance', '99reliao.tv', 'www.4568pp.com', 'divcom.com', 'iios.club', 'tomsou.com', 'www.2727h.com', 'www.yese.co', 'gxzkgy.com', 'www.iios.club', 'www.erzurumescortbayan.org', 'xplus.com', 'cp361vip.com', 'unielon.com', 'kloc.co', 'aduibdfg.114514782.xyz', 'www.99wx.cc', 'dapp.xplus.com', 'yx1.chinayyds.xyz', 'paopaoll.cn', 'www.qdtsdp.com', 'zhongfumainrhmt.com', 'www.szssc6666.com', 'app.cyball.com', '51fl.fun', 'm.luwangyangrong.com', 'qdjljy.com', 'hh0129.com', 'www.gaofengda.com', 'yese.co', 'www.8ma137.com', 'jpbb.sectigo.pp.ua', '14maobb.com', '13.namesilo123.top', 'nlsdwsz.66666654.xyz', '4huxbg.com', '2727h.com', 'u7distribute.com', 'vip6.tv', 'www.93xscc.com', 'nftmetadata.cyball.com', 'jpvsavhyu.76898102.xyz', '217na.com', 'yijun.vo503f.cn', 'www.tihoigx.cn', 'yao.paopaoll.cn', 'av160.xyz', 'www.8888bp.com', 'www.flokishima.finance', 'www.u7distribute.com', 'mm-my.com', 'www.bugherd.com', 'members.ipcert.it', 'www.99reliao.tv', 'tawk.link', 'timelessmessage.com', 'media.lantai.win', 'www.50dgbyg.com', 'jpnewacs.114514782.xyz', 'www.yutaozsw.com', 'www.99wxw.cc', 'www.zzztch.com', 'www.huashubao.org', 'liangzhuo.top', 'www.huaidan1.com', 'www.rjtv6.com', 'alandroidnet.com', '6a16.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 99reliao.tv...
+Performing DNS lookup for yx1.chinayyds.xyz...
+Performing DNS lookup for www.99wxw.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
