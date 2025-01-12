@@ -22352,3 +22352,24 @@ Performing DNS lookup for www.733si.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8484eda] Update project files
+ 4 files changed, 71 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   bf23f37..8484eda  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.74.42...
+Fetching domains for 104.22.56.43...
+Fetching domains for 104.22.54.39...
+succeed to fetch domains for 104.22.54.39 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.74.42 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.56.43 from https://ipchaxun.com/
+域名列表为
+['www.movie19x.com', '511oo.com', 'www.ccxllcp.cn', 'www.xbawef.top', 'hj34b105.top', 'www.823.cc', 'www.jiadouwang.cn', 'www.luwangyangrong.com', 'www.sinuosm.com', 'xbawef.top', 'okoooo.cn', 'zfs82t.xyz', 'www.91.cc', 'www.2chmatome.jp', 'wap.xbawef.top', 'ku62.vip', 'www.pursesmall.cn', 'kameronktbh71592.blogsuperapp.com', 'mixue004.top', '18re16.xyz', 'mall044.com', 'www.daju.org', '13maoag.com', 'javhub.xyz', '7406.cc', 'www.szjqb.com', 'www.qhdbj8.com', 'xmm5tew.com', 'www.uinedu.com', '296bb.com', '124dd.com', 'www.296bb.com', 'www.crx4chrome.com', 'liulipic.net', 'www.295k.com', 'www.06236.com.ua', 'crx4chrome.com', 'bsod.pw', 'gmmm188.com', '17job8.cn', '3g.xbawef.top', '89895ss.com', 'f5.crx4chrome.com', 'niaop.tk', 'www.glumlybeaver.top', 'www.vodbd.com', '36hc.xyz', 'ruizhou-1.com', 'www.fnyy.net', '06236.com.ua', '2chmatome.jp', 'kagurasoft.com', '823.cc', 'www.91m.cc', 'nav.mixue004.top', 'www.mardro.com', 'www.75uw.com', 'dy56.me', '8mav333.com', 'm.xbawef.top', 'ygm666.com', 'www.tpyyc.com', 'f2.crx4chrome.com', 'www.ku62.vip', '3b3b.xyz', 'yba07.com', 'www.ruizhou-1.com', '91.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.296bb.com...
+Performing DNS lookup for www.fnyy.net...
+Performing DNS lookup for gmmm188.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
