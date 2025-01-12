@@ -2,30 +2,42 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	pk299.com
-Address: 160.121.18.101
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.61.120
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zhss180.com
-Address: 69.165.73.112
+macvbb.555556789.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global18.66666654.xyz.
+Name:	cfcn-b-global18.66666654.xyz
+Address: 172.67.163.56
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.pepper.ru
-Address: 104.22.75.115
-Name:	www.pepper.ru
-Address: 172.67.27.94
-Name:	www.pepper.ru
-Address: 104.22.74.115
-Name:	www.pepper.ru
-Address: 2606:4700:10::6816:4b73
-Name:	www.pepper.ru
-Address: 2606:4700:10::ac43:1b5e
-Name:	www.pepper.ru
-Address: 2606:4700:10::6816:4a73
+www.652tv.com	canonical name = 652.cloudflare.182682.xyz.
+Name:	652.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	652.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	652.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	652.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	652.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	652.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
 
