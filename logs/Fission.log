@@ -22417,3 +22417,25 @@ Performing DNS lookup for www.99wxw.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 708b4ef] Update project files
+ 4 files changed, 80 insertions(+), 66 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   9bae657..708b4ef  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.63.241...
+Fetching domains for 104.21.227.252...
+Fetching domains for 104.18.23.157...
+succeed to fetch domains for 104.22.63.241 from https://site.ip138.com/
+succeed to fetch domains for 104.18.23.157 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.227.252 from https://site.ip138.com/
+域名列表为
+['xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.8877fz.com', 'dd.ddffsk.com', 'www.jyyz.cn', 'hfch.hgwdk.net', 'www.hxncpgs.com', 'www.anluyg.net', 'protyre.co.uk', 'm6y6.com', 'www.jg666.top', 'www.huashubao.org', 'www.xinyi176.com', 'wsq.ivnnswhkvv.com', 'apk.awww123.com', 'www.993my.com', 'b7k22.com', 'www.dcs99.com', 'blackmorasv.com', 'www.m6y6.com', 'www.rxjh520.cc', 'www.printerstudio.es', 'www.dzy66666.com', 'dylfhg.com', 'www.234hou.com', 'fakaba.cn', 'www.5522tl.com', 'www.qindixs.com', 'www.scriphessco.com', 'www.tl123123.com', 'www.zlcq520.com', 'www.yh9pk.com', '3dmoxing.cn', 'v.123qn.com', 'www.shy6666.com', 'www.thelocal.at', 'www.97777pk.com', 'www.hhyy028.com', 'www.x666m.com', 'www.8899tl.com', 'www.niuniu9.com', 'www.tockt.com', 'm.tpyyc.com', 'cajdydinje.com', 'www.x2k55.com', 'qnbfs.com.qa', 'www.wubei520.com', '92mili.com', 'kdxlbnrjyf.com', 'yx.887141.xyz', 'www.iios.club', 'nips.kwyaovd.com', 'ysz8.com', 'www.xxootl.com', 'sgaa.sectigo.pp.ua', 'dzy66666.com', 'www.zhss180.com', 'scriphessco.com', '234hou.com', 'www.tv7box.com', 'www.570rr.com', 'jp57.cc', 'yxy176.com', 'zlcq520.com', 'www.protyre.co.uk', 'www.295k.com', 'dl.acronis.com', 'pk299.com', 'ngenge.cd', 'www.207my.com', 'www.7lq.com', 'www.99xkxtl.com', 'helpling.de', 'fga.ivnnswhkvv.com', 'yiqi1234.com', 'zm7.m3u8list.top', 'www.tlbb888.com', 'www.nestle.lt', 'www.tx58tl.com', 'qr99.cc', 'xbxb88.s8k.cc', 'www.pk299.com', 'www.kbss888.com', 'ww.kh8d.com', 'yt9995.c2.hycdn.xyz', 'www.cx888my.com', '570rr.com', 'bornhut.com', 'xfltd.net', 'www.b7k22.com', 'www.helpling.de', 'x666m.com', 'printerstudio.es', '3234ku.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for bornhut.com...
+Performing DNS lookup for yt9995.c2.hycdn.xyz...
+Performing DNS lookup for www.xinyi176.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

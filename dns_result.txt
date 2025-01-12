@@ -2,39 +2,30 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	bornhut.com
-Address: 54.67.42.145
+Name:	pk299.com
+Address: 160.121.18.101
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-yt9995.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.17.39.177
-Name:	dcs.jqddos.xyz
-Address: 104.25.109.28
-Name:	dcs.jqddos.xyz
-Address: 104.18.241.40
-Name:	dcs.jqddos.xyz
-Address: 104.24.38.152
-Name:	dcs.jqddos.xyz
-Address: 104.18.41.249
-Name:	dcs.jqddos.xyz
-Address: 104.19.178.153
-Name:	dcs.jqddos.xyz
-Address: 104.17.221.87
-Name:	dcs.jqddos.xyz
-Address: 104.17.15.41
-Name:	dcs.jqddos.xyz
-Address: 104.16.124.42
-Name:	dcs.jqddos.xyz
-Address: 104.27.207.134
+Name:	www.zhss180.com
+Address: 69.165.73.112
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.xinyi176.com
-Address: 156.250.181.58
+Name:	www.pepper.ru
+Address: 104.22.75.115
+Name:	www.pepper.ru
+Address: 172.67.27.94
+Name:	www.pepper.ru
+Address: 104.22.74.115
+Name:	www.pepper.ru
+Address: 2606:4700:10::6816:4b73
+Name:	www.pepper.ru
+Address: 2606:4700:10::ac43:1b5e
+Name:	www.pepper.ru
+Address: 2606:4700:10::6816:4a73
 
