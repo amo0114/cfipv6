@@ -22308,3 +22308,25 @@ Performing DNS lookup for indec.qkhbyf.tech...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main fd0176b] Update project files
+ 4 files changed, 96 insertions(+), 64 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   3d24320..fd0176b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.42.177...
+Fetching domains for 104.18.83.93...
+Fetching domains for 198.41.208.101...
+succeed to fetch domains for 104.18.42.177 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.83.93 from https://site.ip138.com/
+succeed to fetch domains for 198.41.208.101 from https://site.ip138.com/
+域名列表为
+['www.6i5.com', 'www.sec2.com', 'www.sm225.com', 'www.888dyy.cc', 'www.4venus.com', 'www.tlbb888.cyou', '8810868.com', 'zlcq520.com', 'www.tv9090.com', 'www.999998.vip', 'www.ganpian.com', 'p6887u.com', 'nygs1.com', 'designbypana.com', 'www.wei333.com', 'www.m6y6.com', 'www.kan234.com', 'www.cgrnb9ja.cn', 'uu93.com', 'www.nsisfans.com', 'www.kbss888.com', '7749tv.com', 'sm225.com', 'www.paizipai.top', 'demonstration1.dbsdxq.com', 'javpics.com', 'cfp1.kxyjc.xyz', 'www.k77yy.com', 'eeyy55.com', 'www.uu93.com', 'www.hg0389.com', 'e0101.com', 'www.7749tv.com', 'www.11txt.com', 'www.55evd.com', 'zi0.cc', '2345ti.com', 'www.xinpian8.com', 'www.scxdexx.com', 'demonstration.dbsdxq.com', 'www.hg098.com', 'www.tinghen.com', '7sc.cc', 'www.saf9g2.cn', '4388xx35.com', 'www.vcd.la', 'www.xiuluo942.com', '17ttx.com', 'img.52kmm.cc', 'www.javpics.com', 'www.706i.com', 'www.sikkom.nl', 'k6556.com', 'uboy.run', 'www.aiwuneng.com', 'cf-lt.sharecentre.online', 'www.pk299.com', 'www.riy6j9m.cn', 'www.solinfornet.eu', 'wei333.com', 'b1686.com', 'yundunwawablogcdn1yd.wawacm.com', 'suboji.com', 'www.nygs1.com', 'blog.box.com', 'errorcodespro.com', 'www.21tvb.com', 'yyxycn.com', 'www.p6887u.com', 'twshowman.com', 'www.eeyy55.com', 'www.606977.com', 'www.b1686.com', '6h4p.com', 'www.huanyaad.com', 'raw.gitmirror.com', 'qr99.cc', 'www.88viptl.com', 'www.88wwk.com', 'www.4gdiy.com', 'k77yy.com', 'www.hnxinlian.org', 'www.quanji55.com', 'tlbb888.cyou', 'www.suboji.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.k77yy.com...
+Performing DNS lookup for www.uu93.com...
+Performing DNS lookup for raw.gitmirror.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
