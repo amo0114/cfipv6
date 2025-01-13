@@ -1,41 +1,16 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.ai2moe.org	canonical name = www.visa.com.hk.
-www.visa.com.hk	canonical name = www.visa.com.hk.cdn.cloudflare.net.
-Name:	www.visa.com.hk.cdn.cloudflare.net
-Address: 104.18.20.69
-Name:	www.visa.com.hk.cdn.cloudflare.net
-Address: 104.18.21.69
+** server can't find 52daniaoaa36.xyz: NXDOMAIN
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find segaoqing.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ddwhm.com	canonical name = csgo.com.
-Name:	csgo.com
-Address: 195.85.59.95
-Name:	csgo.com
-Address: 195.85.59.161
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-laowang.co	canonical name = lwdy.xyz.
-Name:	lwdy.xyz
-Address: 104.21.64.1
-Name:	lwdy.xyz
-Address: 104.21.80.1
-Name:	lwdy.xyz
-Address: 104.21.16.1
-Name:	lwdy.xyz
-Address: 104.21.48.1
-Name:	lwdy.xyz
-Address: 104.21.112.1
-Name:	lwdy.xyz
-Address: 104.21.96.1
-Name:	lwdy.xyz
-Address: 104.21.32.1
+*** Can't find jiatongqi.cn: No answer
 
