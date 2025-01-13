@@ -22635,3 +22635,25 @@ Performing DNS lookup for laowang.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7d9352e] Update project files
+ 4 files changed, 44 insertions(+), 58 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   face2fd..7d9352e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.31.64...
+Fetching domains for 104.18.177.133...
+Fetching domains for 104.21.31.141...
+succeed to fetch domains for 104.21.31.141 from https://site.ip138.com/
+succeed to fetch domains for 104.18.31.64 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.177.133 from https://ipchaxun.com/
+域名列表为
+['3g.zmwjfr.top', 'www4098.com', 'cdn.booksxy.com', 'stafabandmp3.top', 'm.tvccc.org', 'wap.zmwjfr.top', 'chincidos.xyz', 'yuh88.vip', 'scfk.org', 'hjtry.com', 'www.beaumonde.nl', 'www.wuhuikeji56.com', 'xvccc.com', 'www.yjsp26.com', 'b5d66.com', 'www.xinhe100.com', 'www.pyp69.com', 'www.ukg.ca', 'megaxtv.com', 'booksxy.com', 'jiatongqi.cn', 'www.5345ye.com', 'www.548tu.com', 'g.zzgo857.top', '0414dj.com', 'xfltd.net', 'www.lyzdzy.com', '8338t.com', '55d.tv', 'av058.com', 'www.golden-china.net', 'game.zzgo857.top', 'only-fan2gt.top', 'wuhuikeji56.com', 'xuyan.cc', 'zmwjfr.top', '844668.com', 'www.sjzsckj.com', 'm.kcyaqke.icu', 'www.kcyaqke.icu', 'www.b123x.com', 'www.55d.tv', 'b123x.com', 'atfx8753.com', '548tu.com', 'www.844668.com', '4huyy225.com', 'inhumanity.com', 'www.goiluy.top', 'www.jx599.com', 'cloudflare.cfgo.cc', '0055868.com', 'wap.kcyaqke.icu', 'beaumonde.nl', 'www.inhumanity.com', 'www.milascesso.com', '3g.kcyaqke.icu', 'thebestamazonhandbags.com', 'www.segaoqing.com', '7caohh.com', '34hk.com', 'kcyaqke.icu', 'wap.luwangyangrong.com', '7.namesilo123.top', 'www.b5d66.com', 'docs.digifinex.vip', 'www.hjtry.com', 'noahsvc.com', 'www.manhuadb.com', 'zzgo857.top', 'www.zmwjfr.top', 'gogo.zzgo857.top', 'ghs17.cc', 'www.c678g.com', 'ganam.com', 'www.zsych.net', 'yjsp26.com', 'www.qwd3.cc', 'www.xinjuc.com', 'www.34hk.com', 'www.ai938.com', 'www.60kan.com', 'www.av058.com', 'qwd3.cc', 'm.zmwjfr.top', '5345ye.com', '88av1124.cc', 'konoz-sa.com', 'a.zzgo857.top', 'ai938.com', 'xinhe100.com', 'www.tpyyc.com', 'segaoqing.com', 'amoebi.com', 'www.e374q.com', 'm.goiluy.top', 'ios.zzgo857.top', 'goiluy.top', 'yhzd1.com', 'www.4huyy225.com', 'mile8889.com', 'pyp69.com', 'www.36dm.club', 'www.50zw.org', '5ktk.site', '52daniaoaa36.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 52daniaoaa36.xyz...
+Performing DNS lookup for segaoqing.com...
+Performing DNS lookup for jiatongqi.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

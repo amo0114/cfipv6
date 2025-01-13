@@ -1,16 +1,17 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 52daniaoaa36.xyz: NXDOMAIN
+** server can't find 1064hu.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find segaoqing.com: NXDOMAIN
+** server can't find 787161.xyz: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find jiatongqi.cn: No answer
+Name:	www.lmuqss.top
+Address: 91.195.240.12
 
