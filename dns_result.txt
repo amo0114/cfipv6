@@ -2,66 +2,45 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-pan.axxpan.com	canonical name = pan.axxpan.com.cdn.cloudflare.net.
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 104.21.49.104
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 172.67.189.189
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:bdbd
-Name:	pan.axxpan.com.cdn.cloudflare.net
-Address: 2606:4700:3035::6815:3168
+Name:	www.zgjmw.net
+Address: 127.0.0.1
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.whsbwl.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.e0101.com
-Address: 199.59.243.228
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.679077.com	canonical name = 333333.f7chinavip.com.
-Name:	333333.f7chinavip.com
-Address: 103.142.247.18
-Name:	333333.f7chinavip.com
-Address: 103.142.247.25
-Name:	333333.f7chinavip.com
-Address: 103.142.247.12
-Name:	333333.f7chinavip.com
-Address: 103.142.247.22
-Name:	333333.f7chinavip.com
-Address: 103.142.247.10
-Name:	333333.f7chinavip.com
-Address: 103.142.247.6
-Name:	333333.f7chinavip.com
-Address: 103.142.247.15
-Name:	333333.f7chinavip.com
-Address: 103.142.247.7
-Name:	333333.f7chinavip.com
-Address: 103.142.247.9
-Name:	333333.f7chinavip.com
-Address: 103.142.247.16
-Name:	333333.f7chinavip.com
-Address: 103.142.247.19
-Name:	333333.f7chinavip.com
-Address: 103.142.247.24
-Name:	333333.f7chinavip.com
-Address: 103.142.247.5
-Name:	333333.f7chinavip.com
-Address: 103.142.247.21
-Name:	333333.f7chinavip.com
-Address: 103.142.247.8
-Name:	333333.f7chinavip.com
-Address: 103.142.247.11
-Name:	333333.f7chinavip.com
-Address: 103.142.247.17
-Name:	333333.f7chinavip.com
-Address: 103.142.247.20
-Name:	333333.f7chinavip.com
-Address: 103.142.247.13
-Name:	333333.f7chinavip.com
-Address: 103.142.247.14
+www.28dushu.com	canonical name = back.jdsharecodes.top.
+Name:	back.jdsharecodes.top
+Address: 104.21.48.1
+Name:	back.jdsharecodes.top
+Address: 104.21.96.1
+Name:	back.jdsharecodes.top
+Address: 104.21.80.1
+Name:	back.jdsharecodes.top
+Address: 104.21.16.1
+Name:	back.jdsharecodes.top
+Address: 104.21.64.1
+Name:	back.jdsharecodes.top
+Address: 104.21.112.1
+Name:	back.jdsharecodes.top
+Address: 104.21.32.1
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:1001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:6001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:4001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:2001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:5001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:7001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:3001
 
