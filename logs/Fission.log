@@ -22548,3 +22548,25 @@ Performing DNS lookup for v4.cfnode.eu.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 64e6833] Update project files
+ 4 files changed, 53 insertions(+), 55 deletions(-)
+ rewrite dns_result.txt (93%)
+To github.com:amo0114/cfipv6.git
+   a39baa3..64e6833  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.219.251...
+Fetching domains for 104.16.238.158...
+Fetching domains for 104.21.224.79...
+succeed to fetch domains for 198.41.219.251 from https://site.ip138.com/
+succeed to fetch domains for 104.21.224.79 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.238.158 from https://dnsdblookup.com/
+域名列表为
+['yx.887141.xyz', 'jpvsavhyu.76898102.xyz', 'xfltd.net', 'cloudflare.cfgo.cc', 'www.ddwhm.com', 'www.wecaidan.com', 'cdn.freecdn.free.hr', 'www.nsisfans.com', 'www.qindi.net', 'www.tianyabook.com', 'www.iios.me', 'www.qindixs.com', 'wicdn.com', 'www.zgjmw.net', 'raw.gitmirror.com', 'www.2v8d.com', 'uboy.run', '0702.rr.nu', 'www.93xscc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for uboy.run...
+Performing DNS lookup for www.zgjmw.net...
+Performing DNS lookup for xfltd.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
