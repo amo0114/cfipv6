@@ -22570,3 +22570,24 @@ Performing DNS lookup for xfltd.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bc8ccd4] Update project files
+ 4 files changed, 56 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   64e6833..bc8ccd4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.56.161...
+Fetching domains for 104.21.232.0...
+Fetching domains for 104.21.233.76...
+succeed to fetch domains for 104.21.232.0 from https://site.ip138.com/
+succeed to fetch domains for 104.22.56.161 from https://site.ip138.com/
+succeed to fetch domains for 104.21.233.76 from https://ipchaxun.com/
+域名列表为
+['fr.casashops.com', 'cf.090227.xyz', 'jpvsavhyu.76898102.xyz', 'www.casashops.com', 'tv8box.com', 'np.gov.ua', 'www.yh9pk.com', 'www.521sg.com', 'achk.cloudflarest.link', 'www.dzy66666.com', 'chenn.com.cn', 'hkaa.sectigo.pp.ua', 'www.ddwhm.com', 'www.tockt.com', 'yh7.dtku41.xyz', 'c1.chf5762.free.hr', 'www.88wwk.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'api.epdd.cn', 'miraigo.net', 'baxtc.66666654.xyz', 'www.5522tl.com', 'www.28et.com', 'v.yese5577.com', 'luwangyangrong.com', 'www.56567dy.com', 'www.tvyb10.com', 'yx.887141.xyz', '163fahao.com', 'yh6.dtku41.xyz', 'amstdhebb.76898102.xyz', 'www.luwangyangrong.com', 'www.6090ba.com', 'www.cx888my.com', 'tanhuazu.com', 'kal2.szwxtdz.cn', 'www.295k.com', 'www.91m.cc', 'www.xinyi176.com', 'ch.casashops.com', 'xf.free.hr', 'be.casashops.com', 'mtav.xyz', 'www.shy6666.com', 'm.niuerzs.com', 'www.hanhanyun.com', 'frsadubidd.76898102.xyz', 'www.hhyy028.com', 'www.kunzedu.com', 'www.kaifd.com', 'decc.66666654.xyz', 'www.tlbb888.com', 'www.qumiyun.com', 'dsxys.com', 'kk101.me', 'www.qkmov.com', '086181.xyz', 'wnet.one', 'www.kbss888.com', 'ddyun.cc', 'www.pk299.com', 'www.bm158.com', 'www.sf52l.com', '9ehao.com', 'www.whpaiger.com', 'www.tpyyc.com', 'casashops.com', 'www.75uw.com', 'menmaza.76898102.xyz', 'speed.marisalnc.com', 'cloudflare.cfgo.cc', '22.6bnw.top', 'nlsdwsz.66666654.xyz', 'fldsubgigtujuy.76898102.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.295k.com...
+Performing DNS lookup for www.casashops.com...
+Performing DNS lookup for www.hanhanyun.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

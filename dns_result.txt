@@ -2,37 +2,41 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.295k.com
-Address: 208.98.43.134
+www.5522tl.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.casashops.com
-Address: 172.67.38.57
-Name:	www.casashops.com
-Address: 104.22.57.161
-Name:	www.casashops.com
-Address: 104.22.56.161
-Name:	www.casashops.com
-Address: 2606:4700:10::ac43:2639
-Name:	www.casashops.com
-Address: 2606:4700:10::6816:38a1
-Name:	www.casashops.com
-Address: 2606:4700:10::6816:39a1
+Name:	arrival.com
+Address: 104.21.77.56
+Name:	arrival.com
+Address: 172.67.204.214
+Name:	arrival.com
+Address: 2606:4700:3033::6815:4d38
+Name:	arrival.com
+Address: 2606:4700:3034::ac43:ccd6
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hanhanyun.com	canonical name = dns.hanhanyun.eu.org.
-Name:	dns.hanhanyun.eu.org
-Address: 104.21.80.86
-Name:	dns.hanhanyun.eu.org
-Address: 172.67.176.89
-Name:	dns.hanhanyun.eu.org
-Address: 2606:4700:3030::6815:5056
-Name:	dns.hanhanyun.eu.org
-Address: 2606:4700:3031::ac43:b059
+www.m6y6.com	canonical name = host1111776b.c2.huyuncdn.xyz.
+host1111776b.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
