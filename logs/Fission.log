@@ -22816,3 +22816,25 @@ Performing DNS lookup for srxlbfl.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dce6af8] Update project files
+ 4 files changed, 90 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   92b3ce8..dce6af8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.77.15...
+Fetching domains for 104.18.192.230...
+Fetching domains for 104.16.220.107...
+succeed to fetch domains for 104.18.192.230 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.220.107 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.77.15 from https://site.ip138.com/
+域名列表为
+['www.gdriustb.com', 'dsxys.com', 'www.f8yy.com', 'www.iios.club', 'iios.fun', 'www.kbss888.com', 'www.lyzdzy.com', 'www.hzmingren.cn', 'www.dgcljx.cn', 'www.295k.com', 'www.xwsxs.com', 'www.daishudy.com', 'www.93xscc.com', 'www.dzy66666.com', 'www.wjxbj.com', 'doradobet.com', 'www.ayzjj.cn', '2499kp.com', 'www.88wwk.com', 'www.mp4vod.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.kbss888.com...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for www.gdriustb.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
