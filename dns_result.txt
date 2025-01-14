@@ -1,24 +1,33 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.lyzdzy.com
-Address: 208.98.40.210
+** server can't find luckylovers.cc: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	2499kp.com
-Address: 208.98.43.17
+Name:	jianghu.live2008.com
+Address: 104.21.31.182
+Name:	jianghu.live2008.com
+Address: 172.67.179.36
+Name:	jianghu.live2008.com
+Address: 2606:4700:3035::ac43:b324
+Name:	jianghu.live2008.com
+Address: 2606:4700:3036::6815:1fb6
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.mp4vod.com	canonical name = www.mp4vod.com.cdn.cloudflare.net.
-Name:	www.mp4vod.com.cdn.cloudflare.net
-Address: 104.21.31.228
-Name:	www.mp4vod.com.cdn.cloudflare.net
-Address: 172.67.180.104
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
