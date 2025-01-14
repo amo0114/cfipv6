@@ -22794,3 +22794,25 @@ Performing DNS lookup for decc.66666654.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 92b3ce8] Update project files
+ 4 files changed, 63 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   c708b5c..92b3ce8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.28.110...
+Fetching domains for 104.26.6.136...
+Fetching domains for 104.21.25.119...
+succeed to fetch domains for 104.26.6.136 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.25.119 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.28.110 from https://ipchaxun.com/
+域名列表为
+['cp7.me', 'rzjqmp3.top', 'crackedfully.com', 'www.rzjqmp3.top', 'iios.fun', '3g.rzjqmp3.top', 'rxdua.com', 'mgugmquk.xyz', '023sdsjy.com', 'wap.raydetect.top', 'aionempire.com', 'www.4hukk23.com', 'www.861ss.com', 'www.xsylbz.com', 'supermarket23.com', 'shendudakahui.com', 'karaokenetwork.com', 'bluemei.com', 'www.leihe66.top', '4hukk23.com', 'bbbbbnews.com', 'www.saber.so', 'hg8880a.com', 'watchparadise.ru', 'www.aipa888.net', 'emodolls.wang', 'www.xiuaiss.com', 'www.lyzdzy.com', 'stalker2.com', '3g.bcsj32jt.top', 'www.supermarket23.com', 'www.bcsj32jt.top', 'www.yjys05.com', 'm.rzjqmp3.top', 'cpdz08.com', '39seaa.com', 'mainnet.ethereumpow.org', 'www.sixyin.com', 'noon88.net', 'pdnene61uo.xyz', 'wap.rzjqmp3.top', 'www.r1kt.cn', 'lv33cha.com', 'www.xjbjghb.com', 'dt02.cn', 'www.haoluan99.top', 'wx42crmo.com', 'aaaxyx.com', '83vvv.com', 'www.023sdsjy.com', 'www.zenmedapei.com', 'im.retrosexscenes.com', 'ub888.cc', 'www.iios.club', 'm.raydetect.top', '861ss.com', 'www.83vvv.com', 'www.276ddd.com', 'lai376.com', '99ribbav1.xyz', 'api.trynar.cfd', 'www.jiangsufuji.com', 'srxlbfl.cn', 'm.leihe66.top', 'www.wuyiugo.cn', 'www.kunzedu.com', 'www.uaezoom.com', 'saber.so', '52bt9002.xyz', 'www.iios.me', 'www.dailianjun.com', 'kidscodecs.com', 'www.91shop.cc', 'xfb82.com', 'zenmedapei.com', 'www.zpdyw.com', 'torbe.es', 'pgys.vip', 'www.bbbbbnews.com', 'sportsurge.club', 'alibbfree.com', 'free3.6114514.xyz', 'bx700.com', 'my1143.com', 'stamparijaff.rs', 'www.xfb82.com', 'www.rock-n-heim.com', 'wwww.my1143.com', 'www.vasara.es', 'www.aaaxyx.com', 'wjm.wheesapp.top', 'www.hfyijie.cn', 'www.stalker2.com', 'www.aduld.de', 'yetuji.com', '6688.pro', '3g.raydetect.top', 'dailianjun.com', 'www.bx700.com', 'video-cdn.stcn.link', 'www.pgys.vip', 'www.39seaa.com', 'www.cp7.me', 'wap.bcsj32jt.top', 'www.hyheike.com', 'www.chqs222.com', 'bcsj32jt.top', 'www.qumiyun.com', 'www.raydetect.top', 'www.readersmagnet.com', 'xfltd.net', 'irespeak.top', '814ii.com', '2376.com', 'evermoral.com', 'www.lv33cha.com', 'www.pg246.com', 'sharecast.com', 'luwangyangrong.com', 'www.99rre0.com', 'www.wn04.cc', 'www.lai376.com', 'www.cocacoder.cn', 'readersmagnet.com', 'www.91079900.com', 'yd88i.com', 'www.ub888.com', 'xjbjghb.com', 'lxdh.shop', 'i.she.vc', 'pcrisk.nl', 'www.wn01.cc', 'iios.club', 'www.814ii.com', 'tuneupfitness.com', 'xxkjxy.com', 'www.cpdz08.com', 'www.tpyyc.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.ahshumei.cn', 'launcher.aionempire.com', 'www.evermoral.com', 'moremirno.com', 'www.pcrisk.nl', 'www.davron.co.il', 'thep737.cc', 'starfin.online', 'm.bcsj32jt.top', 'www.xxsm267.com', 'www.2376.com', 'www.xiaoshuofen.com', 'raydetect.top', 'davron.co.il', 'www.stamparijaff.rs', 'ladder.cncnet.org', 'www.91nyr.com', 'songoda.com', 'pg246.com', '91mjw.com', 'ee639.cc', 'wzxxx.cc', 'channelfireball.com', 'smoking-shop.ru', '5g5555.com', 'wp.1-1.lol', 'chunbb.sectigo.pp.ua', 'www.karaokenetwork.com', 'www.mzh147.com', 'www.ncfupai.com', 'italy.com', 'www.shendudakahui.com', 'uaezoom.com', '3g.leihe66.top', 'www.sharecast.com', 'wap.leihe66.top', 'www.ccjswm.com', 'www.kidscodecs.com', 'admin.aide.eu.org', 'www.fnyy.net', 'www.my1143.com', 'woaixinbak321.icu', 'uwzfv5kajggf9mu.xyz', 'wap.dt02.cn', 'thepthep3177.cc', 'cncnet.org', 'www.ddwhm.com', 'aipa888.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for watchparadise.ru...
+Performing DNS lookup for m.raydetect.top...
+Performing DNS lookup for srxlbfl.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

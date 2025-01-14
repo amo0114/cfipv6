@@ -2,30 +2,48 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	watchparadise.ru
-Address: 104.21.28.110
-Name:	watchparadise.ru
-Address: 172.67.145.223
-Name:	watchparadise.ru
-Address: 2606:4700:3030::ac43:91df
-Name:	watchparadise.ru
-Address: 2606:4700:3035::6815:1c6e
+www.kbss888.com	canonical name = yt8275.c2.hycdn.xyz.
+yt8275.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.18.98.73
+Name:	dcs.jqddos.xyz
+Address: 104.25.218.16
+Name:	dcs.jqddos.xyz
+Address: 104.17.159.71
+Name:	dcs.jqddos.xyz
+Address: 104.16.201.165
+Name:	dcs.jqddos.xyz
+Address: 104.19.239.159
+Name:	dcs.jqddos.xyz
+Address: 104.25.228.50
+Name:	dcs.jqddos.xyz
+Address: 104.24.46.167
+Name:	dcs.jqddos.xyz
+Address: 104.18.74.4
+Name:	dcs.jqddos.xyz
+Address: 104.25.92.236
+Name:	dcs.jqddos.xyz
+Address: 104.19.216.225
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m.raydetect.top
-Address: 104.21.43.106
-Name:	m.raydetect.top
-Address: 172.67.178.36
-Name:	m.raydetect.top
-Address: 2606:4700:3032::ac43:b224
-Name:	m.raydetect.top
-Address: 2606:4700:3034::6815:2b6a
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find srxlbfl.cn: NXDOMAIN
+Non-authoritative answer:
+Name:	www.gdriustb.com
+Address: 162.209.149.30
 
