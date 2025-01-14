@@ -22881,3 +22881,25 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 42928de] Update project files
+ 4 files changed, 45 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   9983922..42928de  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.35.153...
+Fetching domains for 104.18.89.98...
+Fetching domains for 198.41.209.113...
+succeed to fetch domains for 104.18.35.153 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.209.113 from https://site.ip138.com/
+succeed to fetch domains for 104.18.89.98 from https://site.ip138.com/
+域名列表为
+['qr99.cc', '0550cq.com', 'www.6988tv.com', 'www.xinpian8.com', 'www.ddwhm.com', '4gdiy.com', 'crks.space', 'www.uu93.com', 'www.crks.space', 'eshop.1010.com.hk', 'uu93.com', 'www.qp666.com', 'www.cbcv.cc', 'www.116.ag', 'www.wei333.com', 'www.niantop1.top', 'www.ym754lss.cn', 'www.allshanghaioffice.com', 'www.suboji.com', 'www.xixigou.com.cn', 'www.4148.net', 'www.99wxw.cc', 'tw02.nttkk.com', 'qp66.com', 'qfg70.com', 'us04.nttkk.com', 'www.90dushu.com', 'www.50zw.co', 'm.0550cq.com', 'www.6296pk.com', 'www.0550cq.com', 'www.sxyzxh.com', 'www.4gdiy.com', 'wwdbam.com', 'kongyoqiu.tk', 'www.lewen5.com', 'cfip.xxxxxxxx.tk', 'www.tinghen.com', 'www.nitianxieshen.com', 'www.hidutch.com', 'jacksonsgardensupplies.co.uk', 'acus.cloudflarest.link', 'sd.mtzlgty.com', 'bhtj.com', 'www.93xscc.com', '7.namesilo123.top', 'www.7sc.cc', 'www.elmwatin.com', 'www.11txt.com', 'porn-hd.me', 'niantop1.top', 'speed.marisalnc.com', 'www.hm11.lol', 'fhccc13.com', 'www.tv9090.com', 'www.kjyxyw.com', 'www.bhtj.com', '923055.com', 'www.jacksonsgardensupplies.co.uk', 'www.zjgamy.com', '6i5.com', 'lieqiman.com', 'www.bjyongcheng.com', 'iwzyw.com', 'hg2599.com', 'www.hg098.com', 'www.92mili.com', 'www.wn01.cc', 'www.myhzdh.com', 'www.ycppwh.org', 'nlsdwsz.66666654.xyz', 'www.zongcaiwx.com', 'www.295k.com', '8810868.com', 'hg1599.com', 'www.6i5.com', 'www.zcs.cc', 'www.torrentfunk.com', 'oneman.gr', 'www.qf527.com', 'www.28dushu.com', 'dibamoviez.net', 'www.mf23.xyz', 'obor.news']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.sxyzxh.com...
+Performing DNS lookup for www.qp666.com...
+Performing DNS lookup for www.mf23.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

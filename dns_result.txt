@@ -2,16 +2,16 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.sxyzxh.com
-Address: 208.98.40.80
+Name:	biqune.com
+Address: 23.225.75.22
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.qp666.com: NXDOMAIN
+** server can't find darkace.pages.dev: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.mf23.xyz: NXDOMAIN
+** server can't find test-hi-nan.pages.dev: NXDOMAIN
 
