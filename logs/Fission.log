@@ -22699,3 +22699,25 @@ Performing DNS lookup for www.679077.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4137ab6] Update project files
+ 4 files changed, 80 insertions(+), 96 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   abeb225..4137ab6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.221.18...
+Fetching domains for 104.17.100.27...
+Fetching domains for 104.21.25.4...
+succeed to fetch domains for 198.41.221.18 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.25.4 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.100.27 from https://ipchaxun.com/
+域名列表为
+['20maoab.com', 'ddwhm.com', 'blog.hostmonit.com', 'www.1717tv.com', 'sxxd.d21343.top', 'www.freejavbt05.com', 'yx.887141.xyz', 'www.cocanwelding.com', 'ss5d.xyz', 'www.35kan.com', 'www.ytdccc.com', 'runxuecw.com', 'www.iios.me', 'www.nsisfans.com', 'midasys.org', 'www.zzdh.pw', 'www.aqd.vip789.com', '0vegc.894093.com', 'www.runxuecw.com', '3g.zzzvvvz.top', 'www.tushencn.com', 'www.zgjmw.net', 'yyxxi.com', 'cable1262.top', '7d12d.com', 'www.66se.icu', 'sgv7.com', 'www.galzy.eu.org', '50zw.co', 'www.zzzvvvz.top', 'www.paizipai.top', 'guiweb.hk91l.top', 'www.kkoo99.com', 'www.9sha.com', 'cf-lt.sharecentre.online', 'www.yyxxi.com', '66se.icu', 'kkoo99.com', 'www.6i5.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.oroe.top', 'hk91l.top', 'www.hk91l.top', 'stock.hostmonit.com', 'www.75uw.com', 'www.weizhijc.com', 'wushenhui.com', 'www.4148.net', 'm.zzzvvvz.top', 'www.100days.name', 'qydong.com', 'xxxdesihindi.com', 'vip789.com', 'www.0550cq.com', 'cgdd.digicert.pp.ua', 'www.iios.club', 'cfip.xxxxxxxx.tk', 'www.web120.org', 'www.xinjuc.com', 'freejavbt05.com', 'www.qx393.cn', 'xn--d6qtmk30eupd.ysgmom.click', 'zzdh.pw', 'ipdb.rr.nu', 'www.92mili.com', 'www.99wxw.cc', 'www.7d12d.com', 'mygpts.dev', 'zzzvvvz.top', 'www.xkstxt.com', 'pinothedino.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.ykmov.cc', 'wap.zzzvvvz.top', 'wz.weishao2023.uk.eu.org', '3g.jqxc0bvt.top', 'www.cfhuagong.com', 'www.boyangjt.com', 'www.10zhanpai.com', 'www.96dushu.com', 'www.50zw.co', 'www.nivod.vip', 'www.tvyb02.com', 'st.qydong.com', 'bfoxaisfox.xyz', 'www.6988tv.com', 'iuhrxt3.top', 'www.whsbwl.com', 'www.swp0318.com', 'nivod.vip', 'www.28dushu.com', 'www.99wx.cc', 'www.qdxinliangbaixin.com', 'www.dskxkj.com', 'www.tinghen.com', 'm.jqxc0bvt.top', 'www.255705.com', 'www.xinpian8.com', 'www.vip789.com', 'www.991kan.com', 'www.woaiqi.com', 'www.yunyou4.com', 'www.sxyzxh.com', 'craftycedar.com', 'www.bigbosschina.com', 'www.33mov.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zgjmw.net...
+Performing DNS lookup for www.whsbwl.com...
+Performing DNS lookup for www.28dushu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
