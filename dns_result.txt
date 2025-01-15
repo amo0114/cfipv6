@@ -2,65 +2,36 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.22.31.87
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.75.33
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.65.156
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.42.119
-Name:	cfip.xxxxxxxx.tk
-Address: 108.162.198.40
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.74.7
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.67.159
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.78.45
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.230.36
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.68.110
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.45.20
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.231.27
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.237.219
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.89.92
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.184.100
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.tockt.com: SERVFAIL
+Name:	siamkubota.co.th
+Address: 104.22.60.201
+Name:	siamkubota.co.th
+Address: 104.22.61.201
+Name:	siamkubota.co.th
+Address: 172.67.22.210
+Name:	siamkubota.co.th
+Address: 2606:4700:10::6816:3cc9
+Name:	siamkubota.co.th
+Address: 2606:4700:10::ac43:16d2
+Name:	siamkubota.co.th
+Address: 2606:4700:10::6816:3dc9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.652tv.com	canonical name = 652.cloudflare.182682.xyz.
-Name:	652.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	652.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	652.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	652.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	652.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	652.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
+741dm.com	canonical name = txydns.hai888.top.
+txydns.hai888.top	canonical name = dns123.xin6.top.
+Name:	dns123.xin6.top
+Address: 104.26.12.83
+Name:	dns123.xin6.top
+Address: 104.26.13.83
+Name:	dns123.xin6.top
+Address: 172.67.75.125
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.luwangyangrong.com
+Address: 69.16.230.165
 

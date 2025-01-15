@@ -22945,3 +22945,25 @@ Performing DNS lookup for 331sp.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cf87f75] Update project files
+ 4 files changed, 113 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   41728fd..cf87f75  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.245.195...
+Fetching domains for 104.21.231.238...
+Fetching domains for 104.17.228.5...
+succeed to fetch domains for 104.17.245.195 from https://site.ip138.com/
+succeed to fetch domains for 104.21.231.238 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.228.5 from https://ipchaxun.com/
+域名列表为
+['3213456.com', 'www.652tv.com', 'www.qnhl888.com', 'www.lyzdzy.com', 'www.pk299.com', 'www.7lq.com', 'www.cx888my.com', 'www.88wwk.com', 'www.xz898my.com', 'www.rxjh520.cc', 'zzztch.com', 'www.iios.ga', 'www.kbss888.com', 'achk.cloudflarest.link', 'www.30moyu.top', 'www.mytvsuper.us.kg', 'www.ub888.cc', '813133.com', 'www.xzmoyu.com', 'www.shy6666.com', 'www.fnyyw.net', 'www.emgvideo.com', 'www.28et.com', 'pddpdd.cn', 'www.xinjuc.com', 'www.mir1001.com', 'bb4.wuxianliulianng.xyz', 'www.womyt.com', 'www.66amy.com', 'fan.yutian.us.kg', 'junhun520.com', 'www.hm17.lol', 'www.xkx999.com', 'www.3wkan.com', 'www.iios.me', 'www.kxgdyw.com', 'www.iios.club', 'yyy.930my.com', 'www.tockt.com', 'www.fftv8.com', 'cfip.xxxxxxxx.tk', 'www.207my.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for www.tockt.com...
+Performing DNS lookup for www.652tv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
