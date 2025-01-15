@@ -23054,3 +23054,25 @@ Performing DNS lookup for www.wn03.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f94a03b] Update project files
+ 4 files changed, 68 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   5e78cb6..f94a03b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.224.73...
+Fetching domains for 188.114.97.84...
+Fetching domains for 104.18.189.92...
+succeed to fetch domains for 104.16.224.73 from https://site.ip138.com/
+succeed to fetch domains for 104.18.189.92 from https://site.ip138.com/
+succeed to fetch domains for 188.114.97.84 from https://dnsdblookup.com/
+域名列表为
+['a393.cc', 'www.sixyin.com', 'tffvfsz2.sh1suv18n5afjvszbwnf.top', 'bo1005.com', 'www.cgfxw.com', '813132.com', 'a396.cc', 'g432.cc', 'b311.cc', '182an.com', 'www.75uw.com', 'www.sf123.mobi', 'ios.xinbosign.com', 'www.nxyxzl.com', 'www.xinjuc.com', 'ipdb.app.tc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.75uw.com...
+Performing DNS lookup for www.cgfxw.com...
+Performing DNS lookup for www.sf123.mobi...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,35 +2,25 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.75uw.com
-Address: 23.225.148.166
+Name:	ufo-vpn.com
+Address: 185.53.178.53
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.hy9999.us: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.cgfxw.com	canonical name = js.qpas.eu.org.
-Name:	js.qpas.eu.org
-Address: 172.67.145.248
-Name:	js.qpas.eu.org
-Address: 104.21.55.82
-Name:	js.qpas.eu.org
-Address: 2606:4700:3031::ac43:91f8
-Name:	js.qpas.eu.org
-Address: 2606:4700:3037::6815:3752
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.sf123.mobi	canonical name = sf123mobi.haofanghu123.com.
-sf123mobi.haofanghu123.com	canonical name = www.sf123.mobi.cdn.cloudflare.net.
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 104.21.86.20
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 172.67.214.14
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:5614
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 2606:4700:3037::ac43:d60e
+xsela.54647store.com	canonical name = xsela.54647store.com.cdn.cloudflare.net.
+Name:	xsela.54647store.com.cdn.cloudflare.net
+Address: 104.18.2.91
+Name:	xsela.54647store.com.cdn.cloudflare.net
+Address: 104.18.3.91
+Name:	xsela.54647store.com.cdn.cloudflare.net
+Address: 2606:4700::6812:25b
+Name:	xsela.54647store.com.cdn.cloudflare.net
+Address: 2606:4700::6812:35b
 
