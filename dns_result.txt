@@ -1,37 +1,45 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	siamkubota.co.th
-Address: 104.22.60.201
-Name:	siamkubota.co.th
-Address: 104.22.61.201
-Name:	siamkubota.co.th
-Address: 172.67.22.210
-Name:	siamkubota.co.th
-Address: 2606:4700:10::6816:3cc9
-Name:	siamkubota.co.th
-Address: 2606:4700:10::ac43:16d2
-Name:	siamkubota.co.th
-Address: 2606:4700:10::6816:3dc9
+** server can't find www.7277tl.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-741dm.com	canonical name = txydns.hai888.top.
-txydns.hai888.top	canonical name = dns123.xin6.top.
-Name:	dns123.xin6.top
-Address: 104.26.12.83
-Name:	dns123.xin6.top
-Address: 104.26.13.83
-Name:	dns123.xin6.top
-Address: 172.67.75.125
+*** Can't find speed.marisalnc.com: No answer
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.luwangyangrong.com
-Address: 69.16.230.165
+fty.888484.xyz	canonical name = fty.xxooo.eu.org.
+Name:	fty.xxooo.eu.org
+Address: 104.21.112.1
+Name:	fty.xxooo.eu.org
+Address: 104.21.96.1
+Name:	fty.xxooo.eu.org
+Address: 104.21.32.1
+Name:	fty.xxooo.eu.org
+Address: 104.21.80.1
+Name:	fty.xxooo.eu.org
+Address: 104.21.48.1
+Name:	fty.xxooo.eu.org
+Address: 104.21.64.1
+Name:	fty.xxooo.eu.org
+Address: 104.21.16.1
+Name:	fty.xxooo.eu.org
+Address: 2606:4700:3030::6815:5001
+Name:	fty.xxooo.eu.org
+Address: 2606:4700:3030::6815:1001
+Name:	fty.xxooo.eu.org
+Address: 2606:4700:3030::6815:7001
+Name:	fty.xxooo.eu.org
+Address: 2606:4700:3030::6815:3001
+Name:	fty.xxooo.eu.org
+Address: 2606:4700:3030::6815:4001
+Name:	fty.xxooo.eu.org
+Address: 2606:4700:3030::6815:2001
+Name:	fty.xxooo.eu.org
+Address: 2606:4700:3030::6815:6001
 

@@ -22967,3 +22967,25 @@ Performing DNS lookup for www.652tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b84c6fa] Update project files
+ 4 files changed, 72 insertions(+), 92 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   cf87f75..b84c6fa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.72.179...
+Fetching domains for 104.18.29.81...
+Fetching domains for 104.18.21.171...
+succeed to fetch domains for 104.18.29.81 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.21.171 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.72.179 from https://site.ip138.com/
+域名列表为
+['www.4hu22f.com', 'www.3567yy.com', 'fiu1.com', 'www.siamkubota.co.th', 'www.ppxdm.com', 'freeyx.cloudflare88.eu.org', 'www.4huff59.com', '4hua06.com', 'www.x7y55.com', 'qdtsdp.com', 'www.h345m.com', '4hukk77.com', '4hu22f.com', 'didamh.com', 'medirect.io', 'www.rjtv6.com', '3567yy.com', '781890.com', 'www.qdtsdp.com', 'www.ddwhm.com', 'www.993my.com', 'www.fiu1.com', 'www.nanhuyt.com', 'www.dzy66666.com', '74us.com', 'www.88wwk.com', 'b1n22.com', 'speed.marisalnc.com', 'ph.garmin.com', 'tbh60.com', 'ppxdm.com', 'qdzhongbei.com', 'king22.net', 'www.74us.com', 'www.74xz.com', 'www.zlcq520.com', 'www.17ttx.com', 'siamkubota.co.th', 'www.741dm.com', 'www.dingdingdm.com', 'objects.eanixter.com', 'www.txydd.com', 'www.qdjljy.com', 'www.4hua06.com', 'www.74fan.com', 'yfg3.com', 'tech.medirect.io', 'txydd.com', 'www.4hukk77.com', 'dzy66666.com', 'www.6782uu.com', 'www.b1n22.com', 'www.m6y6.com', 'www.qdzhongbei.com', 'www.kbss888.com', 'www.didamh.com', 'www.pk299.com', 'www.ub888.cc', '74xz.com', 'www.x3n99.com', 'www.yfg3.com', '741dm.com', 'www.luwangyangrong.com', '74fan.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for siamkubota.co.th...
+Performing DNS lookup for 741dm.com...
+Performing DNS lookup for www.luwangyangrong.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
