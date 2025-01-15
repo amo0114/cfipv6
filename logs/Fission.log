@@ -22924,3 +22924,24 @@ Performing DNS lookup for test-hi-nan.pages.dev...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 41728fd] Update project files
+ 4 files changed, 56 insertions(+), 11 deletions(-)
+To github.com:amo0114/cfipv6.git
+   ca7313b..41728fd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.43.37...
+Fetching domains for 104.21.231.205...
+Fetching domains for 104.18.37.245...
+succeed to fetch domains for 172.66.43.37 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.231.205 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.37.245 from https://site.ip138.com/
+域名列表为
+['17iwan.com', 'www.jmjs888.com', 'www.theapprenticedoctor.com', 'www.331sp.com', 'app.zenrows.com', 'miggster.com', 'www.sy5151.com', '0511shoes.com', 'yqshuwang.com', 'www.iios.club', 'notik.me', 'blwdy.com', 'www.ifad.org', 'crm.wetradefx.com', 'wap.yqshuwang.com', '999tema.pw', 'www.ddwhm.com', 'www.speedylottos.com', 'www.longkey23.com', 'papapa.info', 'usersearch.org', 'www.17iwan.com', 'uss.131421.ren', 'p.yqshuwang.com', 'baxtc.66666654.xyz', 'cgcc.digicert.pp.ua', 'www.w88th.com', 'www.983tv.com', '331sp.com', 'www.zxc999.cn', 'liaobots.work', 'www.cykz.net', 'wetradefx.com', 'spca.114514782.xyz', 'sextechguide.com', 'www.yqshuwang.com', 'bongbongmarcos.com', '65sihu.com', 'www.tlmoo.com', 'ru.bb.vesti.lv', 'www.sauuu.com', 'www.summerpockets.com', 'mygym.com', 'www.cocanwelding.com', 'leelinesourcing.com', 'lat.vesti.lv', 'www.zpdyw.com', 'blog.furry.ist', 'bwg.131421.ren', 'smlsy.com', 'tlmoo.com', 'www.tailv.com.cn', 'www.bongbongmarcos.com', 'cs.deals', 'www.sy790.com', 'www.cnty.com', 'rewards.wetradefx.com', 'www.qqtianqi.com', 'ggsddd.com', 'www.wetradefx.com', 'www.v2raz.vip', 'theapprenticedoctor.com', 'www.ma-tong.com', 'shop.yeahtheme.com', 'www.dafuhao.com', 'theevreport.com', 'www.smlsy.com', 'hkaa.geotrust.pp.ua', 'www.bestnail.cn', 'www.lfxingli.com', 'www.999yh.vip', 'a2.hh.887733.xyz', 'lpremier.io', 'asbcc.geotrust.pp.ua', 'www.lpremier.io', 'qqtianqi.com', 'www.ggsddd.com', 'www.yjys05.com', 'www.mygym.com', 'yeahtheme.com', 'safebooru.org', 'm.yqshuwang.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.28et.com', 'vpnpro.com', 'm.niuerzs.com', 'tutu500.com', 'chunaa.sectigo.pp.ua', 'surespancovers.com', 'rb.131421.ren', 'www.topbildele.dk', 'achk.cloudflarest.link', '88881010.com', 'porncomp.com', 'focus.vesti.lv', 'green.cloud', 'www.65sihu.com', 'www.arcfertility.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for sextechguide.com...
+Performing DNS lookup for www.wetradefx.com...
+Performing DNS lookup for 331sp.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

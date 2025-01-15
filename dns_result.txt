@@ -2,38 +2,65 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	sextechguide.com
-Address: 172.66.43.37
-Name:	sextechguide.com
-Address: 172.66.40.219
-Name:	sextechguide.com
-Address: 2606:4700:3108::ac42:28db
-Name:	sextechguide.com
-Address: 2606:4700:3108::ac42:2b25
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.31.87
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.75.33
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.65.156
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.42.119
+Name:	cfip.xxxxxxxx.tk
+Address: 108.162.198.40
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.74.7
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.67.159
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.78.45
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.230.36
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.68.110
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.45.20
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.231.27
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.237.219
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.89.92
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.184.100
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.tockt.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.wetradefx.com
-Address: 172.66.40.219
-Name:	www.wetradefx.com
-Address: 172.66.43.37
-Name:	www.wetradefx.com
-Address: 2606:4700:3108::ac42:28db
-Name:	www.wetradefx.com
-Address: 2606:4700:3108::ac42:2b25
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	331sp.com
-Address: 104.21.34.109
-Name:	331sp.com
-Address: 172.67.159.164
-Name:	331sp.com
-Address: 2606:4700:3035::6815:226d
-Name:	331sp.com
-Address: 2606:4700:3036::ac43:9fa4
+www.652tv.com	canonical name = 652.cloudflare.182682.xyz.
+Name:	652.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	652.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	652.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	652.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	652.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	652.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	652.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
 
