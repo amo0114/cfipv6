@@ -22903,3 +22903,24 @@ Performing DNS lookup for www.mf23.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ca7313b] Update project files
+ 4 files changed, 33 insertions(+), 11 deletions(-)
+To github.com:amo0114/cfipv6.git
+   42928de..ca7313b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.46.232...
+Fetching domains for 104.17.253.212...
+Fetching domains for 104.22.53.54...
+succeed to fetch domains for 104.17.253.212 from https://ipchaxun.com/
+succeed to fetch domains for 172.66.46.232 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.53.54 from https://site.ip138.com/
+域名列表为
+['cfpa.pages.dev', 'test-hi-nan.pages.dev', 'dafuweng.com', 'www.dafuhao.com', 'www.biqune.com', 'nlsdwsz.66666654.xyz', 'spca.114514782.xyz', 'jquery-10004.pages.dev', 'biqune.com', 'amoebi.com', 'www.fnyy666.com', 'sky.pushservice10010.top', 'www.ddwhm.com', 'www.zzztch.com', 'blog.caomingjun.com', 'darkace.pages.dev', 'hnan-www.77ov.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'kan234.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for biqune.com...
+Performing DNS lookup for darkace.pages.dev...
+Performing DNS lookup for test-hi-nan.pages.dev...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
