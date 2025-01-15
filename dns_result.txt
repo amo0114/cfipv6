@@ -2,25 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	ufo-vpn.com
-Address: 185.53.178.53
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.hy9999.us: NXDOMAIN
+Name:	hf114.com
+Address: 160.181.171.68
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-xsela.54647store.com	canonical name = xsela.54647store.com.cdn.cloudflare.net.
-Name:	xsela.54647store.com.cdn.cloudflare.net
-Address: 104.18.2.91
-Name:	xsela.54647store.com.cdn.cloudflare.net
-Address: 104.18.3.91
-Name:	xsela.54647store.com.cdn.cloudflare.net
-Address: 2606:4700::6812:25b
-Name:	xsela.54647store.com.cdn.cloudflare.net
-Address: 2606:4700::6812:35b
+Name:	bbs.sumisora.net
+Address: 104.21.40.78
+Name:	bbs.sumisora.net
+Address: 172.67.181.119
+Name:	bbs.sumisora.net
+Address: 2606:4700:3030::6815:284e
+Name:	bbs.sumisora.net
+Address: 2606:4700:3033::ac43:b577
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.121.210
+Name:	ips.993888.xyz
+Address: 104.18.169.65
+Name:	ips.993888.xyz
+Address: 104.16.7.110
 

@@ -23076,3 +23076,25 @@ Performing DNS lookup for www.sf123.mobi...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3d90ad0] Update project files
+ 4 files changed, 57 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   f94a03b..3d90ad0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.218.126...
+Fetching domains for 104.18.40.130...
+Fetching domains for 104.17.221.181...
+succeed to fetch domains for 104.17.218.126 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.221.181 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.40.130 from https://dnsdblookup.com/
+域名列表为
+['www.cfhuagong.com', 'wei333.com', 'zmcc7.com', 'www.iios.club', '3bx01pq.cn', 'www.jsrwkjn.icu', 'sts92.com', 'dc.dckg.space', '18av.54647.site', 'cg.22yy7.com', 'hy9999.us', 'json.720josn.com', '678pao.com', 'www.115tv.com', 'play.54647.site', 's188.com', 'www.teledyneicm.com', 'play.54647store.com', 'xj711.com', 'www.c333.net', 'www.biqune.com', 'www.empikbilety.pl', 'www.dy420.com', '9ca.cc', 'imomoe.54647.site', 'xsela.54647store.com', 'ozzy.com', 'raw.gitmirror.com', 'www.7749tv.com', '561restaurant.com', 'www.omd2008.com', 'moelc.gov.iq', 'empikbilety.pl', 'www.dy1255.com', 'onlinedoctranslator.com', 'www.k77yy.com', 'www.ozzy.com', 'tk888.54647.site', 'dsxys.pro', 'www.xi348c.cn', 'kbj.f5.si', 'www.86dyy.com', 'www.sts92.com', 'www.xj711.com', 'www.zmcc7.com', 'fulibo.54647.site', 'www.lyzdzy.com', 'yy4080dy.com', 'www.americantourister.se', 'qingse.54647.site', 'qc.54647.site', 'cf.openxai.link', 'www.52dyk.com', 'ufo-vpn.com', 'www.881dy.com', 'www.na-kd.com', 'konachan.wjcodes.com', 'hentaigame.54647.site', 'www.163my.com', 'www.shrmdqc.com', 'www.hy9999.us', 'www.991kan.com', 'hcomic.54647store.com', 'www.ufo-vpn.com', 'www.wenxueyuedu.com', 'www.zzztch.com', 'www.fireshoes.info', 'www.3bx01pq.cn', 'www.onlinedoctranslator.com', 'm.8vdy.com', 'onani.54647.site', '3358y.com', '8x8x.54647.site', 'www.taopianwu.com', 'www.888dyy.cc', 'www.orgacontrol.de', 'www.9ca.cc', 'www.k77kk.cc', 'www.51jion.com', 'xsela.54647.site', 'eqwr.top', 'hcomic.54647.site', 'cg.44xf.cc', 'www.s188.com', 'www.xinpian8.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ufo-vpn.com...
+Performing DNS lookup for www.hy9999.us...
+Performing DNS lookup for xsela.54647store.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
