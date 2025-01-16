@@ -23142,3 +23142,25 @@ Performing DNS lookup for giztop.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7489218] Update project files
+ 4 files changed, 76 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   f7f3f8d..7489218  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.230.108...
+Fetching domains for 104.21.231.131...
+Fetching domains for 104.26.14.179...
+succeed to fetch domains for 104.26.14.179 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.230.108 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.231.131 from https://dnsdblookup.com/
+域名列表为
+['www.tv1080.com', 'yy-ggzy.com', 'www.jg666.top', 'www.whpaiger.com', 'www.luwangyangrong.com', 'tw03.nttkk.com', 'm.luwangyangrong.com', 'at.at3939.org', 'www.9ehao.com', 'z-lib.id', 'www.shkdam.com', 'www.autocentre.ua', 'www.interestingengineering.com', 'www.kuaikan66.com', 'achk.cloudflarest.link', '163fahao.com', 'nlsdwsz.66666654.xyz', 'worldofwonder.net', 'maguro.2ch.sc', 'yuesukeji.com', 'spca.114514782.xyz', 'm.ikantv.net', 'www.ntylbz.com', 'www.ygtuliao.com', 'www.ttt4.com', 'www.hi-tec.co.za', 'www.tlbb888.com', 'www.tockt.com', 'www.lctest.com.cn', 'yx.887141.xyz', 'qaz.link', 'www.tinghuipicture.com', 'www.tts-lab.com', 'kongde.cc', 'ikantv.net', 'm.niuerzs.com', 'www.xworldadmin.com', 'www.shop123.com', 'www.cooneyshomeandgarden.com', 'luwangyangrong.com', 'www.zzztch.com', 'www.szyushian.com', 'www.jzey.org', 'www.hellosayarwon.com', 'www.cgltg.com', 'www.the-ambient.com', 'www.xinjuw.com', 'www.wecaidan.com', 'shytobuy.fi', 'ssdnyy.net', 'www.yuesukeji.com', 'www.lolfz.com', 'www.789kp.com', 'pool.braiins.com', 'www.activegym.com.au', 'www.mp4vod.com', 'www.99wxw.cc', 'cloudflare.182682.xyz', 'ioffer.com', 'lzfl.org', 'www.01bzvip5.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.m6y6.com', 'www.womailink.com', 'www.cywyjj.com', 'www.wxthhl.com', 'raw.gitmirror.com', 'buzzarab.com', 'ymyx.pyl522633.eu.org', 'tarte.2ch.sc', '85xs.cc', '2ch.sc', 'www.91m.cc', 'ieb.ink', 'www.bm158.com', 'www.yingshixiaoshuo.com', 'www.ikantv.net', 'sxccpa.org', 'www.shytobuy.fi', 'www.yh9pk.com', 'handou.tv', 'www.99wx.cc', 'www.autosportlabs.com', 'at3939.org', 'find.2ch.sc', 'us04.nttkk.com', 'www.kongde.cc', 'cfip.xxxxxxxx.tk', 'www.ituba.cc', 'interestingengineering.com', 'www.55xs.cc', 'www.sxctdlkj.com', 'www.buzzarab.com', 'dapiya.top', 'www.wslfx.cc', 'www.sxccpa.org', 'www.newstribune.com', '01bzvip5.com', 'minecraftrating.ru', 'macvbb.555556789.xyz', 'www.yhsqxy.com', 'dianshiba.cc', 'www.zhaishulou.com', 'www.2ch.sc', 'boaijinghui.net', 'zhongmiaodl.com', 'h5.app.cpower.club', 'www.6988tv.com', 'www.lyys8.com', 'jzey.org', 'ttt4.com', 'ihentai.de', 'viper.2ch.sc', 'wsj.shy6666.com', 'www.113my.com', 'ddwhm.com', 'ygtuliao.com', 'www.ioffer.com', 'www.88wwk.com', 'hellosayarwon.com', 'www.295k.com', 'www.mrmaria.com', 'm.dianshizb.com', 'hi-tec.co.za', 'www.xinjuc.com', 'www.983tv.com', 'www.kbsm.xyz', 'www.zzkdhb.com', 'www.ddwhm.com', 'www.uu93.com', 'www.iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.2ch.sc...
+Performing DNS lookup for yuesukeji.com...
+Performing DNS lookup for www.shkdam.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

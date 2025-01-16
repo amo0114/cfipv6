@@ -2,41 +2,30 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.2ch.sc
-Address: 172.67.75.65
-Name:	www.2ch.sc
-Address: 104.26.15.179
-Name:	www.2ch.sc
-Address: 104.26.14.179
-Name:	www.2ch.sc
-Address: 2606:4700:20::ac43:4b41
-Name:	www.2ch.sc
-Address: 2606:4700:20::681a:fb3
-Name:	www.2ch.sc
-Address: 2606:4700:20::681a:eb3
+Name:	saierhao2.973.com
+Address: 104.18.23.72
+Name:	saierhao2.973.com
+Address: 104.18.22.72
+Name:	saierhao2.973.com
+Address: 2606:4700::6812:1748
+Name:	saierhao2.973.com
+Address: 2606:4700::6812:1648
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find new88klub.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	yuesukeji.com
-Address: 172.247.8.25
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.shkdam.com	canonical name = cnd.zhongsixx.com.
-Name:	cnd.zhongsixx.com
-Address: 172.67.73.51
-Name:	cnd.zhongsixx.com
-Address: 104.26.3.249
-Name:	cnd.zhongsixx.com
-Address: 104.26.2.249
-Name:	cnd.zhongsixx.com
-Address: 2606:4700:20::ac43:4933
-Name:	cnd.zhongsixx.com
-Address: 2606:4700:20::681a:2f9
-Name:	cnd.zhongsixx.com
-Address: 2606:4700:20::681a:3f9
+Name:	holi5.khm005.xyz
+Address: 104.21.19.77
+Name:	holi5.khm005.xyz
+Address: 172.67.185.166
+Name:	holi5.khm005.xyz
+Address: 2606:4700:3032::6815:134d
+Name:	holi5.khm005.xyz
+Address: 2606:4700:3030::ac43:b9a6
 
