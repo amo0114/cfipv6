@@ -23208,3 +23208,25 @@ Performing DNS lookup for sgaa.sectigo.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ff6491b] Update project files
+ 4 files changed, 58 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   fb9a932..ff6491b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.27.187...
+Fetching domains for 104.18.8.41...
+Fetching domains for 104.21.25.6...
+succeed to fetch domains for 104.18.8.41 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.25.6 from https://site.ip138.com/
+succeed to fetch domains for 104.21.27.187 from https://ipchaxun.com/
+域名列表为
+['8mav1009.com', 'www.zhengtaitong.com', 'qblfx.com', 'www.pinyedai.com', 'n3ro.io', 'jdhkw6amejwilj.buliang769.xyz', 'en.xxxfans.tv', '9qzb.com', 'ssr.fanqiangdang.com', 'jokerlu.sbs', 'live.0mc.top', 'lulube.org', 'www.118wow.cn', 'episodes.castos.com', 'benyamall.com', 'm.hphagoo.top', 'www.xjspapp.com', '6783dd.com', 'www.51seqing.site', 'www.0mc.top', 'darklight.finance', 'www.dliyuan.com', '20181k.net', 'yx.cloudflare.182682.xyz', 'lte006.com', 'wuwuhanman1279.xyz', 'www.hnykhb.com', '94bo.net', '51seqing.site', 'www.122gg.com', 'dniel97.me', 'm.0mc.top', 'hanguogv.space', 'jupai.cc', 'vip.yinghao2.info', 'goout.haiouvip.com', 'www.7aipai.com', 'doutuku.com', 'www.sl4tkm8.cn', 'www.landuanmy.com', 'api.9qzb.com', '3g.0mc.top', 'nieai.me', '99kp.cc', 'ccwk999.top', 'www.lte006.com', 'www.57924.com', '718yp.cc', 'www.minshengcreditcard.cn', 'www.wwav.cc', 'www.94bo.net', 'www.ccwk999.top', 'hpte24m.xyz', 'letu9.com', 'www.comicbookmovie.com', 'wcgjj1.com', 'albany.edu', 'www.840200.com', 'www.cqyhcj.com', 'www.hphagoo.top', '57924.com', 'www.9qzb.com', 'www.buliang769.xyz', '88gaohh.com', 'fanqiangdang.com', 'ws-prod.squirebot.fun', 'wwav.cc', 'www.yyyy86.com', 'www.gibx.io', 'www.natureinfocus.in', 'comicbookguy.site', 'www.294190330.xyz', 'liaivxcc.xyz', '77856.vip', '3g.ccwk999.top', 'stitchshoes.org', 'gibx.io', 'www.afq86.com', '0mc.top', 'www.cvvdata.com', 'www.zhonghualixue.com', 'www.thesukan.com', 'h5.itrader-api.com', 'zm7.m3u8list.top', 'saveporn.net', 'tlbb.hydjd.cn', 'www.meiyangkeji.cn', 'www.y777f.com', '9993342.com', 'kmabgbn.com', '9se81.xyz', 'cfip.xxxxxxxx.tk', 'thesukan.com', 'www.6kkj.com', 'www.insfckt.cn', 'cqyhcj.com', 'ky5xv.com', '888.kj777-am888-hk999.website', 'www.tpyyc.com', '99xcy.com', 'avaiai549.xyz', 'tutvobed.ru', 'm.tpyyc.com', 'yjys05.com', 'hlcg333.com', 'www.6783dd.com', 'zsfgaw.top', 'bt.sb', 'www.sixyin.com', 'y777f.com', 'ybhtsiwprud.com', 'www.influence.com', 'www.88gaohh.com', '080ww.com', 'vr1092.com', 'xxxfans.tv', '622290.com', 'afq86.com', 'hulige7.com', 'yerao.top', 'xjspapp.com', 'd14x4.com', 'www.s570h.com', 'www.622290.com', 'm.9qzb.com', 'freeyingshi.com', '118wow.cn', 'www.wrestlenewz.com', 'm.ccwk999.top', 'huc999.top', 'wap.0mc.top', 'www.xc0328.com', 'xc0328.com', 'fccz.cc', 'www.99xcy.com', '6kkj.com', 'wap.ccwk999.top', 'www.kmabgbn.com', 'comicbookmovie.com', 'speed.marisalnc.com', 'k188.com', 'jump13.co', 'www.ky5xv.com', 'www.kp16d.top', 'kp16d.top', 'www.bitfly.at', 'tstjfy.xyz', 'www.xxxfans.tv', 'www.9se81.xyz', 'pijiuge.com', 'landuanmy.com', 'castos.com', 'yizheng.mobile.zznft.cn', 'cvvdata.com', 'www.7h5us.cn', '0876876.com', 'buliang769.xyz', 'hphagoo.top', 'www.pindaole.com', 's570h.com', 'starakia24.gr', 'yyyy86.com', 'manganuts.com', 'wrestlenewz.com', 'www.rvyztef.cn', 'y3600.cz', 'www.lulube.org', 'www.fanqiangdang.com', 'www.saveporn.net', 'score.9qzb.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zhengtaitong.com...
+Performing DNS lookup for www.622290.com...
+Performing DNS lookup for benyamall.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
