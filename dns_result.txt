@@ -2,39 +2,32 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-74fan.com	canonical name = 74dns.hai888.top.
-74dns.hai888.top	canonical name = dns123.xin6.top.
-Name:	dns123.xin6.top
-Address: 104.26.12.83
-Name:	dns123.xin6.top
-Address: 172.67.75.125
-Name:	dns123.xin6.top
-Address: 104.26.13.83
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-flights.flytap.com	canonical name = flights.flytap.com.cdn.cloudflare.net.
-Name:	flights.flytap.com.cdn.cloudflare.net
-Address: 104.18.6.169
-Name:	flights.flytap.com.cdn.cloudflare.net
-Address: 104.18.7.169
-Name:	flights.flytap.com.cdn.cloudflare.net
-Address: 2606:4700::6812:6a9
-Name:	flights.flytap.com.cdn.cloudflare.net
-Address: 2606:4700::6812:7a9
+www.szstsh.org	canonical name = ct-cg.org.stringcdn.com.
+ct-cg.org.stringcdn.com	canonical name = usa.bz.m18.stringcdn.com.
+Name:	usa.bz.m18.stringcdn.com
+Address: 107.148.178.203
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.refoison.com	canonical name = qdzbdns.hai888.top.
-qdzbdns.hai888.top	canonical name = dns123.xin6.top.
-Name:	dns123.xin6.top
-Address: 172.67.75.125
-Name:	dns123.xin6.top
-Address: 104.26.12.83
-Name:	dns123.xin6.top
-Address: 104.26.13.83
+www.guoba2025.com	canonical name = ct-cg.org.stringcdn.com.
+ct-cg.org.stringcdn.com	canonical name = usa.bz.m18.stringcdn.com.
+Name:	usa.bz.m18.stringcdn.com
+Address: 107.148.178.204
 

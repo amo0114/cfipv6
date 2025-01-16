@@ -23230,3 +23230,24 @@ Performing DNS lookup for benyamall.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 54afb81] Update project files
+ 4 files changed, 57 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   ff6491b..54afb81  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.8.41...
+Fetching domains for 104.18.9.100...
+Fetching domains for 172.67.171.148...
+succeed to fetch domains for 104.18.9.100 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.171.148 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.8.41 from https://dnsdblookup.com/
+域名列表为
+['www.881dy.com', '3g.mqmmu.top', '88av1566.cc', 'www.new1b.com', 'www.hxsy888.com', 'hk.slker9999.us.kg', 'rjtv6.com', 'hk.maovps.link', 'www.cnnindonesia.com', 'www.0550cq.com', 'www.b5c22.com', 'www.comicbookmovie.com', 'www.ppxdm.com', '142fu.com', 'y777f.com', 'afq86.com', '58av.app', 'dingdingdm.com', 'm.mqmmu.top', 'www.1345wo.com', 'albany.edu', 'episodes.castos.com', 'wap.mqmmu.top', 'h5.itrader-api.com', 'www.hantv8.com', 'www.9123jj.com', '4949rr.com', 'www.afq86.com', 'comicbookmovie.com', 'online.fidelitybank.ng', 'www.90dushu.com', 'www.paizipai.top', 'www.4949rr.com', 'www.6i5.com', 'www.langyue777.com', 'www.szjysmy.com', 'www.lfsymy.com', '6783dd.com', 'sdhysyzb.com', '781890.com', 'env2xetf.xyz', 'www.piecesdetachees.ch', '1345wo.com', 'www.17kty.com', 'www.93xscc.com', 'www.516wed.com', 'www.nanhuyt.com', 'blog.hostmonit.com', 'www.781890.com', 'flights.flytap.com', 'www.didamh.com', 'ppxdm.com', 'cf-lt.sharecentre.online', '74us.com', 'aaaq7.cn', 'wap.i51kl2co.top', 'www.7sc.cc', '123.xixidm.com', 'hantv8.com', 'www.74fan.com', 'www.qdzhongbei.com', 'www.nitianxieshen.com', 'xmxingmu.com', 'www.qdjljy.com', 'www.6783dd.com', 'ilgraizf.xyz', 'www.refoison.com', 'zm7.m3u8list.top', 'www.mqmmu.top', 'didamh.com', 'b5c22.com', 'www.cajonpass.net', 'www.y777f.com', '7sc.cc', 'www.jinyir18.com', 'www.haima888.com', '3g.i51kl2co.top', 'gibx.io', 'jinyir18.com', '74fan.com', '84maomm.com', 'william-gallas.com', 'www.dgytlt.com', 'www.xixidm.com', 'castos.com', 'mqmmu.top', 'www.142fu.com', 'www.tinghen.com', 'www.gibx.io', '95kqp.com', 'tepcco.sbs', 'cf.dns.52l.top', 'cnnindonesia.com', 'm.i51kl2co.top', 'www.84maomm.com', 'www.jsscxjzxxw.com', 'www.baisuishu.com', 'update.ynkgx.com', 'www.707dm.com', 'i51kl2co.top', 'www.hnxinlian.org', 'www.artedalmondo.eu', 'haima888.com', 'www.dingdingdm.com', 'www.7749tv.com', 'www.i51kl2co.top', 'd14x4.com', 'garudafood.com', 'www.266958.com', '77789tt.com', 'www.bjyongcheng.com', 'www.95kqp.com', 'lt99.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 74fan.com...
+Performing DNS lookup for flights.flytap.com...
+Performing DNS lookup for www.refoison.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
