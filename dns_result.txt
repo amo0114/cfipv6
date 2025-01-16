@@ -2,30 +2,30 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	saierhao2.973.com
-Address: 104.18.23.72
-Name:	saierhao2.973.com
-Address: 104.18.22.72
-Name:	saierhao2.973.com
-Address: 2606:4700::6812:1748
-Name:	saierhao2.973.com
-Address: 2606:4700::6812:1648
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find new88klub.com: SERVFAIL
+m.163fahao.com	canonical name = pltraffic7.com.
+Name:	pltraffic7.com
+Address: 72.52.179.174
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	holi5.khm005.xyz
-Address: 104.21.19.77
-Name:	holi5.khm005.xyz
-Address: 172.67.185.166
-Name:	holi5.khm005.xyz
-Address: 2606:4700:3032::6815:134d
-Name:	holi5.khm005.xyz
-Address: 2606:4700:3030::ac43:b9a6
+www.saimayang.com	canonical name = saidns.hnyjg.top.
+saidns.hnyjg.top	canonical name = dns123.hanju789.com.
+Name:	dns123.hanju789.com
+Address: 104.26.3.42
+Name:	dns123.hanju789.com
+Address: 172.67.69.65
+Name:	dns123.hanju789.com
+Address: 104.26.2.42
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+sgaa.sectigo.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global40.66666654.xyz.
+Name:	cfcn-a-global40.66666654.xyz
+Address: 104.18.118.206
 

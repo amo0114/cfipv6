@@ -23164,3 +23164,25 @@ Performing DNS lookup for www.shkdam.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main fddd855] Update project files
+ 4 files changed, 61 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   7489218..fddd855  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.19.77...
+Fetching domains for 104.18.23.72...
+Fetching domains for 104.21.22.246...
+succeed to fetch domains for 104.18.23.72 from https://site.ip138.com/
+succeed to fetch domains for 104.21.22.246 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.19.77 from https://site.ip138.com/
+域名列表为
+['bikeitalia.it', 'www.xmly3d.com', '8m1498.xyz', 'vip.zj205.com', 'new88klub.com', 'www.yhshenzhou.com', 'v.rosenf.com', 'wap.80txm0v.top', 'khm005.xyz', 'hjgf4.com', '2024-11-20-----2024-11-20wwe.btbxx1.com', 'ch.9735x.xyz', 'btbxx1.com', 'sxd.973.com', 'www.qiqv.cn', 'zentao.ybao.fun', 'www.2234cc.com', '2024-09-22-----2024-11-12www.btbxx1.com', 'test.props-trader.com', 'knm58.com', 'ncyz5.xyz', 'www.sjzsckj.com', 'fpby512.top', 'www.973.com', '80b8b.com', 'www.tv9090.com', 'nn731.com', 'thep1473.cc', 'www.ofa168.net', 'sub.aofan.me', 'wwe.btbxx1.com', 'images.artnet.com', 'sdn567.com', 'djyytools.com', 'www.ylzcgs88.com', 'cc.9735x.xyz', '1033s.com', 'wap.fpby512.top', '3g.huaweimeta.top', 'www.5setv.cn', 'www.ag8.la', 'nlsdwsz.66666654.xyz', 'maolinty.com', 'xjwmrj.com', 'www.tpyyc.com', 'test.ofa168.net', 'www.huaweimeta.top', 'yecaoyun.com', 'www.fjellsport.no', 'tvt888.cc', 'm.fpby512.top', 'saierhao2.973.com', 'www.jinzhanye.com', 'madou-tv.com', 'www.longfanjx.com', 'meihaoshenghuo438.com', '973.com', 'www.lyzdzy.com', 'huaweimeta.top', 'gowtlgwz.net', '51ka.xyz', 'tomogroup.com', 'wangqiu.973.com', '66620123.com', 'm.duzhige.com', 'yhshenzhou.com', 'wap.wwwhg1405codhvkylo.top', 'logs.s9.mcskill.ru', 'hundouluo.973.com', 'www.80b8b.com', 'jinzhanye.com', '3g.fpby512.top', 'www.deyuanmudanyuan.com', 'www.sdn567.com', '3.btbxx1.com', 'yy8d.com', 'www.gz-yxc.com', 'cl.9735x.xyz', 'www.nangua9.com', 'www.csostat.gov.mm', 'imovtime.com', 'm.973.com', 'news.artnet.com', '2234cc.com', 'csostat.gov.mm', 'holi5.khm005.xyz', 'h678t.com', '5setv.cn', 'bxjg.973.com', 'bb77pp.com', 'm.wwwhg1405codhvkylo.top', 'jise1.com', 'www.bb77pp.com', 'wxts.wuxiants147.com', 'cg.9735x.xyz', 'qty88.com', 'pf55.tv', '4455qe.com', 'wap.huaweimeta.top', 'www.knm58.com', '2024-11-16-----2024-11-163.btbxx1.com', '2024-10-20-----2024-10-201.btbxx1.com', 'gayofchina.fun', 'ofa168.net', 'haimianbaobao.973.com', 'www.a456sb.com', 'www.tomogroup.com', 'kuaikan66.com', 'wwwhg1405codhvkylo.top', 'one168.ofa168.net', 'meilijiafen.cn', '1.btbxx1.com', '025900.com', 'www.wn03.cc', 'props-trader.com', 'www.bikeitalia.it', 'www.ksxdyd.com', 'breakupstobreakthroughs.com', 'ceshi.973.com', 'www.ytron.cn', 'dd55gg.com', 'opena.zifuyuzhou.com', 'www.80txm0v.top', 'pb328.com', 'm.huaweimeta.top', 'www.ty14.cn', 'www.xlys01.com', 'www.melania.nl', 'cdn.obao.fun', 'bhs789.com', 'hg9533.com', 'taiqiu.973.com', 'www.btbxx1.com', 'cf.9735x.xyz', 'mcskill.ru', 'www.b171z.com', 'www.wwwhg1405codhvkylo.top', 'a456sb.com', 'dd993.com', 'data.djyytools.com', 'clycp.com', 'www.bhs789.com', 'www.madou-tv.com', '91x2437.xyz', 'www.livingtours.com', 'www.btdad.cloud', 'www.wn01.cc', 'www.pb328.com', '80txm0v.top', 'www.zjsichengkeji.com', 'maomi.khm005.xyz', 'www.66620123.com', 'js.973.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for saierhao2.973.com...
+Performing DNS lookup for new88klub.com...
+Performing DNS lookup for holi5.khm005.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
