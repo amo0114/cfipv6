@@ -2,32 +2,52 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+Name:	cf1.492745.xyz
+Address: 162.159.46.165
+Name:	cf1.492745.xyz
+Address: 172.67.18.14
+Name:	cf1.492745.xyz
+Address: 172.67.112.94
+Name:	cf1.492745.xyz
+Address: 172.67.20.115
+Name:	cf1.492745.xyz
+Address: 172.67.169.7
+Name:	cf1.492745.xyz
+Address: 172.67.53.119
+Name:	cf1.492745.xyz
+Address: 172.64.204.96
+Name:	cf1.492745.xyz
+Address: 172.67.170.64
+Name:	cf1.492745.xyz
+Address: 172.67.79.221
+Name:	cf1.492745.xyz
+Address: 172.67.30.18
+Name:	cf1.492745.xyz
+Address: 104.19.48.115
+Name:	cf1.492745.xyz
+Address: 104.18.108.54
+Name:	cf1.492745.xyz
+Address: 172.64.83.72
+Name:	cf1.492745.xyz
+Address: 198.41.209.101
+Name:	cf1.492745.xyz
+Address: 172.67.183.64
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find xh01.app: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.szstsh.org	canonical name = ct-cg.org.stringcdn.com.
-ct-cg.org.stringcdn.com	canonical name = usa.bz.m18.stringcdn.com.
-Name:	usa.bz.m18.stringcdn.com
-Address: 107.148.178.203
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.guoba2025.com	canonical name = ct-cg.org.stringcdn.com.
-ct-cg.org.stringcdn.com	canonical name = usa.bz.m18.stringcdn.com.
-Name:	usa.bz.m18.stringcdn.com
-Address: 107.148.178.204
+Name:	aikmha.com
+Address: 38.46.8.28
+Name:	aikmha.com
+Address: 38.46.8.26
+Name:	aikmha.com
+Address: 38.46.8.27
+Name:	aikmha.com
+Address: 38.46.8.30
 
