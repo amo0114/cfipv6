@@ -23273,3 +23273,25 @@ Performing DNS lookup for www.guoba2025.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b08aa6a] Update project files
+ 4 files changed, 100 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   993e884..b08aa6a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.46.71...
+Fetching domains for 104.18.95.3...
+Fetching domains for 198.41.220.106...
+succeed to fetch domains for 104.18.95.3 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.220.106 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.46.71 from https://site.ip138.com/
+域名列表为
+['k77yy.com', 'www.881dy.com', 'v99yh5.com', '086181.xyz', 'www.99wxw.cc', 'www.nanhuyt.com', 'ppxdm.com', 'www.msjh520.com', 'www.85xscc.com', 'www.99wx.cc', 'www.damidm.com', 'www.huanyaad.com', 'www.qdtsdp.com', 'www.93xscc.com', 'm.0550cq.com', 'm.6i5.com', 'lyz.com', 'www.74us.com', '7.namesilo123.top', 'www.xshuxs.com', 'www.741dm.com', 'www.86dyy.com', 'www.wei333.com', 'www.wxxzzs.com', 'www.ifineair.com', 'www.xinpian8.com', 'www.qdzhongbei.com', '998avav.com', 'www.zhanglao8.fun', 'ipdb.app.tc', 'txydd.com', 'cmcc.877774.xyz', 'www.longwangchuanshuo.net', '115tv.com', 'www.boyangjt.com', 'www.ddwhm.com', 'bencorn.org', 'www.mmiyy.com', 'www.yjys05.com', 'www.0550cq.com', 'www.doupobook.cc', 'www.qdjljy.com', 'www.82324.com', 'www.wulinpai.vip', 'www.nsisfans.com', 'gangsiwang.org', 'wulinpai.vip', 'www.11txt.com', 'www.ubfifxsg.xyz', 'wuji133.com', 'www.ppxdm.com', 'www.pwcai.com', 'yiren45.com', 'www.4148.net', 'm.myvod360.com', 'www.dingdingdm.com', 'www.paizipai.top', 'www.hhi7.com', 'aiaihd.com', 'www.longwangchuanshuo.com', 'yh6.dtku41.xyz', '44maott.com', 'ddwhm.com', 'sgv7.com', '74xz.com', 'didamh.com', 'www.yinshuaji1688.com', 'yx.887141.xyz', 'javkem.com', 'gman.fun', 'www.dmbj.cc', 'www.hnxinlian.org', 'dingdingdm.com', 'www.kanju8.com', 'www.yiren45.com', 'www.lyz.com', 'www.xwsxs.com', '74fan.com', 'www.wenxueyuedu.com', 'www.74xz.com', 'www.74fan.com', 'www.txydd.com', 'www.ddaculture.com', 'cf1.492745.xyz', 'pdf-books.cc', 'cgcc.digicert.pp.ua', 'www.7e9m.com', 'acus.cloudflarest.link', 'www.nitianxieshen.com', 'aikmha.com', 'www.lailai360.com', 'xh01.app', 'www.ngjqjx.com', 'www.80yy.org', 'www.kingdicg.com', 'cf-lt.sharecentre.online', 'qdtsdp.com', 'dr-skin.com.tw', 'www.zongcaixs.cc', 'www.tv9090.com', 'stock.hostmonit.com', 'm.6988tv.com', 'www.qdrxh.com', 'www.77zw.cc', 'qdzhongbei.com', 'www.6i5.com', 'www.tvyb02.com', 'www.50zw.co', 'www.tinghen.com', 'mignews.com.ua', 'i.52world.link', 'www.qindi.net', 'wocao.bencorn.org', 'www.998avav.com', 'nanhuyt.com', 'www.xiuluo942.com', 'www.gzlatin.com', 'www.didamh.com', 'www.dr-skin.com.tw', 'veloservice.pp.ua', 'www.xh01.app', 'cbl11.app', 'freeyx.cloudflare88.eu.org', 'xukzhao.cf']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cf1.492745.xyz...
+Performing DNS lookup for xh01.app...
+Performing DNS lookup for aikmha.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
