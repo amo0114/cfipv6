@@ -23120,3 +23120,25 @@ Performing DNS lookup for www.93xscc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f7f3f8d] Update project files
+ 4 files changed, 69 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   e07fb05..f7f3f8d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.2.154...
+Fetching domains for 104.17.241.9...
+Fetching domains for 104.17.245.50...
+succeed to fetch domains for 104.17.241.9 from https://site.ip138.com/
+succeed to fetch domains for 104.26.2.154 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.245.50 from https://site.ip138.com/
+域名列表为
+['www.1156av.com', 'tmbtc.io', 'm.niuerzs.com', 'www.tmbtc.io', 'tv.ci', 'www.tichain.cc', 'giztop.com', 'vip.vipmv.tv', 'labourguide.co.za', 'www.hanfangxiang.com', 'www.gidapp.com', 'token.diadata.org', 'www.incsgo.gg', 'www.metpar.com', 'www.93xscc.com', 'chunbb.sectigo.pp.ua', 'www.baunetz-architekten.de', 'www.yncareer.com', 'my.exness-trade.pro', '7z9a.com', 'cf.wkin.cloudns.org', 'www.cfhuagong.com', 'www.iios.club', 'www.whpaiger.com', 'www.52dvd.cn', 'exness-trade.pro', 'gidapp.com', 'rtqs.tmbtc.io', '182135.com', 'www.ddwhm.com', 'www.bj-jla.com.cn', 'www.hljja.com', 'baunetz-architekten.de', 'sudovanilla.com', 'www.yqwwpf.com', 'www.bestxxxsites.com', 'dsxys.com', 'www.nba01.com', 'www.ygdy8.cc', 'www.knvod.com', '1156av.com', 'www.tpyyc.com', 'www.tv1080.com', 'www.zzztch.com', 'hollywoodcasino.com', 'www.e0101.com', 'diadata.org', 'poketube.sudovanilla.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.lrjyllh.com', 'www.ds2000.vip', 'www.ducttapemarketing.com', 'taern.pl', 'luwangyangrong.com', 'industrialcyber.co', 'www.182135.com', 'ducttapemarketing.com', 'www.exness-trade.pro', 'bestxxxsites.com', 'temp-number.com', 'nlsdwsz.66666654.xyz', 'www.giztop.com', 'www.ub888.cc', 'www.hotfrog.ph', 'fappy.com', 'vipmv.tv', 'cihrs.org', 'www.gaycn.top', 'www.hnrbty.com', 'prod-usdo.openeden.com', 'qs.tmbtc.io', 'www.yjys05.com', 'wvv.yqwwpf.com', 'openeden.com', 'remaker.ai']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ducttapemarketing.com...
+Performing DNS lookup for www.incsgo.gg...
+Performing DNS lookup for giztop.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

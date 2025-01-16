@@ -2,38 +2,41 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	ducttapemarketing.com
-Address: 104.26.2.154
-Name:	ducttapemarketing.com
-Address: 172.67.70.85
-Name:	ducttapemarketing.com
-Address: 104.26.3.154
-Name:	ducttapemarketing.com
-Address: 2606:4700:20::681a:39a
-Name:	ducttapemarketing.com
-Address: 2606:4700:20::681a:29a
-Name:	ducttapemarketing.com
-Address: 2606:4700:20::ac43:4655
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.incsgo.gg: SERVFAIL
+Name:	www.2ch.sc
+Address: 172.67.75.65
+Name:	www.2ch.sc
+Address: 104.26.15.179
+Name:	www.2ch.sc
+Address: 104.26.14.179
+Name:	www.2ch.sc
+Address: 2606:4700:20::ac43:4b41
+Name:	www.2ch.sc
+Address: 2606:4700:20::681a:fb3
+Name:	www.2ch.sc
+Address: 2606:4700:20::681a:eb3
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	giztop.com
-Address: 104.26.2.154
-Name:	giztop.com
-Address: 104.26.3.154
-Name:	giztop.com
-Address: 172.67.70.85
-Name:	giztop.com
-Address: 2606:4700:20::681a:39a
-Name:	giztop.com
-Address: 2606:4700:20::681a:29a
-Name:	giztop.com
-Address: 2606:4700:20::ac43:4655
+Name:	yuesukeji.com
+Address: 172.247.8.25
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.shkdam.com	canonical name = cnd.zhongsixx.com.
+Name:	cnd.zhongsixx.com
+Address: 172.67.73.51
+Name:	cnd.zhongsixx.com
+Address: 104.26.3.249
+Name:	cnd.zhongsixx.com
+Address: 104.26.2.249
+Name:	cnd.zhongsixx.com
+Address: 2606:4700:20::ac43:4933
+Name:	cnd.zhongsixx.com
+Address: 2606:4700:20::681a:2f9
+Name:	cnd.zhongsixx.com
+Address: 2606:4700:20::681a:3f9
 
