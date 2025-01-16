@@ -23098,3 +23098,25 @@ Performing DNS lookup for xsela.54647store.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e07fb05] Update project files
+ 4 files changed, 66 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   3d90ad0..e07fb05  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.254.75...
+Fetching domains for 104.18.46.173...
+Fetching domains for 104.17.30.60...
+succeed to fetch domains for 104.17.30.60 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.46.173 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.254.75 from https://dnsdblookup.com/
+域名列表为
+['www.5675nn.com', 'www.28et.com', 'www.dgsmartmom.com', 'www.wjxbj.com', 'www.hf114.com', 'www.wei333.com', '465354.com', 'www.worldofbuzz.com', 'www.sumisora.net', 'yes3333.com', 'www.jq1pfm6v.cn', 'www.lyzdzy.com', '36mh.net', 'hf114.com', 'www.111e2i.top', 'e0101.com', '0dian8.com', 'worldofbuzz.com', 'www.93xscc.com', 'calmlab.com', '5675nn.com', 'www.ayearcheap.com', 'www.evoluso.com', 'www.cfhuagong.com', 'www.lorealparis.se', 'www.465354.com', 'www.0dian8.com', 'sumisora.net', 'www.249yu.com', 'dgsmartmom.com', 'www.77bb.cool', '47441.com', 'www.99wx.cc', 'www.789kp.com', 'yhsqxy.com', 'www.xiuluoxiaoshuo.com', 'www.4gdiy.com', 'bbs.sumisora.net', 'fqsp.xyz', 'uzixw9.cn', '249yu.com', 'boundarynursery.co.uk', 'scr888.group', 'www2.dgsmartmom.com', 'www.laotaitai.net', 'www.tichain.cc', 'xsylsl.cloud', 'www.y88y.net', 'jazzday.com', 'ipdb.rr.nu', 'www.zzztch.com', 'www.uzixw9.cn', 'www.calmlab.com', 'evoluso.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for hf114.com...
+Performing DNS lookup for bbs.sumisora.net...
+Performing DNS lookup for www.93xscc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
