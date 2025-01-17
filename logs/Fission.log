@@ -23431,3 +23431,24 @@ Performing DNS lookup for www.93xscc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 682f840] Update project files
+ 4 files changed, 45 insertions(+), 24 deletions(-)
+To github.com:amo0114/cfipv6.git
+   4c4ec76..682f840  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.8.36...
+Fetching domains for 104.21.31.178...
+Fetching domains for 104.17.83.112...
+succeed to fetch domains for 104.21.31.178 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.8.36 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.83.112 from https://dnsdblookup.com/
+域名列表为
+['cake66.cn', 'av80.av522.top', 'pg5r.av522.top', 'www.fs180.com', 'aavv.av522.top', 'vbw0.av522.top', 'www.yx822.com', 'xb73.av522.top', 'www.av522.top', 'yyds72.av522.top', 'xxoo.av522.top', 'yx822.com', 'xo21.av522.top', 'xo27.av522.top', 'atao.cloudflare.182682.xyz', 'bsxv.av522.top', 'www.yh9pk.com', '4huxx13.com', 'piyi.av522.top', 'qwef.av522.top', 'yyds5.av522.top', 'xb13.av522.top', 'www.hnkuncheng.com', 'www.overkillsoftware.com', 'www.pk.reevoo-industrial.com', 'xxx.av522.top', 'www.genlibo.com', 'yyxxi.com', 'mm11.av522.top', 'mm26.av522.top', 'av69.av522.top', 'www.lailai360.com', 'xo4.av522.top', 'xfltd.net', 'xo29.av522.top', 'www.4huxx13.com', 'mm46.av522.top', 'chhv.av522.top', 'xb43.av522.top', 'a345ft.com', 'escortnews.it', 'k78.com.cn', 'www.cgfxw.com', 'd18h.av522.top', 'www.fin99.net', 'www.ycl888888.com', 'www.huaidan2.com', 'xb40.av522.top', 'cao44.av522.top', '3g.np364.top', 'guestreservations.com', 'av91.av522.top', 'yyds70.av522.top', 'cao85.av522.top', 'www.b7yy.cc', 'ua.reevoo-industrial.com', '17se.av522.top', 'cao15.av522.top', 'cfip.xxxxxxxx.tk', 'z8q5.av522.top', 'franckprovost-expert.it', 'www.dcs99.com', '52mm.av522.top', 'honeywk.com', 'av18.av522.top', '88av3255.xyz', 'sese.av522.top', 'www.guestreservations.com', 'yyds.av522.top', '2baz.av522.top', 'x3r4.av522.top', 'kk44kk.av522.top', 'www.dafuhao.com', 'jav7.av522.top', 'www.jiarenwu.com', 'yyds28.av522.top', 'cao70.av522.top', '91xx.av522.top', 'xxbb.av522.top', 'xo63.av522.top', 'yyds52.av522.top', 'cctv.av522.top', 'qfgy.av522.top', '3g.uuijev.top', 'caobb.av522.top', 'mm24.av522.top', 'ccav.av522.top', 'hnkuncheng.com', 'www.kbss888.com', 'mm30.av522.top', 'njaazf.top', 'www.shy6666.com', 'mm83.av522.top', 'www.93xscc.com', 'jav92.av522.top', 'www.jdliushan.com', '07rx.av522.top', 'www.a345ft.com', 'ihd1.av522.top', 'ycl888888.com', 'www.yyxxi.com', 'herent233.cn', 'm.np364.top', '9999.av522.top', 'www.99wx.cc', 'posam.cn', 'xb45.av522.top', 'www.ququxiaoshuo.com', 'www.71maoak.com', 'wap.np364.top', 'www.k78.com.cn', 'www.993my.com', 'www.seikovision.com', 'www.gzshengchangjd.com', 'www.yjys05.com', '71maoak.com', 'x0x0x.av522.top', 'vttm.av522.top', 'www.honeywk.com', 'www.cx888my.com', 'ipdb.rr.nu', '69xx.av522.top', 'np364.top', 'pan.herent233.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 3g.uuijev.top...
+Performing DNS lookup for www.guestreservations.com...
+Performing DNS lookup for mm26.av522.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
