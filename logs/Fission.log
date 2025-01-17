@@ -23317,3 +23317,25 @@ Performing DNS lookup for zlcq520.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a96165b] Update project files
+ 4 files changed, 63 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   ef5f594..a96165b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.230.33...
+Fetching domains for 104.18.150.56...
+Fetching domains for 104.18.2.157...
+succeed to fetch domains for 104.18.150.56 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.230.33 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.2.157 from https://site.ip138.com/
+域名列表为
+['www.025com.com', 'pt.pngtree.com', 'showdoc.pngtree.com', 'vi.pngtree.com', 'fr.pngtree.com', 'us.20141030.xyz', 'www.iios.club', '025com.com', 'es.pngtree.com', 'png.pngtree.com', 'yx.syd9494.sbs', 'ja.pngtree.com', 'www.cfhuagong.com', 'www.cobaltstrike.com', 'www.50zw.co', 'www.a234dk.com', 'cobaltstrike.com', 'a234dk.com', 'kor.pngtree.com', 'www.tt22.com', 'th.pngtree.com', 'www.knvod.com', '3345ju.com', 'pngtree.com', 'www.3345ju.com', 'ru.pngtree.com', '28et.com', 'www.ydx8.com', 'www.alfalaval.ua', 'zh.pngtree.com', '90zzm.com', 'www.52ys.cc', 'x7d77.com', 'ar.pngtree.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 025com.com...
+Performing DNS lookup for th.pngtree.com...
+Performing DNS lookup for ar.pngtree.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
