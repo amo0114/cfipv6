@@ -2,31 +2,32 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.pk.reevoo-industrial.com
-Address: 172.67.178.240
-Name:	www.pk.reevoo-industrial.com
+Name:	3g.uuijev.top
 Address: 104.21.31.178
-Name:	www.pk.reevoo-industrial.com
-Address: 2606:4700:3034::6815:1fb2
-Name:	www.pk.reevoo-industrial.com
+Name:	3g.uuijev.top
+Address: 172.67.178.240
+Name:	3g.uuijev.top
 Address: 2606:4700:3035::ac43:b2f0
+Name:	3g.uuijev.top
+Address: 2606:4700:3034::6815:1fb2
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cao70.av522.top
+Name:	www.guestreservations.com
+Address: 104.18.6.251
+Name:	www.guestreservations.com
+Address: 104.18.7.251
+Name:	www.guestreservations.com
+Address: 2606:4700::6812:6fb
+Name:	www.guestreservations.com
+Address: 2606:4700::6812:7fb
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	mm26.av522.top
 Address: 154.23.64.98
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.184.165
-Name:	ips.993888.xyz
-Address: 104.16.35.184
-Name:	ips.993888.xyz
-Address: 104.18.175.159
 
