@@ -1,46 +1,20 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.kanmanhuala.cc	canonical name = kkk.cloudflare.182682.xyz.
-Name:	kkk.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	kkk.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	kkk.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	kkk.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	kkk.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	kkk.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	kkk.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	kkk.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	kkk.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	kkk.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
+** server can't find v2.cgd03.top: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
+Name:	www.tpyyc.com
+Address: 107.148.242.9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 28et.com: SERVFAIL
+Non-authoritative answer:
+yxy176.com	canonical name = host1108236b.host1068.zhamerica.com.
+Name:	host1108236b.host1068.zhamerica.com
+Address: 23.224.10.238
 
