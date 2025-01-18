@@ -23583,3 +23583,24 @@ Performing DNS lookup for www.gaycn.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b5d00f6] Update project files
+ 4 files changed, 84 insertions(+), 69 deletions(-)
+To github.com:amo0114/cfipv6.git
+   25782d0..b5d00f6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.36.236...
+Fetching domains for 104.17.2.37...
+Fetching domains for 104.22.8.254...
+succeed to fetch domains for 104.17.2.37 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.36.236 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.8.254 from https://ipchaxun.com/
+域名列表为
+['zinibao.com', 'music.lumingye.cn', 'www.4huq98.com', 'www.xieekan.cc', 'gscwur.top', 'g5nwlq9yxcer.top', 'bnfly.com', 'www.00006.xyz', 'www.30hu.com', 'www.bhl-china.org', 'www.tockt.com', '91xsp.life', 'www.993my.com', 'www.52ys.cc', 'www.8877fz.com', 'www.pk299.com', 'www.viphhk.com', 'www.zlcq520.com', '115fhd.com', 'www.dasaiba.com', 'www.5522tl.com', 'www.gscwur.top', 'fulidui.com', 'www.aiwanmoyu.com', '3g.gscwur.top', 'kanliao6.net', 'www.wubei520.com', '166cb.sbs', 'wm.uzmtrg.xyz', 'xieekan.cc', 'uzmtrg.xyz', 'www.166cb.sbs', 'www.cx888my.com', 'dcs.jqddos.xyz', '559669.com', 'm.xieekan.cc', 'm.viphhk.com', 'uppervpn.com', 'www.bjalv.cn', 'www.m6y6.com', 'www.shkhealth.com', 'www.winer.jp', 'www.kuaikan66.com', 'dcs99.com', 'zfqjp7.tw', 'www.zzztch.com', 'shkhealth.com', 'www.7277tl.com', 'api.lzlxzs.com', 'www.0753my.com', 'htsitol.lumingye.cn', 'www.gamer18.com', 'www.qwerty.lumingye.cn', 'www.sf52l.com', 'www.tianyabook.com', 'toole.lumingye.cn', 'www.yh9pk.com', 'app.iirgo.xyz', 'qwerty.lumingye.cn', 'www.amghbmg.cn', 'gerexiyin.com', 'www.xzmoyu.com', 'too.lumingye.cn', '939248.91115.net', 'qwety.lumingye.cn', 'wap.gscwur.top', 'www.lzlxzs.com', 'www.51jkw.net', 'bhl-china.org', 'on-hit.ru', 'www.75uw.com', 'zf663.com', 'www.dcs99.com', 'm.gscwur.top', 'www.tlbb888.com', '00006.xyz', 'top.lumingye.cn', 'www.dzy66666.com', 'www.kanliao6.net', '1258586.com', 'www.tools.lumingye.cn', '22jjjjj.com', 'm.nmgtzb.org.cn', 'www.cocanwelding.com', 'www.xz898my.com', 'www.shy6666.com', 'www.taose365.com', 'tengrenwang.com', 'www.cu90.com', 'www.mk22777.com', 'j5698.vip', 'www.oikiaonline.com', 'smartdev.com', 'free1.91xsp.life', 'www.hhyy028.com', 'cen3.xyz', 'www.85xs.cc', 'faka4.100wo.cn', '4pcc.com', 'gangsiwang.org', 'm.4pcc.com', 'www.kbss888.com', 'www.ldssz.com', 'yiqi1234.com', 'www.yiqi1234.com', 'www.asshwh.cn', 'www.zzkdhb.com', 'tihuan.h2vcdn.top', 'www.j5698.vip', 'mg.winer.jp', 'pa93.com', 'yxy176.com', 'tool.lumingye.cn', 'www.lailai360.com', '580yh.com', 'www.awanmy.com', 'm.51jkw.net', 'zhangboz.xyz', 'taose365.com', 'www.4pcc.com', 'www.7lq.com', 'www.930my.com', 'www.niuniu9.com', 'a54z6u.xyz', 'admin.wl988.vip', 'pk299.com', 'getustdsdssb.uk', 'www254.com', '4huq98.com', 'www.207my.com', 'winer.jp', 'm.gangsiwang.org', 'xxootl.com', 'lumingye.cn', 'www.4t8e.cn', 'ideasjersey.com', 'www.xinyi176.com', 'topl.lumingye.cn', '51jkw.net', 'www.chiguatiantang.com', 'www.linnuozs.com', 'www.lolfz.com', 'discordcdn.com', 'songzi114.com', 'tools.lumingye.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ldssz.com...
+Performing DNS lookup for www.gscwur.top...
+Performing DNS lookup for www.wubei520.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
