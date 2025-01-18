@@ -2,27 +2,32 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.lingyi44.com
-Address: 208.98.43.132
+www.55xs.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.168.221
+Name:	ips.993888.xyz
+Address: 104.18.165.85
+Name:	ips.993888.xyz
+Address: 104.18.30.34
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-shop.hostmonit.com	canonical name = shop.hostmonit.com.cdn.cloudflare.net.
-Name:	shop.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	shop.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	shop.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	shop.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+Name:	www.xigua5.com
+Address: 208.98.40.206
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tsdingxin.com
-Address: 134.122.181.146
+www.xlys01.com	canonical name = 7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com.
+Name:	7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com
+Address: 172.66.1.46
+Name:	7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com
+Address: 162.159.141.50
+Name:	7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com
+Address: 2606:4700:7::12e
+Name:	7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com
+Address: 2a06:98c1:58::12e
 
