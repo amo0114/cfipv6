@@ -2,26 +2,34 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	501ii.com
-Address: 194.53.53.4
-Name:	501ii.com
-Address: 194.53.53.252
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.a456kx.com
-Address: 172.67.174.97
-Name:	www.a456kx.com
-Address: 104.21.64.22
-Name:	www.a456kx.com
-Address: 2606:4700:3035::6815:4016
-Name:	www.a456kx.com
-Address: 2606:4700:3033::ac43:ae61
+www.gzcfmy.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.117.76
+Name:	cf.zmdhc.com
+Address: 172.67.104.182
+Name:	cf.zmdhc.com
+Address: 172.67.81.182
+Name:	cf.zmdhc.com
+Address: 172.67.173.5
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find cc.xingsu.fun: NXDOMAIN
+Non-authoritative answer:
+www.shsxjzzs.com	canonical name = cf.zmdhc.com.
+Name:	cf.zmdhc.com
+Address: 172.67.104.182
+Name:	cf.zmdhc.com
+Address: 172.67.117.76
+Name:	cf.zmdhc.com
+Address: 172.67.81.182
+Name:	cf.zmdhc.com
+Address: 172.67.173.5
 
