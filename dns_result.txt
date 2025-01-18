@@ -2,32 +2,46 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.55xs.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.168.221
-Name:	ips.993888.xyz
-Address: 104.18.165.85
-Name:	ips.993888.xyz
-Address: 104.18.30.34
+Name:	a393.cc
+Address: 37.19.207.34
+Name:	a393.cc
+Address: 2400:52e0:1a01::984:1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.xigua5.com
-Address: 208.98.40.206
+www.wn03.cc	canonical name = cf-4.sjcdn.top.
+cf-4.sjcdn.top	canonical name = cn.wnacg.com.
+Name:	cn.wnacg.com
+Address: 104.26.13.109
+Name:	cn.wnacg.com
+Address: 104.26.12.109
+Name:	cn.wnacg.com
+Address: 172.67.74.237
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:d6d
+Name:	cn.wnacg.com
+Address: 2606:4700:20::ac43:4aed
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:c6d
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.xlys01.com	canonical name = 7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com.
-Name:	7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com
-Address: 172.66.1.46
-Name:	7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com
-Address: 162.159.141.50
-Name:	7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com
-Address: 2606:4700:7::12e
-Name:	7f0e5cb3be3a1bcd0f4440a0a2cb6896.r2.cloudflarestorage.com
-Address: 2a06:98c1:58::12e
+www.wn05.cc	canonical name = cf-4.sjcdn.top.
+cf-4.sjcdn.top	canonical name = cn.wnacg.com.
+Name:	cn.wnacg.com
+Address: 172.67.74.237
+Name:	cn.wnacg.com
+Address: 104.26.13.109
+Name:	cn.wnacg.com
+Address: 104.26.12.109
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:d6d
+Name:	cn.wnacg.com
+Address: 2606:4700:20::ac43:4aed
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:c6d
 
