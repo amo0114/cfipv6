@@ -2,23 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.sbdm.net
-Address: 69.16.230.165
+Name:	501ii.com
+Address: 194.53.53.4
+Name:	501ii.com
+Address: 194.53.53.252
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.sjzsckj.com
-Address: 208.98.43.77
+Name:	www.a456kx.com
+Address: 172.67.174.97
+Name:	www.a456kx.com
+Address: 104.21.64.22
+Name:	www.a456kx.com
+Address: 2606:4700:3035::6815:4016
+Name:	www.a456kx.com
+Address: 2606:4700:3033::ac43:ae61
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-hzefss.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global4.66666654.xyz.
-Name:	cfcn-a-global4.66666654.xyz
-Address: 104.18.124.45
+** server can't find cc.xingsu.fun: NXDOMAIN
 

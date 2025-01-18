@@ -23496,3 +23496,24 @@ Performing DNS lookup for www.2349uu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dc37c92] Update project files
+ 4 files changed, 40 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   14c6dbb..dc37c92  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.254.112...
+Fetching domains for 104.17.237.88...
+Fetching domains for 104.18.4.136...
+succeed to fetch domains for 104.17.254.112 from https://site.ip138.com/
+succeed to fetch domains for 104.17.237.88 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.4.136 from https://ipchaxun.com/
+域名列表为
+['baxtc.66666654.xyz', 'chunbb.sectigo.pp.ua', 'agent.ballysbet.com', 'hzefss.66666654.xyz', 'www.gmmpic.com', 'www.51jion.com', 'api.yjyfdc.com', 'www.jeffco.us', 'club.commonhealth.com.tw', 'm.clun.top', 'ukcc.digicert.pp.ua', 'm.77kpo.com', 'www.77kp.com', 'jhpcza.66666654.xyz', 'www.commonhealth.com.tw', 'yh.fgmjm.com', 'commonhealth.com.tw', 'www.wn05.cc', 'www.52dym.com', 'cdn.0578.eu.org', 'nlsdwsz.66666654.xyz', 'sgaa.sectigo.pp.ua', 'h5553.com', 'www.kunzedu.com', 'gmmpic.com', 'biquduge.com', 'y9376y.com', 'www.21tvb.com', 'chunaa.sectigo.pp.ua', 'cfip.xxxxxxxx.tk', 'www.sbdm.net', 'search.rlahlifestyle.com', 'pan.clun.top', 'www.whpaiger.com', 'yjyfdc.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'yh.yjyfdc.com', 'www.wn04.cc', 'www.wn03.cc', 'www.h5553.com', 'www.sjzsckj.com', 'ballysbet.com', 'www.gaycn.top', 'jpvsavhyu.76898102.xyz', 'www.y9376y.com', 'macvbb.555556789.xyz', 'lunhuan.24cdn.top', 'gogo.xn--mes53ddysu0o3gl.top', 'cf.cdn.huangbin.net', 'm.niuerzs.com', 'm.commonhealth.com.tw', 'm.77kp.com', 'www.ballysbet.com', 'www.iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.sbdm.net...
+Performing DNS lookup for www.sjzsckj.com...
+Performing DNS lookup for hzefss.66666654.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
