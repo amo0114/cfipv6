@@ -23539,3 +23539,25 @@ Performing DNS lookup for cc.xingsu.fun...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 42ef750] Update project files
+ 4 files changed, 68 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   fbff5d7..42ef750  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.243.115...
+Fetching domains for 172.67.71.139...
+Fetching domains for 104.18.5.218...
+succeed to fetch domains for 172.67.71.139 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.5.218 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.243.115 from https://site.ip138.com/
+域名列表为
+['nlsdwsz.66666654.xyz', 'www.4148.net', 'www.eastcoastdaily.com', 'yyxycn.com', 'ipdb.rr.nu', 'www.4huff11.com', 'www.xlys01.com', 'lebon.porn', 'xs.wxtv.cc', '4huff11.com', 'freeyx.cloudflare88.eu.org', 'web.bitlabs.ai', 'yxcdnip.yyyrspeed.us.kg', 'wei333.com', 'z777k.com', 'www.yjys05.com', 'lc.chat', 'utrop.no', 'www.icehua.cc', 'www.tuozhan22.com', '4hug01.com', 'www.z777k.com', 'www.whpaiger.com', 'www.yiqianhg.com', 'lavagame.com', 'www.huakai2018.com', 'www.993my.com', 'www.92mili.com', 'www.xxpg888.com', 'pan2-mplay.xyz', 'www.niuerzs.com', 'cfip.xxxxxxxx.tk', 'stock.hostmonit.com', 'www.scxdex.com', 'www.football.com', 'www.zzztch.com', 'www.jhhtech.com', 'xgambet.com', 'www.nwtlbb.cn', 'www.17kty.com', 'football.com', 'www.kanju8.com', 'www.hxsy888.com', 'www.881dy.com', 'm.28dushu.com', 'www.ydxs.cc', 'm.niuerzs.com', '12y.tv', 'www.kunzedu.com', 'www.lyzdzy.com', 'r2redes.tomticket.com', 'www.11txt.com', '999696.xyz', 'www.gzcfmy.com', 'www.bjfqmj.com', 'cf1.492745.xyz', 'www.boyangjt.com', 'www.tefal.com.hk', 'www.cgfxw.com', 'www.888dyy.cc', 'www.90dushu.com', 'www.meifuchem.com', 'www.shsxjzzs.com', 'www.iios.club', 'www.706i.com', 'www.12y.tv', 'www.4hug01.com', 'zeusstress.fun', 'www.szxjsj.com', 'www.xworldadmin.com', 'israelgives.org', '4huf42.com', 'tomticket.com', 'www.yyxycn.com', 'www.0550cq.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for www.gzcfmy.com...
+Performing DNS lookup for www.shsxjzzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
