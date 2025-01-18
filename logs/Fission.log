@@ -23561,3 +23561,25 @@ Performing DNS lookup for www.shsxjzzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 25782d0] Update project files
+ 4 files changed, 117 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   42ef750..25782d0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.137.83...
+Fetching domains for 104.17.232.20...
+Fetching domains for 104.21.235.110...
+succeed to fetch domains for 104.17.137.83 from https://site.ip138.com/
+succeed to fetch domains for 104.17.232.20 from https://site.ip138.com/
+succeed to fetch domains for 104.21.235.110 from https://dnsdblookup.com/
+域名列表为
+['lai819.com', 'www.iios.club', 'www.lai819.com', 'www.cocanwelding.com', 'www.wn04.cc', 'www.zzztch.com', 'www.zodns.cn', 'roughporno.com', 'lsky.hubinwei.top', 'www.fellate.com', 'baxtc.66666654.xyz', 'www.kungal.com', 'www.kaotic.com', 'gh.api.99988866.xyz', '18hornyboys.com', 'static01.xyz', 'www.guoyanni.com', 'www.ygdy8.cc', 'www.agropur.com', 'www.lyzdzy.com', 'gay-area.org', 'seyirtv101.com', 'cdn.kaotic.com', 'omofun.link', 'www.652tv.com', 'www.fivestarpornsites.com', 'fivestarpornsites.com', 'kaotic.com', 'achk.cloudflarest.link', 'www.pornteenage.com', '26img.com', 'www.gdriustb.com', 'i.she.vc', 'www.xinjuc.com', 'www.zlpack.cn', 'www.skyqn.com', 'xinjuc.com', 'www.wn05.cc', 'zi0.cc', 'www.wn01.cc', 'www.hdglamcore.com', 'www.bt4kyy.com', 'zzztch.com', 'sensualdirectory.com', 'www.28et.com', 'cf.cdn.huangbin.net', 'hdglamcore.com', 'www.gaycn.top', 's1.niuxuejia.com', 'mh.static01.xyz', 'watchcartoononline.com', 'www.xlys01.com', 'www.sixyin.com', 'images2.pornhub-porno.net', 'www.wenzidi.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.sixyin.com...
+Performing DNS lookup for kaotic.com...
+Performing DNS lookup for www.gaycn.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
