@@ -23670,3 +23670,25 @@ Performing DNS lookup for www.wn05.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5af9f28] Update project files
+ 4 files changed, 61 insertions(+), 57 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   7ff8a60..5af9f28  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.0.250...
+Fetching domains for 104.21.234.51...
+Fetching domains for 108.162.198.169...
+succeed to fetch domains for 104.22.0.250 from https://site.ip138.com/
+succeed to fetch domains for 104.21.234.51 from https://site.ip138.com/
+succeed to fetch domains for 108.162.198.169 from https://ipchaxun.com/
+域名列表为
+['www.75uw.com', 'lax.sagg.us.kg', 'kkyx.yydsii.com', 'www.51jion.com', 'www.youtaker.com', 'hmoe.top', 'tv6868.com', 'www.xxootl.com', 'peternorthdvd.com', 'naruto.cartoon-hentai.com', 'p4porn.com', '8810868.com', 'www.omd2008.com', 'yh7.dtku41.xyz', 'www.tv6868.com', 'gay69.biz', 'freethoughtblogs.com', 'freeyx.cloudflare88.eu.org', 'www.116.ag', 'gtt.top', 'www.99wxw.cc', 'www.euro-girlz.com', 'btdad.cloud', 'www.75xs.cc', 'dll3.cn', 'euro-girlz.com', 'www.longwangchuanshuo.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.shenmatk.com', 'www.emgvideo.com', 'cdn018.tv6868.com', 'www.295k.com', 'www.tlbb888.com', 'youtaker.com', 'srv.cldplay.net', '20cy.com', 'www.gay69.biz', 'c6868.tv6868.com', 'newapp.tv6868.com', 'm.rmipoz.com', 'www.xuanqishi.com', 'www.jg666.top', 'p.sda1.dev', 'goodogogmm.com', 'www.u66.shop', 'www.97777pk.com', 'xxxcove.com', 'www.xworldadmin.com', 'cera.tv6868.com', 'www.663dy.com', 'www.peternorthdvd.com', 'shenmatk.com', 'cfip.xxxxxxxx.tk', 'cdn.didi8.com', 'cdn024.tv6868.com', 'www.88wwk.com', 'karwan.tv', 'hinet.tv6868.com', 'tmnet.tv6868.com', 'eth.tv6868.com', 'www.678km.com', 'www.iios.club', 'www.993my.com', 'www.qindixs.com', 'euclip.net', 'www.xpornxtube.com', 'tnci.tv', 'xpornxtube.com', 'sexteentube.tv', 'www.sf52l.com', 'vid123.net', 'asianpussyfuck.com', 'www.pianku5.com', 'www.cfhuagong.com', 'cartoon-hentai.com', 'watchfighters.com', 'legitbabes.com', 'www.redlips.nl', 'www.pk299.com', 'www.kbss888.com', 'cdn012.tv6868.com', 'www.iios.me', 'www.awanmy.com', 'img301.com', 'cdn016.tv6868.com', 'www.99wx.cc', 'www.watchfighters.com', 'enormepikken.nl', 'tunneltransfer.bpyjc.com', 'wxa1.webdeal.cn', 'cdn028.tv6868.com', 'm.youtaker.com', 'cdn011.tv6868.com', 'www.zdqx.com', 'cf.090227.xyz', 'www.szzrdq.com', 'www.ysz8.com', 'yx.887141.xyz', 'www.5522tl.com', 'kuudy.com', 'cdnspon.com', 'usnew.lbxjc.site', 'www.xkceo.com', 'kmsm.wwysw.cn', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.51jion.com...
+Performing DNS lookup for tunneltransfer.bpyjc.com...
+Performing DNS lookup for tmnet.tv6868.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
