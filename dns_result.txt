@@ -2,56 +2,30 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.3dck.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
+Name:	m.qs29.com
+Address: 104.17.193.17
+Name:	m.qs29.com
+Address: 104.16.33.72
+Name:	m.qs29.com
+Address: 104.17.173.19
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.888dyy.cc	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	agar.io
-Address: 18.155.68.60
-Name:	agar.io
-Address: 18.155.68.41
-Name:	agar.io
-Address: 18.155.68.117
-Name:	agar.io
-Address: 18.155.68.82
-Name:	agar.io
-Address: 2600:9000:2079:3e00:17:cfe5:fa00:93a1
-Name:	agar.io
-Address: 2600:9000:2079:c000:17:cfe5:fa00:93a1
-Name:	agar.io
-Address: 2600:9000:2079:2e00:17:cfe5:fa00:93a1
-Name:	agar.io
-Address: 2600:9000:2079:ae00:17:cfe5:fa00:93a1
-Name:	agar.io
-Address: 2600:9000:2079:2a00:17:cfe5:fa00:93a1
-Name:	agar.io
-Address: 2600:9000:2079:e200:17:cfe5:fa00:93a1
-Name:	agar.io
-Address: 2600:9000:2079:5a00:17:cfe5:fa00:93a1
-Name:	agar.io
-Address: 2600:9000:2079:6800:17:cfe5:fa00:93a1
+Name:	www.bs999.com
+Address: 104.21.75.229
+Name:	www.bs999.com
+Address: 172.67.182.231
+Name:	www.bs999.com
+Address: 2606:4700:3031::ac43:b6e7
+Name:	www.bs999.com
+Address: 2606:4700:3036::6815:4be5
 

@@ -23801,3 +23801,24 @@ Performing DNS lookup for onespan.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 076e297] Update project files
+ 4 files changed, 77 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   cb003dc..076e297  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.235.168...
+Fetching domains for 104.18.221.247...
+Fetching domains for 104.17.230.221...
+succeed to fetch domains for 104.17.235.168 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.221.247 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.230.221 from https://dnsdblookup.com/
+域名列表为
+['www.dy1255.com', 'www.888dyy.cc', 'www.iios.fun', 'www.35kan.com', 'www.cocanwelding.com', 'collins.com', 'www.80yy.org', 'www.agar.io', 'cfip.xxxxxxxx.tk', 'yyxxi.com', 'www.gaycn.top', 'www.cfhuagong.com', 'agar.io', 'www.iios.club', 'www.tichain.cc', 'www.3dck.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.3dck.com...
+Performing DNS lookup for www.888dyy.cc...
+Performing DNS lookup for agar.io...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
