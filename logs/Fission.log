@@ -23757,3 +23757,25 @@ Performing DNS lookup for www.nitianxieshen.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 21fcd15] Update project files
+ 4 files changed, 64 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   0debf41..21fcd15  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.19.210...
+Fetching domains for 104.21.237.23...
+Fetching domains for 104.21.30.121...
+succeed to fetch domains for 104.21.19.210 from https://site.ip138.com/
+succeed to fetch domains for 104.21.237.23 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.30.121 from https://dnsdblookup.com/
+域名列表为
+['m.tekkpn.top', 'ptsre.com', 'm.miaodu5.com', 'm.6p9j1yv3k.top', 'yp975.com', 'www.zzwanx.com', 'www.rgbaxe.com', 'www.apilyqbing.top', 'www.qgrvnr.top', '5aihh.cn', 'www.htjyzx.cn', 'www.cocanwelding.com', '3g.jolocke.top', 'www.hk256.com', '0on.info', 'qingrencc1.top', '3g.qgrvnr.top', 'miaodu5.com', 'xn--ces6ay3xej926d.xyz', '3g.jrenp99.top', 'www.4hug62.com', 'xcc278.com', 'www.wn709.cn', 'wap.kbsp2.top', '32ffff.com', 'ce2cc.buzz', '3g.tekkpn.top', 'zyy1xz51.xyz', 'www.tekkpn.top', 'www.zhnanli.com', 'www.sg-pe.com', 'kuwanke.club', 'www.zdqx.com', 'quyidashi.com', 'jrenp99.top', 'nlsdwsz.66666654.xyz', 'beautyleg8.club', 'www.beautyleg8.club', 'www.cbcv.cc', 'www.jxseolanjie.com', 'm.luwangyangrong.com', 'www.lipperinternational.com', 'zgwangzhan.com', 'www.np761.cn', 'www.295k.com', 'www.hanjutvaa.com', 'm.kbsp2.top', 'www.gdriustb.com', 'pafuli.xyz', 'psy.net.cn', 'www.qingrencc1.top', 'apilyqbing.top', 'www.qingkundl.com', 'www.yihouhiway.com', 'www.52dgm.cn', 'www.bjfcdy.com', 'www.bm158.com', 'tekkpn.top', 'www.kunzedu.com', 'www.jolocke.top', 'www.kaku100.com', 'www.nba01.com', 'ruitazfy.xyz', 'huaszj.cn', 'www.jiugepay.com', 'm.jrenp99.top', 'www.quanji55.com', 'qs573.xyz', 'www.85k2.com', 'wbfls.org', 'm.jolocke.top', 'www.5aihh.cn', 'www.wn01.cc', 'tjzpdnj.cn', 'lysp109.top', 'qqweld.com', 'wap.luwangyangrong.com', 'www.jrenp99.top', 'www.3hdmall.com', 'www.lnhntv9565.top', 'www.91m.cc', 'chredo.org', 'wwdd.qzmama.com', 'www.wenzidi.com', 'www.ikarosone.top', 'www.xcc278.com', 'sp6080.com', '21tvb.com', '51cg012.com', 'wap.apilyqbing.top', 'www.75uw.com', 'www.sb14h.top', 'www.paopaoyx.cn', 'www.21tvb.com', 'shirohigeinu2.com', 'sanyatour.com', 'wap.tekkpn.top', 'www.yongheng.cyou', 'hk256.com', 'm.niuerzs.com', '3g.kbsp2.top', 'zhnanli.com', 'file.kittymao.xyz', 'github.jiuse355.xyz', 'www.dhyns.cn', 'asamnews.com', 'www.hanmipost.com', 'jolocke.top', 'www.riche88.net', 'radios.tw', 'www.32ffff.com', 'www.huakai2018.com', 'www.lysp109.top', 'jxseolanjie.com', 'www.6p9j1yv3k.top', 'hfnnmy.cn', 'jiuse355.xyz', 'im.kb39.co', 'www.buka22.com', 'www.huaszj.cn', 'gueb.site', 'www.92mili.com', 'marsmediacn.com', 'sb14h.top', 'zhanhuangintl.com', 'www.sxe21.cn', 'mobp2p.com', 'www.luwangyangrong.com', 'm.sp6080.com', 'shuimutv.com', 'hxtss.cc', 'dd962.com', 'm.qgrvnr.top', '3g.apilyqbing.top', 'hawtaigroup.com', 'ggb.plus', '4hug62.com', 'www.calmlab.com', 'www.sp6080.com', 'www.kbsp2.top', 'www.psy.net.cn', 'www.sanyatour.com', '9566483.com', 'm.apilyqbing.top', '28et.com', '6p9j1yv3k.top', 'wap.jolocke.top', 'm.hanjutvaa.com', 'kbsp2.top', 'www.edirneguncel.com', 'www.zgwangzhan.com', 'www.goulile.com', 'opi5.com', 'sdtcw.com', 'avaiai503.xyz', 'kaku100.com', 'wap.jrenp99.top', 'www.designdede.com', 'wxts.wuxiants2.com', 'riche88.net', 'gpt0000.xyz', 'jxggcm.com', 'www.51turquoise.cn', 'hxblct.com', 'quanji55.com', '91x623.cc', 'qr99.cc', 'lipperinternational.com', 'www.sdwance.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.nba01.com...
+Performing DNS lookup for wxts.wuxiants2.com...
+Performing DNS lookup for m.jolocke.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
