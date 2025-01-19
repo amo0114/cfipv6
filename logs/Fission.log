@@ -23714,3 +23714,25 @@ Performing DNS lookup for www.suchculture.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8bab78d] Update project files
+ 4 files changed, 43 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   b646623..8bab78d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.235.159...
+Fetching domains for 104.18.255.123...
+Fetching domains for 104.17.226.247...
+succeed to fetch domains for 104.17.235.159 from https://site.ip138.com/
+succeed to fetch domains for 104.18.255.123 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.226.247 from https://dnsdblookup.com/
+域名列表为
+['wlkpvf.com', 'www.zzztch.com', 'kw.s8k.net', 'lkj.qasdds.com', 'douzhuat.com', 'uu93.com', 'raw.gitmirror.com', 'hfch.hgwdk.net', 'ladalbd.com', 'www.dy420.com', 'byt.yehddd.com', 'www.slggkgx.com', 'feidu7.com', 'qp.s8k.net', 'huanyuf.com', 'govqsh.com', 'akiw.zsddsw.com', '365dvd.cc', 'a9dwyiwlkfg.iosmmm.com', 'uu.uueeka.com', 'ww.ddddky.com', 'orhpaqx2x1a.iosmmm.com', 'nimpapps.com', 'winniepoq.com', 'down.bggfk.com', 'auto.coinmoor.com', 'gggggyy.com', 'fangolvt.com', 'www.xuanqishi.cc', 'bqg34.com', 'hillsbrade.com', 'zaizaibp.com', '96.96-h.com', 'te.s8k.net', 'dsxys.com', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for akiw.zsddsw.com...
+Performing DNS lookup for huanyuf.com...
+Performing DNS lookup for govqsh.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
