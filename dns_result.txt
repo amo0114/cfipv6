@@ -1,42 +1,44 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 4hug64.com: NXDOMAIN
+Non-authoritative answer:
+www.cu90.com	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 104.21.64.1
+Name:	cf.host106.america96.com
+Address: 104.21.112.1
+Name:	cf.host106.america96.com
+Address: 104.21.80.1
+Name:	cf.host106.america96.com
+Address: 104.21.48.1
+Name:	cf.host106.america96.com
+Address: 104.21.96.1
+Name:	cf.host106.america96.com
+Address: 104.21.32.1
+Name:	cf.host106.america96.com
+Address: 104.21.16.1
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:7001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:6001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:2001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:4001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:5001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:1001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:3001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.yjys05.com	canonical name = nz.7zz.cn.
-nz.7zz.cn	canonical name = cdn.7zz.cn.
-Name:	cdn.7zz.cn
-Address: 104.21.238.243
-Name:	cdn.7zz.cn
-Address: 104.21.227.175
-Name:	cdn.7zz.cn
-Address: 104.21.229.14
-Name:	cdn.7zz.cn
-Address: 104.21.238.52
-Name:	cdn.7zz.cn
-Address: 104.21.84.24
-Name:	cdn.7zz.cn
-Address: 2606:4700:e1::6906:6a99
-Name:	cdn.7zz.cn
-Address: 2606:4700:e2::157a:7b78
-Name:	cdn.7zz.cn
-Address: 2606:4700:3112::3cc2:14dd
-Name:	cdn.7zz.cn
-Address: 2606:4700:e7::2af4:4b5b
-Name:	cdn.7zz.cn
-Address: 2606:4700:4400::720f:3902
+** server can't find cdncdncdncdn.784654.xyz: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global35.66666654.xyz.
-Name:	cfcn-a-global35.66666654.xyz
-Address: 104.18.118.114
+** server can't find wsj.shy6666.com: NXDOMAIN
 
