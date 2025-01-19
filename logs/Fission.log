@@ -23736,3 +23736,24 @@ Performing DNS lookup for govqsh.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0debf41] Update project files
+ 4 files changed, 55 insertions(+), 9 deletions(-)
+To github.com:amo0114/cfipv6.git
+   8bab78d..0debf41  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 108.162.198.128...
+Fetching domains for 104.18.247.20...
+Fetching domains for 188.114.97.250...
+succeed to fetch domains for 108.162.198.128 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.247.20 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.97.250 from https://ipchaxun.com/
+域名列表为
+['www.tlbb888.com', 'www.6xr.com', 'www.xz898my.com', 'www.99wxw.cc', 'www.yan176.com', 'www.993my.com', '2024my.top', 'www.207my.com', '2007cs.top', 'www.30moyu.top', 'www.521sg.com', 'dzy66666.com', 'www.4gdiy.com', 'www.pk299.com', 'www.bkmanhuas.com', 'www.xwbhk.com', 'www.tl2938.xyz', 'www.tl123123.com', 'dcs.jqddos.xyz', 'www.tockt.com', 'www.dzy66666.com', 'www.xxootl.com', 'www.nitianxieshen.com', 'cfcdn3.sanfencdn9.com', 'www.hhyy028.com', '3213456.com', 'www.8877fz.com', 'www.kbss888.com', 'www.930my.com', 'www.rxjh520.cc', 'www.shy6666.com', 'www.lhss666.com', 'www.97777pk.com', '07zx.me', 'www.cx888my.com', 'www.sf52l.com', 'www.5522tl.com', 'www.zlcq520.com', 'www.yh9pk.com', 'www.m6y6.com', 'ysz8.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xwbhk.com...
+Performing DNS lookup for www.5522tl.com...
+Performing DNS lookup for www.nitianxieshen.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
