@@ -1,35 +1,15 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-cf.zhetengsha.eu.org	canonical name = cf.090227.xyz.
-cf.090227.xyz	canonical name = cloudflare-ip-3bi.pages.dev.
-Name:	cloudflare-ip-3bi.pages.dev
-Address: 172.66.47.128
-Name:	cloudflare-ip-3bi.pages.dev
-Address: 172.66.44.128
-Name:	cloudflare-ip-3bi.pages.dev
-Address: 2606:4700:310c::ac42:2c80
-Name:	cloudflare-ip-3bi.pages.dev
-Address: 2606:4700:310c::ac42:2f80
+** server can't find akiw.zsddsw.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	wap.oisgks.top
-Address: 172.67.157.224
-Name:	wap.oisgks.top
-Address: 104.21.89.104
-Name:	wap.oisgks.top
-Address: 2606:4700:3032::6815:5968
-Name:	wap.oisgks.top
-Address: 2606:4700:3037::ac43:9de0
+** server can't find huanyuf.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.suchculture.com
-Address: 154.212.237.23
+** server can't find govqsh.com: NXDOMAIN
 
