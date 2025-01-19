@@ -23779,3 +23779,25 @@ Performing DNS lookup for m.jolocke.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cb003dc] Update project files
+ 4 files changed, 56 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   21fcd15..cb003dc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.27.196...
+Fetching domains for 104.17.233.63...
+Fetching domains for 172.67.160.77...
+succeed to fetch domains for 104.17.233.63 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.27.196 from https://site.ip138.com/
+succeed to fetch domains for 172.67.160.77 from https://ipchaxun.com/
+域名列表为
+['4hue59.com', 'm.jingshuai888.com', 'cfip.xxxxxxxx.tk', 'onespan.com', '90haoff.com', 'www.50zw.co', '17nana.xyz', 'www.a345ks.com', 'g456m.com', 'www.gzgafk.com', 'www.kangle.la', 'www.zlzwyy.com', 'attin.net', 'www.playplay.com', 'www.landpull.com', 'www.zzhh66.cc', 'your-day.asia', 'www.ccs14.com', 's2.se28se99.com', 'www.dgytlt.com', 'navigation.17nana.xyz', 'www.nxyxzl.com', 'cabinnet.ir', 'www.ddwhm.com', '67100f.com', 'www.90haoff.com', 'bayfrontcharlotte.com', 'www.33185m.com', 'hkip.557668.xyz', 'm.gra88.com', 'stock.hostmonit.com', 'www.mimijuhe.icu', 'www.sf123.mobi', 'www.gra88.com', 'www.xc330.com', 'www.gdriustb.com', 'www.datasheets360.com', 'www.szxjsj.com', 'ruvideo.cc', '7.namesilo123.top', 'www.jnzhuchuang.cn', 'www.yiqianhg.com', 'www.ahsifen.com', 'mimijuhe.icu', 'www.web120.org', 'www.shsxjzzs.com', 'www.gaycn.top', 'yx.887141.xyz', '9fwh8wmmda.xyz', 'sd.heqiya.x10.mx', 'www.4hue59.com', '999696.xyz', 'www.17kty.com', 'yyxycn.com', 'www.shhzmjg.com', 'www.6i5.com', 'www.wxxzzs.com', 'www.gyxinzhi.com', 'www.58ha.com', '186pp.com', 'www.india9.net', 'zcyg002.com', 'xjz777.xyz', 'www.cbcv.cc', 'www.295k.com', 'www.hxsy888.com', 'www.186pp.com', '33185m.com', 'www.lyzdzy.com', 'zhanyuan.efancc.cc', 'gift.hfhy.cc', 'www.tv9090.com', 'www.zhongyunyang.com', 'www.bjhttkmhkx.com', 'macvbb.555556789.xyz', 'www.asmrg.com', 'www.tinghen.com', 'www.hosemicon.com', 'www.266958.com', 'bdyy2.xyz', 'dl30.sonicb.it', 'pp.kppay.live', 'www.sao76.com', 'landpull.com', 'www.561268.com', 'www.wuda.cf', 'sao76.com', 'www.jinricp.net', 'www.45xpxp.com', 'datasheets360.com', 'www.bjfqmj.com', 'www.jingshuai888.com', 'www.dmzg-cn.com', 'hosthentai.com', 'www.meijui.net', 'gzhs02.com', 'www.t935.net', 'www.g456m.com', 'k9th2.com', 'a345ks.com', 'www.lzhdsn.com', 'www.k9th2.com', 'www.4148.net', 'www.imeiju.net', 'www.jsdrtzn.com', '614ll.com', 'momxq.com', 'baxtc.66666654.xyz', 'bbxx05.top', 'www.dafuhao.com', 'm.hsdgash.top', 'efancc.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'ww633.com', 'www.ahguihan.com', 'achk.cloudflarest.link', 'www.gzcfmy.com', 'siakad.uncp.ac.id']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.58ha.com...
+Performing DNS lookup for yx.887141.xyz...
+Performing DNS lookup for onespan.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,24 +2,56 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.58ha.com
-Address: 47.101.177.173
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find yx.887141.xyz: NXDOMAIN
+www.3dck.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	onespan.com
-Address: 104.18.33.33
-Name:	onespan.com
-Address: 172.64.154.223
-Name:	onespan.com
-Address: 2606:4700:4400::6812:2121
-Name:	onespan.com
-Address: 2606:4700:4400::ac40:9adf
+www.888dyy.cc	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	agar.io
+Address: 18.155.68.60
+Name:	agar.io
+Address: 18.155.68.41
+Name:	agar.io
+Address: 18.155.68.117
+Name:	agar.io
+Address: 18.155.68.82
+Name:	agar.io
+Address: 2600:9000:2079:3e00:17:cfe5:fa00:93a1
+Name:	agar.io
+Address: 2600:9000:2079:c000:17:cfe5:fa00:93a1
+Name:	agar.io
+Address: 2600:9000:2079:2e00:17:cfe5:fa00:93a1
+Name:	agar.io
+Address: 2600:9000:2079:ae00:17:cfe5:fa00:93a1
+Name:	agar.io
+Address: 2600:9000:2079:2a00:17:cfe5:fa00:93a1
+Name:	agar.io
+Address: 2600:9000:2079:e200:17:cfe5:fa00:93a1
+Name:	agar.io
+Address: 2600:9000:2079:5a00:17:cfe5:fa00:93a1
+Name:	agar.io
+Address: 2600:9000:2079:6800:17:cfe5:fa00:93a1
 
