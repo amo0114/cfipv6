@@ -24045,3 +24045,24 @@ Performing DNS lookup for laxdscaa.76898102.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 83b81c6] Update project files
+ 4 files changed, 34 insertions(+), 17 deletions(-)
+To github.com:amo0114/cfipv6.git
+   501228d..83b81c6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.27.200...
+Fetching domains for 104.18.29.250...
+Fetching domains for 104.18.71.247...
+succeed to fetch domains for 104.18.71.247 from https://site.ip138.com/
+succeed to fetch domains for 104.18.29.250 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.27.200 from https://ipchaxun.com/
+域名列表为
+['4life.com', 'www.b3p22.com', 'www.geograf-stud.ru', 'wss.rawb818.com', 'www.friday1game.com', 'www.norlanya.com', 'nestle.com.au.cdn.cloudflare.net', 'www.yhsqxy.com', 'www.cfhuagong.com', 'www.nestle.com.au', 'www.cupertek.com', 'www.kiehls.it', 'yundongkuang.com', 'www.dg-seo.com', 'www765.com', 'rhinpoc.net', 'www.btdad13.xyz', 'www.6889s.com', 'xh16814.com', 'www.xcyy696.com', 'www.736bbb.com', 'www.4life.com', 'lvlelv.com', 'www.usawzki.cn', 'www.motorbiscuit.com', '8084hu.com', 'www.6456da.com', 'www.8084hu.com', 'www.ei5s.com', '6889s.com', 'www.hjab9.com', 'www.cgltg.com', '087j.com', 'dg-seo.com', 'www.nestle.com.au.cdn.cloudflare.net', 'www.nswplg.cn', 'bx-tv.com', '5160t.com', 'www.zodns.cn', 'www.faka001.xyz', 'www.zcai61325.com', 'zcai61325.com', 'x88a1293.xyz', 'www.ws0366.cn', 'www.122ln.com', 'thep2764.cc', 'www.elogin.cn', 'kiehls.it', 'www.ynglgleg.buzz', 'www.boheyun.cn', 'wjm.whettappcs.icu', 'iostmarket.io', 'bitci.com', 'cfip.xxxxxxxx.tk', 'wheelcasinobonus.com', 'geograf-stud.ru', '766ca.com', 'hjab9.com', 'frankbyrnes.com', 'baxtc.66666654.xyz', 'u523n.com', 'sud-static.sudcdn.cloud', 'yx.887141.xyz', 'nibaoao.com', 'www.sixgrapefruit.com', 'www.kunzedu.com', 'www.u523n.com', 'y3600.cz', 'www.766ca.com', 'docker.henan.us.kg', 'www.calmlab.com', 'btdad13.xyz', 'mmdy.vip', 'amphenol-cs.com', 'www.anaplan.com', 'www.jianzhanmbku.cn', 'gfgf2.com', 'www.sex5oo.com', 'xinhe8003.com', 'norlanya.com', 'www.iostmarket.io', 'www.y3600.cz', 'www.nibaoao.com', 'www.5160t.com', 'boheyun.cn', 'huauncrc.top', 'aegean-apartments.com', 'sex5oo.com', 'www.4hudd85.com', 'campbellsgreenhouses.com', 'www.gzjunheyoudao.com', 'aag27.com', 'www.peaksatthepass.com', 'www.087j.com', 'mfvip060.top', 'zodns.cn', 'sntv19.site', 'hindixxxvideo.com', 'www.bitci.com', '8688.live', 'casino.wheeloffortunecasino.com', 'qdnzsks.cn', 'xf2s.com', 'www.www765.com', '736bbb.com', 'www.xh16814.com', 'www.moroccoworldnews.com', 'b3p22.com', 'beerav.com', 'friday1game.com', 'elogin.cn', 'www.gfgf2.com', 'mongolia.4life.com', 'nsub.henan.us.kg']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.www765.com...
+Performing DNS lookup for mmdy.vip...
+Performing DNS lookup for www.peaksatthepass.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
