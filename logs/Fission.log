@@ -24023,3 +24023,25 @@ Performing DNS lookup for cloudflare.cfgo.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 501228d] Update project files
+ 4 files changed, 50 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   cbddfe6..501228d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.237.241...
+Fetching domains for 104.21.233.40...
+Fetching domains for 104.21.228.208...
+succeed to fetch domains for 104.21.228.208 from https://site.ip138.com/
+succeed to fetch domains for 104.17.237.241 from https://site.ip138.com/
+succeed to fetch domains for 104.21.233.40 from https://ipchaxun.com/
+域名列表为
+['hkaa.geotrust.pp.ua', 'miraigo.net', 'www.luwangyangrong.com', 'www.gdriustb.com', 'menmaza.76898102.xyz', 'www.dy1255.com', 'www.vodbd.com', 'zl.aitrjc.xyz', 'www.zzztch.com', 'ct.090227.xyz', 'frsadubidd.76898102.xyz', 'jhpcza.66666654.xyz', 'www.dajuyun.cn', '7.namesilo123.top', 'sgaa.sectigo.pp.ua', 'laxdscaa.76898102.xyz', 'pk299.com', 'www.38yy.cn', 'www.m6y6.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'jpbb.sectigo.pp.ua', 'www.cbcv.cc', 'www.92mili.com', 'baxtc.66666654.xyz', 'www.lailai360.com', '086181.xyz', 'gangka6.xyz', 'yx.887141.xyz', 'freeyx.cloudflare88.eu.org', 'www.k77yy.com', 'www.6988tv.com', 'www.75uw.com', 'www.k77kk.cc', 'amstdhebb.76898102.xyz', 'www.migudy.com', 'www.33mov.com', 'macvbb.555556789.xyz', 'www.ai2moe.org', 'www.dafuhao.com', 'www.295k.com', 'www.nsisfans.com', 'www.7749tv.com', 'acus.cloudflarest.link', 'cfip.xxxxxxxx.tk', 'www.cocanwelding.com', 'www.91m.cc', 'camtlebb.76898102.xyz', 'www.sjzsckj.com', 'nlsdwsz.66666654.xyz', 'www.881dy.com', 'www.yjys05.com', 'www.galzy.eu.org', 'www.tlbb888.com', 'www.xzmoyu.com', '1.namesilo123.top', 'www.yh9pk.com', 'fldsubgigtujuy.76898102.xyz', 'spca.114514782.xyz', 'www.cfhuagong.com', 'www.iios.club', '9ehao.com', 'www.c333.net', '92mili.com', 'm.luwangyangrong.com', 'jpvsavhyu.76898102.xyz', 'www.xworldadmin.com', 'tunneltransfer.bpyjc.com', 'www.xinpian8.com', 'chuncc.sectigo.pp.ua', 'www.v2raz.vip', 'speed.marisalnc.com', 'v.ximei.love', 'www.3dck.com', 'wnet.one', 'xfltd.net', 'www.ddwhm.com', 'www.zddzd.top', 'decc.66666654.xyz', 'www.wn03.cc', 'school.xn--vjqp6xkwblzeyv2h.cn', 'superapis.app', 'yh6.dtku41.xyz', 'www.kanju8.com', 'www.ygdy8.cc', 'iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tlbb888.com...
+Performing DNS lookup for m.luwangyangrong.com...
+Performing DNS lookup for laxdscaa.76898102.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

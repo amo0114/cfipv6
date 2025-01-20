@@ -2,20 +2,17 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tlbb888.com
-Address: 156.224.122.4
+www.www765.com	canonical name = www89777.com.
+Name:	www89777.com
+Address: 162.218.30.9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	m.luwangyangrong.com
-Address: 69.16.230.165
+** server can't find mmdy.vip: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	laxdscaa.76898102.xyz
-Address: 104.18.121.214
+** server can't find www.peaksatthepass.com: NXDOMAIN
 
