@@ -23959,3 +23959,25 @@ Performing DNS lookup for orrick.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ed2b0b7] Update project files
+ 4 files changed, 56 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   c34c472..ed2b0b7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.27.14...
+Fetching domains for 104.17.254.98...
+Fetching domains for 104.18.222.64...
+succeed to fetch domains for 104.17.254.98 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.222.64 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.27.14 from https://dnsdblookup.com/
+域名列表为
+['klimtechs.com', 'www.jjtyss.com', 'zhangxiaoqiang.fun', 'xc101.cc', 'apk.iosprx.top', 'sex8.cc', '5456lu.com', 'www.wenxiang520.cn', 'm.6988tv.com', 'cs.avocams.com', 'mda456.com', 'www.93xscc.com', 'qdzhongbei.com', 'www.meijui.net', 't.77kp1.com', 'heliossunbike.com', '27guan.com', '1pluscg.com', 'aktv.top', 'apa.az', 'www.apa.az', 'www.can39.com', 'download.sex8.cc', 'api.qtw8889.com', 'www.888dyy.cc', 'data.hyperos.fans', 'baxtc.66666654.xyz', 'www.cfhuagong.com', '2347w.com', 'www.hjd62.com', 'm.sex8.cc', 'www.c333.net', '65ua.com', 'hjd62.com', 'www.sex8.cc', 'www.mda456.com', 'nlsdwsz.66666654.xyz', 'pbrun.org', 'cloudflare.182682.xyz', 'hyperos.fans', 'kzfpvoprqk.com', 'm.niuerzs.com', 'www.newsdirectory3.com', 'www.frp789.com', 'www.qjsp365.com', 'newsdirectory3.com', 'www.6988tv.com', 'www.1pluscg.com', 'www.27guan.com', 'www.xxmh469.com', 'qjsp365.com', 'okav.okav2.life', 'www.baopen888.com', 'www.2347w.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'ced.lv', 'www.aimiju.top', 'www.zlsfd.com', 'zlsfd.com', 'www.5456lu.com', 'can39.com', 'www.streetsensemedia.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.jjtyss.com...
+Performing DNS lookup for 65ua.com...
+Performing DNS lookup for www.wenxiang520.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
