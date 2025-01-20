@@ -24002,3 +24002,24 @@ Performing DNS lookup for www.cocanwelding.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cbddfe6] Update project files
+ 4 files changed, 58 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   8a98848..cbddfe6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.237.241...
+Fetching domains for 104.17.224.173...
+Fetching domains for 104.17.240.129...
+succeed to fetch domains for 104.17.224.173 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.240.129 from https://site.ip138.com/
+succeed to fetch domains for 104.17.237.241 from https://ipchaxun.com/
+域名列表为
+['www.tlbb888.com', 'cfip.xxxxxxxx.tk', 'www.baota.me', 'www.xinpian8.com', 'cloudflare.cfgo.cc', 'www.kanju8.com', 'www.38yy.cn', 'www.sixyin.com', 'www.881dy.com', 'www.holdoo.cn', 'www.whwanet.com', 'www.nsisfans.com', 'www.75uw.com', 'www.gaycn.top', 'www.k77kk.cc', 'pk299.com', 'www.k77yy.com', 'www.dy1255.com', 'www.xzmoyu.com', 'www.zzztch.com', 'www.33mov.com', 'www.cocanwelding.com', 'www.gymgrossisten.com', 'www.zhymm.cn', 'www.m6y6.com', 'www.cfhuagong.com', 'www.yh9pk.com', 'www.gdriustb.com', 'www.zddzd.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.38yy.cn...
+Performing DNS lookup for www.gymgrossisten.com...
+Performing DNS lookup for cloudflare.cfgo.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
