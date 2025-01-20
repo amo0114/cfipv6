@@ -2,36 +2,24 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	img.pigav.com
-Address: 104.26.6.55
-Name:	img.pigav.com
-Address: 104.26.7.55
-Name:	img.pigav.com
-Address: 172.67.74.216
-Name:	img.pigav.com
-Address: 2606:4700:20::681a:637
-Name:	img.pigav.com
-Address: 2606:4700:20::681a:737
-Name:	img.pigav.com
-Address: 2606:4700:20::ac43:4ad8
+Name:	www.jjtyss.com
+Address: 104.21.57.51
+Name:	www.jjtyss.com
+Address: 172.67.141.246
+Name:	www.jjtyss.com
+Address: 2606:4700:3034::ac43:8df6
+Name:	www.jjtyss.com
+Address: 2606:4700:3035::6815:3933
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find m.jyskuaiji.com: SERVFAIL
+** server can't find 65ua.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	orrick.com
-Address: 104.17.224.123
-Name:	orrick.com
-Address: 104.17.192.123
-Name:	orrick.com
-Address: 104.16.63.251
-Name:	orrick.com
-Address: 104.17.208.123
-Name:	orrick.com
-Address: 104.16.47.251
+Name:	www.wenxiang520.cn
+Address: 108.186.187.247
 
