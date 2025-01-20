@@ -2,37 +2,36 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
+Name:	img.pigav.com
+Address: 104.26.6.55
+Name:	img.pigav.com
+Address: 104.26.7.55
+Name:	img.pigav.com
+Address: 172.67.74.216
+Name:	img.pigav.com
+Address: 2606:4700:20::681a:637
+Name:	img.pigav.com
+Address: 2606:4700:20::681a:737
+Name:	img.pigav.com
+Address: 2606:4700:20::ac43:4ad8
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find m.jyskuaiji.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	v2.gtk.pw
-Address: 104.21.51.157
-Name:	v2.gtk.pw
-Address: 172.67.182.127
-Name:	v2.gtk.pw
-Address: 2606:4700:3030::6815:339d
-Name:	v2.gtk.pw
-Address: 2606:4700:3036::ac43:b67f
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.wn01.cc	canonical name = cf-4.sjcdn.top.
-cf-4.sjcdn.top	canonical name = cn.wnacg.com.
-Name:	cn.wnacg.com
-Address: 104.26.13.109
-Name:	cn.wnacg.com
-Address: 104.26.12.109
-Name:	cn.wnacg.com
-Address: 172.67.74.237
-Name:	cn.wnacg.com
-Address: 2606:4700:20::ac43:4aed
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:d6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:c6d
+Name:	orrick.com
+Address: 104.17.224.123
+Name:	orrick.com
+Address: 104.17.192.123
+Name:	orrick.com
+Address: 104.16.63.251
+Name:	orrick.com
+Address: 104.17.208.123
+Name:	orrick.com
+Address: 104.16.47.251
 
