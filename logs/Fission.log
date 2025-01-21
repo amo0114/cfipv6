@@ -24173,3 +24173,25 @@ Performing DNS lookup for www.wubei520.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 55de909] Update project files
+ 4 files changed, 58 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   dff295f..55de909  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.91.18...
+Fetching domains for 104.21.237.36...
+Fetching domains for 190.93.246.72...
+succeed to fetch domains for 104.21.237.36 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.91.18 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.246.72 from https://ipchaxun.com/
+域名列表为
+['m.smmy365.com', 'shu.sm-89.top', 'itiveoun.top', 'baba-shop.co.il', 'www.longwangchuanshuo.com', 'www.wxxzzs.com', 'www.uu93.com', '3g.itiveoun.top', 'www.hg098.com', 'j654.com', 'az.sm-89.top', 'www.nitianxieshen.com', 'www.75uw.com', 'wap.fnwert.top', 'www.suboji.com', '65bao2.com', 'yx886.vip', '351wx.com', 'sgv7.com', 'cf.090227.xyz', 'suboji.com', 'qp666.com', 'www.tpyyc.com', 'cs.sm-89.top', 'whoswho.co.za', 'www.lyzdzy.com', 'euuuler.top', 'www.99wx.cc', 'pppzhi.top', 'www.txdh25.vip', '3g.fnwert.top', 'www.kjyxyw.com', 'www.163my.com', 'www.aikansu.com', 'rrfbmzmu.com', 'cpanel.sm-89.top', 'www.78pcw.com', 'www.wei333.com', '223225.com', 'www.93xscc.com', 'pic.yydsmh.com', 'www.wn04.cc', 'www.0550cq.com', 'qp66.com', 'www.quanji55.com', 'www.bsi-hardware.com', 'www.boyangjt.com', 'www.679077.com', 'www.longwangchuanshuo.net', 'www.51jion.com', 'imgfd1.dancuo.com', 'lu.sm-89.top', 'www.606977.com', 'm.0550cq.com', 'www.52ys.cc', 'porncamtube.com', 'm.fnwert.top', 'www.pppzhi.top', 'uu93.com', 'www.yncareer.com', 'www.ub888.com', 'www.qindixs.com', 'www.77zw.cc', 'www.zhenbuka3.com', 'techhx.com', 'qiangkouzhao.com', 'www.douluodalu1.com', 'www.sg-pe.com', 'www.dyttxz.net', 'www.weikaba.com', 'metblogs.com', 'm.euuuler.top', 'sm-89.top', 'cmalasarmas.com', 'test.zapi.us.kg', 'hai2406afc.top', 'www.xiaoshuohi.com', 'www.rmsxs.com', 'wei333.com', 'weikaba.com', 'im.sm-89.top', 'stock.hostmonit.com', 'www.528my.top', 'ag.hg2096.com', 'kaisuodian.com', '115.ag', 'www.hg0389.com', 'txdh25.vip', '923055.com', 'm.itiveoun.top', '3g.euuuler.top', 'www.wn03.cc', 'www.yjys05.com', 'www.qp666.com', 'www.subowu.com', 'www.zdqx.com', 'www.115.ag', 'www.92mili.com', 'www.doupobook.cc', '011b.com', 'ws.fclm1688.com', 'wap.jnfffjff.top', 'www.55xs.cc', 'bsi-hardware.com', 'www.paizipai.top', 'www.ddwhm.com', 'www.kalestruck.com', 'www.sm-89.top', '8810868.com', '668668285.com', 'www.yhddsb.com', 'www.porncamtube.com', '4gdiy.com', 'www.hbdfqc.com', 'www.4gdiy.com', 'fnwert.top', 'www.oamdagbh.com', 'zeze5.com', 'www.223225.com', 'theathea195.cc', 'world-img.fclm1688.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for pic.yydsmh.com...
+Performing DNS lookup for www.nitianxieshen.com...
+Performing DNS lookup for sgv7.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
