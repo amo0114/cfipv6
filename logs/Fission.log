@@ -24195,3 +24195,24 @@ Performing DNS lookup for sgv7.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8341971] Update project files
+ 4 files changed, 45 insertions(+), 22 deletions(-)
+To github.com:amo0114/cfipv6.git
+   55de909..8341971  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.225.254...
+Fetching domains for 104.17.255.54...
+Fetching domains for 104.17.235.11...
+succeed to fetch domains for 104.17.235.11 from https://site.ip138.com/
+succeed to fetch domains for 104.17.255.54 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.225.254 from https://dnsdblookup.com/
+域名列表为
+['litv.zapi.us.kg', 'www.meijukan.com', 'msjh520.com', 'www.881dy.com', '3213456.com', 'zitrogames.com', 'www.silisilifun.com', 'm.kuaikan66.com', 'www.c333.net', 'm.niuerzs.com', 'www.888dyy.cc', 'www.yy4080dy.com', 'www.meijubo.com', 'www.yjys05.com', 'www.knvod.com', 'www.zzztch.com', 'www.fnyyw.net', 'www.uu93.com', 'www.lyzhutingqi.com', 'www.cocanwelding.com', 'hyrzs.com', 'www.kuaikan66.com', 'www.megumirawr.cc', 'nba01.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.fnyyw.net...
+Performing DNS lookup for www.meijukan.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

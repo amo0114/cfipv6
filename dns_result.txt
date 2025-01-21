@@ -2,27 +2,18 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 208.98.40.80
+Name:	www.kuaikan66.com
+Address: 69.162.95.5
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.fnyyw.net
-Address: 162.209.175.122
+Name:	www.kunzedu.com
+Address: 103.88.187.196
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.meijukan.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+** server can't find www.tockt.com: SERVFAIL
 
