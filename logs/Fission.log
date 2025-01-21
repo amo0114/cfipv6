@@ -24238,3 +24238,24 @@ Performing DNS lookup for www.tockt.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e6e43f5] Update project files
+ 4 files changed, 46 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   6a1b050..e6e43f5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.234.0...
+Fetching domains for 104.17.225.254...
+Fetching domains for 104.17.245.15...
+succeed to fetch domains for 104.17.234.0 from https://site.ip138.com/
+succeed to fetch domains for 104.17.225.254 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.245.15 from https://ipchaxun.com/
+域名列表为
+['www.jg666.top', 'www.megumirawr.cc', 'www.zzztch.com', 'yxy176.com', 'gaze.run', 'www.lyzdzy.com', 'www.bxwx10.com', 'litv.zapi.us.kg', 'www.5522tl.com', 'player.tzfile.com', 'nba01.com', 'www.66se0.com', 'www.shy6666.com', 'www.whpaiger.com', 'www.tsdingxin.com', 'www.lyzhutingqi.com', 'doupo1234.com', 'www.cfhuagong.com', 'cfip.xxxxxxxx.tk', '104-17-234-0.ip.flares.cloud']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.66se0.com...
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for www.megumirawr.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
