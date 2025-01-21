@@ -2,29 +2,66 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.295k.com
-Address: 208.98.43.133
+Name:	www.c789j.com
+Address: 104.21.16.1
+Name:	www.c789j.com
+Address: 104.21.80.1
+Name:	www.c789j.com
+Address: 104.21.48.1
+Name:	www.c789j.com
+Address: 104.21.96.1
+Name:	www.c789j.com
+Address: 104.21.64.1
+Name:	www.c789j.com
+Address: 104.21.32.1
+Name:	www.c789j.com
+Address: 104.21.112.1
+Name:	www.c789j.com
+Address: 2606:4700:3030::6815:5001
+Name:	www.c789j.com
+Address: 2606:4700:3030::6815:6001
+Name:	www.c789j.com
+Address: 2606:4700:3030::6815:7001
+Name:	www.c789j.com
+Address: 2606:4700:3030::6815:4001
+Name:	www.c789j.com
+Address: 2606:4700:3030::6815:1001
+Name:	www.c789j.com
+Address: 2606:4700:3030::6815:3001
+Name:	www.c789j.com
+Address: 2606:4700:3030::6815:2001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.vodbd.com	canonical name = vodbd.com.
-vodbd.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+my.control4.com	canonical name = my.control4.com.cdn.cloudflare.net.
+Name:	my.control4.com.cdn.cloudflare.net
+Address: 104.18.14.48
+Name:	my.control4.com.cdn.cloudflare.net
+Address: 104.18.15.48
+Name:	my.control4.com.cdn.cloudflare.net
+Address: 2606:4700::6812:e30
+Name:	my.control4.com.cdn.cloudflare.net
+Address: 2606:4700::6812:f30
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.sjzsckj.com
-Address: 208.98.43.136
+jp03.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a5.zz.nttkk.com.
+a5.zz.nttkk.com	canonical name = zoom.earth.
+Name:	zoom.earth
+Address: 172.67.68.56
+Name:	zoom.earth
+Address: 104.26.4.90
+Name:	zoom.earth
+Address: 104.26.5.90
+Name:	zoom.earth
+Address: 2606:4700:20::681a:55a
+Name:	zoom.earth
+Address: 2606:4700:20::681a:45a
+Name:	zoom.earth
+Address: 2606:4700:20::ac43:4438
 

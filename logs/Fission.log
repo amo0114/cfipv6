@@ -24259,3 +24259,25 @@ Performing DNS lookup for www.megumirawr.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9708f82] Update project files
+ 4 files changed, 61 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   e6e43f5..9708f82  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.5.41...
+Fetching domains for 104.22.49.248...
+Fetching domains for 104.17.255.195...
+succeed to fetch domains for 104.17.5.41 from https://site.ip138.com/
+succeed to fetch domains for 104.17.255.195 from https://site.ip138.com/
+succeed to fetch domains for 104.22.49.248 from https://dnsdblookup.com/
+域名列表为
+['m6y6.com', 'www.52ys.cc', 'yyy.930my.com', 'freeyingshi.com', 'www.xigua5.net', 'gaze.run', 'm.yibige.com', 'cocanwelding.com', 'www.m6y6.com', 'www.pk299.com', 'cdn.7zz.cn', 'www.295k.com', 'www.sjzsckj.com', 'www.97777pk.com', 'www.vodbd.com', 'www.999998.vip']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.295k.com...
+Performing DNS lookup for www.vodbd.com...
+Performing DNS lookup for www.sjzsckj.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
