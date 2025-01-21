@@ -24216,3 +24216,25 @@ Performing DNS lookup for www.meijukan.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6a1b050] Update project files
+ 4 files changed, 48 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   8341971..6a1b050  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.248.179...
+Fetching domains for 104.17.255.54...
+Fetching domains for 104.17.231.5...
+succeed to fetch domains for 104.17.248.179 from https://site.ip138.com/
+succeed to fetch domains for 104.17.255.54 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.231.5 from https://dnsdblookup.com/
+域名列表为
+['www.tockt.com', 'www.dafuhao.com', 'www.7lq.com', 'msjh520.com', 'www.meijubo.com', 'www.megumirawr.cc', 'www.pk299.com', 'www.yh9pk.com', 'www.xinjuc.com', 'www.hhyy028.com', 'www.yy4080dy.com', 'hyrzs.com', 'www.kbss888.com', 'www.zhaishulou.com', 'www.6988tv.com', 'i.97p.org', 'www.knvod.com', 'www.kuaikan66.com', 'www.yjys05.com', 'www.881dy.com', 'www.meijukan.com', 'www.silisilifun.com', 'www.uu93.com', 'www.qindi.net', 'www.c333.net', 'www.888dyy.cc', 'm.kuaikan66.com', 'www.kunzedu.com', 'www.zzztch.com', 'www.cocanwelding.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.kuaikan66.com...
+Performing DNS lookup for www.kunzedu.com...
+Performing DNS lookup for www.tockt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
