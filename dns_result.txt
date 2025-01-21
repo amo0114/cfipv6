@@ -2,45 +2,21 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-img.shu88.cc	canonical name = cdn.125588.xyz.
-Name:	cdn.125588.xyz
-Address: 104.21.80.1
-Name:	cdn.125588.xyz
-Address: 104.21.96.1
-Name:	cdn.125588.xyz
-Address: 104.21.64.1
-Name:	cdn.125588.xyz
-Address: 104.21.16.1
-Name:	cdn.125588.xyz
-Address: 104.21.32.1
-Name:	cdn.125588.xyz
-Address: 104.21.112.1
-Name:	cdn.125588.xyz
-Address: 104.21.48.1
-Name:	cdn.125588.xyz
-Address: 2606:4700:3030::6815:1001
-Name:	cdn.125588.xyz
-Address: 2606:4700:3030::6815:3001
-Name:	cdn.125588.xyz
-Address: 2606:4700:3030::6815:6001
-Name:	cdn.125588.xyz
-Address: 2606:4700:3030::6815:7001
-Name:	cdn.125588.xyz
-Address: 2606:4700:3030::6815:4001
-Name:	cdn.125588.xyz
-Address: 2606:4700:3030::6815:2001
-Name:	cdn.125588.xyz
-Address: 2606:4700:3030::6815:5001
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.tl123123.com: NXDOMAIN
+Name:	www.zzztch.com
+Address: 208.98.40.14
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.xigua5.com
-Address: 208.98.40.14
+wo.ikan4k.com	canonical name = cf-cdn.818678.xyz.
+Name:	cf-cdn.818678.xyz
+Address: 1.0.0.5
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
