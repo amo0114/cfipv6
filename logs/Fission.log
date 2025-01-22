@@ -24433,3 +24433,25 @@ Performing DNS lookup for www.oummmc.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main aa20914] Update project files
+ 4 files changed, 56 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   f596a49..aa20914  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.48.206...
+Fetching domains for 104.26.15.14...
+Fetching domains for 172.67.64.163...
+succeed to fetch domains for 172.67.64.163 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.15.14 from https://site.ip138.com/
+succeed to fetch domains for 104.22.48.206 from https://dnsdblookup.com/
+域名列表为
+['www.prizemarikets.com', 'www.80yy.org', 'stock.hostmonit.com', '789kp.com', 'x6x86.com', 'www.11txt.com', 'www.kaixinn.com', 'www.btbdys.com', 'www.lyys8.com', 'www.wxxzzs.com', 'www.qumiyun.com', 'www.321dianying.com', 'www.51tthxg.com', 'm.melexs.com', 'www.hanjula.com', 'www.diskgirl.com', 'pdzmre77473.sanfen001.top', 'jennialexandrova.com', 'www.zhongyunyang.com', '173vv.com', 'www.qubook.net', 'anonboot.com', 'www.gzcfmy.com', 'cfip.xxxxxxxx.tk', 'www.17kty.com', 'www.ai2moe.org', 'www.tinghen.com', 'zi0.cc', 'www.jhylz.com', 'i.she.vc', 'www.media.com', 'yx.887141.xyz', 'www.szjysmy.com', 'www.tpyyc.com', 'www.28dushu.com', 'www.meijukan.com', 'www.1a1v.com', 'www.baokanwang.com', 'vuviphimz.com', 's.alwakeelnews.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.ttmjtt.com', 'm.jingshuai888.com', 'ji88.cc', 'jpvsavhyu.76898102.xyz', 'nlsdwsz.66666654.xyz', 'xcyy696.com', 'www.hosemicon.com', 'cloudflare.182682.xyz', 'xs.wxtv.cc', 'tv.ci', '92mili.com', 'www.lvhuisb.com', 'gangka6.xyz', 'www.bayinghe.cc', 'elciudadanoweb.com', 'printerdrivers.com', 'www.166co.com', 'piaoling6.cc', 'www.ddwhm.com', 'zmkan.top', 'www.mqvisa.com', 'www.tvccc.org', 'www.ff96.net', 'lanyucy.com', 'truyenfull.vn', 'www.taiwanheguo.com', 'sp.nicekelvin.com', 'www.91m.cc', 'www.meijukan.cc', 'www.meifuchem.com', 'www.elciudadanoweb.com', 'www.chufengchina.cn', 'jpcbauwfv.114514782.xyz', 'ygbb.rapidssl.pp.ua', 'www.7sc.cc', 'www.tv9090.com', 'www.jsdrtzn.com', 'www.iios.club', 'www.mtrer.com', 'www.alwakeelnews.com', 'www.czlbfrp.com', 'stc-clubs.com', 'www.hxsy888.com', 'www.6i5.com', 'www.pazintysxxx.com', '086181.xyz', 'pcchj.com', 'www.luwangyangrong.com', 'www.c333.net', 'bk.jdkg.fun', 'www.stc-clubs.com', 'cn.tyut.eu.org', 'www.yiqianhg.com', 'www.hanmatv.com', 'media.com', 'www.yuanmadown.com', 'www.szxjsj.com', 'www.paizipai.top', 'qr99.cc', 'speedip.eu.org', 'qubook.net', 'www.qchkj.com', 'www.6988tv.com', 'www.881dy.com', 'm.niuerzs.com', 'yyxycn.com', 'gangsiwang.org', 'www.fnyyw.net', 'www.0550cq.com', 'sskzmz.com', 'www.266958.com', 'www.dgytlt.com', 'www.kan234.com', '999696.xyz', 'www.nanhuyt.com', 'www.jingshuai888.com', 'g1.x6x86.com', 'parcelhub.net', 'index1.xxm3u8.top', 'users.prizemarikets.com', 'm.qubook.net', 'www.imeiju.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for sp.nicekelvin.com...
+Performing DNS lookup for www.321dianying.com...
+Performing DNS lookup for www.0550cq.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
