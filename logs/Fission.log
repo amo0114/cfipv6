@@ -24455,3 +24455,25 @@ Performing DNS lookup for www.0550cq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d0ea3de] Update project files
+ 4 files changed, 68 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   aa20914..d0ea3de  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.253.149...
+Fetching domains for 104.17.237.131...
+Fetching domains for 104.18.23.229...
+succeed to fetch domains for 104.17.237.131 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.23.229 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.253.149 from https://ipchaxun.com/
+域名列表为
+['nlsdwsz.66666654.xyz', 'www.iios.club', 'www.vod56.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'zi0.cc', 'uu93.com', 'www.295k.com', 'm.letu9.com', '69ama.com', 'x7b88.com', 'www.69ama.com', 'www.72xx.net', 'www.kunzedu.com', 'www.75uw.com', 'cdn.didi8.com', 'www.xinjuc.com', 'www.3658094.com', 'bdx100.com', '82gg.net', 'www.w23us.com', 'btdad.best', '7778765.com', 'www.kanmanhuala.cc', 'cog567.com', 'speed.freefly.pp.ua', 'www.calphalon.com', 'www.82gg.net', 'www.home66.net', 'www.pk299.com', 'www.zsych.net', 'pkg.cfssl.org', 'www.cog567.com', 'www.91m.cc', 'www.m6y6.com', 'www.mytvsuper.us.kg', 'cfip.xxxxxxxx.tk', 'octopart.cn', 'www.yh9pk.com', 'www.bkmanhuas.com', 'www.7lq.com', 'yh7.dtku41.xyz', 'www.b7yy.cc', 'www.emgvideo.com', 'www.cheesegame.top', 'www.teespring.com', 'menmaza.76898102.xyz', 'achk.cloudflarest.link', 'yxip.cfddns.ggff.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for pkg.cfssl.org...
+Performing DNS lookup for www.75uw.com...
+Performing DNS lookup for www.7lq.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
