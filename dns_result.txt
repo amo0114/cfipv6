@@ -1,26 +1,26 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-fulzab.com	canonical name = expired.gname.net.
-Name:	expired.gname.net
-Address: 172.65.190.172
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.daaashan.com: NXDOMAIN
+** server can't find sp.nicekelvin.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.oummmc.top
-Address: 172.67.187.150
-Name:	www.oummmc.top
-Address: 104.21.7.141
-Name:	www.oummmc.top
-Address: 2606:4700:3037::ac43:bb96
-Name:	www.oummmc.top
-Address: 2606:4700:3037::6815:78d
+www.321dianying.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.0550cq.com
+Address: 172.247.166.142
 
