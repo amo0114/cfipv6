@@ -24369,3 +24369,25 @@ Performing DNS lookup for www.93xscc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 315e1cd] Update project files
+ 4 files changed, 54 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   5596fe2..315e1cd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.52.93...
+Fetching domains for 104.21.224.164...
+Fetching domains for 104.18.5.85...
+succeed to fetch domains for 104.21.224.164 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.52.93 from https://site.ip138.com/
+succeed to fetch domains for 104.18.5.85 from https://ipchaxun.com/
+域名列表为
+['www.4huaa21.com', 'www.shecnudec.com', 'www.xiaoshuofen.com', '4hujj37.com', 'm.tpyyc.com', 'mv432.com', 'www.sixyin.com', 'www.91m.cc', 'www.a456yd.com', 'www.bax-shop.it', 'a567xy.com', 'm.niuerzs.com', 'www.qire88.com', 'www.yjys05.com', 'yjys05.com', 'www.zzztch.com', '223o.cc', 'cognizantmyskills.prismforce.ai', 'www.xn--sss604efuw.com', 'www.zooroyal.at', 'www.wn05.cc', 'www.dubizzle.qa', 'dsxys.com', 'www.4hujj37.com', 'baxtc.66666654.xyz', 'www.a567xy.com', 'htp396.com', '4huaa21.com', 'www.cfhuagong.com', 'www.landmarkwine.com', 'findmespot.com', 'a456yd.com', 'ks20.cc', 'www.yncareer.com', 'www.xlys01.com', 'www.38yy.cn', 'www.htp396.com', 'www.75uw.com', 'bax-shop.it', 'loud.nmhl929.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.htp396.com...
+Performing DNS lookup for www.landmarkwine.com...
+Performing DNS lookup for www.qire88.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

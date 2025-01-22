@@ -2,22 +2,20 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.htp396.com	canonical name = 1old.anxin58.com.
-Name:	1old.anxin58.com
-Address: 23.224.205.182
+*** Can't find www.chhl531.com: No answer
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.landmarkwine.com
-Address: 34.49.214.231
+www.ddwhm.com	canonical name = csgo.com.
+Name:	csgo.com
+Address: 195.85.59.161
+Name:	csgo.com
+Address: 195.85.59.95
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.qire88.com	canonical name = www.qire88.com.cdn.cloudflare.net.
-Name:	www.qire88.com.cdn.cloudflare.net
-Address: 45.130.146.228
+** server can't find www.tkbsrg.life: NXDOMAIN
 
