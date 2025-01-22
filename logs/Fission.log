@@ -24281,3 +24281,25 @@ Performing DNS lookup for www.sjzsckj.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ac0eb6e] Update project files
+ 4 files changed, 107 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   9708f82..ac0eb6e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.244.234...
+Fetching domains for 104.18.190.138...
+Fetching domains for 104.18.2.8...
+succeed to fetch domains for 104.18.190.138 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.244.234 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.2.8 from https://ipchaxun.com/
+域名列表为
+['www.hmoeh.com', 'www.99wxw.cc', '262tt.com', 'jp03.nttkk.com', '9123kk.com', 'www.wkin.cn', 'www.28et.com', 'www.c789j.com', 'www.319pi.com', 'my.control4.com', 'www.79ctp.com', 'www.9123kk.com', 'www.kbsm.xyz', 'www.4hubb75.com', '339c.net', 'www.4huxyt.com', 'www.262tt.com', 'www.ssh889.com', 'www.50zw.co', 'www.zzztch.com', 'c789j.com', 'www.339c.net', 'www.bfb3.com', '319pi.com', '79ctp.com', 'www.baota.me', 'www.qindixs.com', 'www.6988tv.com', 'dsxys.com', 'niuerzs.com', 'www.iios.me', 'www.cn46.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.c789j.com...
+Performing DNS lookup for my.control4.com...
+Performing DNS lookup for jp03.nttkk.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
