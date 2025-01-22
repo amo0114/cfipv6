@@ -1,30 +1,19 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.qiuxiaw.com
-Address: 172.247.201.216
+** server can't find cajdydinje.com: NXDOMAIN
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find jydz.cadwur.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.ynradiology.net
-Address: 208.98.43.136
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.cbcv.cc	canonical name = cbcv.cc.
-cbcv.cc	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+wppapi.hnstdt.com.cn	canonical name = jyf4d76w.ktstack.com.
+jyf4d76w.ktstack.com	canonical name = mk4fsubh.n.hicloudns.com.
+Name:	mk4fsubh.n.hicloudns.com
+Address: 156.251.173.4
 

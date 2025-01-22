@@ -24303,3 +24303,25 @@ Performing DNS lookup for jp03.nttkk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 61c039d] Update project files
+ 4 files changed, 62 insertions(+), 85 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   ac0eb6e..61c039d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.246.47...
+Fetching domains for 104.21.228.31...
+Fetching domains for 104.17.231.216...
+succeed to fetch domains for 104.17.246.47 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.228.31 from https://site.ip138.com/
+succeed to fetch domains for 104.17.231.216 from https://ipchaxun.com/
+域名列表为
+['yx1.chinayyds.xyz', '652tv.com', 'www.qiuxiaw.com', 'www.6988tv.com', 'cf.090227.xyz', 'ycc123.com', 'www.cocanwelding.com', 'www.kanju8.com', 'www.dj5157.com', 'www.92mili.com', 'www.vodbd.com', 'www.xinjuc.com', 'www.zhuizhuiju.com', 'www.b7yy.cc', 'www.lailai360.com', 'www.kanmanhuala.cc', 'm.6988tv.com', 'www.ynradiology.net', 'www.gdfuli.com', 'www.myvod360.com', 'www.ayxinrong.com', '92mili.com', 'www.881dy.com', 'www.2v8d.com', 'www.doupobook.cc', 'www.yjys05.com', 'www.wn01.cc', 'www.cbcv.cc', 'vodbd.com', 'www.888dyy.cc', 'www.dypf8.cc', 'www.sf123.mobi', 'www.b6c6.com', '58kanju.com', 'www.wuhuyh.net', 'www.dy420.com', 'www.xinpian8.com', 'cfip.xxxxxxxx.tk', 'myvod360.com', 'www.dy1255.com', 'www.k77kk.cc', 'www.yekan360.com', 'www.3dck.com', 'zizcom.com', 'www.cfhuagong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qiuxiaw.com...
+Performing DNS lookup for www.ynradiology.net...
+Performing DNS lookup for www.cbcv.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
