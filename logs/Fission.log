@@ -24325,3 +24325,25 @@ Performing DNS lookup for www.cbcv.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e091496] Update project files
+ 4 files changed, 48 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   61c039d..e091496  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 141.101.115.141...
+Fetching domains for 104.18.222.87...
+Fetching domains for 104.17.245.122...
+succeed to fetch domains for 104.18.222.87 from https://site.ip138.com/
+succeed to fetch domains for 141.101.115.141 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.245.122 from https://site.ip138.com/
+域名列表为
+['96.96-h.com', 'www.yncareer.com', 'wwhitma.com', 'kk554.com', 'zlop.qasdds.com', 'www.baiitv.com', 'www.cfhuagong.com', 'ysxyhj.paplesi.com', '7a04edc7.ipashar.com', 'cajdydinje.com', 'www.yx521.net', 'winniepoq.com', 'www.b7yy.cc', 'www.11txt.com', 'www.huanyaad.com', 'www.85xs.cc', 'www.sjzsckj.com', 'www.premierbet.td', 'wsq.ivnnswhkvv.com', 'www.whjinwu.com', 'beltogad.com', 'xnfbciejec.com', 'www.bjxfqc.net', 'www.jmxhbgc.com', 'gsje.dshsw.com', 'shuishuic.com', 'www.4148.net', 'm.niuerzs.com', 'www.yhddsb.com', 'depf.zsddsw.com', 'www.menghaokeji.com', 'www.xinjuc.com', 'daw.nbbnd.com', '301dcb8f.ssbanish.com', '8s5s.cn.viplink.maigcloud.com', 'ykvsds.cloudmaigc.com', 'mmindblade.com', 'aaplb.com', 'dsxys.pro', 'down.bggfk.com', '7.namesilo123.top', 'apk.awww124.com', 'www.xhzysh.com', 'yy.yyuumd.com', 'mn.mnxsa.com', 'www.tinghen.com', 'aapln.com', 'h.hgfue.com', 'cvbe.rte90.com', '18f2deb9.suisuia.com', 'www.web120.org', 'www.iios.fun', 'qmw.wyyyk.com', 'down.aoligejs.com', 'www.92mili.com', 'bornhut.com', 'hojjkapp.com', 'nimoapps.com', 'www.iios.me', 'www.zsych.net', 'wannimtn.com', 'www.cddfjulong.com', 'bornhur.com', 'ww.ddddky.com', 'qecs.dshsw.com', 'apkshar.com', 'aajs.zsddsw.com', 'www.ddwhm.com', 'www.706i.com', 'www.lyzdzy.com', 'iirpoda.com', 'jydz.cadwur.com', 'www.jjtyss.com', 'mm.mmkkd.net', 'www.zhiqihuo.com', 'down.65h.org', 'voidheartl.com', 'sxxz.ahuaitha.com', 'zaizaicp.com', 'fangolvt.com', 'fga.ivnnswhkvv.com', 'www.kk554.com', 'ssqipa.com', 'm90s.com', 'ee.s8q.org', 'mbdp.qasdds.com', 'ok.oksignapp.com', 'kolo21.com', 'www.boyangjt.com', 'qm.qmipa.com', 'te.s8k.net', 'ladalbd.com', 'killnet.top', 'www.tv9090.com', 'www.lnudz.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.0550cq.com', 'www.iios.club', 'www.zzztch.com', 'www.k77kk.cc', 'www.tpyyc.com', 'jhd.dshsw.com', 'egd.dshsw.com', 'm.mdfdfkl.com', 'jkw.kkhdwd.com', 'uu.uueeka.com', 'jd.cogitoem.com', 'www.whpaiger.com', 'ww.kh8d.com', 'kss.ivnnswhkvv.com', 'www.cocanwelding.com', 'wppapi.hnstdt.com.cn', 'lyzdzy.com', 'hillsbradf.com', 'hywg.yehddd.com', 'www.kunzedu.com', 'nips.kwyaovd.com', 'www.jinjinchong.com', 'd.aksefp.com', 'www.agribiztv.com', 'cfhuagong.com', 'feidu7.com', 'seedocorpv.com', 'lgimatqc.com', 'www.6i5.com', 'qiangkouzhao.com', 'www.galzy.eu.org', 'dwa.dshsw.com', 'down.dawdop.com', 'hnhcbw.com', 'ww2.dawdh.com', 'www.881dy.com', 'ww.puefgg.com', 'www.888dyy.cc', 'zaizaiap.com', '28et.com', 'xinshijidp.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cajdydinje.com...
+Performing DNS lookup for jydz.cadwur.com...
+Performing DNS lookup for wppapi.hnstdt.com.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

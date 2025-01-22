@@ -1,19 +1,31 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find cajdydinje.com: NXDOMAIN
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find jydz.cadwur.com: NXDOMAIN
+Non-authoritative answer:
+www.77zw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.187.10
+Name:	ips.993888.xyz
+Address: 104.17.131.17
+Name:	ips.993888.xyz
+Address: 104.18.187.206
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-wppapi.hnstdt.com.cn	canonical name = jyf4d76w.ktstack.com.
-jyf4d76w.ktstack.com	canonical name = mk4fsubh.n.hicloudns.com.
-Name:	mk4fsubh.n.hicloudns.com
-Address: 156.251.173.4
+Name:	www.luwangyangrong.com
+Address: 69.16.230.165
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.131.17
+Name:	ips.993888.xyz
+Address: 104.18.187.10
+Name:	ips.993888.xyz
+Address: 104.18.187.206
 
