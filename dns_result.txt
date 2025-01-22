@@ -2,20 +2,25 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find www.chhl531.com: No answer
+fulzab.com	canonical name = expired.gname.net.
+Name:	expired.gname.net
+Address: 172.65.190.172
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.daaashan.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ddwhm.com	canonical name = csgo.com.
-Name:	csgo.com
-Address: 195.85.59.161
-Name:	csgo.com
-Address: 195.85.59.95
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.tkbsrg.life: NXDOMAIN
+Name:	www.oummmc.top
+Address: 172.67.187.150
+Name:	www.oummmc.top
+Address: 104.21.7.141
+Name:	www.oummmc.top
+Address: 2606:4700:3037::ac43:bb96
+Name:	www.oummmc.top
+Address: 2606:4700:3037::6815:78d
 
