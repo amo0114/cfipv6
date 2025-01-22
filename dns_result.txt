@@ -2,30 +2,22 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.77zw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.187.10
-Name:	ips.993888.xyz
-Address: 104.17.131.17
-Name:	ips.993888.xyz
-Address: 104.18.187.206
+www.htp396.com	canonical name = 1old.anxin58.com.
+Name:	1old.anxin58.com
+Address: 23.224.205.182
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.luwangyangrong.com
-Address: 69.16.230.165
+Name:	www.landmarkwine.com
+Address: 34.49.214.231
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.131.17
-Name:	ips.993888.xyz
-Address: 104.18.187.10
-Name:	ips.993888.xyz
-Address: 104.18.187.206
+www.qire88.com	canonical name = www.qire88.com.cdn.cloudflare.net.
+Name:	www.qire88.com.cdn.cloudflare.net
+Address: 45.130.146.228
 
