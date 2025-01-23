@@ -2,45 +2,28 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-kj0077.com	canonical name = 404999yd.365vbs.com.
-Name:	404999yd.365vbs.com
-Address: 40.81.202.158
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.163my.com: NXDOMAIN
+Name:	www.luwangyangrong.com
+Address: 69.16.230.165
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.manhuadb.com
-Address: 104.21.112.1
-Name:	www.manhuadb.com
-Address: 104.21.16.1
-Name:	www.manhuadb.com
-Address: 104.21.96.1
-Name:	www.manhuadb.com
-Address: 104.21.32.1
-Name:	www.manhuadb.com
-Address: 104.21.48.1
-Name:	www.manhuadb.com
-Address: 104.21.64.1
-Name:	www.manhuadb.com
-Address: 104.21.80.1
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:6001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:7001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:2001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:3001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:1001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:5001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:4001
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.kukedy.tv
+Address: 208.98.43.138
 
