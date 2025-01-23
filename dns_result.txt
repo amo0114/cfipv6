@@ -1,53 +1,25 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	mdou5.xyz
-Address: 172.67.213.207
-Name:	mdou5.xyz
-Address: 104.21.67.48
-Name:	mdou5.xyz
-Address: 2606:4700:3030::ac43:d5cf
-Name:	mdou5.xyz
-Address: 2606:4700:3035::6815:4330
+** server can't find 8810868.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.990ww.com
-Address: 172.247.26.11
+Name:	www.lyzdzy.com
+Address: 208.98.40.201
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	rr982.com
-Address: 104.21.96.1
-Name:	rr982.com
-Address: 104.21.48.1
-Name:	rr982.com
-Address: 104.21.64.1
-Name:	rr982.com
-Address: 104.21.32.1
-Name:	rr982.com
-Address: 104.21.80.1
-Name:	rr982.com
-Address: 104.21.112.1
-Name:	rr982.com
-Address: 104.21.16.1
-Name:	rr982.com
-Address: 2606:4700:3030::6815:1001
-Name:	rr982.com
-Address: 2606:4700:3030::6815:2001
-Name:	rr982.com
-Address: 2606:4700:3030::6815:7001
-Name:	rr982.com
-Address: 2606:4700:3030::6815:5001
-Name:	rr982.com
-Address: 2606:4700:3030::6815:4001
-Name:	rr982.com
-Address: 2606:4700:3030::6815:6001
-Name:	rr982.com
-Address: 2606:4700:3030::6815:3001
+Name:	8y73.com
+Address: 172.67.219.29
+Name:	8y73.com
+Address: 104.21.62.29
+Name:	8y73.com
+Address: 2606:4700:3034::6815:3e1d
+Name:	8y73.com
+Address: 2606:4700:3030::ac43:db1d
 

@@ -24587,3 +24587,24 @@ Performing DNS lookup for www.28et.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4743f4c] Update project files
+ 4 files changed, 76 insertions(+), 17 deletions(-)
+To github.com:amo0114/cfipv6.git
+   1ff4259..4743f4c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.82.124...
+Fetching domains for 104.17.83.80...
+Fetching domains for 104.21.67.48...
+succeed to fetch domains for 104.17.82.124 from https://site.ip138.com/
+succeed to fetch domains for 104.17.83.80 from https://site.ip138.com/
+succeed to fetch domains for 104.21.67.48 from https://ipchaxun.com/
+域名列表为
+['cgcc.digicert.pp.ua', 'phihru4.magpiekd.xyz', 'lovepetplanet.com', '1388cd.com', '3g.t52hh.top', 'rainbowyun.com', 'm.nxspjx.top', 'bigliving.co.uk', 'www.lbzyy.com', 'wap.nxspjx.top', 'm.t52hh.top', 'www.juanziui.cn', '24hen.com', 'www.yztdhj.com', 'achk.cloudflarest.link', 'mercerstreetdancehall.com', '8810868.com', 'www.qf527.com', '3g.cdd8kxtq.top', '1927.cz', 'www.eshhuo.com', 'www.visityunnanchina.com', 'www.wenxueyuedu.com', '6s4h0jq.magpiekd.xyz', 'www.kungal.com', 'www.huise360.xyz', '93zh83k.magpiekd.xyz', 'www.imsense.cn', 'wap.t52hh.top', 'baxtc.66666654.xyz', 'speed.freefly.pp.ua', 'nafpaktianews.gr', 'm.yanjiusuo22.cc', 'mdou5.xyz', 'yiuxtrq.magpiekd.xyz', 'www.cfhuagong.com', 'sexhu.net', '990ww.com', 'www.bigliving.co.uk', 'fdvinacs.66666654.xyz', 't52hh.top', '2oovnih.magpiekd.xyz', 'jpee.sectigo.pp.ua', 'shop.monnight.xyz', 'www.mgm777a.com', 'www.zongcaiwx.com', 'rr982.com', 'www.990ww.com', '605.jjball8888.com', 'www.ubmfashion.com', 'wap.hongniu10.com', 'www.clun.top', 'suffwde.magpiekd.xyz', 'www.kunzedu.com', 'www.zjytkd.com', 'www.99wxw.cc', 'ygbb.rapidssl.pp.ua', 'sgaa.sectigo.pp.ua', 'fortuneprimeglobal.com', 'www.cdd8kxtq.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', '91x1830.xyz', 'ag.hg2096.com', 'www.jmjaev.cn', 'ubmfashion.com', 'nlsdwsz.66666654.xyz', 'www.techoa.net', 'yanjiusuo22.cc', 'nxspjx.top', 'cxjxjx.com', 'www.a95588.com', 'xmaat.com', 'yahy9mg.magpiekd.xyz', 'jmapinode1.cc', '555000jc3.com', 'www.99wx.cc', 'monopoly-one.com', 'www.nafpaktianews.gr', 'macvbb.555556789.xyz', 'www.r1j0w.cn', 'www.116.ag', 'cster.xyz', 'www.zzztch.com', 'www.xjj.tv', 'sbvideo.net', 'wap.cdd8kxtq.top', 'shavim.org.il', 'otc.zhaofeizi73.com', 'rfdui2i.magpiekd.xyz', 'cl2e18.com', 'www.93xscc.com', 'lbzyy.com', 'frbb.geotrust.pp.ua', 'chunaa.sectigo.pp.ua', 'www.t52hh.top', 'www.jmapinode1.cc', 'gs99bo.com', 'www.ckmaak.top', 'zhaofeizi73.com', 'www.whpaiger.com', 's.yjllq.xyz', 'www.guizhentang168.com', 'hhi6zzx.magpiekd.xyz', 'huise360.xyz', 'dlzip.jmapinode1.cc', '981355.com', 'www.xhp8.cn', 'www.sexhu.net', 'spca.114514782.xyz', '888.hongniu10.com', 'www.zlhq123.cn', 'www.555000jc3.com', 'js.juju.us.kg', 'www.zhaofeizi73.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for mdou5.xyz...
+Performing DNS lookup for www.990ww.com...
+Performing DNS lookup for rr982.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
