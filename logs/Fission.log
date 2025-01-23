@@ -24651,3 +24651,24 @@ Performing DNS lookup for ty88899.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 207b869] Update project files
+ 4 files changed, 40 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   1d8bed1..207b869  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.64.99...
+Fetching domains for 104.18.16.216...
+Fetching domains for 104.21.89.131...
+succeed to fetch domains for 104.21.89.131 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.16.216 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.64.99 from https://dnsdblookup.com/
+域名列表为
+['www.a234pn.com', 'www0380.com', 'www.lingdianzheng.com', 'sese32.sbs', 'peterpeterpumpkin.xyz', 'ccdn.cfcdn.org', 'www.888dyy.cc', '21dy.org', 'www.c678u.com', 'm.001golf.com', 'www.hnguide.cn', 'img.qzmama.com', 'www.szsmyq.com', 'twn234.com', 'm.y3600.cz', 'www.xinjiefu.cn', '9523361.com', 'langxirencai.com', 'www.yncareer.com', 'newtvcdn.com', 'www.fsjdrjd.com', 'www.quanji55.com', 'sinopescort.org', 'kk.8818042.com', 'bv6zhlrst3mabg.xyz', 'www.21tvb.com', 'www.kaku100.com', 'a234pn.com', 'www.sanyatour.com', 'www.schtbz.com', 'xsj9898.com', 'www.zg8888.top', 'www.663dy.com', 'focusgames.io', '7.namesilo123.top', 'lyk8.xyz', 'xiaofen.gay', 'www.2123xi.com', 'grdemoweb.richgaming.net', 'sanyatour.com', 'blw4.com', 'viabtc.net', 'www.qingkundl.com', 'www.sp6080.com', 'celerypowder.com', 'www.psy.net.cn', 'da-sa9.top', 'www.richgaming.net', 'www.k77yy.com', 'www.59ax.com', 'www.7749tv.com', 'sxe21.cn', '59ax.com', '132dy.com', 'm.928006.com', 'scdn.cfipcdn.com', '001golf.com', 'www.21dy.org', 'download.4ecria.com', 'www.thd.app', 'm.hanjutvaa.com', '0010b.com', 'www.sxe21.cn', 'www.hawtaigroup.com', 'tordey.com', 'xuejiancn.com', 'www.twn234.com', 'www.skyroadster.com', 'www.biqune.com', 'm.buka22.com', 'www.e567w.com', 'www.07haocha.com', 'grtestbackend.richgaming.net', 'www.yihouhiway.com', 'hxblct.com', 'giga109.com', 'cav204.xyz', '4hux91.com', 'www.wn01.cc', 'www.hanjutvaa.com', 'se98.co', 'rule34.to', 'www.4hut22.com', 'pornparty.cc', '9653265.com', 'www.mobilitycentralinc.com', 'nobuhotelmiamibeach.com', 'www.langxirencai.com', '7al4.com', 'www.yqkbook.com', 'www.huaszj.cn', 'www.c333.net', 'phll17.tw', 'grtest.richgaming.net', 'www.syxkl.cn', 'www.z2py.com', '07haocha.com', 'www.5aihh.cn', 'www.xsj9898.com', 'huaszj.cn', 'psy.net.cn', 'se.tenveo-video-conference-jp.com', 'quanji55.com', 'www.sepapa666.vip', 'www.sinopescort.org', '8035yp.com', 'www.calmlab.com', 'www.ocean-inter.com', 'www.hanjutvaa.com.dnss.me', 'abhr6v.mom', 'www.zgwangzhan.com', 'kaku100.com', 'www.scrztz.com', 'www.lesibon.com', 'fdsfhg.7al4.com', 'www.132dy.com', 'report.richgaming.net', 'thd.app', 'art-sauce-caddybox.ru', 'calmlab.com', 'www.buka22.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.001golf.com...
+Performing DNS lookup for www.hanjutvaa.com.dnss.me...
+Performing DNS lookup for www0380.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
