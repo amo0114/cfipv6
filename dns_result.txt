@@ -1,19 +1,23 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.7277tl.com: SERVFAIL
+Non-authoritative answer:
+Name:	m.001golf.com
+Address: 208.98.40.14
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	7moon.net
-Address: 162.209.175.124
+Name:	www.hanjutvaa.com.dnss.me
+Address: 76.223.54.146
+Name:	www.hanjutvaa.com.dnss.me
+Address: 13.248.169.48
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	ty88899.com
-Address: 208.98.40.19
+Name:	www0380.com
+Address: 162.218.30.9
 
