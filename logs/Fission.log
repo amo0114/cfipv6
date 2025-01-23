@@ -24477,3 +24477,25 @@ Performing DNS lookup for www.7lq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7f61441] Update project files
+ 4 files changed, 52 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   d0ea3de..7f61441  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.252.240...
+Fetching domains for 104.18.176.192...
+Fetching domains for 104.17.235.103...
+succeed to fetch domains for 104.17.252.240 from https://site.ip138.com/
+succeed to fetch domains for 104.18.176.192 from https://site.ip138.com/
+succeed to fetch domains for 104.17.235.103 from https://dnsdblookup.com/
+域名列表为
+['xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.hhyy028.com', 'www.aiquyy.com', 'www.cfhuagong.com', 'www.xigua5.com', 'zi0.cc', 'camtlebb.76898102.xyz', 'www.50zw.co', 'www.yh9pk.com', 'www.tlbb888.com', 'www.kunzedu.com', 'www.zzztch.com', 'chuncc.sectigo.pp.ua', 'www.k26.net', 'baxtc.66666654.xyz', 'www.iios.club', 'hx.746556.xyz', 'www.tsdingxin.com', 'www.8vdy.com', 'm.silukr.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.k26.net...
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for chuncc.sectigo.pp.ua...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
