@@ -24521,3 +24521,25 @@ Performing DNS lookup for www.manhuadb.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7c393e1] Update project files
+ 4 files changed, 61 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   f787841..7c393e1  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.230.67...
+Fetching domains for 104.22.0.11...
+Fetching domains for 104.21.232.31...
+succeed to fetch domains for 104.22.0.11 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.232.31 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.230.67 from https://dnsdblookup.com/
+域名列表为
+['www.xinjuc.com', 'www.mcappx.com', 'www.xczq1.top', 'www.8899tl.com', 'www.8y79.com', 'm.tpyyc.com', 'www.pk299.com', 'www.hengnan520.com', 'baxtc.66666654.xyz', 'www.iios.club', 'www.ddwhm.com', '28et.com', 'www.niyady.com', 'm6y6.com', 'img.picgo.net', 'key.aiiz.cc', 'www.p2007.com', 'www.679077.com', 'www.tpyyc.com', 'achk.cloudflarest.link', 'www.93xscc.com', 'www.kukedy.tv', 'www.cocanwelding.com', 'www.sixyin.com', 'www.luwangyangrong.com', 'www.778668.com', 'biqupai.com', 'www.5522tl.com', '85xs.cc', 'm.tvfff.com', 'cfip.xxxxxxxx.tk', 'i.she.vc', 'www.yh9pk.com', 'www.zzztch.com', 'www.wn04.cc', 'www.rmsxs.com', 'go.wumaojichang.com', '606977.com', 'www.5y38.com', 'www.88wwk.com', 'www.tx58tl.com', 'qr99.cc', 'www.wn01.cc', 'www.448b.com', 'www.yjys05.com', 'www.hg098.com', 'jp57.cc', 'www.zlcq520.com', 'www.xxootl.com', 'dmhy.b168.net', 'www.xiaoshuofen.com', 'www.xkstxt.com', '25mj.com', 'www.56y7.com', 'm.niuerzs.com', 'ks40.cc', 'www.7k93.com', 'www.rxjh520.cc', 'yb3.cc', 'www.sf52l.com', 'www.ituba.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.luwangyangrong.com...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for www.kukedy.tv...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
