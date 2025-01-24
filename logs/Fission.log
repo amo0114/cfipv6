@@ -24717,3 +24717,26 @@ Performing DNS lookup for bengali.gizbot.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9a0a9bd] Update project files
+ 4 files changed, 64 insertions(+), 193 deletions(-)
+ rewrite Fission_ip_backup.txt (98%)
+ rewrite dns_result.txt (91%)
+To github.com:amo0114/cfipv6.git
+   08cb701..9a0a9bd  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.58.71...
+Fetching domains for 104.22.59.156...
+Fetching domains for 104.18.1.137...
+succeed to fetch domains for 104.22.59.156 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.1.137 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.58.71 from https://dnsdblookup.com/
+域名列表为
+['xn22xn.net', 'www.xinjuc.com', 'www.qiaokuang.net', 'www.softdebut.com', 'ttt644.com', 'www.xworldadmin.com', 'www.ceisip.com', '789kp.com', 'm.gangsiwang.org', 'softdebut.com', 'www.amazingseasun.com', 'www.26cc.net', 'www.irq234.com', 'www.dahuhg.net', '7lq.com', 'www.pega.com', 'dawnlands.amazingseasun.com', 'www.t5325a.com', '36mh.com', 'irq234.com', 'www.yan176.com', 'cf.090227.xyz', 'cracked.io', '26cc.net', 'sxe21.cn', 'www.copart.com', '4huyy445.com', 'cfip.xxxxxxxx.tk', 'www.yncareer.com', '555t.com', 'www.wecaidan.com', 'www.kbss888.com', 'www.cu90.com', 'now.kaijia666.online', 'www.ttt644.com', 'biqune.com', 'www.4huyy445.com', 'www.kkkab.com', 'www.milf300.com', 'tta11.com', 't5325a.com', 'hyrzs.com', 'www.tta11.com', 'gangsiwang.org', 'milf300.com', 'www.tlbb888.com', 'www.yjys05.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tlbb888.com...
+Performing DNS lookup for tta11.com...
+Performing DNS lookup for www.dahuhg.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

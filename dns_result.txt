@@ -2,29 +2,34 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tlbb888.com
-Address: 156.224.122.4
+Name:	www.dg66.net
+Address: 104.26.4.183
+Name:	www.dg66.net
+Address: 172.67.75.35
+Name:	www.dg66.net
+Address: 104.26.5.183
+Name:	www.dg66.net
+Address: 2606:4700:20::ac43:4b23
+Name:	www.dg66.net
+Address: 2606:4700:20::681a:5b7
+Name:	www.dg66.net
+Address: 2606:4700:20::681a:4b7
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	tta11.com
-Address: 23.239.3.104
-Name:	tta11.com
-Address: 66.175.216.36
-Name:	tta11.com
-Address: 192.155.84.236
-Name:	tta11.com
-Address: 2a01:7e01::f03c:95ff:fe91:5d91
-Name:	tta11.com
-Address: 2a01:7e01::f03c:95ff:fe00:2692
-Name:	tta11.com
-Address: 2a01:7e01::f03c:95ff:feed:783e
+Name:	mobile-vision.com
+Address: 104.21.30.83
+Name:	mobile-vision.com
+Address: 172.67.172.132
+Name:	mobile-vision.com
+Address: 2606:4700:3036::6815:1e53
+Name:	mobile-vision.com
+Address: 2606:4700:3031::ac43:ac84
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-*** Can't find www.dahuhg.net: No answer
+** server can't find www.vr448.com: NXDOMAIN
 
