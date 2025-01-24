@@ -24806,3 +24806,25 @@ Performing DNS lookup for speed.marisalnc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6663b56] Update project files
+ 4 files changed, 59 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   b5f6129..6663b56  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.216.123...
+Fetching domains for 104.18.11.38...
+Fetching domains for 104.16.229.43...
+succeed to fetch domains for 104.16.216.123 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.11.38 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.229.43 from https://dnsdblookup.com/
+域名列表为
+['97777pk.com', 'www.cx888my.com', 'www.dzy66666.com', 'www.whpaiger.com', 'www.57cc.net', '615ti.com', 'www.sf52l.com', 'www.yh9pk.com', 'www.615ti.com', 'www.cocanwelding.com', 'www.harddrivesdirect.com', 'www.5522tl.com', 'iplt.52pokemon.cc', 'm.luwangyangrong.com', 'www.993my.com', '6456ti.com', 'shark-chinaz.com', 'www.660f.com', 'www.91m.cc', 'www.mm5517.com', 'm.niuerzs.com', 'f678w.com', 'www.bb77yy.com', 'www.tpyyc.com', 'www.kbss888.com', 'www.zzztch.com', 'zlcq520.com', 'www.m6y6.com', 'www.8899tl.com', 'www.nestle.fi', 'www.xwsxs.com', 'www.b7yy.cc', 'cfip.xxxxxxxx.tk', 'www.f678w.com', 'www.224po.com', 'bb77yy.com', 'nestle.fi', 'yxy176.com', 'www.lyzdzy.com', '28et.com', 'www.dy1255.com', 'www.internetx.com', 'www.6456ti.com', '224po.com', 'www.rxjh520.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.6456ti.com...
+Performing DNS lookup for bb77yy.com...
+Performing DNS lookup for f678w.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
