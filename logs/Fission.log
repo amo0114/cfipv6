@@ -24694,3 +24694,26 @@ Performing DNS lookup for www.oaksmart.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 08cb701] Update project files
+ 4 files changed, 215 insertions(+), 200 deletions(-)
+ rewrite Fission_ip_backup.txt (98%)
+ rewrite dns_result.txt (92%)
+To github.com:amo0114/cfipv6.git
+   046fb08..08cb701  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.53.20...
+Fetching domains for 104.18.19.4...
+Fetching domains for 190.93.247.73...
+succeed to fetch domains for 190.93.247.73 from https://site.ip138.com/
+succeed to fetch domains for 104.22.53.20 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.19.4 from https://dnsdblookup.com/
+域名列表为
+['2724hu.com', 'pxtv739e241a7af292ec.xyz', 'ayuer.com', 'v11.lprst.vip', 'malayalam.gizbot.com', 'www.33mov.com', 'www.92mili.com', 'hindi.gizbot.com', 'justfor.fans', 'hkaa.sectigo.pp.ua', 'www.paizipai.top', '75uw.com', 'suboji.com', 'v99yh1.com', 'kannada.gizbot.com', 'www.888dyy.cc', 'www.suboji.com', '444sports.com', 'www.tv9090.com', 'www.b7yy.cc', 'tamil.gizbot.com', 'www.lhman.com', 'q176l.com', 'www.k77yy.com', 'm.0550cq.com', 'www.nitianzw.com', 'www.11txt.com', 'm.6i5.com', 'www.ddy31.com', 'stock.hostmonit.com', 'www.gizbot.com', 'www.90dushu.com', 'www.2724hu.com', 'www.x52bq.com', 'telugu.gizbot.com', 'www.tiantianzhibo.net', 'xs.wxtv.cc', 'pxtve0ba0b358c27e091.xyz', 'www.ytlryb.com', 'www.c333.net', 'www.4gdiy.com', 'sjtv12.com', 'www.0550cq.com', 'e750i.com', 'www.93xscc.com', 'www.iguzhuang.com', 'www.uu93.com', 'gujarati.gizbot.com', 'www.08zzc.com', 'www.444sports.com', 'www.hengdawatch.com', 'www.kkzb8.net', 'www.fcwei.com', 'www.65bao2.com', 'yh6.dtku41.xyz', 'zyd04.1-qhhc-2.top', 'www.99wxw.cc', 'www.4148.net', 'bengali.gizbot.com', 'www.ayuer.com', '08zzc.com', 'www.e750i.com', 'www.hpsmart.com', 'www.justfor.fans', 'www.hnxinlian.org', 'v6.tuvvv.vip', 'sex5qqwc.com', 'cf1.492745.xyz', 'www.q176l.com', 'm.tiantianzhibo.net', 'ddy31.com', 'pxtv0071d9f9cc4662a9.xyz', 'www.6988tv.com', 'img.iguzhuang.com', 'uu93.com', '4huxx119.com', '7.namesilo123.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 08zzc.com...
+Performing DNS lookup for v6.tuvvv.vip...
+Performing DNS lookup for bengali.gizbot.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
