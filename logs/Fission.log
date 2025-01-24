@@ -24740,3 +24740,25 @@ Performing DNS lookup for www.dahuhg.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 980ead4] Update project files
+ 4 files changed, 68 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   9a0a9bd..980ead4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.251.173...
+Fetching domains for 108.162.198.119...
+Fetching domains for 104.21.30.83...
+succeed to fetch domains for 104.17.251.173 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.30.83 from https://ipchaxun.com/
+succeed to fetch domains for 108.162.198.119 from https://dnsdblookup.com/
+域名列表为
+['www.wb12318.com', 'b313.cc', 'gxht.gt15777.cc', 'm.17ty19.com', 'www.ywtianrun.com', 'www.dierhebao.com', 'www.dg66.net', 's.5960pq.top', 'axblgykwxfsxf.cc', 'www.5880.net.tw', 'hycmt.xyz', 'zpc.aff003.info', 'acsemp3.ru', '05fi3nst.4t29qm1.cn', 'www.bhr234.com', 'www.74663.xyz', 'taixianghe.com', '176144.com', 'jpvsavhyu.76898102.xyz', 'wb12318.com', 'mtdh33.xyz', '3g.gzrork.top', 'www.jjtyss.com', 'offsidetavernnyc.com', 'www.allshanghaioffice.com', 'g432.cc', 'www.okywq.com', '251ju.com', 'xmm5gfm.com', 'yqpdkjdlritz.cc', 'okywq.com', 'www.jxshsh.com', '6b9f0.com', 'lax.uinx.ml', 'supercloud.club', 'dsp.aff003.info', 'www.sxdechen.com', 'www.sp39.xyz', 'www.leg666.com', 'pic.badouxs.com', 'o.workgreat11.live', 'www.72fourjy.com', 'guy678.com', 'www.235t.com', 'www.6b9f0.com', 'kkp9f.top', '1140vip.com', 'dyx0l.com', 'jhpcza.66666654.xyz', 'ardyam.com', 'www.guy678.com', 'www.kk776.com', 'www.xinjuc.com', 'shhangfa.com', '923.workgreat11.live', 'www.28et.com', 'navigation.5960pq.top', 'app.okywq.com', 'yy.aff003.info', 'www.cqzxfayuan.com', 'yingxiangjixie.com', 'gv.aff003.info', 'mobile-vision.com', 'm.dierhebao.com', 'old.workgreat11.live', 'xhot1.com', 'www.kkp9f.top', 'cfip.xxxxxxxx.tk', 'www.vr448.com', 'www.xhot1.com', 'diyise.buzz', 'www.99wx.cc', 'ttt.aff003.info', 'www.diyise.buzz', 'www.badouxs.com', 'www.xmm5gfm.com', 'leg666.com', '9haohh.com', 'ant.aff003.info', '70677.net', 'cg.aff003.info', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'ye578.com', 'bhr234.com', 'dg66.net', 'kk776.com', '19haohh.com', 'mv.aff003.info', 'www.jsgaohs.cn', 'd241.cc', 'media.jgvs31.win', 'www.85xs.cc', 'segaretro.org', 'jxshsh.com', 'www.nba01.com', 'wap.gzrork.top', 'meneviyyat.az', 'www.zmstu.org.cn', '5960pq.top', 'www.jintaoceramics.com', 'www.yingxiangjixie.com', 'www.tpyyc.com', 'www.shhangfa.com', 'naixii.com', 'www.luwangyangrong.com', 'www.5960pq.top', 'thomaskochguitar.com', 'sp39.xyz', 'vr448.com', 'kz22.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.dg66.net...
+Performing DNS lookup for mobile-vision.com...
+Performing DNS lookup for www.vr448.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
