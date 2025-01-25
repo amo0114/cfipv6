@@ -24873,3 +24873,25 @@ Performing DNS lookup for bbbdun.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f4d14d7] Update project files
+ 4 files changed, 52 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   13e739e..f4d14d7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.72.19...
+Fetching domains for 190.93.244.138...
+Fetching domains for 104.18.27.210...
+succeed to fetch domains for 104.17.72.19 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.27.210 from https://site.ip138.com/
+succeed to fetch domains for 190.93.244.138 from https://dnsdblookup.com/
+域名列表为
+['www.nettotobak.com', 'www.vcd.la', 'hkaa.sectigo.pp.ua', 'www.93xscc.com', 'www.nitianxieshen.com', 'uu93.com', 'acus.cloudflarest.link', 'usshsaba.114514782.xyz', 'www.bjhgyh.com', 'bashartek.com', 'www.tinghen.com', 'www.cgfxw.com', 'www.qindi.net', 'www.6i5.com', 'ayuer.com', 'baxtc.66666654.xyz', '606977.com', 'www.bashartek.com', 'subowu.com', 'jpadwinfs.114514782.xyz', 'www.fnyy.net', 'jhpcza.66666654.xyz', 'zl.aitrjc.xyz', 'www.iios.club', 'freeyx.cloudflare88.eu.org', 'www.4148.net', 'wz.weishao2023.dk.eu.org', 'www.96dushu.com', 'www.4gdiy.com', 'cf-lt.sharecentre.online', 'www.uu93.com', 'bit.dev', '29.namesilo123.top', 'mebudsv.114514782.xyz', 'www.99wxw.cc', '7.namesilo123.top', '27.namesilo123.top', 'www.gameya.com', 'www.ddkan.tv', '1.namesilo123.top', 'www.679077.com', 'www.zzztch.com', 'www.qindixs.com', 'www.bimiacg.net', 'spca.114514782.xyz', 'm.bashartek.com', 'stock.hostmonit.com', 'www.ddwhm.com', '7sc.cc', 'ddkan.tv', 'www.6988tv.com', '923055.com', 'sdhsnj.com', 'www.olo.com', '26.namesilo123.top', 'www.95knm.com', 'www.ganpian.com', '95knm.com', 'nlsdwsz.66666654.xyz', 'www.b7n44.com', 'cloudflare.182682.xyz', '6.namesilo123.top', 'cdn.didi8.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jpadwinfs.114514782.xyz...
+Performing DNS lookup for ayuer.com...
+Performing DNS lookup for 95knm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
