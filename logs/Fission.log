@@ -24959,3 +24959,25 @@ Performing DNS lookup for www.k77kk.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 45a8291] Update project files
+ 4 files changed, 50 insertions(+), 96 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   cc297cc..45a8291  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.248.138...
+Fetching domains for 104.18.11.107...
+Fetching domains for 104.18.104.61...
+succeed to fetch domains for 104.18.11.107 from https://site.ip138.com/
+succeed to fetch domains for 104.18.104.61 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.248.138 from https://ipchaxun.com/
+域名列表为
+['5123ju.com', 'www.x2p11.com', 'www.999998.vip', 'www.c333.net', 'www.363uu.com', 'www.33mov.com', 'www.dypf8.com', 'www.6456ru.com', 'eveonline.com', 'www.881dy.com', 'www.kan234.com', 'www.jg666.top', 'www.ngagelive.com', 'www.pk299.com', 'www.xiuluo942.com', 'www.zddzd.top', 'www.993my.com', '363uu.com', 'www.cx888my.com', 'www.pu511.com', 'secure.eveonline.com', 'www.6988tv.com', '2567qu.com', 'www.2567qu.com', 'pu511.com', 'dabao168.com', 'x2p11.com', 'www.888dyy.cc', 'www.zzztch.com', 'forums-archive.eveonline.com', '125ju.com', 'www.125ju.com', '4huyy440.com', 'swz678.com', 'community.eveonline.com', 'm.dypf8.com', 'login.eveonline.com', 'www.18moe.net', 'www.5123ju.com', 'www.180xcss.com', 'www.xz898my.com', 'www.awanmy.com', '6456ru.com', 'zuruikj.com', 'www.4huyy440.com', 'lorealparis-ar.com.ar', 'www.swz678.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for zuruikj.com...
+Performing DNS lookup for www.999998.vip...
+Performing DNS lookup for www.x2p11.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
