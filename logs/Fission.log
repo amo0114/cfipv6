@@ -24937,3 +24937,25 @@ Performing DNS lookup for ycbzcl.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cc297cc] Update project files
+ 4 files changed, 116 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   63ad22a..cc297cc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.27.210...
+Fetching domains for 141.101.115.210...
+Fetching domains for 104.18.197.37...
+succeed to fetch domains for 104.18.197.37 from https://site.ip138.com/
+succeed to fetch domains for 104.18.27.210 from https://dnsdblookup.com/
+succeed to fetch domains for 141.101.115.210 from https://site.ip138.com/
+域名列表为
+['sjc.cdn.domaincdn.cn', 'hrcloud.top', 'usshsaba.114514782.xyz', 'www.penglecheng.com', 'www.zzztch.com', 'bk.jdkg.fun', 'bdx100.com', 'soraneko.cn', '95knm.com', 'www.k77kk.cc', 'dsxys.pro', 'youngchina.review', 'www.anluyg.net', 'www.sjzsckj.com', 'www.tv9090.com', 'juezz.top', 'hk.xcye.cloudns.biz', 'www.cocanwelding.com', 'www.50zw.co', '29.namesilo123.top', 'wei333.com', 'www.bashartek.com', 'www.0550cq.com', 'killnet.top', 'baxtc.66666654.xyz', 'www.yy4080dy.com', 'www.4gdiy.com', 'www.tinghen.com', 'zi0.cc', 'www.olo.com', 'cdn.domaincdn.cn', 'www.niuerzs.com', 'www.gameya.com', 'www.cshsj.org', 'www.ai50.tk', 'www.jswojx.com', '7.namesilo123.top', 'www.vcd.la', 'cfip.xxxxxxxx.tk', 'wz.weishao2023.dk.eu.org', 'www.womyt.com', 'player.bingdou.vip', 'www.ikantv.net', 'www.881dy.com', 'www.hanmatv.com', 'www.ayuer.com', 'gao.bo', 'm.niuerzs.com', 'api.qianqi.net', 'ym68.cc', 'www.gdriustb.com', 'www.kunzedu.com', 'www.dy1255.com', 'www.b7n44.com', 'www.suboji.com', 'zl.aitrjc.xyz', 'www.4148.net', 'www.11txt.com', 'www.28et.com', 'www.doupobook.com', 'www.lyzdzy.com', 'www.whwanet.com', 'www.yncareer.com', 'cfcn.9sep.org', 'www.cfhuagong.com', 'penglecheng.com', 'www.kk554.com', 'www.shaofuav.com', 'www.7sc.cc', 'www.yhddsb.com', 'www.95knm.com', 'www.qindixs.com', 'www.wn01.cc', '28et.com', 'hkaa.sectigo.pp.ua', 'mebudsv.114514782.xyz', 'ycbzcl.com', 'hnhcbw.com', 'bashartek.com', '6.namesilo123.top', 'www.ganpian.com', 'cloudflare.182682.xyz', 'acus.cloudflarest.link', 'www.ddwhm.com', 'hdmoli.com', 'www.75uw.com', 'jpadwinfs.114514782.xyz', 'smdyy.cc', 'www.24xunlei.com', 'www.hdmoli.com', 'uu93.com', 'www.zgjmw.net', 'jmxhbgc.com', 'www.nettotobak.com', 'www.whpaiger.com', 'www.k77yy.com', 'www.yjys05.com', 'www.x52bq.com', 'm.bashartek.com', 'www.6988tv.com', 'www.kuaikan66.com', 'nlsdwsz.66666654.xyz', 'www.iios.club', 'freeyx.cloudflare88.eu.org', 'cdn.wrnmb.cn', 'adlist.vlife.top', 'spca.114514782.xyz', 'e0101.com', 'www.cgfxw.com', 'blog.hostmonit.com', 'www.huanyaad.com', 'cf.cdn.huangbin.net', 'www.zdzikaow.com', 'www.nangua55.com', 'kukedy.tv', 'xs.wxtv.cc', 'www.bfb3.com', 'www.wanmeikankan.net', 'moxuan0.com', 'www.77ty.com', 'www.quanji55.com', 'bit.dev', 'www.6i5.com', 'www.dmbj.cc', 'img.zhongguolian.vip', '26.namesilo123.top', 'huaweili-edu.com', 'www.soraneko.cn', '27.namesilo123.top', '1.namesilo123.top', 'www.tsdingxin.com', 'jhpcza.66666654.xyz', 'suboji.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cdn.domaincdn.cn...
+Performing DNS lookup for www.tv9090.com...
+Performing DNS lookup for www.k77kk.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
