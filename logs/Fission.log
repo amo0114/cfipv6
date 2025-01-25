@@ -24981,3 +24981,25 @@ Performing DNS lookup for www.x2p11.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5649494] Update project files
+ 4 files changed, 68 insertions(+), 28 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   45a8291..5649494  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.24.85...
+Fetching domains for 104.17.15.12...
+Fetching domains for 104.17.237.61...
+succeed to fetch domains for 104.17.15.12 from https://site.ip138.com/
+succeed to fetch domains for 104.17.237.61 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.24.85 from https://dnsdblookup.com/
+域名列表为
+['www.kbss888.com', 'www.lyzdzy.com', 'www.a123hs.com', 'www.megumirawr.cc', 'www.pk299.com', 'www.jinwanchiji.top', '7.namesilo123.top', 'www.nitianzw.com', 'txtvw.com', 'www.eea20.com', 'www.zzztch.com', 'www.huaidan2.com', 'www.m6y6.com', 'www.yncareer.com', 'www.28et.com', 'eea20.com', 'www.prnewswire.com', 'cfip.xxxxxxxx.tk', 'www.gdriustb.com', 'a123hs.com', 'www.99wxw.cc', 'www.cfhuagong.com', '4hupp46.com', 'm.niuerzs.com', 'www.75uw.com', 'www.88wwk.com', 'www.iios.club', 'www.sex5wklv.com', 'www.gcmasia.com', 'www.4hupp46.com', 'www.kukedy.tv', 'hsj.lbxjc.online', 'www.hhyy028.com', 'kea6.com', 'www.91m.cc', 'www.dmbj.cc', 'www.danskerhverv.dk', 'www.kea6.com', 'cdn.manage.com', 'spca.114514782.xyz', 'www.93xscc.com', 'www.tlbb888.com', 'www.ddwhm.com', 'www.tszhongzhi.com', 'www.wubei520.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.kbss888.com...
+Performing DNS lookup for cdn.manage.com...
+Performing DNS lookup for hsj.lbxjc.online...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
