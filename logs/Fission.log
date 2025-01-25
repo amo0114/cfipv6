@@ -25052,3 +25052,25 @@ Performing DNS lookup for www.hhyy028.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 60908a6] Update project files
+ 4 files changed, 67 insertions(+), 59 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   2a3732f..60908a6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.33.23...
+Fetching domains for 104.21.43.168...
+Fetching domains for 104.18.22.26...
+succeed to fetch domains for 104.18.22.26 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.33.23 from https://site.ip138.com/
+succeed to fetch domains for 104.21.43.168 from https://site.ip138.com/
+域名列表为
+['hkaa.sectigo.pp.ua', 'a456sh.com', 'iippww.jjdsb-smt.buzz', 'aibdy-222024.myav-zxxet719.buzz', 'www.19j20.xyz', 'wap.hiebert.top', 'qooxi.net', '813rr.com', 'www.jollibee.com.cdn.cloudflare.net', 'archigas.de', 'www.yunsosuo.cc', '3g.hiebert.top', 'www.ddwhm.com', 'adapitvivo.sonicvpn.xyz', 'ooce416.top', 'www.99wx.cc', 'jike467.xyz', 'm.niuerzs.com', 'www.ylb-8.com', 'freeyx.cloudflare88.eu.org', 'eee206.com', 'speed.marisalnc.com', 'ttt551.com', 'www.yncareer.com', 'pandl.2qlas.com', 'www.ie4i.top', 'txtvw.com', 'idsh4rzs3p05o3ez32.top', 'www.xxxlutz.at', 'acg.xacg.fun', 'yining.m03wed.cn', 'www.lajicat.com', 'leakhub.vip', 'www.8013.cc', '83maoee.com', '894499.com', 'xisdsk47.xyz', '335.one', 'checkpeople.com', 'www.halomons.com', 'halomons.com', '5567ee.com', 'mpv.io', 'www.kbinsfi.cn', 'www.63maobf.com', 'tw.torrentkitty.app', 'www.4hudy110.com', 'txxlog.com', '3g.ie4i.top', 'cfip.xxxxxxxx.tk', '19j20.xyz', 'kkk305.cc', '8kbet38.com', 'xnmjiw.xyz', 'www.qooxi.net', 'hs96740.top', 'www.tpyyc.com', 'www.jollibee.com', '666cp62.com', 'www.75uw.com', '2.jiulang111.top', '123087.com', 'cn.torrentkitty.app', 'spca.114514782.xyz', 'www.youjizzjizz.net', 'jishan.m03wed.cn', 'torrentkitty.app', 'm.hiebert.top', 'hiebert.top', 'www.cocanwelding.com', '518851.com', 'wyzs188.cc', 'gdfund.tbcvip.io', 'pay1.hnxineran.com', 'ie4i.top', 'portal.hila.live', 'xacg.fun', 'wap.ie4i.top', 'metla.eu', 'cloudflare.cfgo.cc', 'h5.ze58ao36.top', '63maobf.com', 'www.esp345.com', 'acus.cloudflarest.link', 'tssbulletproof.com', '920cd.com', 'www.ttt551.com', 'xxxlutz.at', 'www.920cd.com', 'vip.hs96740.top', 'www.3345ze.com', 'jumeixma.top', 'lajicat.com', 'm.ie4i.top', 'www.lnxfl.cn', 'rgcp54.com', 'www.ynmyldb.com', 'youjizzjizz.net', 'www.77zw.cc', 'www.1a1v.com', 'www.83maoee.com', 'jollibee.com', 'honghaodl.com', 'ygc92.2qlas.com', 'achk.cloudflarest.link', 'www.5567ee.com', 'www.rgcp54.com', 'baxtc.66666654.xyz', 'www.eee206.com', 'www.hiebert.top', 'www.335.one', 'www.a456sh.com', 'www.yimeitime.com', 'jollibee.com.cdn.cloudflare.net', 'www.meublepro.eu', 'gazette2.nat.gov.tw', 'www.torrentkitty.app']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for txxlog.com...
+Performing DNS lookup for ygc92.2qlas.com...
+Performing DNS lookup for www.77zw.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
