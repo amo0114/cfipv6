@@ -24895,3 +24895,24 @@ Performing DNS lookup for 95knm.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 434245e] Update project files
+ 4 files changed, 42 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   f4d14d7..434245e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.72.19...
+Fetching domains for 104.21.223.11...
+Fetching domains for 104.22.14.178...
+succeed to fetch domains for 104.22.14.178 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.72.19 from https://site.ip138.com/
+succeed to fetch domains for 104.21.223.11 from https://ipchaxun.com/
+域名列表为
+['zpdyw.com', 'www.zzztch.com', 'www.qindi.net', 'www.nitianxieshen.com', 'www.28et.com', 'www.ysdg.cc', 'www.qindixs.com', 'www.sxctdlkj.com', 'www.93xscc.com', 'www.99wxw.cc', 'www.czcdc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.qindi.net...
+Performing DNS lookup for www.28et.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
