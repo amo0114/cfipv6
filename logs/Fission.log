@@ -25003,3 +25003,25 @@ Performing DNS lookup for hsj.lbxjc.online...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dce254f] Update project files
+ 4 files changed, 85 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (96%)
+To github.com:amo0114/cfipv6.git
+   5649494..dce254f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.237.64...
+Fetching domains for 198.41.219.42...
+Fetching domains for 104.17.228.27...
+succeed to fetch domains for 104.17.228.27 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.237.64 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.219.42 from https://site.ip138.com/
+域名列表为
+['saimayang.com', 'b3.wuxianliulianng.xyz', 'g437.cc', 'www.zhrwx.com', 'www.cocanwelding.com', 'damidm.com', 'www.mecadesign.cn', 'www.yhsqxy.com', 'www.qdbangsen.com', 'www.lfsymy.com', 'cfip.xxxxxxxx.tk', 'www.nsisfans.com', 'txydd.com', '74us.com', 'qdtsdp.com', 'lfsymy.com', 'lao308.com', '3213456.com', 'zhrwx.com', 'www.dongguanchangfang.com', 'dns4.hai888.top', 'www.741dm.com', '74fan.com', 'www.iios.club', 'proxy1.bytedns.top', 'www.qdjljy.com', 'www.txydd.com', 'www.nanhuyt.com', 'mcdns.hnyjg.top', 'www.wuhanzoo.com', 'www.didamh.com', 'dingdingdm.com', 'yx.887141.xyz', 'www.ddwhm.com', 'www.qdzhongbei.com', '741dm.com', 'qdxqgc.com', 'qdbangsen.com', 'ppxdm.com', 'wuhanzoo.com', 'xfltd.net', 'www.ppxdm.com', 'g435.cc', 'qdjljy.com', 'www.74xz.com', 'www.damidm.com', 'www.nba01.com', 'm.niuerzs.com', '194an.com', 'bo1005.com', 'yh6.dtku41.xyz', 'www.rencaipinghu.com', 'www.qdxqgc.com', '74xz.com', 'nanhuyt.com', '781890.com', 'www.dingdingdm.com', 'qdzhongbei.com', 'cn46.com', 'www.74fan.com', 'www.saimayang.com', 'www.cn46.com', 'dongguanchangfang.com', 'www.linnuozs.com', 'www.qdtsdp.com', 'didamh.com', '332ke.com', 'www.lyzdzy.com', 'www.rjtv6.com', '1.namesilo123.top', 'www.74us.com', 'yhsqxy.com', 'www.ger5.com', 'a421.cc', 'proxy.m3u8list.top', 'www.yinshuaji1688.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.74fan.com...
+Performing DNS lookup for dingdingdm.com...
+Performing DNS lookup for 74fan.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
