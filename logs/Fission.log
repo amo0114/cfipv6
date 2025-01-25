@@ -24916,3 +24916,24 @@ Performing DNS lookup for www.28et.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 63ad22a] Update project files
+ 4 files changed, 46 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   434245e..63ad22a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.244.138...
+Fetching domains for 141.101.115.210...
+Fetching domains for 104.21.68.167...
+succeed to fetch domains for 141.101.115.210 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.244.138 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.68.167 from https://dnsdblookup.com/
+域名列表为
+['www.24xunlei.com', 'sdhsnj.com', 'www.k77kk.cc', '513999.xyz', 'img.zhongguolian.vip', '28et.com', 'www.827ee.com', 'www.qindixs.com', 'www.6i5.com', 'www.743hs.com', 'www.wanmeikankan.net', 'www.yhddsb.com', 'www.2234fa.com', 'ayuer.com', 'kk905.com', 'soraneko.cn', 'adlist.vlife.top', 'www.fnyy.net', 'www.7sc.cc', 'www.niuerzs.com', 'cfcn.9sep.org', 'www.yjys05.com', '3g.wlxlysm.top', 'www.wn01.cc', 'muzhiming.com', 'www.dmbj.cc', 'www.suboji.com', 'juezz.top', 'wap.wlxlysm.top', 'www.b0a54.com', 'freejav.guru', 'wei333.com', 'www.929050.com', 'm.ytsyify.top', '2sw936.lol', 'hrcloud.top', 'www.cshsj.org', '606977.com', 'www.jswojx.com', '827ee.com', '626ku.com', '91av103.top', 'www.ganpian.com', 'ddkan.tv', 'www.penglecheng.com', 'yyds39.06av.top', 'subowu.com', 'b0a54.com', 'www.k77yy.com', 'www.gdriustb.com', 'cf-lt.sharecentre.online', 'bk.jdkg.fun', 'www.cfhuagong.com', 'm.niuerzs.com', 'www.womyt.com', 'www.whwanet.com', 'i0tu3r.2sw936.lol', 'www.tsdingxin.com', 'ppling.top', 'moxuan0.com', 'www.kk905.com', 'gao.bo', 'www.lyzdzy.com', 'www.freejav.guru', 'www.77ty.com', 'suboji.com', 'ytsyify.top', 'cf.cdn.huangbin.net', 'www.bjhgyh.com', 'uu93.com', 'www.ddkan.tv', 'e0101.com', 'www.soraneko.cn', 'hdmoli.com', 'www.hanmatv.com', 'www.zzztch.com', 'www.0550cq.com', 'huaweili-edu.com', 'www.kuaikan66.com', 'ycbzcl.com', 'xb32.06av.top', 'xs.wxtv.cc', 'www.zgjmw.net', 'www.kk554.com', 'www.11txt.com', 'www.tinghen.com', 'www.ikantv.net', '923055.com', 'www.50zw.co', 'www.679077.com', 'www.ayuer.com', '743hs.com', 'kukedy.tv', 'www.vcd.la', 'xo71.06av.top', 'bdx100.com', 'www.x52bq.com', 'www.kunzedu.com', 'cao56.06av.top', 'www.yy4080dy.com', 'm.pkepdp.top', 'pkepdp.top', 'www.quanji55.com', 'www.75uw.com', 'bayburtmedya.com', 'youngchina.review', 'api.qianqi.net', 'www.6988tv.com', 'www.sxy55.com', 'www.huanyaad.com', 'c6.z4s.info', 'www.bfb3.com', 'sjc.cdn.domaincdn.cn', 'zi0.cc', 'killnet.top', 'jmxhbgc.com', 'www.yncareer.com', 'www.4gdiy.com', 'www.bimiacg.net', 'cl.x9oa.com', '7sc.cc', 'www.uu93.com', 'smdyy.cc', 'player.bingdou.vip', 'www.anluyg.net', 'y9opau.2sw936.lol', '740r3b7ivp2.top', 'www.shaofuav.com', 'www.dy1255.com', 'www.doupobook.com', 'www.96dushu.com', 'haijiao19.com', 'ym68.cc', 'www.4148.net', 'hnhcbw.com', 'www.hdmoli.com', '2234fa.com', 'penglecheng.com', 'cfip.xxxxxxxx.tk', 'jimei14.com', 'www.tv9090.com', 'www.881dy.com', 'xb59.06av.top', 'www.cocanwelding.com', 'hk.xcye.cloudns.biz', 'stock.hostmonit.com', 'www.28et.com', 'www.ai50.tk', 'blog.hostmonit.com', 'tj.66666680.xyz', 'www.zdzikaow.com', 'www.sjzsckj.com', 'www.21avav.com', 'www.whpaiger.com', 'bbbdun.top', 'liuyouhj.com', '3h51lnntxs.xyz', 'xb18.06av.top', '18lu69.xyz', 'cdn.didi8.com', 'cdn.wrnmb.cn', '21avav.com', 'wallet.bbbdun.top', 'av83.06av.top', 'cdn.domaincdn.cn', 'www.nangua55.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for www.bfb3.com...
+Performing DNS lookup for ycbzcl.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
