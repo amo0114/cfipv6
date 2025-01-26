@@ -2,25 +2,21 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.156.172
-Name:	ips.993888.xyz
-Address: 104.18.179.61
-Name:	ips.993888.xyz
-Address: 104.16.117.254
+Name:	www.luwangyangrong.com
+Address: 69.16.230.165
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.8658.cn
-Address: 156.251.252.184
+www.wwww7.com	canonical name = 104.sdfgxvbsedfrg.com.
+Name:	104.sdfgxvbsedfrg.com
+Address: 143.92.58.247
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.sjzsckj.com
-Address: 208.98.40.208
+Name:	www.lnasdr.com
+Address: 116.196.78.194
 
