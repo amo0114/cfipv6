@@ -25159,3 +25159,24 @@ Performing DNS lookup for www.lnasdr.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5a81a7a] Update project files
+ 4 files changed, 85 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   20e8b6c..5a81a7a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.37.185...
+Fetching domains for 104.17.237.105...
+Fetching domains for 104.16.237.85...
+succeed to fetch domains for 104.16.237.85 from https://site.ip138.com/
+succeed to fetch domains for 104.18.37.185 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.237.105 from https://dnsdblookup.com/
+域名列表为
+['www.106617.com', 'www.cocanwelding.com', 'hometheatermanual.com', 'cdn.ecosia.org', 'www.iios.club', 'eminetra.com', 'pppp19.com', 'www.8102g.com', 'www.7749tv.com', '6677up.com', 'www.iios.me', 'www.slotwolf.com', 'www.yy4080dy.com', 'www.emersonexchange.org', 'dailyqom.pk', 'www.coresecurity.com', 'zzztch.com', '097pay.com', 'www.ecosia.org', 'www.jyxh.space', 'cdn-static.ecosia.org', 'www.appnee.com', 'www.097pay.com', 'www.6677up.com', 'make-up.hr', 'lamilagrosall.net', 'www.lamilagrosall.net', 'free.appnee.com', '8102g.com', '4hue30.com', '138v7.com', 'www.ckb7364s.cn', 'www.laroche-posay.si', 'api.ecosia.org', 'appnee.com', 'kisslife.vip', 'jyxh.space', 'm.niuerzs.com', 'www.4hue30.com', 'www.83yy.cc', 'www.nangua55.com', 'cfip.xxxxxxxx.tk', 'www.652tv.com', '22ccee.com', 'video.otjkk.xyz', 'www.changdayishu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.lamilagrosall.net...
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
