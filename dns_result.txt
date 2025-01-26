@@ -2,62 +2,33 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-wordflashreader.sourceforge.net	canonical name = projects.sourceforge.net.cdn.cloudflare.net.
-Name:	projects.sourceforge.net.cdn.cloudflare.net
-Address: 104.18.12.149
-Name:	projects.sourceforge.net.cdn.cloudflare.net
-Address: 104.18.13.149
-Name:	projects.sourceforge.net.cdn.cloudflare.net
-Address: 2606:4700::6812:c95
-Name:	projects.sourceforge.net.cdn.cloudflare.net
-Address: 2606:4700::6812:d95
+www.41aay.com	canonical name = cdn.e5fqafow3s.laoyucdn.com.
+Name:	cdn.e5fqafow3s.laoyucdn.com
+Address: 223.165.12.59
+Name:	cdn.e5fqafow3s.laoyucdn.com
+Address: 223.165.12.50
+Name:	cdn.e5fqafow3s.laoyucdn.com
+Address: 223.165.12.64
+Name:	cdn.e5fqafow3s.laoyucdn.com
+Address: 223.165.12.52
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.255.196
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.238.176
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.240.240
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.74.161
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.178.70
-Name:	cfip.xxxxxxxx.tk
-Address: 104.22.22.7
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.229.4
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.3.72
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.64.221
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.182.132
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.236.182
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.135.146
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.134.177
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.188.230
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.233.183
+Name:	x2s33.com
+Address: 162.209.175.126
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-genj.sourceforge.net	canonical name = projects.sourceforge.net.cdn.cloudflare.net.
-Name:	projects.sourceforge.net.cdn.cloudflare.net
-Address: 104.18.12.149
-Name:	projects.sourceforge.net.cdn.cloudflare.net
-Address: 104.18.13.149
-Name:	projects.sourceforge.net.cdn.cloudflare.net
-Address: 2606:4700::6812:c95
-Name:	projects.sourceforge.net.cdn.cloudflare.net
-Address: 2606:4700::6812:d95
+Name:	41aay.com
+Address: 223.165.12.52
+Name:	41aay.com
+Address: 223.165.12.59
+Name:	41aay.com
+Address: 223.165.12.64
+Name:	41aay.com
+Address: 223.165.12.50
 

@@ -25180,3 +25180,24 @@ Performing DNS lookup for cfip.xxxxxxxx.tk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 408f9f8] Update project files
+ 4 files changed, 81 insertions(+), 53 deletions(-)
+To github.com:amo0114/cfipv6.git
+   5a81a7a..408f9f8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.10.128...
+Fetching domains for 104.18.67.113...
+Fetching domains for 104.18.29.239...
+succeed to fetch domains for 104.18.67.113 from https://site.ip138.com/
+succeed to fetch domains for 104.18.10.128 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.29.239 from https://dnsdblookup.com/
+域名列表为
+['geotag.sourceforge.net', 'mmario.sourceforge.net', 'heyoka.sourceforge.net', 'nunbb.sourceforge.net', 'www.bb99rr.com', 'rtl818x.sourceforge.net', 'jsky.sourceforge.net', 'splicegrapher.sourceforge.net', 'pdb2pqr.sourceforge.net', 'dotnetdiskimager.sourceforge.net', 'www.abt97.com', 'b2xtranslator.sourceforge.net', 'usb-ir-remote.sourceforge.net', 'sqleo.sourceforge.net', 'shareaza.sourceforge.net', 'tiopf.sourceforge.net', 'mppviewer.sourceforge.net', 'gvirtualxray.sourceforge.net', 'golly.sourceforge.net', 'tfel.sourceforge.net', 'www.6781nn.com', 'genj.sourceforge.net', 'pcmcia-cs.sourceforge.net', 'hhexen.sourceforge.net', 'pluma-framework.sourceforge.net', 'motorbac.sourceforge.net', 'quake2xp.sourceforge.net', 'ibsimu.sourceforge.net', 'v4l2ucp.sourceforge.net', 'jass.sourceforge.net', 'net-snmp.sourceforge.net', 'headwx.users.sourceforge.net', 'a97sese52.sourceforge.net', 'www.sourceforge.net', 'www.lailai360.com', 'hplip.sourceforge.net', 'sp.dsnl.link', 'tftputil.sourceforge.net', '4hu33j.com', 'multigeneblast.sourceforge.net', 'thinking-forth.sourceforge.net', 'acjp2.cloudflarest.link', 'www.99wxw.cc', 't38modem.sourceforge.net', 'openv2g.sourceforge.net', 'www.museumoffloridahistory.com', 'phpeasyvcs.sourceforge.net', 'segymat.sourceforge.net', 'jode.sourceforge.net', 'codonw.sourceforge.net', 'scarangel.sourceforge.net', 'lcmc.sourceforge.net', 'abt97.com', 'shibatch.sourceforge.net', 'gwtool.sourceforge.net', 'checkstyle.sourceforge.net', 'geson.sourceforge.net', 'api.mrssip.top', 'ssldump.sourceforge.net', 'bio-bwa.sourceforge.net', 'freexer.sourceforge.net', 'makeavi.sourceforge.net', 'tomahawk.sourceforge.net', 'jagoclient.sourceforge.net', 'analogexif.sourceforge.net', 'wix.sourceforge.net', 'getgnuwin32.sourceforge.net', 'amide.sourceforge.net', 'jaxedit.sourceforge.net', 'unifraktur.sourceforge.net', 'jacamo.sourceforge.net', 'jingguanghang66.com', 'burn-osx.sourceforge.net', 'www.kanunu2.com', 'udpunicorn.sourceforge.net', 'wordflashreader.sourceforge.net', 'opennhrp.sourceforge.net', 'moagg.sourceforge.net', 'deinterlace.sourceforge.net', 'alsamodular.sourceforge.net', 'scaffoldhunter.sourceforge.net', 'freemind.sourceforge.net', 'logicaldoc.sourceforge.net', 'dsxys.com', 'ecgtoolkit-cs.sourceforge.net', '52ys.cc', 'ffmpegyag.sourceforge.net', 'seo.com', 'www.seo.com', 'pay000.com', 'opensvcdecoder.sourceforge.net', 'bb99rr.com', 'cutter.sourceforge.net', 'milamin.sourceforge.net', 'hexhub.sourceforge.net', 'dspdap.sourceforge.net', 'opensslui.sourceforge.net', 'pptpclient.sourceforge.net', 'www.4hu33j.com', 'gnuwin32.sourceforge.net', 'auna.it', 'www.4huh84.com', 'vjoystick.sourceforge.net', 'mmtl.sourceforge.net', 'sourceforge.net', 'xbasej.sourceforge.net', 'portablesigner.sourceforge.net', 'gimpact.sourceforge.net', 'neo-psx.sourceforge.net', 'flex.sourceforge.net', 'x11-basic.sourceforge.net', 'mm8leveleditor.sourceforge.net', 'minimpy.sourceforge.net', 'ormlite.sourceforge.net', 'pnob.sourceforge.net', 'pebl.sourceforge.net', 'algol68.sourceforge.net', 'ooo-word-filter.sourceforge.net', 'audioslicer.sourceforge.net', 'groupexplorer.sourceforge.net', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wordflashreader.sourceforge.net...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for genj.sourceforge.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
