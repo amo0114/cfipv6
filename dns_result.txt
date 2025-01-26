@@ -2,33 +2,38 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.41aay.com	canonical name = cdn.e5fqafow3s.laoyucdn.com.
-Name:	cdn.e5fqafow3s.laoyucdn.com
-Address: 223.165.12.59
-Name:	cdn.e5fqafow3s.laoyucdn.com
-Address: 223.165.12.50
-Name:	cdn.e5fqafow3s.laoyucdn.com
-Address: 223.165.12.64
-Name:	cdn.e5fqafow3s.laoyucdn.com
-Address: 223.165.12.52
+www.5522tl.com	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	x2s33.com
-Address: 162.209.175.126
+www.nitianxieshen.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.181.11
+Name:	ips.993888.xyz
+Address: 104.18.180.71
+Name:	ips.993888.xyz
+Address: 104.18.173.17
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	41aay.com
-Address: 223.165.12.52
-Name:	41aay.com
-Address: 223.165.12.59
-Name:	41aay.com
-Address: 223.165.12.64
-Name:	41aay.com
-Address: 223.165.12.50
+Name:	freeorvideo.com
+Address: 104.21.42.94
+Name:	freeorvideo.com
+Address: 172.67.160.120
+Name:	freeorvideo.com
+Address: 2606:4700:3031::6815:2a5e
+Name:	freeorvideo.com
+Address: 2606:4700:3036::ac43:a078
 
