@@ -2,24 +2,25 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	b.glgoo.top
-Address: 172.67.172.45
-Name:	b.glgoo.top
-Address: 104.21.39.246
-Name:	b.glgoo.top
-Address: 2606:4700:3035::6815:27f6
-Name:	b.glgoo.top
-Address: 2606:4700:3037::ac43:ac2d
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find kak33.kn5678.com: NXDOMAIN
+www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.156.172
+Name:	ips.993888.xyz
+Address: 104.18.179.61
+Name:	ips.993888.xyz
+Address: 104.16.117.254
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.huiyaofan.com
-Address: 156.237.251.139
+Name:	www.8658.cn
+Address: 156.251.252.184
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.sjzsckj.com
+Address: 208.98.40.208
 
