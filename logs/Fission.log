@@ -25223,3 +25223,25 @@ Performing DNS lookup for 41aay.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bf75bb6] Update project files
+ 4 files changed, 73 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   e4e958e..bf75bb6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.131.26...
+Fetching domains for 104.21.42.94...
+Fetching domains for 104.17.132.220...
+succeed to fetch domains for 104.17.132.220 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.42.94 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.131.26 from https://ipchaxun.com/
+域名列表为
+['www.lyzdzy.com', 'kan234.com', 'sexdelivery.cc', '5h25.cc', 'www.1pcome.com', 'www.nitianxieshen.com', 'ys2.ysldy3.xyz', 'www.gxgfgvh.cn', 'www.5xs.cc', 'www.nxyxzl.com', 'osoyoo.com', 'www.19jin.info', '234mm.net', 'diskusiwebhosting.com', 'www.osoyoo.com', '2048lt.com', '86263.com', '94-tv.com', 'www.618dnf.com', 'www.5522tl.com', 'www.207my.com', 'www.linnuozs.com', 'www.93xscc.com', 'javhaven.com', 'www.qindixs.com', 'www.7lq.com', 'asd.ffy002.top', '5g.wen11360.com', 'www.cosdna.com', 'www.97777pk.com', 'nxyxzl.com', 'www.2048lt.com', '19jin.info', 'ys3.ysldy3.xyz', 'www.tpyyc.com', 'rouvz1.xyz', 'www.8877fz.com', 'www.ujkuchc.cn', 'www.advanz.com.my', '6tyc0.com', 'www.vrchat.com', '618dnf.com', 'mav129.xyz', 'www.99wxw.cc', '17800.net', 'auroraexquisite.com', 'www.jg666.top', 'www.xinjufang.com', 'ysldy3.xyz', 'www.55xs.cc', 'www.789kp.com', 'www.tockt.com', 'wen11360.com', 'www.cdn.com.do', 'bm90bn.blwealthgroup.net', 'ymsxq010.xyz', 'meiju9.com', 'dx1.z5151.cloudns.biz', '69av7333.cc', 'www.xz898my.com', 'unhr.xyz', 'freeorvideo.com', 'www.86263.com', 'www.meiju9.com', 'www.kuaikan66.com', 'www.cfhuagong.com', 'xinjufang.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.5522tl.com...
+Performing DNS lookup for www.nitianxieshen.com...
+Performing DNS lookup for freeorvideo.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
