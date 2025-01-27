@@ -25267,3 +25267,25 @@ Performing DNS lookup for www.65bao2.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dd94daa] Update project files
+ 4 files changed, 68 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   6dc05db..dd94daa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.67.214.20...
+Fetching domains for 141.101.121.211...
+Fetching domains for 104.17.194.148...
+succeed to fetch domains for 104.17.194.148 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.214.20 from https://dnsdblookup.com/
+succeed to fetch domains for 141.101.121.211 from https://site.ip138.com/
+域名列表为
+['www.ytshenxian.com', '0550cq.com', 'order.shadowsocks.nl', 'www.4148.net', 'www.6988tv.com', 'huijiafeiqi.com', 'www.flltrjh.cn', 'www.6e6f7.com', 'skeoe.com', 'www.icehua.cc', 'www.ddwhm.com', 'www.qp666.com', 'stock.hostmonit.com', 'sgv3.com', 'yx.887141.xyz', 'www.meiyazhifu.com', 'www.dy1255.com', 'www.hnxinlian.org', 'www.tvccc.org', 'ag.hg2096.com', 'js93124.com', 'ch667.net', 'usshsaba.114514782.xyz', 'www.eltek.com', 'www.xgenon.com', 'www.116.ag', 'www.b7yy.cc', '6e6f7.com', 'ta202.com', 'www.tinghen.com', 'www.cocanwelding.com', 'www.whpaiger.com', 'www.hacked.com.cn', 'laofuzi1.xyz', 'm.11txt.com', 'www.tv9090.com', '1066702.com', 'www.92mili.com', 'www.93xscc.com', 'www.11txt.com', 'www.7sc.cc', 'www.55evd.com', 'www.xiaowenduo.com', 'shadowsocks.nl', 'www.asmrzy8.net', 'portal.shadowsocks.nl', 'www.wxxzzs.com', 'www.52dym.com', 'www.6i5.com', '606977.com', 'yundunwawablogcdn1dx.wawacm.com', 'gstx.tv', 'tp516.cc', 'iios.fun', 'zm7.m3u8list.top', 'md3519.xyz', 'www.0550cq.com', 'www.7749tv.com', 'www.dy420.com', 'www.growthmarkets-oil.com', 'www.xkceo.com', 'vns38899.com', 'www.huanyaad.com', '69xx436.xyz', '630book.com', 'www.bvfphnj.cn', 'www.gzlatin.com', 'www.js93124.com', 'www.33mov.com', 'www.zhenjiesh.cn', 'm.0550cq.com', 'cf1.492745.xyz', 'yundunwawablogcdn1yd.wawacm.com', 'www.x52bq.com', 'yyxycn.com', 'm.tvfff.com', 'nlsdwsz.66666654.xyz', 'hacked.com.cn', 'www.qf527.com', '919s.net', 'www.mxzzlx.com', '8810868.com', 'growthmarkets-oil.com', 'ydxs.cc', 'zi0.cc', 'www.90dushu.com', 'qp66.com', '55776.net', 'panel3.touhou.tel', 'www-ok193.com', 'alternatorstartermotorsdevon.co.uk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.asmrzy8.net...
+Performing DNS lookup for www.11txt.com...
+Performing DNS lookup for ydxs.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
