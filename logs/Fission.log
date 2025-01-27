@@ -25311,3 +25311,24 @@ Performing DNS lookup for yusese.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b19afd5] Update project files
+ 4 files changed, 74 insertions(+), 39 deletions(-)
+To github.com:amo0114/cfipv6.git
+   0d3ca40..b19afd5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.22.86...
+Fetching domains for 104.21.20.238...
+Fetching domains for 190.93.247.110...
+succeed to fetch domains for 190.93.247.110 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.22.86 from https://site.ip138.com/
+succeed to fetch domains for 104.21.20.238 from https://dnsdblookup.com/
+域名列表为
+['bbs.5wool.com', 'www.b7yy.cc', 'p3s4biziqxcm.cc', 'gua.im', 'db01.in', 'czcz5.com', '6861058.com', '9900k.cn', '046dd.com', 'www.6988tv.com', 'hypedrop.com', '63ws.com', 'www.hypedrop.com', 'www.4hudy881.com', 'www.oqcpzn.top', '7.namesilo123.top', 'dabai.in', '30533.world', 'kagix88.top', 'ubit.press', 'wap.kagix88.top', 'www.xmxls168.com', 'vzpxrvjx.top', 'www.uu93.com', 'nlsdwsz.66666654.xyz', '3g.kagix88.top', 'baic-hotel.com', 'amstdhebb.76898102.xyz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.0550cq.com', 'www.4huyy877.com', 'uu93.com', 'www.hnxinlian.org', 'www.50zw.co', 'acus.cloudflarest.link', 'www.4148.net', '1.namesilo123.top', 'm.50zw.co', 'ht.9900k.cn', '91porn.men', 'keleweiedu.com', 'www.tinghen.com', '014dl.com', 'thpkg.com', 'm.vgsocf.top', 'www.viking.es', 'vcd.la', 'mip.xbiquge.me', '5wool.com', 'www.ybnxyj.com', 'www.046dd.com', 'gdxalp.com', 'arkrecode.ero-labs.xyz', 'my.8dz6.com', 'hhh998.com', 'www.preissuchmaschine.de', 'yyg168.com', 'm.6i5.com', 'ybnxyj.com', 'bkuan.top', 'www.schmotion.com', 'zafira.ero-labs.xyz', 'baxtc.66666654.xyz', 'stock.hostmonit.com', 'zi0.cc', 'mmc.abecoins.com', 'www.boyangjt.com', 'www.keleweiedu.com', '0787878.com', 'cherrytale.ero-labs.xyz', 'dy288.cc', 'arkrecode6.ero-labs.xyz', 'bacaterus.com', 'wap.aghijti.top', 'vgsocf.top', 'www.ytlryb.com', 'm.aghijti.top', 'www.5wool.com', 'pwxxx10.xyz', 'www.beko.com.tr', 'oqcpzn.top', '3g.aghijti.top', 'www.ddwhm.com', 'www.90dushu.com', 'www.syhlm.com', 'xmxls168.com', '8dz6.com', 'www.thpkg.com', 'www.wei333.com', 'yx.55612341.xyz', 'cdk.5wool.com', 'api.tsuixin.com', 'www.propertyguru.com.my', 'www.ero-labs.xyz', 'hhab32.com', 'www.kagix88.top', 'www.aghijti.top', 'web.5wool.com', 'game.ero-labs.xyz', 'aghijti.top', 'x5y66.com', 'www.207vt.cn', 'extremetech.com', 'www.ubit.press', 'ganpian.com', 'velvetreact.ero-labs.xyz', 'wap.oqcpzn.top', '4hudy881.com', 'www.4gdiy.com', 'www.hhab32.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.viking.es...
+Performing DNS lookup for www.aghijti.top...
+Performing DNS lookup for bbs.5wool.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
