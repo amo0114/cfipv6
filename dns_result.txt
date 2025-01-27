@@ -2,22 +2,20 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.919ku.com
-Address: 74.206.228.78
-Name:	www.919ku.com
-Address: 173.239.8.164
-Name:	www.919ku.com
-Address: 173.239.5.6
+Name:	www.zgwangzhan.com
+Address: 154.218.103.176
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.97hjw.com
-Address: 45.207.231.158
+Name:	xinsijitv71.top
+Address: 37.48.65.145
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.50zw.co: NXDOMAIN
+Non-authoritative answer:
+Name:	5673bb.com
+Address: 162.209.175.125
 
