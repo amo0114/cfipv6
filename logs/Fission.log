@@ -25354,3 +25354,25 @@ Performing DNS lookup for www.x52bq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e998f9b] Update project files
+ 4 files changed, 47 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   3c1adbc..e998f9b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.17.173...
+Fetching domains for 104.18.77.17...
+Fetching domains for 104.22.6.202...
+succeed to fetch domains for 104.22.6.202 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.77.17 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.17.173 from https://ipchaxun.com/
+域名列表为
+['ladalad.com', 'a123kn.com', 'ok.oksignapp.com', 'bfb3.com', 'store.solidstatelogic.com', 'www.rijutv.co', 'rgd.kkhdwd.com', 'down.dawdop.com', 'www.sanyatour.com', 'ccss.ccsskh.com', 'ladalcd.com', 'down.kudawd.com', 'www.newpharma.fr', 'kd.kdwad.com', 'www.a123kn.com', 'mu.muyyw.com', 'solidstatelogic.com', 'hojjkapp.com', 'www.menghaokeji.com', 'www.consensys.net', 'down.bggfk.com', 'jkw.by69.org', 'www.qumiyun.com', 'www.7844hu.com', 'xinshijidp.com', 'scholarworks.waldenu.edu', 'locanto.com.ve', 'www.solidstatelogic.com', 'newpharma.fr', 'jkw.kkhdwd.com', 'www.cfhuagong.com', 'www2.solidstatelogic.com', 'sanyatour.com', 'hojkkapp.com', 'nimoapps.com', 'consensys.net', 'huanyuf.com', 'www5.jeomsin.co.kr', '4huxx554.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qumiyun.com...
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for hojjkapp.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
