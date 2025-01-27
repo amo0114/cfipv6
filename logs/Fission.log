@@ -25289,3 +25289,25 @@ Performing DNS lookup for ydxs.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0d3ca40] Update project files
+ 4 files changed, 82 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   dd94daa..0d3ca40  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.36.113...
+Fetching domains for 104.18.4.127...
+Fetching domains for 104.18.3.207...
+succeed to fetch domains for 104.18.3.207 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.36.113 from https://site.ip138.com/
+succeed to fetch domains for 104.18.4.127 from https://site.ip138.com/
+域名列表为
+['1t.aywd.top', 'yx.887141.xyz', 'www.yw193.cam', '06966q.com', 'cl927.com', 'www.dousonofios.win', 'xfltd.net', 'www.yeitwor.cn', 'zaeh867gt4lr7.xyz', 's537w.com', 'lyrjsmgs.com', 'www.makimura-tech.com', '7231325.com', 'www.uyghurcongress.org', 'x0x0x.xxb34.top', 'gotomattress.com', 'www.988zu.com', 'www.weisj.xyz', 'aavv.xxb34.top', '91xx.xxb34.top', 'www.sese178.com', '52mm.xxb34.top', 'www.ddwhm.com', 'edisisiasat.online', 'dabeizhoubhw.com', 'www.coingecko.com', 'www.v0865.com', 'mufbmik.top', 'yusese.cn', 'yyds.xxb34.top', '91k.one', 'pay.xjqvip.com', 'm.niuerzs.com', 'www.11kk22.cn', 'uyghurcongress.org', 'bb22ll.com', '5511552.com', 'www.zhjiaoshi.cn', 'www.xxb34.top', 'av91.xxb34.top', 'www.kunzedu.com', 'sese178.com', 'yh6.dtku41.xyz', '15y.tv', 'www.zzztch.com', 'ccav.xxb34.top', 'kk44kk.xxb34.top', '17se.xxb34.top', 'www.p593e.com', 'www.nmsp168.com', 'www.15y.tv', 'www.76jjj.com', 'yw193.cam', 'wap.mufbmik.top', 'dousonofios.win', 'backups.uyghurcongress.org', 'aicediamond23.top', 'xxbb.xxb34.top', 'm.mufbmik.top', 'ug.uyghurcongress.org', 'www.leparking-moto.fr', 'www.yusese.cn', 'www.510tu.com', 'wu31vip.com', 'www.fulishe01.com', 'cld126.com', 'www.bb22ll.com', 'leparking-moto.fr', '510tu.com', 'cn.uyghurcongress.org', '18qqy.com', 'www.wu31vip.com', '69xx.xxb34.top', 'www.5511552.com', 'osk.dousonofios.win', 'www.cocanwelding.com', 'fulishe01.com', 'xxoo.xxb34.top', 'xxx.xxb34.top', 'assets.coingecko.com', 'www.532326.xyz', 'www.mufbmik.top', 'zy.xywlapi.cc', 'estrelabet.com', 'tjnxspu.cn', 'xxb34.top', 'ar.uyghurcongress.org', 'www.iios.club', 'nas.dousonofios.win', 'm.58xs.la', 'www.wldys.com', 'www.gotomattress.com', '9999.xxb34.top', '988zu.com', 'dsxys.com', 'nmsp168.com', 'popozhibo.com', 'www.kmtds.net', '11kk22.cn', 'www.popozhibo.com', 'www.tur789.com', '76jjj.com', 'www.hondacarsofbellevue.com', 'secure.runescape.com', 'es.uyghurcongress.org', 'api.coingecko.com', 'caobb.xxb34.top', 'xn--z7x16bf6t.com', 'www.kmyeka.com', 'tur789.com', 'v0865.com', 'www.universalforkliftparts.com', 'www.s537w.com', 'www.unitetopbalers.com', 'de.uyghurcongress.org', 'www.xjqvip.com', 'sese.xxb34.top', 'www.qdweimeng.com', 'w3cai.com', 'fr.uyghurcongress.org', 'alist-proxy.workers.iwoo.top', 'coingecko.com', '8888.xxb34.top', 'scholasticus.0xh.dev', 'xjqvip.com', 'www.18qqy.com', 'www.tjnxspu.cn', '5g.dabeizhoubhw.com', 'qdweimeng.com', 'cao3v3r1.com', 'cctv.xxb34.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for bb22ll.com...
+Performing DNS lookup for av91.xxb34.top...
+Performing DNS lookup for yusese.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

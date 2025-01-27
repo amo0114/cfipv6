@@ -2,45 +2,58 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	bb22ll.com
-Address: 104.21.48.1
-Name:	bb22ll.com
-Address: 104.21.80.1
-Name:	bb22ll.com
-Address: 104.21.96.1
-Name:	bb22ll.com
-Address: 104.21.64.1
-Name:	bb22ll.com
-Address: 104.21.32.1
-Name:	bb22ll.com
+Name:	www.viking.es
+Address: 172.67.194.221
+Name:	www.viking.es
+Address: 104.21.20.238
+Name:	www.viking.es
+Address: 2606:4700:3034::6815:14ee
+Name:	www.viking.es
+Address: 2606:4700:3036::ac43:c2dd
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.aghijti.top
 Address: 104.21.112.1
-Name:	bb22ll.com
+Name:	www.aghijti.top
+Address: 104.21.48.1
+Name:	www.aghijti.top
+Address: 104.21.80.1
+Name:	www.aghijti.top
+Address: 104.21.96.1
+Name:	www.aghijti.top
+Address: 104.21.32.1
+Name:	www.aghijti.top
 Address: 104.21.16.1
-Name:	bb22ll.com
-Address: 2606:4700:3030::6815:2001
-Name:	bb22ll.com
-Address: 2606:4700:3030::6815:4001
-Name:	bb22ll.com
-Address: 2606:4700:3030::6815:7001
-Name:	bb22ll.com
-Address: 2606:4700:3030::6815:6001
-Name:	bb22ll.com
-Address: 2606:4700:3030::6815:3001
-Name:	bb22ll.com
+Name:	www.aghijti.top
+Address: 104.21.64.1
+Name:	www.aghijti.top
 Address: 2606:4700:3030::6815:5001
-Name:	bb22ll.com
+Name:	www.aghijti.top
+Address: 2606:4700:3030::6815:2001
+Name:	www.aghijti.top
+Address: 2606:4700:3030::6815:4001
+Name:	www.aghijti.top
+Address: 2606:4700:3030::6815:6001
+Name:	www.aghijti.top
 Address: 2606:4700:3030::6815:1001
+Name:	www.aghijti.top
+Address: 2606:4700:3030::6815:7001
+Name:	www.aghijti.top
+Address: 2606:4700:3030::6815:3001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	av91.xxb34.top
-Address: 154.23.64.98
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-*** Can't find yusese.cn: No answer
+Name:	bbs.5wool.com
+Address: 104.21.20.238
+Name:	bbs.5wool.com
+Address: 172.67.194.221
+Name:	bbs.5wool.com
+Address: 2606:4700:3036::ac43:c2dd
+Name:	bbs.5wool.com
+Address: 2606:4700:3034::6815:14ee
 
