@@ -2,20 +2,24 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zgwangzhan.com
-Address: 154.218.103.176
+Name:	www.tpyyc.com
+Address: 107.148.242.9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	xinsijitv71.top
-Address: 37.48.65.145
+72bbm.com	canonical name = hk.newcname.com.
+Name:	hk.newcname.com
+Address: 172.247.193.93
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	5673bb.com
-Address: 162.209.175.125
+www.visa.co.th	canonical name = www.visa.co.th.cdn.cloudflare.net.
+Name:	www.visa.co.th.cdn.cloudflare.net
+Address: 104.18.0.121
+Name:	www.visa.co.th.cdn.cloudflare.net
+Address: 104.18.1.121
 

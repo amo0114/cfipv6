@@ -25462,3 +25462,24 @@ Performing DNS lookup for www.50zw.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1569e02] Update project files
+ 4 files changed, 38 insertions(+), 19 deletions(-)
+To github.com:amo0114/cfipv6.git
+   5cfb1f3..1569e02  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.126.159...
+Fetching domains for 104.18.92.163...
+Fetching domains for 104.18.45.202...
+succeed to fetch domains for 104.18.45.202 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.92.163 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.126.159 from https://ipchaxun.com/
+域名列表为
+['www.visitgd.com', 'www.psy.net.cn', 'zgwangzhan.com', 'fff0101.xyz', 'cures4heartburn.com', 'fmscout.com', 'www.zgwangzhan.com', 'u.uboy03.xyz', 'www.158499.com', 'bk.jdkg.fun', 'www.5aihh.cn', 'btbdys.com', 'weixinf5.com', 'xybelove.com', 'www.fmscout.com', 'www.41ddd.com', 'www.jxggcm.com', 'www.7798df.com', 'www.xvf28cu.cn', '5673bb.com', 'bestcf.onecf.eu.org', 'm.niuerzs.com', 'kan234.com', 'www.978lulu09.xyz', 'www.kghcmr.cn', 'www.sanyatour.com', 'www.iios.club', 'www.04pic.com', '7798df.com', 'kz22.cc', 'www.sxe21.cn', 'cfip.xxxxxxxx.tk', 'www.javsx.com', 'www.q2042.com', 'www.cbcv.cc', 'www.wlxinde.com', 'pic.yydsmh.com', 'huaszj.cn', '21tvb.com', 'xinsijitv71.top', 'www.99wx.cc', 'www.fff0101.xyz', 'sexiaosan.com', 'theheraldghana.com', 'dmg776.com', 'jxggcm.com', '978lulu09.xyz', '50bo.com', 'www.xinsijitv71.top', 'sanyatour.com', 'www.295k.com', 'www.55xs.cc', 'www.asgjmy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zgwangzhan.com...
+Performing DNS lookup for xinsijitv71.top...
+Performing DNS lookup for 5673bb.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
