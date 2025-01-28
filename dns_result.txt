@@ -2,24 +2,29 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tpyyc.com
-Address: 107.148.242.9
+www.iios.me	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-72bbm.com	canonical name = hk.newcname.com.
-Name:	hk.newcname.com
-Address: 172.247.193.93
+www.77ty.com	canonical name = 103top.delivery-cf-103.sbs.
+Name:	103top.delivery-cf-103.sbs
+Address: 173.255.219.146
+Name:	103top.delivery-cf-103.sbs
+Address: 104.237.157.185
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.visa.co.th	canonical name = www.visa.co.th.cdn.cloudflare.net.
-Name:	www.visa.co.th.cdn.cloudflare.net
-Address: 104.18.0.121
-Name:	www.visa.co.th.cdn.cloudflare.net
-Address: 104.18.1.121
+** server can't find www.tockt.com: SERVFAIL
 
