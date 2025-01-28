@@ -25548,3 +25548,25 @@ Performing DNS lookup for www.sp6080.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f4d271f] Update project files
+ 4 files changed, 61 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   7ab5048..f4d271f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.31.95...
+Fetching domains for 104.26.6.33...
+Fetching domains for 104.26.12.127...
+succeed to fetch domains for 104.21.31.95 from https://site.ip138.com/
+succeed to fetch domains for 104.26.6.33 from https://dnsdblookup.com/
+succeed to fetch domains for 104.26.12.127 from https://dnsdblookup.com/
+域名列表为
+['hsh.com', 'm.luwangyangrong.com', 'www.nitianxieshen.com', 'www.idcoffer.com', 'online.asbis.sk', 'unicc.vc', 'dash.fulltclash.xyz', 'caodick.com', 'wap.vdltvb.top', 'ckgbkz.top', '3g.jlluaj.top', 'jun83.com', 'yaytsogram.com', 'www.newyork.com', '168jin.com', 'www.dairy-engineering.com', 'voteapi.kadsea.org', 'dogeswap.org', 'www.difi-vault.com', 'placedigger.com', 'www.botanicals.com.tw', 'xiaoai.plus', 'www.hsh.com', 'lai953.com', 'cdn.baid.fun', 'ajcdn.com', 'www.pwtmqvsg.xyz', 'www.abazha.cn', 'www.h-steam.com', 'speed.marisalnc.com', 'siwacos5.com', 'i1o.cc', 'www.srbsb.cn', 'hassle.com', 'www.ysw145.today', 'maikj.com', 'www.dogeswap.org', 'www.yyaa112.cc', 'zztt07.com', 'www.tv1080.com', 'hkmarathon.com', 'download.kadsea.org', 'botanicals.com.tw', 'www.aitianhu.com', 'm.ckgbkz.top', 'vdltvb.top', 'diem25.org', 'yyaa112.cc', 'www.hkmarathon.com', 'directoffice.co.uk', 'www.canonrumors.com', 'www.bb12311.com', 'www.xiaoshuofen.com', 'www.yjz51.com', 'smars.com', 'www.lai953.com', 'cdn.idcoffer.net', 'c.im', 'yrxhvip.cc', 'www.blindabeep.com', 'chatone.xiaoai.plus', 'www.100181.com', 'wap.ckgbkz.top', 'sexfilm.cc', 'www.gematsu.com', 'www.fareastflora.com', 'www.ajcdn.com', 'app.kadsea.org', 'cgcc.digicert.pp.ua', 'jpvsavhyu.76898102.xyz', 'www.pregnancyihub.com', 'marx21.it', 'casino-latvia.com', 'x6908.top', 'www.csg99.com', 'www.6988tv.com', 'rwe-mall.shop', 'w55eup.aitianhu.com', 'bestip.lyh.cloudns.be', 'www.busyteacher.org', 'hye.co.il', 'www.whpaiger.com', 'mwcomic6.co', 'tianya123.com', 'gytjbzx.com', 'www.sdhuixiangjixie.com', 'yomaex.com', '751616.com', 'm.vdltvb.top', 'outinsa.com', 'ivw37y.aitianhu.com', '69x2760.cc', 'ckb.com', 'www.hye.co.il', 'hhw18a.buzz', 'pic.nijie.net', 'kadsea.org', 'dairy-engineering.com', '3g.ckgbkz.top', 'mnhbr8.topfy666.top', 'yurenhf.com', 'fanbus.one', '6.namesilo123.top', 'www.gytjbzx.com', 'asbis.sk', 'm.niuerzs.com', 'lyrahosting.com', 'www.iios.me', 'altaghier.tv', 'hpt6520.adcfv.top', 'busyteacher.org', 'outlookhindi.com', 'ipdb.rr.nu', 'www.wrllsgy.cn', 'www.ddwhm.com', 'sidewalkmag.com', 'www.e0105oz8.cc', 'fbsa.gov.iq', 'www.caodick.com', 'amoebi.com', '3g.vdltvb.top', 'in.placedigger.com', 'www.lyzdzy.com', 'www.vdltvb.top', '365dvd.cc', 'h-steam.com', 'cookien.com', 'mnhbr8.topfy666.com', 'pj8003.com', 'bk.jdkg.fun', 'idcoffer.com', 'www.ckgbkz.top', 'www.marx21.it', 'www.28et.com', 'sm3ha.org', 'freemining.club', 'www.gentaur.com', 'radio.garden', 'gematsu.com', 'img.asbis.sk', 'gentaur.com', 'www.hengheng2.com', 'www.765my.com', 'upload.vipss.life', 'www.smars.com', 'www.siwacos5.com', 'www.pathintl.org', 'cfip.xxxxxxxx.tk', '149tk1.com', 'xpoleuno.com', 'condos.ca', 'www.iios.club', 'www.aravot-en.am', 'vpsaff.net', 'www.tpyyc.com', 'hengheng2.com', 'campuslabs.com', 'postach.io', 'kadbbs.kadsea.org', 'www.freemining.club', 'www.luwangyangrong.com', 'www.fanbus.one', 'aaa.aitianhu.com', 'e0105oz8.cc', '100181.com', 'xxxpornplace.com', 'www.nmhydz.com', 'www.vpsaff.net', 'my.fxwetrade.net', 'www.zdqx.com', 'kadscan.kadsea.org', '23232.top', 'www.sate.chat']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.28et.com...
+Performing DNS lookup for hkmarathon.com...
+Performing DNS lookup for www.dogeswap.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
