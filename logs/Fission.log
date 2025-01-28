@@ -25614,3 +25614,25 @@ Performing DNS lookup for www.xinjuc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7c764de] Update project files
+ 4 files changed, 49 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   a96445d..7c764de  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.230.107...
+Fetching domains for 104.21.229.253...
+Fetching domains for 104.17.128.50...
+succeed to fetch domains for 104.21.229.253 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.128.50 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.230.107 from https://dnsdblookup.com/
+域名列表为
+['www.99wxw.cc', 'cf.yx.alue.link', 'www.85xscc.com', 'www.wenxueyuedu.com', 'www.7lq.com', 'www.qindixs.com', 'www.zlcq520.com', 'actvtrack.com', 'www.7277tl.com', 'www.tx58tl.com', 'securejoinsite.com', 'www.xz898my.com', 'tanhuazu.com', 'www.tockt.com', 'cutegfs.com', 'www.rxjh520.cc', 'www.sixyin.com', 'www.m6y6.com', 'm6y6.com', 'www.xxootl.com', 'www.yh9pk.com', 'freegamesmembers.com', 'wo.ikan4k.com', 'www.77zw.cc', 'www.93xscc.com', 'www.doupozw.com', 'dzy66666.com', 'www.destroyedteens.com', 'www.tlbb888.com', 'www.hcq170.com', 'www.yjys05.com', 'www.nitianxieshen.com', 'www.88wwk.com', 'www.jltlbb.cn', 'tl123123.com', 'www.cu90.com', 'www.30moyu.top', 'www.safenames.net', 'destroyedteens.com', '18plus.com', 'www.securejoinsite.com', 'www.tl123123.com', 'www.cutegfs.com', 'www.39ymy.com', 'www.207my.com', 'www.swapnudes.com', 'pk299.com', 'tokyogfs.com', 'www.cocanwelding.com', 'www.huaidan1.com', 'www.jg666.top', 'www.97777pk.com', 'www.yan176.com', 'www.8899tl.com', 'www.yxy176.com', 'www.iios.club', 'yxy176.com', '13.sanfen001.top', 'www.jyyz.cn', 'www.28et.com', '3dxxxgay.com', 'www.16888cs.cn', 'www.tokyogfs.com', 'www.kbss888.com', 'www.shy6666.com', 'www.5522tl.com', 'www.pk299.com', 'cfip.xxxxxxxx.tk', 'localhookup.com', 'www.kuaikan66.com', 'www.88viptl.com', 'yiqi1234.com', 'www.cx888my.com', 'citysex.com', 'fr24.com', 'www.wubei520.com', 'www.niuniu9.com', 'cdn.611886.xyz', 'freeflirthookup.com', 'www.55xs.cc', 'www.okchicas.com', 'www.wn01.cc', '1lzz.com', 'www.993my.com', 'www.hhyy028.com', 'www.99wx.cc', 'www.nwwtl.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 1lzz.com...
+Performing DNS lookup for www.jg666.top...
+Performing DNS lookup for cdn.611886.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

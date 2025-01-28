@@ -2,18 +2,46 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	1lzz.com
-Address: 64.190.63.222
+Name:	www.acdc.com
+Address: 104.18.40.242
+Name:	www.acdc.com
+Address: 172.64.147.14
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.jg666.top
-Address: 154.38.102.223
+www.zongcaixs.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.105.192
+Name:	ips.993888.xyz
+Address: 104.18.139.132
+Name:	ips.993888.xyz
+Address: 104.16.194.178
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find cdn.611886.xyz: NXDOMAIN
+Non-authoritative answer:
+www.ikantv.net	canonical name = lunxun.chunqiu25.com.
+Name:	lunxun.chunqiu25.com
+Address: 198.41.198.132
+Name:	lunxun.chunqiu25.com
+Address: 172.67.54.136
+Name:	lunxun.chunqiu25.com
+Address: 173.245.49.162
+Name:	lunxun.chunqiu25.com
+Address: 104.20.20.43
+Name:	lunxun.chunqiu25.com
+Address: 172.64.193.13
+Name:	lunxun.chunqiu25.com
+Address: 172.64.81.102
+Name:	lunxun.chunqiu25.com
+Address: 172.67.126.127
+Name:	lunxun.chunqiu25.com
+Address: 104.26.11.48
+Name:	lunxun.chunqiu25.com
+Address: 104.26.10.48
+Name:	lunxun.chunqiu25.com
+Address: 104.22.17.6
 
