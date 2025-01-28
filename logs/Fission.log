@@ -25636,3 +25636,24 @@ Performing DNS lookup for cdn.611886.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 11dba96] Update project files
+ 4 files changed, 76 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7c764de..11dba96  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.31.140...
+Fetching domains for 104.16.239.116...
+Fetching domains for 104.17.33.200...
+succeed to fetch domains for 104.17.33.200 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.239.116 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.31.140 from https://site.ip138.com/
+域名列表为
+['www.acdc.com', 'www.2567za.com', 'www.cocanwelding.com', 'www.lyzdzy.com', 'www.whpaiger.com', 'xtall.top', 'acdc.com', 'dsxys.com', 'baxtc.66666654.xyz', 'www.yncareer.com', 'www.99wx.cc', 'melendioficial.com', 'tlemaryhistl.info', 'www.rvn9.com', '2567za.com', 'www.zongcaixs.cc', 'taoismhome.com', 'www.ikantv.net', 'rvn9.com', 'www.melendioficial.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.acdc.com...
+Performing DNS lookup for www.zongcaixs.cc...
+Performing DNS lookup for www.ikantv.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
