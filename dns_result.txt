@@ -2,46 +2,37 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.xavs2.xyz
-Address: 104.21.60.107
-Name:	www.xavs2.xyz
-Address: 172.67.195.225
-Name:	www.xavs2.xyz
-Address: 2606:4700:3036::ac43:c3e1
-Name:	www.xavs2.xyz
-Address: 2606:4700:3037::6815:3c6b
+Name:	biblio.sg
+Address: 104.26.10.198
+Name:	biblio.sg
+Address: 172.67.73.27
+Name:	biblio.sg
+Address: 104.26.11.198
+Name:	biblio.sg
+Address: 2606:4700:20::681a:ac6
+Name:	biblio.sg
+Address: 2606:4700:20::681a:bc6
+Name:	biblio.sg
+Address: 2606:4700:20::ac43:491b
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.blwdy.com
-Address: 103.211.124.162
+Name:	588hz.us
+Address: 104.167.65.138
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.6988tv.com	canonical name = 6988tv.com.
-6988tv.com	canonical name = cf.cloudflare.182682.xyz.
-Name:	cf.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	cf.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	cf.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	cf.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
+www.xinjuc.com	canonical name = www.xinjuc.com.cdn.cloudflare.net.
+Name:	www.xinjuc.com.cdn.cloudflare.net
+Address: 104.21.73.59
+Name:	www.xinjuc.com.cdn.cloudflare.net
+Address: 172.67.158.71
+Name:	www.xinjuc.com.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:493b
+Name:	www.xinjuc.com.cdn.cloudflare.net
+Address: 2606:4700:3032::ac43:9e47
 

@@ -25570,3 +25570,25 @@ Performing DNS lookup for www.dogeswap.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 10abcae] Update project files
+ 4 files changed, 83 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   f4d271f..10abcae  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 141.101.115.220...
+Fetching domains for 104.21.42.130...
+Fetching domains for 104.26.7.144...
+succeed to fetch domains for 104.26.7.144 from https://ipchaxun.com/
+succeed to fetch domains for 141.101.115.220 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.42.130 from https://site.ip138.com/
+域名列表为
+['chineseconverter.com', 'www.11txt.com', 'api.ley777.com', 'www.blwdy.com', 'xv202106.xyz', 'www.ikantv.net', 'www.tv9090.com', '6a9455.xyz', 'www.weschool.id', 'm.0550cq.com', 'game888.asia', 'www.nba01.com', 'gaslsqm.com', 'mmdzb2z.com', 'www.gaslsqm.com', 'www.cdzprc.com', 'www.universemagic.com', 'www.41114.tv', 'www.888dyy.cc', '4huxx73.com', 'ub888.cc', 'ikantv.net', 'ztstudy.com', 'killnet.top', 'hefollo.cn', 'thunhoon.com', 'www.shyuxisw.com', 'm.zhiqihuo.cc', 'www.xv202106.xyz', 'sixyin.com', 'www.12rrrr.com', 'throwawaymail.com', 'www.simon-intl.com', '333zzt.com', 'pic.51sp.tv', 'wjdy99.com', '7.namesilo123.top', 'www.knvod.com', 'www.c24e4.com', 'www.333zzt.com', 'www.chineseconverter.com', 'to-be-forgiven.com', 'www.sqquanxin.com', 'm.tvccc.org', 'www.myopt88.com', 'www.iios.me', 'eyhlxdj.com', 'xavs2.xyz', 'www.cykz.net', 'www.hnxinlian.org', 'www.z5kg.cn', 'www.yhddsb.com', 'www.qvod25.com', 'nmhydz.com', 'www.ygdy8.cc', 'huandao124f4.icu', 'xy.7eoqkr8skwk9.com', 'moonair.io', 'www.50zw.co', 'www.whpaiger.com', 'www.091200.com', 'www.steemedu.com', 'www.to-be-forgiven.com', 'cc.yike.pro', 'watsabplusarab.com', 'z5kg.cn', '12rrrr.com', 'www.725ka.com', 'www.qlwdb.com', 'www.qnslmw.cn', 'www.jnxhxl.com', 'qz-nongfa.com', 'www.4148.net', 'whpaiger.com', 'hapi.rivermen.io', 'www.91m.cc', 'www.tpyyc.com', 'www.163my.com', 'ypjgsc.com', 'www.2bwz.com', 'www.cbcv.cc', 'www.295k.com', 'www.paizipai.top', 'www.1a1v.com', 'www.nitianzw.com', 'www.thunhoon.com', 'xz.llsp.app', '7sc.cc', 'www.cfhuagong.com', 'carpt.net', 'heiye692.com', 'www.cocanwelding.com', 'www.xavs2.xyz', 'cf-lt.sharecentre.online', 'www.tvccc.org', '2bwz.com', 'www.meijuxia.net', 'www.yncareer.com', 'www.zzztch.com', 'www.6i5.com', 'www.czxsdn.com', 'www.lyzdzy.com', 'www.heiye692.com', 'www.ddwhm.com', 'www.4huxx73.com', 'newfgawduvdb.marisalnc.com', 'api.7eoqkr8skwk9.com', 'www.shecnudec.com', 'www.mmdzb2z.com', 'voysis.com', 'www.wxxzzs.com', 'www.fuli1.se', 'www.tinghen.com', 'snidovfbd.76898102.xyz', 'yh6.dtku41.xyz', 'llsp.app', 'www.36tq.com', 'stock.hostmonit.com', 'adtlffszkgw62kda.xyz', 'www.njminxiu.cn', 'www.0550cq.com', 'h720qp.com', 'moefuns1.site', 'www.iios.club', 'www.sitelike.org', 'www.qz-nongfa.com', 'www.k77yy.com', 'www.6988tv.com', 'baph.is', 'gdaysw.com', 'www.kkkab.com', 'www.llsp.app', 'www.luwangyangrong.com', 'vangproperties.com', 'www.mindtoolclub.com', 'tracker.carpt.net', 'kkk118.cc', 'rivermen.io', 'ao3-cn.top', 'www.7sc.cc', 'www.throwawaymail.com', 'j2288.com', 'kknews.net', 'www.kk554.com', 'wap.syqwqyu.top', 'cdzprc.com', 'xfltd.net', 'mile03.com', 'www.fourpetal.com', '0550cq.com', 'ibdy6.com', 'www.isho.com', 'www.gdriustb.com', 'c24e4.com', 'www.nafdconference.co.uk', 'www.55xs.cc', 'www.ub888.com', 'cdn.cloudflare.182682.xyz', '999a.vip', 'yundunwawablogcdn1yd.wawacm.com', 'yncareer.com', 'fuli1.se', 'www.searchhomeremedy.com', 'www.sjzsckj.com', 'm.niuerzs.com', 'man.luwangyangrong.com', 'k2h3.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.xavs2.xyz...
+Performing DNS lookup for www.blwdy.com...
+Performing DNS lookup for www.6988tv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
