@@ -25504,3 +25504,25 @@ Performing DNS lookup for www.visa.co.th...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5f1f719] Update project files
+ 4 files changed, 61 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   9c01879..5f1f719  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.246.222...
+Fetching domains for 104.17.92.180...
+Fetching domains for 104.18.30.6...
+succeed to fetch domains for 104.17.246.222 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.92.180 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.30.6 from https://dnsdblookup.com/
+域名列表为
+['www.dzy66666.com', 'www.cfhuagong.com', 'www.zengpaiming.com', 'www.finedininglovers.com', 'www.kuaikan66.com', 'www.kbss888.com', 'www.luwangyangrong.com', 'www.cocanwelding.com', 'baxtc.66666654.xyz', 'iios.club', 'raw.gitmirror.com', 'www.iios.club', 'apkcombo.app', 'www.zlcq520.com', 'www.winwon88.com', 'www.99xkxtl.com', 'www.711du.com', '711du.com', 'www.m6y6.com', 'www.zzztch.com', '2007cs.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.pk8888.top', 'www.77ty.com', '291cf.com', 'www.291cf.com', 'a789q.com', 'www.fretebras.com.br', 'www.maijia6.com', 'www.xinyi176.com', 'www.rxjh520.cc', '9123nn.com', 'www.tockt.com', 'www.33mov.cc', 'www.searshometownstores.com', 'www.you.com', 'www.90qr.com', 'www.f8prpc376.com', 'casinobrango.com', 'sgaa.sectigo.pp.ua', 'spca.114514782.xyz', 'speedip.thexin.free.hr', 'www.ddwhm.com', 'www.iios.me', 'bdyy2.xyz', 'rpoalz.com', '660f.com', 'you.com', 'yh6.dtku41.xyz', 'www.tejiawan.com', '7.namesilo123.top', 'yxy176.com', 'www.tl2938.xyz', 'www.hdmoli.com', 'www.cx888my.com', 'www.diabetes.ascensia.gr', '07zx.me', 'www.hdzcc.com', 'horizon.io', 'www.a789q.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.me...
+Performing DNS lookup for www.77ty.com...
+Performing DNS lookup for www.tockt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
