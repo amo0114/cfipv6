@@ -25592,3 +25592,25 @@ Performing DNS lookup for www.6988tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a96445d] Update project files
+ 4 files changed, 71 insertions(+), 61 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   10abcae..a96445d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.24.177...
+Fetching domains for 104.18.152.227...
+Fetching domains for 104.26.10.198...
+succeed to fetch domains for 104.26.10.198 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.152.227 from https://site.ip138.com/
+succeed to fetch domains for 104.18.24.177 from https://site.ip138.com/
+域名列表为
+['dodotv.cc', 'exposure.software', 'wig.co.uk', 'www.66tl.com', 'www.4hucc39.com', 'www.kkkab.com', '588hz.us', 'www.xinjuc.com', 'cf1.492745.xyz', 'www.healthcarepackaging.com', 'm.niuerzs.com', 'pikped.com', '47198.com', 'www.longwangchuanshuo.com', 'tengbo398.com', 'www.cbcv.cc', '2955kk.com', 'pushtechnology.com', 'www.bob0786.com', 'www.93xscc.com', 'www.xkyy899.com', 'zxys.cc', 'complus.exchange', '77ty.com', 'americasfrontlinedoctors.org', 'flowserve.com', 'sayidaty.net', 'www.2348cc.com', 'www.gaycn.top', 'www.luwangyangrong.com', 'www.b7x33.com', 'ww.eldiariontr.com', 'biblio.sg', 'b7x33.com', 'www.52ys.cc', 'www.ddwhm.com', 'www.9ehao.com', '7.namesilo123.top', 'www.588hz.us', 'flamecloud.io', 'www.yjys05.com', '26.namesilo123.top', 'nekto.me', 'www.5345mi.com', 'www.wig.co.uk', 'api.zimbea.com', 'modoza.com', 'www.2288my.com', 'cdn.modoza.com', 'slotostars.com', 'zxx.gg', 'vivatv.cc', 'www.flamecloud.io', 'web.firefox.fun', 'www.hh1355.com', 'pornzog.com', 'www.47198.com', 'www.firefox.fun', 'firefox.fun', 'serverranks.com', 'kmcq98.com', 'hh1355.com', 'www.olivia123.com', 'werner.com', 'www.xlys01.com', 'jpadwinfs.114514782.xyz', 'hentaiporns.net', 'www.295k.com', 'www.cc148.com', 'docs.pushtechnology.com', 'www.vivatv.cc', 'popupmaker.com', 'www.kmcq98.com', 'www.uu93.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for biblio.sg...
+Performing DNS lookup for 588hz.us...
+Performing DNS lookup for www.xinjuc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

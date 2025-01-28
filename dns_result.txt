@@ -2,37 +2,18 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	biblio.sg
-Address: 104.26.10.198
-Name:	biblio.sg
-Address: 172.67.73.27
-Name:	biblio.sg
-Address: 104.26.11.198
-Name:	biblio.sg
-Address: 2606:4700:20::681a:ac6
-Name:	biblio.sg
-Address: 2606:4700:20::681a:bc6
-Name:	biblio.sg
-Address: 2606:4700:20::ac43:491b
+Name:	1lzz.com
+Address: 64.190.63.222
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	588hz.us
-Address: 104.167.65.138
+Name:	www.jg666.top
+Address: 154.38.102.223
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.xinjuc.com	canonical name = www.xinjuc.com.cdn.cloudflare.net.
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 104.21.73.59
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 172.67.158.71
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:493b
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:9e47
+** server can't find cdn.611886.xyz: NXDOMAIN
 
