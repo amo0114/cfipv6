@@ -25742,3 +25742,25 @@ Performing DNS lookup for www.kanju8.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6032a53] Update project files
+ 4 files changed, 87 insertions(+), 65 deletions(-)
+ rewrite dns_result.txt (94%)
+To github.com:amo0114/cfipv6.git
+   5a5639f..6032a53  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.60.142...
+Fetching domains for 104.17.235.101...
+Fetching domains for 104.21.25.3...
+succeed to fetch domains for 104.17.235.101 from https://ipchaxun.com/
+succeed to fetch domains for 104.22.60.142 from https://site.ip138.com/
+succeed to fetch domains for 104.21.25.3 from https://site.ip138.com/
+域名列表为
+['www.baokanwang.com', 'www.xpsxs.com', 'xxav2174.com', 'www.talkwithlead.com', 'www.haoduoyi2020.com', 'www.yyoyyu.net', 'm.niuerzs.com', 'www.zcpyews.cn', 'm.e99w.com', 'www.zongcaiwx.com', 'dzwhpx.com', 'www.alwaysvegas.eu', 'yy11111.cool', 'byym45.com', '69xx64.xyz', 'www.xiuluo942.com', 'i-mining.xyz', 'techtrendsetters.world', 'zvhfxt.top', 'javpornsex.com', 'www.msjh520.com', 'talkwithlead.com', 'www.javpornsex.com', 'www.91m.cc', 'www.77zw.cc', 'tje100.com', 'www.qindi.net', 'fq1668.com', 'www.lailai360.com', '695831.cc', 'www.nmzzcm.com', 'www.usiinterior.md', '3g.zvhfxt.top', '58087.com', 'wzqb.org', 'www.tje100.com', 'gspentertainment.com', 'www.amz580.com', 'manhuabar.cc', 'zjjqf.com', 'www.fengbet01.com', 'www.kdj123.com', 'www.huobansp.com', 'wap.zvhfxt.top', '7aipai.com', 'www.qindixs.com', 'www.cocanwelding.com', '62maoax.com', 'a456r.com', 'lunlishipin.org', 'paste.grandstate.ee', 'www.ppp44.cn', 'www.huakai2018.com', 'www.93xscc.com', '57822.com', 'kdj123.com', '652tv.com', 'mydieselpro.com', 'pcrx.com', 'www.99wx.cc', 'www.lyzdzy.com', 'www.17zw.com', '1q43.blog', 'www.xiangcun66.cc', 'www.a456r.com', 'www.hacg.me', 'www.zvhfxt.top', 'www.xkstxt.com', 'www.nitianxieshen.com', 'www.6886u.cf', 'www.fengliuxs.top', 'www.zzztch.com', 'fengbet01.com', 'www.doupobook.cc', 'www.lumenpulse.com', 'experiencedmommy.com', 'www.mtadmin.pro', 'tt954.com', 'jingdianriju.com', 'www.kanunu2.com', '9tsu.com', 'www.dzwhpx.com', 'www.admangochina.com', 'hjb4ae.top', 'estela.moe', 'www.pcrx.com', 'www.85xs.cc', 'www.longwangchuanshuo.net', '6886u.cf', 'jkopoj.cn', 'amz580.com', 'www.amghmfi.cn', 'www.dfsdjt.com', 'www.99wxw.cc', 'aloveboy.com', 'www.295k.com', 'cfip.xxxxxxxx.tk', 'www.xxav2174.com', 'h5.fastshop.pro', 'www.wn01.cc', 'www.75uw.com', 'iios.fun', 'www.experiencedmommy.com', 'admangochina.com', 'www.wzqb.org', 'video.9tsu.com', 'www.75xs.cc', 'www.zhongdinong.cn', 'foobar.nitdgplug.org', 'www.gzzcclub.com', 'www.manhuabar.cc', 'lumenpulse.com', '123.fq1668.com', 'www.iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qindixs.com...
+Performing DNS lookup for zvhfxt.top...
+Performing DNS lookup for foobar.nitdgplug.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
