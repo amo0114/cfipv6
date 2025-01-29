@@ -2,20 +2,23 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+Name:	www.qiaokuang.net
+Address: 23.225.195.12
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 208.98.40.20
+www.ddwhm.com	canonical name = csgo.com.
+Name:	csgo.com
+Address: 195.85.59.95
+Name:	csgo.com
+Address: 195.85.59.161
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.nba01.com
-Address: 103.234.54.73
+Name:	www.xshuxs.com
+Address: 38.207.123.117
 
