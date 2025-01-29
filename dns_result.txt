@@ -2,26 +2,20 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.0550cq.com
-Address: 172.247.166.142
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.lhss666.com	canonical name = host1113520a.c2.huyuncdn.xyz.
-host1113520a.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
+Name:	www.zzztch.com
+Address: 208.98.40.20
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 7.namesilo123.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.nba01.com
+Address: 103.234.54.73
 
