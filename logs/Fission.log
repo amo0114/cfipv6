@@ -25700,3 +25700,24 @@ Performing DNS lookup for 086181.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 214cc62] Update project files
+ 4 files changed, 64 insertions(+), 26 deletions(-)
+To github.com:amo0114/cfipv6.git
+   e1b4814..214cc62  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.0.162...
+Fetching domains for 104.21.226.240...
+Fetching domains for 104.21.29.53...
+succeed to fetch domains for 104.21.226.240 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.29.53 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.0.162 from https://dnsdblookup.com/
+域名列表为
+['www.xiuluo942.com', 'www.uluwatu.com.br', 'www.sinnfein.ie', 'fhd0q7.tw', 'm.luwangyangrong.com', 'iios.fun', 'cgdd.digicert.pp.ua', 'xn--skgtrimmer-test-ylb.dk', 'www.iios.club', 'www.xinjuc.com', 'www.cmxcdq.com', 'www.50zw.co', '123664.com', 'www.kbss888.com', 'sppa8a.com', 'www.lanjiawuye.com', 'www.8008df.com', 'www.1a1v.com', 'm6y6.com', '22.sanfen001.top', 'www.bay-biz.com', 'ssq.com', 'cf.yx.alue.link', 'xfjcloudanycast.55512345.xyz', 'www.678km.com', 'template.city', '789step.com', 'www.cuqylx.top', 'www.7lq.com', 'www.qdgenerator.com', 'www.93xscc.com', 'www.8880006.com', 'gdposen.com', '4.sanfen001.top', '28ds9x44rgr.xyz', 'catenapascupas.ro', 'ks20.cc', 'boin.vip', 'www.wn01.uk', 'www.wn03.cc', 'www.xiaoshuohi.com', 'www.hnkg888.com', 'www.9egood.com', 'touwa.eu.org', 'mumevpn.com', 'teleindex.net', 'yangzhi688.com', 'qr99.cc', 'm.niuerzs.com', '99zy.in', 'www.8899tl.com', 'www.sh8088.com', 'cloudflare.182682.xyz', 'www.tpyyc.com', '12.sanfen001.top', 'ggyy333.com', 'sp.rweek.top', 'static.capverse.game', 'sh8088.com', 'silisilifun.com', 'nailsrus.ca', 'www.993my.com', 'www.westhamzone.com', 'uluwatu.com.br', 'xcyy696.com', 'www.wn05.cc', '7.namesilo123.top', 'admin.mall.bizauto.io', 'www.av193.com', 'cable2130.cc', 'syquban.com', '3g.cuqylx.top', '3g.qzxyas.top', 'www.yjys05.com', 'clarius.me', 'www.cykz.net', 'tianxingyu.com', 'www.vcd.la', 'fpp.ooo', 'b6d77.com', 'www.cx888my.com', 'gamekiller.net', 'www.xzmaolv.com', 'www.peraq.com', 'wap.cuqylx.top', 'mxc3.lbuy.top', 'cf1.492745.xyz', 'youdaofanyi.com', 'cj-365.com', 'www.syquban.com', 'amstdhebb.76898102.xyz', 'www.zwccw.com', 'www.gdriustb.com', 'www.b6d77.com', '888xyz.com', 'stopforsex.com', 'xlys.me', 'admin.empire.bizauto.io', 'www.arcpeaks.com', 'acjp.cloudflarest.link', '05604.com', '39p738.tw', 'dmmsee.zone', 'av193.com', 'zm7.m3u8list.top', 'admin.platform.bizauto.io', 'xfltd.net', 'www.magnetdl.me', 'ddos.rip', 'cdn.cmliu.net', 'www.baymaxvods.com', 'www.gamekiller.net', 'tgapi.mcat.us.kg', 'assets.squarewebsites.org', 'www.dmmsee.zone', 'i.she.vc', 'www.dzy66666.com', 'www.yangzhi688.com', 'www.ultimateglobes.com', 'www.fpp.ooo', 'www.ssq.com', 'theporn397.cc', 'xcaj.xyz', 'semisurvivalcraft.com', 'www.jvxoeoi.cn', 'lanjiawuye.com', 'www.sobods.com', 'www.snip2code.com', 'www.luwangyangrong.com', 'www.stopforsex.com', 'www.hhyy028.com', 'hongfutong.net', 't.lincoin.xyz', 'www.oaksmart.com', 'www.m6y6.com', '66se.tv', '68gaoff.com', 'admin.swap.bizauto.io', 'www.hjjiche.com', 'www.shy6666.com', '1161tyc.com', 'www.ququxiaoshuo.com', 'yy805.com', 'lincoin.xyz', 'www.588jh.com', 'www.5522tl.com', 'admin.px.bizauto.io', 'xiaoqiangxs.net', 'www.nailsrus.ca', '8880006.com', 'www.99wxw.cc', 'pk299.com', 'jpadwinfs.114514782.xyz', 'play.capverse.game', 'abcc.cloudflare.182682.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.93xscc.com...
+Performing DNS lookup for 3g.qzxyas.top...
+Performing DNS lookup for cloudflare.182682.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
