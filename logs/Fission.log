@@ -25721,3 +25721,24 @@ Performing DNS lookup for cloudflare.182682.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5a5639f] Update project files
+ 4 files changed, 55 insertions(+), 35 deletions(-)
+To github.com:amo0114/cfipv6.git
+   214cc62..5a5639f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.25.197...
+Fetching domains for 104.18.65.208...
+Fetching domains for 104.21.235.84...
+succeed to fetch domains for 104.18.65.208 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.235.84 from https://site.ip138.com/
+succeed to fetch domains for 104.18.25.197 from https://site.ip138.com/
+域名列表为
+['cloudflare.182682.xyz', 'www.a456bk.com', 'chubbypornmpegs.com', 'www.888dyy.cc', 'vintagexxxfree.com', 'kinkondemand.com', 'v2fly.samrta.website', 'a456bk.com', 'tk.chouguanwh.com', 'xxxporn.pics', 'www.77yeye.com', 'ak84.com', 'vitrex.digital', 'www.yjys05.com', 'dsxys.com', 'www.zcgs668.com', '6964hu.com', 'www.clips18.net', 'www.ygdy8.cc', 'www.xinku.tv', 'www.e678m.com', 'xtremetv.mx', '14zhgtu2022-09-02.xyz', 'bc3ts.com', 'www.iios.club', 'thegayporntube.com', 'www.chouguanwh.com', 'm.50zw.co', 'mangarc.com', 'freexporno.com', 'www.chubbypornmpegs.com', 'www.kanju8.com', 'godoorapp.com', 'e678m.com', 'www.dapiya.top', 'ukrainekitties.com', '69img.com', 'vip.xxxporn.pics', 'm.niuerzs.com', '9ehao.com', 'clips18.net', 'www.a456h.com', 'www.4huav118.com', 'www.69img.com', 'd67.xyz', 'www.baunat.com', 'xinku.tv', 'vod56.com', 'www.k77yy.com', 'achk.cloudflarest.link', 'jpvsavhyu.76898102.xyz', 'xsjysy.com', 'www.bc3ts.com', 'www.ddwhm.com', 'www.991kan.com', '1stream.eu', 'incesto69.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ddwhm.com...
+Performing DNS lookup for cloudflare.182682.xyz...
+Performing DNS lookup for www.kanju8.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
