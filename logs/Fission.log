@@ -25808,3 +25808,24 @@ Performing DNS lookup for www.nba01.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 41183ae] Update project files
+ 4 files changed, 41 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7f4458c..41183ae  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.106.36...
+Fetching domains for 104.18.16.191...
+Fetching domains for 104.27.18.188...
+succeed to fetch domains for 104.18.16.191 from https://site.ip138.com/
+succeed to fetch domains for 104.27.18.188 from https://site.ip138.com/
+succeed to fetch domains for 104.19.106.36 from https://site.ip138.com/
+域名列表为
+['www.zgjmw.net', 'didiyunhu.com', 'www.b5k55.com', '52dvd.cn', 'www.longwangchuanshuo.net', 'www.mmys.net', 'www.ddwhm.com', 'www.xshuxs.com', 'www.jjtyss.com', 'image.topvppt.com', 'www.cx888my.com', 'www.96ndk.com', 'm.hefuyanchu.com', 'www.xiuluoxiaoshuo.com', 'info.jjaaxyz.com', 'www.4hudy550.com', 'www.a5372b.com', 'a5372b.com', 'zi0.cc', 'www.c333.net', 'www.sjzsckj.com', 'www.993my.com', 'www.shy6666.com', '11.namesilo123.top', '96ndk.com', 'www.xiangcun3.com', 'www.bqg789.co', 'www.visa.com.kz', 'www.wn01.cc', 'www.iios.club', 'b5k55.com', 'www.216po.com', 'www.6xr.com', 'mobile.th.kex-express.com', 'app.topvppt.com', 'm.tvccc.org', 'file.topvppt.com', 'www.qiaokuang.net', '216po.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qiaokuang.net...
+Performing DNS lookup for www.ddwhm.com...
+Performing DNS lookup for www.xshuxs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
