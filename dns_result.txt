@@ -1,17 +1,33 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
+Non-authoritative answer:
+Name:	bigbuy.eu
+Address: 104.22.0.59
+Name:	bigbuy.eu
+Address: 172.67.29.254
+Name:	bigbuy.eu
+Address: 104.22.1.59
+Name:	bigbuy.eu
+Address: 2606:4700:10::ac43:1dfe
+Name:	bigbuy.eu
+Address: 2606:4700:10::6816:13b
+Name:	bigbuy.eu
+Address: 2606:4700:10::6816:3b
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
 ** server can't find www.28et.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.xigua5.com
-Address: 208.98.43.138
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.rrys1.com: NXDOMAIN
+Name:	ips.993888.xyz
+Address: 104.17.137.137
+Name:	ips.993888.xyz
+Address: 104.18.100.2
+Name:	ips.993888.xyz
+Address: 104.18.192.96
 
