@@ -2,30 +2,38 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	secured.tfxi.com
-Address: 104.18.24.199
-Name:	secured.tfxi.com
-Address: 104.18.25.199
-Name:	secured.tfxi.com
-Address: 2606:4700::6812:19c7
-Name:	secured.tfxi.com
-Address: 2606:4700::6812:18c7
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find emojiguru.org: NXDOMAIN
+eshop.elfetex.cz	canonical name = www.elfetex.cz.
+www.elfetex.cz	canonical name = www.elfetex.cz.edgekey.net.
+www.elfetex.cz.edgekey.net	canonical name = e127670.dsca.akamaiedge.net.
+Name:	e127670.dsca.akamaiedge.net
+Address: 23.58.144.145
+Name:	e127670.dsca.akamaiedge.net
+Address: 23.58.144.141
+Name:	e127670.dsca.akamaiedge.net
+Address: 2600:140e:6::17db:acb9
+Name:	e127670.dsca.akamaiedge.net
+Address: 2600:140e:6::17db:acb7
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	blog.0306099.xyz
-Address: 172.67.149.200
-Name:	blog.0306099.xyz
-Address: 104.21.29.203
-Name:	blog.0306099.xyz
-Address: 2606:4700:3031::6815:1dcb
-Name:	blog.0306099.xyz
-Address: 2606:4700:3037::ac43:95c8
+www.preservatifsenligne.fr	canonical name = preservatifsenligne.fr.
+Name:	preservatifsenligne.fr
+Address: 46.246.44.173
+Name:	preservatifsenligne.fr
+Address: 2a02:752:0:18::14d6
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	5baw2w.lol
+Address: 23.225.189.180
+Name:	5baw2w.lol
+Address: 23.225.189.182
+Name:	5baw2w.lol
+Address: 23.225.189.206
+Name:	5baw2w.lol
+Address: 23.225.189.204
 

@@ -26023,3 +26023,24 @@ Performing DNS lookup for kxgdyw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8568653] Update project files
+ 4 files changed, 49 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   000d744..8568653  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.37.85...
+Fetching domains for 104.18.98.70...
+Fetching domains for 104.18.28.224...
+succeed to fetch domains for 104.18.98.70 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.28.224 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.37.85 from https://ipchaxun.com/
+域名列表为
+['www.xinyi176.com', 'btchaiwai.com', 'www.pianku5.com', 'www.4huxpg.com', 'www.ddwhm.com', 'www.tlbb888.com', 'retenews24.it', 'www.71a1e1e.top', 'www.4maoww.com', 'www.a345ny.com', 'www.djin22.com', 'mailanyone.net', 'www.hhyy028.com', '777-cnc.com', 'schoolsbuddy.cn', 'www.yjys05.com', 'raw.gitmirror.com', 'a345ny.com', '4maoww.com', '722bu.com', 'www.renjuhe.cn', '4huxpg.com', 'marketbook.jp', 'secured.tfxi.com', 'biqune.com', 'www.722bu.com', 'tfxi.com', 'ifsp-art.org', '9984hu.com', 'www.glowsticking.com', 'www.xcsp1.com', 'www.05589.xyz', 'glowsticking.com', 'www.93xscc.com', 'uwys65.cc', 'www.295k.com', 'www.30moyu.top', '4hubb78.com', 'hizb-uzbekiston.info', 'zubu.org', 'www.700k.xyz', 'www.d345x.com', 'www.wn01.cc', 'cdn.raises.top', 'dmg955.com', 'lightscribe.tv', 'www.xwsxs.com', 'www.tfxi.com', 'www.jg666.top', 'blog.0306099.xyz', 'www.4hubb78.com', '700k.xyz', 'www.m6y6.com', 'www.ubimbelgoods.xyz', 'emojiguru.org', 'sp.rweek.top', 'www.91m.cc', 'www.wulidy.cc', 'www.71a1g3x.top', '7qfs.xyz', 'mobile.c6bank.app', 'www.tockt.com', 'zh.ifsp-art.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for secured.tfxi.com...
+Performing DNS lookup for emojiguru.org...
+Performing DNS lookup for blog.0306099.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
