@@ -25979,3 +25979,25 @@ Performing DNS lookup for cgdd.digicert.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bb23e81] Update project files
+ 4 files changed, 78 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   dee10ba..bb23e81  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.39.39...
+Fetching domains for 104.17.0.75...
+Fetching domains for 104.18.47.254...
+succeed to fetch domains for 104.18.39.39 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.0.75 from https://site.ip138.com/
+succeed to fetch domains for 104.18.47.254 from https://ipchaxun.com/
+域名列表为
+['webmasters.coomeet.me', 'download.91porn005.me', 'www.petitbaby.com.uy', 'www.archivestore.ru', 'tiexpresso.com', 'www.zlcq520.com', 'coolnewtabtheme.com', 'share.91porn005.me', 'electgo.com', 'web.91porn005.me', 'v.vipgqyy.com', 'aff.91porn005.me', 'www.3000ll.com', 'www.17173sf.com', 'video.v2oi9.club', 'epilife.az', 'cf1.492745.xyz', 'www.wn04.cc', 'sg.electgo.com', 'www.pa119.cn', 'jpadwinfs.114514782.xyz', 'ios.jinniumdm168.com', 'y5002.com', 'invited.91porn005.me', 'wailu.info', 'www.77q2b.com', 'www.0717jia.com', 'www.ds44.xyz', 'yingshiju.cc', 'rxpcw.com', 'fd.expols.com', 'anipz.top', 'www.rxpcw.com', 'www.xtep9cnx.cn', 'www.docesecompanhia.com', '77q2b.com', 'ds44.xyz', '5dv.top', 'www.nn99qq.com', 'makeanddocrew.com', 'www.ld02.pw', 'www.790mv.com', 'dzproxy.tk', 'www.dandanzan.cc', 'www.363240.com', 'petitbaby.com.uy', 'vvv.monster', 'www.coolnewtabtheme.com', 'www.tlbb888.com', 'app.91porn005.me', 'docesecompanhia.com', 'qr99.cc', 'yump3.fun', 'ccav06.com', 'www.5522tl.com', 'www.zddzd.top', '790mv.com', 'www.cfhuagong.com', 'www.ytshenxian.com', 'www.xz898my.com', 'www.kandianapp.com', 'www.tvchinese.net', 'www.idybee.com', 'idybee.com', 'www.faka777.com', 'nn99qq.com', 'faka777.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.petitbaby.com.uy...
+Performing DNS lookup for www.xtep9cnx.cn...
+Performing DNS lookup for nn99qq.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
