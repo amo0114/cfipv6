@@ -2,32 +2,78 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	bigbuy.eu
-Address: 104.22.0.59
-Name:	bigbuy.eu
-Address: 172.67.29.254
-Name:	bigbuy.eu
-Address: 104.22.1.59
-Name:	bigbuy.eu
-Address: 2606:4700:10::ac43:1dfe
-Name:	bigbuy.eu
-Address: 2606:4700:10::6816:13b
-Name:	bigbuy.eu
-Address: 2606:4700:10::6816:3b
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.28et.com: NXDOMAIN
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.7.224
+Name:	cfip.xxxxxxxx.tk
+Address: 172.66.41.92
+Name:	cfip.xxxxxxxx.tk
+Address: 172.66.43.135
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.255.1
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.42.195
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.163.115
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.50.129
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.251.242
+Name:	cfip.xxxxxxxx.tk
+Address: 104.22.8.193
+Name:	cfip.xxxxxxxx.tk
+Address: 104.21.33.110
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.6.77
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.78.13
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.236.236
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.15.87
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.142.170
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	ips.993888.xyz
-Address: 104.17.137.137
-Name:	ips.993888.xyz
-Address: 104.18.100.2
-Name:	ips.993888.xyz
-Address: 104.18.192.96
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.elitedoctorsonline.com
+Address: 104.22.67.184
+Name:	www.elitedoctorsonline.com
+Address: 104.22.66.184
+Name:	www.elitedoctorsonline.com
+Address: 172.67.25.62
+Name:	www.elitedoctorsonline.com
+Address: 2606:4700:10::6816:43b8
+Name:	www.elitedoctorsonline.com
+Address: 2606:4700:10::6816:42b8
+Name:	www.elitedoctorsonline.com
+Address: 2606:4700:10::ac43:193e
 
