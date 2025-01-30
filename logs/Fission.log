@@ -26001,3 +26001,25 @@ Performing DNS lookup for nn99qq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 000d744] Update project files
+ 4 files changed, 52 insertions(+), 56 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   bb23e81..000d744  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.5.102...
+Fetching domains for 104.16.40.236...
+Fetching domains for 104.18.96.36...
+succeed to fetch domains for 104.22.5.102 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.96.36 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.40.236 from https://ipchaxun.com/
+域名列表为
+['www.295k.com', 'www.cfhuagong.com', 'www.iios.me', 'vcd.la', 'www.kxgdyw.com', 'www.nangua55.com', 'kxgdyw.com', 'acgfully.com', 'www.luwangyangrong.com', 'www.whpaiger.com', 'www.baokanwang.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.baokanwang.com...
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for kxgdyw.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
