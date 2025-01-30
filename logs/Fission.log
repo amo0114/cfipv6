@@ -25871,3 +25871,24 @@ Performing DNS lookup for response.fr...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2f7ce54] Update project files
+ 4 files changed, 66 insertions(+), 49 deletions(-)
+To github.com:amo0114/cfipv6.git
+   e90e0ec..2f7ce54  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.68.146...
+Fetching domains for 104.17.134.108...
+Fetching domains for 104.18.14.50...
+succeed to fetch domains for 104.17.134.108 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.68.146 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.14.50 from https://site.ip138.com/
+域名列表为
+['www.kuailaicrm.com', 'www.yh9pk.com', '3g.ksmr4h690.top', 'www.hemnet.se', 'www.96amz.com', 'perthbbs.com', 'www.491040.com', 'm.kanshushen.com', 'advds-gaf635325252.com', 'nice46.top', 'www.97777pk.com', 'www.xwbhk.com', '4huyy111.com', '69av233.xyz', 'hsxiangyu.com', 'www.8899tl.com', 'www.kanshushen.com', 'm.luwangyangrong.com', 'www.liuhongming.com', 'jixia.baidui.vip', 'mip.kanshushen.com', '4op6xa3.vip', 'www.tpyyc.com', 'w3.awjq010.biz', 'ww.99ri9.net', 'www.hsxiangyu.com', '98sex.99s37.com', 'www.perthbbs.com', 'ysz8.com', 'phcasino899.com', 'www.kunzedu.com', '491040.com', 'hp88a.com', '52vy.com', '06969.shop', 'www.cgnclpes.com', 'www.105644777.com', 'ksmr4h690.top', 'www.atoysorchestra.it', 'www7138.com', 'rurystalowe.com.pl', 'www.56maott.com', 'cn.0day.today', 'www.k777p.com', '3cu.com', 'www.kanju8.com', 'www.dingzifm.com', '3g.ojehggt.top', 'download.advds-gaf635325252.com', 'uuu123qmtg.hopeu.fun', '56maott.com', 'w4.awjq010.biz', 'app.kanshushen.com', '18708c.com', 'k777p.com', 'www.zongcaiwx.com', 'www.4huyy111.com', 'wap.pfuxrw.top', 'www.m6y6.com', 'furnituratex.ru', 'www.mgxssh.com', 'www.tl123123.com', '0day.today', 'www.qindixs.com', 'p1.awjq010.biz', 'www.nb568.com', 'pfuxrw.top', 'www.ksmr4h690.top', 'chinacrchome.com', 'www.99ri9.net', 'www.xshuxs.com', 'www.whpaiger.com', 'www.pfuxrw.top', 'wanmeikankan.net', 'p3.awjq010.biz', 'nchp118.com', '99ri9.net', 'bz.dphxbf.top', 'mmmm1688.com', 'www.vyidcxg.cn', 'kanju8.com', '96amz.com', 'www.x3s99.com', 'www.1123er.com', 'm.pfuxrw.top', 'x3s99.com', 'm.ksmr4h690.top', 'www.bbstbj.com', 'www.52vy.com', 'amp.kanshushen.com', 'liuhongming.com', 'hemnet.se', 'cgnclpes.com', 'kanshushen.com', 'dingzifm.com', 'www.shensm.com', 'bmw428.com', 'www.69av233.xyz', 'www.lyzdzy.com', 'www.mmmm1688.com', '105644777.com', 'manga-1001.com', 'lsj00008.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.k777p.com...
+Performing DNS lookup for www.perthbbs.com...
+Performing DNS lookup for www.cgnclpes.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
