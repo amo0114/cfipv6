@@ -25957,3 +25957,25 @@ Performing DNS lookup for www.elitedoctorsonline.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dee10ba] Update project files
+ 4 files changed, 64 insertions(+), 105 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   f543070..dee10ba  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.232.171...
+Fetching domains for 104.17.244.153...
+Fetching domains for 104.17.253.254...
+succeed to fetch domains for 104.17.244.153 from https://site.ip138.com/
+succeed to fetch domains for 104.17.232.171 from https://site.ip138.com/
+succeed to fetch domains for 104.17.253.254 from https://site.ip138.com/
+域名列表为
+['cgdd.digicert.pp.ua', 'fldsubgigtujuy.76898102.xyz', 'www.whpaiger.com', 'pq53.cc', 'camtlebb.76898102.xyz', 'rk-1312991004.cos.ap-chengdu.tencentapp.cn', 'kz22.cc', 'aktv.top', 'yncareer.com', 'www.wei333.com', 'www.lyzdzy.com', 'vcd.la', 'decc.66666654.xyz', 'nlsdwsz.66666654.xyz', 'www.cfhuagong.com', 'me69.cc', '434b.com', 'www.sixyin.com', '6.namesilo123.top', 'www.tvccc.org', 'cfhuagong.com', 'cfip.xxxxxxxx.tk', 'www.kanmanhuala.cc', 'chunaa.sectigo.pp.ua', 'www.kuaikan66.com', 'china.tencentapp.cn', 'spca.114514782.xyz', 'ks50.cc', 'm.kanmanhuala.cc', 'gangsiwang.org', 'm.niuerzs.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', '233dm.net', 'www.iios.me', 'jp57.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 434b.com...
+Performing DNS lookup for jp57.cc...
+Performing DNS lookup for cgdd.digicert.pp.ua...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

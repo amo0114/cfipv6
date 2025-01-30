@@ -2,31 +2,42 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	434b.com
-Address: 104.21.62.29
-Name:	434b.com
-Address: 172.67.219.29
-Name:	434b.com
-Address: 2606:4700:3030::ac43:db1d
-Name:	434b.com
-Address: 2606:4700:3034::6815:3e1d
+Name:	www.petitbaby.com.uy
+Address: 104.21.48.1
+Name:	www.petitbaby.com.uy
+Address: 104.21.96.1
+Name:	www.petitbaby.com.uy
+Address: 104.21.80.1
+Name:	www.petitbaby.com.uy
+Address: 104.21.32.1
+Name:	www.petitbaby.com.uy
+Address: 104.21.16.1
+Name:	www.petitbaby.com.uy
+Address: 104.21.112.1
+Name:	www.petitbaby.com.uy
+Address: 104.21.64.1
+Name:	www.petitbaby.com.uy
+Address: 2606:4700:3030::6815:3001
+Name:	www.petitbaby.com.uy
+Address: 2606:4700:3030::6815:5001
+Name:	www.petitbaby.com.uy
+Address: 2606:4700:3030::6815:4001
+Name:	www.petitbaby.com.uy
+Address: 2606:4700:3030::6815:2001
+Name:	www.petitbaby.com.uy
+Address: 2606:4700:3030::6815:7001
+Name:	www.petitbaby.com.uy
+Address: 2606:4700:3030::6815:1001
+Name:	www.petitbaby.com.uy
+Address: 2606:4700:3030::6815:6001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-jp57.cc	canonical name = clt4b.lxozg.rest.
-clt4b.lxozg.rest	canonical name = clt4b.j2m.cc.
-Name:	clt4b.j2m.cc
-Address: 104.168.30.119
+** server can't find www.xtep9cnx.cn: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-cgdd.digicert.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global30.66666654.xyz.
-Name:	cfcn-b-global30.66666654.xyz
-Address: 104.18.115.169
+** server can't find nn99qq.com: NXDOMAIN
 
