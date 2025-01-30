@@ -2,50 +2,46 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.manhuadb.com
-Address: 104.21.112.1
-Name:	www.manhuadb.com
-Address: 104.21.64.1
-Name:	www.manhuadb.com
-Address: 104.21.16.1
-Name:	www.manhuadb.com
-Address: 104.21.48.1
-Name:	www.manhuadb.com
-Address: 104.21.96.1
-Name:	www.manhuadb.com
-Address: 104.21.80.1
-Name:	www.manhuadb.com
-Address: 104.21.32.1
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:1001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:4001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:7001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:3001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:6001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:5001
-Name:	www.manhuadb.com
-Address: 2606:4700:3030::6815:2001
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find m.hba345.net: NXDOMAIN
+Name:	www.k777p.com
+Address: 23.225.33.89
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	response.fr
-Address: 104.21.34.175
-Name:	response.fr
-Address: 172.67.163.141
-Name:	response.fr
-Address: 2606:4700:3037::ac43:a38d
-Name:	response.fr
-Address: 2606:4700:3031::6815:22af
+Name:	www.perthbbs.com
+Address: 104.21.32.1
+Name:	www.perthbbs.com
+Address: 104.21.80.1
+Name:	www.perthbbs.com
+Address: 104.21.96.1
+Name:	www.perthbbs.com
+Address: 104.21.48.1
+Name:	www.perthbbs.com
+Address: 104.21.64.1
+Name:	www.perthbbs.com
+Address: 104.21.16.1
+Name:	www.perthbbs.com
+Address: 104.21.112.1
+Name:	www.perthbbs.com
+Address: 2606:4700:3030::6815:3001
+Name:	www.perthbbs.com
+Address: 2606:4700:3030::6815:4001
+Name:	www.perthbbs.com
+Address: 2606:4700:3030::6815:5001
+Name:	www.perthbbs.com
+Address: 2606:4700:3030::6815:6001
+Name:	www.perthbbs.com
+Address: 2606:4700:3030::6815:7001
+Name:	www.perthbbs.com
+Address: 2606:4700:3030::6815:2001
+Name:	www.perthbbs.com
+Address: 2606:4700:3030::6815:1001
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.cgnclpes.com
+Address: 154.7.124.246
 

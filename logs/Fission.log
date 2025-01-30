@@ -25850,3 +25850,24 @@ Performing DNS lookup for www.antiques2018.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e90e0ec] Update project files
+ 4 files changed, 75 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   712aecf..e90e0ec  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.33.122...
+Fetching domains for 104.18.45.231...
+Fetching domains for 198.41.209.142...
+succeed to fetch domains for 198.41.209.142 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.45.231 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.33.122 from https://dnsdblookup.com/
+域名列表为
+['akkk77.com', 'pcchj.com', 'www.4148.net', 'suboji.com', 'ipdb.rr.nu', 'www.yxxueyuan.xyz', 'qp66.com', 'www.ssjv4.com', 'www.nsisfans.com', 'www.huanyaad.com', 'bxwz9.org', 'jpvsavhyu.76898102.xyz', 'seyyah.az', 'www.reddit.com', 'www.quanji55.com', 'www.kingdicg.com', 'www.tv125.com', 'www.lnudz.com', 'response.fr', 'www.ugome.com', 'pan.lyc8503.site', 'www.smdyy.cc', 'ssjv4.com', 'mine.pool.gold', '567883.net', 'www.4gdiy.com', 'cfip.xxxxxxxx.tk', 'www.baiitv.com', 'abeat.wang', 'www.whsbwl.com', 'www.icehua.cc', 'www.manhuadb.com', 'kmsm.wwysw.cn', 'm.hba345.net', 'qq1198.cn', 'www.xxootl.com', 'www.zzgszg.com', 'www.63ws.com', 'coochem.com', 'www.52biqv.com', 'wsm.wwysw.cn', 'www.999dh.cc', 'www.wei333.com', 'www.boyangjt.com', 'fjyxjs.com', 'yjqsw.com', 'www.90dushu.com', '6.namesilo123.top', 'www.avav2279.com', 'www.qp666.com', 'www.pcchj.com', 'yxxueyuan.xyz', 'hg1599.com', 'www.trekinc.com', 'www.sxstv2.xyz', 'uu93.com', 'www.gdcp77.com', 'www.vexchile.tk', 'ks20.cc', 'www.vcd.la', 'www.qf527.com', 'www.suboji.com', 'jqggzyjy.com.cn', 'www.theedlos.com', 'www.606977.com', 'www.116.ag', 'www.tinghen.com', 'billionaire.finance', 'www.qingjunlu3.com', 'kozan.gr', 'm.avav2279.com', 'www.akkk77.com', '63ws.com', 'hawaii.facts.co', 'www.hanmatv.com', 'yh6.dtku41.xyz', 'www.6i5.com', 'www.11txt.com', 'blog.hostmonit.com', '599m.com', 'vipdslxj.com', 'chinanewswire.com', 'www.bestmov.net', 'www.nicktalk.com', 'www.tv9090.com', 'hba345.net', 'russiaflag.facts.co', 'avav2279.com', 'sxstv2.xyz', 'www.sf52l.com', 'www.coochem.com', 'www.edivaldobrito.com.br', '8810868.com', 'www.dbl889x.cn', 'www.scxdexx.com', 'dmg9999.com', 'www.96dushu.com', 'tweetsrepeat.com', 'www.ddwhm.com', 'www.kbss888.com', 'www.28dushu.com', 'www.599m.com', '521vr.com', 'nicktalk.com', 'gdcp77.com', 'n-bb.com', 'kkyx.yydsii.com', 'www.ynradiology.net', 'www.shengwanggongcheng.com', 'www.adventsports.in', 'yx.887141.xyz', 'www.sf123.mobi', 'www.uu93.com', 'hglt.cc', '606977.com', 'www.pwcai.com', 'www.yh9pk.com', 'www.wn05.cc', '7.namesilo123.top', 'www.207my.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.manhuadb.com...
+Performing DNS lookup for m.hba345.net...
+Performing DNS lookup for response.fr...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
