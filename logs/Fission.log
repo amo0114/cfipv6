@@ -26218,3 +26218,25 @@ Performing DNS lookup for www.714pa.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9c46a56] Update project files
+ 4 files changed, 251 insertions(+), 21 deletions(-)
+ rewrite Fission_ip_backup.txt (87%)
+To github.com:amo0114/cfipv6.git
+   77bfd36..9c46a56  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.23.26...
+Fetching domains for 104.18.79.55...
+Fetching domains for 198.41.219.125...
+succeed to fetch domains for 198.41.219.125 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.79.55 from https://site.ip138.com/
+succeed to fetch domains for 104.18.23.26 from https://ipchaxun.com/
+域名列表为
+['920cd.com', 'www.a456sh.com', 'www.xxxlutz.at', 'tunneltransfer.bpyjc.com', 'pay1.hnxineran.com', 'www.tockt.com', 'freeyx.cloudflare88.eu.org', 'www.esp345.com', 'xxxlutz.at', 'www.jollibee.com.cdn.cloudflare.net', 'www.kbss888.com', 'jollibee.com.cdn.cloudflare.net', 'a456sh.com', 'checkpeople.com', 'yx.887141.xyz', 'fa1.fun', 'jollibee.com', 'www.yh9pk.com', 'yh6.dtku41.xyz', 'gazette2.nat.gov.tw', 'www.ddwhm.com', 'www.920cd.com', 'adapitvivo.sonicvpn.xyz', 'ttt551.com', 'ipdb.rr.nu', 'www.3345ze.com', 'www.eee206.com', 'www.ttt551.com', '5567ee.com', 'b312.cc', 'acus.cloudflarest.link', 'www.jollibee.com', 'www.5567ee.com', 'b314.cc', 'www.4hudy110.com', 'eee206.com', 'www.nsisfans.com', 'jpaa.sectigo.pp.ua']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.esp345.com...
+Performing DNS lookup for jollibee.com.cdn.cloudflare.net...
+Performing DNS lookup for ipdb.rr.nu...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
