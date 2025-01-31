@@ -26131,3 +26131,24 @@ Performing DNS lookup for www.zzztch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0dd8f5c] Update project files
+ 4 files changed, 42 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   219bf13..0dd8f5c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 141.101.114.103...
+Fetching domains for 104.18.1.228...
+Fetching domains for 104.19.165.108...
+succeed to fetch domains for 104.19.165.108 from https://dnsdblookup.com/
+succeed to fetch domains for 141.101.114.103 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.1.228 from https://ipchaxun.com/
+域名列表为
+['suboji.com', 'www.3678bu.com', 'www.92mili.com', 'www.90dushu.com', 'www.b7yy.cc', 'www.doncasterroversfc.co.uk', 'www.x52bq.com', 'whpaiger.com', 'v.yese5577.com', 'www.zsych.net', 'www.uu93.com', 'www.whjinwu.com', 'www.betdaq.com', 'cdn.didi8.com', 'android.cars.booking.com', 'www.96dushu.com', 'www.cfhuagong.com', 'www.yallapay.tech', 'www.zhiqihuo.com', 'www.yx521.net', 'www.suka789.com', 'www.instanthome.com', 'm.50zw.co', 'www.4huff57.com', '77ty.com', '52ys.cc', 'e0101.com', 'hyrzs.com', 'www.m90s.com', 'a456fn.com', 'naimilu.com', 'ydxs.cc', 'mwi345.com', 'www.yjys05.com', '75uw.com', 'www.bfb3.com', '7sc.cc', 'www.50zw.co', 'www.jyzygdyy.com', 'www.yy4080dy.com', '1.sanfen001.top', 'blog.hostmonit.com', 'www.28dushu.com', 'www.zzgszg.com', 'www.lyzdzy.com', 'www.tv9090.com', '7z9a.com', 'www.letu9.com', 'www.linnuozs.com', 'm.anluyg.net', 'www.kunzedu.com', 'www.fnyy666.com', 'www.28et.com', 'cars.volotea.com', 'manhuadb.com', 'www.ef233.com', 'www.heinu.cc', 'www.5g5gyy.com', 'm.niuerzs.com', 'www.nmhydz.com', 'www.goldbullios.com', '28et.com', 'zi0.cc', 'www.hnxinlian.org', 'www.55evd.com', 't.999pay.cc', '17800.net', 'www.nba01.com', 'uu93.com', 'www.558q.com', 'www.penglecheng.com', 'www.4148.net', 'www.sintingtoys.com', 'www.1a1v.com', 'm.bqg789.co', 'www.kxgdyw.com', 'www.tinghen.com', 'www.520film.net', 'www.rentalcars.com', 'www.bdx100.com', 'www.75uw.com', 'cfhuagong.com', '789ys.com', 'www.wxxzzs.com', 'www.p88.bet', 'www.manhuadb.com', 'definedcrowd.com', 'neevo.definedcrowd.com', '4huff57.com', '3678bu.com', 'www.11txt.com', 'www.66se1.com', 'yyxycn.com', 'www.eac.gov.hk', 'bdx100.com', 'fl.kingdu.top', 'www.yncareer.com', 'www.cbcv.cc', 'www.whpaiger.com', 'www.0550cq.com', 'www.tpyyc.com', 'www.223ss.com', 'yallapay.tech', 'www.zzztch.com', 'www.bjyongcheng.com', 'tv9090.com', 'www.dududy.com', 'www.a456fn.com', 'housingwire.com', 'www.boyangjt.com', 'www.iios.club', 'www.kukedy.tv', 'www.nangua55.com', 'm.zhiqihuo.cc', 'qiangkouzhao.com', 'pwcai.com', 'm.28dushu.com', 'www.630book.com', 'www.4hur64.com', 'mg.dnlmy.com', 'www.6i5.com', 'www.web120.org', '4gdiy.com', 'www.itt9.com', 'm.letu9.com', 'yjys05.com', 'ef233.com', 'upe.dnlmy.com', 'www.anluyg.net', 'www.7sc.cc', 'xs.wxtv.cc', 'rentalcars.com', 'www.cocanwelding.com', 'kk554.com', 'carrental.icelandair.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.m90s.com...
+Performing DNS lookup for blog.hostmonit.com...
+Performing DNS lookup for www.cocanwelding.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
