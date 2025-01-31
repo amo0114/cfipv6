@@ -26174,3 +26174,25 @@ Performing DNS lookup for www.52ys.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a1a6510] Update project files
+ 4 files changed, 91 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   0044103..a1a6510  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.69.56...
+Fetching domains for 104.17.80.192...
+Fetching domains for 104.18.226.139...
+succeed to fetch domains for 104.18.69.56 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.80.192 from https://site.ip138.com/
+succeed to fetch domains for 104.18.226.139 from https://ipchaxun.com/
+域名列表为
+['www.88viptl.com', 'www.xz898my.com', '606977.com', 'caw.qingsanwh.com', 'www.cfhuagong.com', 'www.889tl.cn', 'www.yh9pk.com', 'www.ardene.com', 'www.wubei520.com', 'www.m6y6.com', 'www.jg666.top', 'www.rxjh520.cc', 'dzy66666.com', 'www.93xscc.com', 'www.cx888my.com', 'www.yunfanyi.net', 'www.wn03.cc', 'www.kuaikan66.com', 'www.8828pk.com', 'yiqi1234.com', 'www.85xs.cc', 'www.lyzdzy.com', 'q5x7.com', 'all.ayangzywlkj.cn', 'www.1101tl.cn', 'yx.cloudflare.182682.xyz', 'www.xkyy899.com', 'xinyi176.com', 'www.679077.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yx.cloudflare.182682.xyz...
+Performing DNS lookup for q5x7.com...
+Performing DNS lookup for yiqi1234.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

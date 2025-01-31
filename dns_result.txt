@@ -2,53 +2,23 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	yx.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	yx.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	yx.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	yx.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	yx.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	yx.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	yx.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	yx.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	yx.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	yx.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
+www.ddwhm.com	canonical name = csgo.com.
+Name:	csgo.com
+Address: 195.85.59.95
+Name:	csgo.com
+Address: 195.85.59.161
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-q5x7.com	canonical name = hty.95112475.xyz.
-Name:	hty.95112475.xyz
-Address: 104.21.24.218
-Name:	hty.95112475.xyz
-Address: 172.67.220.218
-Name:	hty.95112475.xyz
-Address: 2606:4700:3037::6815:18da
-Name:	hty.95112475.xyz
-Address: 2606:4700:3033::ac43:dcda
+Name:	achk.cloudflarest.link
+Address: 185.53.178.50
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-yiqi1234.com	canonical name = host1111776b.c2.huyuncdn.xyz.
-host1111776b.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
+Name:	www.714pa.com
+Address: 172.247.193.92
 
