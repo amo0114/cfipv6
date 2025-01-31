@@ -26066,3 +26066,25 @@ Performing DNS lookup for 5baw2w.lol...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7e18360] Update project files
+ 4 files changed, 64 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   b526545..7e18360  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.245.36...
+Fetching domains for 104.26.15.55...
+Fetching domains for 104.21.29.122...
+succeed to fetch domains for 104.17.245.36 from https://site.ip138.com/
+succeed to fetch domains for 104.26.15.55 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.29.122 from https://ipchaxun.com/
+域名列表为
+['www.niuniu9.com', 'aquacarpatica.com', 'xinjuc.com', 'av90.11xb.top', 'xo83.11xb.top', 'www.30moyu.top', 'www.tockt.com', 'secure.communilink.net', 'www.kbss888.com', 'xb56.11xb.top', 'www.oneforex.eu', '021tswl.cn', 'kobal.cc', 'brunomarcshoes.com', '93cool.com', 'yiqi1234.com', 'listverse.com', 'eporner.video', 'www.dcs99.com', 'animecorner.me', 'av12.11xb.top', 'yyds38.11xb.top', 'support.communilink.net.cdn.cloudflare.net', 'www.cc11xx.com', 'www.leadingedgeonly.com', 'www.666rrx.com', 'xb99.11xb.top', 'www.communilink.net.cdn.cloudflare.net', 'www.tx58tl.com', 'www.yan176.com', 'ordodev.com', 'www.lyzdzy.com', 'www.tjss888.com', 'passport.easyeda.com', 'hb19.shop', 'www.zddzd.top', 'yyds84.11xb.top', 'prox-e.io', 'fearlessrevolution.com', 'noodlemagazine.com', 'www.8899tl.com', 'piapi.ai', 'www.techup.it', 'yyds24.11xb.top', 'polls.animecorner.me', 'ygtdgroup.com', 'admin.tpaycloud.com', 'cao20.11xb.top', 'xb68.11xb.top', 'zhenzhikang.com', 'mm6.11xb.top', 'www.e0101.com', 'tploein.cn', 'www.ekmov.com', 'www.115fhd.com', 'm6y6.com', '69s3.xyz', 'www.shy6666.com', 'www.9415hf.com', 'laowang.co', 'www.ldssz.com', 'av54.11xb.top', 'www.6988tv.com', 'xo8.11xb.top', 'index1.xxm3u8.top', 'www.yh9pk.com', '69xx463.xyz', 'www.imjshop.com', 'coopgg.kr', 'xo46.11xb.top', 'topearl.com', 'www.wubei520.com', 'www.mir1888.com', 'xb39.11xb.top', 'wap.gsywqq.top', 'www.xz898my.com', 'hsc689.com', 'hoututea.com', 'xo11.11xb.top', 'www.9898my.top', 'farmskins.kobal.cc', 'www.44ttttt.com', 'm.6988tv.com', 'xo79.11xb.top', 'kpdd.com', 'easyeda.com', 'w88d.com', 'av25.11xb.top', 'www.jg666.top', 'cdn-msp.jmapiproxy1.cc', 'm.niuerzs.com', 'www.w88d.com', 'www.gamegamept.com', 'luwangyangrong.com', 'gg045.com', 'sm.zhilingli.cn', 'adult.noodlemagazine.com', 'mayfairgallery.com', 'www.456gg.com', 'ysz8.com', 'm.kuaikan66.com', 'www.hhyy028.com', 'www.luwangyangrong.com', 'www.tlbb888.com', 'cao3.11xb.top', 'milfordlive.com', 'ykdyj.com', 'techup.it', 'www.5v1.com', 'www.jqbyjpoproject.life', 'zlcq520.com', 'www-105.com', 'mm81.11xb.top', 'www.ub888.com', 'w9.hsc689.com', 'xb84.11xb.top', 'ghanasoccernet.com', 'www.993my.com', 'mm29.11xb.top', 'www.pk299.com', 'www.zzkdhb.com', 'amoebi.com', 'www.dzy66666.com', '220.69s3.xyz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.dnshtcb.pp.ua', 'www.racingheadservice.com', 'www.ganpian.com', 'www.m6y6.com', 'www.xz898my.vip', 'egames.vbb6.club', 'www.wn03.cc', 'www.e2door.com', 'www.zhenzhikang.com', 'load.19pop.top', 'gpswox.com', 'aoxvpn.com', 'www.5k2m.com', 'auth.kobal.cc', 'audiobookstore.com', 'jzss180.com', 'www.gsywqq.top', 'www.www-105.com', 'leadingedgeonly.com', 'www.iios.club', 'www.kpdd.com', 'bw11122.com', 'gsywqq.top', 'av67.11xb.top', 'support.communilink.net', 'www.ygdy8.cc', 'oneforex.eu', 'kuku067.xyz', 'secure.communilink.net.cdn.cloudflare.net', 'swats.net', 'connect.vbb6.club', 'www.xxootl.com', 'www.tzfdnr.com', 'xxootl.com', 'www.tl123123.com', 'www.88wwk.com', 'www.zlcq520.com', 'ipdb.me', 'www.aoxvpn.com', 'bbty3vip1.com', 'www.7lq.com', 'karwan.tv', '666rrx.com', 'www.cx888my.com', 'www.communilink.net', 'cc11xx.com', 'www.eporner.video', 'www.tpyyc.com', 'www.5522tl.com', 'www.92mili.com', 'qqhaoniu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cdn-msp.jmapiproxy1.cc...
+Performing DNS lookup for www.oneforex.eu...
+Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.dnshtcb.pp.ua...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
