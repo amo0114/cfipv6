@@ -26088,3 +26088,25 @@ Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.dnshtcb.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f181e26] Update project files
+ 4 files changed, 56 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   7e18360..f181e26  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.219.71...
+Fetching domains for 104.17.45.14...
+Fetching domains for 104.18.77.160...
+succeed to fetch domains for 104.18.77.160 from https://site.ip138.com/
+succeed to fetch domains for 198.41.219.71 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.45.14 from https://ipchaxun.com/
+域名列表为
+['www.cocanwelding.com', 'www.anluyg.net', 'www.ddwhm.com', 'cgdd.digicert.pp.ua', 'jpvsavhyu.76898102.xyz', 'qr99.cc', 'kkyx.yydsii.com', 'www.cgltg.com', 'xfltd.net', 'nlsdwsz.66666654.xyz', 'mtav.xyz', 'baxtc.66666654.xyz', 'g276.cc', 'www.myvod360.com', 'cnjunjie.com', 'www.lyzdzy.com', 'yx.887141.xyz', 'yh6.dtku41.xyz', 'www.iios.club', 'rn.cneupa.com', 'www.dqhedu.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for g276.cc...
+Performing DNS lookup for xfltd.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
