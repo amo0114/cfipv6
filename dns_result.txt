@@ -2,34 +2,53 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	firstwordpharma.com
-Address: 104.18.30.185
-Name:	firstwordpharma.com
-Address: 104.18.31.185
-Name:	firstwordpharma.com
-Address: 2606:4700::6812:1eb9
-Name:	firstwordpharma.com
-Address: 2606:4700::6812:1fb9
+Name:	yx.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	yx.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	yx.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	yx.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	yx.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	yx.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	yx.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	yx.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	yx.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	yx.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.yuniku.dk	canonical name = www.yuniku.dk.dxcloud.episerver.net.
-www.yuniku.dk.dxcloud.episerver.net	canonical name = www.yuniku.dk.cdn.cloudflare.net.
-Name:	www.yuniku.dk.cdn.cloudflare.net
-Address: 104.18.32.114
-Name:	www.yuniku.dk.cdn.cloudflare.net
-Address: 172.64.155.142
-Name:	www.yuniku.dk.cdn.cloudflare.net
-Address: 2606:4700:4400::ac40:9b8e
-Name:	www.yuniku.dk.cdn.cloudflare.net
-Address: 2606:4700:4400::6812:2072
+q5x7.com	canonical name = hty.95112475.xyz.
+Name:	hty.95112475.xyz
+Address: 104.21.24.218
+Name:	hty.95112475.xyz
+Address: 172.67.220.218
+Name:	hty.95112475.xyz
+Address: 2606:4700:3037::6815:18da
+Name:	hty.95112475.xyz
+Address: 2606:4700:3033::ac43:dcda
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.52ys.cc
-Address: 103.135.32.107
+yiqi1234.com	canonical name = host1111776b.c2.huyuncdn.xyz.
+host1111776b.c2.huyuncdn.xyz	canonical name = cf.host106.69sf.cn.
+Name:	cf.host106.69sf.cn
+Address: 104.21.10.55
+Name:	cf.host106.69sf.cn
+Address: 172.67.131.63
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3031::ac43:833f
+Name:	cf.host106.69sf.cn
+Address: 2606:4700:3037::6815:a37
 
