@@ -26196,3 +26196,25 @@ Performing DNS lookup for yiqi1234.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 77bfd36] Update project files
+ 4 files changed, 56 insertions(+), 69 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   a1a6510..77bfd36  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.29.226...
+Fetching domains for 104.18.161.214...
+Fetching domains for 104.18.178.236...
+succeed to fetch domains for 104.18.178.236 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.161.214 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.29.226 from https://site.ip138.com/
+域名列表为
+['achk.cloudflarest.link', 'www.99wx.cc', 'www.ftvnews.com.tw.cdn.cloudflare.net', 'www.58ha.com', 'www.w23us.com', 'www.luobodm.com', 'www.1stsource.com', 'conjur.org', 'ftvnews.com.tw.cdn.cloudflare.net', '714pa.com', 'www.nyafun.net', 'www.h0328r.com', 'pcpartpicker.com', 'www.714pa.com', 'a123yk.com', 'www.idamidm.com', 'www.xwsxs.com', '1stsource.com', 'www.a123yk.com', 'www.93xscc.com', 'www.85xscc.com', 'www.igamebuy.com', 'www.985dm.com', 'www.bfn4.com', 'make-up.rs', 'dongguanchangfang.com', 'bfn4.com', 'idamidm.com', 'www.cdbxxs.com', 'www.tpyyc.com', 'yx.887141.xyz', 'cgcc.digicert.pp.ua', 'www.luwangyangrong.com', 'www.ftvnews.com.tw', 'h5.cdbxxs.com', 'www.damidm.com', 'venice.ai', 'www.ddwhm.com', 'fpt.com.vn', 'bufjr.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ddwhm.com...
+Performing DNS lookup for achk.cloudflarest.link...
+Performing DNS lookup for www.714pa.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
