@@ -26044,3 +26044,25 @@ Performing DNS lookup for blog.0306099.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b526545] Update project files
+ 4 files changed, 73 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   8568653..b526545  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.93.80...
+Fetching domains for 104.21.24.234...
+Fetching domains for 104.17.70.120...
+succeed to fetch domains for 104.21.24.234 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.70.120 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.93.80 from https://site.ip138.com/
+域名列表为
+['www.993my.com', 'www.rapala.com', 'vonshef.com', 'www.wubei520.com', 'www.yudongyuanli.com', 'www.terminatorlures.com', 'www.aleksi13.fi', 'www.sm611.com', 'cdn.gitmirror.com', 'xn--verkty-fya.no', 'eshop.elfetex.cz', 'hjf7e08.top', '789club.miami', 'h3tb2q.mom', 'www.mdpowb.top', 'rolloid.net', 'zilizili.cn', 'www.hydroscand.cn', 'www.824959.com', '824959.com', '54maoap.com', 'wap.mdpowb.top', 'www.vonshef.com', 'www.preservatifsenligne.fr', '91md930.cc', 'allmywebneeds.com', 'm.mdpowb.top', 'www.hydroscand.se', 'm.raw.gitmirror.com', 'shop.sunny.eu', 'www.hhyy028.com', 'www.bjornborg.com', 'www.xhdotk.cn', 'www.stigasports.com', 'www.8828pk.com', 'www.rugs-direct.com', 'onlyfans.cloudns.ch', 'raw.gitmirror.com', 'www.modshop.se', '886129.com', 'www.yh9pk.com', 'my.onlyfans.cloudns.ch', 'www.porsgrund.com', 'www.jg666.top', '3g.gmkyyoyo.top', 'monstainfinite.com', '3g.mdpowb.top', 'cfip.xxxxxxxx.tk', 'kalustekauppa.com', 'm.gmkyyoyo.top', 'elon.se', 'veke.fi', 'www.rxjh520.cc', 'www.szkoford.com', 'bluefox.com', 'bdyy1.xyz', 'www.kaubamaja.ee', 'epirocmarketplace.com', 'tuyuyun.com', '8q31ll.h3tb2q.mom', 'audiovideo.se', 'wap.gmkyyoyo.top', 'raw.raw.gitmirror.com', 'www.x8c5e.com', 'icepeak.fi', 'rapala.ca', 'maturein.com', 'www.dafuhao.com', 'md1145.xyz', 'porsgrund.com', 'furrypornyiff.com', 'pornsitefree.com', 'by2258.cn', 'www.5522tl.com', 'www.dcs99.com', 'www.kunzedu.com', 'www.stormlures.com', 'www.hydroscand.fi', 'www.jjtyss.com', 'www.cocanwelding.com', '023aa.com', 'shop.royalacademy.org.uk', 'meka.eu', 'hub.gitmirror.com', 'www.kalustekauppa.com', '88av493.xyz', 'www.bodyaction.fi', 'www.wn03.cc', 'www.elon.se', 'www.rapala.ca', 'de.gant.com', '5baw2w.lol', 'www.lyzdzy.com', 'www.wayutan023.com', 'gmkyyoyo.top', 'www.levelshoes.com', 'www.engelsons.se', 'uu490.com', 'rils.com', 'gist.gitmirror.com', 'www.rapala.fi', 'tp2301.cc', 'sillasiisti.fi', 'clustarai.com', 'x8c5e.com', 'www.sauuu.com', 'www.kalevalakoru.fi', 'www.elfetex.cz', 'www.raw.gitmirror.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for eshop.elfetex.cz...
+Performing DNS lookup for www.preservatifsenligne.fr...
+Performing DNS lookup for 5baw2w.lol...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

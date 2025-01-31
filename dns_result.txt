@@ -2,38 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-eshop.elfetex.cz	canonical name = www.elfetex.cz.
-www.elfetex.cz	canonical name = www.elfetex.cz.edgekey.net.
-www.elfetex.cz.edgekey.net	canonical name = e127670.dsca.akamaiedge.net.
-Name:	e127670.dsca.akamaiedge.net
-Address: 23.58.144.145
-Name:	e127670.dsca.akamaiedge.net
-Address: 23.58.144.141
-Name:	e127670.dsca.akamaiedge.net
-Address: 2600:140e:6::17db:acb9
-Name:	e127670.dsca.akamaiedge.net
-Address: 2600:140e:6::17db:acb7
+Name:	cdn-msp.jmapiproxy1.cc
+Address: 104.21.66.212
+Name:	cdn-msp.jmapiproxy1.cc
+Address: 172.67.164.97
+Name:	cdn-msp.jmapiproxy1.cc
+Address: 2606:4700:3035::ac43:a461
+Name:	cdn-msp.jmapiproxy1.cc
+Address: 2606:4700:3031::6815:42d4
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.preservatifsenligne.fr	canonical name = preservatifsenligne.fr.
-Name:	preservatifsenligne.fr
-Address: 46.246.44.173
-Name:	preservatifsenligne.fr
-Address: 2a02:752:0:18::14d6
+www.oneforex.eu	canonical name = ghs.google.com.
+Name:	ghs.google.com
+Address: 142.250.76.19
+Name:	ghs.google.com
+Address: 2404:6800:4005:818::2013
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	5baw2w.lol
-Address: 23.225.189.180
-Name:	5baw2w.lol
-Address: 23.225.189.182
-Name:	5baw2w.lol
-Address: 23.225.189.206
-Name:	5baw2w.lol
-Address: 23.225.189.204
+xn--vjqt4ya07q.xn--vjqt4ya07q.dnshtcb.pp.ua	canonical name = speed-freefly-cunttb-nrt.dnshtcb.pp.ua.
+speed-freefly-cunttb-nrt.dnshtcb.pp.ua	canonical name = cfcn-cu-nrt-nttb6.dnshtca.pp.ua.
+Name:	cfcn-cu-nrt-nttb6.dnshtca.pp.ua
+Address: 104.20.29.97
 
