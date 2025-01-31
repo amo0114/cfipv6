@@ -26110,3 +26110,24 @@ Performing DNS lookup for xfltd.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 219bf13] Update project files
+ 4 files changed, 37 insertions(+), 19 deletions(-)
+To github.com:amo0114/cfipv6.git
+   f181e26..219bf13  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.59.198...
+Fetching domains for 104.18.2.61...
+Fetching domains for 141.101.114.19...
+succeed to fetch domains for 104.19.59.198 from https://dnsdblookup.com/
+succeed to fetch domains for 141.101.114.19 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.2.61 from https://ipchaxun.com/
+域名列表为
+['www.hhyy028.com', 'www.web120.org', 'www.hnhcbw.com', 'm.niuerzs.com', 'www.whpaiger.com', '52biqv.com', 'www.pk299.com', 'www.shy6666.com', 'www.4gdiy.com', '299er.com', 'www.lrjyllh.com', 'www.mdv345.com', 'www.du114.com', 'www.tinghen.com', 'www.4148.net', 'www.kuaikan66.com', 'm.dianshiba.cc', 'bestcf.onecf.eu.org', 'pan.clun.top', 'www.gdriustb.com', 'givingpledge.org', 'du114.com', 'ipdb.rr.nu', 'www.299er.com', 'uu93.com', 'www.wubei520.com', 'www.shenlong76.com', '4huf39.com', 'www.3dck.com', 'www.sixyin.com', 'www.7sc.cc', 'www.bfb3.com', 'www.ei01.com', 'cfip.xxxxxxxx.tk', 'www.linnuozs.com', 'www.yhddsb.com', 'tsdingxin.com', 'achk.cloudflarest.link', 'www.lyzdzy.com', 'www.cu90.com', 'www.k77yy.com', 'stock.hostmonit.com', 'www.whwanet.com', 'mdv345.com', 'www.whjinwu.com', 'ct.090227.xyz', 'laowang.co', 'www.2594hu.com', 'www.711de.com', '711de.com', 'www.c333.net', 'www.tuozhan021.com', 'www.6i5.com', 'www.2789rr.com', 'www.4huf39.com', 'www.uu93.com', 'www.cocanwelding.com', '011b.com', 'www.hnxinlian.org', 'www.96dushu.com', 'www.cx888my.com', 'm.6i5.com', 'www.cfhuagong.com', 'm.du114.com', 'penglecheng.com', 'www.28dushu.com', 'www.tlbb888.com', 'www.yncareer.com', 'www.28et.com', 'whjinwu.com', '2789rr.com', 'www.5522tl.com', 'www.kukedy.tv', 'www.penglecheng.com', 'www.sjzsckj.com', '4gdiy.com', 'zyjsgc.cn', 'www.kanju8.com', 'www.888dyy.cc', 'www.qiukwi.com', 'www.m6y6.com', 'www.yan176.com', 'www.zzztch.com', 'www.paizipai.top', 'www.yjys05.com', 'www.manpower.de']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for penglecheng.com...
+Performing DNS lookup for 4huf39.com...
+Performing DNS lookup for www.zzztch.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
