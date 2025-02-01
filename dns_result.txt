@@ -1,23 +1,32 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.91m.cc: NXDOMAIN
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find vv.fefz.link: NXDOMAIN
+Non-authoritative answer:
+Name:	www.larp.com
+Address: 173.236.247.126
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	birkin4u.com
-Address: 104.21.31.252
-Name:	birkin4u.com
-Address: 172.67.181.224
-Name:	birkin4u.com
-Address: 2606:4700:3032::6815:1ffc
-Name:	birkin4u.com
-Address: 2606:4700:3031::ac43:b5e0
+Name:	www.candoifp.com
+Address: 104.18.7.223
+Name:	www.candoifp.com
+Address: 104.18.6.223
+Name:	www.candoifp.com
+Address: 2606:4700::6812:6df
+Name:	www.candoifp.com
+Address: 2606:4700::6812:7df
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.gumanxs.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.144.72
+Name:	ips.993888.xyz
+Address: 104.17.131.30
+Name:	ips.993888.xyz
+Address: 104.17.240.169
 

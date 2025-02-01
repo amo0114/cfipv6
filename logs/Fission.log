@@ -26417,3 +26417,25 @@ Performing DNS lookup for www.52ys.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d4ee585] Update project files
+ 4 files changed, 53 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (94%)
+To github.com:amo0114/cfipv6.git
+   5a14228..d4ee585  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.164.34...
+Fetching domains for 104.21.67.29...
+Fetching domains for 104.18.76.176...
+succeed to fetch domains for 104.21.67.29 from https://site.ip138.com/
+succeed to fetch domains for 104.18.76.176 from https://site.ip138.com/
+succeed to fetch domains for 104.18.164.34 from https://ipchaxun.com/
+域名列表为
+['www.szrunqie.com', 'funnyeshops.com', 'www.mozilla.org', 'sj.amyh6899.com', 'www.sgrxfvs.cn', 'www.93xscc.com', 'chunaa.sectigo.pp.ua', 'redporn.tv', '456gg.com', 'colorfulpackaging.com', 'www.syzhengteng.com', 'lv626.com', 'hhk99.cfd', 'www.75xs.cc', 'www.pbbabes.net', 'www.88yy6.com', '5jqte.com', 'meikebi.com', 'birkin4u.com', 'fdvinacs.66666654.xyz', 'www.topfreealternative.com', 'www.w1tch.net', 'wap.tjdhlrv.icu', 'anifap.me', 'tjdhlrv.icu', 'ek8.mom', 'm.tjdhlrv.icu', 'www.mvtviqg.cn', 'www.tjdhlrv.icu', 'www.91m.cc', 'man.luwangyangrong.com', '255cd.com', 'v6v322.xyz', 'www.skiespro.net', 'wap.meikebi.com', 'ygbb.rapidssl.pp.ua', '2466.us', 'www.szwanliheng.com', 'n3j.cc', '728cc.com', '8mav747.com', 'vk903.cn', 'y.f532.cn', 'www.elitescorthatun.com', 'www.728cc.com', 'jpdd.entrust.pp.ua', 'qiqicn.com', 'zzzttt04.su', 'nlsdwsz.66666654.xyz', 'kisssub.org', '525358.com', 'aab6a9.lol', 'www.qunhi.cn', 'www.mukamusiccenter.com', 'www.nyafun.net', 'bioporno.com', 'm.nrt78.net', 'www.f532.cn', 'mukamusiccenter.com', 'www.heihukouzi.cn', 'vv.fefz.link', 'all2099.cc', '3g.tjdhlrv.icu', 'cdok.dig839.xyz', 'ne.kotarchina.com', 'f532.cn', 'www.nrt78.net', 'v5529sp8tm.xyz', 'www.qiqicn.com', 'w1tch.net', 'spca.114514782.xyz', 'sxchinesegirlz.one', 'm.kisssub.org', 'luwangyangrong.com', 'www.2061418.com', 'www.birkin4u.com', 'www.meikebi.com', 'www.zzzttt04.su', 'www.rytmqvf.cn', 'pulvis.net', 'nrt78.net', 'www.tb8881.com', 'www.luwangyangrong.com', 'www.colorfulpackaging.com', '1666568.com', 'www.hhk99.cfd', 'm.meikebi.com', 'macvbb.555556789.xyz', 'www.pinkanghuishou.com', 'www.255cd.com', 'aa.f532.cn', 'www.5jqte.com', 'jhpcza.66666654.xyz', 'baxtc.66666654.xyz', 'www.tpyyc.com', 'x.f532.cn', 'www.99wxw.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.jagodangdut.com', '88yy6.com', 'szwanliheng.com', 'flexiwan.com', 'www.dmbj.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.91m.cc...
+Performing DNS lookup for vv.fefz.link...
+Performing DNS lookup for birkin4u.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
