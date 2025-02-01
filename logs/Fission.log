@@ -26395,3 +26395,25 @@ Performing DNS lookup for play.cdnmicrosoft.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5a14228] Update project files
+ 4 files changed, 74 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   e32f90f..5a14228  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.194.143...
+Fetching domains for 104.17.255.237...
+Fetching domains for 104.17.8.207...
+succeed to fetch domains for 104.17.194.143 from https://site.ip138.com/
+succeed to fetch domains for 104.17.8.207 from https://site.ip138.com/
+succeed to fetch domains for 104.17.255.237 from https://ipchaxun.com/
+域名列表为
+['www.whpaiger.com', 'www.qilishusong.cn', 'xfltd.net', 'www.cocanwelding.com', 'hyrzs.com', 'www.52ys.cc', 'zhenbuka666.com', 'www.zzztch.com', 'www.tv9090.com', 'www.50zw.co']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for zhenbuka666.com...
+Performing DNS lookup for www.52ys.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
