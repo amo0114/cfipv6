@@ -26263,3 +26263,25 @@ Performing DNS lookup for www.nitianzw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bf3cceb] Update project files
+ 4 files changed, 59 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   e2c8c4d..bf3cceb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.62.75...
+Fetching domains for 104.21.68.127...
+Fetching domains for 104.18.20.33...
+succeed to fetch domains for 104.22.62.75 from https://site.ip138.com/
+succeed to fetch domains for 104.18.20.33 from https://site.ip138.com/
+succeed to fetch domains for 104.21.68.127 from https://ipchaxun.com/
+域名列表为
+['www.42hh.cn', 'www.tlbb888.com', 'www.w7777.net', 'sndup.net', 'www.28et.com', 'www.lyzdzy.com', 'www.sdgqwqr.top', '486ll.com', 'www.landaohang.pub', 'diggerpart.com', '5345ka.com', 'lucky88.club', 'laolijiwang.com', 'qyl854.com', 'www.tjtaiyuanxin.com', 'pqwww.cn', 'www.pokerlistings.com', 'd678g.com', 'bogouyy.com', 'dum44.com', 'www.huaweili-edu.com', '617hh.com', 'pooh1688.net', 's.8tuwcn.top', 'www.pqwww.cn', 'yhyl366.com', 'ws.w88boint.net', 'www.lingbaozpw.com', '740740740.com', '8yh.com', 'www.luwangyangrong.com', '3g.ddnglt.top', 'm.0597ren.com', 'clc574.top', 'www.vv128.com', 'www.993my.com', 'www.49768.cc', 'landaohang.pub', 'www.drportal.hu', 'www.qxuge.com', 'quickswap.exchange', 'www.blwdy.com', 'www.4jlj.com', 'fr.pokerlistings.com', 'sdgqwqr.top', 'phimsex.cc', 'biwan33.top', 'www.zhaohongjie.cn', 'nonprofitpr.secure-platform.com', 'av900.xyz', 'vicuta.com', 'boyawards.secure-platform.com', 'cm365.club', '365saude.com.br', 'www.grameen-info.org', 'www.bitz.plus', '362123.net', 'idea.secure-platform.com', 'www.syngenta.si', 'jjht.ydhfnd.com', 'benhon.net', '8jmu1.mom', 'www.wg1888.com', 'm.biwan33.top', 'www.hg31.vip', 'www.laolijiwang.com', 'dcp-api.textin.ai', 'hreapp.badgermeter.com', 'qxuge.com', '91hlw4.com', 'll857.com', 'www.gxln.net', '7sm485.xyz', 'investors.badgermeter.com', 'www.regalooriginal.com', 'www.4hut58.com', 'www.jiarongyidai.com', 'wxts.wuxiants12.com', 'www.29bb.net', 'acslights.com', 'bxn5ds9p.top', 'alphabroder.com', 'm.sdgqwqr.top', '4jlj.com', 'cloudcp.lucidahost.com', 'achk.cloudflarest.link', 'm.bxn5ds9p.top', 'www.365saude.com.br', '4hut58.com', 'www.789ab.com', 'www.tpyyc.com', 'seseragi-mentalclinic.com', 'www.8tuwcn.top', 'www.alphabroder.com', 'www.0597ren.com', 'www.5345ka.com', 'vipdyy.com', 'jiuganni.xyz', 'www.aiyuankangall.com', 'apsp.secure-platform.com', 'www.d678g.com', 'wap.bxn5ds9p.top', 'cqjrcc.com', 'www.qyl854.com', '8mav601.com', '3g.sdgqwqr.top', 'www.50zw.co', '3g.bxn5ds9p.top', 'wap.ddnglt.top', '8tuwcn.top', '42hh.cn', 'gt2.ccsn-ys.com', '29bb.net', 'crystalawards.secure-platform.com', 'www.bxn5ds9p.top', 'www.szdaizu.cn', 'www.9ehao.com', 'vv128.com', 'lingbaozpw.com', 'm.luwangyangrong.com', 'buybuybabygo.com', '18moe.net', '0597ren.com', 'www.617hh.com', 'thep1177.cc', 'app.hellotest.store']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.d678g.com...
+Performing DNS lookup for www.0597ren.com...
+Performing DNS lookup for crystalawards.secure-platform.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
