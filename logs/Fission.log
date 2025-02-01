@@ -26285,3 +26285,25 @@ Performing DNS lookup for crystalawards.secure-platform.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d6d1f9b] Update project files
+ 4 files changed, 100 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   bf3cceb..d6d1f9b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.232.108...
+Fetching domains for 104.26.2.220...
+Fetching domains for 104.18.249.171...
+succeed to fetch domains for 104.26.2.220 from https://site.ip138.com/
+succeed to fetch domains for 104.21.232.108 from https://site.ip138.com/
+succeed to fetch domains for 104.18.249.171 from https://dnsdblookup.com/
+域名列表为
+['www.dovolenka365.sk', 'www.75uw.com', 'www.revolvereyes.com', 'www.e0101.com', 'www.singletracks.com', 'www.wn01.uk', 'anycast.cf.030419.xyz', 'www.huaidan1.com', 'www.hentaibar.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.zgwangzhan.com', 'l2qwe9bb89.iiani.com', 'cloudflare.cfgo.cc', 'www.kkkab.com', 'www.zhaileju.com', 'm.niuerzs.com', 'cc.xingsu.fun', 'hentaibar.com', 'qbjdcjc.com', 'www.tv9box.com', 'bhmpics.com', 'www.qbjdcjc.com', 'upskirtcollection.com', 'm.chensiwx.com', 'aipro.app', 'p.aipro.app', 'zi0.cc', 'zf.pfgo.top', 'www.by5.com', 'bob5918.com', 'www.555yy1.com', 'www.yjys05.com', 'speedip.eu.org', 'www.93xscc.com', 'by5.com', 'jpvsavhyu.76898102.xyz', 'www.cordings.co.uk', 'xn--15qp75fnit.cloudflare.182682.xyz', 'www.15v5.com', 'www.iios.fun', 'mondo64.club', 'www.iios.club', 'shop.poleringskongen.no', 'ht889c.com', 'www.sweatershop.ie', 'cloudflare.182682.xyz', 'www.99wx.cc', 'www.wn03.cc', 'www.ybjh.me', 'www.ygdy8.cc', 'www.qumiyun.com', 'fldsubgigtujuy.76898102.xyz', 'wap.luwangyangrong.com', 'www.tv7box.com', 'www.tpyyc.com', '086181.xyz', 'speed.marisalnc.com', 'cf.335570.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.555yy1.com...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for m.chensiwx.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
