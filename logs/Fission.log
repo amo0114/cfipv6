@@ -26329,3 +26329,25 @@ Performing DNS lookup for pornogids.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6acb17e] Update project files
+ 4 files changed, 61 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   2a0b804..6acb17e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.228.175...
+Fetching domains for 104.17.234.0...
+Fetching domains for 104.22.9.0...
+succeed to fetch domains for 104.17.234.0 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.228.175 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.9.0 from https://dnsdblookup.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'fldsubgigtujuy.76898102.xyz', 'www.etiaolong.com', 'www.93xscc.com', 'jpadwinfs.114514782.xyz', 'www.lycq666.com', 'www.decailed.com', '1.namesilo123.top', 'www.whpaiger.com', 'hongkong.qing1999.eu.org', 'www.kanmanhuala.cc', '7.namesilo123.top', 'speed.speed.speed.speed.speed.speed.speed.speed.speed.speed.powered-by-------ktff------zero.marisalnc.com------speed.speed.speed.speed.114514782.xyz', 'www.shy6666.com', 'nlsdwsz.66666654.xyz', 'player.tzfile.com', 'www.dmbj.cc', 'www.zzztch.com', 'www.cocanwelding.com', 'www.lyzdzy.com', 'zl.aitrjc.xyz', '11.namesilo123.top', 'www.rmsxs.com', 'www.bxwx10.com', 'www.cx888my.com', 'www.ydx8.com', 'www.nitianxieshen.com', 'www.jg666.top', 'www.85xs.cc', 'www.whwanet.com', 'www.50zw.co', 'cfcdn.sanfencdn.net', 'www.99wx.cc', 'freeyx.cloudflare88.eu.org', 'www.cfhuagong.com', 'www.sp6080.com', 'pdzmre77473.sanfen001.top', 'www.megumirawr.cc', 'www.5522tl.com', 'cdncdncdncdn.784654.xyz', 'www.99wxw.cc', 'www.baokanwang.com', 'www.wubei520.com', 'www.yh9pk.com', '26.namesilo123.top', 'www.66se0.com', 'wz.weishao2023.dk.eu.org', 'jpvsavhyu.76898102.xyz', 'yxy176.com', '6.namesilo123.top', 'hkgsdz.66666654.xyz', 'www.zgwangzhan.com', '158499.com', 'hzefss.66666654.xyz', '104-17-234-0.ip.flares.cloud', 'www.993my.com', 'gangsiwang.org', 'www.tsdingxin.com', 'www.hhyy028.com', 'www.iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ydx8.com...
+Performing DNS lookup for www.lycq666.com...
+Performing DNS lookup for player.tzfile.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
