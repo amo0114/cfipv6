@@ -1,21 +1,48 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 7.namesilo123.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.fnyyw.net
+Address: 162.209.175.122
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global13.66666654.xyz.
-Name:	cfcn-b-global13.66666654.xyz
-Address: 104.18.121.99
+dm84.vip	canonical name = cf.699688.xyz.
+cf.699688.xyz	canonical name = a.berajahbareng.eu.org.
+Name:	a.berajahbareng.eu.org
+Address: 104.21.70.135
+Name:	a.berajahbareng.eu.org
+Address: 172.67.223.207
+Name:	a.berajahbareng.eu.org
+Address: 2606:4700:3036::ac43:dfcf
+Name:	a.berajahbareng.eu.org
+Address: 2606:4700:3035::6815:4687
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
+play.cdnmicrosoft.com	canonical name = microsoft.cloudflare.182682.xyz.
+Name:	microsoft.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	microsoft.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	microsoft.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	microsoft.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	microsoft.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	microsoft.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	microsoft.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	microsoft.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	microsoft.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	microsoft.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
 

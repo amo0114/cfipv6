@@ -26351,3 +26351,25 @@ Performing DNS lookup for player.tzfile.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c34d668] Update project files
+ 4 files changed, 51 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   6acb17e..c34d668  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.245.225...
+Fetching domains for 104.17.239.137...
+Fetching domains for 104.17.253.125...
+succeed to fetch domains for 104.17.253.125 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.245.225 from https://site.ip138.com/
+succeed to fetch domains for 104.17.239.137 from https://ipchaxun.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'www.yjys05.com', 'www.xinjuc.com', 'www.showdm.com', 'www.50zw.co', '7.namesilo123.top', 'www.456gg.com', 'dsxys.com', 'www.lyzdzy.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.xuanqishi.cc', 'vcd.la', 'www.iios.club', '813132.com', 'scraper-preview.fun', 'jpvsavhyu.76898102.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 7.namesilo123.top...
+Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz...
+Performing DNS lookup for dsxys.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
