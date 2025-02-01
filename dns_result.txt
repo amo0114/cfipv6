@@ -2,31 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.55xs.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.35.237
-Name:	ips.993888.xyz
-Address: 104.17.24.196
-Name:	ips.993888.xyz
-Address: 104.17.28.135
+Name:	www.d678g.com
+Address: 23.225.33.89
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-m.163fahao.com	canonical name = pltraffic7.com.
-Name:	pltraffic7.com
-Address: 72.52.179.174
+Name:	www.0597ren.com
+Address: 208.98.40.14
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.nitianzw.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.24.196
-Name:	ips.993888.xyz
-Address: 104.17.28.135
-Name:	ips.993888.xyz
-Address: 104.16.35.237
+Name:	crystalawards.secure-platform.com
+Address: 104.18.20.33
+Name:	crystalawards.secure-platform.com
+Address: 104.18.21.33
+Name:	crystalawards.secure-platform.com
+Address: 2606:4700::6812:1421
+Name:	crystalawards.secure-platform.com
+Address: 2606:4700::6812:1521
 

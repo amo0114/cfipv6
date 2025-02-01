@@ -26240,3 +26240,26 @@ Performing DNS lookup for ipdb.rr.nu...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e2c8c4d] Update project files
+ 4 files changed, 65 insertions(+), 243 deletions(-)
+ rewrite Fission_ip_backup.txt (98%)
+ rewrite dns_result.txt (96%)
+To github.com:amo0114/cfipv6.git
+   9c46a56..e2c8c4d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.2.191...
+Fetching domains for 104.22.48.148...
+Fetching domains for 104.16.7.90...
+succeed to fetch domains for 104.22.48.148 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.2.191 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.7.90 from https://ipchaxun.com/
+域名列表为
+['www.hg0389.com', 'www.longwangchuanshuo.com', 'm.anluyg.net', 'www.lingyi44.com', 'www.55xs.cc', 'www.nitianzw.com', 'www.zhexin.cn', 'ag.hg2096.com', 'www.52ys.cc', 'h.baidu-cloudflare-cdn.com', 'www.qf527.com', 'www.hg098.com', 'www.daomubiji.cc', 'vvccpp.com', 'www.qindi.net', '606977.com', 'm.163fahao.com', 'plaza-network.com', 'udpcc.com', 'imas-sg.plaza-network.com', 'm.kssw.net', 'www.2v8d.com', 'www.kxgdyw.com', 'www.iios.club', 'www.663dy.com', 'www.cykz.net', 'umggaming.com', 'www.99wxw.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.55xs.cc...
+Performing DNS lookup for m.163fahao.com...
+Performing DNS lookup for www.nitianzw.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
