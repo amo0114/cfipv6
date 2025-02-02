@@ -26461,3 +26461,25 @@ Performing DNS lookup for www.gumanxs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7e1ca56] Update project files
+ 4 files changed, 57 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   214ccc8..7e1ca56  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.5.207...
+Fetching domains for 190.93.247.132...
+Fetching domains for 104.17.240.0...
+succeed to fetch domains for 190.93.247.132 from https://dnsdblookup.com/
+succeed to fetch domains for 104.26.5.207 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.240.0 from https://ipchaxun.com/
+域名列表为
+['www.qdzhongbei.com', 'ppxdm.com', 'm.niuerzs.com', 'www.hengdawatch.com', 'www.uu93.com', 'm.6i5.com', '7.namesilo123.top', 'www.dskxkj.com', 'www.11txt.com', 'www.aub.ooo', 'www.dingdingdm.com', 'pan.zyipk.top', 'www.jqggzyjy.com.cn', 'www.92mili.com', '74xz.com', 'www.jinyir18.com', 'www.93xscc.com', 'www.jinlisting.com', 'qdtsdp.com', 'folioart.co.uk', 'uu93.com', 'www.741dm.com', 'www.boyangjt.com', 'jinlisting.com', 'www.mfwzhs.com', 'www.txydd.com', 'www.6988tv.com', 'baokanwang.com', 'qdzhongbei.com', 'www.781890.com', 'stock.hostmonit.com', '104-17-240-0.ip.flares.cloud', 'www.baokanwang.com', 'www.didamh.com', 'www.99wx.cc', 'm.bzzxxx.net', 'www.74us.com', 'www.lyzdzy.com', 'm3u815.shenyum3u8.top', 'yx.887141.xyz', 'qiaokuang.net', 'www.daomubiji.cc', 'www.folioart.co.uk', 'www.cn46.com', 'www.cbcv.cc', 'speedcl.5489265.xyz', 'www.tv9090.com', 'cfip.xxxxxxxx.tk', 'iios.club', '6988tv.com', 'www.yy4080dy.com', 'www.0550cq.com', 'jjtyss.com', 'dingdingdm.com', 'jinyir18.com', 'www.yhsqxy.com', 'www.biqune.com', 'jsscxjzxxw.com', 'www.809dm.com', 'www.qdbangsen.com', 'huakai2018.com', 'www.ppxdm.com', 'www.etiaolong.com', '74fan.com', 'www.74xz.com', 'www.33mov.com', 'didamh.com', '0550cq.com', 'www.qdtsdp.com', 'v.gzrdhj.com', 'www.zgjmw.net', 'pan.lyc8503.site', 'sdhysyzb.com', 'm.0550cq.com', '74us.com', 'www.nanhuyt.com', 'www.meijubo.com', 'www.kunzedu.com', 'www.74fan.com', 'xfltd.net', 'nanhuyt.com', 'www.jhhtech.com', 'www.xjjhny.cn', 'wz.weishao2023.uk.eu.org', 'sgv3.com', 'www.iios.me', 'www.paizipai.top', 'www.28dushu.com', 'laoxu.net', 'wz.weishao2023.dk.eu.org', 'www.sdhysyzb.com', 'www.iios.club', 'www.rjtv6.com', 'www.kanju8.com', 'www.881dy.com', 'acus.cloudflarest.link', 'speed.marisalnc.com', 'chalaoshi.de', 'www.qdjljy.com', 'gaze.run', 'xmxingmu.com', 'smdyy.cc', 'www.huakai2018.com', 'dsxys.pro', 'www.longwangchuanshuo.com', 'cf1.492745.xyz', 'www.dmbj.cc', 'www.6i5.com', 'www.tushencn.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.huakai2018.com...
+Performing DNS lookup for www.tushencn.com...
+Performing DNS lookup for www.6i5.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

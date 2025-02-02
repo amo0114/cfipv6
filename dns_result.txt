@@ -2,25 +2,67 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.huakai2018.com
-Address: 69.16.230.165
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.tushencn.com: SERVFAIL
+Name:	yydsys.cc
+Address: 172.67.139.195
+Name:	yydsys.cc
+Address: 104.21.26.254
+Name:	yydsys.cc
+Address: 2606:4700:3032::6815:1afe
+Name:	yydsys.cc
+Address: 2606:4700:3037::ac43:8bc3
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 104.21.53.57
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 172.67.209.38
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:d126
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:3539
+www.74ms.com	canonical name = p8nky6e7.aliadvance.com.
+p8nky6e7.aliadvance.com	canonical name = 4rt5un96.n.aliadvance.com.
+Name:	4rt5un96.n.aliadvance.com
+Address: 192.151.192.58
+Name:	4rt5un96.n.aliadvance.com
+Address: 172.247.175.101
+Name:	4rt5un96.n.aliadvance.com
+Address: 198.16.61.238
+Name:	4rt5un96.n.aliadvance.com
+Address: 198.16.61.235
+Name:	4rt5un96.n.aliadvance.com
+Address: 198.16.61.234
+Name:	4rt5un96.n.aliadvance.com
+Address: 198.16.61.236
+Name:	4rt5un96.n.aliadvance.com
+Address: 172.247.175.100
+Name:	4rt5un96.n.aliadvance.com
+Address: 172.247.175.102
+Name:	4rt5un96.n.aliadvance.com
+Address: 172.247.175.99
+Name:	4rt5un96.n.aliadvance.com
+Address: 192.151.192.62
+Name:	4rt5un96.n.aliadvance.com
+Address: 172.247.175.98
+Name:	4rt5un96.n.aliadvance.com
+Address: 192.151.192.59
+Name:	4rt5un96.n.aliadvance.com
+Address: 198.16.61.237
+Name:	4rt5un96.n.aliadvance.com
+Address: 192.151.192.61
+Name:	4rt5un96.n.aliadvance.com
+Address: 192.151.192.60
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.bqg789.co	canonical name = www.bqg789.com.cdn.cloudflare.net.
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 104.26.6.145
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 104.26.7.145
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 172.67.72.65
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 2606:4700:20::681a:691
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 2606:4700:20::681a:791
+Name:	www.bqg789.com.cdn.cloudflare.net
+Address: 2606:4700:20::ac43:4841
 
