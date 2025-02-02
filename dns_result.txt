@@ -2,26 +2,49 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.jvn4.com
-Address: 23.225.26.74
+Name:	www.hktv01.com
+Address: 69.16.230.165
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	4hujj69.com
-Address: 162.209.175.126
+Name:	www.976tu.com
+Address: 38.174.181.111
+** server can't find www.976tu.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cc99jj.com
-Address: 172.67.210.176
-Name:	cc99jj.com
-Address: 104.21.69.174
-Name:	cc99jj.com
-Address: 2606:4700:3032::ac43:d2b0
-Name:	cc99jj.com
-Address: 2606:4700:3036::6815:45ae
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.74.182
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.8.201
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.189.12
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.255.179
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.11.39
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.6.20
+Name:	cfip.xxxxxxxx.tk
+Address: 104.24.57.106
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.14.192
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.178.43
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.245.2
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.179.142
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.10.24
+Name:	cfip.xxxxxxxx.tk
+Address: 172.66.41.13
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.251.209
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.250.154
 

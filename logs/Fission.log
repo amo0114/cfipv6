@@ -26570,3 +26570,25 @@ Performing DNS lookup for www.ququxiaoshuo.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a7472fa] Update project files
+ 4 files changed, 58 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   9f56494..a7472fa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.14.192...
+Fetching domains for 104.18.10.24...
+Fetching domains for 104.18.179.142...
+succeed to fetch domains for 104.18.14.192 from https://site.ip138.com/
+succeed to fetch domains for 104.18.10.24 from https://site.ip138.com/
+succeed to fetch domains for 104.18.179.142 from https://ipchaxun.com/
+域名列表为
+['m.163fahao.com', 'www.4huy48.com', 'jwii.91lu10009.com', 'www.6988tv.com', 'www.30moyu.top', 'www.hhyy028.com', 'www.4hujj69.com', 'www.4hutt93.com', 'www.530yu.com', 'yiqi1234.com', 'loginradius.com', 'www.j666z.com', 'cc22kk.com', 'www.cc22kk.com', 'www.pk299.com', 'www.wubei520.com', 'www.askgamblers.com', 'cfip.xxxxxxxx.tk', 'kencotrans.mercurygate.net', 'www.spltea.com', 'jvn4.com', 'vichy.hk', 'www.intheblack.com', '4hujj69.com', 'dybphbkj.com', '530yu.com', 'www.115fhd.com', 't3.wnacg1.org', '2349yy.com', 'www.bkmanhuas.com', 'www.a456xt.com', 'www.99wx.cc', 'www.stance.com', 'www.85xscc.com', 'www.m6y6.com', '1238zz.com', 'www.60ggc.com', 'j666z.com', 'cc99jj.com', 'www.tlbb888.com', '115fhd.com', 'stance.com', 'www.a678ts.com', 'www.2349yy.com', 'actiondreams.com', '60ggc.com', 'www.douluodalu1.com', 'a456bt.com', 'www.jvn4.com', 'www.ki.com', 'www.6xr.com', 'x372m.com', 'jwc.91lu10009.com', 'www.x372m.com', 'www.a456bt.com', 'www.cbcv.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.jvn4.com...
+Performing DNS lookup for 4hujj69.com...
+Performing DNS lookup for cc99jj.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
