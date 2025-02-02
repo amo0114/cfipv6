@@ -1,25 +1,31 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find xfc011.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.huakai2018.com
+Address: 69.16.230.165
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.51cg6.me
-Address: 104.21.28.253
-Name:	www.51cg6.me
-Address: 172.67.147.240
-Name:	www.51cg6.me
-Address: 2606:4700:3036::ac43:93f0
-Name:	www.51cg6.me
-Address: 2606:4700:3033::6815:1cfd
+www.doupobook.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.158.58
+Name:	ips.993888.xyz
+Address: 104.18.129.3
+Name:	ips.993888.xyz
+Address: 104.18.176.35
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	qk89a.com
-Address: 38.60.97.216
+www.ququxiaoshuo.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
 

@@ -26527,3 +26527,25 @@ Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7cb2713] Update project files
+ 4 files changed, 55 insertions(+), 77 deletions(-)
+ rewrite dns_result.txt (90%)
+To github.com:amo0114/cfipv6.git
+   75457a9..7cb2713  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.64.214...
+Fetching domains for 104.17.43.24...
+Fetching domains for 104.21.28.253...
+succeed to fetch domains for 104.17.43.24 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.64.214 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.28.253 from https://ipchaxun.com/
+域名列表为
+['www.99porn.us', 'www.zongcaixs.cc', 'okafore.xyz', '91wav.com', 'www.3040x.com', 'wap.39hj9.top', '628xx.com', '0797com.com', 'dsxys.com', 'www.btbdys.com', '737362.com', 'www.bmuxgia.cn', 'yh569.xyz', 'dsp.aff008.net', 'www.z2py.com', 'zzztch.com', 'gaoxiaoe.com', 'ryanapple.com', 'popugaipark.ru', 'www.51cg6.me', 'www.iios.me', 'www.lyzdzy.com', 'dblutre5.top', '1056273.com', 'wap.iju15.top', '99porn.us', 'www.qqbb.org', 'qk89a.com', 'www.tpyyc.com', 'iju15.top', 'www.dongtoucun.cn', 'www.cocanwelding.com', 'deprintz.com', 'www.xc0888.com', 'www.kan234.com', 'm.iju15.top', 'lgpma12zrn.xyz', 'thaqafnafsak.com', 'www.39hj9.top', 'www.longwangchuanshuo.com', 'www.6080xdy.com', '3g.39hj9.top', '419ss.com', 'www.shurenyb.com', '51cg6.me', 'www.luwangyangrong.com', 'antuo.kaisaap.com', 'y224.cc', 'ai.paste-zfw.click', 'p.qdsy1.sbs', '228755.com', 'sjzyt.com', 'qqbb.org', 'github.i91porn.xyz', 'yxsyxtc.com', 'www.628xx.com', 'www.3dporntoon.com', 'tjsdk.com', '77ty.com', 'www.789kp.com', 'mcdhepi.com', 'www.zzztch.com', 'iroadman.com', 'www.1a1v.com', 'www.tlxstw.cn', 'www.82maoat.com', 'www.iju15.top', 'ee494.com', 'cayiyi.com', '27ax.com', 'xfc011.com', 'm.39hj9.top', 'www.wwdd.org.cn', 'www.27ax.com', 'www.mubjpoa.cn', 'xnsx.org', '39hj9.top', 'to.tk86.co', '3g.iju15.top', 'www.dsey5.com', '3040x.com', '82maoat.com', 'scc52.com', 'www.ceim.cc', '3dporntoon.com', '668j668.com', 'www.xczq1.top', 'www.668j668.com', 'www.yxsyxtc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for xfc011.com...
+Performing DNS lookup for www.51cg6.me...
+Performing DNS lookup for qk89a.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
