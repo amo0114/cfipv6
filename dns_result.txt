@@ -2,67 +2,53 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	yydsys.cc
-Address: 172.67.139.195
-Name:	yydsys.cc
-Address: 104.21.26.254
-Name:	yydsys.cc
-Address: 2606:4700:3032::6815:1afe
-Name:	yydsys.cc
-Address: 2606:4700:3037::ac43:8bc3
+macvbb.555556789.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global34.66666654.xyz.
+Name:	cfcn-a-global34.66666654.xyz
+Address: 104.18.124.76
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.74ms.com	canonical name = p8nky6e7.aliadvance.com.
-p8nky6e7.aliadvance.com	canonical name = 4rt5un96.n.aliadvance.com.
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.58
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.101
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.238
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.235
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.234
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.236
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.100
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.102
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.99
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.62
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.98
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.59
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.237
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.61
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.60
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.203.88
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.145.196
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.27.209
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.12.242
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.233.26
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.225.199
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.219.184
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.74.141
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.79.10
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.10.152
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.20.46
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.77.112
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.22.11
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.205.83
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.24.120
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.bqg789.co	canonical name = www.bqg789.com.cdn.cloudflare.net.
-Name:	www.bqg789.com.cdn.cloudflare.net
-Address: 104.26.6.145
-Name:	www.bqg789.com.cdn.cloudflare.net
-Address: 104.26.7.145
-Name:	www.bqg789.com.cdn.cloudflare.net
-Address: 172.67.72.65
-Name:	www.bqg789.com.cdn.cloudflare.net
-Address: 2606:4700:20::681a:691
-Name:	www.bqg789.com.cdn.cloudflare.net
-Address: 2606:4700:20::681a:791
-Name:	www.bqg789.com.cdn.cloudflare.net
-Address: 2606:4700:20::ac43:4841
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global3.66666654.xyz.
+Name:	cfcn-b-global3.66666654.xyz
+Address: 104.18.116.118
 

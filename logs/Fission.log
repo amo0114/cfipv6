@@ -26483,3 +26483,25 @@ Performing DNS lookup for www.6i5.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5312663] Update project files
+ 4 files changed, 116 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   7e1ca56..5312663  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.255.65...
+Fetching domains for 104.18.3.64...
+Fetching domains for 141.101.114.185...
+succeed to fetch domains for 104.18.3.64 from https://site.ip138.com/
+succeed to fetch domains for 141.101.114.185 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.255.65 from https://ipchaxun.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'ikantv.net', 'hyrzs.com', 'www.ugome.com', 'www.ikantv.net', 'stock.hostmonit.com', 'www.anluyg.net', 'www.881dy.com', 'epicgames.com.cdn.cloudflare.net', '17800.net', 'www.vcd.la', 'www.nangua55.com', 'm.6i5.com', 'anluyg.net', 'www.7sc.cc', 'www.se2.cc', 'www.gdjqwl.com', 'www.c333.net', 'www.ydxs.cc', 'www.k77yy.com', 'yx.887141.xyz', 'www.bqg789.co', 'www.dy420.com', 'www.4hu52d.com', 'yundunwawablogcdn1yd.wawacm.com', 'v99yh5.com', 'www.zgjmw.net', 'kuaikan66.com', 'kukedy.tv', '63ws.com', 'www.77dv.com', 'www.jhhtech.com', 'www.lvfengsh.com', 'www.70ts.com', 'www.163my.com', 'uu93.com', 'qr99.cc', 'store.epicgames.com.cdn.cloudflare.net', 'www.yyxxi.com', 'www.6i5.com', 'www.51jion.com', 'zzztch.com', 'www.223ss.com', 'm.17800.net', 'fl.kingdu.top', 'www.lnudz.com', 'www.28et.com', 'ganpian.com', 'sgv7.com', 'www.letu9.com', 'cf-lt.sharecentre.online', 'launcher.store.epicgames.com', 'www.cocanwelding.com', 'www.77ty.com', 'www.yhddsb.com', 'www.zzztch.com', 'www.lyzdzy.com', 'www.706i.com', 'www.hnxinlian.org', 'm.niuerzs.com', 'www.whpaiger.com', 'www.paizipai.top', 'www.35kan.com', 'itt9.com', 'store.epicgames.com', 'yyxycn.com', 'm.50zw.co', 'www.4gdiy.com', 'epicgames.com', 'img.hostmonit.com', 'x1g11.com', 'www.btdad.cloud', '28et.com', 'www.02wwa.com', '35kan.com', 'bdx100.com', 'www.yy4080dy.com', 'www.uu93.com', 'www.1a1v.com', 'zi0.cc', 'www.74ms.com', 'www.ddwhm.com', 'www.kuaikan66.com', 'www.sjzsckj.com', 'www.50zw.co', 'www.tinghen.com', 'blog.nankoyo.com', 'wyxs.cc', 'www.kkkkp.com', 'www.web120.org', 'cdn.moonfree.top', 'ios.jinniumdm2.com', 'www.tuozhan021.com', 'archives.vip', 'nangua55.com', 'www.whsbwl.com', 'y.lingzhi.cloudns.org', 'www.dmbj.cc', 'www.hzmingren.cn', 'www.888dyy.cc', 'm.kuaikan66.com', 'www.achieve3000.com', 'jyzygdyy.com', 'www.75uw.com', 'www.17ttx.com', 'www.4148.net', '75uw.com', 'www.96dushu.com', 'ks20.cc', 'www.grantthornton.co.za', 'wei333.com', 'egs-platform-service.store.epicgames.com', 'www.xigua5.net', '4hu52d.com', 'cfip.201043.xyz', 'www.ddosi.org', 'www.11txt.com', 'yydsys.cc', 'www.77zw.cc', 'www.njsulaide.com', '02wwa.com', 'xs.wxtv.cc', 'www.kxgdyw.com', 'www.yncareer.com', 'www.tv9090.com', 'www.gdriustb.com', 'www.3dck.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yydsys.cc...
+Performing DNS lookup for www.74ms.com...
+Performing DNS lookup for www.bqg789.co...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
