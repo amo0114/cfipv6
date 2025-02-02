@@ -2,31 +2,25 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.larp.com
-Address: 173.236.247.126
+Name:	www.huakai2018.com
+Address: 69.16.230.165
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.tushencn.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.candoifp.com
-Address: 104.18.7.223
-Name:	www.candoifp.com
-Address: 104.18.6.223
-Name:	www.candoifp.com
-Address: 2606:4700::6812:6df
-Name:	www.candoifp.com
-Address: 2606:4700::6812:7df
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.gumanxs.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.144.72
-Name:	ips.993888.xyz
-Address: 104.17.131.30
-Name:	ips.993888.xyz
-Address: 104.17.240.169
+www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 104.21.53.57
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 172.67.209.38
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:d126
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:3539
 

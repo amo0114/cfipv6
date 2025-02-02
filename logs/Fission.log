@@ -26439,3 +26439,25 @@ Performing DNS lookup for birkin4u.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 214ccc8] Update project files
+ 4 files changed, 66 insertions(+), 31 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   d4ee585..214ccc8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.73.248...
+Fetching domains for 104.18.32.216...
+Fetching domains for 104.17.6.21...
+succeed to fetch domains for 104.27.73.248 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.6.21 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.32.216 from https://dnsdblookup.com/
+域名列表为
+['www.zongcaixs.com', 'l-c.com.ua', 'www.486207.com', '486207.com', '26.namesilo123.top', 'www.candoifp.com', 'www.whjinwu.com', '3344ml.com', 'www.cao3r9v8.com', 'www.l-c.com.ua', 'he444.com', 'lojarafarillo.com.br', 'www.gumanxs.com', 'hg6388w.com', 'cao3r9v8.com', 'www.bookenemy.com', 'my.clevelandclinic.org', 'av7185.com', 'nieuwskoerier.nl', 'thebimhub.com', 'www.thermdas.tk', 'www.dy420.com', 'www.nieuwskoerier.nl', 'www.larp.com', 'clevelandclinic.org', 'md-health.com', 'www.yhddsb.com', 'www.99wx.cc', 'laowang.co', 'www.93xscc.com', 'www.3344ml.com', 'kursusportal.it', 'candoifp.com', 'astexplorer.net', 'bookenemy.com', 'www.nitianzw.com', 'www.knaufinsulationalgerie.com', 'www.hg6388w.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.larp.com...
+Performing DNS lookup for www.candoifp.com...
+Performing DNS lookup for www.gumanxs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
