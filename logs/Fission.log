@@ -26505,3 +26505,25 @@ Performing DNS lookup for www.bqg789.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 75457a9] Update project files
+ 4 files changed, 99 insertions(+), 94 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   5312663..75457a9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.24.156...
+Fetching domains for 104.22.31.117...
+Fetching domains for 172.66.43.219...
+succeed to fetch domains for 104.22.31.117 from https://site.ip138.com/
+succeed to fetch domains for 104.22.24.156 from https://ipchaxun.com/
+succeed to fetch domains for 172.66.43.219 from https://site.ip138.com/
+域名列表为
+['sgaa.sectigo.pp.ua', 'tunneltransfer.bpyjc.com', 'staticnetcontent.com', 'cfip.xxxxxxxx.tk', 'classcentral.com', 'www.fnyy666.com', 'ipdb.rr.nu', 'www.classcentral.com', 'www.ai2moe.org', 'www.00hdy.com', 'www.accuwebhosting.com', 'assets.staticnetcontent.com', 'macvbb.555556789.xyz', 'www.v2raz.vip', 'www.cqjschungao.com', 'aktv.top', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'api.staticnetcontent.com', 'www.cuxiao88.com', 'www.iios.club']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for macvbb.555556789.xyz...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

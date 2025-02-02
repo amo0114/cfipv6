@@ -1,54 +1,25 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-macvbb.555556789.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global34.66666654.xyz.
-Name:	cfcn-a-global34.66666654.xyz
-Address: 104.18.124.76
+** server can't find xfc011.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.203.88
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.145.196
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.27.209
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.12.242
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.233.26
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.225.199
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.219.184
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.74.141
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.79.10
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.10.152
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.20.46
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.77.112
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.22.11
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.205.83
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.24.120
+Name:	www.51cg6.me
+Address: 104.21.28.253
+Name:	www.51cg6.me
+Address: 172.67.147.240
+Name:	www.51cg6.me
+Address: 2606:4700:3036::ac43:93f0
+Name:	www.51cg6.me
+Address: 2606:4700:3033::6815:1cfd
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global3.66666654.xyz.
-Name:	cfcn-b-global3.66666654.xyz
-Address: 104.18.116.118
+Name:	qk89a.com
+Address: 38.60.97.216
 
