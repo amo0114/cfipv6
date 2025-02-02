@@ -26549,3 +26549,24 @@ Performing DNS lookup for qk89a.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9f56494] Update project files
+ 4 files changed, 52 insertions(+), 19 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7cb2713..9f56494  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.251.177...
+Fetching domains for 172.66.45.62...
+Fetching domains for 104.17.42.3...
+succeed to fetch domains for 104.17.42.3 from https://ipchaxun.com/
+succeed to fetch domains for 172.66.45.62 from https://site.ip138.com/
+succeed to fetch domains for 104.17.251.177 from https://dnsdblookup.com/
+域名列表为
+['www.qindixs.com', 'www.ppxdm.com', 'qdtsdp.com', 'alcp2.com', 'dafuweng.com', 'www.93xscc.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.ai2moe.org', 'www.longwangchuanshuo.com', 'www.qdzhongbei.com', 'fldsubgigtujuy.76898102.xyz', 'www.whpaiger.com', 'www.xghhw.com', 'www.alcp2.com', 'nlsdwsz.66666654.xyz', '985dm.com', 'www.doupobook.cc', 'jpee.sectigo.pp.ua', 'www.gaoqingw.com', 'jpvsavhyu.76898102.xyz', 'www.lailai360.com', 'www.kjyxyw.com', 'www.huakai2018.com', 'www.85xs.cc', 'jhpcza.66666654.xyz', 'www.damidm.com', 'www.txydd.com', 'macvbb.555556789.xyz', 'www.qindi.net', 'jpdd.entrust.pp.ua', 'www.99wxw.cc', 'spca.114514782.xyz', 'www.doupobook.com', 'uboy.run', 'www.rijiyize.com', 'www.74xz.com', 'u.uboy03.xyz', 'www.99wx.cc', 'www.whwanet.com', 'baxtc.66666654.xyz', 'www.zongcaiwx.com', 'www.xwsxs.com', 'www.kanunu2.com', 'www.nitianzw.com', 'aktv.top', 'www.741dm.com', 'www.ququxiaoshuo.com', 'www.ddwhm.com', 'www.77zw.cc', 'www.dmbj.cc', 'www.38yy.cn', 'cfip.xxxxxxxx.tk', 'hkaa.sectigo.pp.ua', 'www.55xs.cc', 'www.nitianxieshen.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.huakai2018.com...
+Performing DNS lookup for www.doupobook.cc...
+Performing DNS lookup for www.ququxiaoshuo.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

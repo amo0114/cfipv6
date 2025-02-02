@@ -2,30 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.huakai2018.com
-Address: 69.16.230.165
+Name:	www.jvn4.com
+Address: 23.225.26.74
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.doupobook.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.158.58
-Name:	ips.993888.xyz
-Address: 104.18.129.3
-Name:	ips.993888.xyz
-Address: 104.18.176.35
+Name:	4hujj69.com
+Address: 162.209.175.126
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ququxiaoshuo.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
+Name:	cc99jj.com
+Address: 172.67.210.176
+Name:	cc99jj.com
+Address: 104.21.69.174
+Name:	cc99jj.com
+Address: 2606:4700:3032::ac43:d2b0
+Name:	cc99jj.com
+Address: 2606:4700:3036::6815:45ae
 
