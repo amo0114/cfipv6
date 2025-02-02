@@ -26613,3 +26613,25 @@ Performing DNS lookup for cfip.xxxxxxxx.tk...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main fbdf394] Update project files
+ 4 files changed, 57 insertions(+), 73 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   0bda6fb..fbdf394  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.21.152...
+Fetching domains for 104.18.19.54...
+Fetching domains for 104.26.15.228...
+succeed to fetch domains for 104.21.21.152 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.19.54 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.15.228 from https://ipchaxun.com/
+域名列表为
+['www.nitianxieshen.com', 'puamore.com', 'jpnewacs.114514782.xyz', 'www.licaimenhu.com', 'cgcc.digicert.pp.ua', 'us02.nttkk.com', 'blog.defloration.com', 'www.4199.tv', 'x981j.com', 'ddwhm.com', 'tw.goldbigwin.com', 'movie.ljy2345.com', 'yubanet.com', 'wap.r7bssci.top', 'www.defloration.com', 'www.iios.club', 'wap.rqxka.top', 'www.6374hu.com', 'acus.cloudflarest.link', 'cf.noaries.de', 'www.hzaibeier.com', 'yx.887141.xyz', 'stp123.com', 'speed.marisalnc.com', 'fcbarcelonanoticias.com', 'xiz.im', 'r7bssci.top', 'hhc.gg', 'www.295k.com', 'www.wn05.cc', 'fldsubgigtujuy.76898102.xyz', 'speedcl.5489265.xyz', 'https.36bmkj.vip', '777tv.tv', 'www.28et.com', '8yf6.xyz', 'papajizz.com', 'freeyx.cloudflare88.eu.org', 'www.ddwhm.com', 'www.sixyin.com', 'jp02.nttkk.com', 'ru01.nttkk.com', 'www.x981j.com', 'www.wn03.cc', 'defloration.com', 'www.hm11.lol', 'amoebi.com', 'ru02.nttkk.com', 'm.m23259.top', 'mebudsv.114514782.xyz', 'm.niuerzs.com', '7.namesilo123.top', '2052.cf.bestl.de', 'bestdenki.com.sg', 'www.wuda.cf', 'wap.eakvzo.top', 'ncye63.cn', 'sextubeclub.com', 'www.6988tv.com', '3g.rqxka.top', 'i4xs.com', 'www.91m.cc', 'www.ituba.cc', 'speedip.tuyoyo.eu.org', 'www.ncye63.cn', 'm.eakvzo.top', 'ku7955.net', '111960.com', 'jpbb.sectigo.pp.ua', 'yh7.dtku41.xyz', '80.cf.bestl.de', 'cf.yx.alue.link', 'zixibar.net', 'jpvsavhyu.76898102.xyz', 'img02-beneficiosicbc.icbc-cdn.com.ar', 'fenfa.15feng.cn', 'hongdow.com', '365dvd.cc', 'grhj.u1pkdi1.net', 'a2.hh.887733.xyz', 'www.omgbet568.com', 'www.i4xs.com', 'www.starbarterscloud.io', 'www.stp123.com', 'm.163fahao.com', 'user.starbarterscloud.io', '2va23zkhkr.xyz', 'www.m23259.top', 'www.vpnland.com', 'www.nsisfans.com', 'eakvzo.top', '3g.m23259.top', 'jpadwinfs.114514782.xyz', 'www.rqxka.top', 'casinofavoritter.com', 'www.8sqftb.top', 'm.rqxka.top', 'octanefitness.com', '443.cf.bestl.de', '36bmkj.vip', 'www.xworldadmin.com', 'us02a.nttkk.com', 'pdzmre77473.sanfen001.top', 'www.777tv.tv', 'gorixcloud.net', 'wap.m23259.top', 'www.x3t77.com', 'rqxka.top', 'distillata.com', 'zl.aitrjc.xyz', 'nlsdwsz.66666654.xyz', 's.8sqftb.top', 'www.iios.me', 'wz.weishao2023.dk.eu.org', 'www.huakai2018.com', 'www.xzgk88.com', '4199.tv', '8sqftb.top', 'www.pogowasright.org', '3g.r7bssci.top', 'sixyin.com', 'www.5789ti.com', '333.666999.world', '1.namesilo123.top', 'www.papajizz.com', 'c678n.com', 'www.xinjuc.com', 'www.9456tt.com', 'kkyx.yydsii.com', 'www.tvyb02.com', 'tgzcmil.top', 'jhpcza.66666654.xyz', 'a2.nttkk.com', 'www.1a1v.com', 'm.esxfh09.top', 'sp.rweek.top', 'baxtc.66666654.xyz', '26.namesilo123.top', 'heiliao441.pro', 'starbarterscloud.io', 'vonbo.us.kg', 'kuaikan66.com', '565499.com', 'ipdb.rr.nu', 'yh6.dtku41.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for nlsdwsz.66666654.xyz...
+Performing DNS lookup for user.starbarterscloud.io...
+Performing DNS lookup for 3g.rqxka.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

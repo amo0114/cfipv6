@@ -2,27 +2,20 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-nlsdwsz.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
-speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global30.66666654.xyz.
-Name:	cfcn-b-global30.66666654.xyz
-Address: 104.18.115.79
+Name:	achk.cloudflarest.link
+Address: 185.53.178.50
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	user.starbarterscloud.io
-Address: 172.67.199.81
-Name:	user.starbarterscloud.io
-Address: 104.21.21.152
-Name:	user.starbarterscloud.io
-Address: 2606:4700:3031::6815:1598
-Name:	user.starbarterscloud.io
-Address: 2606:4700:3036::ac43:c751
+qw688.cc	canonical name = clt4b.lxozg.rest.
+clt4b.lxozg.rest	canonical name = clt4b.j2m.cc.
+Name:	clt4b.j2m.cc
+Address: 104.168.30.119
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 3g.rqxka.top: NXDOMAIN
+** server can't find 26.namesilo123.top: NXDOMAIN
 
