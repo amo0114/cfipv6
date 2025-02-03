@@ -26809,3 +26809,25 @@ Performing DNS lookup for jhpcza.66666654.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9e7a0e2] Update project files
+ 4 files changed, 87 insertions(+), 33 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   d997416..9e7a0e2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.98.233...
+Fetching domains for 104.18.10.186...
+Fetching domains for 104.17.241.80...
+succeed to fetch domains for 104.17.241.80 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.10.186 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.98.233 from https://dnsdblookup.com/
+域名列表为
+['www.flukenetworks.com', 'www.97777pk.com', 'www.kbss888.com', 'www.jg666.top', 'zlcq520.com', 'www.tl123123.com', 'billing.purevpn.com', 'www.ukrnafta.com', 'www.7277tl.com', 'www.33mov.com', 'www.20cy.com', 'www.8899tl.com', 'scriptsbundle.ticksy.com', 'withemes.ticksy.com', 'www.88wwk.com', 'www.56fu.com', 'syoux.yexingl.top', 'www.339my.xyz', 'bringthepixel.ticksy.com', 'www.dzy66666.com', 'audiojungle.net', 'www.m6y6.com', '668hu.com', 'www.8828pk.com', 'tockt.com', 'yxy176.com', 'www.rxjh520.cc', 'nouthemes.ticksy.com', 'pxlab.ticksy.com', 'www.cx888my.com', 'shy6666.com', 'www.jyyz.cn', '4hug11.com', 'www.zddzd.top', 'www.nwwtl.com', 'www.cu90.com', 'www.yh9pk.com', 'nlsdwsz.66666654.xyz', 'ticksy.com', 'sfanyi.yexingl.top', 'www.dcs99.com', 'www.999998.vip', 'www.tlbb888.com', 'www.2002my.com', 'www.1a1v.com', 'www.hhyy028.com', 'www.iios.club', 'www.shy6666.com', 'themeisland.ticksy.com', 'cloudflare.cfgo.cc', 'www.888dyy.cc', 'www.2024my.top', 'www.7lq.com', 'www.niupiplus.top', 'www.pk299.com', 'nayrathemes.ticksy.com', 'www.yan176.com', 'www.115fhd.com', 'yiqi1234.com', 'rrq96.com', '33mov.com', 'www.207my.com', 'www.wubei520.com', 'wxnh88.qfort.cn', 'www.8877fz.com', 'www.5522tl.com', 'www.xz898my.com', 'www.668hu.com', 'www.xkx999.com', 'ysz8.com', 'www.rrq96.com', 'www.zlcq520.com', 'www.1888cq.com', 'www.tlbbhy.com', 'www.993my.com', 'www.kanju8.com', 'www.cgfxw.com', 'www.tockt.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.rrq96.com...
+Performing DNS lookup for www.jyyz.cn...
+Performing DNS lookup for www.1888cq.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
