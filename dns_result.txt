@@ -2,72 +2,27 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-test2.xjp.rocks	canonical name = fallback.cffangyu.com.
-Name:	fallback.cffangyu.com
-Address: 162.159.240.19
-Name:	fallback.cffangyu.com
-Address: 162.159.252.99
-Name:	fallback.cffangyu.com
-Address: 104.18.16.228
-Name:	fallback.cffangyu.com
-Address: 162.159.246.239
-Name:	fallback.cffangyu.com
-Address: 162.159.243.27
-Name:	fallback.cffangyu.com
-Address: 104.16.36.201
-Name:	fallback.cffangyu.com
-Address: 104.17.139.136
-Name:	fallback.cffangyu.com
-Address: 104.22.25.156
-Name:	fallback.cffangyu.com
-Address: 104.18.240.157
-Name:	fallback.cffangyu.com
-Address: 104.16.209.127
-Name:	fallback.cffangyu.com
-Address: 104.16.216.85
-Name:	fallback.cffangyu.com
-Address: 162.159.9.101
-Name:	fallback.cffangyu.com
-Address: 104.22.61.249
-Name:	fallback.cffangyu.com
-Address: 104.16.35.216
+www.75xs.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.177.98
+Name:	ips.993888.xyz
+Address: 104.18.146.205
+Name:	ips.993888.xyz
+Address: 104.17.72.163
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find 28et.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.huaidan2.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.128.72
-Name:	ips.993888.xyz
-Address: 104.18.180.120
-Name:	ips.993888.xyz
-Address: 104.18.172.15
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-m.6988tv.com	canonical name = 6988tv.com.
-6988tv.com	canonical name = cf.cloudflare.182682.xyz.
-Name:	cf.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	cf.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	cf.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	cf.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	cf.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	cf.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
+158499.com	canonical name = zyh.lywlf.com.
+zyh.lywlf.com	canonical name = san.appxzq.com.
+Name:	san.appxzq.com
+Address: 38.143.11.95
+Name:	san.appxzq.com
+Address: ::ffff:146.112.61.108
 
