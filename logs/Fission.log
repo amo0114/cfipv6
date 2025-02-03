@@ -26721,3 +26721,25 @@ Performing DNS lookup for ppxdm.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8a9e24b] Update project files
+ 4 files changed, 59 insertions(+), 83 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   396d5a9..8a9e24b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.7.41...
+Fetching domains for 104.18.252.13...
+Fetching domains for 104.21.239.185...
+succeed to fetch domains for 104.18.252.13 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.239.185 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.7.41 from https://dnsdblookup.com/
+域名列表为
+['www.umi.com', 'a.wshopon.com', 'hanjula.com', 'achk.cloudflarest.link', 'x9c33.com', 'www.iios.club', 'www.cykz.net', 'nlsdwsz.66666654.xyz', '4gdiy.com', 'www.jingguanghang66.com', '2456qi.com', 'ipdb.rr.nu', '234lei.com', 'live.kh.malimarcdn.com', 'www.zzztch.com', 'www.28et.com', 'yh006.wshopon.com', '27bbe.com', 'polkaudio.com', 'yh7.dtku41.xyz', 'www.tpyyc.com', 'baxtc.66666654.xyz', 'tpyyc.com', 'static.wshopon.com', 'protecao.vivo.com.br', 'guyu.bygzs.cc', 'btdad.best', 'www.iios.fun', 'www.b9d88.com', 'www.234lei.com', 'p3.v2raybrasil.cloud', 'yjys05.com', 'zs.polkaudio.com', 'www.27bbe.com', 'chunbb.sectigo.pp.ua', 'www.2456qi.com', 'www.foodpanda.sg', 'btdad17.xyz', 'tw-bestprize-54.com', 'm.niuerzs.com', 'assine.vivo.com.br', 'www.polkaudio.com', 'www.zhenyuanpacking.com', 'biliplayer.91vrchat.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zhenyuanpacking.com...
+Performing DNS lookup for www.cykz.net...
+Performing DNS lookup for www.iios.fun...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
