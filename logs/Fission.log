@@ -26700,3 +26700,24 @@ Performing DNS lookup for www.xiuluo942.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 396d5a9] Update project files
+ 4 files changed, 92 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   fc0aff7..396d5a9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.188.3...
+Fetching domains for 104.18.11.137...
+Fetching domains for 104.18.0.170...
+succeed to fetch domains for 104.18.11.137 from https://site.ip138.com/
+succeed to fetch domains for 104.18.188.3 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.0.170 from https://dnsdblookup.com/
+域名列表为
+['www.93xs.net', 'www.93xscc.com', 'www.nitianxieshen.com', 'msjh520.com', 'www.erienewsnow.com', 'www.s777t.com', 'www.ttxyy.com', 'www.txydd.com', 'www.longwangchuanshuo.net', 's777t.com', '6456bb.com', 'tofucloud.net', 'yapigames.com', 'www.longwangchuanshuo.com', 'b6p22.com', 'www.zongcaixs.com', '18inject.comicless.com', 'yx.887141.xyz', 'www.htv10.tv', 'www.xwsxs.com', 'xz12.com', 'www.zongcaiwx.com', 'www.gaoqingw.com', 'www.reserved.com', 'jp03.nttkk.com', 'www.xuanqishi.cc', 'www.dingdingdm.com', '555dyy15.com', 'ppxdm.com', 'www.kanunu2.com', 'www.wfmj.com', 'www.xiuluoxiaoshuo.com', 'www.ddwhm.com', 'dl.888231.xyz', 'www.kjyxyw.com', 'www.ppxdm.com', 'www.6988tv.com', 'v4.cfnode.eu.org', 'www.5345mo.com', '086181.xyz', 'www.doupobook.cc', 'www.centralbank.net', '74us.com', 'www.sychuojia.com', 'www.yapigames.com', 'www.iios.me', 'www.77zw.cc', 'www.74fan.com', 'www.xkstxt.com', 'psp818.com', 'www.a57.net', '781890.com', 'www.dmbj.cc', 'www.gaycn.top', 'didamh.com', 'default.cfnode.eu.org', 'www.xshuxs.com', 'www.xiangcun66.cc', 'www.doupobook.com', 'www.damidm.com', '988nv.com', 'www.newschannelnebraska.com', 'www.gumanxs.com', 'www.tvyb10.com', 'play.saohu187.com', 'stat.comicless.com', 'www.iios.club', 'www.85xs.cc', 'www.zhiruolan.com', 'ascopubs.org', 'www.quanben360.com', 'www.qdzhongbei.com', 'rivercountry.newschannelnebraska.com', 'www.psp818.com', 'play3.saohu187.com', 'www.99wxw.cc', 'www.nanhuyt.com', 'www.b6p22.com', 'www.didamh.com', 'www.99wx.cc', 'www.msjh520.com', 'www.qindixs.com', 'jpvsavhyu.76898102.xyz', 'www.wicz.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.iios.me...
+Performing DNS lookup for www.s777t.com...
+Performing DNS lookup for ppxdm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
