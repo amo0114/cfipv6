@@ -2,6 +2,33 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
+xuyan.cc	canonical name = cloudflare.maxddos.com.
+cloudflare.maxddos.com	canonical name = baozi.cloudflare.182682.xyz.
+Name:	baozi.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	baozi.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	baozi.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	baozi.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	baozi.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	baozi.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	baozi.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	baozi.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	baozi.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	baozi.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
 Name:	achk.cloudflarest.link
 Address: 185.53.178.50
 
@@ -9,13 +36,8 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-qw688.cc	canonical name = clt4b.lxozg.rest.
-clt4b.lxozg.rest	canonical name = clt4b.j2m.cc.
-Name:	clt4b.j2m.cc
-Address: 104.168.30.119
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find 26.namesilo123.top: NXDOMAIN
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global11.66666654.xyz.
+Name:	cfcn-b-global11.66666654.xyz
+Address: 104.18.121.38
 

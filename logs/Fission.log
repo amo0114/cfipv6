@@ -26635,3 +26635,25 @@ Performing DNS lookup for 3g.rqxka.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c27cef8] Update project files
+ 4 files changed, 51 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   fbdf394..c27cef8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.27.72...
+Fetching domains for 104.19.67.140...
+Fetching domains for 104.18.120.227...
+succeed to fetch domains for 104.18.27.72 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.120.227 from https://site.ip138.com/
+succeed to fetch domains for 104.19.67.140 from https://ipchaxun.com/
+域名列表为
+['res.wcnmtx.cn', '4hu37v.com', '26.namesilo123.top', 'a345tx.com', 'www.295k.com', 'www.yjys05.com', 'shop.cyfan.top', '80.cf.bestl.de', 'qw688.cc', 'www.ddwhm.com', 'baxtc.66666654.xyz', 'achk.cloudflarest.link', 'blog.cyfan.top', 'np1.nearpod.com', 'www.91m.cc', 'nearpod.com', '443.cf.bestl.de', 'www.36dm.com', 'speedcl.5489265.xyz', 'www.wn04.cc', 'www.a345tx.com', 'join.nearpod.com', 'acquirees.online', 'www.ixarr.com', 'www.hrblddl.cn', 'www.qiqi888.com', 'www.wn03.cc', 'www.4huqq08.com', 'www.cocanwelding.com', 'jpadwinfs.114514782.xyz', 'yh7.dtku41.xyz', '7.namesilo123.top', 'www.4hu37v.com', 'api.nearpod.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.wooowooo.com', 'yx.887141.xyz', 'nlsdwsz.66666654.xyz', 'wz.weishao2023.dk.eu.org', 'www.36dm.club', 'speed.marisalnc.com', 'ixarr.com', 'm.tvccc.org']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for achk.cloudflarest.link...
+Performing DNS lookup for qw688.cc...
+Performing DNS lookup for 26.namesilo123.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
