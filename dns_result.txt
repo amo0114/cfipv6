@@ -2,27 +2,23 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.75xs.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.177.98
-Name:	ips.993888.xyz
-Address: 104.18.146.205
-Name:	ips.993888.xyz
-Address: 104.17.72.163
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find 28et.com: NXDOMAIN
+Name:	www.nba01.com
+Address: 103.234.54.73
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-158499.com	canonical name = zyh.lywlf.com.
-zyh.lywlf.com	canonical name = san.appxzq.com.
-Name:	san.appxzq.com
-Address: 38.143.11.95
-Name:	san.appxzq.com
-Address: ::ffff:146.112.61.108
+Name:	www.lyzdzy.com
+Address: 208.98.40.12
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+jhpcza.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global23.66666654.xyz.
+Name:	cfcn-b-global23.66666654.xyz
+Address: 104.18.121.105
 

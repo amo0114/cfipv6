@@ -26765,3 +26765,25 @@ Performing DNS lookup for m.6988tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 72a2fce] Update project files
+ 4 files changed, 61 insertions(+), 101 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   27fbd88..72a2fce  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.64.107...
+Fetching domains for 104.17.248.195...
+Fetching domains for 104.17.236.79...
+succeed to fetch domains for 104.17.236.79 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.248.195 from https://site.ip138.com/
+succeed to fetch domains for 104.18.64.107 from https://ipchaxun.com/
+域名列表为
+['www.lyzdzy.com', 'www.ratemyjob.com', '28et.com', 'www.zzztch.com', 'ju.ju721.com', 'www.7lq.com', 'www.55xs.cc', 'cfip.xxxxxxxx.tk', 'www.yanqin8.com', 'www.xinyi176.com', 'www.75xs.cc', 'www.dzy66666.com', 'ju.ju721.info', 'www.97777pk.com', 'www.75uw.com', 'www.jg666.top', 'www.aks5.com', 'www.xiuluo942.com', '778992.com', 'h5app-dev.multilotto.com', 'www.93xscc.com', 'xcyy696.com', 'www.nitianzw.com', 'www.99wx.cc', '158499.com', 'www.77zw.cc', 'ju.waheisg.cn', 'multilotto.com', 'www.multilotto.com', 'www.rmsxs.com', 'ratemyjob.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.75xs.cc...
+Performing DNS lookup for 28et.com...
+Performing DNS lookup for 158499.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
