@@ -26923,3 +26923,25 @@ Performing DNS lookup for 4hubb12.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 17f3b32] Update project files
+ 4 files changed, 71 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   c017e0c..17f3b32  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.142.224...
+Fetching domains for 104.18.37.40...
+Fetching domains for 104.22.13.88...
+succeed to fetch domains for 104.17.142.224 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.13.88 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.37.40 from https://ipchaxun.com/
+域名列表为
+['www.xuanqishi.cc', 'ddidrill.cn', 'www.cfhuagong.com', 'recurbate.cc', '633tl.com', 'www.99wxw.cc', 'www.brevo.com', 'www.sextapes.fr', 'fx.cfvn66.com', 'sextapes.fr', 'www.lamasastore.com', 'www.harryhelmet.com', 'www.ddidrill.cn', 'www.cocanwelding.com', 'www.93xs.net', 'www.rbdy2020.com', 'xoxjj.com', 'yanetflix.com', 'www.qindixs.com', 'cdn.cfvn66.com', 'p1.cfvn66.com', 'www.ernweb.com', 'www.93xscc.com', 'cw.cfvn66.com', 'www.poloimall.com', 'www.zcgs668.com', 'www.633tl.com', 'cfvn66.com', 'www.shunlo.com', 'www.qo464dbz.cn', 'www.longwangchuanshuo.com', 'www.zgdyhb.com', 'www.555yy1.com', 'rbdy2020.com', 'skypoker.com', 'www.1a1v.com', 'scdy.app99.cn', 'www.85xs.cc', 'www.zcs.cc', 'www.zzztch.com', 'kbj520.com', 'yxs01.tk', 'www.ttx.com', 'www.75xs.cc', 'www.nyafun.net', 'lamasastore.com', 'www.hypeness.com.br', 'brevo.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfvn66.com...
+Performing DNS lookup for cw.cfvn66.com...
+Performing DNS lookup for www.qindixs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
