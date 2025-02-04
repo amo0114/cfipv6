@@ -26945,3 +26945,25 @@ Performing DNS lookup for www.qindixs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6d2b970] Update project files
+ 4 files changed, 70 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   17f3b32..6d2b970  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.7.115...
+Fetching domains for 104.17.231.130...
+Fetching domains for 104.18.29.35...
+succeed to fetch domains for 104.18.7.115 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.29.35 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.231.130 from https://ipchaxun.com/
+域名列表为
+['555yy7.com', 'www.85xs.cc', 'www.75xs.cc', 'qdbangsen.com', 'www.zhaosf.mobi', 'www.lee.com', 'www.64zzd.com', 'a456hs.com', '64zzd.com', 'www.h0930.com', 'www.ppxdm.com', 'b3y66.com', 'jpnewacs.114514782.xyz', '69acn.com', 'www.a456hs.com', 'www.cocanwelding.com', 'www.purepeople.com.br', 'fr.lee.com', 'www.ctexcel.ca', 'de.lee.com', 'ppxdm.com', 'www.69acn.com', 'www.wn04.cc', 'www.toysrus.pt', 'www.74fan.com', 'txydd.com', 'www.k9yuxew7.cc', 'www.qdtsdp.com', 'www.villeroy-boch.fr', 'www.93xscc.com', 'ronmeketnerep.pro', 'www.summerpockets.com', 'www.msgao.com', '555yy1.com', 'www.zyhcz.com', 'www.555yy4.com', 'www.glp567.com', 'qdtsdp.com', '55wuv.com', 'qksign88.com', 'www.qke866.com', 'viutch.com', '74fan.com', 'www.highwirepress.com', 'f12.bet', 'toysrus.pt', 'glp567.com', 'x4d99.com', '4huxyh.com', 'static.ctexcel.ca', 'hotcoinex.pro', 'a789h.com', '555pian.com', 'qke866.com', 'skysupplier.skyworksinc.com', 'www.b3y66.com', 'bosetar.net', 'www.hotcoinex.pro', 'www.xinjiajixie.cn', 'zxk555.com', 'www.m88agen.com', 'www.x4d99.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.lee.com...
+Performing DNS lookup for www.75xs.cc...
+Performing DNS lookup for skysupplier.skyworksinc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
