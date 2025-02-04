@@ -26967,3 +26967,25 @@ Performing DNS lookup for skysupplier.skyworksinc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 04946fa] Update project files
+ 4 files changed, 96 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   6d2b970..04946fa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.30.187...
+Fetching domains for 104.18.29.35...
+Fetching domains for 104.17.231.130...
+succeed to fetch domains for 104.17.231.130 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.30.187 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.29.35 from https://dnsdblookup.com/
+域名列表为
+['www.85xs.cc', 'jpvsavhyu.76898102.xyz', '96kph.com', 'www.skokka.com', 'de.lee.com', 'www.glp567.com', 'www.99wxw.cc', 'cgcc.digicert.pp.ua', '74fan.com', 'skokka.com', '555yy1.com', 'www.a234yt.com', 'www.villeroy-boch.fr', 'www.75xs.cc', 'www.ppxdm.com', 'www.xiuluo942.com', 'www.tfxi2.com', 'qdbangsen.com', 'cfip.xxxxxxxx.tk', 'www.zhaosf.mobi', 'b3y66.com', '555pian.com', '555yy7.com', 'www.74fan.com', 'glp567.com', 'www.doupobook.cc', 'fr.lee.com', 'www.xinjiajixie.cn', 'txydd.com', 'www.2aa6e3.com', 'www.purepeople.com.br', 'qdtsdp.com', 'www.qdtsdp.com', 'tfxi2.com', 'www.a789bt.com', 'a234yt.com', 'x4d99.com', '55wuv.com', 'zxk555.com', 'hotcoinex.pro', 'www.555yy4.com', 'www.ququxiaoshuo.com', 'a456hs.com', 'www.hotcoinex.pro', 'www.doupobook.com', 'viutch.com', 'www.a456hs.com', 'www.cocanwelding.com', 'www.x4d99.com', 'skysupplier.skyworksinc.com', 'www.96kph.com', 'www.lailai360.com', 'www.3wkan.com', 'www.msgao.com', 'www.lee.com', 'www.b3y66.com', 'www.93xscc.com', 'ppxdm.com', 'a789bt.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tfxi2.com...
+Performing DNS lookup for jpvsavhyu.76898102.xyz...
+Performing DNS lookup for www.qdtsdp.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

@@ -2,60 +2,30 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tfxi2.com
-Address: 104.21.96.1
-Name:	www.tfxi2.com
-Address: 104.21.80.1
-Name:	www.tfxi2.com
-Address: 104.21.16.1
-Name:	www.tfxi2.com
-Address: 104.21.48.1
-Name:	www.tfxi2.com
-Address: 104.21.112.1
-Name:	www.tfxi2.com
-Address: 104.21.64.1
-Name:	www.tfxi2.com
-Address: 104.21.32.1
-Name:	www.tfxi2.com
-Address: 2606:4700:3030::6815:5001
-Name:	www.tfxi2.com
-Address: 2606:4700:3030::6815:2001
-Name:	www.tfxi2.com
-Address: 2606:4700:3030::6815:1001
-Name:	www.tfxi2.com
-Address: 2606:4700:3030::6815:4001
-Name:	www.tfxi2.com
-Address: 2606:4700:3030::6815:3001
-Name:	www.tfxi2.com
-Address: 2606:4700:3030::6815:6001
-Name:	www.tfxi2.com
-Address: 2606:4700:3030::6815:7001
+www.fangunbook.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	jpvsavhyu.76898102.xyz
-Address: 104.18.115.60
+fr.lee.com	canonical name = fr.lee.com.cdn.cloudflare.net.
+Name:	fr.lee.com.cdn.cloudflare.net
+Address: 172.64.149.173
+Name:	fr.lee.com.cdn.cloudflare.net
+Address: 104.18.38.83
+Name:	fr.lee.com.cdn.cloudflare.net
+Address: 2606:4700:4400::6812:2653
+Name:	fr.lee.com.cdn.cloudflare.net
+Address: 2606:4700:4400::ac40:95ad
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.qdtsdp.com	canonical name = qdtsdp.hai888.top.
-qdtsdp.hai888.top	canonical name = dns02.hddm.cc.
-Name:	dns02.hddm.cc
-Address: 104.21.64.1
-Name:	dns02.hddm.cc
-Address: 104.21.32.1
-Name:	dns02.hddm.cc
-Address: 104.21.48.1
-Name:	dns02.hddm.cc
-Address: 104.21.112.1
-Name:	dns02.hddm.cc
-Address: 104.21.16.1
-Name:	dns02.hddm.cc
-Address: 104.21.96.1
-Name:	dns02.hddm.cc
-Address: 104.21.80.1
+** server can't find x4d99.com: NXDOMAIN
 
