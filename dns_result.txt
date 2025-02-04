@@ -2,21 +2,27 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.jg666.top
-Address: 154.38.102.223
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.zlcq520.com: NXDOMAIN
+www.novartis.it	canonical name = www.novartis.it.cdn.cloudflare.net.
+Name:	www.novartis.it.cdn.cloudflare.net
+Address: 104.18.32.102
+Name:	www.novartis.it.cdn.cloudflare.net
+Address: 172.64.155.154
+Name:	www.novartis.it.cdn.cloudflare.net
+Address: 2606:4700:4400::6812:2066
+Name:	www.novartis.it.cdn.cloudflare.net
+Address: 2606:4700:4400::ac40:9b9a
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-spca.114514782.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global16.66666654.xyz.
-Name:	cfcn-a-global16.66666654.xyz
-Address: 104.18.119.23
+Name:	www.lyzdzy.com
+Address: 208.98.43.15
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	4hubb12.com
+Address: 35.227.193.9
 

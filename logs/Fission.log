@@ -26880,3 +26880,24 @@ Performing DNS lookup for speedcl.5489265.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8243552] Update project files
+ 4 files changed, 39 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   73dd236..8243552  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.225.96...
+Fetching domains for 104.16.97.163...
+Fetching domains for 104.21.230.35...
+succeed to fetch domains for 104.17.225.96 from https://site.ip138.com/
+succeed to fetch domains for 104.16.97.163 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.230.35 from https://dnsdblookup.com/
+域名列表为
+['www.m6y6.com', 'www.tlbb888.com', 'www.zlcq520.com', 'www.lyzdzy.com', 'yiqi1234.com', 'www.5522tl.com', 'www.qindixs.com', 'cracg.com', 'www.jg666.top', 'www.owlook.com.cn', 'www.xinjuc.com', 'm2pjo.app', 'www.50zw.co', 'www.iios.club', 'wap.luwangyangrong.com', 'www.dafuhao.com', 'www.15v5.com', 'speed.marisalnc.com', 'www.pk299.com', 'www.longwangchuanshuo.com', 'cf.345673.xyz', 'chat2.oaichat.cc', 'www.kunzedu.com', 'www.sf123.mobi', 'dm84.tv', '345673.xyz', 'www.yh9pk.com', 'www.doudou.monster', 'www.whpaiger.com', 'www.dzy66666.com', 'www.cfhuagong.com', 'www.xiaoshuofen.com', 'www.295k.com', 'www.wn01.uk', 'owlook.com.cn', 'www.hhyy028.com', 'spca.114514782.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.jg666.top...
+Performing DNS lookup for www.zlcq520.com...
+Performing DNS lookup for spca.114514782.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
