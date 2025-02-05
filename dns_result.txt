@@ -2,20 +2,30 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 208.98.43.136
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.133.43
+Name:	ips.993888.xyz
+Address: 104.18.189.167
+Name:	ips.993888.xyz
+Address: 104.18.184.68
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.kunzedu.com
-Address: 103.88.187.196
+Name:	www.sjzsckj.com
+Address: 208.98.40.209
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
+www.77zw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.184.68
+Name:	ips.993888.xyz
+Address: 104.18.189.167
+Name:	ips.993888.xyz
+Address: 104.17.133.43
 

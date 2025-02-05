@@ -27077,3 +27077,25 @@ Performing DNS lookup for jpadwinfs.114514782.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a802002] Update project files
+ 4 files changed, 52 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   51808c8..a802002  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.187.114...
+Fetching domains for 104.16.226.108...
+Fetching domains for 104.17.89.37...
+succeed to fetch domains for 104.18.187.114 from https://site.ip138.com/
+succeed to fetch domains for 104.16.226.108 from https://site.ip138.com/
+succeed to fetch domains for 104.17.89.37 from https://ipchaxun.com/
+域名列表为
+['www.tezos.com', 'www.kunzedu.com', 'www.knvod.com', 'm.niuerzs.com', 'www.555yy4.com', 'www.cocanwelding.com', 'yfc001.cc', 'tezos.com', 'taot.ao', 'www.whpaiger.com', 'www.zzztch.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.kunzedu.com...
+Performing DNS lookup for www.whpaiger.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
