@@ -27099,3 +27099,24 @@ Performing DNS lookup for www.whpaiger.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ca8e4de] Update project files
+ 4 files changed, 48 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   a802002..ca8e4de  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.199.201...
+Fetching domains for 104.25.187.109...
+Fetching domains for 104.17.128.25...
+succeed to fetch domains for 104.17.199.201 from https://site.ip138.com/
+succeed to fetch domains for 104.25.187.109 from https://site.ip138.com/
+succeed to fetch domains for 104.17.128.25 from https://ipchaxun.com/
+域名列表为
+['www.17qdh.com', '000066.com', 'www.uumjw.com', '555dy7.com', 'www.qindi.net', 'www.555yy1.com', 'www.88wwk.com', 'www.51jion.com', 'www.99wxw.cc', 'www.huakai2024.com', 'www.whpaiger.com', 'www.99wx.cc', 'www.4j4j.cn', 'www.77ty.com', 'www.93xscc.com', 'www.nitianxieshen.com', 'www.xigua5.com', 'cg.22yy7.com', 'www.sjzsckj.com', 'www.msgao.com', 'www.555yy4.com', 'www.longwangchuanshuo.com', 'www.qindis.com', 'www.cx888my.com', 'www.52dyk.com', 'www.nitianzw.com', 'www.77zw.cc', 'www.ywwangxing.com', 'whwanet.com', 'www.dmbj.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.93xscc.com...
+Performing DNS lookup for www.sjzsckj.com...
+Performing DNS lookup for www.77zw.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
