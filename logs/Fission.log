@@ -27164,3 +27164,24 @@ Performing DNS lookup for www.116.ag...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5a1091b] Update project files
+ 4 files changed, 44 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   c7d8977..5a1091b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.45.49...
+Fetching domains for 141.101.115.64...
+Fetching domains for 104.22.1.91...
+succeed to fetch domains for 141.101.115.64 from https://dnsdblookup.com/
+succeed to fetch domains for 104.22.1.91 from https://site.ip138.com/
+succeed to fetch domains for 104.17.45.49 from https://dnsdblookup.com/
+域名列表为
+['yhddsb.com', 'kk554.com', 'www.77zw.cc', 'www.lyzdzy.com', 'www.kk554.com', 'www.anluyg.net', 'www.zhenfanjixie.com', 'www.cfhuagong.com', 'pay.jserinfo.com', 'www.lnudz.com', 'www.whpaiger.com', 'www.90dushu.com', 'whjinwu.com', 'ju.ju721.info', 'www.xshuxs.com', 'www.6i5.com', 'www.555yy4.com', 'ju.waheisg.cn', 'www.qp666.com', 'lizaonair.com', 'www.cocanwelding.com', 'www.1999.co.jp', 'www.116.ag', 'www.zzztch.com', 'www.hg2096.com', 'www.piaku.cc', 'www.m90s.com', '5dy6.cc', 'kukedy.tv', 'www.99wxw.cc', 'www.jjtyss.com', 'www.555dy7.com', 'ju.ju721.com', 'www.tv9090.com', 'www.7sc.cc', 'www.96dushu.com', 'www.92mili.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.mytvsuper.us.kg', 'www.11txt.com', 'm.niuerzs.com', 'stock.hostmonit.com', 'www.sxyzxh.com', 'qf527.com', 'www.byzhu.com', 'www.yncareer.com', 'www.tinghen.com', 'www.0550cq.com', 'www.zgjmw.net', 'a.999696.xyz', 'ag.hg2096.com', 'www.4148.net', 'www.99wx.cc', '8810868.com', 'cf.999696.xyz', 'nxyxzl.com', 'www.doupobook.cc', 'www.zongcaixs.cc', 'www.yjeky.com', '923055.com', 'www.xhzysh.com', 'qp66.com', 'killnet.top', 'www.qf527.com', 'zzztch.com', 'www.28dushu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.mytvsuper.us.kg...
+Performing DNS lookup for yundunwawablogcdn1yd.wawacm.com...
+Performing DNS lookup for www.xhzysh.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
