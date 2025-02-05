@@ -27120,3 +27120,25 @@ Performing DNS lookup for www.77zw.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 379a413] Update project files
+ 4 files changed, 66 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   ca8e4de..379a413  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.22.1.91...
+Fetching domains for 104.21.20.197...
+Fetching domains for 104.17.45.49...
+succeed to fetch domains for 104.22.1.91 from https://site.ip138.com/
+succeed to fetch domains for 104.21.20.197 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.45.49 from https://ipchaxun.com/
+域名列表为
+['stumparumper.com', 'dhost.hk', 'cfip.xxxxxxxx.tk', '5dy6.cc', 'suzhou78.com', 'gwkwrr.top', 'www.anguangjiancai.com', 'www.dhduoyuan.cn', 'www.cfhuagong.com', 'www.zxzabuz.cn', 'www.byzhu.com', 'ks20.cc', 'liftchem.com', '923055.com', 'www.qf527.com', 'www.1999.co.jp', 'www.zsych.net', 'zbjyedu.com', 'www.51santi.com', 'www.cocanwelding.com', 'www.99wx.cc', '1024g.love', 'sex.pornxxxhub.net', 'www.h00490.cn', 'www.anluyg.net', 'xs2.zidianzhan.net', '424oo.com', 'www.b7yy.cc', 'www.rssecz.com', 'www.whsdyzx.com', 'xn--vl1a.like8.info', 'www.tvccc.org', 'www.dqskgw.cn', 'z761y.com', 'www.v2ba.plus', 'www.dhost.hk', 'ag.hg2096.com', 'bouncycastles-hire.co.uk', 'www.z761y.com', 'lizaonair.com', 'www.lyzdzy.com', 'dhost.hk.cdn.cloudflare.net', 'lbtv.vip', 'xn--90w.like8.info', 'qf527.com', 'like8.info', 'www.epian8.com', 'xn--mes358aby2apfg.site', '6huh5ehwh4.xyz', 'm.gwkwrr.top', '88804.cn', 'judotbrands.com', 'wap.gwkwrr.top', 'banyung.pw', 'www.xshuxs.com', 'www.zzztch.com', 'qp66.com', 'www.dhost.hk.cdn.cloudflare.net', 'www.qp666.com', 'www.zkzcy.cn', 'v2ba.plus', 'www.hg2096.com', 'www.iios.fun', '8810868.com', 'gv007.website', '935f935.net', 'www.liftchem.com', 'www.116.ag', '247newsagency.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.whsdyzx.com...
+Performing DNS lookup for liftchem.com...
+Performing DNS lookup for www.1999.co.jp...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

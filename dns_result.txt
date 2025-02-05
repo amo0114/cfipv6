@@ -2,35 +2,24 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.whsdyzx.com
-Address: 104.21.20.197
-Name:	www.whsdyzx.com
-Address: 172.67.194.29
-Name:	www.whsdyzx.com
-Address: 2606:4700:3031::ac43:c21d
-Name:	www.whsdyzx.com
-Address: 2606:4700:3034::6815:14c5
+Name:	www.zzztch.com
+Address: 208.98.43.136
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	liftchem.com
-Address: 172.67.194.29
-Name:	liftchem.com
-Address: 104.21.20.197
-Name:	liftchem.com
-Address: 2606:4700:3031::ac43:c21d
-Name:	liftchem.com
-Address: 2606:4700:3034::6815:14c5
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.185.54
+Name:	ips.993888.xyz
+Address: 104.18.190.212
+Name:	ips.993888.xyz
+Address: 104.18.203.207
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.1999.co.jp	canonical name = www.1999.co.jp.cdn.cloudflare.net.
-Name:	www.1999.co.jp.cdn.cloudflare.net
-Address: 172.67.170.111
-Name:	www.1999.co.jp.cdn.cloudflare.net
-Address: 104.21.28.86
+*** Can't find www.116.ag: No answer
 
