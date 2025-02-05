@@ -27185,3 +27185,25 @@ Performing DNS lookup for www.xhzysh.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8cf22e4] Update project files
+ 4 files changed, 87 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   5a1091b..8cf22e4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.197.44...
+Fetching domains for 104.17.134.216...
+Fetching domains for 104.17.82.179...
+succeed to fetch domains for 104.17.82.179 from https://site.ip138.com/
+succeed to fetch domains for 104.17.197.44 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.134.216 from https://ipchaxun.com/
+域名列表为
+['5dy6.cc', 'stock.hostmonit.com', 'www.zongcaiwx.com', 'iios.club', 'www.bt4kyy.com', '5dy14.cc', 'www.555yy3.com', 'www.lyzdzy.com', 'www.hg098.com', 'pan.clun.top', 'www.555dy7.com', 'www.zhenfanjixie.com', 'www.555yy4.com', 'www.zzztch.com', 'www.cocanwelding.com', 'www.kunzedu.com', 'www.zxk555.com', '923055.com', 'www.qp666.com', 'czyinyao.com', 'm.kuaikan66.com', 'ag.hg2096.com', 'www.kan234.com', '8810868.com', 'www.whpaiger.com', 'www.kanju8.com', 'www.heidaoxs.com', 'bpzhe.com', 'www.555movie.me', 'www.652tv.com', 'www.wuwu9vn.shop']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for pan.clun.top...
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for www.652tv.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
