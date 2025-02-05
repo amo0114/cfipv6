@@ -1,25 +1,28 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 208.98.43.136
+** server can't find www.mytvsuper.us.kg: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.185.54
-Name:	ips.993888.xyz
-Address: 104.18.190.212
-Name:	ips.993888.xyz
-Address: 104.18.203.207
+yundunwawablogcdn1yd.wawacm.com	canonical name = cffast.wawacm.com.
+cffast.wawacm.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find www.116.ag: No answer
+Name:	www.xhzysh.com
+Address: 134.122.181.137
 

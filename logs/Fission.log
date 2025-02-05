@@ -27142,3 +27142,25 @@ Performing DNS lookup for www.1999.co.jp...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c7d8977] Update project files
+ 4 files changed, 56 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   379a413..c7d8977  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.45.49...
+Fetching domains for 104.22.1.91...
+Fetching domains for 104.17.197.44...
+succeed to fetch domains for 104.22.1.91 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.197.44 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.45.49 from https://ipchaxun.com/
+域名列表为
+['www.lyzdzy.com', 'www.555dy7.com', 'www.whpaiger.com', 'www.qp666.com', 'www.cfhuagong.com', '923055.com', 'www.555yy4.com', 'ag.hg2096.com', 'www.qf527.com', 'www.cocanwelding.com', 'www.zhenfanjixie.com', 'www.bt4kyy.com', 'www.116.ag', 'qf527.com', 'czyinyao.com', 'www.zzztch.com', 'lizaonair.com', '8810868.com', 'www.anluyg.net', 'qp66.com', 'www.hg2096.com', 'www.1999.co.jp', '5dy6.cc', 'm.kuaikan66.com', 'www.xshuxs.com', 'iios.club', 'www.652tv.com', 'www.kunzedu.com', 'www.byzhu.com', 'www.99wx.cc', 'pan.clun.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for www.116.ag...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
