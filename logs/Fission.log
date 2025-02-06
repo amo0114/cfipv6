@@ -27317,3 +27317,25 @@ Performing DNS lookup for yim2.yinxink.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f11f69d] Update project files
+ 4 files changed, 108 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   50ca175..f11f69d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.245.115...
+Fetching domains for 104.17.81.251...
+Fetching domains for 104.17.87.146...
+succeed to fetch domains for 104.17.87.146 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.245.115 from https://site.ip138.com/
+succeed to fetch domains for 104.17.81.251 from https://dnsdblookup.com/
+域名列表为
+['wego.com.ru', 'wego.vn', 'iq.wego.com', '2279966.com', 'www.xigua5.net', 'www.wego.ps', 'tn.wego.com', 'www.qf527.com', 'www.wego.ly', 'www.wego.pk', 'lb.wego.com', 'sa.wego.com', 'ar.wego.com', 'www.wego.sd', 'www.wegotravel.co.nz', 'eg.wego.com', 'www.wego.ae', 'wego.co.in', 'wego.com.sg', 'www.cocanwelding.com', 'wego.pk', 'bh.wego.com', 'wego.ps', 'om.wego.com', 'wego.cn', 'wego.ly', 'wego.sd', '8810868.com', 'dz.wego.com', 'm.luwangyangrong.com', 'www.wego.hk', 'mo.wego.com', 'kw.wego.com', 'ag.hg2096.com', 'wego.qa', 'www.wego.vn', 'wego.com', 'www.wego.com.ru', 'www.36dm.com', 'www.wego.qa', 'gh.wego.com', 'qp66.com', 'sy.wego.com', 'www.wego.com.my', 'www.wego.com.sg', 'www.wego.co.in', 'www.hmoeh.com', 'www.116.ag', 'www.wego.com', 'www.wego.co.id', 'www.wego.cn', 'www.wegotravel.ma', 'www.qp666.com', 'wego.hk', 'www.wego.com.ng', 'jo.wego.com', 'wegotravel.co.nz', 'qp666.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wego.vn...
+Performing DNS lookup for wego.co.in...
+Performing DNS lookup for om.wego.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
