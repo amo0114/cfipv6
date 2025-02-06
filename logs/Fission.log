@@ -27295,3 +27295,25 @@ Performing DNS lookup for www.zfgj999.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 50ca175] Update project files
+ 4 files changed, 71 insertions(+), 56 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   bc16b3b..50ca175  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.17.227...
+Fetching domains for 104.17.81.75...
+Fetching domains for 104.17.128.125...
+succeed to fetch domains for 104.17.81.75 from https://site.ip138.com/
+succeed to fetch domains for 104.18.17.227 from https://site.ip138.com/
+succeed to fetch domains for 104.17.128.125 from https://ipchaxun.com/
+域名列表为
+['www.xwsxs.com', 'www.doupobook.com', 'dm84.tv', 'www.nba01.com', 'christiandatingforfree.com', '57kkw.com', 'yreg-a.yinxink.cn', 'www.jockey.com', 'www.qf527.com', 'www.k421r.com', 'www.555pian.com', 'www.sex5a1x9.com', 'bpzhe.com', 'www.99wx.cc', 'b1y66.com', 'eoea.cloudns.org', 'cfip.xxxxxxxx.tk', '555dy7.com', 'www.x7x22.com', 'www.qp666.com', 'yim2.yinxink.cn', 'www.bpzhe.com', '555pian.com', 'ymo.yinxink.cn', 'ydzd.yinxink.cn', 'www.defense-technology.com', 'www.116.ag', 'www.b1y66.com', 'x7x22.com', 'www.99wxw.cc', 'aliceblueonline.com', 'www.syngenta.sk', 'iios.fun', 'qp66.com', 'dpx.com', 'www.kunzedu.com', '5dy6.cc', 'baipiaozhe.com', '8810868.com', 'ycm.yinxink.cn', 'www.57kkw.com', 'cf.yx.alue.link', 'www.christiandatingforfree.com', 'www.yzdrtz.com', 'www.vssc.gov.in', 'www.massagewarehouse.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.doupobook.com...
+Performing DNS lookup for www.vssc.gov.in...
+Performing DNS lookup for yim2.yinxink.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

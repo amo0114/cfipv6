@@ -2,38 +2,75 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.doupobook.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.183.146
-Name:	ips.993888.xyz
-Address: 104.18.177.8
-Name:	ips.993888.xyz
-Address: 104.18.159.184
+Name:	wego.vn
+Address: 104.18.244.115
+Name:	wego.vn
+Address: 104.18.242.115
+Name:	wego.vn
+Address: 104.18.241.115
+Name:	wego.vn
+Address: 104.18.243.115
+Name:	wego.vn
+Address: 104.18.245.115
+Name:	wego.vn
+Address: 2606:4700::6812:f273
+Name:	wego.vn
+Address: 2606:4700::6812:f573
+Name:	wego.vn
+Address: 2606:4700::6812:f173
+Name:	wego.vn
+Address: 2606:4700::6812:f473
+Name:	wego.vn
+Address: 2606:4700::6812:f373
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.vssc.gov.in	canonical name = www.vssc.gov.in.cdn.cloudflare.net.
-Name:	www.vssc.gov.in.cdn.cloudflare.net
-Address: 104.18.16.227
-Name:	www.vssc.gov.in.cdn.cloudflare.net
-Address: 104.18.17.227
-Name:	www.vssc.gov.in.cdn.cloudflare.net
-Address: 2606:4700::6812:10e3
-Name:	www.vssc.gov.in.cdn.cloudflare.net
-Address: 2606:4700::6812:11e3
+Name:	wego.co.in
+Address: 104.18.245.115
+Name:	wego.co.in
+Address: 104.18.241.115
+Name:	wego.co.in
+Address: 104.18.242.115
+Name:	wego.co.in
+Address: 104.18.244.115
+Name:	wego.co.in
+Address: 104.18.243.115
+Name:	wego.co.in
+Address: 2606:4700::6812:f373
+Name:	wego.co.in
+Address: 2606:4700::6812:f473
+Name:	wego.co.in
+Address: 2606:4700::6812:f173
+Name:	wego.co.in
+Address: 2606:4700::6812:f273
+Name:	wego.co.in
+Address: 2606:4700::6812:f573
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	yim2.yinxink.cn
-Address: 104.18.16.227
-Name:	yim2.yinxink.cn
-Address: 104.18.17.227
-Name:	yim2.yinxink.cn
-Address: 2606:4700::6812:10e3
-Name:	yim2.yinxink.cn
-Address: 2606:4700::6812:11e3
+om.wego.com	canonical name = om.wego.com.cdn.cloudflare.net.
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 104.18.244.115
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 104.18.242.115
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 104.18.243.115
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 104.18.241.115
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 104.18.245.115
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 2606:4700::6812:f173
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 2606:4700::6812:f273
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 2606:4700::6812:f373
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 2606:4700::6812:f473
+Name:	om.wego.com.cdn.cloudflare.net
+Address: 2606:4700::6812:f573
 
