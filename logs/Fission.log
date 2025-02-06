@@ -27229,3 +27229,25 @@ Performing DNS lookup for youxuan.byxiao.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3d2b1a0] Update project files
+ 4 files changed, 115 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   85b2036..3d2b1a0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.19.235...
+Fetching domains for 104.17.6.138...
+Fetching domains for 104.17.239.92...
+succeed to fetch domains for 104.17.6.138 from https://site.ip138.com/
+succeed to fetch domains for 104.17.239.92 from https://site.ip138.com/
+succeed to fetch domains for 104.21.19.235 from https://site.ip138.com/
+域名列表为
+['www.cfhuagong.com', 'awisaa.top', 'qquyas.top', 'sacekyu.top', 'phala.world', '897552.com', 'www.xinshiji168888.com', 'qinmingdiao.com', 'www.ayzjj.cn', 'www.sacekyu.top', 'www.ckss3.com', 'ckss3.com', 'm.awisaa.top', 'hbhy325.com', 'ykey4yop2zaebcbv.test.jm-comic5.art', 'www.dyo.gs', 'www.lingxiu13261.com', 'm.yeemqqmu.top', 'www.biqune.com', 'www.50zw.co', 'knowledge.broadcom.com', 'shidaojz.com', 'jcgajgps.com', 'www.99wxw.cc', 'www.3336687.com', 'jf2213.com', 'snowyi.net', 'kaltimkece.id', 'www.xuanmuyy.com', 'www.lyzdzy.com', 'tsdingxin.com', '3g.qquyas.top', 'www.75uw.com', 'thfdfcff.com', 'm.lingxiu13261.com', 'app.77777777aaaa.com', 'www.90seaa.com', '3g.ykmqsame.top', 'www.awisaa.top', 'www.shidaojz.com', 'www.flashfly.net', 'www.ydtxh.com', 'fnyy666.com', 'm.sacekyu.top', 'www.qquyas.top', 'jing36666.com', 'www.ykmqsame.top', 'www.yeemqqmu.top', '91p1419.xyz', 'kaduoduovip.com', 'www.6123da.com', 'www.cocanwelding.com', 'www.xzham.com', 'dyo.gs', 'uxhsgzck.xyz', '11ffkk.com', 'uu3366a.com', 'www.sxqiutian.com', 'm.wqhlhc.top', 'ios.2769058.xyz', 'xjhongyuan.com', 'jm-comic5.art', 'speedylottos.org', '0009961.com', 'wap.yeemqqmu.top', '857760000.com', 'yeemqqmu.top', 'dxppdd.xyz', 'www.wqhlhc.top', 'wap.sacekyu.top', '90seaa.com', '3g.yeemqqmu.top', '3g.sacekyu.top', 'wqhlhc.top', 'www.mcmgx.cc', 'bbs9.zpt6.site', 'flashfly.net', '3g.awisaa.top', 'www.uxhsgzck.xyz', 'www.qiuxiaw.com', 'm.0414dj.com', 'ykmqsame.top', '067510.com', 'www.shdub.cn', 'wap.awisaa.top', 'm.ykmqsame.top', 'www.kedou56.com', 'kedou56.com', 'reporting.dev.jm-comic5.art', 'www.jf2213.com', 'll006.com', 'dvsdgvdffymjrubthnuynryednby54541xdx.portalbmg.com', 'wap.wqhlhc.top', 'lyzdzy.com', 'wap.ykmqsame.top', '6123da.com', 'lingxiu13261.com', 'www.jjtyss.com', '34226.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qquyas.top...
+Performing DNS lookup for sacekyu.top...
+Performing DNS lookup for kaduoduovip.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
