@@ -27403,3 +27403,25 @@ Performing DNS lookup for www.xinjuc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9fae6b5] Update project files
+ 4 files changed, 128 insertions(+), 106 deletions(-)
+ rewrite dns_result.txt (89%)
+To github.com:amo0114/cfipv6.git
+   12525f2..9fae6b5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.243.201...
+Fetching domains for 104.17.87.119...
+Fetching domains for 141.101.115.17...
+succeed to fetch domains for 104.16.243.201 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.87.119 from https://dnsdblookup.com/
+succeed to fetch domains for 141.101.115.17 from https://dnsdblookup.com/
+域名列表为
+['www.yhddsb.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.woaiqi.com', 'www.sjzsckj.com', 'tv9090.com', '3467.qg292.com', 'www.tsdingxin.com', 'www.zzztch.com', 'www.ddaculture.com', '3297.qg292.com', 'www.sxe21.cn', 'www.yix.cc', 'www.web120.org', 'www.jmxhbgc.com', '28et.com', 'www.50zw.co', 'www.kk554.com', 'www.tv1080.com', 'www.11txt.com', 'killnet.top', 'www.yy6080y.net', 'www.kunzedu.com', 'www.longwangchuanshuo.com', '2834.qg292.com', '7sc.cc', '2833.qg292.com', '1717tv.com', 'www.6988tv.com', 'www.boyangjt.com', 'm.28dushu.com', 'yncareer.com', '3496.qg292.com', 'www.quanben360.com', 'www.99wxw.cc', 'www.7sc.cc', 'yundunwawablogcdn1yd.wawacm.com', 'www.yncareer.com', 'v99yh2.com', 'www.cfhuagong.com', 'www.74ms.com', 'm.4pcc.com', 'www.6i5.com', 'www.whjinwu.com', 'www.paizipai.top', '0550cq.com', 'www.kukedy.tv', 'kukedy.tv', 'www.93xscc.com', 'm.tvfff.com', 'www.lyzdzy.com', 'www.tinghen.com', 'www.nmhydz.com', 'www.hnxinlian.org', 'www.zyhcz.com', 'yyxycn.com', 'www.whpaiger.com', 'yy6080y.net', 'www.tushencn.com', 'www.cocanwelding.com', 'ys900.com', 'www.c333.net', 'v55t4.com', 'www.haqiandu.com', 'www.tv9090.com', 'www.sxyzxh.com', 'm.niuerzs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.74ms.com...
+Performing DNS lookup for www.zzztch.com...
+Performing DNS lookup for m.28dushu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

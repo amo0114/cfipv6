@@ -1,78 +1,23 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.74ms.com	canonical name = p8nky6e7.aliadvance.com.
-p8nky6e7.aliadvance.com	canonical name = 4rt5un96.n.aliadvance.com.
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.60
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.234
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.235
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.61
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.101
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.98
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.102
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.100
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.59
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.238
-Name:	4rt5un96.n.aliadvance.com
-Address: 172.247.175.99
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.236
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.58
-Name:	4rt5un96.n.aliadvance.com
-Address: 192.151.192.62
-Name:	4rt5un96.n.aliadvance.com
-Address: 198.16.61.237
+** server can't find www.qp666.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 208.98.43.138
+Name:	www.handou.tv
+Address: 172.67.196.167
+Name:	www.handou.tv
+Address: 104.21.68.156
+Name:	www.handou.tv
+Address: 2606:4700:3031::ac43:c4a7
+Name:	www.handou.tv
+Address: 2606:4700:3030::6815:449c
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-m.28dushu.com	canonical name = back.jdsharecodes.top.
-Name:	back.jdsharecodes.top
-Address: 104.21.32.1
-Name:	back.jdsharecodes.top
-Address: 104.21.48.1
-Name:	back.jdsharecodes.top
-Address: 104.21.96.1
-Name:	back.jdsharecodes.top
-Address: 104.21.80.1
-Name:	back.jdsharecodes.top
-Address: 104.21.112.1
-Name:	back.jdsharecodes.top
-Address: 104.21.64.1
-Name:	back.jdsharecodes.top
-Address: 104.21.16.1
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:7001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:1001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:3001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:4001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:5001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:2001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:6001
+** server can't find www.663dy.com: SERVFAIL
 
