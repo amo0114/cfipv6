@@ -27339,3 +27339,25 @@ Performing DNS lookup for om.wego.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 149e613] Update project files
+ 4 files changed, 42 insertions(+), 85 deletions(-)
+ rewrite dns_result.txt (91%)
+To github.com:amo0114/cfipv6.git
+   f11f69d..149e613  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.244.66...
+Fetching domains for 104.17.87.146...
+Fetching domains for 108.162.198.90...
+succeed to fetch domains for 104.17.244.66 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.87.146 from https://site.ip138.com/
+succeed to fetch domains for 108.162.198.90 from https://dnsdblookup.com/
+域名列表为
+['www.99wx.cc', '778992.com', 'www.tl123123.com', 'www.hmoeh.com', 'www.36dm.com', 'www.bpzhe.com', 'www.75xs.cc', 'www.xigua5.net', 'www.xz898my.com', 'bqg34.com', 'www.cfhuagong.com', 'www.awanmy.com', 'www.93xscc.com', 'freeyingshi.com', 'www.dmys3.com', '5dy6.cc', 'kt5000.com', 'www.5dy6.cc', 'www.wubei520.com', 'dami10.me', 'www.tockt.com', 'www.5522tl.com', 'cfip.xxxxxxxx.tk', 'www.xkstxt.com', 'www.yh9pk.com', 'www.5dy14.cc', 'www.zhenfanjixie.com', '555dy7.com', 'www.163my.com', 'www.clun.top', 'zhenfanjixie.com', 'www.ququxiaoshuo.com', 'www.cu90.com', 'www.51jion.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.163my.com...
+Performing DNS lookup for www.xigua5.net...
+Performing DNS lookup for bqg34.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
