@@ -27361,3 +27361,24 @@ Performing DNS lookup for bqg34.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3858635] Update project files
+ 4 files changed, 117 insertions(+), 7 deletions(-)
+To github.com:amo0114/cfipv6.git
+   149e613..3858635  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.244.214...
+Fetching domains for 104.17.95.39...
+Fetching domains for 104.18.245.115...
+succeed to fetch domains for 104.18.245.115 from https://site.ip138.com/
+succeed to fetch domains for 104.18.244.214 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.95.39 from https://dnsdblookup.com/
+域名列表为
+['wego.sd', 'www.bpzhe.com', 'www.wegotravel.co.nz', 'wego.ps', 'www.wego.co.in', 'www.5dy14.cc', 'vcd.la', 'www.wego.ae', 'www.wego.com.ng', 'wego.ly', 'zhenfanjixie.com', 'www.wego.com.sg', 'www.wego.com.my', 'sa.wego.com', 'www.wego.com', 'dz.wego.com', 'wego.vn', 'www.555yy4.com', 'ar.wego.com', 'wegotravel.co.nz', 'www.zhenfanjixie.com', 'www.wego.ps', 'wego.hk', 'gh.wego.com', 'www.wego.cn', 'wego.com', 'www.wego.hk', 'bh.wego.com', 'eg.wego.com', 'www.wego.com.ru', 'www.881dy.com', 'www.clun.top', 'bkads.985311.xyz', 'www.555movie.me', 'www.wego.ly', 'wego.com.sg', 'wego.com.ru', 'www.wegotravel.ma', 'www.wego.qa', 'wego.cn', 'wego.qa', 'iq.wego.com', 'www.wego.co.id', 'mo.wego.com', 'www.xinjuc.com', '5dy6.cc', 'jo.wego.com', 'www.5dy6.cc', 'dami10.me', 'www.wego.vn', 'm.luwangyangrong.com', '555dy7.com', 'sdqlhgrl.com', 'www.wego.pk', 'www.dmys3.com', 'www.wego.sd', 'tn.wego.com', 'wego.pk', 'om.wego.com', 'sy.wego.com', 'lb.wego.com', 'wego.co.in', 'www.cfhuagong.com', 'kw.wego.com', 'www.xiuluo942.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.555movie.me...
+Performing DNS lookup for www.wego.cn...
+Performing DNS lookup for wego.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
