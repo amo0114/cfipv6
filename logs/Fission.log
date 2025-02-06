@@ -27382,3 +27382,24 @@ Performing DNS lookup for wego.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 12525f2] Update project files
+ 4 files changed, 91 insertions(+), 73 deletions(-)
+To github.com:amo0114/cfipv6.git
+   3858635..12525f2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 108.162.198.90...
+Fetching domains for 104.17.81.251...
+Fetching domains for 104.17.95.39...
+succeed to fetch domains for 104.17.95.39 from https://site.ip138.com/
+succeed to fetch domains for 108.162.198.90 from https://site.ip138.com/
+succeed to fetch domains for 104.17.81.251 from https://site.ip138.com/
+域名列表为
+['www.bpzhe.com', 'www.clun.top', 'www.116.ag', 'qp66.com', 'zhenfanjixie.com', 'www.qf527.com', 'ag.hg2096.com', 'www.dmys3.com', 'cfip.xxxxxxxx.tk', '555dy7.com', 'www.zxk555.com', 'qp666.com', '2279966.com', 'www.5dy14.cc', 'www.555yy1.com', 'zxk555.com', 'www.zhenfanjixie.com', 'sdqlhgrl.com', 'www.555movie.me', 'www.5dy6.cc', 'www.xinjuc.com', 'www.555dy7.com', '8810868.com', 'dami10.me', 'www.qp666.com', '5dy6.cc', 'www.555yy4.com', 'www.cocanwelding.com', 'www.cfhuagong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.555yy4.com...
+Performing DNS lookup for www.555dy7.com...
+Performing DNS lookup for www.xinjuc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
