@@ -27251,3 +27251,25 @@ Performing DNS lookup for kaduoduovip.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 17aab9d] Update project files
+ 4 files changed, 59 insertions(+), 93 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   3d2b1a0..17aab9d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.53.241...
+Fetching domains for 188.114.99.65...
+Fetching domains for 104.19.69.57...
+succeed to fetch domains for 104.17.53.241 from https://dnsdblookup.com/
+succeed to fetch domains for 104.19.69.57 from https://site.ip138.com/
+succeed to fetch domains for 188.114.99.65 from https://ipchaxun.com/
+域名列表为
+['www.zzztch.com', '3grz813.lw3w8ma00m7nrkzyay85.top', 'www.lyzdzy.com', 'www.75xs.cc', 'cu63220.vkbt86dpv5c3vlzkjbd.top', '4fj6130.lw3w8ma00m7nrkzyay85.top', 'www.93xscc.com', 'www.longwangchuanshuo.com', 'www.52dym.com', 'www.ddwhm.com', 'www.55xs.cc', 'www.gaycn.top', 'judy.567852.xyz', 'www.hm12.lol', 'u.uboy03.xyz', 'www.99wx.cc', 'www.iios.club', 'www.xiuluo942.com', 'www.nitianxieshen.com', 'te2424.bmbyeponhfr7u7bxbx4.top', 'www.dmbj.cc', 'www.xinjiajixie.cn', 'www.qumiyun.com', 'www.ruit56.com', 't143.cc', 'www.xuanqishi.cc', 'rvp823.tbwe1ii6b1zaifng2y2g.top', 'kanmanhuala.cc', 't141.cc', 'm.niuerzs.com', 'www.zongcaixs.cc', 'www.iios.me', 'pan.clun.top', 'www.mytvsuper.us.kg', 'zzztch.com', 'd414.cc', 'www.99wxw.cc', 'www.qindixs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.55xs.cc...
+Performing DNS lookup for zzztch.com...
+Performing DNS lookup for 3grz813.lw3w8ma00m7nrkzyay85.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
