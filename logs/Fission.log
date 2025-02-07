@@ -27578,3 +27578,25 @@ Performing DNS lookup for 555movie.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 52bdb50] Update project files
+ 4 files changed, 85 insertions(+), 106 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   9e3d0f7..52bdb50  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.19.2...
+Fetching domains for 104.18.20.159...
+Fetching domains for 104.18.64.8...
+succeed to fetch domains for 104.18.64.8 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.20.159 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.19.2 from https://ipchaxun.com/
+域名列表为
+['nlsdwsz.66666654.xyz', 'www.iguzhuang.com', '7684hu.com', 'thepeople.co', 'www.yjys05.com', 'betus.com.pa', '5dy6.cc', 'www.dmdy8.com', 'www.villaanucara.com', 'www.dmr67p.art', 'www.atrade.co.il', 'www.4hupp99.com', 'naftogaz.com', 'a2.hh.887733.xyz', 'bpzhe.com', '4hupp99.com', 'help.superrare.com', 'yinghua.us', '555movie.me', '4huxx633.com', 'www.cfo.com', 'www.555yy1.com', 'www.555yy4.com', 'bizx.zytest.xyz', 'www.zxk555.com', 'a456by.com', 'www.dmys3.com', 'dami5zr.wiki', 'www.7684hu.com', 'www.baipiaozhe.com', 'www.6kwu.com', '4huxkd.com', 'cfip.xxxxxxxx.tk', 'www.3wkan.com', 'www.5dy6.cc', 'www.thekdaily.com.cdn.cloudflare.net', 'hashmarvel.com', 'www.daju.org', '555pian.com', 'www.555movie.me', 'thekdaily.com', '555movie.top', 'www.east-naguradou.com', 'superrare.com', 'www.555pian.com', '68chat.com', 'azul.com', 'piagz.com', 'www.ddwhm.com', '7.namesilo123.top', 'dmys3.com', '26xx.net', '555yy1.com', 'm.hashmarvel.com', 'cdn.azul.com', '4hub31.com', 'www.naftogaz.com', 'baipiaozhe.com', 'www.bumeran.com.ar', 'www.555dy.online', 'img.iguzhuang.com', 'achk.cloudflarest.link', 'm.tiantianzhibo.net', 'www.tuyuyun.com', 'www.tiantianzhibo.net', 'cfo.com', 'zxk555.com', 'www.wn04.cc', 'www.wn05.cc', 'photocat.com', 'www.4huxkd.com', 'www.5dy14.cc', 'www.bmu123.com', '5dy5.cc', 'www.dd22ee.com', 'www.555yy8.com', 'www.azul.com', 'www.26xx.net', '68chat3.com', 'www.kkzb8.net', 'bmu123.com', 'www.zhenfanjixie.com', 'nnys01.vip', 'www.555dy7.com', 'atrade.co.il', 'www.4huxx633.com', 'www.a456by.com', 'www.nnys01.vip', '4hugg82.com', 'www.thekdaily.com', 'www.wn03.cc', 'www.4huy52.com', 'www.betus.com.pa', 'm.nnys01.vip', 'cb.betus.com.pa', 'www.4hugg82.com', 'mainnet-infura.wallet.coinbase.com', 'bigonekvm.com', 'bc.co', 'wallet.coinbase.com', 'www.433.co.kr', 'www.555yy3.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 555movie.me...
+Performing DNS lookup for achk.cloudflarest.link...
+Performing DNS lookup for 26xx.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

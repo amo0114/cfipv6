@@ -2,48 +2,36 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	555movie.me
-Address: 104.21.24.225
-Name:	555movie.me
-Address: 104.17.242.62
-Name:	555movie.me
-Address: 104.17.243.253
-Name:	555movie.me
-Address: 104.18.64.8
-Name:	555movie.me
-Address: 104.22.54.91
-Name:	555movie.me
-Address: 104.17.238.24
-Name:	555movie.me
-Address: 104.18.12.70
-Name:	555movie.me
-Address: 104.18.19.2
-Name:	555movie.me
-Address: 104.18.69.254
-Name:	555movie.me
-Address: 104.18.20.159
-Name:	555movie.me
-Address: 104.17.253.123
-Name:	555movie.me
-Address: 198.41.212.28
-Name:	555movie.me
-Address: 104.17.254.152
-Name:	555movie.me
-Address: 104.17.234.166
-Name:	555movie.me
-Address: 104.18.30.13
+m.50zw.co	canonical name = luoqiucdn.com.
+luoqiucdn.com	canonical name = cdn.cloudfront.bz.
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	achk.cloudflarest.link
-Address: 185.53.178.50
+us02.nttkk.com	canonical name = a1.nttkk.com.
+a1.nttkk.com	canonical name = a5.zz.nttkk.com.
+a5.zz.nttkk.com	canonical name = zoom.earth.
+Name:	zoom.earth
+Address: 104.26.4.90
+Name:	zoom.earth
+Address: 104.26.5.90
+Name:	zoom.earth
+Address: 172.67.68.56
+Name:	zoom.earth
+Address: 2606:4700:20::681a:45a
+Name:	zoom.earth
+Address: 2606:4700:20::681a:55a
+Name:	zoom.earth
+Address: 2606:4700:20::ac43:4438
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	26xx.net
-Address: 162.209.175.122
+fdvinacs.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global26.66666654.xyz.
+Name:	cfcn-a-global26.66666654.xyz
+Address: 104.18.124.45
 
