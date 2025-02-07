@@ -27513,3 +27513,25 @@ Performing DNS lookup for www.50zw.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 61c85d6] Update project files
+ 4 files changed, 146 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   96f639f..61c85d6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.69.254...
+Fetching domains for 104.17.242.62...
+Fetching domains for 104.17.234.166...
+succeed to fetch domains for 104.17.242.62 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.69.254 from https://site.ip138.com/
+succeed to fetch domains for 104.17.234.166 from https://site.ip138.com/
+域名列表为
+['www.28et.com', '5dy6.cc', 'www.zxk555.com', 'www.kjyxyw.com', '789kp.com', 'www.sf123.mobi', '555yy1.com', 'www.cocanwelding.com', 'dami5zr.wiki', 'cfip.xxxxxxxx.tk', 'dyke.cn', 'whpaiger.com', 'www.5dy6.cc', 'www.iios.me', 'www.555dy.online', 'www.baipiaozhe.com', 'www.555movie.me', 'www.555yy8.com', 'qiaokuang.net', 'zxk555.com', 'www.75uw.com', 'bpzhe.com', 'www.555dy7.com', 'www.555yy4.com', 'www.sleekvinhome.com', 'm.niuerzs.com', 'www.zhenfanjixie.com', 'www.wn01.cc', 'www.555yy1.com', 'www.555yy3.com', 'www.99wxw.cc', 'www.dmdy8.com', 'www.hmoeh.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.555dy7.com...
+Performing DNS lookup for www.555yy8.com...
+Performing DNS lookup for www.555movie.me...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
