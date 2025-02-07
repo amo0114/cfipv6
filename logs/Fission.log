@@ -27469,3 +27469,25 @@ Performing DNS lookup for 4hug64.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c735ba4] Update project files
+ 4 files changed, 79 insertions(+), 60 deletions(-)
+ rewrite dns_result.txt (85%)
+To github.com:amo0114/cfipv6.git
+   cb638f6..c735ba4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.64.8...
+Fetching domains for 104.18.30.13...
+Fetching domains for 104.21.24.225...
+succeed to fetch domains for 104.18.30.13 from https://site.ip138.com/
+succeed to fetch domains for 104.21.24.225 from https://site.ip138.com/
+succeed to fetch domains for 104.18.64.8 from https://dnsdblookup.com/
+域名列表为
+['metro.newschannelnebraska.com', 'www.zongcaixs.com', 'www.zxgjjg.com', 'www.damidm.com', '47fa.com', 'vtrahe.vip', '140955.com', 'zhanhua.top.tbdtrcx.com', 'si8zryzbjd.xyz', 'aavv.pabbb.top', 'panhandle.newschannelnebraska.com', 'xxoo.pabbb.top', 'n3zhc2g2664.xyz', 'damidm.com', 'www.qd666666.com', 'zymo6m.kutu259.com', 'roiputra.com', 'www.13538.com', 'permaisuri4d.art', 'zxgjjg.com', 'dolap.com', 'www.4hucc31.com', 'm.ns781yr.top', 'xbxb.pabbb.top', '52mm.pabbb.top', 'kk44kk.pabbb.top', 'www.wdfxfox34.com', 'www.112wd.com', '9999.pabbb.top', 'www.tlbb888.com', '4hucc31.com', 'www.grd345.com', 'southeast.newschannelnebraska.com', '985dm.com', 'm.lenurkk.top', '7777.pabbb.top', 'www.kten.com', 'www.erienewsnow.com', 'www.yinshuaji1688.com', 'mimi.pabbb.top', 'www.exetercityfc.co.uk', 'www.27maogk.com', 'maczapp.com', 'ccxing11.com', 'www.4huav557.com', '8888.pabbb.top', 'www.985dm.com', '9486d.com', 'www.ccxing11.com', 'k4pk.xyz', 'www.wfmj.com', 'www.wfxg.com', '306611.com', 'www.betvictor95.mobi', 'www.newschannelnebraska.com', 'www.juanchengzhaopin.com', 'www.coco01.today', 'wap.lenurkk.top', 'bihe.live', 'www.torrent9.sh', 'pabbb.top', 'www.wn03.cc', 'www.lewen5.com', 'www.rencaipinghu.com', 'cctv.pabbb.top', 'cuiluanzhaopin.com', 'b663.com', 'www.y3600.cz', 'www.rfdtv.com', 'pic.pic2308.com', 'yyds.pabbb.top', 'speed.marisalnc.com', '4humm94.com', 'perfectworld.ai', 'xxx.pabbb.top', '69xx.pabbb.top', 'www.wicz.com', 'fb999.com', '112wd.com', 'www.m6y6.com', 'i4tgdc.kutu259.com', '6evyr0.kutu259.com', 'www.9486d.com', 'deeplinksdirectory.co', '7.namesilo123.top', 'www.cuiluanzhaopin.com', 'wuhanzoo.com', 'xxbb.pabbb.top', 'www.xxf8888.com', 'www.snntv.com', 'www.cx888my.com', 'www.6782pp.com', 'www.vtrahe.vip', 'www.spaceship.com', 'caobb.pabbb.top', 'jfufmf.kutu259.com', 'soapqueen.com', 'x0x0x.pabbb.top', 'www.ddwhm.com', '2s26u6.kutu259.com', 'www.tuyuyun.com', 'ccav.pabbb.top', 'ww01.kutu259.com', 'www.yjys05.com', 'menmaza.76898102.xyz', 'diyaudioandvideo.com', 'www.99wxw.cc', '3g.lenurkk.top', 'lulu.pabbb.top', 'www.east-naguradou.com', 'www.iios.club', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.wn05.cc', '17se.pabbb.top', 'yinshuaji1688.com', 'www.dongguanchangfang.com', 'www.306611.com', 'sese.pabbb.top', 'www.cbs19news.com', 'dongguanchangfang.com', 'idamidm.com', 'status.org.cn', 'rivercountry.newschannelnebraska.com', 'northeast.newschannelnebraska.com', '19gg.net', 'central.newschannelnebraska.com', '2022k2.com', 'www.664ch.com', 'www.sxhaowo.com', 'juanchengzhaopin.com', 'www.19gg.net', 'www.wuhanzoo.com', 'www.xghhw.com', '3g.hy3r5o.top', 'www.zddzd.top', 'www.saimayang.com', 'www.fengcaoxiaofan.cn', 'www.silisilifun.com', '664ch.com', 'tt686.net', '27maogk.com', 'xihe.tbdtrcx.com', 'www.kake.com', 'www.alexopoulos-electronics.gr', 'www.93xscc.com', 'www.kuam.com', '91xx.pabbb.top', '69aph.com', 'www.fb999.com', 'www.qdxqgc.com', 'av91.pabbb.top', 'www.wn04.cc', 'avfxwe.xyz', 'www.tockt.com', 'mzf.ppvideo.xyz', 'www.xcyy696.com', 'www.diyaudioandvideo.com', 'www.hhyy028.com', 'wcav.web.franklyinc.com', 'wap.ns781yr.top', 'www.47fa.com', 'www.kbss888.com', 'www.69aph.com', 'www.wubei520.com', 'www.villaanucara.com', 'www.idamidm.com', 'www.soles.cc', 'www.5a4be.cn', 'www.pabbb.top', '4huav557.com', 'cors.status.org.cn', 'www.lenurkk.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.exetercityfc.co.uk...
+Performing DNS lookup for dongguanchangfang.com...
+Performing DNS lookup for metro.newschannelnebraska.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
