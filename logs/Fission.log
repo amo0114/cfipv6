@@ -27425,3 +27425,25 @@ Performing DNS lookup for m.28dushu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7e26200] Update project files
+ 4 files changed, 53 insertions(+), 107 deletions(-)
+ rewrite dns_result.txt (91%)
+To github.com:amo0114/cfipv6.git
+   9fae6b5..7e26200  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.245.200...
+Fetching domains for 104.18.12.66...
+Fetching domains for 104.21.231.226...
+succeed to fetch domains for 104.21.231.226 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.245.200 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.12.66 from https://site.ip138.com/
+域名列表为
+['www.boyangjt.com', 'www.51jion.com', 'www.hengnan520.com', 'www.tv9090.com', 'www.hunanjinlu.com', 'www.4gdiy.com', 'gua.im', '45bet.com', '4gdiy.com', 'www.xlys.me', 'www.116.ag', 'm.0550cq.com', '75uw.com', 'dm84.tv', '2345ti.com', 'ag.hg2096.com', 'www.wxhbt.com', 'www.qf527.com', 'www.qp666.com', 'www.4148.net', 'wss.wxhbt.com', 'www.cvlindia.com', 'www.pianku5.com', 'm.niuerzs.com', 'www.1979y.com', 'qp66.com', '69ape.com', 'i.she.vc', 'www.a123fb.com', 'suboji.com', 'www.66se14.com', 'www.663dy.com', 'www.wxxzzs.com', 'www.cn46.com', 'dm84.vip', 'www.163my.com', 'stock.hostmonit.com', 'www.66se6.com', 'wei333.com', 'a456yk.com', 'cf-lt.sharecentre.online', 'dsxys.com', 'www.65bao2.com', 'www.huakai2024.com', 'www.omd2008.com', 'www.69ape.com', 'www.zshjba.com', 'www.a456yk.com', 'www.6i5.com', 'uu93.com', 'www.handou.tv', 'www.6988tv.com', 'www.jnzzsy.com', 'www.hunanhanyun.com', 'zhrwx.com', 'www.w23us.com', '606977.com', 'www.web120.org', 'www.quanben360.com', '8810868.com', 'dime.com', 'www.zuntianpump.com', 'www.wei333.com', 'www.paizipai.top', 'cfip.xxxxxxxx.tk', 'www.0550cq.com', '9900k.cn', 'blog.hostmonit.com', 'www.55evd.com', 'www.11txt.com', 'www.7sc.cc', 'www.92mili.com', 'www.vcd.la', 'www.50zw.co', 'www.js-a.com.cn', 'www.tinghen.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qp666.com...
+Performing DNS lookup for www.handou.tv...
+Performing DNS lookup for www.663dy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
