@@ -27491,3 +27491,25 @@ Performing DNS lookup for metro.newschannelnebraska.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 96f639f] Update project files
+ 4 files changed, 58 insertions(+), 57 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   c735ba4..96f639f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.20.159...
+Fetching domains for 104.22.54.91...
+Fetching domains for 104.17.253.123...
+succeed to fetch domains for 104.22.54.91 from https://site.ip138.com/
+succeed to fetch domains for 104.17.253.123 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.20.159 from https://dnsdblookup.com/
+域名列表为
+['cdn.azul.com', 'atrade.co.il', 'mainnet-infura.wallet.coinbase.com', 'www.tlbb888.com', 'cfip.xxxxxxxx.tk', 'nlsdwsz.66666654.xyz', 'a456by.com', 'www.azul.com', '26xx.net', 'superrare.com', 'www.4huxx633.com', 'www.hhyy028.com', 'www.26xx.net', 'bpzhe.com', 'www.iios.club', 'betus.com.pa', 'wap.luwangyangrong.com', '5dy6.cc', 'www.555dy.online', 'wallet.coinbase.com', 'www.nnys01.vip', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'photocat.com', 'azul.com', 'www.daju.org', 'zxk555.com', 'www.555yy8.com', 'www.a456by.com', 'www.6kwu.com', 'www.50zw.co', 'cb.betus.com.pa', 'bizx.zytest.xyz', 'www.xinjuc.com', 'www.555movie.me', 'help.superrare.com', 'www.555yy1.com', '555yy1.com', 'www.555dy7.com', 'www.zhenfanjixie.com', 'm.nnys01.vip', 'www.4hupp99.com', 'achk.cloudflarest.link', 'www.baipiaozhe.com', 'www.cfo.com', 'cfo.com', 'www.65bao2.com', 'nnys01.vip', 'piagz.com', 'www.betus.com.pa', 'www.atrade.co.il', 'www.kbss888.com', 'www.555yy3.com', 'www.295k.com', '4huxx633.com', '4hupp99.com', 'thepeople.co', 'www.dmdy8.com', 'btdad17.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wallet.coinbase.com...
+Performing DNS lookup for achk.cloudflarest.link...
+Performing DNS lookup for www.50zw.co...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
