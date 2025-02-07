@@ -27535,3 +27535,25 @@ Performing DNS lookup for www.555movie.me...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 40b0148] Update project files
+ 4 files changed, 67 insertions(+), 125 deletions(-)
+ rewrite dns_result.txt (91%)
+To github.com:amo0114/cfipv6.git
+   61c85d6..40b0148  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.64.8...
+Fetching domains for 104.18.12.70...
+Fetching domains for 104.17.254.152...
+succeed to fetch domains for 104.18.12.70 from https://site.ip138.com/
+succeed to fetch domains for 104.18.64.8 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.254.152 from https://dnsdblookup.com/
+域名列表为
+['63ppd.com', 'm.50zw.co', 'www.555movie.me', 'www.zhenfanjixie.com', 'www.bpzhe.com', 'www.555yy1.com', 'a123da.com', 'www.cfhuagong.com', 'totoofficial.com', 'www.c345c.com', 'jhpcza.66666654.xyz', 'www.wn04.cc', 'www.555dy7.com', 'nlsdwsz.66666654.xyz', 'chunbb.sectigo.pp.ua', 'jpaa.sectigo.pp.ua', 'www.wn05.cc', 'a1.nttkk.com', 'eurostore.totoofficial.com', 'www.93xscc.com', '4hucc88.com', 'jpvsavhyu.76898102.xyz', '5dy6.cc', 'www.c123x.com', 'www.dmr67p.art', 'www.east-naguradou.com', 'macvbb.555556789.xyz', 'bpzhe.com', 'www.75uw.com', 'pricespy.co.nz', 'www.wn03.cc', '336e.net', 'www.555dy.online', 'www.3678nv.com', 'www.dmdy8.com', 'zxk555.com', '555yy1.com', 'dami5zr.wiki', 'dmys3.com', '5dy5.cc', 'c123x.com', 'www.zxk555.com', 'a234kt.com', 'cfip.xxxxxxxx.tk', 'www.villaanucara.com', 'www.wn01.cc', '555movie.top', 'www.a234kt.com', 'c345c.com', '3678nv.com', 'store.totoofficial.com', 'www.63ppd.com', 'www.tuyuyun.com', 'www.zivps.com', 'www.5dy6.cc', 'www.a123da.com', 'www.555yy3.com', 'www.50zw.co', 'www.baipiaozhe.com', 'baxtc.66666654.xyz', 'www.555yy4.com', 'fdvinacs.66666654.xyz', 'www.d777s.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'rk-1312991004.cos.ap-chengdu.tencentapp.cn', 'us02.nttkk.com', 'www.zongcaixs.com', 'www.yjys05.com', 'www.555yy8.com', 'd777s.com', 'baipiaozhe.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 63ppd.com...
+Performing DNS lookup for us02.nttkk.com...
+Performing DNS lookup for www.75uw.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
