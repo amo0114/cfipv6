@@ -1,17 +1,27 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find wap.aidaigua.top: NXDOMAIN
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find openai.one: NXDOMAIN
+Non-authoritative answer:
+Name:	www.4myy.com
+Address: 38.55.238.241
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	a397.cc
-Address: 91.195.240.12
+Name:	www.xbiquge.me
+Address: 172.67.193.47
+Name:	www.xbiquge.me
+Address: 104.21.20.159
+Name:	www.xbiquge.me
+Address: 2606:4700:3034::ac43:c12f
+Name:	www.xbiquge.me
+Address: 2606:4700:3033::6815:149f
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	xf952.com
+Address: 154.218.128.197
 

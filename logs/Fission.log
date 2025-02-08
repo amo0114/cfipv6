@@ -27688,3 +27688,25 @@ Performing DNS lookup for www.lnuyy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d70fdd3] Update project files
+ 4 files changed, 45 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   532132e..d70fdd3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.120.7...
+Fetching domains for 188.114.97.106...
+Fetching domains for 104.21.14.168...
+succeed to fetch domains for 104.21.14.168 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.120.7 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.97.106 from https://ipchaxun.com/
+域名列表为
+['smbjq.com', 'www.55xs.cc', 'mebudsv.114514782.xyz', 'h55bz1.qmsgwfq.net', 'cloudflare.moeyy.xyz', 'www.mfrkrqu.wiki', 'nqzn.net', 'www.xwsxs.com', 'www.ub888.com', '4jpav.com', 'www.dmys3.com', 'admin.openai.one', 'github.moeyy.xyz', 'www.5dy14.cc', 'w371.cc', '4huyy299.com', 'www.wogg.xyz', 'wap.aidaigua.top', 'www.71lll.com', 'histar.zapi.us.kg', 'www.gjpcbe.top', 'a397.cc', 'openai.one', '5598am.com', 'www.4jpav.com', 'rb1991.com', 'cloud.aiyinu.com', 'www.stimson.org', 'bizzarre-intimo.it', 'fan.888484.xyz', 'www.ai2moe.org', 'ltjm.37o.cc', 'www.555yy4.com', 'www.xxjj4.life', 'log.37o.cc', '3g.aidaigua.top', 'bb9062.com', 'wogg.xyz', 'm.kanmanhuala.cc', 'www.wn01.cc', 'www.debbiehartleyphotography.com', 'www.linovelib.com', '187ge.com', 'gh.llkk.cc', '999ppe.com', 'www.xkstxt.com', 'hentaistigma.net', 'www.aidaigua.top', 'kico.fun', 'www.rb1991.com', 'www.92mili.com', 'price.openai.one', 'tc.7zz.cn', 'wap.gjpcbe.top', 'www.heinu.cc', 'stimson.org', '9769.co', 'omofun.link', 'm.aidaigua.top', 'xxjj4.life', 'www.iios.club', 'iplogger.cn', 'www.ddwhm.com', 'www.melissaknowschicago.com', 'www.999ppe.com', 'cfip.201043.xyz', 'www.doupobook.com', 'www.5219aa.com', 'img3.readpai.com', '555yy4.com', '3g.gjpcbe.top', 'www.4huyy299.com', 'aidaigua.top', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wap.aidaigua.top...
+Performing DNS lookup for openai.one...
+Performing DNS lookup for a397.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
