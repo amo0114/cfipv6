@@ -27666,3 +27666,25 @@ Performing DNS lookup for www.dafuhao.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 532132e] Update project files
+ 4 files changed, 61 insertions(+), 70 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   f8a0f3b..532132e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.120.7...
+Fetching domains for 104.17.73.61...
+Fetching domains for 198.41.212.70...
+succeed to fetch domains for 104.17.73.61 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.120.7 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.212.70 from https://dnsdblookup.com/
+域名列表为
+['m.kanmanhuala.cc', 'hkaa.sectigo.pp.ua', 'www.icehua.cc', 'shop.hostmonit.com', 'www.wxxzzs.com', 'www.iios.club', 'histar.zapi.us.kg', 'jp57.cc', 'ltjm.37o.cc', 'cfip.201043.xyz', 'www.tinghen.com', 'qiangkouzhao.com', 'www.706i.com', 'www.ddwhm.com', 'www.6988tv.com', 'www.yyxycn.com', 'm.wxxzzs.com', 'palworld8.com', 'm.tushencn.com', 'www.tushencn.com', 'www.0550cq.com', 'www.whsbwl.com', 'cloud.aiyinu.com', 'sgv7.com', 'www.lyzdzy.com', 'www.longwangchuanshuo.net', 'www.wn01.cc', 'www.melissaknowschicago.com', '0550cq.com', 'log.37o.cc', 'www.51jion.com', 'www.paizipai.top', 'yundunwawablogcdn1dx.wawacm.com', 'www.11txt.com', 'baxtc.66666654.xyz', 'www.boyangjt.com', 'blog.hostmonit.com', 'www.debbiehartleyphotography.com', 'sgv3.com', 'a.zilingmio17.cf', 'www.tv9090.com', 'omofun.link', 'cf-lt.sharecentre.online', 'jpadwinfs.114514782.xyz', 'www.92mili.com', 'www.hdmoli.com', 'www.huanyaad.com', 'mebudsv.114514782.xyz', 'tc.7zz.cn', 'cfip.xxxxxxxx.tk', 'yundunwawablogcdn1yd.wawacm.com', 'www.sxyzxh.com', '7sc.cc', 'www.heinu.cc', '678pao.com', 'www.b7yy.cc', 'www.btlshb.com', 'www.ai2moe.org', 'm.0550cq.com', 'www.dy420.com', 'www.6i5.com', 'www.4148.net', 'www.75uw.com', 'www.cbcv.cc', 'www.lnuyy.com', 'stock.hostmonit.com', 'www.555yy4.com', 'www.ub888.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.sxyzxh.com...
+Performing DNS lookup for omofun.link...
+Performing DNS lookup for www.lnuyy.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

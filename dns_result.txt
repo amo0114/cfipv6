@@ -1,29 +1,17 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.sxyzxh.com
-Address: 208.98.40.204
+** server can't find wap.aidaigua.top: NXDOMAIN
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find openai.one: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-omofun.link	canonical name = cf.090227.xyz.
-cf.090227.xyz	canonical name = cf-090227-xyz.pages.dev.
-Name:	cf-090227-xyz.pages.dev
-Address: 172.66.47.179
-Name:	cf-090227-xyz.pages.dev
-Address: 172.66.44.77
-Name:	cf-090227-xyz.pages.dev
-Address: 2606:4700:310c::ac42:2c4d
-Name:	cf-090227-xyz.pages.dev
-Address: 2606:4700:310c::ac42:2fb3
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	www.lnuyy.com
-Address: 35.241.55.245
+Name:	a397.cc
+Address: 91.195.240.12
 
