@@ -2,26 +2,54 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.4myy.com
-Address: 38.55.238.241
+socket.esports365hub.com	canonical name = proxyfallback.e10058aig2.com.
+proxyfallback.e10058aig2.com	canonical name = proxyfallback.e10058aig2.com.cdn.cloudflare.net.
+Name:	proxyfallback.e10058aig2.com.cdn.cloudflare.net
+Address: 104.18.20.248
+Name:	proxyfallback.e10058aig2.com.cdn.cloudflare.net
+Address: 104.18.21.248
+Name:	proxyfallback.e10058aig2.com.cdn.cloudflare.net
+Address: 2606:4700::6812:14f8
+Name:	proxyfallback.e10058aig2.com.cdn.cloudflare.net
+Address: 2606:4700::6812:15f8
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.xbiquge.me
-Address: 172.67.193.47
-Name:	www.xbiquge.me
-Address: 104.21.20.159
-Name:	www.xbiquge.me
-Address: 2606:4700:3034::ac43:c12f
-Name:	www.xbiquge.me
-Address: 2606:4700:3033::6815:149f
+Name:	555dyy15.com
+Address: 104.18.191.87
+Name:	555dyy15.com
+Address: 198.41.212.105
+Name:	555dyy15.com
+Address: 104.18.190.51
+Name:	555dyy15.com
+Address: 104.19.166.128
+Name:	555dyy15.com
+Address: 104.18.27.237
+Name:	555dyy15.com
+Address: 104.17.226.132
+Name:	555dyy15.com
+Address: 104.18.186.14
+Name:	555dyy15.com
+Address: 104.19.163.228
+Name:	555dyy15.com
+Address: 104.18.21.163
+Name:	555dyy15.com
+Address: 104.17.239.128
+Name:	555dyy15.com
+Address: 104.18.14.167
+Name:	555dyy15.com
+Address: 104.17.231.115
+Name:	555dyy15.com
+Address: 104.17.63.250
+Name:	555dyy15.com
+Address: 104.18.7.194
+Name:	555dyy15.com
+Address: 104.19.162.228
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	xf952.com
-Address: 154.218.128.197
+** server can't find www.a789px.com: NXDOMAIN
 
