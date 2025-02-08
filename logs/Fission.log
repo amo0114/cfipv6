@@ -27622,3 +27622,25 @@ Performing DNS lookup for fdvinacs.66666654.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 66faea8] Update project files
+ 4 files changed, 81 insertions(+), 47 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   d5ccce5..66faea8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.212.28...
+Fetching domains for 104.18.20.159...
+Fetching domains for 104.18.30.13...
+succeed to fetch domains for 104.18.20.159 from https://site.ip138.com/
+succeed to fetch domains for 198.41.212.28 from https://site.ip138.com/
+succeed to fetch domains for 104.18.30.13 from https://ipchaxun.com/
+域名列表为
+['www.k77kk.cc', 'jpvsavhyu.76898102.xyz', 'www.ai2moe.org', 'baipiaozhe.com', 'www.zzgszg.com', 'www.cbs19news.com', 'www.sxyzxn.com', 'cgcc.digicert.pp.ua', 'www.woaiqi.com', 'cg.44xf.cc', 'www.sztimi.com', 'jpadwinfs.114514782.xyz', 'www.6i5.com', 'www.paizipai.top', 'cb.betus.com.pa', 'www.163my.com', '555movie.top', 'wallet.coinbase.com', 'www.11txt.com', 'www.lewen5.com', 'www.wuhanzoo.com', 'nnys01.vip', 'www.exetercityfc.co.uk', 'www.dongguanchangfang.com', 'www.5dy6.cc', 'www.630book.com', 'freeyx.cloudflare88.eu.org', 'www.m6y6.com', '0550cq.com', 'www.kanju8.com', 'www.qdbangsen.com', 'www.sintingtoys.com', 'rivercountry.newschannelnebraska.com', 'www.tlbb888.com', 'www.daju.org', 'macvbb.555556789.xyz', 'www.cx888my.com', 'www.nnys01.vip', 'spca.114514782.xyz', 'www.rfdtv.com', 'piagz.com', '985dm.com', 'jhpcza.66666654.xyz', 'www.bpzhe.com', 'www.erienewsnow.com', 'www.dmys3.com', 'www.wfmj.com', 'www.zddzd.top', 'soapqueen.com', 'atrade.co.il', 'www.555dy7.com', 'xuyan.cc', 'thepeople.co', 'www.guilinyts.com', 'www.555yy8.com', 'dolap.com', 'www.wicz.com', '5dy6.cc', 'jqggzyjy.com.cn', 'xs.wxtv.cc', 'azul.com', 'www.boyangjt.com', 'www.0550cq.com', 'www.grd345.com', 'www.a456by.com', 'www.4huxx633.com', 'www.spaceship.com', 'www.hhyy028.com', 'bizx.zytest.xyz', 'www.555pian.com', 'dmys3.com', 'yyxycn.com', 'www.ncdwzs.com', 'm.11txt.com', 'www.yjys05.com', 'www.555yy3.com', 'panhandle.newschannelnebraska.com', '555yy1.com', 'chalaoshi.de', 'm.6988tv.com', 'ygbb.rapidssl.pp.ua', 'www.weizhijc.com', 'yinshuaji1688.com', 'idamidm.com', 'www.ytdccc.com', 'www.newschannelnebraska.com', 'zhenfanjixie.com', 'damidm.com', 'help.superrare.com', 'www.dowelle.com', '4hucc31.com', 'www.ylsbzs.com', 'www.4hupp99.com', 'm.0550cq.com', 'www.96dushu.com', 'wuhanzoo.com', 'www.28dushu.com', 'www.zgjmw.net', 'www.5dy14.cc', 'www.69aph.com', 'stock.hostmonit.com', 'www.6988tv.com', 'www.idamidm.com', 'dami5zr.wiki', 'baxtc.66666654.xyz', 'www.biinn.com', 'cf1.492745.xyz', 'www.yinshuaji1688.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', '7.namesilo123.top', 'www.555yy1.com', 'www.6kwu.com', 'www.qumiyun.com', 'www.damidm.com', 'www.baipiaozhe.com', 'www.26xx.net', 'speed.marisalnc.com', 'm.hbzhigong.com', 'www.b7yy.cc', 'photocat.com', 'zxk555.com', 'www.555dy.online', 'www.shsanrui.com', 'www.sxyzxh.com', 'www.saimayang.com', 'www.555yy4.com', 'www.99wxw.cc', 'www.zxk555.com', '555yy4.com', '4huxx633.com', 'www.kuam.com', '555movie.me', 'www.dmr67p.art', 'www.jsmx999.com', 'www.wfxg.com', 'nlsdwsz.66666654.xyz', 'www.dmdy8.com', 'www.6782pp.com', '555pian.com', 'www.tinghen.com', 'achk.cloudflarest.link', 'm.nnys01.vip', '26xx.net', '5dy5.cc', 'www.wubei520.com', 'www.kbss888.com', 'www.azul.com', 'menmaza.76898102.xyz', 'www.dafuhao.com', 'raw.gitmirror.com', 'qiangkouzhao.com', 'mainnet-infura.wallet.coinbase.com', 'china.tencentapp.cn', 'www.xxpg888.com', 'www.xghhw.com', 'www.985dm.com', 'aktv.top', 'www.zongcaixs.com', 'www.tv9090.com', 'superrare.com', 'a456by.com', 'northeast.newschannelnebraska.com', 'www.jsjkyy.com', 'metro.newschannelnebraska.com', 'www.snntv.com', 'betus.com.pa', '4hupp99.com', 'cfip.xxxxxxxx.tk', 'www.betus.com.pa', 'www.rencaipinghu.com', 'wcav.web.franklyinc.com', 'www.kake.com', 'bpzhe.com', 'www.ddwhm.com', 'www.xxf8888.com', '69aph.com', 'www.19gg.net', 'www.scxdex.com', 'www.tockt.com', 'www.wdfxfox34.com', '19gg.net', 'm2pjo.app', '4humm94.com', 'southeast.newschannelnebraska.com', 'www.qdxqgc.com', 'cf-lt.sharecentre.online', 'www.kten.com', 'www.atrade.co.il', 'cfo.com', 'central.newschannelnebraska.com', 'www.dami472.shop', 'www.52dyk.com', 'www.zhenfanjixie.com', 'www.whsbwl.com', 'www.4hucc31.com', 'www.809dm.com', 'www.iios.club', 'www.555movie.me', 'www.cfo.com', 'dongguanchangfang.com', 'cdn.azul.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.erienewsnow.com...
+Performing DNS lookup for www.spaceship.com...
+Performing DNS lookup for xs.wxtv.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

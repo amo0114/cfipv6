@@ -2,43 +2,54 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.erienewsnow.com	canonical name = cert1.franklyinc.com.
-cert1.franklyinc.com	canonical name = websitetraffic.web.franklyinc.com.cdn.cloudflare.net.
-Name:	websitetraffic.web.franklyinc.com.cdn.cloudflare.net
-Address: 104.18.0.170
-Name:	websitetraffic.web.franklyinc.com.cdn.cloudflare.net
-Address: 104.18.1.170
-Name:	websitetraffic.web.franklyinc.com.cdn.cloudflare.net
-Address: 2606:4700::6812:aa
-Name:	websitetraffic.web.franklyinc.com.cdn.cloudflare.net
-Address: 2606:4700::6812:1aa
+www.wn01.cc	canonical name = cf-4.sjcdn.top.
+cf-4.sjcdn.top	canonical name = cn.wnacg.com.
+Name:	cn.wnacg.com
+Address: 172.67.74.237
+Name:	cn.wnacg.com
+Address: 104.26.12.109
+Name:	cn.wnacg.com
+Address: 104.26.13.109
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:c6d
+Name:	cn.wnacg.com
+Address: 2606:4700:20::ac43:4aed
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:d6d
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.spaceship.com	canonical name = www.spaceship.com.cdn.cloudflare.net.
-Name:	www.spaceship.com.cdn.cloudflare.net
-Address: 104.18.26.206
-Name:	www.spaceship.com.cdn.cloudflare.net
-Address: 104.18.27.206
-Name:	www.spaceship.com.cdn.cloudflare.net
-Address: 2606:4700::6812:1ace
-Name:	www.spaceship.com.cdn.cloudflare.net
-Address: 2606:4700::6812:1bce
+cgdd.digicert.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global4.66666654.xyz.
+Name:	cfcn-a-global4.66666654.xyz
+Address: 104.18.124.45
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	xs.wxtv.cc
-Address: 104.16.112.168
-Name:	xs.wxtv.cc
-Address: 104.19.135.154
-Name:	xs.wxtv.cc
-Address: 104.21.227.211
-Name:	xs.wxtv.cc
-Address: 104.16.112.141
-Name:	xs.wxtv.cc
-Address: 104.19.136.169
+www.dafuhao.com	canonical name = dafuhao.cloudflare.182682.xyz.
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
 
