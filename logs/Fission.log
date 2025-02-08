@@ -27644,3 +27644,25 @@ Performing DNS lookup for xs.wxtv.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f8a0f3b] Update project files
+ 4 files changed, 92 insertions(+), 59 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   66faea8..f8a0f3b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.136.67...
+Fetching domains for 188.114.97.66...
+Fetching domains for 104.17.79.70...
+succeed to fetch domains for 104.17.79.70 from https://site.ip138.com/
+succeed to fetch domains for 104.19.136.67 from https://site.ip138.com/
+succeed to fetch domains for 188.114.97.66 from https://ipchaxun.com/
+域名列表为
+['dahi.icu', 'www.zzkdhb.com', 'jhpcza.66666654.xyz', '18player.cc', 'www.wn01.cc', 'www.wn01.uk', 'www.99wxw.cc', 'www.dafuhao.com', 'cfip.xxxxxxxx.tk', 'aktv.top', 'w418.cc', 'j268.cc', 'cgdd.digicert.pp.ua', 'www.xigua5.net', 'www.85xscc.com', 'w373.cc', 'www.93xscc.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'hongkong.qing1999.eu.org', 'baxtc.66666654.xyz', 'www.91m.cc', 'www.zzztch.com', 'www.ddwhm.com', 'd241.cc', 'www.wn05.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wn01.cc...
+Performing DNS lookup for cgdd.digicert.pp.ua...
+Performing DNS lookup for www.dafuhao.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
