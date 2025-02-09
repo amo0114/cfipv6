@@ -2,39 +2,25 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.dongguanchangfang.com	canonical name = dgdns.hnyjg.top.
-dgdns.hnyjg.top	canonical name = dns123.hanju789.com.
-Name:	dns123.hanju789.com
-Address: 104.26.3.42
-Name:	dns123.hanju789.com
-Address: 104.26.2.42
-Name:	dns123.hanju789.com
-Address: 172.67.69.65
+Name:	www.qwysvip.com
+Address: 162.209.175.125
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hubo.be	canonical name = www.hubo.be.cdn.cloudflare.net.
-Name:	www.hubo.be.cdn.cloudflare.net
-Address: 104.18.8.70
-Name:	www.hubo.be.cdn.cloudflare.net
-Address: 104.18.9.70
-Name:	www.hubo.be.cdn.cloudflare.net
-Address: 2606:4700::6812:846
-Name:	www.hubo.be.cdn.cloudflare.net
-Address: 2606:4700::6812:946
+www.nitianxieshen.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.73.165
+Name:	ips.993888.xyz
+Address: 104.17.140.85
+Name:	ips.993888.xyz
+Address: 104.16.214.9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	iios.club
-Address: 104.21.52.166
-Name:	iios.club
-Address: 172.67.201.86
-Name:	iios.club
-Address: 2606:4700:3036::ac43:c956
-Name:	iios.club
-Address: 2606:4700:3032::6815:34a6
+Name:	www.lyzdzy.com
+Address: 208.98.40.11
 
