@@ -2,33 +2,19 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	js889988.com
-Address: 172.67.175.128
-Name:	js889988.com
-Address: 104.21.31.85
-Name:	js889988.com
-Address: 2606:4700:3030::6815:1f55
-Name:	js889988.com
-Address: 2606:4700:3035::ac43:af80
+www.foot18.com	canonical name = speed.marisalnc.com.
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.pncle8.com	canonical name = fc1c2713.pncle8.com.cname.byteshieldcdn.com.
-Name:	fc1c2713.pncle8.com.cname.byteshieldcdn.com
-Address: 185.213.240.166
+Name:	www.65bao2.com
+Address: 75.2.18.233
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.r5477x.com
-Address: 104.21.60.42
-Name:	www.r5477x.com
-Address: 172.67.191.116
-Name:	www.r5477x.com
-Address: 2606:4700:3031::ac43:bf74
-Name:	www.r5477x.com
-Address: 2606:4700:3033::6815:3c2a
+Name:	www.xworldadmin.com
+Address: 195.177.92.67
 

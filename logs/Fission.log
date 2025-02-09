@@ -27819,3 +27819,25 @@ Performing DNS lookup for www.iios.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ab92e9a] Update project files
+ 4 files changed, 66 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   fa228e8..ab92e9a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.31.85...
+Fetching domains for 104.18.191.144...
+Fetching domains for 104.18.25.29...
+succeed to fetch domains for 104.21.31.85 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.191.144 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.25.29 from https://ipchaxun.com/
+域名列表为
+['www.sheyoutx.com', 'panel.naravpn.com', 'try.diyvqyg.cc', 'buliang.xyz', 'www.bjplink.top', 'www.56y7.com', 'www.8y79.com', 'www.fam.org.my', 'www.295k.com', 'cn2.au101.tel', 'www.3123pi.com', '69438.com', 'img.r10086.com', 'm.simayi.top', 'qr99.cc', 'www.sdddsw.com', 'acus.cloudflarest.link', 'www.buliang.xyz', 'ywl.buliang.xyz', 'www.6244hu.com', '10maobk.com', 'dafuweng.com', 'mnsp5.top', 'www.simayi.top', 'b9p11.com', 'www.yjys05.com', 'www.kmdx29.com', 'www.stylerunner.com', 'www.qddcjl.com', 'nestle.rs', 'www.10maobk.com', '11.buliang.xyz', 'fpt.com', '9se128.cc', 'yjys05.com', 'www.7784hu.com', 'wo9.buliang.xyz', 'iqqtv2.cc', 'fam.org.my', '33x.buliang.xyz', 'www.pinb888.com', 'www.czrbpipe.com', 'blog.bookplus.site', 'wap.simayi.top', 'simayi.top', '3g.simayi.top', 'www.733ji.com', 'qddcjl.com', 'jifz.buliang.xyz', 'jya.buliang.xyz', 'www.pncle8.com', '6244hu.com', '3123pi.com', 'bdy45.com', 'id.buliang.xyz', '365dvd.cc', 'wqk0.buliang.xyz', 'ma.buliang.xyz', '1794hu.com', 'www.r5477x.com', 'www.523zg.com', 'js889988.com', 'tel.yey-eye.com', 'jzm.buliang.xyz', 'www.nestle.rs', 'wvw.buliang.xyz', 'www.geneajourney.com', 'www.47o.net', 'www.bdy45.com', 'r5477x.com', '733ji.com', 'www.cqbp188.top', 'kmdx29.com', 'baidu.buliang.xyz', 'al.buliang.xyz', 'thep3140.cc', 'aixuefu.com', 'm1.buliang.xyz', 'ldyhph813pm.xyz', 'www.y1.buliang.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for js889988.com...
+Performing DNS lookup for www.pncle8.com...
+Performing DNS lookup for www.r5477x.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
