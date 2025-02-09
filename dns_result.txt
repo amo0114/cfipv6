@@ -2,69 +2,39 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-cloudflare.182682.xyz	canonical name = xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz.
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.xn--vjq503ak8e1vs.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
+www.dongguanchangfang.com	canonical name = dgdns.hnyjg.top.
+dgdns.hnyjg.top	canonical name = dns123.hanju789.com.
+Name:	dns123.hanju789.com
+Address: 104.26.3.42
+Name:	dns123.hanju789.com
+Address: 104.26.2.42
+Name:	dns123.hanju789.com
+Address: 172.67.69.65
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.wn03.cc	canonical name = cf-4.sjcdn.top.
-cf-4.sjcdn.top	canonical name = cn.wnacg.com.
-Name:	cn.wnacg.com
-Address: 104.26.13.109
-Name:	cn.wnacg.com
-Address: 172.67.74.237
-Name:	cn.wnacg.com
-Address: 104.26.12.109
-Name:	cn.wnacg.com
-Address: 2606:4700:20::ac43:4aed
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:c6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:d6d
+www.hubo.be	canonical name = www.hubo.be.cdn.cloudflare.net.
+Name:	www.hubo.be.cdn.cloudflare.net
+Address: 104.18.8.70
+Name:	www.hubo.be.cdn.cloudflare.net
+Address: 104.18.9.70
+Name:	www.hubo.be.cdn.cloudflare.net
+Address: 2606:4700::6812:846
+Name:	www.hubo.be.cdn.cloudflare.net
+Address: 2606:4700::6812:946
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.234.166
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.238.24
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.253.123
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.12.70
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.28
-Name:	cfip.xxxxxxxx.tk
-Address: 104.22.54.91
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.242.62
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.254.152
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.20.159
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.19.2
+Name:	iios.club
+Address: 104.21.52.166
+Name:	iios.club
+Address: 172.67.201.86
+Name:	iios.club
+Address: 2606:4700:3036::ac43:c956
+Name:	iios.club
+Address: 2606:4700:3032::6815:34a6
 
