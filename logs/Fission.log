@@ -27841,3 +27841,25 @@ Performing DNS lookup for www.r5477x.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5f52a9f] Update project files
+ 4 files changed, 50 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   ab92e9a..5f52a9f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.77.35...
+Fetching domains for 104.18.23.75...
+Fetching domains for 198.41.212.84...
+succeed to fetch domains for 104.18.77.35 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.212.84 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.23.75 from https://dnsdblookup.com/
+域名列表为
+['www.xworldadmin.com', 'cwb.com', '76hhu.com', 'www.322nu.com', 'www.kx10.com', '223a.com', 'yh6.dtku41.xyz', 'www.meijutt.tv', '985mm.com', 'www.4148.net', 'www.tvyb02.com', 'www.foot18.com', 'www.90dushu.com', '923055.com', 'www.rsaconference.com', 'www.7749tv.com', 'ddn2.funps.win', 'www.6988tv.com', 'www.923055.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'cfip.xxxxxxxx.tk', 'ahxin.pharmtec.net', 'www.tpyyc.com', 'd666z.com', 'www.lnudz.com', 'www.paizipai.top', 'hk4.hhhhh.fn-node.site', 'v.ximei.love', 'speed.marisalnc.com', 'diez.md', 'www.dy420.com', 'www.dy1255.com', 'www.0550cq.com', 'www.888dyy.cc', 'www.iios.club', 'stock.hostmonit.com', 'xn--vjqp6xkwblzeyv2h.cn', 'c123b.com', 'kkyx.yydsii.com', 'nld.privateinternetaccess.com', 'ahdv.pgarmtec.net', 'www.76hhu.com', 'k77kk.cc', 'ahhh.pgarmtec.net', 'www.cwb.com', '606977.com', 'www.16ddy.com', 'www.x52bq.com', 'www.vodbd.com', 'www.aboutyou.pl', 'www.985mm.com', 'frsadubicc.76898102.xyz', 'ke.xiumh.com', 'www.hm12.lol', 'xin.xiumh.com', 'www.nsisfans.com', 'www.tushencn.com', 'www.dafuhao.com', 'baxtc.66666654.xyz', 'rsaconference.com', 'www.manhuadb.com', 'raw.gitmirror.com', 'www.ddwhm.com', 'www.55evd.com', 'fldsubgigtujuy.76898102.xyz', 'www.hm11.lol', 'protocol.carv.io', 'www.k77kk.cc', 'yx.887141.xyz', 'www.xinpian8.com', 'www.4gdiy.com', 'www.978c.com', 'uu93.com', '4gdiy.com', 'www.kanju8.com', 'www.privateinternetaccess.com', 'www.76sf.com', 'chunbb.sectigo.pp.ua', 'www.65bao2.com', 'www.c123b.com', 'hkaa.sectigo.pp.ua', 'www.vcd.la', 'www.881dy.com', 'www.77dv.com', 'tha.privateinternetaccess.com', 'www.tv9090.com', 'www.6i5.com', 'uah.jobteaser.com', 'nlsdwsz.66666654.xyz', 'xs.wxtv.cc', 'www.2soc.com', 'proxyip.sg.fxxk.dedyn.io', '166al.com', 'www.166al.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.foot18.com...
+Performing DNS lookup for www.65bao2.com...
+Performing DNS lookup for www.xworldadmin.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
