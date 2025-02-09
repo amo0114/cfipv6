@@ -27993,3 +27993,25 @@ Performing DNS lookup for www.jackdaniels.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8ea23a5] Update project files
+ 4 files changed, 97 insertions(+), 76 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   00724d7..8ea23a5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.222.78...
+Fetching domains for 104.18.170.81...
+Fetching domains for 104.16.252.77...
+succeed to fetch domains for 104.16.252.77 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.170.81 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.222.78 from https://dnsdblookup.com/
+域名列表为
+['www.xjjhny.cn', 'www.cfhuagong.com', 'www.gaoqingw.com', 'www.lxjy2017.com', 'www.xz898my.com', 'www.88wwk.com', 'm.gangsiwang.org', 'cfip.xxxxxxxx.tk', 'www.kbss888.com', '555pian.com', 'oss.xingxingyunpan.com', 'www.tpyyc.com', 'zxk555.com', '5dy6.cc', 'www.555yy4.com', 'lxjy2017.com', 'www.sf123.mobi']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.sf123.mobi...
+Performing DNS lookup for 5dy6.cc...
+Performing DNS lookup for lxjy2017.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

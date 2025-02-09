@@ -2,54 +2,48 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.sf123.mobi	canonical name = sf123mobi.haofanghu123.com.
-sf123mobi.haofanghu123.com	canonical name = www.sf123.mobi.cdn.cloudflare.net.
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 104.21.86.20
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 172.67.214.14
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:5614
-Name:	www.sf123.mobi.cdn.cloudflare.net
-Address: 2606:4700:3037::ac43:d60e
+8877fz.com	canonical name = exp.judns.com.
+Name:	exp.judns.com
+Address: 47.243.57.214
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	5dy6.cc
-Address: 104.18.177.111
-Name:	5dy6.cc
-Address: 104.16.252.77
-Name:	5dy6.cc
-Address: 104.19.189.109
-Name:	5dy6.cc
-Address: 104.16.231.110
-Name:	5dy6.cc
-Address: 104.18.79.49
-Name:	5dy6.cc
-Address: 104.18.88.234
-Name:	5dy6.cc
-Address: 104.21.87.22
-Name:	5dy6.cc
-Address: 104.18.170.81
-Name:	5dy6.cc
-Address: 104.18.222.78
-Name:	5dy6.cc
-Address: 104.17.9.60
-Name:	5dy6.cc
-Address: 104.21.70.243
-Name:	5dy6.cc
-Address: 190.93.246.182
-Name:	5dy6.cc
-Address: 104.18.183.66
-Name:	5dy6.cc
-Address: 104.18.219.137
-Name:	5dy6.cc
-Address: 104.21.38.67
+www.sixyin.com	canonical name = 356366.xyz.
+Name:	356366.xyz
+Address: 104.21.96.1
+Name:	356366.xyz
+Address: 104.21.48.1
+Name:	356366.xyz
+Address: 104.21.64.1
+Name:	356366.xyz
+Address: 104.21.112.1
+Name:	356366.xyz
+Address: 104.21.80.1
+Name:	356366.xyz
+Address: 104.21.16.1
+Name:	356366.xyz
+Address: 104.21.32.1
+Name:	356366.xyz
+Address: 2606:4700:3030::6815:2001
+Name:	356366.xyz
+Address: 2606:4700:3030::6815:1001
+Name:	356366.xyz
+Address: 2606:4700:3030::6815:5001
+Name:	356366.xyz
+Address: 2606:4700:3030::6815:4001
+Name:	356366.xyz
+Address: 2606:4700:3030::6815:3001
+Name:	356366.xyz
+Address: 2606:4700:3030::6815:6001
+Name:	356366.xyz
+Address: 2606:4700:3030::6815:7001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find lxjy2017.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.ekvod.com
+Address: 162.209.175.126
 
