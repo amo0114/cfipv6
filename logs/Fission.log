@@ -28042,3 +28042,25 @@ Performing DNS lookup for www.ekvod.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e99e25d] Update project files
+ 4 files changed, 50 insertions(+), 64 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   37ab237..e99e25d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.13.91...
+Fetching domains for 104.16.234.150...
+Fetching domains for 104.16.230.179...
+succeed to fetch domains for 104.16.230.179 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.234.150 from https://site.ip138.com/
+succeed to fetch domains for 104.26.13.91 from https://ipchaxun.com/
+域名列表为
+['7.namesilo123.top', 'uibieyang.com', 'rust-servers.net', 'rdgyyc.com', 'usshsaba.114514782.xyz', 'mikly.org', 'fonscan.io', 'www.8877fz.com', 'www.vodbd.com', 'www.yh9pk.com', 'ysz8.com', 'veil.exchange', '26.namesilo123.top', 'www.iios.me', 'xmateur.com', 'www.wn04.cc', 'alpha-batteries.co.uk', 'www.dcs99.com', 'www.ebid.net', 'www.xiuluo942.com', 'www.nwtlbb.cn', 'www.rxjh520.cc', 'proxy.juezz.top', 'www.dhakatimes24.com', 'fa1.fun', 'idonline.emnuvens.com.br', 'www.295k.com', 'walletgate.io', 'm.niuerzs.com', 'www.vcd.la', 'juezz.top', '17800.net', 'www.m6y6.com', 'ebid.net', 'lolishe.lol', 'wap.shubaopp.com', '521sg.com', 'lailluminator.com', 'www.zlcq520.com', 'www.ibtc.com.hk', 'jpadwinfs.114514782.xyz', 'dhakatimes24.com', 'www.ddwhm.com', 'w.88yw.cn', 'www.xinyi176.com', 'old.dhakatimes24.com', 'www.tx58tl.com', 'tvsod.com', 'haoduck.com', 'bearhello.com', 'iios.club', 'www.flamingo.ca', 'www.luwangyangrong.com', 'hi-news.ru', 'k.shubaopp.com', 'ashion.com', 'www.yunbtv.com', 'www.balderton.com', 'land-book.com', 'www.tl123123.com', 'www.alpha-batteries.co.uk', 'fscnode.fonscan.io', 'www.rdgyyc.com', 'www.tlbb888.com', 'www.iios.club', 'cdn.021600.cn', 'roosanauha.syopasaatio.fi', 'www.8899tl.com', 'astalavr.com', 'blog.haoduck.com', 'www.tockt.com', 'yxy176.com', 'ibtc.com.hk', 'www.dzy66666.com', 'www.settecolori.gr', 'pornmeka.com', '75uw.com', 'freeyx.cloudflare88.eu.org', 'mwcomic4.co', 'fsc-dataseed1.fonscan.io', 'www.pk299.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.niuerzs.com...
+Performing DNS lookup for tvsod.com...
+Performing DNS lookup for w.88yw.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

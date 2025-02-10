@@ -2,16 +2,58 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find tvsod.com: SERVFAIL
+Name:	555dyy15.com
+Address: 104.18.6.143
+Name:	555dyy15.com
+Address: 104.17.241.221
+Name:	555dyy15.com
+Address: 104.17.27.94
+Name:	555dyy15.com
+Address: 104.17.22.12
+Name:	555dyy15.com
+Address: 104.18.37.162
+Name:	555dyy15.com
+Address: 104.17.253.76
+Name:	555dyy15.com
+Address: 190.93.247.156
+Name:	555dyy15.com
+Address: 104.18.66.23
+Name:	555dyy15.com
+Address: 104.17.18.26
+Name:	555dyy15.com
+Address: 104.17.17.118
+Name:	555dyy15.com
+Address: 104.17.16.151
+Name:	555dyy15.com
+Address: 104.18.1.224
+Name:	555dyy15.com
+Address: 198.41.212.231
+Name:	555dyy15.com
+Address: 104.18.5.19
+Name:	555dyy15.com
+Address: 162.159.43.23
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find w.88yw.cn: No answer
+www.dy420.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+chuncc.sectigo.pp.ua	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-b-globali.dnsht.pp.ua.
+speed-freefly-b-globali.dnsht.pp.ua	canonical name = cfcn-b-global32.66666654.xyz.
+Name:	cfcn-b-global32.66666654.xyz
+Address: 104.18.115.187
 
