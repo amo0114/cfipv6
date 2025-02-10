@@ -28173,3 +28173,25 @@ Performing DNS lookup for www.dafuhao.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 289015d] Update project files
+ 4 files changed, 65 insertions(+), 99 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   41fdc28..289015d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.2.78...
+Fetching domains for 104.19.166.123...
+Fetching domains for 104.17.24.100...
+succeed to fetch domains for 104.19.166.123 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.2.78 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.24.100 from https://ipchaxun.com/
+域名列表为
+['www.yan176.com', 'www.93xscc.com', 'www.4hud66.com', 'www.wn01.cc', '4hud66.com', 'www.hljja.com', 'www.kna567.com', 'www.zddzd.top', 'cf1.492745.xyz', 'hljja.com', 'www.h567n.com', 'dbm58.com', 'www.btbdys.com', 'kna567.com', 'www.hhyy028.com', 'www.933pu.com', 'www.17kyun.com', 'www.m6y6.com', 'www.tichain.cc', 'www.tanhuazu.com', 'www.e0101.com', 'cdn.didi8.com', 'www.xiuluoxiaoshuo.com', 'a.nitropay.com', 'www.iios.club', 'www.yh9pk.com', 'www.51jion.com', 'www.wuda.cf', 'www.nemlig.com', 'www.163my.com', 'gtt.top', 'www.77ty.com', '933pu.com', 'www.dbm58.com', 'www.7lq.com', 'www.nangua55.com', 'www.xuanqishi.com', 'www.sixt.nl', 'www.manhuadb.com', 'www.radionikkei.jp', 'kuaikan66.com', 's.nitropay.com', 'www.66se1.com', 'm.6988tv.com', 'www.rxjh520.cc', 'www.pk299.com', 'www.jg666.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.m6y6.com...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for hljja.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
