@@ -28151,3 +28151,25 @@ Performing DNS lookup for beth.ns.cloudflare.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 41fdc28] Update project files
+ 4 files changed, 120 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   b536c16..41fdc28  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 172.66.47.38...
+Fetching domains for 104.18.182.179...
+Fetching domains for 104.18.4.253...
+succeed to fetch domains for 104.18.4.253 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.182.179 from https://site.ip138.com/
+succeed to fetch domains for 172.66.47.38 from https://dnsdblookup.com/
+域名列表为
+['cdn.yuntujisu.ml', 'apk.tv.ci', '18moe.net', 'www.dy420.com', 'kytyy.com', 'chuncc.sectigo.pp.ua', 'www.pianku5.com', 'www.xarsd.com', 'www.heinu.cc', 'nlsdwsz.66666654.xyz', 'zxk555.com', 'w5cin.com', 'www.sevtinge.cn', 'www.nitianxieshen.com', 'tv.ci', 'www.iios.club', 'www.555dy.me', 'www.xinjuc.com', 'dami10.me', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'zhenfanjixie.com', 'www.dafuhao.com', '1.namesilo123.top', 'www.zxk555.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for w5cin.com...
+Performing DNS lookup for 18moe.net...
+Performing DNS lookup for www.dafuhao.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

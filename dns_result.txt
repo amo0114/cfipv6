@@ -2,73 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	w5cin.com
-Address: 108.162.192.103
-Name:	w5cin.com
-Address: 104.17.230.96
-Name:	w5cin.com
-Address: 104.18.11.49
-Name:	w5cin.com
-Address: 172.66.47.38
-Name:	w5cin.com
-Address: 104.18.178.239
-Name:	w5cin.com
-Address: 104.18.3.209
-Name:	w5cin.com
-Address: 172.67.5.67
-Name:	w5cin.com
-Address: 198.41.215.196
-Name:	w5cin.com
-Address: 198.41.212.148
-Name:	w5cin.com
-Address: 104.18.4.253
-Name:	w5cin.com
-Address: 104.18.182.179
-Name:	w5cin.com
-Address: 104.18.28.235
-Name:	w5cin.com
-Address: 104.18.179.91
-Name:	w5cin.com
-Address: 104.17.227.50
-Name:	w5cin.com
-Address: 104.17.86.94
+www.m6y6.com	canonical name = domainexpired.domain-expired.com.
+Name:	domainexpired.domain-expired.com
+Address: 101.33.46.108
+Name:	domainexpired.domain-expired.com
+Address: 43.153.249.96
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	18moe.net
-Address: 172.67.159.76
-Name:	18moe.net
-Address: 104.21.9.75
-Name:	18moe.net
-Address: 2606:4700:3037::6815:94b
-Name:	18moe.net
-Address: 2606:4700:3036::ac43:9f4c
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.dafuhao.com	canonical name = dafuhao.cloudflare.182682.xyz.
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	dafuhao.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
+Name:	hljja.com
+Address: 206.119.69.56
 
