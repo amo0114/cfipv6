@@ -28085,3 +28085,25 @@ Performing DNS lookup for chuncc.sectigo.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8975894] Update project files
+ 4 files changed, 87 insertions(+), 80 deletions(-)
+ rewrite dns_result.txt (87%)
+To github.com:amo0114/cfipv6.git
+   e6fd43d..8975894  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.6.187...
+Fetching domains for 104.18.16.186...
+Fetching domains for 104.17.25.185...
+succeed to fetch domains for 104.18.16.186 from https://site.ip138.com/
+succeed to fetch domains for 104.17.25.185 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.6.187 from https://ipchaxun.com/
+域名列表为
+['cf.131499.asia', 'f456x.com', 'hzgd.com.cn', 'g.io', 'www.52jhmh.com', 'casimoose.ca', 'piaooo.vip', 'www.f456x.com', 'dianshiba.cc', 'jetcost.fi', 'www.bpzhe.com', 'm.ty1271.com', 'utilitydive.com', 'www.iios.me', 'www.tj315.org.cn', 'b345j.com', '4hugg98.com', 'www.dianshiba.cc', '4hu46e.com', 'www.jshaia.org.cn', 'www.goodsure.cn', 'codshipin.com', 'www.codshipin.com', 'aboutyou.se', 'tj315.org.cn', 'yanzhaorc.com', 'zxk555.com', 'www.66sex.net', 'www.longwangchuanshuo.com', 'www.piaooo.vip', 'www.99wx.cc', '360live.cc', 'jshaia.org.cn', 'www.b345j.com', 'www.utilitydive.com', 'dmys3.com', 'www.sdwqy.cn', 'imtpay.org', 'm.dianshiba.cc', 'mycodes.net', 'cf.dayucdn.com', 'www.xigua5.com', 'hcamag.com', 'aikantv.youtubee.top', 'www.jackpotcitycasino.se', 'www.dianshizb.com', 'www.4hu46e.com', 'www.4hugg98.com', 'www.ty1271.com', 'm.tj315.org.cn', '1.puxk520.cloudns.org', '67bs.com', 'www.iios.club', 'www.casimoose.ca', 'spca.114514782.xyz', 'dinotube.com', 'www.ikantv.net', 'www.56kkw.com', 'speed.marisalnc.com', 'dianshizb.com', 'www.67bs.com', 'www.euppublishing.com', 'm.yanzhaorc.com', 'www.mycodes.net', 'www.4569mm.com', 'freeyx.cloudflare88.eu.org', 'www.imtpay.org', 'ikantv.net', 'www.234nao.com', '173cq.com', 'www.p2007.com', 'iccie.cn', 'menmaza.76898102.xyz', 'www.hanmanmh.com', 'www.360live.cc', 'euppublishing.com', 'www.iccie.cn', '234nao.com', '56kkw.com', 'smcinema.com', 'm.ikantv.net', 'www.yanzhaorc.com', 'mini.dianshizb.com', 'www.tvyb10.com', 'www.t7wdhx3k4.wiki', 'm.dianshizb.com', 'www.56th.cc', 'www.hzgd.com.cn', 'hebav.online', 'www.dinotube.com', 'www.ddwhm.com', 'www.seminoleclassiccasino.com', 'www.nb6080.cc', 'cfcdn1.sanfencdn9.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.ikantv.net...
+Performing DNS lookup for www.sdwqy.cn...
+Performing DNS lookup for www.dinotube.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
