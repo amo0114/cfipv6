@@ -28064,3 +28064,24 @@ Performing DNS lookup for w.88yw.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e6fd43d] Update project files
+ 4 files changed, 88 insertions(+), 9 deletions(-)
+To github.com:amo0114/cfipv6.git
+   e99e25d..e6fd43d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.212.231...
+Fetching domains for 104.17.18.26...
+Fetching domains for 104.18.1.224...
+succeed to fetch domains for 104.17.18.26 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.1.224 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.212.231 from https://site.ip138.com/
+域名列表为
+['www.tuozhan021.com', 'www.jxggcm.com', 'nlsdwsz.66666654.xyz', 'www.11txt.com', 'yh6.dtku41.xyz', 'www.q2042.com', 'www.5dy6.cc', 'www.foot18.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.cbcv.cc', '555dy7.com', 'www.ayzjj.cn', 'www.x7h11.com', 'www.lnudz.com', '4gdiy.com', 'www.subodi.com', 'www.tv9090.com', 'cfip.xxxxxxxx.tk', 'www.ydxs.cc', 'www.6i5.com', 'www.tvyb02.com', 'chuncc.sectigo.pp.ua', '628000.xyz', 'www.555yy1.com', 'www.888dyy.cc', '92mili.com', '10-08.cfcdn.link', 'www.zjgamy.com', 'www.cfhuagong.com', '01.cfcdn.link', '11-16.cfcdn.giize.com', '66se6.com', 'www.haochi6.com', 'www.hm12.lol', 'cdn.didi8.com', 'www.555movie.me', 'www.sxe21.cn', 'www.sintingtoys.com', '5dy14.cc', 'www.xwjpack.com', '5dy6.cc', 'wz.weishao2023.uk.eu.org', 'img.hostmonit.com', '4huav522.com', 'www.555dy.me', 'hash.game', '10-08.cfcdn.giize.com', 'www.psy.net.cn', 'www.sxyzxh.com', 'www.quvideo.com', '923055.com', 'www.sanyatour.com', 'www.a234e.com', 'www.6988tv.com', 'bestcf.onecf.eu.org', '555dyy15.com', '555movie.me', 'www.01zj.com', 'www.66se0.com', 'www.wn04.cc', 'tv9090.com', 'www.sxyzxn.com', 'www.tinghen.com', 'stock.hostmonit.com', '01zj.com', 'psy.net.cn', 'www.ocean-inter.com', 'www.k77kk.cc', 'www.paizipai.top', '234tuo.com', 'stxwhg.com', 'jhpcza.66666654.xyz', 'hyrzs.com', 'www.706i.com', 'yx.zzznb.us.kg', 'www.clun.top', '21tvb.com', 'www.bjyongcheng.com', 'cf1.492745.xyz', 'www.zhenfanjixie.com', 'huaszj.cn', 'www.wu5cn.com', 'www.zxk555.com', 'www.yy4080dy.com', 'www.55evd.com', 'www.4huav522.com', 'www.sztimi.com', 'www.777d.app', 'www.cskji.com', 'uu93.com', 'www.meijubo.com', 'www.92mili.com', 'www.e0101.com', '606977.com', 'zxk555.com', 'www.dy420.com', 'tdgo.shop', 'www.555pian.com', 'meijubo.com', '7.namesilo123.top', 'www.5dy14.cc', 'www.ddwhm.com', '0550cq.com', 'www.bpzhe.com', 'www.zgwangzhan.com', 'cf-lt.sharecentre.online', 'www.tushencn.com', 'www.234tuo.com', 'xfltd.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 555dyy15.com...
+Performing DNS lookup for www.dy420.com...
+Performing DNS lookup for chuncc.sectigo.pp.ua...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
