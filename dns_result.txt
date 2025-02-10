@@ -2,25 +2,35 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.706i.com
-Address: 23.248.226.76
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.10zhanpai.com: SERVFAIL
+miye6.cc	canonical name = http-domain.dns.aa5aa5.com.
+http-domain.dns.aa5aa5.com	canonical name = http-301.cdn.goodluck-co.com.
+Name:	http-301.cdn.goodluck-co.com
+Address: 143.92.53.212
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.dy420.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
+gmmpic.com	canonical name = gmmpic.com.cdn.cloudflare.net.
+Name:	gmmpic.com.cdn.cloudflare.net
+Address: 104.21.60.93
+Name:	gmmpic.com.cdn.cloudflare.net
+Address: 172.67.195.127
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	beth.ns.cloudflare.com
+Address: 108.162.192.103
+Name:	beth.ns.cloudflare.com
+Address: 172.64.32.103
+Name:	beth.ns.cloudflare.com
+Address: 173.245.58.103
+Name:	beth.ns.cloudflare.com
+Address: 2606:4700:50::adf5:3a67
+Name:	beth.ns.cloudflare.com
+Address: 2803:f800:50::6ca2:c067
+Name:	beth.ns.cloudflare.com
+Address: 2a06:98c1:50::ac40:2067
 
