@@ -1,27 +1,30 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.993my.com: NXDOMAIN
+Non-authoritative answer:
+clun.top	canonical name = clun.top.cdn.cloudflare.net.
+Name:	clun.top.cdn.cloudflare.net
+Address: 104.22.52.235
+Name:	clun.top.cdn.cloudflare.net
+Address: 104.22.53.235
+Name:	clun.top.cdn.cloudflare.net
+Address: 172.67.27.46
+Name:	clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::6816:34eb
+Name:	clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::6816:35eb
+Name:	clun.top.cdn.cloudflare.net
+Address: 2606:4700:10::ac43:1b2e
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find mphoutaizhuanyongai.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.90qr.com
-Address: 128.14.74.107
-Name:	www.90qr.com
-Address: 128.14.74.124
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	www.yizidy.com
-Address: 104.21.55.254
-Name:	www.yizidy.com
-Address: 172.67.175.27
-Name:	www.yizidy.com
-Address: 2606:4700:3034::ac43:af1b
-Name:	www.yizidy.com
-Address: 2606:4700:3034::6815:37fe
+Name:	jpvsavhyu.76898102.xyz
+Address: 104.18.118.55
 
