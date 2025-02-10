@@ -2,35 +2,73 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-miye6.cc	canonical name = http-domain.dns.aa5aa5.com.
-http-domain.dns.aa5aa5.com	canonical name = http-301.cdn.goodluck-co.com.
-Name:	http-301.cdn.goodluck-co.com
-Address: 143.92.53.212
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-gmmpic.com	canonical name = gmmpic.com.cdn.cloudflare.net.
-Name:	gmmpic.com.cdn.cloudflare.net
-Address: 104.21.60.93
-Name:	gmmpic.com.cdn.cloudflare.net
-Address: 172.67.195.127
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	beth.ns.cloudflare.com
+Name:	w5cin.com
 Address: 108.162.192.103
-Name:	beth.ns.cloudflare.com
-Address: 172.64.32.103
-Name:	beth.ns.cloudflare.com
-Address: 173.245.58.103
-Name:	beth.ns.cloudflare.com
-Address: 2606:4700:50::adf5:3a67
-Name:	beth.ns.cloudflare.com
-Address: 2803:f800:50::6ca2:c067
-Name:	beth.ns.cloudflare.com
-Address: 2a06:98c1:50::ac40:2067
+Name:	w5cin.com
+Address: 104.17.230.96
+Name:	w5cin.com
+Address: 104.18.11.49
+Name:	w5cin.com
+Address: 172.66.47.38
+Name:	w5cin.com
+Address: 104.18.178.239
+Name:	w5cin.com
+Address: 104.18.3.209
+Name:	w5cin.com
+Address: 172.67.5.67
+Name:	w5cin.com
+Address: 198.41.215.196
+Name:	w5cin.com
+Address: 198.41.212.148
+Name:	w5cin.com
+Address: 104.18.4.253
+Name:	w5cin.com
+Address: 104.18.182.179
+Name:	w5cin.com
+Address: 104.18.28.235
+Name:	w5cin.com
+Address: 104.18.179.91
+Name:	w5cin.com
+Address: 104.17.227.50
+Name:	w5cin.com
+Address: 104.17.86.94
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	18moe.net
+Address: 172.67.159.76
+Name:	18moe.net
+Address: 104.21.9.75
+Name:	18moe.net
+Address: 2606:4700:3037::6815:94b
+Name:	18moe.net
+Address: 2606:4700:3036::ac43:9f4c
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.dafuhao.com	canonical name = dafuhao.cloudflare.182682.xyz.
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	dafuhao.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
 
