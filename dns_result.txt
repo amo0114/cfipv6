@@ -2,35 +2,61 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.99wxw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.43.202
-Name:	ips.993888.xyz
-Address: 104.17.137.230
-Name:	ips.993888.xyz
-Address: 104.17.129.106
+www.xinpian8.com	canonical name = ccc.seogg.com.
+Name:	ccc.seogg.com
+Address: 104.21.22.14
+Name:	ccc.seogg.com
+Address: 172.67.201.211
+Name:	ccc.seogg.com
+Address: 2606:4700:3033::ac43:c9d3
+Name:	ccc.seogg.com
+Address: 2606:4700:3035::6815:160e
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.k77yy.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
+www.555yy8.com	canonical name = fallback.a7ddef5e.wiki.
+Name:	fallback.a7ddef5e.wiki
+Address: 198.41.212.63
+Name:	fallback.a7ddef5e.wiki
+Address: 198.41.193.52
+Name:	fallback.a7ddef5e.wiki
+Address: 104.22.28.225
+Name:	fallback.a7ddef5e.wiki
+Address: 104.22.16.150
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.182.98
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.177.233
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.176.110
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.72.135
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.66.121
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.238.55
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.230.47
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.204.203
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.157.155
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.128.128
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.118.25
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.qkmov.com	canonical name = dns.yktvb.com.
-Name:	dns.yktvb.com
-Address: 104.18.21.69
-Name:	dns.yktvb.com
-Address: 104.18.20.69
+www.quanben360.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
 
