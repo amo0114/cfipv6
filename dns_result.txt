@@ -1,29 +1,19 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
+** server can't find statics.282224490.com: NXDOMAIN
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find o647q.com: NXDOMAIN
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
 Non-authoritative answer:
-www.wn01.cc	canonical name = cf-4.sjcdn.top.
-cf-4.sjcdn.top	canonical name = cn.wnacg.com.
-Name:	cn.wnacg.com
-Address: 172.67.74.237
-Name:	cn.wnacg.com
-Address: 104.26.12.109
-Name:	cn.wnacg.com
-Address: 104.26.13.109
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:c6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::ac43:4aed
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:d6d
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find freeyingshi.com: SERVFAIL
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.88wwk.com: NXDOMAIN
+Name:	www.902aa.com
+Address: 194.53.53.248
+Name:	www.902aa.com
+Address: 194.53.53.8
 
