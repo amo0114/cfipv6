@@ -28376,3 +28376,24 @@ Performing DNS lookup for www.quanben360.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1f03444] Update project files
+ 4 files changed, 54 insertions(+), 49 deletions(-)
+To github.com:amo0114/cfipv6.git
+   b516db6..1f03444  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.128.128...
+Fetching domains for 198.41.212.63...
+Fetching domains for 104.22.16.150...
+succeed to fetch domains for 104.22.16.150 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.212.63 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.128.128 from https://ipchaxun.com/
+域名列表为
+['888dyy.cc', 'yx.887141.xyz', '5dy5.cc', 'www.6i5.com', 'www.chinalace.org', 'www.sj96.com', 'stock.hostmonit.com', '7sc.cc', 'www.zxk555.com', 'www.90dushu.com', 'www.mqvisa.com', 'www.baipiaozhe.com', 'www.huaidan1.com', 'www.nsisfans.com', 'baipiaozhe.com', 'www.xworldadmin.com', 'www.tinghen.com', 'm.6i5.com', 'www.dy1255.com', 'daishudy.com', 'www.555dy7.com', 'fldsubgigtujuy.76898102.xyz', 'www.boyangjt.com', 'www.xinpian8.com', 'www.nitianxieshen.com', '0550cq.com', 'hsj.lbxjc.online', 'www.ddwhm.com', 'www.55xs.cc', 'cfip.xxxxxxxx.tk', 'www.99wx.cc', 'www.wayutan023.com', 'zxk555.com', 'www.6988tv.com', 'xfltd.net', '5dy14.cc', 'www.4148.net', 'www.555yy8.com', 'www.k77yy.com', 'm.niuerzs.com', 'baxtc.66666654.xyz', 'acus.cloudflarest.link', 'www.wxxzzs.com', 'jpvsavhyu.76898102.xyz', 'www.0550cq.com', 'n1.cfcdnyx.mom', 'www.bdyy1.xyz', 'www.bayinghe.cc', 'www.hnxinlian.org', 'zi0.cc', 'www.k77kk.cc', 'www.mknykj.com', 'www.bpzhe.com', 'sp.rweek.top', 'shoueraa.76898102.xyz', 'yh6.dtku41.xyz', 'www.megumirawr.cc', '5dy6.cc', 'm.bzzxxx.net', 'www.33mov.com', 'www.99wxw.cc', 'www.zhenfanjixie.com', 'xs.wxtv.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.bzzxxx.net...
+Performing DNS lookup for www.zxk555.com...
+Performing DNS lookup for www.wayutan023.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
