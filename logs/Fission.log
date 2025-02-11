@@ -28266,3 +28266,25 @@ Performing DNS lookup for www.xwsxs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f760603] Update project files
+ 4 files changed, 85 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   d6695de..f760603  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.19.240...
+Fetching domains for 104.22.57.186...
+Fetching domains for 104.18.27.220...
+succeed to fetch domains for 104.22.57.186 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.19.240 from https://site.ip138.com/
+succeed to fetch domains for 104.18.27.220 from https://dnsdblookup.com/
+域名列表为
+['nlsdwsz.66666654.xyz', '521vr.com', 'www.ddwhm.com', 'www.b1b66.com', 'www.66ppd.com', 'hhh621.com', 'i.97p.org', 'www.qindixs.com', 'www.lvefa.com', 'www.93xscc.com', 'www.fnfdc.com', '5345gu.com', '205du.com', 'www.c6868b.com', 'websites.looka.com', 'www.sondercollection.com', 'eqakm.ohquu.com', '66ppd.com', 'zl.aitrjc.xyz', 'www.nitianxieshen.com', 'www.6988tv.com', 'www.5456la.com', '7.namesilo123.top', 'www.jam234.com', 'jam234.com', 'www.e234a.com', 'www.6678wo.com', 'www.205du.com', 'www.tpyyc.com', 'hsj.lbxjc.online', 'zm7.m3u8list.top', 'www.looka.com', 'www.hhh621.com', 'bk.jdkg.fun', 'acus.cloudflarest.link', '5456la.com', 'tgfder88.org', 'b1b66.com', 'looka.com', 'www.baota.me', 'jpadwinfs.114514782.xyz', 'c7.ictalking.com', 'baxtc.66666654.xyz', 'm.tpyyc.com', 'dl-cdn.stcn.link', 'jpvsavhyu.76898102.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ddwhm.com...
+Performing DNS lookup for eqakm.ohquu.com...
+Performing DNS lookup for www.5456la.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
