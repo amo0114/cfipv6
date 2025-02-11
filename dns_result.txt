@@ -1,40 +1,46 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.zlcq520.com: NXDOMAIN
+Non-authoritative answer:
+baxtc.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
+xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
+speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global12.66666654.xyz.
+Name:	cfcn-a-global12.66666654.xyz
+Address: 104.18.124.43
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ppxdm.com	canonical name = ppdns.hai888.top.
-ppdns.hai888.top	canonical name = dns02.hddm.cc.
-Name:	dns02.hddm.cc
-Address: 104.21.32.1
-Name:	dns02.hddm.cc
-Address: 104.21.16.1
-Name:	dns02.hddm.cc
-Address: 104.21.64.1
-Name:	dns02.hddm.cc
-Address: 104.21.96.1
-Name:	dns02.hddm.cc
-Address: 104.21.80.1
-Name:	dns02.hddm.cc
-Address: 104.21.112.1
-Name:	dns02.hddm.cc
-Address: 104.21.48.1
+cdn.didi8.com	canonical name = x.zhmls.tk.
+x.zhmls.tk	canonical name = hty.9494.tk.
+Name:	hty.9494.tk
+Address: 104.21.13.232
+Name:	hty.9494.tk
+Address: 172.67.133.106
+Name:	hty.9494.tk
+Address: 2606:4700:3032::6815:de8
+Name:	hty.9494.tk
+Address: 2606:4700:3034::ac43:856a
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.xinjuc.com	canonical name = www.xinjuc.com.cdn.cloudflare.net.
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 172.67.158.71
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 104.21.73.59
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:493b
-Name:	www.xinjuc.com.cdn.cloudflare.net
-Address: 2606:4700:3032::ac43:9e47
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.98.171
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.247.27
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.193.254
+Name:	cfip.xxxxxxxx.tk
+Address: 172.67.220.214
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.58.251
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.8.63
+Name:	cfip.xxxxxxxx.tk
+Address: 172.67.77.125
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.225.181
 
