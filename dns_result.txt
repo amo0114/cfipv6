@@ -2,45 +2,35 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-baxtc.66666654.xyz	canonical name = xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz.
-xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz	canonical name = speed-freefly-a-globali.dnsht.pp.ua.
-speed-freefly-a-globali.dnsht.pp.ua	canonical name = cfcn-a-global12.66666654.xyz.
-Name:	cfcn-a-global12.66666654.xyz
-Address: 104.18.124.43
+www.99wxw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.43.202
+Name:	ips.993888.xyz
+Address: 104.17.137.230
+Name:	ips.993888.xyz
+Address: 104.17.129.106
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-cdn.didi8.com	canonical name = x.zhmls.tk.
-x.zhmls.tk	canonical name = hty.9494.tk.
-Name:	hty.9494.tk
-Address: 104.21.13.232
-Name:	hty.9494.tk
-Address: 172.67.133.106
-Name:	hty.9494.tk
-Address: 2606:4700:3032::6815:de8
-Name:	hty.9494.tk
-Address: 2606:4700:3034::ac43:856a
+www.k77yy.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.98.171
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.247.27
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.193.254
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.220.214
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.58.251
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.8.63
-Name:	cfip.xxxxxxxx.tk
-Address: 172.67.77.125
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.225.181
+www.qkmov.com	canonical name = dns.yktvb.com.
+Name:	dns.yktvb.com
+Address: 104.18.21.69
+Name:	dns.yktvb.com
+Address: 104.18.20.69
 

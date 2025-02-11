@@ -28310,3 +28310,25 @@ Performing DNS lookup for www.xinjuc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 068bcaa] Update project files
+ 4 files changed, 85 insertions(+), 55 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   1fe2f99..068bcaa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.79.220...
+Fetching domains for 104.17.236.24...
+Fetching domains for 104.18.29.140...
+succeed to fetch domains for 104.17.236.24 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.79.220 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.29.140 from https://ipchaxun.com/
+域名列表为
+['qiaokuang.net', 'www.yh9pk.com', 'www.4568dd.com', 'm.tvccc.org', 'yh.genomics.org.cn', 'www.88wwk.com', 'quimbee.com', 'db.cngb.org', '26.namesilo123.top', '4hud47.com', '75pp.net', 'm.x23us.org', 'pddpdd.cn', 'yx.887141.xyz', 'www.zgjmw.net', '4568dd.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'usshsaba.114514782.xyz', 'www.tvccc.org', '69wtt.com', 'cdn.didi8.com', 'yan176.com', 'aeonretail.com', 'www.meijui.net', 'eexxx.com', 'www.zongcaiwx.com', 'www.4j4j.cn', 'bernstein-badshop.de', 'www.789ys.com', 'biqune.com', 'www.xz898my.com', 'm.4j4j.cn', 'www.nitianxieshen.com', 'www.qiaokuang.net', 'www.wudeyy.com', 'cfip.201043.xyz', 'www.biqune.com', 'www.btbdys.com', 'www.wn04.cc', 'www.ddwhm.com', 'www.ycppwh.org', 'www.pk299.com', 'xhxwljs.com', 'www.kuafuzys.com', 'baxtc.66666654.xyz', 'www.schtbz.com', 'www.tlbb888.com', 'sizzlingpubs.co.uk', 'nankoyo.com', 'c.jhc3w.com', 'dsxys.com', 'kz22.cc', 'www.69wtt.com', 'yh6.dtku41.xyz', 'www.456gg.com', 'www.x3p77.com', 'cfip.xxxxxxxx.tk', 'www.cx888my.com', 'www.leyun.cloud', 'cn.mini.garmin.com', 'www.peclersplus.com', 'www.cfhuagong.com', 'www.91m.cc', '789ys.com', 'www.dcs99.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for baxtc.66666654.xyz...
+Performing DNS lookup for cdn.didi8.com...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
