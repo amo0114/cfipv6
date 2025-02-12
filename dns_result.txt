@@ -2,26 +2,51 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	a-premium.com
-Address: 104.18.23.123
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	bb33jj.com
-Address: 172.67.218.166
-Name:	bb33jj.com
-Address: 104.21.59.79
-Name:	bb33jj.com
-Address: 2606:4700:3033::ac43:daa6
-Name:	bb33jj.com
-Address: 2606:4700:3035::6815:3b4f
+www.zongcaiwx.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.128.178
+Name:	ips.993888.xyz
+Address: 104.16.121.24
+Name:	ips.993888.xyz
+Address: 104.17.134.210
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	4hun16.com
-Address: 23.225.148.166
+Name:	kan234.com
+Address: 104.21.23.30
+Name:	kan234.com
+Address: 172.67.208.119
+Name:	kan234.com
+Address: 2606:4700:3033::ac43:d077
+Name:	kan234.com
+Address: 2606:4700:3033::6815:171e
 
