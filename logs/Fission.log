@@ -28419,3 +28419,25 @@ Performing DNS lookup for www.88wwk.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 275139c] Update project files
+ 4 files changed, 49 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   9677dbe..275139c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.97.63...
+Fetching domains for 104.17.47.72...
+Fetching domains for 104.18.29.174...
+succeed to fetch domains for 104.18.29.174 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.47.72 from https://site.ip138.com/
+succeed to fetch domains for 104.18.97.63 from https://site.ip138.com/
+域名列表为
+['www.dmbj.cc', 'www.cu90.com', 'proxyfallback.leiwebportal1.com', 'statics.282224490.com', 'menmaza.76898102.xyz', 'www.88wwk.com', '219po.com', 'www.902aa.com', 'www.77zw.cc', 'www.qindixs.com', 'www.raybet06.com', 'www.securitasinc.com', 'www.raybet5.com', 'www.ub888.cc', 'www.raybet7.com', '2567yu.com', 'wsf168168.com', 'lao234.com', 'www.pk299.com', 'www.hnxtx.com', 'www.993my.com', '902aa.com', 'www.2123gu.com', 'rapp88.com', 'www.rapp88.com', 'www.ray08.com', 'www.iios.club', 'www.lao234.com', 'iios.club', 'www.219po.com', 'www.99wx.cc', 'www.raybet04.com', 'yncareer.com', 'www.dzy66666.com', 'www.4huf58.com', 'o647q.com', 'www.x777p.com', 'elections.org.nz', 'www.o647q.com', 'www.huaidan2.com', 'x777p.com', '3567er.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for statics.282224490.com...
+Performing DNS lookup for o647q.com...
+Performing DNS lookup for www.902aa.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
