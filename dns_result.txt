@@ -2,28 +2,39 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
+881dy.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.aikmha.com
-Address: 38.46.8.28
-Name:	www.aikmha.com
-Address: 38.46.8.27
-Name:	www.aikmha.com
-Address: 38.46.8.26
-Name:	www.aikmha.com
-Address: 38.46.8.30
-Name:	www.aikmha.com
-Address: 38.46.8.29
+Name:	cc77ee.com
+Address: 104.21.30.226
+Name:	cc77ee.com
+Address: 172.67.173.229
+Name:	cc77ee.com
+Address: 2606:4700:3031::6815:1ee2
+Name:	cc77ee.com
+Address: 2606:4700:3037::ac43:ade5
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.yyxxi.com
-Address: 162.210.196.166
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.63
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.182.98
+Name:	cfip.xxxxxxxx.tk
+Address: 104.18.176.110
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.66.121
 
