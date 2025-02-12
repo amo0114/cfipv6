@@ -28528,3 +28528,24 @@ Performing DNS lookup for www.yyxxi.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4e9c959] Update project files
+ 4 files changed, 61 insertions(+), 27 deletions(-)
+To github.com:amo0114/cfipv6.git
+   0c74426..4e9c959  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.239.119...
+Fetching domains for 104.17.249.76...
+Fetching domains for 104.18.3.31...
+succeed to fetch domains for 104.17.249.76 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.239.119 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.3.31 from https://site.ip138.com/
+域名列表为
+['www.elo.com.br', '4hup86.com', 'www.76sf.com', 'm.tvccc.org', 'www.fcwei.com', 'www.888dyy.cc', 'www.privatemail.com', 'iaudhcui.76898102.xyz', 'www.b7yy.cc', '628000.xyz', 'yx.887141.xyz', 'cfip.xxxxxxxx.tk', '881dy.com', 'nlsdwsz.66666654.xyz', 'www.c333.net', 'www.dy1255.com', 'xfltd.net', 'www.wsp.com', 'macvbb.555556789.xyz', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.77yeye.com', '4hut02.com', 'erou.stirileprotv.ro', 'amoebi.com', 'www.zxk555.com', 'baxtc.66666654.xyz', 'www.k77yy.com', 'www.pianku5.com', 'cc77ee.com', 'm.niuerzs.com', 't777m.com', 'www.295k.com', '6345zu.com', 'www.zhenfanjixie.com', 'www.iios.club', 'incont.stirileprotv.ro', 'www.4hup86.com', 'www.t777m.com', 'stirileprotv.ro', 'www.whpaiger.com', 'www.jmxhbgc.com', 'dixonvalve.com', 'privatemail.com', 'www.7749tv.com', 'jpdd.sectigo.pp.ua', 'c171448229d83d03.pw', 'www.ytshenxian.com', 'www.kanunu2.com', 'cgdd.digicert.pp.ua', 'www.yx521.net', '77yeye.com', 'foodstory.stirileprotv.ro', 'www.hm12.lol', 'zxk555.com', 'm.zhiqihuo.cc', 'mail.privatemail.com', 'www.6345zu.com', 'www.cc77ee.com', '555pian.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 881dy.com...
+Performing DNS lookup for cc77ee.com...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

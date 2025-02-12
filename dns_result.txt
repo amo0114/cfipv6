@@ -2,39 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-881dy.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	a-premium.com
+Address: 104.18.23.123
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cc77ee.com
-Address: 104.21.30.226
-Name:	cc77ee.com
-Address: 172.67.173.229
-Name:	cc77ee.com
-Address: 2606:4700:3031::6815:1ee2
-Name:	cc77ee.com
-Address: 2606:4700:3037::ac43:ade5
+Name:	bb33jj.com
+Address: 172.67.218.166
+Name:	bb33jj.com
+Address: 104.21.59.79
+Name:	bb33jj.com
+Address: 2606:4700:3033::ac43:daa6
+Name:	bb33jj.com
+Address: 2606:4700:3035::6815:3b4f
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.63
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.182.98
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.176.110
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.66.121
+Name:	4hun16.com
+Address: 23.225.148.166
 
