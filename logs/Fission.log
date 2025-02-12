@@ -28592,3 +28592,25 @@ Performing DNS lookup for kan234.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 873b4b0] Update project files
+ 4 files changed, 105 insertions(+), 68 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   4fda8d6..873b4b0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.20.145...
+Fetching domains for 104.18.177.28...
+Fetching domains for 104.18.186.63...
+succeed to fetch domains for 104.18.177.28 from https://site.ip138.com/
+succeed to fetch domains for 104.18.186.63 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.20.145 from https://dnsdblookup.com/
+域名列表为
+['4.sanfen001.top', 'www.88wwk.com', 'cfip.xxxxxxxx.tk', 'www.50zw.co', '17ttx.com', 'www.doupobook.cc', 'www.qqw21.com', 'www.lyzdzy.com', 'www.17ttx.com', 'www.5522tl.com', 'www.yzdrtz.com', 'www.93xscc.com', 'www.kbss888.com', 'www.xinyi176.com', 'www.tl123123.com', 'www.zongcaiwx.com', 'www.99wxw.cc', 'www.kanunu2.com', 'bj-jq.com', 'www.zzztch.com', 'www.7277tl.com', 'www.kanju8.com', 'www.xshuxs.com', 'www.6988tv.com', 'zlcq520.com', 'www.630book.com', 'www.xz898my.com', 'www.qindixs.com', 'www.kuaikan66.com', 'sixyin.com', 'www.223ss.com', '555pian.com', 'www.ub888.cc', 'zi0.cc', 'www.wuzimy.top', 'www.yncareer.com', 'www.bj-jq.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qindixs.com...
+Performing DNS lookup for 555pian.com...
+Performing DNS lookup for www.wuzimy.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
