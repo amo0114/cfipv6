@@ -2,27 +2,35 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
+www.7sc.cc	canonical name = sbcdn.cc.
+sbcdn.cc	canonical name = dash.cloudflare.com.
+Name:	dash.cloudflare.com
+Address: 104.17.110.184
+Name:	dash.cloudflare.com
+Address: 104.17.111.184
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6fb8
+Name:	dash.cloudflare.com
+Address: 2606:4700::6811:6eb8
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	supremegolf.com
-Address: 104.22.5.190
-Name:	supremegolf.com
-Address: 104.22.4.190
-Name:	supremegolf.com
-Address: 172.67.10.87
-Name:	supremegolf.com
-Address: 2606:4700:10::6816:4be
-Name:	supremegolf.com
-Address: 2606:4700:10::6816:5be
-Name:	supremegolf.com
-Address: 2606:4700:10::ac43:a57
+www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 104.21.30.140
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 172.67.172.249
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:1e8c
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:acf9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find zm7.m3u8list.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.dqhedu.cn
+Address: 23.225.148.174
 
