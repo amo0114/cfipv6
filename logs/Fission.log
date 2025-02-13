@@ -28743,3 +28743,24 @@ Performing DNS lookup for www.gggggyy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 554a8f3] Update project files
+ 4 files changed, 46 insertions(+), 22 deletions(-)
+To github.com:amo0114/cfipv6.git
+   0705908..554a8f3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.212.23...
+Fetching domains for 104.17.57.227...
+Fetching domains for 104.17.205.243...
+succeed to fetch domains for 104.17.57.227 from https://site.ip138.com/
+succeed to fetch domains for 198.41.212.23 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.205.243 from https://ipchaxun.com/
+域名列表为
+['bdx100.com', 'www.ddwhm.com', 'm.58xs.la', 'www.tinghen.com', 'yx.887141.xyz', 'sygame.jingkangjie.cn', 'www.k77yy.com', 'www.4gdiy.com', 'cf-lt.sharecentre.online', 'blog.bestip.one', 'www.wei333.com', 'www.b7yy.cc', 'uu93.com', 'www.clun.top', 'mxc1.lbuy.top', 'www.k77kk.cc', 'www.888dyy.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'baxtc.66666654.xyz', 'www.51jion.com', 'sgv7.com', 'www.xzwksj.com', 'www.mixting.com', 'www.ub888.cc', 'www.606977.com', 'www.yhsqxy.com', '7.namesilo123.top', 'yundunwawablogcdn1yd.wawacm.com', 'cloudflare.cfgo.cc', 'cfip.xxxxxxxx.tk', 'm.0550cq.com', 'www.boyangjt.com', 'jpaa.sectigo.pp.ua', 'jqggzyjy.com.cn', 'www.55evd.com', 'www.qp666.com', 'www.btbdys.com', 'stock.hostmonit.com', 'cf.openxai.link', 'www.6i5.com', 'www.ai2moe.org', 'www.hkbn.xyz', 'www.paizipai.top', 'shoueraa.76898102.xyz', 'www.qire88.com', '789kp.com', 'aktv.top', 'www.xiaowenduo.com', 'www.50zw.co', 'kytyy.com', 'www.dafuhao.com', 'www.uu93.com', 'www.555movie.me', 'www.170so.com', 'm.niuerzs.com', 'www.e0101.com', 'www.0550cq.com', 'www.11txt.com', 'www.4148.net', 'qr99.cc', 'cf1.492745.xyz', 'zi0.cc', 'm.6i5.com', 'xfltd.net', 'www.kanju8.com', 'nlsdwsz.66666654.xyz', 'www.tvccc.org', 'www.17ttx.com', 'kan234.com', 'www.d8kj.com', 'www.qumiyun.com', 'www.vcd.la', 'vn3.vvvvv.fn-node.site', 'fdvinacs.66666654.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for shoueraa.76898102.xyz...
+Performing DNS lookup for www.hkbn.xyz...
+Performing DNS lookup for cf-lt.sharecentre.online...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

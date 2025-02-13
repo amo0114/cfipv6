@@ -2,30 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find shoueraa.76898102.xyz: No answer
+Name:	www.tichain.cc
+Address: 199.59.243.228
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hkbn.xyz	canonical name = cdn.tencentapp.cn.
-cdn.tencentapp.cn	canonical name = cfcn-a-freegoa.dnshtcb.pp.ua.
-cfcn-a-freegoa.dnshtcb.pp.ua	canonical name = cfcn-a-freegoa26.sectigo.pp.ua.
-Name:	cfcn-a-freegoa26.sectigo.pp.ua
-Address: 141.101.120.32
+Name:	kan234.com
+Address: 172.67.208.119
+Name:	kan234.com
+Address: 104.21.23.30
+Name:	kan234.com
+Address: 2606:4700:3033::6815:171e
+Name:	kan234.com
+Address: 2606:4700:3033::ac43:d077
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-cf-lt.sharecentre.online	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.19.183
+Name:	ips.993888.xyz
+Address: 104.17.136.61
+Name:	ips.993888.xyz
+Address: 104.17.77.247
 
