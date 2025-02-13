@@ -28791,3 +28791,25 @@ Performing DNS lookup for www.99wx.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3d4d742] Update project files
+ 4 files changed, 59 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (63%)
+To github.com:amo0114/cfipv6.git
+   190b777..3d4d742  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.75.134...
+Fetching domains for 104.16.245.137...
+Fetching domains for 188.114.97.225...
+succeed to fetch domains for 104.17.75.134 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.245.137 from https://site.ip138.com/
+succeed to fetch domains for 188.114.97.225 from https://ipchaxun.com/
+域名列表为
+['www.zyhcz.com', 'v215.cc', 'a393.cc', '321126.com', 'ke163.cc', 'ke191.cc', '1165vip.com', 'www.xwbhk.com', 'www.yncareer.com', 'www.ub888.cc', 'bt.btcat2.xyz', 'g433.cc', 'www.99wx.cc', 'bestcf.onecf.eu.org', '3jrb2u1sf7.scr9893jrb2u1sf7jipu.top', 'www.tv9090.com', 'lao317.com', 'cfip.xxxxxxxx.tk', 'www.zzztch.com', 'g437.cc', 'w372.cc', 'b312.cc', '1080kk.com', 'www.dmbj.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for v215.cc...
+Performing DNS lookup for ke191.cc...
+Performing DNS lookup for www.zyhcz.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

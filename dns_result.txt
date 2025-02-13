@@ -2,23 +2,53 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	v215.cc
-Address: 169.150.247.36
-Name:	v215.cc
-Address: 2400:52e0:1a01::954:1
+www.ququxiaoshuo.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	ke191.cc
-Address: 169.150.236.104
-Name:	ke191.cc
-Address: 2607:fdc0:1:2d:f6ee:8ff:fe3e:a1cc
+www.bsnsports.com	canonical name = www.bsnsports.com.cdn.cloudflare.net.
+www.bsnsports.com.cdn.cloudflare.net	canonical name = cname.vercel-dns.com.
+Name:	cname.vercel-dns.com
+Address: 66.33.60.130
+Name:	cname.vercel-dns.com
+Address: 66.33.60.67
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find www.zyhcz.com: No answer
+static.bsnsports.com	canonical name = static.bsnsports.com.cdn.cloudflare.net.
+static.bsnsports.com.cdn.cloudflare.net	canonical name = d2pklw8ch3bw8r.cloudfront.net.
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 18.164.154.32
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 18.164.154.88
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 18.164.154.126
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 18.164.154.128
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 2600:9000:200f:2a00:c:453f:bec0:93a1
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 2600:9000:200f:9200:c:453f:bec0:93a1
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 2600:9000:200f:4000:c:453f:bec0:93a1
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 2600:9000:200f:9a00:c:453f:bec0:93a1
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 2600:9000:200f:7c00:c:453f:bec0:93a1
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 2600:9000:200f:9800:c:453f:bec0:93a1
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 2600:9000:200f:ca00:c:453f:bec0:93a1
+Name:	d2pklw8ch3bw8r.cloudfront.net
+Address: 2600:9000:200f:da00:c:453f:bec0:93a1
 
