@@ -28680,3 +28680,24 @@ Performing DNS lookup for www.cocanwelding.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5f17828] Update project files
+ 4 files changed, 48 insertions(+), 13 deletions(-)
+To github.com:amo0114/cfipv6.git
+   df8bbae..5f17828  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.0.135...
+Fetching domains for 104.18.66.240...
+Fetching domains for 104.18.9.27...
+succeed to fetch domains for 104.18.0.135 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.9.27 from https://site.ip138.com/
+succeed to fetch domains for 104.18.66.240 from https://dnsdblookup.com/
+域名列表为
+['4hua55.com', 'static.08online.com', 'cahqwd.com', 'gckvip2.rccsrj.com', 'www.ladysh.com', 'gavbus516.com', 'www.gavbus516.com', 'www.x4p88.com', 'www.zlcq520.com', 'www.fuhui-chn.com', 's1.se47se99.net', 'my.insead.edu', 'bbb995.com', 'binomo-webtrade.com', 'blogs.insead.edu', 'www.xinyi176.com', '4hut77.com', 'intheknow.insead.edu', 'annual-report.insead.edu', 'www.bbb995.com', 'www.pk299.com', 'store-sand-ap-live.mobage.tw', 'forceforgood.insead.edu', 'www.insead.edu', 'www.kbss888.com', 'jpvsavhyu.76898102.xyz', 'www.summerpockets.com', 'x4p88.com', 'seisytw-cdn.mobage.tw', 'www.cx888my.com', 'www.msgao.com', 'www.tpyyc.com', 'www.dmk18.com', '5345ke.com', 'knowledge.insead.edu', 'www.ce352.com', 'www.4hua55.com', 'www.cranetrader.com', 'www.4hut77.com', 'www.5345ke.com', 'www.ddwhm.com', 'www.iios.me', 'bt.btdad.pro', 'www.yh9pk.com', 'btdad.best', 'ce352.com', 'clubs.insead.edu', 'pa.mobage.tw', 'beta-publishing.insead.edu', 'www.17173sf.com', 'acjp.cloudflarest.link', 'rtcollector.goeuro.com', 'www.yunbtv.com', 'www.dzy66666.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for acjp.cloudflarest.link...
+Performing DNS lookup for bbb995.com...
+Performing DNS lookup for www.ladysh.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
