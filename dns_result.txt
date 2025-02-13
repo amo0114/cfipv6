@@ -1,19 +1,28 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find spca.114514782.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	acjp.cloudflarest.link
+Address: 185.53.178.50
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.penglecheng.com
-Address: 134.122.184.247
+Name:	bbb995.com
+Address: 194.53.53.254
+Name:	bbb995.com
+Address: 194.53.53.2
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+www.ladysh.com	canonical name = lun.manmantongji.com.
+Name:	lun.manmantongji.com
+Address: 104.17.67.165
+Name:	lun.manmantongji.com
+Address: 104.18.185.249
+Name:	lun.manmantongji.com
+Address: 104.17.128.37
 
