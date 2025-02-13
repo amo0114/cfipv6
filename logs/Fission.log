@@ -28701,3 +28701,24 @@ Performing DNS lookup for www.ladysh.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7eaa2ab] Update project files
+ 4 files changed, 43 insertions(+), 25 deletions(-)
+To github.com:amo0114/cfipv6.git
+   5f17828..7eaa2ab  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.221.91...
+Fetching domains for 104.17.230.196...
+Fetching domains for 104.17.227.0...
+succeed to fetch domains for 104.17.230.196 from https://site.ip138.com/
+succeed to fetch domains for 104.17.221.91 from https://site.ip138.com/
+succeed to fetch domains for 104.17.227.0 from https://dnsdblookup.com/
+域名列表为
+['www.cfhuagong.com', 'www.lyzdzy.com', 'www.xinjuc.com', 'www.75uw.com', 'kan234.com', 'www.sergent-major.com', '104-17-227-0.ip.flares.cloud', 'didiyunhu.com', 'www.uu93.com', 'm.niuerzs.com', 'www.yjys05.com', 'www.ynradiology.net', 'txtvw.com', 'www.etiaolong.com', 'www.gaoqingw.com', 'cfip.xxxxxxxx.tk', '98kyun.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yjys05.com...
+Performing DNS lookup for m.niuerzs.com...
+Performing DNS lookup for www.gaoqingw.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
