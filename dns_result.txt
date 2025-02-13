@@ -1,45 +1,54 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.652tv.com	canonical name = 652.cloudflare.182682.xyz.
-Name:	652.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	652.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	652.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	652.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	652.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	652.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	652.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
+** server can't find 11.namesilo123.top: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
+Name:	www.bb44gg.com
+Address: 104.21.64.1
+Name:	www.bb44gg.com
+Address: 104.21.48.1
+Name:	www.bb44gg.com
+Address: 104.21.80.1
+Name:	www.bb44gg.com
+Address: 104.21.16.1
+Name:	www.bb44gg.com
+Address: 104.21.32.1
+Name:	www.bb44gg.com
+Address: 104.21.112.1
+Name:	www.bb44gg.com
+Address: 104.21.96.1
+Name:	www.bb44gg.com
+Address: 2606:4700:3030::6815:1001
+Name:	www.bb44gg.com
+Address: 2606:4700:3030::6815:7001
+Name:	www.bb44gg.com
+Address: 2606:4700:3030::6815:2001
+Name:	www.bb44gg.com
+Address: 2606:4700:3030::6815:5001
+Name:	www.bb44gg.com
+Address: 2606:4700:3030::6815:6001
+Name:	www.bb44gg.com
+Address: 2606:4700:3030::6815:4001
+Name:	www.bb44gg.com
+Address: 2606:4700:3030::6815:3001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.gumanxs.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.137.82
-Name:	ips.993888.xyz
-Address: 104.18.67.89
-Name:	ips.993888.xyz
-Address: 104.19.186.137
+j.people.com.cn	canonical name = j.people.com.cn.akadns99.net.
+j.people.com.cn.akadns99.net	canonical name = j.people.com.cn.edgesuite.net.
+j.people.com.cn.edgesuite.net	canonical name = a883.dscb.akamai.net.
+Name:	a883.dscb.akamai.net
+Address: 23.219.172.48
+Name:	a883.dscb.akamai.net
+Address: 23.2.16.187
+Name:	a883.dscb.akamai.net
+Address: 2600:140e:6::17db:ac30
+Name:	a883.dscb.akamai.net
+Address: 2600:140e:6::1702:10bb
 
