@@ -2,31 +2,23 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tichain.cc
-Address: 199.59.243.228
+Name:	v215.cc
+Address: 169.150.247.36
+Name:	v215.cc
+Address: 2400:52e0:1a01::954:1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	kan234.com
-Address: 172.67.208.119
-Name:	kan234.com
-Address: 104.21.23.30
-Name:	kan234.com
-Address: 2606:4700:3033::6815:171e
-Name:	kan234.com
-Address: 2606:4700:3033::ac43:d077
+Name:	ke191.cc
+Address: 169.150.236.104
+Name:	ke191.cc
+Address: 2607:fdc0:1:2d:f6ee:8ff:fe3e:a1cc
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.19.183
-Name:	ips.993888.xyz
-Address: 104.17.136.61
-Name:	ips.993888.xyz
-Address: 104.17.77.247
+*** Can't find www.zyhcz.com: No answer
 
