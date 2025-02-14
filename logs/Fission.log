@@ -28899,3 +28899,25 @@ Performing DNS lookup for www.maigo.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f2af55c] Update project files
+ 4 files changed, 75 insertions(+), 66 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   f7f73bb..f2af55c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.28.159...
+Fetching domains for 104.22.17.60...
+Fetching domains for 190.93.246.2...
+succeed to fetch domains for 190.93.246.2 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.28.159 from https://site.ip138.com/
+succeed to fetch domains for 104.22.17.60 from https://ipchaxun.com/
+域名列表为
+['www.yy4080dy.com', 'm.mw171.com', 'www.606977.com', '718dyw.com', 'm.tvccc.org', 'c333.net', 'm.niuerzs.com', 'www.xinpian8.com', 'yundunwawablogcdn1dx.wawacm.com', 'jp.921219.xyz', 'cdn2.shaniugpt.top', 'www.4gdiy.com', 'www.zhiqihuo.com', 'ipdb.rr.nu', 'www.dy1255.com', 'www.5522tl.com', 'www.50zw.co', 'www.993my.com', 'www.c333.net', 'www.d8kj.com', 'ayuer.com', 'suboji.com', 'www.6i5.com', 'www.fnyy.net', 'www.paizipai.top', 'cf.acg.ltd', 'www.4pcc.com', 'm.17173sf.com', 'www.kanju8.com', 'www.7sc.cc', 'www.ydxs.cc', 'cfip.xxxxxxxx.tk', 'www.0550cq.com', 'm.0550cq.com', 'www.65bao2.com', 'www.207my.com', 'www.tv9090.com', 'www.4j4j.cn', 'www.4148.net', 'www.k77yy.com', 'www.678pao.com', 'www.hhyy028.com', 'uu93.com', 'www.6988tv.com', 'www.28dushu.com', 'www.90dushu.com', 'www.cfhuagong.com', 'www.uu93.com', '606977.com', 'www.11txt.com', 'www.kbss888.com', 'bk.jdkg.fun', 'www.ayuer.com', 'www.iios.club', 'ganpian.com', 'vcd.la', 'www.whpaiger.com', 'www.dzy66666.com', 'www.5dyme.com', 'www.17173sf.com', 'www.sf52l.com', 'www.tinghen.com', 'www.wyxs.cc', 'www.tlbb888.com', 'zlcq520.com', 'www.cx888my.com', 'www.wei333.com', 'xs.wxtv.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wei333.com...
+Performing DNS lookup for suboji.com...
+Performing DNS lookup for jp.921219.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

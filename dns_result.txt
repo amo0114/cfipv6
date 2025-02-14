@@ -2,38 +2,32 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.wei333.com
-Address: 75.2.115.196
+Name:	www.3789dd.com
+Address: 104.21.94.229
+Name:	www.3789dd.com
+Address: 172.67.140.224
+Name:	www.3789dd.com
+Address: 2606:4700:3034::6815:5ee5
+Name:	www.3789dd.com
+Address: 2606:4700:3034::ac43:8ce0
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	suboji.com
-Address: 192.155.84.236
-Name:	suboji.com
-Address: 66.175.216.36
-Name:	suboji.com
-Address: 23.239.3.104
-Name:	suboji.com
-Address: 74.207.241.245
-Name:	suboji.com
-Address: 2a01:7e01::f03c:95ff:fe00:2692
-Name:	suboji.com
-Address: 2a01:7e01::f03c:95ff:feeb:9d4b
-Name:	suboji.com
-Address: 2a01:7e01::f03c:95ff:feed:783e
-Name:	suboji.com
-Address: 2a01:7e01::f03c:95ff:fe91:5d91
+Name:	www.avatrade.pl
+Address: 104.18.20.172
+Name:	www.avatrade.pl
+Address: 104.18.21.172
+Name:	www.avatrade.pl
+Address: 2606:4700::6812:15ac
+Name:	www.avatrade.pl
+Address: 2606:4700::6812:14ac
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	jp.921219.xyz
-Address: 162.159.254.17
-Name:	jp.921219.xyz
-Address: 172.64.81.3
-Name:	jp.921219.xyz
-Address: 162.159.241.186
+Name:	234bai.com
+Address: 172.247.1.186
 
