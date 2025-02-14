@@ -28987,3 +28987,24 @@ Performing DNS lookup for eb525.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6cb5545] Update project files
+ 4 files changed, 59 insertions(+), 11 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7588125..6cb5545  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 141.101.115.245...
+Fetching domains for 172.67.71.225...
+Fetching domains for 104.16.245.40...
+succeed to fetch domains for 104.16.245.40 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.71.225 from https://ipchaxun.com/
+succeed to fetch domains for 141.101.115.245 from https://ipchaxun.com/
+域名列表为
+['www.7lq.com', '66se0.com', 'www.fxtradelink.com', 'download.gmspack.net', 'uu93.com', '66se13.com', 'www.888dyy.cc', 'www.kxgdyw.com', 'www.woaiqi.com', 'hvg1jfxup43lan2zbyok.sdfmnbvcoxz.top', 'static.8bv.fit', 'jx.nanfnet.com', 'www.paizipai.top', '8.99814.com', 'm.bbiquge.cc', 'ios.jinniuddos.com', 'qr99.cc', 'www.99qhmy.com', 'www.kk554.com', '28et.com', 'www.4gdiy.com', 'gmspack.net', 'www.hkshuibao.com', 'docs.kicad.org', 'www.ikantv.net', 'www.kuaikan66.com', 'www.hcamag.com', 'www.yhddsb.com', 'www.xinpian8.com', 'www.uu93.com', 'm.qianlimaerp.com', 'www.tlbb888.com', 'jp57.cc', 'www.52110my.com', 'www.yx521.net', 'www.holdoo.cn', 'www.lnudz.com', 'zmkan.top', 'www.stopfake.org', 'www.50zw.com', 'for.tube', '1.ao3-cn.top', 'www.2002my.com', 'cdn.nanfnet.com', 'kk.nimabi.biz', 'pay.mpayin.com', 'killnet.top', 'www.huanyaad.com', 'kicad.org', 'www.manhuadb.com', 'lightningproxies.net', 'www.gmspack.net', 'www.zaaae.com', 'www.c333.net', 'xinyi176.com', 'www.lyzdzy.com', 'www.bfb3.com', 'wz.weishao2023.uk.eu.org', 'www.kbss888.com', 'hk.leyz.top', 'www.99814.com', 'www.fengyunhundun.com', 'www.anluyg.net', 'ikools.com', 'www.hjtcare.com', 'repository.kicad.org', 'user.fxtradelink.com', 'ganpian.com', 'www.lewen5.com', '66se5.com', 'www.28et.com', 'www.0550cq.com', 'ao3-cn.top', 'kk554.com', 'www.bdx100.com', 'm.xinpian8.com', 'www.dy420.com', 'm.0550cq.com', 'merchant.mpayin.com', '99814.com', 'www.xiyun28881.com', 'shop.chinamist.com', 'www.m90s.com', 'casino-portugal.com.pt', 'c2n.one', 'subodi.com', 'm90s.com', 'www.66se6.com', 'cf-lt.sharecentre.online', 'www.bast-i-test.se', 'www.66sex.net', 'www.116mh.com', 'swoshsvpn.com', 'www.xjiujiu99.com', 'www.8877fz.com', '17ttx.com', 'www.645513545.com', 'cf1.492745.xyz', 'antenaplay.ro', 'pddpdd.cn', 'www.jshl1000.com', 'drmenv-auth.gmspack.net', '630book.com', 'agen.645513545.com', 'btdad13.xyz', 'panel3.touhou.tel', 'www.kanju8.com', 'ios.jinniumdm168.com', 'www.tv9090.com', '66se8.com', 'stopfake.org', 'xiaobai.live', 'www.50zw.co', 'www.3wkan.com', 'www.tinghen.com', 'www.kelongwo.com', 'yyxycn.com', '0797dq.com', 'www.50zw.org', 'xs.wxtv.cc', 'www.991kan.com', 'suboji.com', 'www.ornikar.com', 'www.6988tv.com', 'www.182qw.com', '24cashtoday.com', 'www.taopianwu.com', 'manhuadb.com', 'www.jhhtech.com', 'www.6i5.com', 'www.66se.tv', 'www.venot-paris.fr', 'm.niuerzs.com', 'xfltd.net', 'sgv7.com', 'www.tw321.com', '365dvd.cc', 'www.223ss.com', 'www.niuerzs.com', 'www.717zfsf.com', 'www.zxc999.cn', 'www.zywl1678.com', 'www.guojihuaijiu.com', 'www.6xr.com', 'javhd.boo', '0550cq.com', 'www.whwanet.com', 'kz22.cc', 'www.tvccc.org', 'www.74ms.com', 'www.cdnvik.com', 'www.zzztch.com', 'www.11txt.com', 'www.whpaiger.com', '66se11.com', 'www.fnyyw.net', 'nanfnet.com', 'www.978c.com', 'www.cocanwelding.com', 'www.630book.com', 'www.66se7.com', 'vip.ssss00.me', 'www.nanfnet.com', 'www.lrjyllh.com', 'www.4148.net', 'hanfangxiang.com', 'www.naturallycurly.com', 'www.zgjmw.net', 'kunzedu.com', '777score.ru', 'www.qdlzmgjx.com', 'www.555558f.com', 'www.ikools.com', 'www.cfhuagong.com', 'penglecheng.com', '8877fz.com', 'bdx100.com', 'www.66se8.com', '9uk6.com', '50zw.com', 'www.881dy.com', 'fxtradelink.com', 'vcd.la', 'www.kicad.org', 'www.66se.icu', 'shukucn.com', 'www.66se14.com', '66se.tv', 'www.ydxs.cc', 'balabooste.com', 'www.balabooste.com', 'www.hnhcbw.com', 'www.caec-usa.com', 'qsyjc.com', 'www.828tl.com', 'www.66se11.com', 'stock.hostmonit.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for vcd.la...
+Performing DNS lookup for www.4148.net...
+Performing DNS lookup for www.venot-paris.fr...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
