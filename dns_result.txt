@@ -2,53 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ququxiaoshuo.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
+Name:	ouboda.com
+Address: 38.6.187.59
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.bsnsports.com	canonical name = www.bsnsports.com.cdn.cloudflare.net.
-www.bsnsports.com.cdn.cloudflare.net	canonical name = cname.vercel-dns.com.
-Name:	cname.vercel-dns.com
-Address: 66.33.60.130
-Name:	cname.vercel-dns.com
-Address: 66.33.60.67
+Name:	72ks.com
+Address: 38.6.189.152
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-static.bsnsports.com	canonical name = static.bsnsports.com.cdn.cloudflare.net.
-static.bsnsports.com.cdn.cloudflare.net	canonical name = d2pklw8ch3bw8r.cloudfront.net.
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 18.164.154.32
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 18.164.154.88
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 18.164.154.126
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 18.164.154.128
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 2600:9000:200f:2a00:c:453f:bec0:93a1
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 2600:9000:200f:9200:c:453f:bec0:93a1
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 2600:9000:200f:4000:c:453f:bec0:93a1
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 2600:9000:200f:9a00:c:453f:bec0:93a1
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 2600:9000:200f:7c00:c:453f:bec0:93a1
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 2600:9000:200f:9800:c:453f:bec0:93a1
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 2600:9000:200f:ca00:c:453f:bec0:93a1
-Name:	d2pklw8ch3bw8r.cloudfront.net
-Address: 2600:9000:200f:da00:c:453f:bec0:93a1
+Name:	yx.887141.xyz
+Address: 104.21.6.66
+Name:	yx.887141.xyz
+Address: 172.67.134.145
+Name:	yx.887141.xyz
+Address: 2606:4700:3030::ac43:8691
+Name:	yx.887141.xyz
+Address: 2606:4700:3036::6815:642
 
