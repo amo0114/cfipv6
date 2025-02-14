@@ -2,32 +2,52 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.3789dd.com
-Address: 104.21.94.229
-Name:	www.3789dd.com
-Address: 172.67.140.224
-Name:	www.3789dd.com
-Address: 2606:4700:3034::6815:5ee5
-Name:	www.3789dd.com
-Address: 2606:4700:3034::ac43:8ce0
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	www.avatrade.pl
-Address: 104.18.20.172
-Name:	www.avatrade.pl
+www.zhenfanjixie.com	canonical name = fallback.a7ddef5e.wiki.
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.66.137
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.64.189
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.5.119
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.28.54
+Name:	fallback.a7ddef5e.wiki
 Address: 104.18.21.172
-Name:	www.avatrade.pl
-Address: 2606:4700::6812:15ac
-Name:	www.avatrade.pl
-Address: 2606:4700::6812:14ac
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.190.121
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.19.165
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.18.142
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.11.67
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.29.18
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.236.166
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.21.118
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.178.29
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.75.233
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.74.133
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	234bai.com
-Address: 172.247.1.186
+www.m6y6.com	canonical name = domainexpired.domain-expired.com.
+Name:	domainexpired.domain-expired.com
+Address: 101.33.46.108
+Name:	domainexpired.domain-expired.com
+Address: 43.153.249.96
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	6456kk.com
+Address: 162.209.175.126
 

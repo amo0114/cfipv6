@@ -28921,3 +28921,25 @@ Performing DNS lookup for jp.921219.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8727f8b] Update project files
+ 4 files changed, 65 insertions(+), 53 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   f2af55c..8727f8b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.29.18...
+Fetching domains for 104.17.21.118...
+Fetching domains for 104.18.21.172...
+succeed to fetch domains for 104.17.21.118 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.21.172 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.29.18 from https://ipchaxun.com/
+域名列表为
+['www.cfhuagong.com', 'm.jn-innov.com', 'kan234.com', 'auto-doc.it', '789ys.com', 'www.99wxw.cc', 'www.1a1v.com', 'blog.emma.fr', 'www.auto-doc.it', '3234na.com', 'www.rowenta.si', 'trade.dydx.exchange', 'blackfriday.com', 'lv777.com', '3789dd.com', 'www.whpaiger.com', 'zxk555.com', 'www.lyzdzy.com', '13.namesilo123.top', '789kp.com', 'nic234.com', 'www.555pian.com', 'zzztch.com', 'f7d29.com', 'owl777.com', 'www.planmeca.com', 'www.zhenfanjixie.com', 'x1n99.com', 'cfip.xxxxxxxx.tk', 'www.adn98.com', 'www.islandtoyota.com', '6567nv.com', 'www.yingshixiaoshuo.com', 'adn98.com', 'www.avatrade.pl', 'www.pu910.com', 'www.yy4080dy.com', 'www.xczq1.top', 'www.52ys.cc', 'www.iios.club', 'www.f7d29.com', 'www.dydx.exchange', 'yxgx.com.cn', 'api.dydx.exchange', '555pian.com', 'www.nic234.com', 'www.x1n99.com', 'www.93xscc.com', 'dsxys.com', 'www.anna999.com', 'www.cykz.net', 'www.nyafun.net', 'www.blackfriday.com', 'www.6567nv.com', 'd382r.com', 'www.doupobook.cc', 'www.d382r.com', 'uruguay.embajada.gov.co', 'www.btbdys.com', 'texrope.com', 'www.lv777.com', 'hu.xsee.xyz', 'www.3789dd.com', '234bai.com', 'www.zongcaixs.cc', 'www.longwangchuanshuo.com', 'www.carbonesubaruoftroy.com', 'www.zxk555.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.3789dd.com...
+Performing DNS lookup for www.avatrade.pl...
+Performing DNS lookup for 234bai.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
