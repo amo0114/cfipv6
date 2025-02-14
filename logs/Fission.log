@@ -28834,3 +28834,25 @@ Performing DNS lookup for static.bsnsports.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 09cbcb4] Update project files
+ 4 files changed, 58 insertions(+), 69 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   cb29b1c..09cbcb4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.26.1.149...
+Fetching domains for 104.17.4.101...
+Fetching domains for 172.67.174.195...
+succeed to fetch domains for 104.17.4.101 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.174.195 from https://ipchaxun.com/
+succeed to fetch domains for 104.26.1.149 from https://dnsdblookup.com/
+域名列表为
+['www.qchkj.com', 'www.flspdh.com', 'www.96dushu.com', '52dyy.net', 'www.17kty.com', 'www.266958.com', 'xenocs.com', 'fhafpyiojl.cc', 'blogdelfotografo.com', 'www.nitianxieshen.com', 'www.koemie.com', 'zcity.io', 'www.55bjg.com', 'cmdy.net', '97dy.tv', '91bo.cn', 'dqhedu.cn', 'gybuy.cn', 'www.789yy.net', '72ks.com', 'netti-tv.fi', 'wnwn6.com', 'www.hosemicon.com', 'www.lyzdzy.com', 'kryptonsolutions.su', 'www.ddwhm.com', 'www.imeiju.net', 'www.shecnudec.com', '999696.xyz', 'www.dafuhao.com', 'www.szjysmy.com', 'www.b7yy.cc', 'cf.zmdhc.com', 'www.97dy.tv', 'www.lyys8.com', 'todesk-zh.com', 'www.lnzhongwo.com', 'www.qumiyun.com', 'download2.eassos.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'bestmarketing.ee', 'rrr5000.com', 'www.iios.club', 'ahbeard.com', 'ukcc.digicert.pp.ua', 'www.hkbn.xyz', 'www.yava.pw', 'hub.cepr.org', 'www.91gaoding.com', 'www.coca-colafemsa.com', 'nlsdwsz.66666654.xyz', 'whpzj.com', 'www.kkkab.com', 'yx.887141.xyz', 'm.niuerzs.com', 'www.ai2moe.org', 'www.71qs.com', 'www.tinghen.com', '97dyy.net', 'www.dgytlt.com', 'conchem.com.au', 'm.gnwgsv.top', 'xiaotangyuanmeishiji.com', 'www.hxsy888.com', 'tldyy.net', 'wyp8.com', 'www.ea96.com', 'm.jingshuai888.com', 'www.dmbj.cc', 'www.anluyg.net', 'hr.wholecelium.com', 'cf1.492745.xyz', 'hkaa.geotrust.pp.ua', '7.namesilo123.top', 'www.jsdrtzn.com', 'www.heinu.cc', 'm.xaxyycjy.com', 'mbdyw.com', 'www.wx-ktwx.com', 'pedl.cepr.org', 'pdzmre77473.sanfen001.top', 'www.zhongyunyang.com', 'www.80142.com', 'www.hengnan520.com', 'www.dqhedu.cn', 'www.xworldadmin.com', '76txt.com', 'www.k77yy.com', 'www.zrmyy.com', 'www.cmdy.net', 'worldssr.com', 'freak.no', '33mpp.com', 'www.76txt.com', 'www.drscholls.com', 'www.28dushu.com', 'www.fileinfo.com', 'ouboda.com', 'decc.66666654.xyz', 'topsport.mk', '91kdy.cc', 'x000.cc', '789yy.net', 'www.auxla.com', 'www.2955kk.com', 'ruoerxi.com', 'www.wanmeikankan.net', 'sanking.net', 'www.ihsdy.com', 'shzhenhuankj.com', '71qs.com', 'wap.gnwgsv.top', 'www.tvccc.org', 'yundunwawablogcdn1yd.wawacm.com', 'www.xwbhk.com', 'zzklyy.com', 'www.yx521.net', 'gnwgsv.top', 'utopia.org', 'www.changan-marathon.com', 'www.rrdytt.com', 'lightningxvpn.com', 'www.shsxjzzs.com', 'www.tldyy.net', 'drltd.cn', 'man.luwangyangrong.com', 'www.ahbeard.com', 'hk4a.pgfmax.com', 'www.97dyy.net', 'drscholls.com', 'facerig.com', '91gaoding.com', 'www.xenocs.com', 'm.czlbfrp.com', 'baxtc.66666654.xyz', 'www.xm818.com', 'jpdd.entrust.pp.ua', 'coca-colafemsa.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ouboda.com...
+Performing DNS lookup for 72ks.com...
+Performing DNS lookup for yx.887141.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
