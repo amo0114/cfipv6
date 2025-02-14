@@ -2,26 +2,50 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	4dhjr9.f63bb5.lol
-Address: 104.21.88.31
-Name:	4dhjr9.f63bb5.lol
-Address: 172.67.150.76
-Name:	4dhjr9.f63bb5.lol
-Address: 2606:4700:3036::6815:581f
-Name:	4dhjr9.f63bb5.lol
-Address: 2606:4700:3033::ac43:964c
+Name:	sywkmc.com
+Address: 104.21.64.1
+Name:	sywkmc.com
+Address: 104.21.16.1
+Name:	sywkmc.com
+Address: 104.21.112.1
+Name:	sywkmc.com
+Address: 104.21.80.1
+Name:	sywkmc.com
+Address: 104.21.96.1
+Name:	sywkmc.com
+Address: 104.21.32.1
+Name:	sywkmc.com
+Address: 104.21.48.1
+Name:	sywkmc.com
+Address: 2606:4700:3030::6815:7001
+Name:	sywkmc.com
+Address: 2606:4700:3030::6815:1001
+Name:	sywkmc.com
+Address: 2606:4700:3030::6815:4001
+Name:	sywkmc.com
+Address: 2606:4700:3030::6815:3001
+Name:	sywkmc.com
+Address: 2606:4700:3030::6815:6001
+Name:	sywkmc.com
+Address: 2606:4700:3030::6815:2001
+Name:	sywkmc.com
+Address: 2606:4700:3030::6815:5001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	919949.com
-Address: 3.33.130.190
-Name:	919949.com
-Address: 15.197.148.33
+www.brixton.com	canonical name = shops.myshopify.com.
+Name:	shops.myshopify.com
+Address: 23.227.38.74
+Name:	shops.myshopify.com
+Address: 2620:127:f00f:e::
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.k2999.com: NXDOMAIN
+Non-authoritative answer:
+www.maigo.cc	canonical name = jw0.suki.cc.
+Name:	jw0.suki.cc
+Address: 103.119.2.109
 

@@ -28856,3 +28856,24 @@ Performing DNS lookup for yx.887141.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bf34fc2] Update project files
+ 4 files changed, 44 insertions(+), 23 deletions(-)
+To github.com:amo0114/cfipv6.git
+   09cbcb4..bf34fc2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.25.17...
+Fetching domains for 104.17.226.140...
+Fetching domains for 172.67.150.76...
+succeed to fetch domains for 104.17.25.17 from https://site.ip138.com/
+succeed to fetch domains for 104.17.226.140 from https://dnsdblookup.com/
+succeed to fetch domains for 172.67.150.76 from https://site.ip138.com/
+域名列表为
+['www.gzgafk.com', 'macvbb.555556789.xyz', 'www.jsdrtzn.com', 'www.xxpg888.com', 'www.dafuhao.com', '999696.xyz', 'www.bjfqmj.com', 'www.qutxd.cc', 'www.cxk8.com', 'www.qhupp.cn', 'fty.888484.xyz', 'www.dreammsg.com', 'www.cocanwelding.com', 'www.266958.com', 'js-ztech.com', 'yun777.net', 'www.miruavfb39.com', 'www.yan176.com', 'www.cdjyhm.com', 'www.whpaiger.com', 'g999.buzz', 'www.goyg548f.fun', 'www.hxsy888.com', 'www.kungal.com', '96nan.cn', 'm.jingshuai888.com', 'm.shuzw.com', 'www.pk299.com', 'h.yma-odegaas-0njg-3573.shop', 'www.k2999.com', 'www.fkqnrio.cn', 'www.sskk788.com', 'w1.zxynq.com', 'www.qqvod.com', 'renqiu.4g.socytqv.cn', 'www.6i5.com', 'www.hkbn.xyz', 'freeyx.cloudflare88.eu.org', 'www.zwccw.com', 'www.v2raz.vip', 'southwardsid.com', 'ukcc.digicert.pp.ua', 'www.28dushu.com', '919949.com', 'www.kanju8.com', 'www.85xscc.com', 'www.hhyy028.com', 'www.x52bq.com', 'www.m6y6.com', 'zi0.cc', 'www.tinghen.com', 'www.xingbiandalvshi.com', 'miruavfb39.com', 'www.miliaonue.top', 'k2999.com', 'www.50zw.co', 'm.miliaonue.top', 'www.5522tl.com', 'aaaccc678.com', 'jhpcza.66666654.xyz', 'www.lvhuisb.com', 'www.yyy85.com', 'www.dgytlt.com', 'cfcdn.xujunping.gay', 'goyg548f.fun', 'www.zhongyunyang.com', '3g.miliaonue.top', 'www.qchkj.com', '889ll.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.niesk.cn', 'www.vodbd.com', 'www.yh9pk.com', 'www.889ll.com', 'www.17kty.com', 'www.djwave.com', 'nlsdwsz.66666654.xyz', 'theporn5.cc', 'www.paizipai.top', 'm.zhiqihuo.cc', 'www.qumiyun.com', 'www.ai2moe.org', 'www.czlbfrp.com', 'acnsfy.xyz', 'czwjsy.com', 'pxia.top', 'www.imeiju.net', 'maxx.555556789.xyz', 'www.ddwhm.com', 'speed.marisalnc.com', 'www.kbss888.com', 'www.tlbb888.com', 'jpaa.sectigo.pp.ua', 'www.tv9090.com', 'cgcc.digicert.pp.ua', 'www.11txt.com', 'www.0550cq.com', 'rj5555.com', '4dhjr9.f63bb5.lol', 'wap.miliaonue.top', 'www.gzcfmy.com', 'www.aaaccc678.com', 'www.cc.zxynq.com', 'www.jingshuai888.com', 'www.4148.net', 'baxtc.66666654.xyz', 'www.706i.com', 'www.lailai360.com', 'www.zxynq.com', 'miliaonue.top', 'spca.114514782.xyz', 'tcdn1.datuniu.com', 'sskk788.com', 'cf.zmdhc.com', 'yxy176.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 4dhjr9.f63bb5.lol...
+Performing DNS lookup for 919949.com...
+Performing DNS lookup for www.k2999.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
