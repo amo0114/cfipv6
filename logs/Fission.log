@@ -28943,3 +28943,25 @@ Performing DNS lookup for 234bai.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e341817] Update project files
+ 4 files changed, 95 insertions(+), 42 deletions(-)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   8727f8b..e341817  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.11.67...
+Fetching domains for 104.18.74.133...
+Fetching domains for 104.18.28.54...
+succeed to fetch domains for 104.18.11.67 from https://site.ip138.com/
+succeed to fetch domains for 104.18.74.133 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.28.54 from https://ipchaxun.com/
+域名列表为
+['www.e23c431efb1c1fab.com', 'frbb.geotrust.pp.ua', 'www.e678t.com', '20.namesilo123.top', 'www.xworldadmin.com', 'justfab.nl', '169xm.com', '6456kk.com', 'e678t.com', '555dyy15.com', '226xm.com', 'www.ddwhm.com', '1345ri.com', 'snjpn.net', 'xfltd.net', 'www.338v.net', 'www.6456kk.com', '338v.net', '4.868896.xyz', 'www.555yy4.com', 'www.iios.club', '3345zi.com', '166xm.com', '156ku.com', 'www.789kp.com', 'www.b7yy.cc', 'charlotte.allas.se', 'www.kmcx78.com', 'www.sportsbetting.ag', 'www.91m.cc', 'www.yh9pk.com', 'www.228xm.com', 'amoebi.com', '4hu33x.com', '228xm.com', 'www.xinjuc.com', 'e23c431efb1c1fab.com', 'kkyx.yydsii.com', 'm.zhiqihuo.cc', 'www.bamm.com', 'www.e1464f.com', 'cfip.201043.xyz', 'hsbk.cc', 'www.169xm.com', '555pian.com', 'www.2123bu.com', 'www.161xm.com', 'kmcx78.com', 'allas.se', 'www.4hu33x.com', 'www.226xm.com', '161xm.com', 'www.laowang.co', 'user.huohuopay.com', 'mobile.ithome.com', 'www.6345si.com', 'www.3345zi.com', 'www.555pian.com', 'www.1345ri.com', 'www.555yy1.com', 'www.m6y6.com', 'yx.887141.xyz', 'www.2567wo.com', 'www.zxk555.com', 'achk.cloudflarest.link', 'www.zhiqihuo.com', 'automatedlogic.com', 'nlsdwsz.66666654.xyz', 'www.166xm.com', '1.namesilo123.top', 'reference.ribo.brill.semcs.net', 'cfip.xxxxxxxx.tk', 'zxk555.com', 'promotions.sportsbetting.ag', 'www.5522tl.com', 'i.she.vc', 'www.zhenfanjixie.com', 'www.wizardingworld.com', 'www.156ku.com', 'www.255di.com', 'www.kbss888.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zhenfanjixie.com...
+Performing DNS lookup for www.m6y6.com...
+Performing DNS lookup for 6456kk.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
