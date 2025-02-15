@@ -29008,3 +29008,25 @@ Performing DNS lookup for www.venot-paris.fr...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 721c8f4] Update project files
+ 4 files changed, 51 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (79%)
+To github.com:amo0114/cfipv6.git
+   6cb5545..721c8f4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.128.149...
+Fetching domains for 141.101.115.223...
+Fetching domains for 104.17.29.234...
+succeed to fetch domains for 104.17.29.234 from https://site.ip138.com/
+succeed to fetch domains for 141.101.115.223 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.128.149 from https://site.ip138.com/
+域名列表为
+['nangua55.com', 'www.65bao2.com', 'cf-lt.sharecentre.online', 'm.7xvod.cc', 'blog.hostmonit.com', 'www.whpaiger.com', 'm.kuaikan66.com', 'iwzyw.com', '7xvod.cc', 'jpnewacs.114514782.xyz', 'www.yimi100.com', 'www.nmhydz.com', 'www.lenxi.net', 'www.cfhuagong.com', 'bdx100.com', 'www.qindi.net', 'www.hnxinlian.org', 'www.carria.cc', '606977.com', 'www.paizipai.top', 'liujuying.com', 'cf1.492745.xyz', 'www.iwzyw.com', 'www.sjzsckj.com', 'm.17800.net', 'www.lingyi44.com', 'www.dmbj.cc', 'www.niuerzs.com', 'yimi100.com', 'www.888dyy.cc', 'www.yxy176.com', 'www.yashnfgs.com', 'killnet.top', 'www.28et.com', 'www.11txt.com', 'www.penglecheng.com', 'www.zzztch.com', 'kukedy.tv', 'www.x52bq.com', 'www.yhddsb.com', 'kuaikan66.com', 'm.u9yy.com', 'www.7xvod.com', 'cfhuagong.com', 'www.75uw.com', 'www.55evd.com', 'www.k26.net', 'www.nangua55.com', 'nba01.com', 'www.mw171.com', 'www.0550cq.com', 'm.yimi100.com', 'm.niuerzs.com', 'www.akmeiju.cc', 'www.xwsxs.com', 'cfip.xxxxxxxx.tk', 'uu93.com', 'www.k77yy.com', 'www.lyzdzy.com', 'www.77zw.cc', 'www.j8dy.org', 'yd.xingsu.fun', 'www.bfb3.com', 'www.wei333.com', 'www.77ty.com', 'www.dzy66666.com', 'cfcdn1.sanfencdn9.com', 'www.fnyyw.net', 'www.diezhan4.com', 'www.50zw.co', 'www.tcmove.com', 'www.7z9a.com', 'letu9.com', 'www.tv9090.com', 'www.223ss.com', 'www.guojumi.com', 'kan51.com', 'm.letu9.com', 'www.steemedu.com', 'www.7xvod.cc', 'www.anluyg.net', 'www.lrjyllh.com', 'www.6988tv.com', 'www.00hdy.com', 'www.k77kk.cc', 'www.cbcv.cc', 'gggggyy.com', 'www.dy420.com', 'sdqlhgrl.com', 'www.520film.net', 'm.6i5.com', 'www.guojuren.net', 'bdyy1.xyz', 'www.kk554.com', 'www.75xs.cc', 'www.kbss888.com', 'www.cocanwelding.com', 'www.yncareer.com', 'www.99wxw.cc', 'www.kuaikan66.com', 'www.tinghen.com', 'www.ktwz.cc', 'www.ikantv.net', 'www.kunzedu.com', 'wap.sp6080.com', 'www.606977.com', 'tantan.yese5577.com', 'www.fnyy.net', '77ty.com', 'www.993my.com', 'www.92mili.com', '77dv.com', 'www.nba01.com', '7xvod.com', 'www.4148.net', 'www.liujuying.com', 'www.1a1v.com', 'www.6i5.com', 'www.kxgdyw.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for 77dv.com...
+Performing DNS lookup for www.lingyi44.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

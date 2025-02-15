@@ -2,20 +2,33 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+www.ub888.com	canonical name = bvod25.95mo.xyz.
+Name:	bvod25.95mo.xyz
+Address: 104.21.53.69
+Name:	bvod25.95mo.xyz
+Address: 172.67.209.173
+Name:	bvod25.95mo.xyz
+Address: 2606:4700:3034::6815:3545
+Name:	bvod25.95mo.xyz
+Address: 2606:4700:3035::ac43:d1ad
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	77dv.com
-Address: 182.16.86.82
+Name:	www.lyzdzy.com
+Address: 208.98.40.18
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.lingyi44.com
-Address: 208.98.40.204
+Name:	www.jjtyss.com
+Address: 172.67.141.246
+Name:	www.jjtyss.com
+Address: 104.21.57.51
+Name:	www.jjtyss.com
+Address: 2606:4700:3035::6815:3933
+Name:	www.jjtyss.com
+Address: 2606:4700:3034::ac43:8df6
 
