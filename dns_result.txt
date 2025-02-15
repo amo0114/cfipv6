@@ -2,70 +2,41 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.606977.com
-Address: 69.16.230.165
+www.xinpian8.com	canonical name = ccc.seogg.com.
+Name:	ccc.seogg.com
+Address: 104.21.22.14
+Name:	ccc.seogg.com
+Address: 172.67.201.211
+Name:	ccc.seogg.com
+Address: 2606:4700:3035::6815:160e
+Name:	ccc.seogg.com
+Address: 2606:4700:3033::ac43:c9d3
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	zxk555.com
-Address: 104.18.77.26
-Name:	zxk555.com
-Address: 104.18.7.141
-Name:	zxk555.com
-Address: 104.17.80.51
-Name:	zxk555.com
-Address: 104.19.188.252
-Name:	zxk555.com
-Address: 104.18.26.210
-Name:	zxk555.com
-Address: 104.17.18.80
-Name:	zxk555.com
-Address: 104.17.209.204
-Name:	zxk555.com
-Address: 104.17.232.233
-Name:	zxk555.com
-Address: 173.245.49.60
-Name:	zxk555.com
-Address: 104.22.0.213
-Name:	zxk555.com
-Address: 104.18.190.31
-Name:	zxk555.com
-Address: 104.17.207.103
-Name:	zxk555.com
-Address: 104.18.197.221
-Name:	zxk555.com
-Address: 104.22.27.58
-Name:	zxk555.com
-Address: 104.19.152.128
+www.k77kk.cc	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	726ys.com
-Address: 172.67.66.204
-Name:	726ys.com
-Address: 104.19.105.79
-Name:	726ys.com
-Address: 104.21.108.171
-Name:	726ys.com
-Address: 172.67.11.35
-Name:	726ys.com
-Address: 172.67.82.231
-Name:	726ys.com
-Address: 104.16.9.97
-Name:	726ys.com
-Address: 141.101.115.214
-Name:	726ys.com
-Address: 104.19.15.128
-Name:	726ys.com
-Address: 104.19.68.211
-Name:	726ys.com
-Address: 104.22.17.175
-Name:	726ys.com
-Address: 104.19.67.101
-Name:	726ys.com
-Address: 190.93.245.48
+www.7749tv.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
