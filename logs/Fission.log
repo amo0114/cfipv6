@@ -29051,3 +29051,25 @@ Performing DNS lookup for www.jjtyss.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b54907b] Update project files
+ 4 files changed, 105 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   2029b19..b54907b  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.15.231...
+Fetching domains for 104.16.228.140...
+Fetching domains for 104.17.23.174...
+succeed to fetch domains for 104.17.23.174 from https://site.ip138.com/
+succeed to fetch domains for 104.18.15.231 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.228.140 from https://dnsdblookup.com/
+域名列表为
+['jpadwinfs.114514782.xyz', 'didiyunhu.com', 'www.75uw.com', 'www.ayzjj.cn', 'www.99wxw.cc', 'www.wn01.cc', 'www.93xscc.com', 'www.musicnotes.com', 'www.iios.club', 'www.hmoeh.com', 'www.btapi.org', 'www.h456d.com', 'galzy.eu.org', 'www.xinjuc.com', 'www.555yy4.com', 'www.99wx.cc', 'z.xinpuzl.com', '866kp.com', 'www.cn46.com', 'panel3.touhou.tel', 'h456d.com', 'www.866kp.com', 'www.50zw.co', 'www.gumanxs.com', 'dasubjectmatter.org', 'mahindrafinance.com', 'www.zhenfanjixie.com', 'www.b1h11.com', 'zxk555.com', 'www.zxk555.com', 'media.oss-internal.novipnoad.net', '139md.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cn46.com...
+Performing DNS lookup for media.oss-internal.novipnoad.net...
+Performing DNS lookup for www.xinjuc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
