@@ -29095,3 +29095,25 @@ Performing DNS lookup for yx.887141.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f1efc2d] Update project files
+ 4 files changed, 71 insertions(+), 58 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   2815a91..f1efc2d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.246.192...
+Fetching domains for 104.17.250.155...
+Fetching domains for 104.17.230.204...
+succeed to fetch domains for 104.17.250.155 from https://site.ip138.com/
+succeed to fetch domains for 104.17.246.192 from https://site.ip138.com/
+succeed to fetch domains for 104.17.230.204 from https://site.ip138.com/
+域名列表为
+['www.wjxbj.com', 'wei333.com', 'www.summerpockets.com', 'xfltd.net', 'www.wn04.cc', 'js.hsleadflows.net', 'www.wei333.com', 'missav.mrst.one', 'm.niuerzs.com', 'www.xf985.com', 'www.iios.club', 'www.manhuadb.com', 'm.xf985.com', 'www.1a1v.com', 'www.iios.fun', 'xf985.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for js.hsleadflows.net...
+Performing DNS lookup for www.xf985.com...
+Performing DNS lookup for www.wei333.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
