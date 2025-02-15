@@ -29117,3 +29117,25 @@ Performing DNS lookup for www.wei333.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 83a0324] Update project files
+ 4 files changed, 116 insertions(+), 49 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   f1efc2d..83a0324  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.19.152.128...
+Fetching domains for 104.18.190.31...
+Fetching domains for 104.17.80.51...
+succeed to fetch domains for 104.17.80.51 from https://site.ip138.com/
+succeed to fetch domains for 104.19.152.128 from https://site.ip138.com/
+succeed to fetch domains for 104.18.190.31 from https://ipchaxun.com/
+域名列表为
+['m.tongque.net', 'wuwu1a2.com', 'www.whpaiger.com', 'www.75uw.com', 'www.5dy5.cc', '606977.com', 'www.zxk555.com', 'www.dzy66666.com', 'www.5522tl.com', 'dmys3.com', '923055.com', 'monsterbevcorp.com', 'www.cocanwelding.com', 'www.bpzhe.com', 'www.888dyy.cc', 'www.tockt.com', 'www.iios.club', 'mp4so.com', 'www.cx888my.com', 'www.zgwangzhan.com', 'www.679077.com', 'zgwangzhan.com', 'p5q8wua2.com', 'wuwuwik.life', 'www.kan234.com', 'www.789kp.com', 'www.cn2i1.top', 'www.606977.com', 'www.qqvod.com', 'www.douluodalu1.com', 'www.uu93.com', 'g433.cc', 'www.q2042.com', 'uu93.com', 'www.btbdys.com', 'www.tlbb888.com', 'www.dstv.com', 'zxk555.com', 'cfrp.kryp.us.kg', 'www.lyzdzy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for wuwuwik.life...
+Performing DNS lookup for www.dzy66666.com...
+Performing DNS lookup for www.zxk555.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
