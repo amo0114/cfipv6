@@ -2,22 +2,38 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	bostonreviewofbooks.substack.com
-Address: 172.64.150.56
-Name:	bostonreviewofbooks.substack.com
-Address: 104.18.37.200
-Name:	bostonreviewofbooks.substack.com
-Address: 2606:4700:4400::ac40:9638
-Name:	bostonreviewofbooks.substack.com
-Address: 2606:4700:4400::6812:25c8
+Name:	www.villa-bali.com
+Address: 172.66.40.77
+Name:	www.villa-bali.com
+Address: 172.66.43.179
+Name:	www.villa-bali.com
+Address: 2606:4700:3108::ac42:284d
+Name:	www.villa-bali.com
+Address: 2606:4700:3108::ac42:2bb3
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find no.biker24h.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.7kanwang.com
+Address: 104.21.40.145
+Name:	www.7kanwang.com
+Address: 172.67.153.10
+Name:	www.7kanwang.com
+Address: 2606:4700:3031::6815:2891
+Name:	www.7kanwang.com
+Address: 2606:4700:3035::ac43:990a
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find is.biker24h.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.love.com
+Address: 172.67.149.31
+Name:	www.love.com
+Address: 104.21.39.221
+Name:	www.love.com
+Address: 2606:4700:3034::6815:27dd
+Name:	www.love.com
+Address: 2606:4700:3034::ac43:951f
 
