@@ -29255,3 +29255,26 @@ Performing DNS lookup for www.qindi.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2618b7a] Update project files
+ 4 files changed, 62 insertions(+), 148 deletions(-)
+ rewrite Fission_ip_backup.txt (97%)
+ rewrite dns_result.txt (91%)
+To github.com:amo0114/cfipv6.git
+   9376876..2618b7a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.228.228...
+Fetching domains for 104.17.224.184...
+Fetching domains for 104.18.2.158...
+succeed to fetch domains for 104.17.224.184 from https://site.ip138.com/
+succeed to fetch domains for 104.18.2.158 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.228.228 from https://dnsdblookup.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'mo.camscanner.com', 'www.yncareer.com', 'static-cdn.camscanner.com', 'v3.camscanner.com', 'www.311wu.com', 'www.boyu300.com', 'api-web-pkg.camscanner.com', 'cf.335570.xyz', 'www.51tthxg.com', 'fldsubgigtujuy.76898102.xyz', 'constructiondive.com', 'www.699za.com', '5345en.com', 'www.553qu.com', '789ys.com', 'csbase-web-offline-pkg.camscanner.com', 'a345q.com', 'www.cao3j8z0.com', 'kstfluid.com', 'dy1990.com', 'www.oocllogistics.com', '699za.com', 'temp.camscanner.com', 'www.camscanner.com', 'vendorpodium.oocllogistics.com', 'www.btbdys.com', 'www.789kp.com', 'www.constructiondive.com', 'www.5345en.com', '311wu.com', 'www.whpaiger.com', 'cao3j8z0.com', 'www.grandeaglecasino.com', 'boyu300.com', 'www.796795.com', 'tikmate.online', 'v4.camscanner.com', 'd.camscanner.com', 'hkgsdz.66666654.xyz', 'kan234.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.camscanner.com...
+Performing DNS lookup for hkgsdz.66666654.xyz...
+Performing DNS lookup for 5345en.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
