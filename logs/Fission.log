@@ -29211,3 +29211,24 @@ Performing DNS lookup for www.xxcc.tv...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 77579d8] Update project files
+ 4 files changed, 50 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   be78c75..77579d8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.254.10...
+Fetching domains for 172.67.71.89...
+Fetching domains for 104.18.23.206...
+succeed to fetch domains for 104.16.254.10 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.23.206 from https://ipchaxun.com/
+succeed to fetch domains for 172.67.71.89 from https://ipchaxun.com/
+域名列表为
+['www.6988tv.com', 'www.tejiawan.com', 'www.30my.xyz', 'www.iios.me', 'www.50zw.co', 'www.yiqianhg.com', 'www.hxsy888.com', 'www.99qhmy.com', 'cloudflare.182682.xyz', 'www.ddwhm.com', 'cfip.xxxxxxxx.tk', 'civitai.com', 'www.lumz.be', 'www.ub888.cc', 'a456r.com', 'www.xxootl.com', 'bestcf.onecf.eu.org', 'pan.clun.top', 'www.7277tl.com', 'ritteddelibacyca.info', 'www.jdlikeinfo.com', 'api.civitai.com', 'agfundernews.com', 'www.jsdrtzn.com', 'www.4148.net', 'www.wogg.bf', 'www.huidverzorging-mireille.nl', 'www.58zztl.xyz', 'www.gaze.run', 'www.gcm-asia.com.cn', 'www.24xunlei.com', 'www.tv9090.com', 'd391b93f5f62d9c15f67142e43841acc.ipfscdn.io', 'www.182qw.com', 'www.11txt.com', 'zmkan.top', 'eregulations.com', 'www.266958.com', 'www.tinghen.com', '999696.xyz', 'www.gaycn.top', '66se21.com', 'www.zxc999.cn', 'www.zhuizhuiju.com', 'www.xiaonatl.com', 'hillrom.com', 'www.lyzdzy.com', 'www.k77yy.com', 'www.sxyzxh.com', 'www.b7yy.cc', 'www.dy1255.com', 'www.iios.club', 'www.eregulations.com', 'www.6i5.com', 'www.spellborne.gg', 'www.nikkeiasia.com', 'www.civitai.com', 'sh1.tgjmn.cn', 'www.226995.com', 'blog.hostmonit.com', 'www.szxjsj.com', 'www.lvhuisb.com', 'www.whpaiger.com', 'cxge66.cc', 'www.ssiic.com', 'www.80yy.org', 'www.92mili.com', 'www.9805tl.xyz', 'www.uf6.cn', 'image.civitai.com', 'disabilitynewsservice.com', 'lumz.be', 'tgjmn.cn', 'www.6789lu.com', 'www.pk299.com', 'worldcoin.org', 'www.hosemicon.com', 'm.jingshuai888.com', 'ikantv.net', 'www.kanmanhuala.cc', 'nownovel.com', 'www.lzhdsn.com', 'www.btdad.live', 'www.0550cq.com', 'www.zhiqihuo.com', 'www.tvccc.org', 'downloads.sharewareonsale.com', 'www.bjfqmj.com', 'm.50zw.co', 'uf6.cn', 'imagecache.civitai.com', 'www.17kty.com', '6789lu.com', 'sgv7.com', 'zh-cn.worldcoin.org', 'www.imeiju.net', 'meilisearch.civitai.com', 'm.6988tv.com', 'www.nsisfans.com', 'sharewareonsale.com', 'www.hanfangxiang.com', 'www.huanyaad.com', 'www.lnudz.com', 'coderbyte.com', 'www.28dushu.com', 'www.xlys01.com', 'cdn.didi8.com', 'www.laowang.co', '92mili.com', 'albertoshop.de', 'www.jingshuai888.com', 'www.x52bq.com', 'www.90dushu.com', 'www.511my.com', 'cp.buzinessware.com', 'www.a456r.com', 'www.dgytlt.com', 'www.717zfsf.com', '521vr.com', 'www.zywl1678.com', 'www.kelongwo.com', 'pay2.hundunpay2.com', 'index1.xxm3u8.top', 'stock.hostmonit.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.gaze.run...
+Performing DNS lookup for www.lyzdzy.com...
+Performing DNS lookup for www.b7yy.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
