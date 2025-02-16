@@ -2,86 +2,18 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.wn03.cc	canonical name = cf-4.sjcdn.top.
-cf-4.sjcdn.top	canonical name = cn.wnacg.com.
-Name:	cn.wnacg.com
-Address: 104.26.13.109
-Name:	cn.wnacg.com
-Address: 104.26.12.109
-Name:	cn.wnacg.com
-Address: 172.67.74.237
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:d6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::ac43:4aed
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:c6d
+Name:	www.romeo.com
+Address: 104.18.22.69
+Name:	www.romeo.com
+Address: 104.18.23.69
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	uu93.com
-Address: 104.21.32.1
-Name:	uu93.com
-Address: 104.21.64.1
-Name:	uu93.com
-Address: 104.21.80.1
-Name:	uu93.com
-Address: 104.21.112.1
-Name:	uu93.com
-Address: 104.21.96.1
-Name:	uu93.com
-Address: 104.21.16.1
-Name:	uu93.com
-Address: 104.21.48.1
-Name:	uu93.com
-Address: 2606:4700:3030::6815:7001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:5001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:1001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:3001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:6001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:2001
+** server can't find www.yjyfdc.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	cf1.492745.xyz
-Address: 104.21.239.64
-Name:	cf1.492745.xyz
-Address: 172.67.90.234
-Name:	cf1.492745.xyz
-Address: 172.67.117.232
-Name:	cf1.492745.xyz
-Address: 172.64.107.57
-Name:	cf1.492745.xyz
-Address: 172.67.159.140
-Name:	cf1.492745.xyz
-Address: 104.16.112.249
-Name:	cf1.492745.xyz
-Address: 162.159.243.84
-Name:	cf1.492745.xyz
-Address: 172.67.133.194
-Name:	cf1.492745.xyz
-Address: 172.67.153.187
-Name:	cf1.492745.xyz
-Address: 104.19.3.71
-Name:	cf1.492745.xyz
-Address: 104.18.0.16
-Name:	cf1.492745.xyz
-Address: 172.67.123.195
-Name:	cf1.492745.xyz
-Address: 172.67.245.224
-Name:	cf1.492745.xyz
-Address: 198.41.208.172
-Name:	cf1.492745.xyz
-Address: 172.67.157.26
+** server can't find yh.yjyfdc.com: SERVFAIL
 

@@ -29278,3 +29278,26 @@ Performing DNS lookup for 5345en.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 515b012] Update project files
+ 4 files changed, 142 insertions(+), 39 deletions(-)
+ rewrite Fission_ip_backup.txt (85%)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   2618b7a..515b012  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.245.188...
+Fetching domains for 198.41.209.248...
+Fetching domains for 104.17.196.200...
+succeed to fetch domains for 190.93.245.188 from https://site.ip138.com/
+succeed to fetch domains for 198.41.209.248 from https://site.ip138.com/
+succeed to fetch domains for 104.17.196.200 from https://site.ip138.com/
+域名列表为
+['ks50.cc', 'qp66.com', 'www.qp666.com', 'kz22.cc', 'm.0550cq.com', 'www.555yy1.com', 'www.33mov.com', 'zi0.cc', 'www.28dushu.com', 'www.1080p.club', 'www.116.ag', 'www.tinghen.com', 'www.chongxinpet.com', '555movie.me', 'v.saohuotv.com', 'www.888dyy.cc', 'www.11txt.com', 'www.ttgo5.com.cn', 'www.paizipai.top', '606977.com', 'ag.hg2096.com', 'www.ddwhm.com', 'www.gzqhjdgc.com', 'www.96dushu.com', 'www.55evd.com', 'wap.sp6080.com', 'www.id9yy.com', 'www.xinpian8.com', 'www.qf527.com', 'www.kx10.com', '0550cq.com', 'gua.gg', 'boyangjt.com', '4gdiy.com', 'www.456gg.com', 'www.sxyzxh.com', '8810868.com', 'www.xigua5.com', 'ks20.cc', 'www.555movie.me', 'www.xinxin511.com', 'wei333.com', 'www.66sex.net', 'www.uu93.com', 'e0101.com', 'kkyx.yydsii.com', 'subodi.com', '789kp.com', 'jpvsavhyu.76898102.xyz', 'www.5dy6.cc', 'www.52dvd.cn', 'www.syhlm.com', 'www.hhi7.com', 'vcd.la', 'm.tushencn.com', 'www.hg098.com', 'www.789kp.com', 'www.90dushu.com', 'speed.marisalnc.com', 'www.tv9090.com', 'www.zzztch.com', 'www.xxpg888.com', 'wxxzzs.com', '65bao2.com', 'www.asmrgay.com', 'www.zgjmw.net', 'raw.gitmirror.com', 'www.7749tv.com', 'cf-lt.sharecentre.online', 'www.ei01.com', 'stock.hostmonit.com', 'www.ganpian.com', 'www.scxdexx.com', 'www.0550cq.com', 'www.web120.org', 'www.huanyaad.com', '43pic.com', 'cf1.492745.xyz', 'www.4gdiy.com', 'uu93.com', 'www.meijubo.com', 'www.suboji.com', '66se22.com', 'www.wxxzzs.com', 'www.zhenjiesh.cn', 'www.k77yy.com', 'www.wn03.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wn03.cc...
+Performing DNS lookup for uu93.com...
+Performing DNS lookup for cf1.492745.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
