@@ -2,38 +2,38 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.villa-bali.com
-Address: 172.66.40.77
-Name:	www.villa-bali.com
-Address: 172.66.43.179
-Name:	www.villa-bali.com
-Address: 2606:4700:3108::ac42:284d
-Name:	www.villa-bali.com
-Address: 2606:4700:3108::ac42:2bb3
+www.wn05.cc	canonical name = cf-4.sjcdn.top.
+cf-4.sjcdn.top	canonical name = cn.wnacg.com.
+Name:	cn.wnacg.com
+Address: 104.26.12.109
+Name:	cn.wnacg.com
+Address: 104.26.13.109
+Name:	cn.wnacg.com
+Address: 172.67.74.237
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:c6d
+Name:	cn.wnacg.com
+Address: 2606:4700:20::ac43:4aed
+Name:	cn.wnacg.com
+Address: 2606:4700:20::681a:d6d
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.7kanwang.com
-Address: 104.21.40.145
-Name:	www.7kanwang.com
-Address: 172.67.153.10
-Name:	www.7kanwang.com
-Address: 2606:4700:3031::6815:2891
-Name:	www.7kanwang.com
-Address: 2606:4700:3035::ac43:990a
+Name:	are567.com
+Address: 23.225.33.89
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.love.com
-Address: 172.67.149.31
-Name:	www.love.com
-Address: 104.21.39.221
-Name:	www.love.com
-Address: 2606:4700:3034::6815:27dd
-Name:	www.love.com
-Address: 2606:4700:3034::ac43:951f
+Name:	e777b.com
+Address: 104.21.64.91
+Name:	e777b.com
+Address: 172.67.179.218
+Name:	e777b.com
+Address: 2606:4700:3030::6815:405b
+Name:	e777b.com
+Address: 2606:4700:3031::ac43:b3da
 

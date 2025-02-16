@@ -29367,3 +29367,25 @@ Performing DNS lookup for is.biker24h.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e54e026] Update project files
+ 4 files changed, 72 insertions(+), 30 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   31a67c9..e54e026  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.230.76...
+Fetching domains for 172.66.40.77...
+Fetching domains for 104.18.27.146...
+succeed to fetch domains for 172.66.40.77 from https://site.ip138.com/
+succeed to fetch domains for 104.18.27.146 from https://site.ip138.com/
+succeed to fetch domains for 104.17.230.76 from https://dnsdblookup.com/
+域名列表为
+['www.kbss888.com', 'www.jniupool.com', 'www.b4k22.com', 'www.dogroom.hk', 'www.ddwhm.com', 'love.com', 'milf300.com', 'www.52ys.cc', 'www.love.com', 'mgnu01.com', 'api.radial.velolink.us', 'opengem.art', 'www.abillion.com', 'admin.jniupool.com', 'jniupool.com', 'lu.ma', 'bblmw.com.cn', 'www.bfb3.com', 'achk.cloudflarest.link', 'nlsdwsz.66666654.xyz', 'sell.alias.org', 'uboy.run', 'baklktlas.com', 'radial.velolink.us', 'kfc666.com', 'b4k22.com', 'bestcf.onecf.eu.org', 'www.555yy4.com', 'www.fcw.com', '896cf.com', 'www.993my.com', 'gebo.gov.eg', 'nichedropshipping.com', 'fcww37.com', 'h5.jniupool.com', 'mmx.vpnoir9r.us.kg', 'baxtc.66666654.xyz', 'www.28et.com', 'www.wubei520.com', 'fcw.com', 'file.help-talk.net', 'rangwozuo.com', 'a2.hh.887733.xyz', 'www.gdriustb.com', 'www.doudou.monster', 'www.7kanwang.com', 're-gister.zmcx7.com', 's-5.com', 'gucci.studio-fashion.com', 'www.okyscdn100.com', 'voip.review', 'zaintest.vuclip.com.mmx.vpnoir9r.us.kg', 'cfip.xxxxxxxx.tk', 'v7.gggh11.com', 'www.moderntiredealer.com', 'a789tn.com', 'www.b2j77.com', 'www.lailai360.com', 'www.a789tn.com', 'hackthebox.com', 'u.uboy03.xyz', 'www.hostnet.com.br', 'gleam.io', 'acus.cloudflarest.link', 'www.milf300.com', 'www.77zw.cc', 'www.opengem.art', 'studio-fashion.com', 'www.896cf.com', '7kanwang.com', 'www.jxzzchina.com', 'villa-bali.com', 'jpadwinfs.114514782.xyz', 'www.villa-bali.com', 'astroproxy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.villa-bali.com...
+Performing DNS lookup for www.7kanwang.com...
+Performing DNS lookup for www.love.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
