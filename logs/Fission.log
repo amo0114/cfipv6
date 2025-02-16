@@ -29389,3 +29389,25 @@ Performing DNS lookup for www.love.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 161c121] Update project files
+ 4 files changed, 73 insertions(+), 50 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   e54e026..161c121  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.232.56...
+Fetching domains for 104.18.21.137...
+Fetching domains for 104.18.187.112...
+succeed to fetch domains for 104.18.187.112 from https://site.ip138.com/
+succeed to fetch domains for 104.18.21.137 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.232.56 from https://ipchaxun.com/
+域名列表为
+['www.45zw.org', 'www.e777b.com', 'www.4hubb06.com', 'www.msr234.com', 'www.tca234.com', 'achk.cloudflarest.link', 'www.zwccw.com', 'www.93xscc.com', 'baxtc.66666654.xyz', '086181.xyz', 'www.nsisfans.com', 'www.bm158.com', 'are567.com', 'www.652tv.com', 'hkaa.geotrust.pp.ua', 'www.cykz.net', 'www.pipeuncle.com', 'www.xiaoshuohi.com', 'cloudflare.182682.xyz', 'www.5v1.com', '38wang.cc', 'www.are567.com', 'dsxys.com', 'tca234.com', 'e777b.com', 'jato56.net', 'www.295k.com', 'www.diskgirl.com', 'pan.axxpan.com', 'www.zglswd.com', 'www.wn01.cc', 'msr234.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'didiyunhu.com', 'www.whpaiger.com', 'www.manhuadb.com', 'www.rank.com', 'www.wn03.cc', 'www.991kan.com', 'www.ddwhm.com', 'dm84.tv', '4hubb06.com', 'www.cocanwelding.com', 'www.5k2m.com', 'www.iios.club', 'www.xlys01.com', 'www.longwangchuanshuo.com', 'www.wn05.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wn05.cc...
+Performing DNS lookup for are567.com...
+Performing DNS lookup for e777b.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

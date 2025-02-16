@@ -2,38 +2,30 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.wn05.cc	canonical name = cf-4.sjcdn.top.
-cf-4.sjcdn.top	canonical name = cn.wnacg.com.
-Name:	cn.wnacg.com
-Address: 104.26.12.109
-Name:	cn.wnacg.com
-Address: 104.26.13.109
-Name:	cn.wnacg.com
-Address: 172.67.74.237
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:c6d
-Name:	cn.wnacg.com
-Address: 2606:4700:20::ac43:4aed
-Name:	cn.wnacg.com
-Address: 2606:4700:20::681a:d6d
+Name:	90xj.com
+Address: 172.67.159.246
+Name:	90xj.com
+Address: 104.21.41.46
+Name:	90xj.com
+Address: 2606:4700:3030::6815:292e
+Name:	90xj.com
+Address: 2606:4700:3036::ac43:9ff6
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find cfip.usereplace.cfd: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	are567.com
-Address: 23.225.33.89
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	e777b.com
-Address: 104.21.64.91
-Name:	e777b.com
-Address: 172.67.179.218
-Name:	e777b.com
-Address: 2606:4700:3030::6815:405b
-Name:	e777b.com
-Address: 2606:4700:3031::ac43:b3da
+Name:	uu741.com
+Address: 104.21.41.46
+Name:	uu741.com
+Address: 172.67.159.246
+Name:	uu741.com
+Address: 2606:4700:3030::6815:292e
+Name:	uu741.com
+Address: 2606:4700:3036::ac43:9ff6
 
