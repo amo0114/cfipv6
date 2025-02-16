@@ -29301,3 +29301,26 @@ Performing DNS lookup for cf1.492745.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 698673a] Update project files
+ 4 files changed, 50 insertions(+), 119 deletions(-)
+ rewrite Fission_ip_backup.txt (96%)
+ rewrite dns_result.txt (90%)
+To github.com:amo0114/cfipv6.git
+   515b012..698673a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.17.135...
+Fetching domains for 104.17.254.235...
+Fetching domains for 104.18.22.69...
+succeed to fetch domains for 104.18.22.69 from https://site.ip138.com/
+succeed to fetch domains for 104.17.254.235 from https://site.ip138.com/
+succeed to fetch domains for 104.18.17.135 from https://site.ip138.com/
+域名列表为
+['h123v.com', 'www.rmsxs.com', 'www.b9h77.com', 'b9h77.com', 'www.zhouhao.me', 'img5.26ts.com', 'www.gmmpic.com', 'xinjuc.com', 'mp3-2.26ts.com', 'www.75xx.net', 'euautoosad.ee', 'yavoriv-rada.gov.ua', 'mp6.26ts.com', 'img2.26ts.com', 'www.4humm47.com', 'www.sbdm.net', 'shoueraa.76898102.xyz', '555pian.com', 'www.yh9pk.com', '75xx.net', 'whjinwu.com', 'www.ddwhm.com', 'irl123.com', 'tunneltransfer.bpyjc.com', 'c678s.com', 'www.iios.club', 'yh.fgmjm.com', 'www.6783rr.com', 'yh.yjyfdc.com', 'qpslb.dlqiche.com.cn', 'www.xbiquge.me', 'www.b7p44.com', '26.namesilo123.top', 'm.77kp.com', 'yjyfdc.com', 'www.rxjh520.cc', 'www.zzztch.com', 'img6.26ts.com', 'cfip.xxxxxxxx.tk', 'www.irl123.com', 'www.99wxw.cc', 'www.q888m.com', 'www.zlcq520.com', '4humm47.com', 'www.94069.net', 'romeo.com', 'www.c678s.com', 'www.5673hh.com', 'lunhuan.24cdn.top', 'zxk555.com', 'www.ayzjj.cn', 'www.93xscc.com', 'www.bpzhe.com', 'www.97777pk.com', 'www.77kp.com', 'raw.gitmirror.com', 'www.cx888my.com', 'www.p777g.com', 'www.lyzdzy.com', 'id.anaconda.cloud', 'b7p44.com', 'www.iios.fun', 'sa999.net', '5673hh.com', 'www.iios.me', 'www.k6269d.com', 'barkbox.com', '7.namesilo123.top', 'www.changlitouzi.com', 'www.yjyfdc.com', 'img4.26ts.com', 'www.555yy1.com', '77kp.com', 'www.romeo.com', 'www.2454hu.com', 'cname.volcengine.eu.org', 'www.cu90.com', 'post.edu', 'dlqiche.com.cn', 'img3.26ts.com', 'acus.cloudflarest.link', 'mp3.26ts.com', 'fldsubgigtujuy.76898102.xyz', 'www.qindixs.com', 'yzuion.shuyicheng.xyz', '75uw.com', 'anaconda.cloud', 'ub888.cc', 'www.harley-davidson.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.romeo.com...
+Performing DNS lookup for www.yjyfdc.com...
+Performing DNS lookup for yh.yjyfdc.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

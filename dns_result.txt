@@ -2,18 +2,30 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.romeo.com
-Address: 104.18.22.69
-Name:	www.romeo.com
-Address: 104.18.23.69
+Name:	photon.tinyastro.io
+Address: 172.64.154.240
+Name:	photon.tinyastro.io
+Address: 104.18.33.16
+Name:	photon.tinyastro.io
+Address: 2606:4700:4400::ac40:9af0
+Name:	photon.tinyastro.io
+Address: 2606:4700:4400::6812:2110
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.yjyfdc.com: SERVFAIL
+Non-authoritative answer:
+Name:	eaterpink.kno2fy.com
+Address: 104.18.6.94
+Name:	eaterpink.kno2fy.com
+Address: 104.18.7.94
+Name:	eaterpink.kno2fy.com
+Address: 2606:4700::6812:65e
+Name:	eaterpink.kno2fy.com
+Address: 2606:4700::6812:75e
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find yh.yjyfdc.com: SERVFAIL
+** server can't find www.4hur11.com: NXDOMAIN
 
