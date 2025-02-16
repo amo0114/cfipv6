@@ -1,104 +1,29 @@
-;; Truncated, retrying in TCP mode.
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.110
-Name:	cdn.jp999.cloudns.org
-Address: 188.114.98.78
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.200
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.195.242
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.195.121
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.241
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.195.146
-Name:	cdn.jp999.cloudns.org
-Address: 188.114.97.197
-Name:	cdn.jp999.cloudns.org
-Address: 188.114.99.90
-Name:	cdn.jp999.cloudns.org
-Address: 188.114.98.52
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.179
-Name:	cdn.jp999.cloudns.org
-Address: 188.114.97.121
-Name:	cdn.jp999.cloudns.org
-Address: 188.114.96.182
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.195.144
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.121
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.193
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.244
-Name:	cdn.jp999.cloudns.org
-Address: 188.114.97.35
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.221
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.254
-Name:	cdn.jp999.cloudns.org
-Address: 188.114.97.168
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.195.118
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.195.181
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.131
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.195.113
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.245
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.114
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.139
-Name:	cdn.jp999.cloudns.org
-Address: 188.114.99.157
-Name:	cdn.jp999.cloudns.org
-Address: 162.159.192.210
+www.camscanner.com	canonical name = www.camscanner.com.cdn.cloudflare.net.
+Name:	www.camscanner.com.cdn.cloudflare.net
+Address: 104.18.3.158
+Name:	www.camscanner.com.cdn.cloudflare.net
+Address: 104.18.2.158
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ddosi.org	canonical name = ddosimil.cloudflare.182682.xyz.
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 104.19.48.236
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 104.17.213.241
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 198.41.209.70
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 104.16.155.10
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 104.17.221.248
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 2606:4700:e7::3151:47a9
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 2606:4700:3032::818:669e
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 2606:4700:8ca0::3dc4:21a2
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 2a06:98c1:3120::5692:61a4
-Name:	ddosimil.cloudflare.182682.xyz
-Address: 2606:4700:3035::1a4f:5642
+*** Can't find hkgsdz.66666654.xyz: No answer
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.qindi.net	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.94.35
-Name:	ips.993888.xyz
-Address: 104.17.131.209
-Name:	ips.993888.xyz
-Address: 104.17.132.79
+Name:	5345en.com
+Address: 104.21.26.62
+Name:	5345en.com
+Address: 172.67.168.61
+Name:	5345en.com
+Address: 2606:4700:3030::ac43:a83d
+Name:	5345en.com
+Address: 2606:4700:3033::6815:1a3e
 

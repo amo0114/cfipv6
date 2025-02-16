@@ -29232,3 +29232,26 @@ Performing DNS lookup for www.b7yy.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9376876] Update project files
+ 4 files changed, 169 insertions(+), 43 deletions(-)
+ rewrite Fission_ip_backup.txt (88%)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   77579d8..9376876  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.30.207...
+Fetching domains for 104.16.250.110...
+Fetching domains for 188.114.97.197...
+succeed to fetch domains for 104.17.30.207 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.97.197 from https://site.ip138.com/
+succeed to fetch domains for 104.16.250.110 from https://ipchaxun.com/
+域名列表为
+['www.ddosi.org', 't434.cc', 'a393.cc', 'www.99wx.cc', 'www.nsisfans.com', 'www.ycppwh.org', 'uu93.com', 'www.vcd.la', 'cdn.jp999.cloudns.org', 'a398.cc', 'xfltd.net', 'www.dj5157.com', 'www.lyzdzy.com', 'lao303.com', 'v216.cc', 'www.iios.club', '181an.com', 'w374.cc', 'www.e0101.com', 'zjtjxy.net', 'www.qindi.net', '778992.com', '158499.com', 'www.zzztch.com', 'www.calmlab.com', 'www.longwangchuanshuo.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cdn.jp999.cloudns.org...
+Performing DNS lookup for www.ddosi.org...
+Performing DNS lookup for www.qindi.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
