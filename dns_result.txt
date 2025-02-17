@@ -2,30 +2,34 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	90xj.com
-Address: 172.67.159.246
-Name:	90xj.com
-Address: 104.21.41.46
-Name:	90xj.com
-Address: 2606:4700:3030::6815:292e
-Name:	90xj.com
-Address: 2606:4700:3036::ac43:9ff6
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find cfip.usereplace.cfd: NXDOMAIN
+Name:	iios.club
+Address: 104.21.52.166
+Name:	iios.club
+Address: 172.67.201.86
+Name:	iios.club
+Address: 2606:4700:3032::6815:34a6
+Name:	iios.club
+Address: 2606:4700:3036::ac43:c956
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	uu741.com
-Address: 104.21.41.46
-Name:	uu741.com
-Address: 172.67.159.246
-Name:	uu741.com
-Address: 2606:4700:3030::6815:292e
-Name:	uu741.com
-Address: 2606:4700:3036::ac43:9ff6
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 

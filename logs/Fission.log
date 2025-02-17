@@ -29411,3 +29411,25 @@ Performing DNS lookup for e777b.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 570d1f2] Update project files
+ 4 files changed, 60 insertions(+), 51 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   161c121..570d1f2  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.41.46...
+Fetching domains for 104.18.80.41...
+Fetching domains for 104.18.254.54...
+succeed to fetch domains for 104.18.80.41 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.41.46 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.254.54 from https://dnsdblookup.com/
+域名列表为
+['www.x6n11.com', 'www.tom1222.com', '89maoax.com', 'www.it-shop.co.id', 'www.jphsw8qssl.com', 'cfip.xxxxxxxx.tk', 'cfsd.purslane.buzz', 'm.ddqp6610.top', 'www.yy6080y.net', 'www.766uuu.net', '4leb.com', '52wzlt.com', 'www.90xj.com', 'crypt0g.cc', 'wz.weishao2023.uk.eu.org', 'x-agent.net', 'www.szjiuzhan.com', 'www.v66659.com', 'mixiujie.cn', 'diop.purslane.buzz', 'm.ep3ntkp.top', 'www.kdlehti.fi', 'www.ashefaa.com', 'blog.shukebeta.com', 'jphsw8qssl.com', '90xj.com', 'yah.ddeeda.top', 'www.ep3ntkp.top', 'www.technobaboy.com', 'www.520ve.com', 'purslane.buzz', 'ganjjghjh7.b789.xyz', 'haijy.hs36.xyz', '69se.site', 'x6n11.com', 'www.caoporn6.app', 'cfxp.usereplace.cfd', 'www.mmcn.xyz', 'www.c9432.com', 'www.dianzisuo.com', 'www.purslane.buzz', 'animesexgame.com', 'm.53xt.com.cdn.cloudflare.net', 'ep3ntkp.top', 'cdn.rebo.kr', '69av465.xyz', '882118811.com', 'cfip.usereplace.cfd', 'www.baltimoregaylife.com', 'mprmods.x-keys.xyz', 'www.91m.cc', '2061270.com', 'www.leyouguandao.com', 'uu741.com', '110306.xyz', '520ve.com', 'kimo3z.com', 'www.szxyygf.com', 'ysect.com', 'wap.ep3ntkp.top', 'www.882118811.com', 'ee746.com', 'www.ahxuedong.com', 'tom1222.com', 'senrenbanka.yuzusoft.us.kg', '53xt.com.cdn.cloudflare.net', 'c9432.com', 'www.dmd8.com', 'www.53xt.com.cdn.cloudflare.net', 'dmd8.com', 'www.3342cc.com', 'www.tpyyc.com', 'www.ahbee.cn', '3g.ep3ntkp.top', '173cq.com', 'ddqp6610.top', 'www.b789.xyz', '3g.cddfq4f.top', 'b789.xyz', 'www.ygdy8.cc', 'www.padasun.com', 'yah1.ddeeda.top', 'caoporn6.app', 'ecpibiq.b789.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 90xj.com...
+Performing DNS lookup for cfip.usereplace.cfd...
+Performing DNS lookup for uu741.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
