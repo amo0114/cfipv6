@@ -2,34 +2,36 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	iios.club
-Address: 104.21.52.166
-Name:	iios.club
-Address: 172.67.201.86
-Name:	iios.club
-Address: 2606:4700:3032::6815:34a6
-Name:	iios.club
-Address: 2606:4700:3036::ac43:c956
+ub888.cc	canonical name = xl.chunqiu25.com.
+Name:	xl.chunqiu25.com
+Address: 104.19.203.219
+Name:	xl.chunqiu25.com
+Address: 162.159.27.229
+Name:	xl.chunqiu25.com
+Address: 104.16.157.69
+Name:	xl.chunqiu25.com
+Address: 104.18.234.250
+Name:	xl.chunqiu25.com
+Address: 108.162.196.106
+Name:	xl.chunqiu25.com
+Address: 104.19.84.202
+Name:	xl.chunqiu25.com
+Address: 104.19.124.223
+Name:	xl.chunqiu25.com
+Address: 104.16.228.60
+Name:	xl.chunqiu25.com
+Address: 104.18.140.81
+Name:	xl.chunqiu25.com
+Address: 104.19.102.61
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.iios.club	canonical name = 1357900.xyz.
-1357900.xyz	canonical name = back.246000.xyz.
-Name:	back.246000.xyz
-Address: 172.67.201.86
-Name:	back.246000.xyz
-Address: 104.21.52.166
-Name:	back.246000.xyz
-Address: 2606:4700:3032::6815:34a6
-Name:	back.246000.xyz
-Address: 2606:4700:3036::ac43:c956
+*** Can't find speed.marisalnc.com: No answer
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+** server can't find fd352.com: SERVFAIL
 
