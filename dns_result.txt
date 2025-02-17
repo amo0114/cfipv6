@@ -2,36 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-ub888.cc	canonical name = xl.chunqiu25.com.
-Name:	xl.chunqiu25.com
-Address: 104.19.203.219
-Name:	xl.chunqiu25.com
-Address: 162.159.27.229
-Name:	xl.chunqiu25.com
-Address: 104.16.157.69
-Name:	xl.chunqiu25.com
-Address: 104.18.234.250
-Name:	xl.chunqiu25.com
-Address: 108.162.196.106
-Name:	xl.chunqiu25.com
-Address: 104.19.84.202
-Name:	xl.chunqiu25.com
-Address: 104.19.124.223
-Name:	xl.chunqiu25.com
-Address: 104.16.228.60
-Name:	xl.chunqiu25.com
-Address: 104.18.140.81
-Name:	xl.chunqiu25.com
-Address: 104.19.102.61
+Name:	www.astroulagam.com.my
+Address: 172.64.146.22
+Name:	www.astroulagam.com.my
+Address: 104.18.41.234
+Name:	www.astroulagam.com.my
+Address: 2606:4700:4400::ac40:9216
+Name:	www.astroulagam.com.my
+Address: 2606:4700:4400::6812:29ea
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find speed.marisalnc.com: No answer
+*** Can't find ipdb.app.tc: No answer
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find fd352.com: SERVFAIL
+Non-authoritative answer:
+Name:	www.ifv.ch
+Address: 104.18.20.231
+Name:	www.ifv.ch
+Address: 104.18.21.231
+Name:	www.ifv.ch
+Address: 2606:4700::6812:14e7
+Name:	www.ifv.ch
+Address: 2606:4700::6812:15e7
 
