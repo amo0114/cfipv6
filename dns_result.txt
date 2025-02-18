@@ -9,43 +9,19 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.243.62
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.226.93
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.28.153
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.143.121
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.21.7
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.243.88
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.228.92
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.29.148
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.27.2
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.233.61
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.24.82
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.245.127
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.232.44
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.185.155
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.79.66
+Name:	e567e.com
+Address: 23.225.148.166
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	subject.com
-Address: 199.60.103.94
-Name:	subject.com
-Address: 199.60.103.194
+Name:	www.dirtyleague.com
+Address: 172.67.184.147
+Name:	www.dirtyleague.com
+Address: 104.21.59.218
+Name:	www.dirtyleague.com
+Address: 2606:4700:3034::6815:3bda
+Name:	www.dirtyleague.com
+Address: 2606:4700:3036::ac43:b893
 
