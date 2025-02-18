@@ -29628,3 +29628,25 @@ Performing DNS lookup for subject.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b49ba05] Update project files
+ 4 files changed, 54 insertions(+), 67 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   129fe3a..b49ba05  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.28.153...
+Fetching domains for 104.18.79.66...
+Fetching domains for 104.17.245.127...
+succeed to fetch domains for 104.18.79.66 from https://site.ip138.com/
+succeed to fetch domains for 104.17.245.127 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.28.153 from https://ipchaxun.com/
+域名列表为
+['www.qindixs.com', 'omofun.link', '234bai.com', 'www.ugmjdk5o.life', 'www.ww8nmj.shop', 'www.iios.me', 'www.zxk555.com', 'www.5dy5.cc', 'techopedia.com', 'vir234.com', 'd666r.com', 'www.dirtyleague.com', '555yy1.com', '555movie.top', 'tdgo.shop', 'triumphmotorcycles.jp', 'www.iios.club', 'www.652tv.com', 'www.lyzdzy.com', '5dy5.cc', '555dy7.com', 'www.vir234.com', 'www.555yy6.com', 'www.555yy4.com', 'pu510.com', 'www.baipiaozhe.com', 'subject.com', 'www.bpzhe.com', '5dy3.cc', 'omofuns.top', 'api.itao.name', 'www.zzztch.com', 'dirtyleague.com', 'www.novipnoad.net', '555yy4.com', 'www.3345an.com', '6345an.com', 'www.555movie.me', 'www.pu510.com', 'www.234bai.com', 'www.555dy7.com', 'www.dmdy8.com', 'www.mcappx.com', 'www.555yy1.com', 'www.ddwhm.com', 'zxk555.com', 'omofun.life', 'www.zhenfanjixie.com', 'www.6345an.com', 'www.e567e.com', 'bdx100.com', 'www.xinjuc.com', 'www.techopedia.com', 'e567e.com', 'media.oss-internal.novipnoad.net', 'www.wuwumax.shop', 'www.mianfeixiaoshuoba.com', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 234bai.com...
+Performing DNS lookup for e567e.com...
+Performing DNS lookup for www.dirtyleague.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
