@@ -29779,3 +29779,24 @@ Performing DNS lookup for www.wubei520.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ac3f928] Update project files
+ 4 files changed, 95 insertions(+), 80 deletions(-)
+To github.com:amo0114/cfipv6.git
+   ca5f628..ac3f928  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.27.2...
+Fetching domains for 104.16.243.88...
+Fetching domains for 104.17.245.127...
+succeed to fetch domains for 104.17.245.127 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.27.2 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.243.88 from https://ipchaxun.com/
+域名列表为
+['555yy4.com', 'cf.5201987.xyz', 'www.lyzdzy.com', 'www.iios.me', 'www.5dy5.cc', '5dy14.cc', 'www.555movie.me', '555dy7.com', 'tdgo.shop', 'www.iios.club', 'www.555yy4.com', 'www.555yy6.com', 'www.dmys3.com', 'www.ww8nmj.shop', 'wuk9l1m3.com', 'www.nitianxieshen.com', 'zxk555.com', 'www.blys.fun', 'www.652tv.com', '555yy6.com', 'www.nitianzw.com', 'bdx100.com', 'xyhxin.com', '555movie.top', 'www.5dy6.cc', '555yy1.com', 'www.mcappx.com', '01.cfcdn.link', 'www.lailai360.com', 'www.mianfeixiaoshuoba.com', '11-16.cfcdn.giize.com', '10-08.cfcdn.link', 'www.bpzhe.com', 'www.85xs.cc', 'www.555yy1.com', 'w5cin.com', 'www.c333.net', 'www.zongcaiwx.com', 'www.555yy3.com', 'www.damifan.wiki', '5dy5.cc', 'www.baipiaozhe.com', 'www.dmdy8.com', '555movie.me', 'www.76sf.com', 'www.wuwumax.shop', 'bpzhe.com', 'www.55xs.cc', 'blys.fun', 'www.555dy7.com', 'www.ugmjdk5o.life', 'zhenfanjixie.com', 'www.zzztch.com', 'www.xinjuc.com', '555yy3.com', 'www.555pian.com', '555dyy15.com', 'www.zxk555.com', 'www.l6rww8lp.wiki', 'cfip.xxxxxxxx.tk', 'wuwuwik.life', '5dy3.cc', 'www.zhenfanjixie.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for www.wuwumax.shop...
+Performing DNS lookup for www.555movie.me...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
