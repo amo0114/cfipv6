@@ -29736,3 +29736,25 @@ Performing DNS lookup for 1080p.club...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 69b7a31] Update project files
+ 4 files changed, 93 insertions(+), 73 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   0340ca1..69b7a31  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.243.62...
+Fetching domains for 104.17.228.92...
+Fetching domains for 104.17.27.2...
+succeed to fetch domains for 104.17.243.62 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.27.2 from https://site.ip138.com/
+succeed to fetch domains for 104.17.228.92 from https://site.ip138.com/
+域名列表为
+['www.5dy5.cc', 'www.baipiaozhe.com', 'www.dmys3.com', 'www.5dy6.cc', 'www.50zw.co', 'www.ugmjdk5o.life', 'www.nitianxieshen.com', 'www.555movie.me', '555yy6.com', 'www.nangua55.com', 'zxk555.com', 'wuk9l1m3.com', 'www.80yy.la', '555movie.me', 'www.nitianzw.com', 'www.lailai360.com', 'bpzhe.com', 'www.lyzdzy.com', 'www.55xs.cc', 'www.zhenfanjixie.com', 'www.77zw.cc', '10-08.cfcdn.giize.com', 'www.xuanqishi.cc', '11-16.cfcdn.giize.com', 'www.wuwumax.shop', 'www.ww8nmj.shop', 'www.eobuwie.com.pl', 'www.6988tv.com', 'www.555yy1.com', 'zhenfanjixie.com', 'www.zxk555.com', 'www.85xs.cc', '555yy1.com', 'www.555dy7.com', 'www.zongcaiwx.com', '5dy14.cc', 'tdgo.shop', 'cfip.xxxxxxxx.tk', 'www.1a1v.com', 'zjtjxy.net', '5dy5.cc', 'www.555yy6.com', '555dy7.com', 'www.cocanwelding.com', 'www.blys.fun', 'www.iios.club', '10-08.cfcdn.link', 'www.555pian.com', 'www.555yy3.com', 'www.damifan.wiki', 'www.zzztch.com', '555yy4.com', 'blys.fun', 'www.555yy4.com', 'w5cin.com', '555movie.top', 'www.xigua5.com', 'www.xtxtxs.com', 'www.l6rww8lp.wiki', 'mcix.ircf.space', 'cf.5201987.xyz', '01.cfcdn.link', 'eobuwie.com.pl', 'www.dmdy8.com', '5dy3.cc', 'www.bpzhe.com', 'www.4gdiy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zongcaiwx.com...
+Performing DNS lookup for 5dy3.cc...
+Performing DNS lookup for www.80yy.la...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
