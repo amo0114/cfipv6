@@ -30137,3 +30137,24 @@ Performing DNS lookup for www.6988tv.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0719768] Update project files
+ 4 files changed, 86 insertions(+), 81 deletions(-)
+To github.com:amo0114/cfipv6.git
+   c92e5f7..0719768  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.232.44...
+Fetching domains for 104.16.243.88...
+Fetching domains for 104.18.143.121...
+succeed to fetch domains for 104.16.243.88 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.143.121 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.232.44 from https://dnsdblookup.com/
+域名列表为
+['5dy3.cc', 'www.x7wuz5k1.com', '5dy5.cc', 'www.555yy1.com', '555yy1.com', 'www.5dy6.cc', 'bpzhe.com', '5dy14.cc', '4wcczne54l.wiki', 'www.ugmjdk5o.life', 'w5cin.com', 'www.lyzdzy.com', 'www.zhenfanjixie.com', 'www.cx888my.com', 'www.555dy7.com', '55wuv.com', '555pian.com', 'www.555yy3.com', 'www.dmdy8.com', '555yy4.com', '555yy6.com', 'wuk9l1m3.com', 'www.msgao.com', 'cfip.xxxxxxxx.tk', 'www.baipiaozhe.com', 'www.76sf.com', 'gtt.top', '555movie.me', '555dy7s.com', 'www.tdgo.shop', 'www.xinjuc.com', '555dy7.com', 'tdgo.shop', '555dy.me', 'www.l6rww8lp.wiki', 'bluedgv.top', 'www.4wcczne54l.wiki', 'www.dmys3.com', 'www.damifan.wiki', 'www.ww8nmj.shop', '555movie.top', 'www.iios.club', 'www.555dyy15.com', 'dmys3.com', 'dmp9q8r.com', 'dami10.me', 'www.5dy14.cc', '555yy3.com', '555yy7.com', 'www.c333.net', 'cf.5201987.xyz', 'www.555movie.me', 'wuwuwik.life', '555dyy15.com', 'www.zxk555.com', 'zhenfanjixie.com', 'www.5dy5.cc', 'rcscr.com', 'www.555yy4.com', 'www.555pian.com', 'zxk555.com', '555dy6s.com', 'www.555yy6.com', 'www.bpzhe.com', 'www.kbss888.com', '5dy6.cc', 'xyhxin.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for dmys3.com...
+Performing DNS lookup for www.5dy6.cc...
+Performing DNS lookup for www.iios.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
