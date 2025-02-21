@@ -30284,3 +30284,24 @@ Performing DNS lookup for www.wuwumax.shop...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f46d4b0] Update project files
+ 4 files changed, 87 insertions(+), 86 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7e79d88..f46d4b0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.232.44...
+Fetching domains for 104.18.143.121...
+Fetching domains for 104.18.29.148...
+succeed to fetch domains for 104.18.143.121 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.232.44 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.29.148 from https://dnsdblookup.com/
+域名列表为
+['www.555dy7.com', 'tdgo.shop', 'www.555yy4.com', 'www.555dy.online', 'www.bpzhe.com', '555yy3.com', 'www.l6rww8lp.wiki', 'w5cin.com', 'www.555yy7.com', 'www.x7wuz5k1.com', 'www.555ys7.com', 'dami10.me', 'www.tdgo.shop', 'zhenfanjixie.com', 'wuwuwik.life', 'www.msgao.com', 'www.5dy5.cc', 'www.555yy1.com', 'cfip.xxxxxxxx.tk', '555dy7.com', '555dy6s.com', 'www.55fljp.wiki', 'www.damifan.wiki', '555yy4.com', '5dy5.cc', '555pian.com', '55wuv.com', '555yy7.com', 'www.5dy6.cc', '555dy7s.com', 'wuk9l1m3.com', '555yy1.com', 'www.555dyy15.com', 'www.555movie.me', 'www.13showtime.com', 'dmp9q8r.com', 'www.5dy14.cc', 'www.iios.club', 'www.cx888my.com', '5dy14.cc', 'www.wuwu8zk.shop', '555movie.me', 'www.cfhuagong.com', 'www.zhenfanjixie.com', 'dmys3.com', 'www.dmys3.com', 'www.555yy3.com', '555movie.top', 'rcscr.com', '555dy.me', 'www.zxk555.com', 'www.555yy6.com', 'www.555pian.com', '4wcczne54l.wiki', 'xyhxin.com', 'www.baipiaozhe.com', 'www.kbss888.com', 'www.4wcczne54l.wiki', 'www.whpaiger.com', 'bluedgv.top', '5dy3.cc', '5dy6.cc', 'damifun.wiki', 'www.ugmjdk5o.life', 'gtt.top', 'iios.club', 'zxk555.com', 'cf.5201987.xyz', '555yy6.com', 'www.dmdy8.com', '555dyy15.com', 'bpzhe.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.555dy.online...
+Performing DNS lookup for 555pian.com...
+Performing DNS lookup for iios.club...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
