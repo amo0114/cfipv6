@@ -30200,3 +30200,24 @@ Performing DNS lookup for dami10.me...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1926504] Update project files
+ 4 files changed, 110 insertions(+), 87 deletions(-)
+To github.com:amo0114/cfipv6.git
+   a0a0890..1926504  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.24.82...
+Fetching domains for 104.18.28.153...
+Fetching domains for 104.16.233.61...
+succeed to fetch domains for 104.18.28.153 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.233.61 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.24.82 from https://dnsdblookup.com/
+域名列表为
+['www.baipiaozhe.com', 'zhenfanjixie.com', '555dyy15.com', 'www.555yy1.com', 'triumphmotorcycles.jp', 'w5cin.com', 'www.bpzhe.com', 'www.damifan.wiki', '555movie.top', 'www.x7wuz5k1.com', 'www.l6rww8lp.wiki', 'wuk9l1m3.com', '555dy.me', 'www.dmdy8.com', 'www.dirtyleague.com', 'www.555dyy15.com', 'www.5dy14.cc', '5dy14.cc', 'tdgo.shop', 'omofun.life', 'www.6345an.com', 'www.555yy3.com', 'e567e.com', 'api.itao.name', '4wcczne54l.wiki', 'bpzhe.com', '555dy6s.com', 'www.novipnoad.net', 'www.pu510.com', 'd666r.com', 'xyhxin.com', 'subject.com', '6345an.com', '555pian.com', 'cf.5201987.xyz', '555yy1.com', 'zxk555.com', 'www.zhenfanjixie.com', 'techopedia.com', '555yy6.com', 'www.dmys3.com', '555dy7s.com', 'dami10.me', 'www.55fljp.wiki', 'www.5dy5.cc', 'www.tdgo.shop', 'www.555pian.com', 'www.555dy7.com', 'www.555movie.me', 'cfip.xxxxxxxx.tk', 'dmys3.com', 'rcscr.com', '5dy3.cc', 'omofuns.top', 'pu510.com', '555dy7.com', 'damifun.wiki', '555movie.me', 'vir234.com', 'www.ww8nmj.shop', 'dmp9q8r.com', '555yy4.com', 'www.5dy6.cc', '5dy6.cc', '555yy3.com', 'www.13showtime.com', '5dy5.cc', 'www.555yy6.com', 'www.zxk555.com', 'dirtyleague.com', 'www.techopedia.com', '55wuv.com', '555yy7.com', 'www.e567e.com', 'wuwuwik.life', 'www.ddwhm.com', 'www.555yy4.com', 'omofun.link', 'www.vir234.com', 'www.ugmjdk5o.life', '234bai.com', 'media.oss-internal.novipnoad.net', 'www.3345an.com', 'www.4wcczne54l.wiki', 'www.234bai.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.l6rww8lp.wiki...
+Performing DNS lookup for www.555yy3.com...
+Performing DNS lookup for wuwuwik.life...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
