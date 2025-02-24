@@ -2,77 +2,7 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cf.5201987.xyz
-Address: 104.17.21.7
-Name:	cf.5201987.xyz
-Address: 104.17.245.127
-Name:	cf.5201987.xyz
-Address: 104.17.27.2
-Name:	cf.5201987.xyz
-Address: 104.18.29.148
-Name:	cf.5201987.xyz
-Address: 104.16.243.88
-Name:	cf.5201987.xyz
-Address: 104.17.243.62
-Name:	cf.5201987.xyz
-Address: 104.17.232.44
-Name:	cf.5201987.xyz
-Address: 104.18.79.66
-Name:	cf.5201987.xyz
-Address: 104.16.233.61
-Name:	cf.5201987.xyz
-Address: 104.17.228.92
-Name:	cf.5201987.xyz
-Address: 104.17.226.93
-Name:	cf.5201987.xyz
-Address: 104.18.28.153
-Name:	cf.5201987.xyz
-Address: 104.18.24.82
-Name:	cf.5201987.xyz
-Address: 104.18.143.121
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	w5cin.com
-Address: 104.17.27.2
-Name:	w5cin.com
-Address: 104.18.24.82
-Name:	w5cin.com
-Address: 104.17.243.62
-Name:	w5cin.com
-Address: 104.18.79.66
-Name:	w5cin.com
-Address: 104.18.29.148
-Name:	w5cin.com
-Address: 104.18.143.121
-Name:	w5cin.com
-Address: 104.18.28.153
-Name:	w5cin.com
-Address: 104.17.228.92
-Name:	w5cin.com
-Address: 104.18.185.155
-Name:	w5cin.com
-Address: 104.17.21.7
-Name:	w5cin.com
-Address: 104.17.232.44
-Name:	w5cin.com
-Address: 104.16.233.61
-Name:	w5cin.com
-Address: 104.17.226.93
-Name:	w5cin.com
-Address: 104.17.245.127
-Name:	w5cin.com
-Address: 104.16.243.88
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.x7wuz5k1.com	canonical name = fallback.a7ddef5e.wiki.
-Name:	fallback.a7ddef5e.wiki
-Address: 104.17.27.2
+www.13showtime.com	canonical name = fallback.a7ddef5e.wiki.
 Name:	fallback.a7ddef5e.wiki
 Address: 104.17.245.127
 Name:	fallback.a7ddef5e.wiki
@@ -101,4 +31,77 @@ Name:	fallback.a7ddef5e.wiki
 Address: 104.18.185.155
 Name:	fallback.a7ddef5e.wiki
 Address: 104.18.143.121
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.27.2
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	zxk555.com
+Address: 104.17.228.92
+Name:	zxk555.com
+Address: 104.18.79.66
+Name:	zxk555.com
+Address: 104.17.232.44
+Name:	zxk555.com
+Address: 104.17.245.127
+Name:	zxk555.com
+Address: 104.18.24.82
+Name:	zxk555.com
+Address: 104.18.143.121
+Name:	zxk555.com
+Address: 104.18.28.153
+Name:	zxk555.com
+Address: 104.18.29.148
+Name:	zxk555.com
+Address: 104.16.243.88
+Name:	zxk555.com
+Address: 104.18.185.155
+Name:	zxk555.com
+Address: 104.17.27.2
+Name:	zxk555.com
+Address: 104.17.243.62
+Name:	zxk555.com
+Address: 104.16.233.61
+Name:	zxk555.com
+Address: 104.17.226.93
+Name:	zxk555.com
+Address: 104.17.21.7
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+bpzhe.com	canonical name = fallback.a7ddef5e.wiki.
+Name:	fallback.a7ddef5e.wiki
+Address: 104.16.233.61
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.79.66
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.29.148
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.28.153
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.24.82
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.185.155
+Name:	fallback.a7ddef5e.wiki
+Address: 104.18.143.121
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.27.2
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.245.127
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.243.62
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.232.44
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.228.92
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.226.93
+Name:	fallback.a7ddef5e.wiki
+Address: 104.17.21.7
+Name:	fallback.a7ddef5e.wiki
+Address: 104.16.243.88
 
