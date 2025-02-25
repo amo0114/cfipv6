@@ -31086,3 +31086,25 @@ Performing DNS lookup for 555yy6.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9abdabb] Update project files
+ 4 files changed, 118 insertions(+), 118 deletions(-)
+ rewrite dns_result.txt (60%)
+To github.com:amo0114/cfipv6.git
+   119605c..9abdabb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.24.82...
+Fetching domains for 104.17.232.44...
+Fetching domains for 104.17.27.2...
+succeed to fetch domains for 104.18.24.82 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.27.2 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.232.44 from https://site.ip138.com/
+域名列表为
+['5dy5.cc', 'w5cin.com', 'zhenfanjixie.com', 'www.555yy6.com', 'nlsdwsz.66666654.xyz', '5dy3.cc', 'mvluv.com', 'www.ugmjdk5o.life', 'www.77zw.cc', 'www.5dy6.cc', 'www.13showtime.com', 'www.555movie.me', 'www.55xs.cc', '10-08.cfcdn.giize.com', 'www.5wuzvp.shop', '555dy7s.com', '555yy3.com', '55wuv.com', '555dy.me', 'www.x7wuz5k1.com', 'www.xuanqishi.cc', 'www.tdgo.shop', 'www.555yy4.com', 'interspar.at', 'pq53.cc', 'www.zzztch.com', 'www.555dy.me', 'j8l.cc', 'www.5dy14.cc', 'a1s.com', 'zxk555.com', 'baipiaozhe.com', 'www.ww8nmj.shop', 'www.bestpipe.cn', 'cfip.xxxxxxxx.tk', '555yy4.com', 'www.5dy5.cc', 'www.dmys3.com', 'xyhxin.com', 'iios.club', 'www.bpzhe.com', '5dy6.cc', '3wuwu4b.com', 'www.iios.club', 'btdad17.xyz', 'dmp9q8r.com', 'www.zhenfanjixie.com', 'dmys3.com', '555dy6s.com', '10-08.cfcdn.link', 'www.555ys7.com', 'mcix.ircf.space', 'eobuwie.com.pl', 'www.whpaiger.com', 'www.555dy7.com', 'www.l6rww8lp.wiki', 'www.wuwu8zk.shop', '01.cfcdn.link', 'www.ww1hqp.wiki', 'www.eobuwie.com.pl', 'tdgo.shop', 'www.iios.me', '555movie.top', 'p.sindonews.tv', 'dmxq5.com', 'kz22.cc', 'qr99.cc', 'dmxq17.com', '11-16.cfcdn.giize.com', 'www.xtxtxs.com', 'www.555yy7.com', 'wuwuwik.life', 'www.lyzdzy.com', 'www.nitianxieshen.com', '55dy2.vip', 'www.damifan.wiki', '555pian.com', 'rcscr.com', 'cf.5201987.xyz', 'www.555yy1.com', 'damifun.wiki', 'wuk9l1m3.com', 'www.sf123.mobi', '555dy7.com', 'www.555dy.online', 'k2h3.com', '555dyy15.com', 'x7wuz5k1.com', 'www.blys.fun', 'www.85xs.cc', 'www.btdad.live', 'www.5dy3.cc', 'www.7.movie', 'blys.fun', 'www.456gg.com', 'www.555dyy15.com', 'www.555yy8.com', '5dy14.cc', '1080p.club', 'bpzhe.com', 'www.555yy3.com', 'www.yjys05.com', '555movie.me', 'www.4wcczne54l.wiki', 'www.baipiaozhe.com', '555yy1.com', 'wuwusync.com', 'www.nitianzw.com', 'www.55fljp.wiki', 'www.wahealthplanfinder.org', '555yy6.com', 'www.555pian.com', 'm5vies.com', 'www.t7wdhx3k4.wiki', 'ks20.cc', 'www.lailai360.com', 'ks50.cc', 'dami10.me', 'www.dmdy8.com', 'www.zongcaiwx.com', 'miggame.com', 'www.zxk555.com', '555yy7.com', 'www.cfhuagong.com', '4wcczne54l.wiki']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for dmys3.com...
+Performing DNS lookup for ks50.cc...
+Performing DNS lookup for 5dy3.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
