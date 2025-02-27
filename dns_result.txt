@@ -2,14 +2,6 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.555dy.me	canonical name = fallback.a7ddef5e.wiki.
-Name:	fallback.a7ddef5e.wiki
-Address: 104.19.137.84
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
 www.555yy4.com	canonical name = fallback.a7ddef5e.wiki.
 Name:	fallback.a7ddef5e.wiki
 Address: 104.19.137.84
@@ -18,6 +10,14 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	5dy14.cc
+555movie.top	canonical name = fallback.a7ddef5e.wiki.
+Name:	fallback.a7ddef5e.wiki
+Address: 104.19.137.84
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	555yy4.com
 Address: 104.19.137.84
 
