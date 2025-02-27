@@ -2,14 +2,7 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	zxk555.com
-Address: 104.19.137.84
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.555yy4.com	canonical name = fallback.a7ddef5e.wiki.
+www.555dy7.com	canonical name = fallback.a7ddef5e.wiki.
 Name:	fallback.a7ddef5e.wiki
 Address: 104.19.137.84
 
@@ -17,7 +10,13 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.x7wuz5k1.com	canonical name = fallback.a7ddef5e.wiki.
-Name:	fallback.a7ddef5e.wiki
+Name:	555dy7.com
 Address: 104.19.137.84
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.lyzdzy.com
+Address: 208.98.40.208
 
