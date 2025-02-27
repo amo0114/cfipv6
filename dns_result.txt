@@ -2,84 +2,49 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	wuwusync.com
-Address: 104.17.232.44
-Name:	wuwusync.com
-Address: 104.18.79.66
-Name:	wuwusync.com
-Address: 104.18.185.155
-Name:	wuwusync.com
-Address: 104.17.228.92
-Name:	wuwusync.com
-Address: 104.18.28.153
-Name:	wuwusync.com
-Address: 104.17.27.2
-Name:	wuwusync.com
-Address: 104.18.143.121
-Name:	wuwusync.com
-Address: 104.17.226.93
-Name:	wuwusync.com
-Address: 104.17.243.62
-Name:	wuwusync.com
-Address: 104.16.243.88
-Name:	wuwusync.com
-Address: 104.17.245.127
-Name:	wuwusync.com
-Address: 104.18.24.82
-Name:	wuwusync.com
-Address: 104.16.233.61
-Name:	wuwusync.com
-Address: 104.18.29.148
-Name:	wuwusync.com
-Address: 104.17.21.7
+zjtjxy.net	canonical name = www.jdzjq.cn.
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-game.baomaojc.top	canonical name = cdn.baomaojss.top.
-Name:	cdn.baomaojss.top
-Address: 172.67.219.208
-Name:	cdn.baomaojss.top
-Address: 104.21.91.133
-Name:	cdn.baomaojss.top
-Address: 2606:4700:3031::6815:5b85
-Name:	cdn.baomaojss.top
-Address: 2606:4700:3032::ac43:dbd0
+Name:	555yy6.com
+Address: 104.18.185.155
+Name:	555yy6.com
+Address: 104.16.243.88
+Name:	555yy6.com
+Address: 104.17.245.127
+Name:	555yy6.com
+Address: 104.18.29.148
+Name:	555yy6.com
+Address: 104.18.143.121
+Name:	555yy6.com
+Address: 104.18.28.153
+Name:	555yy6.com
+Address: 104.17.27.2
+Name:	555yy6.com
+Address: 104.16.233.61
+Name:	555yy6.com
+Address: 104.17.21.7
+Name:	555yy6.com
+Address: 104.18.24.82
+Name:	555yy6.com
+Address: 104.17.228.92
+Name:	555yy6.com
+Address: 104.17.243.62
+Name:	555yy6.com
+Address: 104.17.226.93
+Name:	555yy6.com
+Address: 104.18.79.66
+Name:	555yy6.com
+Address: 104.17.232.44
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.tdgo.shop	canonical name = fallback.a7ddef5e.wiki.
-Name:	fallback.a7ddef5e.wiki
-Address: 104.17.21.7
-Name:	fallback.a7ddef5e.wiki
-Address: 104.16.243.88
-Name:	fallback.a7ddef5e.wiki
-Address: 104.16.233.61
-Name:	fallback.a7ddef5e.wiki
-Address: 104.18.79.66
-Name:	fallback.a7ddef5e.wiki
-Address: 104.18.29.148
-Name:	fallback.a7ddef5e.wiki
-Address: 104.18.28.153
-Name:	fallback.a7ddef5e.wiki
-Address: 104.18.24.82
-Name:	fallback.a7ddef5e.wiki
-Address: 104.18.185.155
-Name:	fallback.a7ddef5e.wiki
-Address: 104.18.143.121
-Name:	fallback.a7ddef5e.wiki
-Address: 104.17.27.2
-Name:	fallback.a7ddef5e.wiki
-Address: 104.17.245.127
-Name:	fallback.a7ddef5e.wiki
-Address: 104.17.243.62
-Name:	fallback.a7ddef5e.wiki
-Address: 104.17.232.44
-Name:	fallback.a7ddef5e.wiki
-Address: 104.17.228.92
-Name:	fallback.a7ddef5e.wiki
-Address: 104.17.226.93
+www.50zw.co	canonical name = luoqiucdn.com.
+luoqiucdn.com	canonical name = yueducdn.com.
+Name:	yueducdn.com
+Address: 38.145.203.240
 
