@@ -31846,3 +31846,18 @@ IP -> 域名 已完成
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Error uploading to GitHub: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.
+[main 0647ffc] Update project files
+ 1 file changed, 15 insertions(+)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Failed to download IP list: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /ymyuuu/IPDB/refs/heads/main/bestcf.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f80e8854cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+域名列表为
+[]
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Error uploading to GitHub: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.
