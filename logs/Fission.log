@@ -31793,3 +31793,25 @@ Performing DNS lookup for picture.appscloner.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3033740] Update project files
+ 4 files changed, 61 insertions(+), 57 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   96e5149..3033740  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.17.93...
+Fetching domains for 104.16.231.42...
+Fetching domains for 104.17.224.167...
+succeed to fetch domains for 104.17.224.167 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.17.93 from https://site.ip138.com/
+succeed to fetch domains for 104.16.231.42 from https://site.ip138.com/
+域名列表为
+['www.saimayang.com', 'kz22.cc', 'm.niuerzs.com', 'www.5522tl.com', 'www.yhsqxy.com', 'www.tx58tl.com', '115fhd.com', '781890.com', 'www.m6y6.com', 'www.xz898my.com', 'www.e0101.com', 'www.ppxdm.com', '74fan.com', 'damidm.com', 'qdtsdp.com', 'www.97777pk.com', '74us.com', 'www.74xz.com', 'qdzhongbei.com', 'www.930my.com', 'www.hhyy028.com', 'ppxdm.com', 'www.kbss888.com', '74xz.com', 'www.cfhuagong.com', 'didamh.com', 'www.bt4kyy.com', 'www.dzy66666.com', 'www.993my.com', 'www.dcs99.com', 'www.didamh.com', 'www.jyyz.cn', 'www.wenxueyuedu.com', 'www.tlbb888.com', 'www.dingdingdm.com', 'www.7277tl.com', 'www.zzztch.com', 'www.8899tl.com', 'www.qdzhongbei.com', 'www.pk299.com', 'www.nanhuyt.com', 'www.cx888my.com', 'www.zhrwx.com', 'www.qdxqgc.com', 'cfcdn1.sanfencdn9.com', 'yxy176.com', 'www.wuhanzoo.com', 'www.xxootl.com', 'www.74fan.com', 'www.iios.club', 'www.rencaipinghu.com', 'www.yinshuaji1688.com', 'www.yh9pk.com', 'www.dongguanchangfang.com', 'dingdingdm.com', 'www.qdtsdp.com', 'www.kitandace.com', 'bjg55.com', 'www.yan176.com', 'www.zlcq520.com', 'www.qdjljy.com', 'www.8877fz.com', 'www.tockt.com', 'www.88wwk.com', 'm6y6.com', '741dm.com', 'www.8828pk.com', 'www.9415hf.com', 'www.rxjh520.cc', 'www.bjg55.com', 'dongguanchangfang.com', 'www.ququxiaoshuo.com', 'www.wn01.uk', 'www.741dm.com', 'www.kanunu2.com', 'www.txydd.com', '898tl.xingyukj.top', 'txydd.com', 'proxy.m3u8list.top', 'jsscxjzxxw.com', 'qdxqgc.com', 'saimayang.com', 'nanhuyt.com', '7lq.com', 'ysz8.com', 'www.wubei520.com', 'www.xkx999.com', 'zlcq520.com', 'www.damidm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.930my.com...
+Performing DNS lookup for www.xz898my.com...
+Performing DNS lookup for www.cfhuagong.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
