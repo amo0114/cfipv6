@@ -31706,3 +31706,25 @@ Performing DNS lookup for s3.44xn11.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8d1545e] Update project files
+ 4 files changed, 61 insertions(+), 53 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   d3b64b5..8d1545e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.69.157...
+Fetching domains for 104.18.29.89...
+Fetching domains for 104.21.19.20...
+succeed to fetch domains for 104.21.19.20 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.69.157 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.29.89 from https://ipchaxun.com/
+域名列表为
+['www.casetify.com.cdn.cloudflare.net', 'www.zzztch.com', 'cl652d.top', '926kk.top', 'www.qfwqiij.cn', 'web8888.cyou', 'www.1234sz.com', 'www.9bsr.com', 'dd90.com', 'www.yesex.cc', 'rzqr4da2.club', 'www.palworld8.com', 'vip.ly8686.com', 'www.wadcaf.cn', 'lwf7409.com', 'www.993my.com', 'casetify.com', 'www.85xs.cc', 'palworld8.com', 'miyuetv.com', 'www.ququxiaoshuo.com', 'l.love69.cc', 'www.zongcaixs.cc', 'bag.ly8686.com', '81yy.tv', '778.jsy666.com', 'fh4app.nbfhjy.com', 'youpabk.com', '5ggmv.buzz', 'ih198.com', '463699.com', 'cf1.492745.xyz', 'vistaprint.ie', 'www.cisecurity.org', 'betinsamr.co', 'www.blttech.com', 'www.ksban.cn', '6zgktv01f2s0h2qr.xyz', 'www.xhb2.cc', '795ll.com', 'cf9ighg.com', 'enroll.cisecurity.org', 'www.kyscvip.com', 'www.cf9ighg.com', '25gv.com', 'www.lwf7409.com', '96bec.com', 'www.xcj10.me', '431nn.com', 'www.25gv.com', 'elitexxxvideos.com', 'speed.marisalnc.com', 'tzpj.net', 'zhanz0414z.top', 'fx5-apk.9527801.com', 'www.eeussm.com', 'aidou7784.shop', '100tvtv.com', 'www.dd90.com', 'www.96bec.com', 'xhb2.cc', 'www.431nn.com', 'hgwc.xyz', 'that1.top', '788tt.app', 'www.d777j.com', 'ordg.the1pay.show', 'casetify.com.cdn.cloudflare.net', 'www.pcori.org', 'www.that1.top', 'fx6-apk.9527801.com', 'goldengateorganics.com', 'www.a9asmr.com', 'knmld.store', '51cgw.world', 'www.casetify.com', 'bbs.bepick.in']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.pcori.org...
+Performing DNS lookup for 5ggmv.buzz...
+Performing DNS lookup for fx5-apk.9527801.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
