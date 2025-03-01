@@ -1,23 +1,41 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find cdn.cmliu.net: NXDOMAIN
+Non-authoritative answer:
+Name:	www.75uw.com
+Address: 23.225.148.166
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	palworld8.com
-Address: 128.14.74.107
-Name:	palworld8.com
-Address: 128.14.74.124
+Name:	sunflower.com.hk.cdn.cloudflare.net
+Address: 104.26.8.23
+Name:	sunflower.com.hk.cdn.cloudflare.net
+Address: 104.26.9.23
+Name:	sunflower.com.hk.cdn.cloudflare.net
+Address: 172.67.73.67
+Name:	sunflower.com.hk.cdn.cloudflare.net
+Address: 2606:4700:20::681a:817
+Name:	sunflower.com.hk.cdn.cloudflare.net
+Address: 2606:4700:20::681a:917
+Name:	sunflower.com.hk.cdn.cloudflare.net
+Address: 2606:4700:20::ac43:4943
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.palworld8.com
-Address: 128.14.74.107
-Name:	www.palworld8.com
-Address: 128.14.74.124
+Name:	maven.quiltmc.org
+Address: 104.26.8.23
+Name:	maven.quiltmc.org
+Address: 104.26.9.23
+Name:	maven.quiltmc.org
+Address: 172.67.73.67
+Name:	maven.quiltmc.org
+Address: 2606:4700:20::681a:817
+Name:	maven.quiltmc.org
+Address: 2606:4700:20::681a:917
+Name:	maven.quiltmc.org
+Address: 2606:4700:20::ac43:4943
 

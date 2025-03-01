@@ -31728,3 +31728,25 @@ Performing DNS lookup for fx5-apk.9527801.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e39fd0c] Update project files
+ 4 files changed, 53 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   8d1545e..e39fd0c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.108.193...
+Fetching domains for 104.18.76.19...
+Fetching domains for 104.18.75.82...
+succeed to fetch domains for 104.18.108.193 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.76.19 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.75.82 from https://site.ip138.com/
+域名列表为
+['palworld8.com', 'www.85xs.cc', 'datacenter.ct.01.biqibao.site', 'www.daomubiji.cc', 'cdn.cmliu.net', 'www.ceisip.com', 'www.palworld8.com', 'www.leleysw.com', 'www.tpyyc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cdn.cmliu.net...
+Performing DNS lookup for palworld8.com...
+Performing DNS lookup for www.palworld8.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
