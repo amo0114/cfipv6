@@ -2,26 +2,21 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.pwcai.com
-Address: 54.193.208.148
+Name:	www.lingyi44.com
+Address: 208.98.40.206
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.zhiqihuo.com	canonical name = cdn1.5118cl0ud.xyz.
-cdn1.5118cl0ud.xyz	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:ba1f
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:bb1f
+1165vip.com	canonical name = vipkanba-luo.b-cdn.net.
+Name:	vipkanba-luo.b-cdn.net
+Address: 143.244.49.178
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.50zw.co	canonical name = luoqiucdn.com.
-luoqiucdn.com	canonical name = yueducdn.com.
-Name:	yueducdn.com
-Address: 38.145.203.240
+Name:	www.swuxfdc.cn
+Address: 156.236.225.160
 
