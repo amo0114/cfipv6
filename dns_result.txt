@@ -2,25 +2,24 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.169.16
-Name:	ips.993888.xyz
-Address: 104.16.120.249
-Name:	ips.993888.xyz
-Address: 104.16.11.41
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tv9090.com
-Address: 208.98.40.203
+Name:	www.bfb3.com
+Address: 23.224.179.245
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	acjp2.cloudflarest.link
-Address: 185.53.178.50
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.126.114
+Name:	ips.993888.xyz
+Address: 104.17.162.157
+Name:	ips.993888.xyz
+Address: 104.18.71.75
 
