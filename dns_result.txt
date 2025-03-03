@@ -2,42 +2,52 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.boyangjt.com
-Address: 104.16.104.218
-Name:	www.boyangjt.com
-Address: 104.16.72.177
+www.50zw.co	canonical name = cdn.booktxtcdn.com.
+Name:	cdn.booktxtcdn.com
+Address: 194.59.220.67
+Name:	cdn.booktxtcdn.com
+Address: 194.59.220.66
+Name:	cdn.booktxtcdn.com
+Address: 194.59.220.65
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.17.4.63
-Name:	dcs.jqddos.xyz
-Address: 104.17.121.199
-Name:	dcs.jqddos.xyz
-Address: 104.25.99.78
-Name:	dcs.jqddos.xyz
-Address: 104.25.199.111
-Name:	dcs.jqddos.xyz
-Address: 104.25.93.82
-Name:	dcs.jqddos.xyz
-Address: 104.19.183.64
-Name:	dcs.jqddos.xyz
-Address: 104.16.192.49
-Name:	dcs.jqddos.xyz
-Address: 104.18.110.38
-Name:	dcs.jqddos.xyz
-Address: 104.19.176.140
-Name:	dcs.jqddos.xyz
-Address: 104.17.156.94
+cfrp.kryp.us.kg	canonical name = kry-pmc-ma-sg-zy-cf-rp.pages.dev.
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 104.21.96.1
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 104.21.80.1
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 104.21.64.1
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 104.21.32.1
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 104.21.112.1
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 104.21.16.1
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 104.21.48.1
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 2606:4700:3030::6815:5001
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 2606:4700:3030::6815:7001
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 2606:4700:3030::6815:3001
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 2606:4700:3030::6815:2001
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 2606:4700:3030::6815:4001
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 2606:4700:3030::6815:6001
+Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
+Address: 2606:4700:3030::6815:1001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.mfwzhs.com
-Address: 65.108.205.61
+Name:	www.xkx999.com
+Address: 103.224.212.214
 
