@@ -2,46 +2,42 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-chat.wawacm.com	canonical name = cffast.wawacm.com.
-cffast.wawacm.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+Name:	www.boyangjt.com
+Address: 104.16.104.218
+Name:	www.boyangjt.com
+Address: 104.16.72.177
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-guyu.bygzs.cc	canonical name = cdn2.wcnmtxnmsl.cn.
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.69
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.3
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.32
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.73
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.78
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.1
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.37
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.21
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.119
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.2
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.17.4.63
+Name:	dcs.jqddos.xyz
+Address: 104.17.121.199
+Name:	dcs.jqddos.xyz
+Address: 104.25.99.78
+Name:	dcs.jqddos.xyz
+Address: 104.25.199.111
+Name:	dcs.jqddos.xyz
+Address: 104.25.93.82
+Name:	dcs.jqddos.xyz
+Address: 104.19.183.64
+Name:	dcs.jqddos.xyz
+Address: 104.16.192.49
+Name:	dcs.jqddos.xyz
+Address: 104.18.110.38
+Name:	dcs.jqddos.xyz
+Address: 104.19.176.140
+Name:	dcs.jqddos.xyz
+Address: 104.17.156.94
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find wz.weishao2023.dk.eu.org: NXDOMAIN
+Non-authoritative answer:
+Name:	www.mfwzhs.com
+Address: 65.108.205.61
 

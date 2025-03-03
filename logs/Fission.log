@@ -32221,3 +32221,25 @@ Performing DNS lookup for www.77yeye.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a36c8aa] Update project files
+ 4 files changed, 87 insertions(+), 67 deletions(-)
+ rewrite dns_result.txt (83%)
+To github.com:amo0114/cfipv6.git
+   355b1ea..a36c8aa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.241.229...
+Fetching domains for 190.93.247.169...
+Fetching domains for 188.114.96.125...
+succeed to fetch domains for 190.93.247.169 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.241.229 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.96.125 from https://ipchaxun.com/
+域名列表为
+['mmiyy.com', 'www.51jion.com', 'stock.hostmonit.com', 'www.zgjmw.net', 'www.suboji.com', 'www.0550cq.com', 'uu93.com', 'www.paizipai.top', 'www.90dushu.com', 'www.11txt.com', 'www.4gdiy.com', 'www.vcd.la', 'cipuji.com', '181ge.com', 'www.99wx.cc', 'www.iios.club', 'www.smdyy.cc', 'www.tv9090.com', 'wei333.com', 'archives.vip', 'chalaoshi.de', 'www.kanmanhuala.cc', 'tv9090.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.hanmatv.com', 'dsxys.com', 'www.hnxinlian.org', 'dsxys.pro', 'wz.weishao2023.dk.eu.org', 'www.zhanglao8.fun', 'm.niuerzs.com', 'didiyunhu.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.92mili.com', 'zi0.cc', 'cnamefuckxxs.yuchen.icu', 'guyu.bygzs.cc', 'www.93xscc.com', 'www.cocanwelding.com', 'suboji.com', 'www.wxxzzs.com', 'www.jhhtech.com', 'www.57txt.com', 'sgv7.com', 'www.web120.org', 'www.dj5157.com', 'cfip.xxxxxxxx.tk', 'www.235t.com', 'www.99wxw.cc', 'www.uu93.com', 'e0101.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.myvod360.com', '1165vip.com', 'www.6i5.com', 'www.tinghen.com', 'cf-lt.sharecentre.online', 'www.4148.net', '0550cq.com', 'chat.wawacm.com', 'www.ddwhm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for chat.wawacm.com...
+Performing DNS lookup for guyu.bygzs.cc...
+Performing DNS lookup for wz.weishao2023.dk.eu.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
