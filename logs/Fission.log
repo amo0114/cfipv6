@@ -32439,3 +32439,25 @@ Performing DNS lookup for vv1234.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bddd0aa] Update project files
+ 4 files changed, 61 insertions(+), 76 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   0da258e..bddd0aa  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.246.67...
+Fetching domains for 104.18.228.35...
+Fetching domains for 104.17.127.110...
+succeed to fetch domains for 104.18.228.35 from https://site.ip138.com/
+succeed to fetch domains for 190.93.246.67 from https://site.ip138.com/
+succeed to fetch domains for 104.17.127.110 from https://dnsdblookup.com/
+域名列表为
+['wei333.com', 'm.6i5.com', 'www.kanunu2.com', 'www.suboji.com', 'www.6i5.com', 'www.kx10.com', 'www.90dushu.com', 'www.huanyaad.com', 'www.uu93.com', 'www.jsmx999.com', 'www.fnyy.net', 'sgv7.com', 'blog.hostmonit.com', 'gtts.life', 'www.tv9090.com', 'www.ayuer.com', '8810868.com', 'www.33mov.com', 'www.888dyy.cc', 'www.qf527.com', 'www.cfhuagong.com', 'www.zzgszg.com', 'www.longwangchuanshuo.com', 'cfip.xxxxxxxx.tk', 'suboji.com', 'www.zongcaixs.cc', 'chalaoshi.de', 'm.boyangjt.com', 'www.boyangjt.com', 'www.116.ag', 'www.96dushu.com', '63ws.com', 'www.longwangchuanshuo.net', 'www.tuozhan22.com', 'uu93.com', 'www.cbcv.cc', 'www.qp666.com', 'www.679077.com', 'stock.hostmonit.com', 'www.77zw.cc', 'qp66.com', 'www.tinghen.com', '7sc.cc', 'www.93xscc.com', 'www.e0101.com', 'www.xwbhk.com', 'www.28dushu.com', 'www.991kan.com', 'www.3dck.com', '0702.rr.nu', 'www.tushencn.com', 'www.0550cq.com', 'www.11txt.com', 'www.4gdiy.com', 'boyangjt.com', 'e0101.com', 'www.nitianxieshen.com', '606977.com', 'www.kanju8.com', 'www.paizipai.top', 'www.b7yy.cc', 'jp57.cc', 'www.dypf8.com', 'www.dy1255.com', 'www.lailai360.com', 'vv1234.cn', 'www.qindi.net', 'www.hg0389.com', 'www.99wx.cc', 'a397.cc', 'ag.hg2096.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.nitianxieshen.com...
+Performing DNS lookup for www.zzgszg.com...
+Performing DNS lookup for m.boyangjt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

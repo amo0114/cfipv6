@@ -2,27 +2,35 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.nitianxieshen.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.153.138
-Name:	ips.993888.xyz
-Address: 104.17.204.130
-Name:	ips.993888.xyz
-Address: 104.16.10.107
+www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 104.21.53.57
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 172.67.209.38
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:d126
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:3539
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zzgszg.com
-Address: 208.98.43.11
+Name:	www.sxyzxh.com
+Address: 208.98.40.76
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m.boyangjt.com
-Address: 104.16.72.177
-Name:	m.boyangjt.com
-Address: 104.16.104.218
+chalaoshi.de	canonical name = shop.hostmonit.com.
+shop.hostmonit.com	canonical name = shop.hostmonit.com.cdn.cloudflare.net.
+Name:	shop.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	shop.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	shop.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	shop.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
