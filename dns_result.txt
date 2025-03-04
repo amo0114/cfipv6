@@ -2,55 +2,27 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.xkx999.com
-Address: 103.224.212.214
+www.nitianxieshen.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.153.138
+Name:	ips.993888.xyz
+Address: 104.17.204.130
+Name:	ips.993888.xyz
+Address: 104.16.10.107
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.228.35
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.105.1
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.91.19
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.255.53
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.246.67
-Name:	cfip.xxxxxxxx.tk
-Address: 104.27.21.118
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.96.125
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.214.141
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.127.110
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.241.229
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.97.144
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.247.169
+Name:	www.zzgszg.com
+Address: 208.98.43.11
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-vv1234.cn	canonical name = vv1234.cn.cdn.cloudflare.net.
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 104.21.41.166
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 172.67.191.185
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 2606:4700:3030::ac43:bfb9
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 2606:4700:3036::6815:29a6
+Name:	m.boyangjt.com
+Address: 104.16.72.177
+Name:	m.boyangjt.com
+Address: 104.16.104.218
 
