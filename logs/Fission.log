@@ -32633,3 +32633,26 @@ Performing DNS lookup for www.suzakucoin.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2cad055] Update project files
+ 4 files changed, 230 insertions(+), 31 deletions(-)
+ rewrite Fission_ip_backup.txt (60%)
+ rewrite dns_result.txt (61%)
+To github.com:amo0114/cfipv6.git
+   f422838..2cad055  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 104.25.105.1...
+Fetching domains for 104.18.228.35...
+succeed to fetch domains for 188.114.96.125 from https://site.ip138.com/
+succeed to fetch domains for 104.25.105.1 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.228.35 from https://ipchaxun.com/
+域名列表为
+['vv1234.cn', 'www.wubei520.com', 'www.kanunu2.com', 'www.longwangchuanshuo.com', 'www.93xscc.com', 'cnamefuckxxs.yuchen.icu', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.qindi.net', 'guyu.bygzs.cc', '181ge.com', 'www.tl123123.com', 'www.lailai360.com', 'www.wecaidan.com', '1165vip.com', 'cfip.xxxxxxxx.tk', 'www.hhyy028.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.hhyy028.com...
+Performing DNS lookup for www.wecaidan.com...
+Performing DNS lookup for cnamefuckxxs.yuchen.icu...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
