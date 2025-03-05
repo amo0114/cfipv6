@@ -2,51 +2,18 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.wubei520.com	canonical name = cf.host106.america96.com.
-Name:	cf.host106.america96.com
-Address: 104.21.32.1
-Name:	cf.host106.america96.com
-Address: 104.21.112.1
-Name:	cf.host106.america96.com
-Address: 104.21.48.1
-Name:	cf.host106.america96.com
-Address: 104.21.64.1
-Name:	cf.host106.america96.com
-Address: 104.21.80.1
-Name:	cf.host106.america96.com
-Address: 104.21.96.1
-Name:	cf.host106.america96.com
-Address: 104.21.16.1
-Name:	cf.host106.america96.com
-Address: 2606:4700:3030::6815:5001
-Name:	cf.host106.america96.com
-Address: 2606:4700:3030::6815:4001
-Name:	cf.host106.america96.com
-Address: 2606:4700:3030::6815:7001
-Name:	cf.host106.america96.com
-Address: 2606:4700:3030::6815:3001
-Name:	cf.host106.america96.com
-Address: 2606:4700:3030::6815:2001
-Name:	cf.host106.america96.com
-Address: 2606:4700:3030::6815:1001
-Name:	cf.host106.america96.com
-Address: 2606:4700:3030::6815:6001
+Name:	www.yjeky.com
+Address: 154.219.142.235
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.hnkswh.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.19.59.31
-Name:	ips.993888.xyz
-Address: 104.20.20.199
-Name:	ips.993888.xyz
-Address: 104.20.184.71
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
+Name:	tv9090.com
+Address: 208.98.40.204
 

@@ -32504,3 +32504,25 @@ Performing DNS lookup for www.hengdawatch.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9d4a8f5] Update project files
+ 4 files changed, 90 insertions(+), 67 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   ff26565..9d4a8f5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.21.118...
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.16.241.229...
+succeed to fetch domains for 104.20.255.53 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.241.229 from https://ipchaxun.com/
+succeed to fetch domains for 104.27.21.118 from https://ipchaxun.com/
+域名列表为
+['www.90qr.com', 'www.cocanwelding.com', 'www.99wxw.cc', 'www.99wx.cc', 'www.339my.xyz', 'www.xkx999.com', 'www.hhyy028.com', 'www.kanmanhuala.cc', 'www.93xscc.com', 'www.57txt.com', 'vv1234.cn', 'cfip.xxxxxxxx.tk', 'www.tockt.com', 'www.wubei520.com', 'www.999yh.vip', 'dsxys.com', 'www.pk299.com', 'm90s.com', 'www.295k.com', 'm.niuerzs.com', 'www.5522tl.com', 'didiyunhu.com', 'fa1.fun']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wubei520.com...
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for m.niuerzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
