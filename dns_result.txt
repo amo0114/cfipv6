@@ -1,19 +1,22 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.yjeky.com
-Address: 154.219.142.235
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.hnkswh.com: SERVFAIL
+** server can't find www.339my.xyz: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	tv9090.com
-Address: 208.98.40.204
+Name:	www.xkx999.com
+Address: 103.224.212.214
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+1165vip.com	canonical name = vipkanba-luo.b-cdn.net.
+Name:	vipkanba-luo.b-cdn.net
+Address: 138.199.9.104
+Name:	vipkanba-luo.b-cdn.net
+Address: 2400:52e0:1a01::954:1
 
