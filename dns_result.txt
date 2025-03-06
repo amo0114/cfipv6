@@ -1,118 +1,31 @@
-;; Truncated, retrying in TCP mode.
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.205
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.216
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.200
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.208
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.240
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.218
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.247
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.222
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.242
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.234
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.214
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.235
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.231
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.241
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.223
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.209
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.219
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.212
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.220
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.203
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.202
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.213
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.237
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.204
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.238
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.210
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.217
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.215
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.249
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.244
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.211
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.206
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.227
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.226
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.243
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.225
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.228
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.239
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.232
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.207
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.201
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.221
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.224
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.233
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.246
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.245
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.230
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.236
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.248
-Name:	cnamefuckxxs.yuchen.icu
-Address: 173.245.49.229
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.haqiandu.com: NXDOMAIN
+yundunwawablogcdn1yd.wawacm.com	canonical name = cffast.wawacm.com.
+cffast.wawacm.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.scxdexx.com
-Address: 208.98.43.20
+www.web120.org	canonical name = sbcdn.cc.
+Name:	sbcdn.cc
+Address: 141.101.122.122
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
