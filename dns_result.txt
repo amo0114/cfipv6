@@ -2,36 +2,18 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-1165vip.com	canonical name = vipkanba-luo.b-cdn.net.
-Name:	vipkanba-luo.b-cdn.net
-Address: 143.244.49.177
-Name:	vipkanba-luo.b-cdn.net
-Address: 2400:52e0:1a01::1108:1
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.ddkan.tv: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	devochki18.com
-Address: 104.21.91.19
-Name:	devochki18.com
-Address: 172.67.208.50
-Name:	devochki18.com
-Address: 2606:4700:3034::6815:5b13
-Name:	devochki18.com
-Address: 2606:4700:3035::ac43:d032
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.77yeye.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	www.sxyzxh.com
+Address: 208.98.40.20
 
