@@ -1,47 +1,19 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-*** Can't find cfip.xxxxxxxx.tk: No answer
+Non-authoritative answer:
+Name:	www.mfwzhs.com
+Address: 65.108.205.61
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.10zhanpai.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m.boyangjt.com
-Address: 104.16.104.218
-Name:	m.boyangjt.com
-Address: 104.16.72.177
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	wap.pkpkh32.top
-Address: 104.21.16.1
-Name:	wap.pkpkh32.top
-Address: 104.21.112.1
-Name:	wap.pkpkh32.top
-Address: 104.21.96.1
-Name:	wap.pkpkh32.top
-Address: 104.21.32.1
-Name:	wap.pkpkh32.top
-Address: 104.21.64.1
-Name:	wap.pkpkh32.top
-Address: 104.21.80.1
-Name:	wap.pkpkh32.top
-Address: 104.21.48.1
-Name:	wap.pkpkh32.top
-Address: 2606:4700:3030::6815:7001
-Name:	wap.pkpkh32.top
-Address: 2606:4700:3030::6815:3001
-Name:	wap.pkpkh32.top
-Address: 2606:4700:3030::6815:2001
-Name:	wap.pkpkh32.top
-Address: 2606:4700:3030::6815:1001
-Name:	wap.pkpkh32.top
-Address: 2606:4700:3030::6815:6001
-Name:	wap.pkpkh32.top
-Address: 2606:4700:3030::6815:4001
-Name:	wap.pkpkh32.top
-Address: 2606:4700:3030::6815:5001
+Name:	www.0550cq.com
+Address: 172.247.166.142
 
