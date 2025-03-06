@@ -1,28 +1,47 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.cfhuagong.com
-Address: 162.209.149.30
+*** Can't find cfip.xxxxxxxx.tk: No answer
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
+Name:	m.boyangjt.com
+Address: 104.16.104.218
+Name:	m.boyangjt.com
+Address: 104.16.72.177
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.longwangchuanshuo.net	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.114.201
-Name:	ips.993888.xyz
-Address: 104.16.113.195
-Name:	ips.993888.xyz
-Address: 104.17.244.27
+Name:	wap.pkpkh32.top
+Address: 104.21.16.1
+Name:	wap.pkpkh32.top
+Address: 104.21.112.1
+Name:	wap.pkpkh32.top
+Address: 104.21.96.1
+Name:	wap.pkpkh32.top
+Address: 104.21.32.1
+Name:	wap.pkpkh32.top
+Address: 104.21.64.1
+Name:	wap.pkpkh32.top
+Address: 104.21.80.1
+Name:	wap.pkpkh32.top
+Address: 104.21.48.1
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:7001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:3001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:2001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:1001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:6001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:4001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:5001
 
