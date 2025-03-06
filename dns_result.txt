@@ -1,42 +1,17 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.246.67
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.127.110
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.96.125
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.214.141
-Name:	cfip.xxxxxxxx.tk
-Address: 104.27.21.118
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.241.229
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
+** server can't find www.qf527.com: NXDOMAIN
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.tushencn.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.57txt.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.20.191.138
-Name:	ips.993888.xyz
-Address: 104.19.166.251
-Name:	ips.993888.xyz
-Address: 104.18.83.103
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	dsxys.com
-Address: 192.64.119.232
+Name:	www.ayuer.com
+Address: 103.224.212.211
 
