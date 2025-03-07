@@ -32917,3 +32917,24 @@ Performing DNS lookup for www.wxxzzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5580c03] Update project files
+ 4 files changed, 45 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   eef4e91..5580c03  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.241.229...
+Fetching domains for 190.93.246.67...
+Fetching domains for 104.27.21.118...
+succeed to fetch domains for 104.16.241.229 from https://site.ip138.com/
+succeed to fetch domains for 104.27.21.118 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.246.67 from https://ipchaxun.com/
+域名列表为
+['www.kanmanhuala.cc', 'www.uu93.com', '63ws.com', 'a397.cc', 'www.tinghen.com', 'www.cocanwelding.com', '8810868.com', 'www.tushencn.com', 'gtts.life', 'uu93.com', 'm.6i5.com', 'didiyunhu.com', 'www.lailai360.com', 'www.93xscc.com', 'cfip.xxxxxxxx.tk', 'www.kanju8.com', 'www.e0101.com', 'www.qp666.com', 'ag.hg2096.com', 'sgv7.com', 'www.fnyy.net', 'www.dy1255.com', 'www.888dyy.cc', 'www.11txt.com', 'www.paizipai.top', 'www.6i5.com', 'suboji.com', 'wei333.com', 'www.99wx.cc', 'www.kanunu2.com', 'www.dypf8.com', '7sc.cc', 'www.zongcaixs.cc', 'www.tuozhan22.com', 'www.679077.com', 'www.99wxw.cc', 'm.boyangjt.com', 'boyangjt.com', '0702.rr.nu', 'blog.hostmonit.com', 'www.kx10.com', 'www.cbcv.cc', 'e0101.com', '606977.com', 'www.suboji.com', 'www.nitianxieshen.com', 'www.96dushu.com', 'www.116.ag', 'chalaoshi.de', 'www.qf527.com', 'www.33mov.com', 'www.991kan.com', 'www.77zw.cc', 'vv1234.cn', 'www.90dushu.com', 'www.3dck.com', 'www.xwbhk.com', 'www.tv9090.com', 'www.jsmx999.com', 'm.niuerzs.com', 'jp57.cc', 'www.huanyaad.com', 'www.ayuer.com', 'qp66.com', 'stock.hostmonit.com', 'www.boyangjt.com', 'dsxys.com', 'www.28dushu.com', 'www.57txt.com', 'www.hg0389.com', 'www.4gdiy.com', 'www.zzgszg.com', 'www.0550cq.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.fnyy.net...
+Performing DNS lookup for www.33mov.com...
+Performing DNS lookup for 7sc.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
