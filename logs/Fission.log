@@ -32896,3 +32896,24 @@ Performing DNS lookup for www.wecaidan.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main eef4e91] Update project files
+ 4 files changed, 41 insertions(+), 15 deletions(-)
+To github.com:amo0114/cfipv6.git
+   224d20e..eef4e91  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.241.229...
+Fetching domains for 188.114.97.144...
+Fetching domains for 190.93.247.169...
+succeed to fetch domains for 188.114.97.144 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.247.169 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.241.229 from https://dnsdblookup.com/
+域名列表为
+['lao310.com', 'www.11txt.com', 'www.ddwhm.com', 'www.zhanglao8.fun', 'chat.wawacm.com', 'lao304.com', 'cf-lt.sharecentre.online', 'www.zgjmw.net', 'www.51jion.com', 'e0101.com', 'm.niuerzs.com', 'www.tinghen.com', 'suboji.com', 'zi0.cc', 'www.web120.org', 'didiyunhu.com', 'uu93.com', 'www.uu93.com', 'www.smdyy.cc', 'www.iios.club', 'dsxys.pro', 'www.wxxzzs.com', 'www.cocanwelding.com', 'www.dj5157.com', 'www.hanmatv.com', 'cipuji.com', 'www.suboji.com', 'cfip.xxxxxxxx.tk', 'www.tv9090.com', 'www.4148.net', 'mmiyy.com', 'www.4gdiy.com', 'www.99wx.cc', 'www.hnxinlian.org', 'www.vcd.la', 'bestproxy.030101.xyz', 'yundunwawablogcdn1dx.wawacm.com', 'www.235t.com', 'yundunwawablogcdn1yd.wawacm.com', 'wz.weishao2023.dk.eu.org', 'www.jhhtech.com', '0550cq.com', 'www.92mili.com', 'dsxys.com', 'wei333.com', 'www.6i5.com', 'archives.vip', 'www.99wxw.cc', 'sgv7.com', 'stock.hostmonit.com', 'tv9090.com', 'vv1234.cn', 'www.93xscc.com', 'www.kanmanhuala.cc', 'www.0550cq.com', 'www.myvod360.com', 'www.57txt.com', 'chalaoshi.de', 'www.paizipai.top', 'www.90dushu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zgjmw.net...
+Performing DNS lookup for www.smdyy.cc...
+Performing DNS lookup for www.wxxzzs.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
