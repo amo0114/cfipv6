@@ -33045,3 +33045,24 @@ Performing DNS lookup for www.hnxinlian.org...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ead0156] Update project files
+ 4 files changed, 42 insertions(+), 18 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7590208..ead0156  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.110...
+Fetching domains for 198.41.212.130...
+Fetching domains for 104.27.21.118...
+succeed to fetch domains for 104.17.127.110 from https://site.ip138.com/
+succeed to fetch domains for 104.27.21.118 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.212.130 from https://dnsdblookup.com/
+域名列表为
+['blog.hostmonit.com', 'm.tushencn.com', 'www.cfhuagong.com', 'www.80yy.org', 'www.axxsjx.com', 'tv9090.com', 'yundunwawablogcdn1dx.wawacm.com', 'cfip.xxxxxxxx.tk', 'www.longwangchuanshuo.net', 'aktv.top', 'www.hengdawatch.com', 'www.33mov.com', 'www.sztimi.com', 'speed.marisalnc.com', 'www.boyangjt.com', 'nlsdwsz.66666654.xyz', 'www.28dushu.com', 'www.tuozhan22.com', 'www.lnudz.com', 'cfrp.kryp.us.kg', 'www.tv9090.com', 'www.11txt.com', 'baxtc.66666654.xyz', 'www.web120.org', 'www.6i5.com', 'proxyip.digitalocean.fxxk.dedyn.io', 'www.4148.net', 'www.qumiyun.com', 'www.0550cq.com', 'hx.746556.xyz', 'jhpcza.66666654.xyz', 'cf1.492745.xyz', 'vv1234.cn', 'cf-lt.sharecentre.online', 'stock.hostmonit.com', 'www.888dyy.cc', 'xs.wxtv.cc', 'www.b7yy.cc', 'www.dy1255.com', 'www.apboxi.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'zi0.cc', 'www.haqiandu.com', 'www.ddwhm.com', 'www.38yy.cn', 'ukcc.digicert.pp.ua', 'www.96dushu.com', 'www.xinjuc.com', 'www.xxpg888.com', 'www.paizipai.top', 'www.mgwheelaxle.com', 'www.hnxinlian.org', 'www.mfwzhs.com', 'yundunwawablogcdn1yd.wawacm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.80yy.org...
+Performing DNS lookup for www.hnxinlian.org...
+Performing DNS lookup for www.qumiyun.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
