@@ -33132,3 +33132,25 @@ Performing DNS lookup for dsxys.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9424bc8] Update project files
+ 4 files changed, 65 insertions(+), 40 deletions(-)
+ rewrite dns_result.txt (62%)
+To github.com:amo0114/cfipv6.git
+   093efd5..9424bc8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.91.19...
+Fetching domains for 104.25.105.1...
+Fetching domains for 104.16.232.223...
+succeed to fetch domains for 104.16.232.223 from https://site.ip138.com/
+succeed to fetch domains for 104.25.105.1 from https://site.ip138.com/
+succeed to fetch domains for 104.21.91.19 from https://dnsdblookup.com/
+域名列表为
+['mmh3gf.com', 'www.mtsijkh.top', '52poke.wiki', 'www.aprysw.com', 'www.tingshuyan.com', 'yhdmxzw.com', 'mangalam.com', 'www.yhdmxzw.com', 'www.991kan.com', 'www.leyuzycdn.com', 'www.wubei520.com', 'www.hhyy028.com', '9knm.top', 'www.651yy.com', '651yy.com', 'mixie.asia', 'aspecialdayguide.com', 'www.bfb3.com', 'www.wecaidan.com', 'cs487vkj0q.xyz', 'www.swuxfdc.cn', 'teslacentral.com', 'yourkeymall.com', 'www.whpaiger.com', 'devochki18.com', 'www.zhongguotv.com', 'gh.con.sh', 'tingshuyan.com', 'deagledrop.com', 'gx.316786.xyz', 'zhongguotv.com', 'www.77yeye.com', 'nigdeisletme.com', 'mtsijkh.top', 'm.mtsijkh.top', 'vv1234.cn', 'm.zhankuu.com', 'x99av4978.xyz', 'www.zhankuu.com', 'www.wenchuanzhaopin.com', 'coinbasechain.org', 'inkpiu.it', 'www.mmh3gf.com', 's1.52poke.wiki', 'www.penglecheng.com', 'jiba09.top', 'www.zzztch.com', 'www.tianyunxingmm.com', 'wap.pkpkh32.top', 'www.yourkeymall.com', 'www.bumphillipscharities.com', 'mo.skmbbio.com', 'cfip.xxxxxxxx.tk', 'glamourescorts69.com', 'www.tl123123.com', '69av7216.cc', 's0.52poke.wiki', 'wenchuanzhaopin.com', 'www.gzaode.com', '6a1070.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.yourkeymall.com...
+Performing DNS lookup for www.aprysw.com...
+Performing DNS lookup for mtsijkh.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
