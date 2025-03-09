@@ -2,43 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.105.1
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.246.67
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.97.144
-Name:	cfip.xxxxxxxx.tk
-Address: 104.27.21.118
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.127.110
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.214.141
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.96.125
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.241.229
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find mmh3gf.com: NXDOMAIN
+Name:	0550cq.com
+Address: 172.247.166.142
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.kanunu2.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 104.21.30.140
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 172.67.172.249
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:1e8c
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:acf9
 
