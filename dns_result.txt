@@ -2,49 +2,36 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	0550cq.com
-Address: 172.247.166.142
+Name:	www.boyangjt.com
+Address: 104.16.72.177
+Name:	www.boyangjt.com
+Address: 104.16.104.218
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.241.229
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.246.67
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.255.53
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.105.1
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.96.125
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.97.144
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.247.169
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.127.110
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.228.35
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.91.19
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.214.141
-Name:	cfip.xxxxxxxx.tk
-Address: 104.27.21.118
+www.888dyy.cc	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.pwcai.com
-Address: 54.193.208.148
-** server can't find www.pwcai.com: SERVFAIL
+www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 104.21.53.57
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 172.67.209.38
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:3539
+Name:	www.6i5.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:d126
 

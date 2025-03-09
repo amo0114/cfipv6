@@ -33263,3 +33263,25 @@ Performing DNS lookup for cf-lt.sharecentre.online...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main e22dda8] Update project files
+ 4 files changed, 90 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   c7374a6..e22dda8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 104.20.255.53...
+Fetching domains for 190.93.244.201...
+succeed to fetch domains for 190.93.244.201 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.255.53 from https://ipchaxun.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'www.pk299.com', '7y26.com', 'www.web120.org', 'womyt.com', '181ge.com', 'www.paizipai.top', 'www.50zw.co', 'www.hnxinlian.org', 'www.ddkan.tv', 'www.sxyzxh.com', 'www.uu93.com', '606977.com', 'www.6988tv.com', 'www.gzlatin.com', 'qr99.cc', 'www.77zw.cc', 'www.wn01.cc', 'uu93.com', 'www.606977.com', 'www.90qr.com', 'www.tockt.com', 'www.999yh.vip', 'www.4gdiy.com', 'www.tv9090.com', 'www.wubei520.com', '923055.com', 'www.5522tl.com', 'www.zhiqihuo.com', 'vv1234.cn', 'acjp2.cloudflarest.link', 'www.hanjutv5.com', 'm90s.com', 'www.bimiacg.net', 'ei01.com', 'cf1.492745.xyz', 'cf-lt.sharecentre.online', 'panel3.touhou.tel', 'www.339my.xyz', '8810868.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.tinghen.com', 'www.4148.net', 'www.u9yy.com', 'cnamefuckxxs.yuchen.icu', 'm.mw171.com', 'www.huaidan1.com', 'www.xkx999.com', 'fa1.fun', 'guyu.bygzs.cc', 'tv9090.com', 'bestproxy.030101.xyz', '0550cq.com', 'www.pwcai.com', 'www.11txt.com', 'ayuer.com', 'www.zzgszg.com', '65bao2.com', 'www.hhyy028.com', 'ddkan.tv', 'www.295k.com', 'www.7sc.cc', '1165vip.com', 'cfrp.kryp.us.kg']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 0550cq.com...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for www.pwcai.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
