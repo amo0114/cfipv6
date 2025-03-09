@@ -33307,3 +33307,25 @@ Performing DNS lookup for www.6i5.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main dd387a8] Update project files
+ 4 files changed, 105 insertions(+), 48 deletions(-)
+ rewrite dns_result.txt (74%)
+To github.com:amo0114/cfipv6.git
+   a000d84..dd387a8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.110...
+Fetching domains for 104.27.21.118...
+Fetching domains for 190.93.244.201...
+succeed to fetch domains for 190.93.244.201 from https://site.ip138.com/
+succeed to fetch domains for 104.17.127.110 from https://ipchaxun.com/
+succeed to fetch domains for 104.27.21.118 from https://ipchaxun.com/
+域名列表为
+['cf1.492745.xyz', 'www.hnxinlian.org', 'm.mw171.com', 'www.606977.com', '7y26.com', 'www.web120.org', '8810868.com', 'uu93.com', 'www.paizipai.top', 'ayuer.com', 'www.wn01.cc', 'www.zzgszg.com', 'www.11txt.com', 'www.tinghen.com', 'www.huaidan1.com', 'cfrp.kryp.us.kg', '0550cq.com', 'www.uu93.com', 'www.longwangchuanshuo.net', 'www.cfhuagong.com', 'vv1234.cn', 'www.pwcai.com', 'tv9090.com', 'www.6988tv.com', 'www.u9yy.com', 'www.b7yy.cc', 'www.4gdiy.com', 'www.7sc.cc', 'www.sxyzxh.com', 'bestproxy.030101.xyz', 'womyt.com', 'www.4148.net', 'ddkan.tv', 'www.ddkan.tv', 'acjp2.cloudflarest.link', 'www.zhiqihuo.com', 'www.bimiacg.net', 'panel3.touhou.tel', 'cf-lt.sharecentre.online', '606977.com', 'www.50zw.co', '923055.com', 'www.hanjutv5.com', 'cfip.xxxxxxxx.tk', 'ei01.com', '65bao2.com', 'www.77zw.cc', 'qr99.cc', 'www.tv9090.com', 'www.gzlatin.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wn01.cc...
+Performing DNS lookup for www.tinghen.com...
+Performing DNS lookup for uu93.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
