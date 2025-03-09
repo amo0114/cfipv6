@@ -33241,3 +33241,25 @@ Performing DNS lookup for www.28dushu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c7374a6] Update project files
+ 4 files changed, 56 insertions(+), 94 deletions(-)
+ rewrite dns_result.txt (88%)
+To github.com:amo0114/cfipv6.git
+   48de5d8..c7374a6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.97.144...
+Fetching domains for 198.41.212.130...
+Fetching domains for 104.16.241.229...
+succeed to fetch domains for 104.16.241.229 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.97.144 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.212.130 from https://dnsdblookup.com/
+域名列表为
+['www.qumiyun.com', 'vv1234.cn', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.lnudz.com', 'stock.hostmonit.com', 'www.mfwzhs.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.xxpg888.com', 'jhpcza.66666654.xyz', 'www.tv9090.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.paizipai.top', 'www.dy1255.com', 'zi0.cc', 'www.cocanwelding.com', 'dsxys.com', 'www.apboxi.com', 'www.ddwhm.com', 'www.33mov.com', 'www.boyangjt.com', 'www.4148.net', 'tv9090.com', 'xs.wxtv.cc', 'lao304.com', 'ukcc.digicert.pp.ua', 'www.xinjuc.com', 'www.web120.org', 'www.888dyy.cc', 'www.haqiandu.com', 'www.11txt.com', 'www.tuozhan22.com', 'cfrp.kryp.us.kg', 'www.kanmanhuala.cc', 'lao310.com', 'www.57txt.com', 'm.niuerzs.com', 'www.6i5.com', 'cfip.xxxxxxxx.tk', 'www.axxsjx.com', 'proxyip.digitalocean.fxxk.dedyn.io', 'www.28dushu.com', 'www.99wx.cc', 'blog.hostmonit.com', 'www.38yy.cn', 'cf1.492745.xyz', 'bestproxy.030101.xyz', 'speed.marisalnc.com', 'www.mgwheelaxle.com', 'www.96dushu.com', 'cf-lt.sharecentre.online', 'didiyunhu.com', 'www.hnxinlian.org', 'www.hengdawatch.com', 'www.80yy.org', 'm.tushencn.com', 'www.93xscc.com', 'nlsdwsz.66666654.xyz', 'www.sztimi.com', 'baxtc.66666654.xyz', 'www.99wxw.cc', 'www.0550cq.com', 'hx.746556.xyz', 'aktv.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.haqiandu.com...
+Performing DNS lookup for www.tuozhan22.com...
+Performing DNS lookup for cf-lt.sharecentre.online...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
