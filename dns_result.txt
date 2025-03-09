@@ -2,24 +2,25 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.swuxfdc.cn
-Address: 156.236.225.160
+Name:	www.penglecheng.com
+Address: 134.122.184.247
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	s0.52poke.wiki
-Address: 172.67.208.50
-Name:	s0.52poke.wiki
-Address: 104.21.91.19
-Name:	s0.52poke.wiki
-Address: 2606:4700:3035::ac43:d032
-Name:	s0.52poke.wiki
-Address: 2606:4700:3034::6815:5b13
+Name:	www.zzztch.com
+Address: 208.98.40.16
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.mmh3gf.com: NXDOMAIN
+Non-authoritative answer:
+www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.63.96
+Name:	ips.993888.xyz
+Address: 104.18.233.128
+Name:	ips.993888.xyz
+Address: 104.17.198.73
 
