@@ -2,27 +2,33 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	923055.com
-Address: 103.224.182.219
+www.huaidan1.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.220.5
+Name:	ips.993888.xyz
+Address: 104.16.115.95
+Name:	ips.993888.xyz
+Address: 104.17.140.143
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.cbcv.cc	canonical name = cbcv.cc.
-cbcv.cc	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+Name:	bestproxy.030101.xyz
+Address: 129.151.225.228
+Name:	bestproxy.030101.xyz
+Address: 193.123.80.245
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 8810868.com: NXDOMAIN
+Non-authoritative answer:
+Name:	7y26.com
+Address: 172.67.219.29
+Name:	7y26.com
+Address: 104.21.62.29
+Name:	7y26.com
+Address: 2606:4700:3034::6815:3e1d
+Name:	7y26.com
+Address: 2606:4700:3030::ac43:db1d
 
