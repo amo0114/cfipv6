@@ -33442,3 +33442,29 @@ Performing DNS lookup for www.longwangchuanshuo.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cf2b720] Update project files
+ 4 files changed, 200 insertions(+), 23 deletions(-)
+ rewrite Fission_ip_backup.txt (77%)
+To github.com:amo0114/cfipv6.git
+   33c5cbc..cf2b720  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.16.232.223...
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+Error fetching domains for 104.16.232.223 from https://site.ip138.com/: HTTPSConnectionPool(host='site.ip138.com', port=443): Max retries exceeded with url: /104.16.232.223/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='site.ip138.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 104.16.232.223...
+Error fetching domains for 104.20.255.53 from https://site.ip138.com/: HTTPSConnectionPool(host='site.ip138.com', port=443): Max retries exceeded with url: /104.20.255.53/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='site.ip138.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 104.20.255.53...
+succeed to fetch domains for 104.20.255.53 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.232.223 from https://ipchaxun.com/
+域名列表为
+['guyu.bygzs.cc', 'm90s.com', 'cnamefuckxxs.yuchen.icu', 'www.90qr.com', 'www.999yh.vip', 'www.5522tl.com', 'www.tockt.com', 'teslacentral.com', 'www.whpaiger.com', 'www.xkx999.com', 'www.hhyy028.com', '1165vip.com', 'vv1234.cn', '181ge.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.bfb3.com', 'www.339my.xyz', 'cfip.xxxxxxxx.tk', 'www.295k.com', 'www.zzztch.com', 'www.wubei520.com', 'www.pk299.com', 'fa1.fun', 'gh.con.sh', 'www.penglecheng.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 1165vip.com...
+Performing DNS lookup for gh.con.sh...
+Performing DNS lookup for cnamefuckxxs.yuchen.icu...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
