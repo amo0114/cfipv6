@@ -33600,3 +33600,25 @@ Performing DNS lookup for 7y26.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f17390d] Update project files
+ 4 files changed, 78 insertions(+), 46 deletions(-)
+ rewrite dns_result.txt (66%)
+To github.com:amo0114/cfipv6.git
+   0de6d3f..f17390d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.21.118...
+Fetching domains for 190.93.244.201...
+Fetching domains for 188.114.96.125...
+succeed to fetch domains for 190.93.244.201 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+succeed to fetch domains for 104.27.21.118 from https://site.ip138.com/
+域名列表为
+['606977.com', 'www.hanjutv5.com', 'www.606977.com', 'www.huaidan1.com', 'womyt.com', 'm.mw171.com', 'www.bimiacg.net', 'www.u9yy.com', 'www.6988tv.com', 'guyu.bygzs.cc', 'www.zhiqihuo.com', '1165vip.com', 'www.web120.org', 'www.tv9090.com', 'qr99.cc', 'acjp2.cloudflarest.link', 'www.sxyzxh.com', '181ge.com', 'www.hnxinlian.org', 'ddkan.tv', 'www.pwcai.com', 'www.zzgszg.com', 'www.7sc.cc', 'cnamefuckxxs.yuchen.icu', 'www.4gdiy.com', 'vv1234.cn', 'cfrp.kryp.us.kg', 'www.11txt.com', 'cfip.xxxxxxxx.tk', 'panel3.touhou.tel', 'tv9090.com', 'www.uu93.com', 'ei01.com', 'www.50zw.co', 'ayuer.com', 'cf-lt.sharecentre.online', '923055.com', 'www.gzlatin.com', 'www.ddkan.tv', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', '7y26.com', 'www.tinghen.com', 'www.77zw.cc', 'www.wn01.cc', 'uu93.com', '65bao2.com', 'cf1.492745.xyz', '8810868.com', 'www.4148.net', '0550cq.com', 'bestproxy.030101.xyz', 'www.paizipai.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.6988tv.com...
+Performing DNS lookup for www.bimiacg.net...
+Performing DNS lookup for 181ge.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
