@@ -2,25 +2,28 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.web120.org	canonical name = sbcdn.cc.
-Name:	sbcdn.cc
-Address: 141.101.122.122
+Name:	606977.com
+Address: 69.16.230.165
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.syhlm.com
-Address: 193.134.208.92
-Name:	www.syhlm.com
-Address: 193.134.208.84
-Name:	www.syhlm.com
-Address: 45.58.53.222
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m.sxyzxh.com
-Address: 208.98.40.71
+Name:	7y26.com
+Address: 104.21.62.29
+Name:	7y26.com
+Address: 172.67.219.29
+Name:	7y26.com
+Address: 2606:4700:3030::ac43:db1d
+Name:	7y26.com
+Address: 2606:4700:3034::6815:3e1d
 
