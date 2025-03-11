@@ -1,44 +1,47 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 8810868.com: NXDOMAIN
+Non-authoritative answer:
+Name:	www.paizipai.top
+Address: 104.21.112.1
+Name:	www.paizipai.top
+Address: 104.21.64.1
+Name:	www.paizipai.top
+Address: 104.21.96.1
+Name:	www.paizipai.top
+Address: 104.21.48.1
+Name:	www.paizipai.top
+Address: 104.21.80.1
+Name:	www.paizipai.top
+Address: 104.21.16.1
+Name:	www.paizipai.top
+Address: 104.21.32.1
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:6001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:1001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:3001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:5001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:7001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:4001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:2001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-cfrp.kryp.us.kg	canonical name = kry-pmc-ma-sg-zy-cf-rp.pages.dev.
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 104.21.96.1
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 104.21.80.1
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 104.21.16.1
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 104.21.48.1
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 104.21.112.1
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 104.21.32.1
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 104.21.64.1
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 2606:4700:3030::6815:2001
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 2606:4700:3030::6815:6001
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 2606:4700:3030::6815:1001
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 2606:4700:3030::6815:5001
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 2606:4700:3030::6815:7001
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 2606:4700:3030::6815:3001
-Name:	kry-pmc-ma-sg-zy-cf-rp.pages.dev
-Address: 2606:4700:3030::6815:4001
+Name:	www.weizhijc.com
+Address: 65.108.205.61
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.suzakucoin.net: NXDOMAIN
+Non-authoritative answer:
+Name:	subodi.com
+Address: 162.209.175.124
 
