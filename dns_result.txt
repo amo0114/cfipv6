@@ -2,28 +2,28 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	606977.com
-Address: 69.16.230.165
+Name:	www.smdyy.cc
+Address: 208.98.40.201
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
+www.hnxinlian.org	canonical name = sbcdn.cc.
+Name:	sbcdn.cc
+Address: 141.101.122.122
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	7y26.com
-Address: 104.21.62.29
-Name:	7y26.com
-Address: 172.67.219.29
-Name:	7y26.com
-Address: 2606:4700:3030::ac43:db1d
-Name:	7y26.com
-Address: 2606:4700:3034::6815:3e1d
+www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 172.67.203.171
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 104.21.44.202
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:2cca
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:cbab
 
