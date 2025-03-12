@@ -2,53 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.18.198.226
-Name:	dcs.jqddos.xyz
-Address: 104.19.163.236
-Name:	dcs.jqddos.xyz
-Address: 104.19.182.22
-Name:	dcs.jqddos.xyz
-Address: 104.24.13.114
-Name:	dcs.jqddos.xyz
-Address: 104.24.86.222
-Name:	dcs.jqddos.xyz
-Address: 104.24.196.6
-Name:	dcs.jqddos.xyz
-Address: 104.25.207.39
-Name:	dcs.jqddos.xyz
-Address: 104.16.84.52
-Name:	dcs.jqddos.xyz
-Address: 104.17.42.70
-Name:	dcs.jqddos.xyz
-Address: 104.17.125.172
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.6i5.com	canonical name = www.6i5.com.cdn.cloudflare.net.
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 172.67.209.38
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 104.21.53.57
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:d126
-Name:	www.6i5.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:3539
+api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.apboxi.com
-Address: 104.21.43.104
-Name:	www.apboxi.com
-Address: 172.67.178.34
-Name:	www.apboxi.com
-Address: 2606:4700:3033::6815:2b68
-Name:	www.apboxi.com
-Address: 2606:4700:3036::ac43:b222
+Name:	www.yhdmxzw.com
+Address: 172.67.208.50
+Name:	www.yhdmxzw.com
+Address: 104.21.91.19
+Name:	www.yhdmxzw.com
+Address: 2606:4700:3035::ac43:d032
+Name:	www.yhdmxzw.com
+Address: 2606:4700:3034::6815:5b13
 
