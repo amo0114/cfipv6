@@ -33861,3 +33861,25 @@ Performing DNS lookup for www.90dushu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0740943] Update project files
+ 4 files changed, 55 insertions(+), 54 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   c2c8e65..0740943  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.232.223...
+Fetching domains for 104.21.91.19...
+Fetching domains for 190.93.247.169...
+succeed to fetch domains for 104.21.91.19 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.247.169 from https://site.ip138.com/
+succeed to fetch domains for 104.16.232.223 from https://dnsdblookup.com/
+域名列表为
+['www.aprysw.com', 'www.penglecheng.com', 'wz.weishao2023.dk.eu.org', 'nigdeisletme.com', 'zi0.cc', 'aspecialdayguide.com', 'www.bfb3.com', 'www.iios.club', 'www.dj5157.com', 'www.yourkeymall.com', '0550cq.com', 'www.235t.com', 'www.e0576f7b796298c9.com', 'www.925uu.com', 'www.gzaode.com', 'www.51jion.com', 'www.651yy.com', 'www.lingyi44.com', 's0.52poke.wiki', 'x99av4978.xyz', '88303.xyz', 'suboji.com', 'www.pianba.tv', 'uu93.com', 'm.zhankuu.com', 'www.92mili.com', 'm.mtsijkh.top', 'yundunwawablogcdn1yd.wawacm.com', 'wei333.com', 'www.tv9090.com', 'devochki18.com', 'gx.316786.xyz', 'vv1234.cn', 'mo.skmbbio.com', 'glamourescorts69.com', 'cf-lt.sharecentre.online', 'wap.pkpkh32.top', 'www.smdyy.cc', 'pianba.tv', 'www.77yeye.com', 'www.zzztch.com', 'chalaoshi.de', 'cs487vkj0q.xyz', 'appdh.app', 'www.0550cq.com', 'www.hanmatv.com', 'teslacentral.com', 'yhdmxzw.com', 'www.hnxinlian.org', 'wenchuanzhaopin.com', 'www.suzakucoin.net', 'archives.vip', 'www.bumphillipscharities.com', 'www.whpaiger.com', 'www.991kan.com', 'cfip.xxxxxxxx.tk', 's1.52poke.wiki', 'www.tianyunxingmm.com', 'suzakucoin.net', 'mangalam.com', '52poke.wiki', 'www.senge.xyz', 'www.90dushu.com', 'www.11txt.com', 'yundunwawablogcdn1dx.wawacm.com', '69av7216.cc', 'mtsijkh.top', 'www.jhhtech.com', 'dsxys.pro', 'deagledrop.com', 'stock.hostmonit.com', 'tingshuyan.com', 'www.eevv99.com', 'tv9090.com', 'www.mmh3gf.com', 'www.uu93.com', 'm.zhongguotv.com', 'www.web120.org', 'www.yase775.com', 'www.wxxzzs.com', 'cipuji.com', 'coinbasechain.org', 'api.wisemind-ai.com', 'www.zhongguotv.com', 'www.tpyyc.com', 'gh.con.sh', 'www.wenchuanzhaopin.com', 'inkpiu.it', 'www.mtsijkh.top', 'www.zhankuu.com', 'zhongguotv.com', 'luwangyangrong.com', 'e0101.com', 'www.6i5.com', 'www.swuxfdc.cn', 'www.yhdmxzw.com', 'sgv7.com', 'mixie.asia', '9knm.top', 'www.ddwhm.com', '651yy.com', 'www.4148.net', '925uu.com', 'www.suboji.com', 'www.vcd.la', 'jiba09.top', 'teencategories.com', 'mmh3gf.com', 'www.tingshuyan.com', 'www.4gdiy.com', 'www.tinghen.com', 'www.zgjmw.net', 'www.zhanglao8.fun', 'www.paizipai.top', 'gl9cf9.tw', 'bumphillipscharities.com', 'mmiyy.com', 'www.myvod360.com', 'www.leyuzycdn.com', 'chat.wawacm.com', 'yourkeymall.com', '6a1070.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 88303.xyz...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for suzakucoin.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
