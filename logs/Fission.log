@@ -33883,3 +33883,25 @@ Performing DNS lookup for suzakucoin.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 6f74962] Update project files
+ 4 files changed, 94 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   0740943..6f74962  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.228.35...
+Fetching domains for 104.25.105.1...
+Fetching domains for 190.93.246.67...
+succeed to fetch domains for 190.93.246.67 from https://site.ip138.com/
+succeed to fetch domains for 104.18.228.35 from https://site.ip138.com/
+succeed to fetch domains for 104.25.105.1 from https://dnsdblookup.com/
+域名列表为
+['www.tv9090.com', 'www.33mov.com', 'm.boyangjt.com', 'www.28dushu.com', 'www.991kan.com', 'wei333.com', 'www.hg0389.com', 'jp57.cc', 'www.90dushu.com', 'www.4gdiy.com', 'www.tl123123.com', 'www.dypf8.com', 'www.wecaidan.com', 'ag.hg2096.com', 'cfip.xxxxxxxx.tk', 'www.zongcaixs.cc', 'www.zzgszg.com', 'www.nitianxieshen.com', 'api.wisemind-ai.com', 'www.hhyy028.com', 'www.77zw.cc', 'www.cbcv.cc', 'www.suboji.com', 'www.lailai360.com', '8810868.com', 'a397.cc', 'www.boyangjt.com', 'boyangjt.com', 'www.qf527.com', 'www.tinghen.com', 'stock.hostmonit.com', 'vv1234.cn', 'www.dy1255.com', 'e0101.com', 'www.paizipai.top', 'suboji.com', 'blog.hostmonit.com', 'www.11txt.com', 'chalaoshi.de', 'www.kx10.com', 'www.e0101.com', 'www.888dyy.cc', '7sc.cc', 'www.0550cq.com', '606977.com', 'www.ayuer.com', 'www.uu93.com', 'www.93xscc.com', 'www.kanunu2.com', '63ws.com', 'qp66.com', 'www.wubei520.com', 'www.huanyaad.com', 'www.tuozhan22.com', 'www.3dck.com', 'gtts.life', 'www.jsmx999.com', 'www.fnyy.net', 'www.xwbhk.com', 'www.679077.com', 'uu93.com', 'www.116.ag', 'www.99wx.cc', 'www.6i5.com', 'sgv7.com', 'www.tushencn.com', 'www.kanju8.com', 'www.longwangchuanshuo.com', 'm.6i5.com', '0702.rr.nu', 'www.qp666.com', 'www.96dushu.com', 'www.qindi.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jp57.cc...
+Performing DNS lookup for www.paizipai.top...
+Performing DNS lookup for www.qindi.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
