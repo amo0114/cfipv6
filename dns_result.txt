@@ -2,8 +2,13 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.sxyzxh.com
-Address: 208.98.43.11
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.22.236
+Name:	ips.993888.xyz
+Address: 104.16.114.217
+Name:	ips.993888.xyz
+Address: 104.18.22.204
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
@@ -11,14 +16,19 @@ Address:	46.203.222.47#53
 Non-authoritative answer:
 lao310.com	canonical name = laowang-luo.b-cdn.net.
 Name:	laowang-luo.b-cdn.net
-Address: 143.244.49.180
+Address: 143.244.50.84
 Name:	laowang-luo.b-cdn.net
-Address: 2400:52e0:1a01::1108:1
+Address: 2400:52e0:1a01::984:1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	0550cq.com
-Address: 172.247.166.142
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.22.236
+Name:	ips.993888.xyz
+Address: 104.16.114.217
+Name:	ips.993888.xyz
+Address: 104.18.22.204
 
