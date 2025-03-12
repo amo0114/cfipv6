@@ -33839,3 +33839,25 @@ Performing DNS lookup for archives.vip...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c2c8e65] Update project files
+ 4 files changed, 77 insertions(+), 56 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   1c03788..c2c8e65  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.247.169...
+Fetching domains for 190.93.244.201...
+Fetching domains for 104.27.21.118...
+succeed to fetch domains for 190.93.244.201 from https://ipchaxun.com/
+succeed to fetch domains for 104.27.21.118 from https://site.ip138.com/
+succeed to fetch domains for 190.93.247.169 from https://site.ip138.com/
+域名列表为
+['www.iios.club', 'cipuji.com', 'suboji.com', 'www.hanjutv5.com', 'www.zgjmw.net', 'www.tinghen.com', 'www.uu93.com', 'www.gzlatin.com', 'www.4gdiy.com', 'cf1.492745.xyz', 'qr99.cc', 'sgv7.com', 'stock.hostmonit.com', 'uu93.com', 'www.smdyy.cc', 'www.606977.com', 'www.u9yy.com', 'www.zhiqihuo.com', 'zi0.cc', 'www.4148.net', '8810868.com', 'www.tv9090.com', 'www.77zw.cc', 'wei333.com', 'www.vcd.la', 'www.6i5.com', 'yundunwawablogcdn1yd.wawacm.com', 'acjp2.cloudflarest.link', 'www.web120.org', 'www.6988tv.com', 'www.hanmatv.com', 'm.mw171.com', 'ei01.com', 'panel3.touhou.tel', 'vv1234.cn', 'www.7sc.cc', 'archives.vip', 'www.51jion.com', '7y26.com', 'www.wxxzzs.com', 'www.90dushu.com', 'www.dj5157.com', 'www.0550cq.com', 'dsxys.pro', 'www.myvod360.com', 'chalaoshi.de', 'mmiyy.com', 'www.suboji.com', 'ddkan.tv', 'www.huaidan1.com', 'www.92mili.com', 'www.pwcai.com', 'www.11txt.com', 'tv9090.com', 'www.zzgszg.com', 'www.50zw.co', 'cfip.xxxxxxxx.tk', 'e0101.com', 'www.ddkan.tv', 'www.zhanglao8.fun', 'www.hnxinlian.org', '606977.com', '0550cq.com', 'bestproxy.030101.xyz', 'wz.weishao2023.dk.eu.org', '65bao2.com', 'yundunwawablogcdn1dx.wawacm.com', '923055.com', 'cfrp.kryp.us.kg', 'www.jhhtech.com', 'www.ddwhm.com', 'ayuer.com', 'cf-lt.sharecentre.online', 'womyt.com', 'www.sxyzxh.com', 'chat.wawacm.com', 'www.paizipai.top', 'www.b7yy.cc', 'www.bimiacg.net', 'www.wn01.cc', 'www.235t.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for e0101.com...
+Performing DNS lookup for www.suboji.com...
+Performing DNS lookup for www.90dushu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
