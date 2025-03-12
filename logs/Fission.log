@@ -34014,3 +34014,25 @@ Performing DNS lookup for www.yhdmxzw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8387141] Update project files
+ 4 files changed, 60 insertions(+), 41 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   45a3aac..8387141  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.17.127.110...
+Fetching domains for 104.16.241.229...
+succeed to fetch domains for 104.17.127.110 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.241.229 from https://site.ip138.com/
+succeed to fetch domains for 104.20.255.53 from https://dnsdblookup.com/
+域名列表为
+['www.xkx999.com', 'm90s.com', 'm.niuerzs.com', 'www.cocanwelding.com', 'cfip.xxxxxxxx.tk', 'didiyunhu.com', 'www.99wxw.cc', 'www.hhyy028.com', 'fa1.fun', 'www.tockt.com', 'www.kanmanhuala.cc', 'www.pk299.com', 'www.90qr.com', 'www.999yh.vip', 'www.longwangchuanshuo.net', 'dsxys.com', 'www.339my.xyz', 'www.99wx.cc', 'www.295k.com', 'www.cfhuagong.com', 'api.wisemind-ai.com', 'www.b7yy.cc', 'www.5522tl.com', 'vv1234.cn', 'www.57txt.com', 'www.93xscc.com', 'www.wubei520.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.57txt.com...
+Performing DNS lookup for dsxys.com...
+Performing DNS lookup for www.kanmanhuala.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
