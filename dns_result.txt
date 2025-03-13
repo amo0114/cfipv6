@@ -2,18 +2,37 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.235t.com
-Address: 199.59.243.228
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find mmiyy.com: NXDOMAIN
+www.lailai360.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	e0101.com
-Address: 199.59.243.228
+Name:	www.leyuzycdn.com
+Address: 104.21.91.19
+Name:	www.leyuzycdn.com
+Address: 172.67.208.50
+Name:	www.leyuzycdn.com
+Address: 2606:4700:3034::6815:5b13
+Name:	www.leyuzycdn.com
+Address: 2606:4700:3035::ac43:d032
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	devochki18.com
+Address: 172.67.208.50
+Name:	devochki18.com
+Address: 104.21.91.19
+Name:	devochki18.com
+Address: 2606:4700:3035::ac43:d032
+Name:	devochki18.com
+Address: 2606:4700:3034::6815:5b13
 
