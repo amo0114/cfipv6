@@ -2,22 +2,38 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.wxxzzs.com
-Address: 104.19.81.91
-Name:	www.wxxzzs.com
-Address: 104.18.109.224
-Name:	www.wxxzzs.com
-Address: 104.18.75.142
+www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.221.20
+Name:	ips.993888.xyz
+Address: 104.17.203.135
+Name:	ips.993888.xyz
+Address: 104.17.251.243
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.209tv.com
-Address: 45.151.133.191
+www.lailai360.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find ukcc.digicert.pp.ua: NXDOMAIN
+Non-authoritative answer:
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
 
