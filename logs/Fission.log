@@ -34189,3 +34189,24 @@ Performing DNS lookup for ukcc.digicert.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ce84187] Update project files
+ 4 files changed, 61 insertions(+), 19 deletions(-)
+To github.com:amo0114/cfipv6.git
+   1ad24f4..ce84187  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.228.35...
+Fetching domains for 104.25.105.1...
+Fetching domains for 104.27.21.118...
+succeed to fetch domains for 104.25.105.1 from https://site.ip138.com/
+succeed to fetch domains for 104.27.21.118 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.228.35 from https://ipchaxun.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'www.kanunu2.com', 'www.93xscc.com', 'www.qindi.net', 'www.lailai360.com', 'www.wubei520.com', 'www.tl123123.com', 'vv1234.cn', 'api.wisemind-ai.com', 'www.wecaidan.com', 'www.longwangchuanshuo.com', 'www.megumirawr.cc', 'www.hhyy028.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.longwangchuanshuo.com...
+Performing DNS lookup for www.lailai360.com...
+Performing DNS lookup for vv1234.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
