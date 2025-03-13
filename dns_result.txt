@@ -2,60 +2,22 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.kx10.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.33mov.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+Name:	www.209tv.com
+Address: 45.151.133.191
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	uu93.com
-Address: 104.21.80.1
-Name:	uu93.com
-Address: 104.21.112.1
-Name:	uu93.com
-Address: 104.21.96.1
-Name:	uu93.com
-Address: 104.21.16.1
-Name:	uu93.com
-Address: 104.21.48.1
-Name:	uu93.com
-Address: 104.21.64.1
-Name:	uu93.com
-Address: 104.21.32.1
-Name:	uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:1001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:5001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:6001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:3001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:2001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:7001
+** server can't find ukcc.digicert.pp.ua: NXDOMAIN
 
