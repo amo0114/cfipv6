@@ -2,26 +2,55 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
+chat.wawacm.com	canonical name = cffast.wawacm.com.
+cffast.wawacm.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.paizipai.top
+Address: 104.21.80.1
+Name:	www.paizipai.top
+Address: 104.21.32.1
+Name:	www.paizipai.top
+Address: 104.21.48.1
+Name:	www.paizipai.top
+Address: 104.21.64.1
+Name:	www.paizipai.top
+Address: 104.21.96.1
+Name:	www.paizipai.top
+Address: 104.21.112.1
+Name:	www.paizipai.top
+Address: 104.21.16.1
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:2001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:7001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:6001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:5001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:1001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:3001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:4001
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
 Name:	www.zgjmw.net
 Address: 127.0.0.1
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-*** Can't find speed.marisalnc.com: No answer
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.c333.net	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
 

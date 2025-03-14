@@ -34232,3 +34232,25 @@ Performing DNS lookup for www.suboji.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9587814] Update project files
+ 4 files changed, 56 insertions(+), 79 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   ba8eaa2..9587814  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.214.141...
+Fetching domains for 188.114.96.125...
+Fetching domains for 190.93.247.169...
+succeed to fetch domains for 188.114.96.125 from https://site.ip138.com/
+succeed to fetch domains for 190.93.247.169 from https://site.ip138.com/
+succeed to fetch domains for 198.41.214.141 from https://ipchaxun.com/
+域名列表为
+['tv9090.com', 'www.cbcv.cc', 'www.28dushu.com', 'www.sxyzxh.com', 'cf-lt.sharecentre.online', 'www.iios.club', 'www.jhhtech.com', 'www.dj5157.com', 'stock.hostmonit.com', 'm.0550cq.com', '181ge.com', 'www.92mili.com', 'www.smdyy.cc', 'www.wxxzzs.com', 'yx.887141.xyz', 'qiangkouzhao.com', 'uu93.com', 'www.zhanglao8.fun', 'sgv7.com', 'chalaoshi.de', 'mmiyy.com', 'www.c333.net', 'www.235t.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.vcd.la', 'www.vodbd.com', 'cipuji.com', 'e0101.com', 'www.11txt.com', 'speed.marisalnc.com', 'www.hnxinlian.org', 'www.0550cq.com', '26.namesilo123.top', 'yundunwawablogcdn1dx.wawacm.com', 'chat.wawacm.com', 'www.uu93.com', 'www.zgjmw.net', 'www.7sc.cc', 'cnamefuckxxs.yuchen.icu', 'www.4148.net', 'www.web120.org', 'www.209tv.com', 'www.6i5.com', 'api.wisemind-ai.com', 'www.50zw.co', 'longli.online', 'www.ddwhm.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.tinghen.com', '0550cq.com', 'www.megumirawr.cc', 'www.90dushu.com', 'www.tv9090.com', 'www.paizipai.top', 'vv1234.cn', 'www.myvod360.com', 'guyu.bygzs.cc', 'archives.vip', 'wz.weishao2023.dk.eu.org', 'wei333.com', '1165vip.com', 'www.yjys05.com', 'zi0.cc', 'www.wn03.cc', 'www.yya.gs', 'www.51jion.com', 'www.qf527.com', 'suboji.com', 'dsxys.pro', 'www.4gdiy.com', 'missav.mrst.one', 'www.hanmatv.com', 'panel3.touhou.tel', 'www.suboji.com', 'cfip.xxxxxxxx.tk']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.zgjmw.net...
+Performing DNS lookup for speed.marisalnc.com...
+Performing DNS lookup for www.c333.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
