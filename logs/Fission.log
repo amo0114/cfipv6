@@ -34254,3 +34254,24 @@ Performing DNS lookup for www.c333.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a8d62bc] Update project files
+ 4 files changed, 76 insertions(+), 18 deletions(-)
+To github.com:amo0114/cfipv6.git
+   9587814..a8d62bc  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.110...
+Fetching domains for 104.18.228.35...
+Fetching domains for 190.93.247.169...
+succeed to fetch domains for 104.18.228.35 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.127.110 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.247.169 from https://site.ip138.com/
+域名列表为
+['api.wisemind-ai.com', 'www.93xscc.com', 'www.zgjmw.net', 'www.11txt.com', 'www.51jion.com', 'cf-lt.sharecentre.online', 'www.uu93.com', 'www.cfhuagong.com', 'dsxys.pro', 'archives.vip', 'stock.hostmonit.com', 'mmiyy.com', 'www.92mili.com', 'www.kanunu2.com', 'www.iios.club', 'www.tv9090.com', 'cipuji.com', 'www.zhanglao8.fun', 'www.ddwhm.com', 'www.b7yy.cc', 'www.smdyy.cc', 'chat.wawacm.com', 'www.paizipai.top', 'tv9090.com', 'cfip.xxxxxxxx.tk', 'www.lailai360.com', 'www.6i5.com', 'www.dj5157.com', 'www.megumirawr.cc', 'www.longwangchuanshuo.com', 'www.longwangchuanshuo.net', 'sgv7.com', 'e0101.com', 'yundunwawablogcdn1yd.wawacm.com', '0550cq.com', 'www.qindi.net', 'www.tinghen.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.suboji.com', 'uu93.com', 'www.vcd.la', 'wz.weishao2023.dk.eu.org', 'chalaoshi.de', 'suboji.com', 'www.hnxinlian.org', 'www.jhhtech.com', 'www.wxxzzs.com', 'www.0550cq.com', 'www.hanmatv.com', 'wei333.com', 'www.web120.org', 'zi0.cc', 'www.4gdiy.com', 'www.myvod360.com', 'www.4148.net', 'www.90dushu.com', 'www.235t.com', 'vv1234.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for chat.wawacm.com...
+Performing DNS lookup for www.paizipai.top...
+Performing DNS lookup for www.zgjmw.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
