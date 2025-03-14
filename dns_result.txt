@@ -2,20 +2,23 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m.sxyzxh.com
-Address: 208.98.43.15
+Name:	wei333.com
+Address: 75.2.115.196
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m.ghqy.com
-Address: 23.224.6.46
+Name:	dsxys.com
+Address: 192.64.119.232
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.weizhijc.com
-Address: 65.108.205.61
+1165vip.com	canonical name = vipkanba-luo.b-cdn.net.
+Name:	vipkanba-luo.b-cdn.net
+Address: 143.244.50.82
+Name:	vipkanba-luo.b-cdn.net
+Address: 2400:52e0:1a01::912:1
 
