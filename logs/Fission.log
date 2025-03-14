@@ -34403,3 +34403,25 @@ Performing DNS lookup for www.295k.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 97e6445] Update project files
+ 4 files changed, 59 insertions(+), 59 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   ec837cd..97e6445  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.241.229...
+Fetching domains for 104.16.232.223...
+Fetching domains for 104.27.21.118...
+succeed to fetch domains for 104.16.241.229 from https://dnsdblookup.com/
+succeed to fetch domains for 104.27.21.118 from https://site.ip138.com/
+succeed to fetch domains for 104.16.232.223 from https://ipchaxun.com/
+域名列表为
+['www.99wx.cc', 'cmcc.hza1128.x10.mx', 'api.wisemind-ai.com', 'www.whpaiger.com', 'www.cocanwelding.com', 'www.penglecheng.com', 'gh.con.sh', 'www.kanmanhuala.cc', 'cfip.xxxxxxxx.tk', 'www.99wxw.cc', 'www.93xscc.com', 'm.niuerzs.com', 'www.zzztch.com', 'dsxys.com', 'teslacentral.com', 'vv1234.cn', 'didiyunhu.com', 'www.bfb3.com', 'www.57txt.com', 'www.megumirawr.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.megumirawr.cc...
+Performing DNS lookup for teslacentral.com...
+Performing DNS lookup for didiyunhu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
