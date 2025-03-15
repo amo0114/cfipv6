@@ -34469,3 +34469,24 @@ Performing DNS lookup for www.0550cq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8a5c2a0] Update project files
+ 4 files changed, 48 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   c5e745e..8a5c2a0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.247.169...
+Fetching domains for 190.93.244.201...
+Fetching domains for 188.114.97.144...
+succeed to fetch domains for 190.93.247.169 from https://site.ip138.com/
+succeed to fetch domains for 190.93.244.201 from https://site.ip138.com/
+succeed to fetch domains for 188.114.97.144 from https://dnsdblookup.com/
+域名列表为
+['www.7sc.cc', 'www.tinghen.com', 'ayuer.com', 'www.ddkan.tv', 'www.hanmatv.com', 'cf1.492745.xyz', 'www.ddwhm.com', 'www.90dushu.com', 'bestproxy.030101.xyz', 'qr99.cc', 'www.huaidan1.com', 'panel3.touhou.tel', 'vv1234.cn', 'www.smdyy.cc', 'api.wisemind-ai.com', 'suboji.com', 'www.93xscc.com', 'www.paizipai.top', 'wei333.com', 'www.4gdiy.com', 'cipuji.com', 'www.web120.org', '923055.com', 'www.b7yy.cc', 'www.92mili.com', 'archives.vip', 'www.wn01.cc', 'wz.weishao2023.dk.eu.org', 'sgv7.com', 'www.suboji.com', 'uu93.com', 'ei01.com', 'www.606977.com', 'lao310.com', '0550cq.com', 'cfrp.kryp.us.kg', 'www.6988tv.com', 'www.iios.club', 'www.vcd.la', 'www.zhanglao8.fun', 'www.jhhtech.com', 'zi0.cc', 'chat.wawacm.com', 'www.51jion.com', 'www.gzlatin.com', 'www.megumirawr.cc', 'www.hanjutv5.com', 'acjp2.cloudflarest.link', 'mmiyy.com', 'ddkan.tv', 'cfip.xxxxxxxx.tk', 'chalaoshi.de', 'www.bimiacg.net', '7y26.com', 'www.zgjmw.net', 'www.sxyzxh.com', 'cf-lt.sharecentre.online', 'www.4148.net', 'www.wxxzzs.com', 'womyt.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.hnxinlian.org', 'www.50zw.co', 'tv9090.com', 'www.dj5157.com', 'lao304.com', 'yundunwawablogcdn1yd.wawacm.com', 'stock.hostmonit.com', 'www.0550cq.com', 'e0101.com', 'www.zzgszg.com', 'www.77zw.cc', 'm.mw171.com', 'www.pwcai.com', '606977.com', 'www.uu93.com', 'dsxys.pro', 'www.11txt.com', 'www.6i5.com', '8810868.com', 'www.tv9090.com', 'www.235t.com', '65bao2.com', 'www.zhiqihuo.com', 'www.myvod360.com', 'www.u9yy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for lao310.com...
+Performing DNS lookup for www.wxxzzs.com...
+Performing DNS lookup for bestproxy.030101.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
