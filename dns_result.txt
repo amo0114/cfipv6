@@ -2,24 +2,29 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	bestproxy.030101.xyz
-Address: 8.220.135.63
-Name:	bestproxy.030101.xyz
-Address: 8.209.37.117
+lao310.com	canonical name = laowang-luo.b-cdn.net.
+Name:	laowang-luo.b-cdn.net
+Address: 143.244.50.83
+Name:	laowang-luo.b-cdn.net
+Address: 2400:52e0:1a01::852:1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.boyangjt.com
-Address: 104.16.72.177
-Name:	www.boyangjt.com
-Address: 104.16.104.218
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.0550cq.com
-Address: 172.247.166.142
+Name:	bestproxy.030101.xyz
+Address: 129.151.225.228
+Name:	bestproxy.030101.xyz
+Address: 8.209.45.47
 
