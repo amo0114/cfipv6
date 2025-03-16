@@ -2,55 +2,50 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.wecaidan.com
-Address: 208.98.43.16
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.uu93.com
-Address: 104.21.96.1
-Name:	www.uu93.com
-Address: 104.21.64.1
-Name:	www.uu93.com
-Address: 104.21.16.1
-Name:	www.uu93.com
-Address: 104.21.112.1
-Name:	www.uu93.com
+Name:	wenchuanzhaopin.com
 Address: 104.21.48.1
-Name:	www.uu93.com
-Address: 104.21.80.1
-Name:	www.uu93.com
+Name:	wenchuanzhaopin.com
+Address: 104.21.112.1
+Name:	wenchuanzhaopin.com
+Address: 104.21.96.1
+Name:	wenchuanzhaopin.com
+Address: 104.21.16.1
+Name:	wenchuanzhaopin.com
+Address: 104.21.64.1
+Name:	wenchuanzhaopin.com
 Address: 104.21.32.1
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:5001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:1001
-Name:	www.uu93.com
+Name:	wenchuanzhaopin.com
+Address: 104.21.80.1
+Name:	wenchuanzhaopin.com
 Address: 2606:4700:3030::6815:2001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	www.uu93.com
+Name:	wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:5001
+Name:	wenchuanzhaopin.com
 Address: 2606:4700:3030::6815:6001
-Name:	www.uu93.com
+Name:	wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:1001
+Name:	wenchuanzhaopin.com
 Address: 2606:4700:3030::6815:3001
-Name:	www.uu93.com
+Name:	wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:4001
+Name:	wenchuanzhaopin.com
 Address: 2606:4700:3030::6815:7001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-yundunwawablogcdn1dx.wawacm.com	canonical name = cffast.wawacm.com.
-cffast.wawacm.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+Name:	www.swuxfdc.cn
+Address: 156.236.225.160
 

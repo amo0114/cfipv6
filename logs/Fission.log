@@ -34752,3 +34752,25 @@ Performing DNS lookup for xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b3eceea] Update project files
+ 4 files changed, 94 insertions(+), 21 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   44a2a50..b3eceea  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.214.141...
+Fetching domains for 190.93.247.169...
+Fetching domains for 104.25.105.1...
+succeed to fetch domains for 198.41.214.141 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.247.169 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.105.1 from https://site.ip138.com/
+域名列表为
+['wei333.com', 'www.0550cq.com', 'www.hnxinlian.org', 'wz.weishao2023.dk.eu.org', 'www.vcd.la', 'www.yya.gs', 'cfip.xxxxxxxx.tk', 'www.51jion.com', '26.namesilo123.top', 'www.suboji.com', 'www.myvod360.com', 'www.vodbd.com', 'e0101.com', 'www.iios.club', 'speed.marisalnc.com', 'www.28dushu.com', 'www.11txt.com', 'www.qf527.com', 'www.paizipai.top', 'www.tv9090.com', 'www.jhhtech.com', 'www.smdyy.cc', 'www.hanmatv.com', 'www.4148.net', 'www.zhanglao8.fun', 'www.tl123123.com', 'www.hhyy028.com', 'www.zgjmw.net', 'www.6i5.com', 'www.50zw.co', 'game.baomaojc.top', 'www.sxyzxh.com', 'tv9090.com', 'www.wn03.cc', 'www.dj5157.com', 'www.cbcv.cc', 'www.c333.net', 'www.4gdiy.com', 'stock.hostmonit.com', 'www.wxxzzs.com', 'www.yjys05.com', 'www.web120.org', 'api.wisemind-ai.com', 'www.tinghen.com', 'chalaoshi.de', 'www.uu93.com', 'zi0.cc', 'www.209tv.com', 'www.7sc.cc', 'longli.online', 'sgv7.com', 'chat.wawacm.com', 'www.92mili.com', 'www.ddwhm.com', 'm.0550cq.com', 'uu93.com', '0550cq.com', 'cipuji.com', 'www.wecaidan.com', 'suboji.com', 'vv1234.cn', 'qiangkouzhao.com', 'yundunwawablogcdn1dx.wawacm.com', 'dsxys.pro', 'panel3.touhou.tel', 'www.90dushu.com', 'www.235t.com', 'mmiyy.com', 'archives.vip', 'missav.mrst.one', 'yundunwawablogcdn1yd.wawacm.com', 'www.wubei520.com', 'cf-lt.sharecentre.online', 'yx.887141.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wecaidan.com...
+Performing DNS lookup for www.uu93.com...
+Performing DNS lookup for yundunwawablogcdn1dx.wawacm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
