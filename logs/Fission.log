@@ -34860,3 +34860,25 @@ Performing DNS lookup for cfrp.kryp.us.kg...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b56366c] Update project files
+ 4 files changed, 59 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   d2317a7..b56366c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.105.1...
+Fetching domains for 104.16.241.229...
+Fetching domains for 188.114.96.125...
+succeed to fetch domains for 188.114.96.125 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.241.229 from https://site.ip138.com/
+succeed to fetch domains for 104.25.105.1 from https://site.ip138.com/
+域名列表为
+['www.wecaidan.com', 'www.megumirawr.cc', 'cfip.xxxxxxxx.tk', 'www.wubei520.com', 'www.hhyy028.com', 'www.kanmanhuala.cc', 'www.cocanwelding.com', 'www.99wxw.cc', 'api.wisemind-ai.com', '181ge.com', 'dsxys.com', 'cnamefuckxxs.yuchen.icu', 'm.niuerzs.com', '1165vip.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.93xscc.com', 'guyu.bygzs.cc', 'www.tl123123.com', 'www.57txt.com', 'www.99wx.cc', 'game.baomaojc.top', 'vv1234.cn', 'didiyunhu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tl123123.com...
+Performing DNS lookup for vv1234.cn...
+Performing DNS lookup for 181ge.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

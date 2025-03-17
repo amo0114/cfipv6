@@ -1,29 +1,26 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.tl123123.com: NXDOMAIN
+Non-authoritative answer:
+Name:	0550cq.com
+Address: 172.247.166.142
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-vv1234.cn	canonical name = vv1234.cn.cdn.cloudflare.net.
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 172.67.191.185
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 104.21.41.166
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 2606:4700:3030::ac43:bfb9
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 2606:4700:3036::6815:29a6
+api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-181ge.com	canonical name = weige-luo.b-cdn.net.
-Name:	weige-luo.b-cdn.net
-Address: 169.150.249.162
-Name:	weige-luo.b-cdn.net
-Address: 2400:52e0:1a01::900:1
+Name:	ei01.com
+Address: 103.224.182.213
 
