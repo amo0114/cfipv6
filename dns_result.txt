@@ -2,25 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	0550cq.com
-Address: 172.247.166.142
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find nlsdwsz.66666654.xyz: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	ei01.com
-Address: 103.224.182.213
+www.longwangchuanshuo.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.19.215.232
+Name:	ips.993888.xyz
+Address: 104.16.112.182
+Name:	ips.993888.xyz
+Address: 104.19.220.154
 
