@@ -2,30 +2,53 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	sgv7.com
-Address: 23.248.226.74
+Name:	www.wenchuanzhaopin.com
+Address: 104.21.96.1
+Name:	www.wenchuanzhaopin.com
+Address: 104.21.112.1
+Name:	www.wenchuanzhaopin.com
+Address: 104.21.48.1
+Name:	www.wenchuanzhaopin.com
+Address: 104.21.64.1
+Name:	www.wenchuanzhaopin.com
+Address: 104.21.80.1
+Name:	www.wenchuanzhaopin.com
+Address: 104.21.32.1
+Name:	www.wenchuanzhaopin.com
+Address: 104.21.16.1
+Name:	www.wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:2001
+Name:	www.wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:1001
+Name:	www.wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:4001
+Name:	www.wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:3001
+Name:	www.wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:6001
+Name:	www.wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:7001
+Name:	www.wenchuanzhaopin.com
+Address: 2606:4700:3030::6815:5001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.qindi.net	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.113.84
-Name:	ips.993888.xyz
-Address: 104.19.247.175
-Name:	ips.993888.xyz
-Address: 104.19.212.190
+Name:	www.651yy.com
+Address: 103.224.182.251
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.19.212.190
-Name:	ips.993888.xyz
-Address: 104.16.113.84
-Name:	ips.993888.xyz
-Address: 104.19.247.175
+www.77yeye.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
