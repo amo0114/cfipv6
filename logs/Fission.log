@@ -35078,3 +35078,25 @@ Performing DNS lookup for www.4148.net...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main b19e298] Update project files
+ 4 files changed, 76 insertions(+), 70 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   f683f65..b19e298  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.247.169...
+Fetching domains for 188.114.97.144...
+Fetching domains for 104.17.127.110...
+succeed to fetch domains for 104.17.127.110 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.97.144 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.247.169 from https://dnsdblookup.com/
+域名列表为
+['stock.hostmonit.com', 'www.suboji.com', 'vv1234.cn', 'api.wisemind-ai.com', 'www.paizipai.top', 'lao304.com', 'lao310.com', 'game.baomaojc.top', '0550cq.com', 'www.51jion.com', 'www.tv9090.com', 'wei333.com', 'www.hanmatv.com', 'www.cfhuagong.com', 'www.4148.net', 'www.tinghen.com', 'www.web120.org', 'www.235t.com', 'cfip.xxxxxxxx.tk', 'www.0550cq.com', 'wz.weishao2023.dk.eu.org', 'www.megumirawr.cc', 'www.b7yy.cc', 'uu93.com', 'sgv7.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.smdyy.cc', 'suboji.com', 'www.zgjmw.net', 'www.11txt.com', 'cipuji.com', 'www.myvod360.com', 'www.longwangchuanshuo.net', 'tv9090.com', 'www.6i5.com', 'www.93xscc.com', 'dsxys.pro', 'www.dj5157.com', 'chalaoshi.de', 'yundunwawablogcdn1yd.wawacm.com', 'www.92mili.com', 'cf-lt.sharecentre.online', 'www.90dushu.com', 'www.uu93.com', 'e0101.com', 'zi0.cc', 'www.4gdiy.com', 'www.jhhtech.com', 'www.iios.club', 'chat.wawacm.com', 'www.hnxinlian.org', 'www.wxxzzs.com', 'www.ddwhm.com', 'archives.vip', 'www.vcd.la', 'www.zhanglao8.fun', 'bestproxy.030101.xyz', 'mmiyy.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for stock.hostmonit.com...
+Performing DNS lookup for www.myvod360.com...
+Performing DNS lookup for chat.wawacm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
