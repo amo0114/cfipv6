@@ -35122,3 +35122,24 @@ Performing DNS lookup for www.7sc.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5a9940e] Update project files
+ 4 files changed, 72 insertions(+), 14 deletions(-)
+To github.com:amo0114/cfipv6.git
+   0b53e67..5a9940e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.97.144...
+Fetching domains for 104.17.127.110...
+Fetching domains for 104.16.241.229...
+succeed to fetch domains for 188.114.97.144 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.127.110 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.241.229 from https://ipchaxun.com/
+域名列表为
+['www.57txt.com', 'm.niuerzs.com', 'www.93xscc.com', 'www.99wxw.cc', 'www.megumirawr.cc', 'lao310.com', 'www.99wx.cc', 'www.cocanwelding.com', 'vv1234.cn', 'game.baomaojc.top', 'didiyunhu.com', 'api.wisemind-ai.com', 'www.b7yy.cc', 'lao304.com', 'dsxys.com', 'bestproxy.030101.xyz', 'www.kanmanhuala.cc', 'www.longwangchuanshuo.net', 'cfip.xxxxxxxx.tk', 'www.cfhuagong.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for lao310.com...
+Performing DNS lookup for dsxys.com...
+Performing DNS lookup for api.wisemind-ai.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
