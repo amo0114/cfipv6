@@ -2,50 +2,33 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.paizipai.top
-Address: 104.21.96.1
-Name:	www.paizipai.top
-Address: 104.21.112.1
-Name:	www.paizipai.top
-Address: 104.21.32.1
-Name:	www.paizipai.top
-Address: 104.21.16.1
-Name:	www.paizipai.top
-Address: 104.21.64.1
-Name:	www.paizipai.top
-Address: 104.21.48.1
-Name:	www.paizipai.top
-Address: 104.21.80.1
-Name:	www.paizipai.top
-Address: 2606:4700:3030::6815:3001
-Name:	www.paizipai.top
-Address: 2606:4700:3030::6815:6001
-Name:	www.paizipai.top
-Address: 2606:4700:3030::6815:2001
-Name:	www.paizipai.top
-Address: 2606:4700:3030::6815:7001
-Name:	www.paizipai.top
-Address: 2606:4700:3030::6815:5001
-Name:	www.paizipai.top
-Address: 2606:4700:3030::6815:1001
-Name:	www.paizipai.top
-Address: 2606:4700:3030::6815:4001
+Name:	52poke.wiki
+Address: 104.21.91.19
+Name:	52poke.wiki
+Address: 172.67.208.50
+Name:	52poke.wiki
+Address: 2606:4700:3035::ac43:d032
+Name:	52poke.wiki
+Address: 2606:4700:3034::6815:5b13
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.zhiqihuo.com	canonical name = cdn1.5118cl0ud.xyz.
-cdn1.5118cl0ud.xyz	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:ba1f
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:bb1f
+Name:	www.yhdmxzw.com
+Address: 172.67.208.50
+Name:	www.yhdmxzw.com
+Address: 104.21.91.19
+Name:	www.yhdmxzw.com
+Address: 2606:4700:3035::ac43:d032
+Name:	www.yhdmxzw.com
+Address: 2606:4700:3034::6815:5b13
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m90s.com
-Address: 162.254.36.135
+www.50zw.co	canonical name = cdn.booktxtcdn.com.
+Name:	cdn.booktxtcdn.com
+Address: 128.14.129.98
 
