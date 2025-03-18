@@ -2,27 +2,53 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-lao310.com	canonical name = laowang-luo.b-cdn.net.
-Name:	laowang-luo.b-cdn.net
-Address: 138.199.9.104
-Name:	laowang-luo.b-cdn.net
-Address: 2400:52e0:1a01::1108:1
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find cfrp.kryp.us.kg: NXDOMAIN
+Name:	wap.pkpkh32.top
+Address: 104.21.64.1
+Name:	wap.pkpkh32.top
+Address: 104.21.48.1
+Name:	wap.pkpkh32.top
+Address: 104.21.32.1
+Name:	wap.pkpkh32.top
+Address: 104.21.16.1
+Name:	wap.pkpkh32.top
+Address: 104.21.96.1
+Name:	wap.pkpkh32.top
+Address: 104.21.112.1
+Name:	wap.pkpkh32.top
+Address: 104.21.80.1
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:5001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:4001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:2001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:1001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:6001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:7001
+Name:	wap.pkpkh32.top
+Address: 2606:4700:3030::6815:3001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	7y26.com
-Address: 172.67.136.219
-Name:	7y26.com
-Address: 104.21.94.143
-Name:	7y26.com
-Address: 2606:4700:3032::6815:5e8f
-Name:	7y26.com
-Address: 2606:4700:3031::ac43:88db
+Name:	teencategories.com
+Address: 103.224.182.212
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.4148.net	canonical name = www.4148.net.cdn.cloudflare.net.
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 172.67.184.20
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 104.21.59.212
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 2606:4700:3031::ac43:b814
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:3bd4
 
