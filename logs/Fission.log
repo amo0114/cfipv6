@@ -35360,3 +35360,29 @@ Performing DNS lookup for www.0550cq.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7ad12c9] Update project files
+ 4 files changed, 97 insertions(+), 52 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   9b14620..7ad12c9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.214.141...
+Fetching domains for 198.41.212.130...
+Fetching domains for 104.21.91.19...
+succeed to fetch domains for 198.41.214.141 from https://dnsdblookup.com/
+Error fetching domains for 104.21.91.19 from https://ipchaxun.com/: HTTPSConnectionPool(host='ipchaxun.com', port=443): Max retries exceeded with url: /104.21.91.19/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='ipchaxun.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 104.21.91.19...
+succeed to fetch domains for 104.21.91.19 from https://dnsdblookup.com/
+Error fetching domains for 198.41.212.130 from https://ipchaxun.com/: HTTPSConnectionPool(host='ipchaxun.com', port=443): Max retries exceeded with url: /198.41.212.130/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='ipchaxun.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 198.41.212.130...
+succeed to fetch domains for 198.41.212.130 from https://site.ip138.com/
+域名列表为
+['aktv.top', 'www.ylsbzs.com', 'www.syhlm.com', 'www.28dushu.com', 'www.ddaculture.com', 'www.swuxfdc.cn', 'www.c333.net', 'www.cskji.com', 'speed.marisalnc.com', 'xs.wxtv.cc', 'www.0550cq.com', 'deagledrop.com', 'sgv7.com', 'cf-lt.sharecentre.online', 'www.yjeky.com', 'www.wxxzzs.com', 'www.leyuzycdn.com', 'www.cbcv.cc', 'www.mgwheelaxle.com', 'cf1.492745.xyz', 'www.megumirawr.cc', 'www.630book.com', 'www.vodbd.com', 'www.web120.org', 'www.whpaiger.com', 'www.651yy.com', 'cfrp.kryp.us.kg', 'missav.mrst.one', 'www.bumphillipscharities.com', 'www.gzaode.com', 'www.wenchuanzhaopin.com', 'www.tuozhan22.com', '606977.com', 'proxyip.digitalocean.fxxk.dedyn.io', 'panel3.touhou.tel', 'www.50zw.co', 'gx.316786.xyz', 'wei333.com', 'www.boyangjt.com', 'www.4gdiy.com', 'www.33mov.com', '9knm.top', 'm.0550cq.com', 'vv1234.cn', 'www.ddwhm.com', '52poke.wiki', 'www.yya.gs', 'mmh3gf.com', 'www.tingshuyan.com', 'ganpian.com', '651yy.com', 'www.scxdexx.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.zhankuu.com', 'yourkeymall.com', 'www.jhhtech.com', 'uu93.com', 'm.ghqy.com', 'inkpiu.it', 'm.zhankuu.com', 'stock.hostmonit.com', 'www.10zhanpai.com', 'www.lnudz.com', 'glamourescorts69.com', 'm.sxyzxh.com', 'www.haqiandu.com', 'www.qf527.com', 'www.4148.net', 'tingshuyan.com', 'www.sztdsx.com', 'm.tushencn.com', 'yundunwawablogcdn1dx.wawacm.com', 'hx.746556.xyz', 'www.chongxinpet.com', 'www.209tv.com', 'www.hengdawatch.com', 'www.mfwzhs.com', 'www.paizipai.top', 'qiangkouzhao.com', 'www.xxpg888.com', 'www.mtsijkh.top', 'www.hnxinlian.org', 'downloads.vmicrosoft.com', 'tv9090.com', 'www.tianyunxingmm.com', 'subodi.com', 'cs487vkj0q.xyz', 'www.xinjuc.com', 'aspecialdayguide.com', 'www.yhdmxzw.com', 'www.hnkswh.com', 'www.shengwanggongcheng.com', 'yx.887141.xyz', 'jiba09.top', 'nigdeisletme.com', 'wap.pkpkh32.top', 'mixie.asia', 'www.888dyy.cc', 'www.991kan.com', 'www.hnten.com', 'www.wn03.cc', 'api.wisemind-ai.com', 'longli.online', 'www.96dushu.com', 'www.axxsjx.com', 'www.tv9090.com', 'www.mmh3gf.com', 'www.sztimi.com', 'www.yourkeymall.com', 'www.11txt.com', 'www.qumiyun.com', 'www.weizhijc.com', 'www.zzgszz.com', 'wenchuanzhaopin.com', 'www.wei333.com', 'tushencn.com', 'cfip.xxxxxxxx.tk', 'blog.hostmonit.com', 'yhdmxzw.com', 'baxtc.66666654.xyz', 'mtsijkh.top', 'm.mtsijkh.top', 'www.7sc.cc', 'jhpcza.66666654.xyz', 'e0101.com', 's1.52poke.wiki', 'x99av4978.xyz', 'suboji.com', '69av7216.cc', 'game.baomaojc.top', '6a1070.top', 'ukcc.digicert.pp.ua', 'nlsdwsz.66666654.xyz', 's0.52poke.wiki', 'www.apboxi.com', 'www.tinghen.com', 'www.yjys05.com', 'coinbasechain.org', 'mangalam.com', 'www.zhongguotv.com', 'www.sxyzxh.com', 'www.6i5.com', 'www.80yy.org', 'www.38yy.cn', 'zi0.cc', 'www.dy1255.com', 'www.77yeye.com', 'www.jsmx999.com', '26.namesilo123.top', 'devochki18.com', 'c.xddcc.xyz', 'www.55evd.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', '4gdiy.com', 'www.aprysw.com', 'mo.skmbbio.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for aspecialdayguide.com...
+Performing DNS lookup for www.paizipai.top...
+Performing DNS lookup for www.33mov.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
