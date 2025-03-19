@@ -35230,3 +35230,25 @@ Performing DNS lookup for vv1234.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main a4c9f50] Update project files
+ 4 files changed, 107 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   c7e8111..a4c9f50  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.110...
+Fetching domains for 188.114.96.125...
+Fetching domains for 104.20.255.53...
+succeed to fetch domains for 104.17.127.110 from https://dnsdblookup.com/
+succeed to fetch domains for 104.20.255.53 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+域名列表为
+['www.295k.com', 'fa1.fun', '181ge.com', 'www.megumirawr.cc', 'vv1234.cn', 'www.wubei520.com', 'game.baomaojc.top', 'www.90qr.com', 'cnamefuckxxs.yuchen.icu', 'm90s.com', 'www.b7yy.cc', 'www.pk299.com', 'api.wisemind-ai.com', 'www.tockt.com', 'www.999yh.vip', 'www.hhyy028.com', 'cfip.xxxxxxxx.tk', 'www.xkx999.com', 'www.cfhuagong.com', 'www.339my.xyz', 'www.5522tl.com', '1165vip.com', 'www.longwangchuanshuo.net', 'guyu.bygzs.cc', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for www.hhyy028.com...
+Performing DNS lookup for fa1.fun...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
