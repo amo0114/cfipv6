@@ -35274,3 +35274,24 @@ Performing DNS lookup for yx.887141.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main db6f754] Update project files
+ 4 files changed, 93 insertions(+), 45 deletions(-)
+To github.com:amo0114/cfipv6.git
+   3cf3a0a..db6f754  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.255.53...
+Fetching domains for 188.114.96.125...
+Fetching domains for 190.93.247.169...
+succeed to fetch domains for 104.20.255.53 from https://site.ip138.com/
+succeed to fetch domains for 190.93.247.169 from https://site.ip138.com/
+succeed to fetch domains for 188.114.96.125 from https://ipchaxun.com/
+域名列表为
+['vv1234.cn', 'www.51jion.com', 'stock.hostmonit.com', 'www.tinghen.com', 'fa1.fun', 'www.xkx999.com', 'www.6i5.com', 'www.90dushu.com', 'www.tv9090.com', 'www.0550cq.com', 'chat.wawacm.com', 'uu93.com', 'archives.vip', '181ge.com', 'm90s.com', 'www.paizipai.top', 'www.92mili.com', 'www.megumirawr.cc', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'game.baomaojc.top', 'www.hhyy028.com', 'www.339my.xyz', 'dsxys.pro', 'zi0.cc', 'www.5522tl.com', 'www.hnxinlian.org', 'api.wisemind-ai.com', 'www.4148.net', 'www.suboji.com', 'wei333.com', 'www.295k.com', 'www.wubei520.com', '0550cq.com', 'www.4gdiy.com', 'cfip.xxxxxxxx.tk', 'www.ddwhm.com', 'tv9090.com', 'www.vcd.la', 'suboji.com', 'cipuji.com', 'www.iios.club', 'www.smdyy.cc', 'www.zhanglao8.fun', 'www.myvod360.com', 'www.tockt.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.zgjmw.net', 'www.web120.org', 'www.wxxzzs.com', 'wz.weishao2023.dk.eu.org', 'cnamefuckxxs.yuchen.icu', 'www.pk299.com', 'www.dj5157.com', 'www.11txt.com', 'www.999yh.vip', 'yundunwawablogcdn1yd.wawacm.com', 'cf-lt.sharecentre.online', 'sgv7.com', 'guyu.bygzs.cc', 'www.jhhtech.com', '1165vip.com', 'www.90qr.com', 'mmiyy.com', 'www.235t.com', 'www.hanmatv.com', 'e0101.com', 'chalaoshi.de', 'www.uu93.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.smdyy.cc...
+Performing DNS lookup for api.wisemind-ai.com...
+Performing DNS lookup for www.paizipai.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
