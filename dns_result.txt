@@ -2,22 +2,29 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.gzaode.com
-Address: 154.209.36.41
+www.lailai360.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.zhongguotv.com	canonical name = 6c9xajfb.cogertn2.com.
-6c9xajfb.cogertn2.com	canonical name = mvp8j5aq.cogertn2.com.
-Name:	mvp8j5aq.cogertn2.com
-Address: 194.41.37.150
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tingshuyan.com
-Address: 67.229.175.197
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.67.80
+Name:	ips.993888.xyz
+Address: 104.18.171.228
+Name:	ips.993888.xyz
+Address: 104.18.111.47
 
