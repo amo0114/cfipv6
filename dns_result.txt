@@ -1,21 +1,42 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.zgjmw.net
-Address: 127.0.0.1
+** server can't find www.339my.xyz: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cipuji.com
-Address: 198.41.205.83
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.16.205.59
+Name:	dcs.jqddos.xyz
+Address: 104.16.238.30
+Name:	dcs.jqddos.xyz
+Address: 104.16.238.116
+Name:	dcs.jqddos.xyz
+Address: 104.19.233.230
+Name:	dcs.jqddos.xyz
+Address: 104.18.251.206
+Name:	dcs.jqddos.xyz
+Address: 104.25.38.240
+Name:	dcs.jqddos.xyz
+Address: 104.19.249.103
+Name:	dcs.jqddos.xyz
+Address: 104.25.79.52
+Name:	dcs.jqddos.xyz
+Address: 104.17.36.50
+Name:	dcs.jqddos.xyz
+Address: 104.18.253.226
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.bimiacg.net
-Address: 107.148.170.24
+181ge.com	canonical name = weige-luo.b-cdn.net.
+Name:	weige-luo.b-cdn.net
+Address: 138.199.9.104
+Name:	weige-luo.b-cdn.net
+Address: 2400:52e0:1a01::953:1
 
