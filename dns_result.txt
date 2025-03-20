@@ -2,28 +2,25 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.17.0.36
-Name:	dcs.jqddos.xyz
-Address: 104.19.159.53
-Name:	dcs.jqddos.xyz
-Address: 104.16.202.198
-Name:	dcs.jqddos.xyz
-Address: 104.16.90.170
-Name:	dcs.jqddos.xyz
-Address: 104.17.1.203
-Name:	dcs.jqddos.xyz
-Address: 104.25.203.163
-Name:	dcs.jqddos.xyz
-Address: 104.16.246.133
-Name:	dcs.jqddos.xyz
-Address: 104.19.247.128
-Name:	dcs.jqddos.xyz
-Address: 104.18.109.241
-Name:	dcs.jqddos.xyz
-Address: 104.16.202.54
+www.99wx.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.201.108
+Name:	ips.993888.xyz
+Address: 104.16.168.158
+Name:	ips.993888.xyz
+Address: 104.16.237.192
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.57txt.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.168.158
+Name:	ips.993888.xyz
+Address: 104.16.237.192
+Name:	ips.993888.xyz
+Address: 104.17.201.108
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
@@ -31,35 +28,23 @@ Address:	46.203.222.47#53
 Non-authoritative answer:
 guyu.bygzs.cc	canonical name = cdn2.wcnmtxnmsl.cn.
 Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.32
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.78
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.2
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.37
-Name:	cdn2.wcnmtxnmsl.cn
 Address: 185.59.218.21
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.119
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.1
 Name:	cdn2.wcnmtxnmsl.cn
 Address: 185.59.218.69
 Name:	cdn2.wcnmtxnmsl.cn
 Address: 103.116.7.3
 Name:	cdn2.wcnmtxnmsl.cn
+Address: 185.59.218.32
+Name:	cdn2.wcnmtxnmsl.cn
+Address: 185.59.218.78
+Name:	cdn2.wcnmtxnmsl.cn
+Address: 103.116.7.1
+Name:	cdn2.wcnmtxnmsl.cn
+Address: 103.116.7.2
+Name:	cdn2.wcnmtxnmsl.cn
 Address: 185.59.218.73
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.18.226.65
-Name:	ips.993888.xyz
-Address: 104.19.255.38
-Name:	ips.993888.xyz
-Address: 104.19.180.209
+Name:	cdn2.wcnmtxnmsl.cn
+Address: 185.59.218.37
+Name:	cdn2.wcnmtxnmsl.cn
+Address: 185.59.218.119
 
