@@ -2,35 +2,22 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.kanunu2.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
+Name:	www.gzaode.com
+Address: 154.209.36.41
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.100.202
-Name:	ips.993888.xyz
-Address: 104.19.243.65
-Name:	ips.993888.xyz
-Address: 104.17.237.218
+www.zhongguotv.com	canonical name = 6c9xajfb.cogertn2.com.
+6c9xajfb.cogertn2.com	canonical name = mvp8j5aq.cogertn2.com.
+Name:	mvp8j5aq.cogertn2.com
+Address: 194.41.37.150
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
+Name:	www.tingshuyan.com
+Address: 67.229.175.197
 
