@@ -1,42 +1,50 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.339my.xyz: NXDOMAIN
+Non-authoritative answer:
+api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.246.67
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.214.141
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.127.110
+Name:	cfip.xxxxxxxx.tk
+Address: 104.27.21.118
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.105.1
+Name:	cfip.xxxxxxxx.tk
+Address: 188.114.96.125
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.241.229
+Name:	cfip.xxxxxxxx.tk
+Address: 188.114.97.144
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.16.205.59
-Name:	dcs.jqddos.xyz
-Address: 104.16.238.30
-Name:	dcs.jqddos.xyz
-Address: 104.16.238.116
-Name:	dcs.jqddos.xyz
-Address: 104.19.233.230
-Name:	dcs.jqddos.xyz
-Address: 104.18.251.206
-Name:	dcs.jqddos.xyz
-Address: 104.25.38.240
-Name:	dcs.jqddos.xyz
-Address: 104.19.249.103
-Name:	dcs.jqddos.xyz
-Address: 104.25.79.52
-Name:	dcs.jqddos.xyz
-Address: 104.17.36.50
-Name:	dcs.jqddos.xyz
-Address: 104.18.253.226
+cf-lt.sharecentre.online	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-181ge.com	canonical name = weige-luo.b-cdn.net.
-Name:	weige-luo.b-cdn.net
-Address: 138.199.9.104
-Name:	weige-luo.b-cdn.net
-Address: 2400:52e0:1a01::953:1
+Name:	www.sztdsx.com
+Address: 208.98.40.13
 
