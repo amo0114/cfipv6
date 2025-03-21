@@ -2,52 +2,33 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.wenchuanzhaopin.com
-Address: 104.21.112.1
-Name:	www.wenchuanzhaopin.com
-Address: 104.21.80.1
-Name:	www.wenchuanzhaopin.com
-Address: 104.21.32.1
-Name:	www.wenchuanzhaopin.com
-Address: 104.21.64.1
-Name:	www.wenchuanzhaopin.com
-Address: 104.21.16.1
-Name:	www.wenchuanzhaopin.com
-Address: 104.21.96.1
-Name:	www.wenchuanzhaopin.com
-Address: 104.21.48.1
-Name:	www.wenchuanzhaopin.com
-Address: 2606:4700:3030::6815:1001
-Name:	www.wenchuanzhaopin.com
-Address: 2606:4700:3030::6815:6001
-Name:	www.wenchuanzhaopin.com
-Address: 2606:4700:3030::6815:2001
-Name:	www.wenchuanzhaopin.com
-Address: 2606:4700:3030::6815:5001
-Name:	www.wenchuanzhaopin.com
-Address: 2606:4700:3030::6815:7001
-Name:	www.wenchuanzhaopin.com
-Address: 2606:4700:3030::6815:4001
-Name:	www.wenchuanzhaopin.com
-Address: 2606:4700:3030::6815:3001
+Name:	www.mtsijkh.top
+Address: 104.21.91.19
+Name:	www.mtsijkh.top
+Address: 172.67.208.50
+Name:	www.mtsijkh.top
+Address: 2606:4700:3034::6815:5b13
+Name:	www.mtsijkh.top
+Address: 2606:4700:3035::ac43:d032
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find appdh.app: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.shengwanggongcheng.com
-Address: 91.195.240.12
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	www.apboxi.com
-Address: 104.21.43.104
-Name:	www.apboxi.com
-Address: 172.67.178.34
-Name:	www.apboxi.com
-Address: 2606:4700:3033::6815:2b68
-Name:	www.apboxi.com
-Address: 2606:4700:3036::ac43:b222
+proxyip.digitalocean.fxxk.dedyn.io	canonical name = proxyip.digitalocean.cmliussss.net.cdn.cloudflare.net.
+proxyip.digitalocean.cmliussss.net.cdn.cloudflare.net	canonical name = proxyip.digitalocean.hw.090227.xyz.
+proxyip.digitalocean.hw.090227.xyz	canonical name = 14061.cmliu.cloudns.org.cdn.cloudflare.net.
+Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 142.93.131.94
+Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 167.172.40.90
+Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 146.190.224.135
+Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 174.138.8.21
 
