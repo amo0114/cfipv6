@@ -35711,3 +35711,25 @@ Performing DNS lookup for www.cocanwelding.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 136a88f] Update project files
+ 4 files changed, 59 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   ca4e17a..136a88f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.241.229...
+Fetching domains for 104.21.91.19...
+Fetching domains for 104.20.255.53...
+succeed to fetch domains for 104.16.241.229 from https://site.ip138.com/
+succeed to fetch domains for 104.20.255.53 from https://dnsdblookup.com/
+succeed to fetch domains for 104.21.91.19 from https://site.ip138.com/
+域名列表为
+['s1.52poke.wiki', '88303.xyz', 'cs487vkj0q.xyz', 'game.baomaojc.top', 'www.leyuzycdn.com', 'www.kanmanhuala.cc', 'm90s.com', '925uu.com', 'mangalam.com', 'gx.316786.xyz', 'mixie.asia', 'www.tockt.com', 'www.senge.xyz', 'mo.skmbbio.com', 'aspecialdayguide.com', 'glamourescorts69.com', 'coinbasechain.org', 'fa1.fun', 'didiyunhu.com', 'm.mtsijkh.top', 'www.yhdmxzw.com', 'www.suzakucoin.net', 'www.xkx999.com', 'jiba09.top', 'yhdmxzw.com', 'www.swuxfdc.cn', '651yy.com', 'www.99wx.cc', 'www.tingshuyan.com', 'www.tpyyc.com', 'www.295k.com', 'www.tianyunxingmm.com', 'www.339my.xyz', 'www.651yy.com', 'appdh.app', '9knm.top', 'www.zhongguotv.com', 'www.cocanwelding.com', 's0.52poke.wiki', 'api.wisemind-ai.com', 'wenchuanzhaopin.com', 'www.wenchuanzhaopin.com', 'vv1234.cn', 'www.eevv99.com', 'm.zhongguotv.com', 'www.pianba.tv', 'zhongguotv.com', '69av7216.cc', 'mtsijkh.top', 'www.77yeye.com', 'nigdeisletme.com', 'luwangyangrong.com', 'www.yourkeymall.com', 'www.lingyi44.com', 'suzakucoin.net', 'www.999yh.vip', 'pianba.tv', 'www.wubei520.com', 'www.57txt.com', 'wap.pkpkh32.top', 'gl9cf9.tw', 'www.e0576f7b796298c9.com', 'm.zhankuu.com', 'www.hhyy028.com', '6a1070.top', 'www.gzaode.com', 'www.991kan.com', 'mmh3gf.com', 'dsxys.com', 'www.yase775.com', 'www.mmh3gf.com', 'www.bumphillipscharities.com', '52poke.wiki', 'www.whpaiger.com', 'deagledrop.com', 'teencategories.com', 'www.megumirawr.cc', 'cfip.xxxxxxxx.tk', 'www.5522tl.com', 'www.mtsijkh.top', 'www.aprysw.com', 'www.93xscc.com', 'bumphillipscharities.com', 'www.90qr.com', 'www.99wxw.cc', 'www.zhankuu.com', 'tingshuyan.com', 'www.pk299.com', 'inkpiu.it', 'm.niuerzs.com', 'yourkeymall.com', 'devochki18.com', 'www.925uu.com', 'x99av4978.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for didiyunhu.com...
+Performing DNS lookup for www.mtsijkh.top...
+Performing DNS lookup for www.bumphillipscharities.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
