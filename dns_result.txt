@@ -1,34 +1,24 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.mtsijkh.top
-Address: 104.21.91.19
-Name:	www.mtsijkh.top
-Address: 172.67.208.50
-Name:	www.mtsijkh.top
-Address: 2606:4700:3034::6815:5b13
-Name:	www.mtsijkh.top
-Address: 2606:4700:3035::ac43:d032
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find appdh.app: NXDOMAIN
+** server can't find www.qf527.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-proxyip.digitalocean.fxxk.dedyn.io	canonical name = proxyip.digitalocean.cmliussss.net.cdn.cloudflare.net.
-proxyip.digitalocean.cmliussss.net.cdn.cloudflare.net	canonical name = proxyip.digitalocean.hw.090227.xyz.
-proxyip.digitalocean.hw.090227.xyz	canonical name = 14061.cmliu.cloudns.org.cdn.cloudflare.net.
-Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 142.93.131.94
-Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 167.172.40.90
-Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 146.190.224.135
-Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
-Address: 174.138.8.21
+www.web120.org	canonical name = sbcdn.cc.
+Name:	sbcdn.cc
+Address: 141.101.122.122
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
 
