@@ -1,29 +1,31 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-gh.con.sh	canonical name = ghcon.pages.dev.
-Name:	ghcon.pages.dev
-Address: 172.66.45.36
-Name:	ghcon.pages.dev
-Address: 172.66.46.220
-Name:	ghcon.pages.dev
-Address: 2606:4700:310c::ac42:2d24
-Name:	ghcon.pages.dev
-Address: 2606:4700:310c::ac42:2edc
+** server can't find didiyunhu.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.kanmanhuala.cc	canonical name = kanmanhuala-org.183e760a65.dns.yanwudan.net.
-Name:	kanmanhuala-org.183e760a65.dns.yanwudan.net
-Address: 172.247.201.166
+Name:	www.mtsijkh.top
+Address: 104.21.91.19
+Name:	www.mtsijkh.top
+Address: 172.67.208.50
+Name:	www.mtsijkh.top
+Address: 2606:4700:3034::6815:5b13
+Name:	www.mtsijkh.top
+Address: 2606:4700:3035::ac43:d032
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.cocanwelding.com
-Address: 23.225.50.92
+Name:	www.bumphillipscharities.com
+Address: 104.21.91.19
+Name:	www.bumphillipscharities.com
+Address: 172.67.208.50
+Name:	www.bumphillipscharities.com
+Address: 2606:4700:3035::ac43:d032
+Name:	www.bumphillipscharities.com
+Address: 2606:4700:3034::6815:5b13
 
