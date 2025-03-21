@@ -35603,3 +35603,24 @@ Performing DNS lookup for www.99wx.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 831aa0d] Update project files
+ 4 files changed, 64 insertions(+), 68 deletions(-)
+To github.com:amo0114/cfipv6.git
+   2f3318e..831aa0d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 104.16.241.229...
+Fetching domains for 104.16.232.223...
+succeed to fetch domains for 104.16.232.223 from https://site.ip138.com/
+succeed to fetch domains for 188.114.96.125 from https://site.ip138.com/
+succeed to fetch domains for 104.16.241.229 from https://dnsdblookup.com/
+域名列表为
+['www.99wx.cc', 'www.megumirawr.cc', 'guyu.bygzs.cc', 'm.niuerzs.com', 'www.99wxw.cc', 'vv1234.cn', 'www.bfb3.com', 'didiyunhu.com', 'www.cocanwelding.com', '181ge.com', 'teslacentral.com', 'gh.con.sh', '1165vip.com', 'www.whpaiger.com', 'www.93xscc.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.penglecheng.com', 'cfip.xxxxxxxx.tk', 'cnamefuckxxs.yuchen.icu', 'www.kanmanhuala.cc', 'dsxys.com', 'www.57txt.com', 'api.wisemind-ai.com', 'game.baomaojc.top', 'www.zzztch.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for www.57txt.com...
+Performing DNS lookup for guyu.bygzs.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

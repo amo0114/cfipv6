@@ -2,49 +2,18 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.201.108
-Name:	ips.993888.xyz
-Address: 104.16.168.158
-Name:	ips.993888.xyz
-Address: 104.16.237.192
+Name:	www.tv9090.com
+Address: 208.98.43.11
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find mo.skmbbio.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.57txt.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.168.158
-Name:	ips.993888.xyz
-Address: 104.16.237.192
-Name:	ips.993888.xyz
-Address: 104.17.201.108
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-guyu.bygzs.cc	canonical name = cdn2.wcnmtxnmsl.cn.
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.21
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.69
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.3
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.32
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.78
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.1
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.2
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.73
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.37
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.119
+Name:	m.ghqy.com
+Address: 23.224.6.46
 
