@@ -2,41 +2,33 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.80yy.org	canonical name = ccc.seogg.com.
-Name:	ccc.seogg.com
-Address: 172.67.201.211
-Name:	ccc.seogg.com
-Address: 104.21.22.14
-Name:	ccc.seogg.com
-Address: 2606:4700:3035::6815:160e
-Name:	ccc.seogg.com
-Address: 2606:4700:3033::ac43:c9d3
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-vv1234.cn	canonical name = vv1234.cn.cdn.cloudflare.net.
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 104.21.41.166
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 172.67.191.185
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 2606:4700:3036::6815:29a6
-Name:	vv1234.cn.cdn.cloudflare.net
-Address: 2606:4700:3030::ac43:bfb9
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.5522tl.com	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
+** server can't find tushencn.com: SERVFAIL
 
