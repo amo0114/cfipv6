@@ -35950,3 +35950,26 @@ Performing DNS lookup for www.ddkan.tv...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main da6de44] Update project files
+ 4 files changed, 238 insertions(+), 36 deletions(-)
+ rewrite Fission_ip_backup.txt (71%)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   cf6281d..da6de44  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 104.18.228.35...
+Fetching domains for 104.17.127.110...
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.228.35 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.127.110 from https://ipchaxun.com/
+域名列表为
+['game.baomaojc.top', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'guyu.bygzs.cc', 'www.megumirawr.cc', 'cfip.xxxxxxxx.tk', 'www.93xscc.com', 'www.b7yy.cc', 'cnamefuckxxs.yuchen.icu', '1165vip.com', 'www.lailai360.com', 'www.longwangchuanshuo.com', 'www.kanunu2.com', 'www.cfhuagong.com', 'vv1234.cn', 'www.longwangchuanshuo.net', '181ge.com', 'www.qindi.net', 'api.wisemind-ai.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.b7yy.cc...
+Performing DNS lookup for cnamefuckxxs.yuchen.icu...
+Performing DNS lookup for guyu.bygzs.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
