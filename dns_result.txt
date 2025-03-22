@@ -2,61 +2,25 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.247.169
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.241.229
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.97.144
-Name:	cfip.xxxxxxxx.tk
-Address: 104.21.91.19
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.214.141
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
-Name:	cfip.xxxxxxxx.tk
-Address: 104.27.21.118
-Name:	cfip.xxxxxxxx.tk
-Address: 104.20.255.53
-Name:	cfip.xxxxxxxx.tk
-Address: 104.18.228.35
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.127.110
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.96.125
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.246.67
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 104.25.105.1
+www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 104.21.30.140
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 172.67.172.249
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:1e8c
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:acf9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.lailai360.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
+Name:	www.cfhuagong.com
+Address: 162.209.149.30
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-vv1234.cn	canonical name = cf2.mdzz.top.
-cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 172.67.152.132
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 104.21.2.45
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:9884
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:22d
+** server can't find www.ddkan.tv: SERVFAIL
 
