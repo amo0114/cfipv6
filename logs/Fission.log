@@ -35928,3 +35928,25 @@ Performing DNS lookup for vv1234.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cf6281d] Update project files
+ 4 files changed, 54 insertions(+), 83 deletions(-)
+ rewrite dns_result.txt (86%)
+To github.com:amo0114/cfipv6.git
+   9705c03..cf6281d  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.21.118...
+Fetching domains for 104.17.127.110...
+Fetching domains for 190.93.244.201...
+succeed to fetch domains for 104.27.21.118 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.127.110 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.244.201 from https://ipchaxun.com/
+域名列表为
+['game.baomaojc.top', 'bestproxy.030101.xyz', 'cfrp.kryp.us.kg', 'www.77zw.cc', 'www.tinghen.com', '8810868.com', 'www.b7yy.cc', 'www.11txt.com', 'www.zhiqihuo.com', 'cf-lt.sharecentre.online', 'vv1234.cn', 'ddkan.tv', 'www.tv9090.com', 'www.6988tv.com', 'tv9090.com', 'qr99.cc', 'www.ddkan.tv', 'www.bimiacg.net', 'acjp2.cloudflarest.link', '65bao2.com', 'www.longwangchuanshuo.net', 'cfip.xxxxxxxx.tk', '7y26.com', 'ayuer.com', 'www.sxyzxh.com', 'www.web120.org', 'www.7sc.cc', 'www.4gdiy.com', 'www.cfhuagong.com', 'www.50zw.co', '606977.com', 'www.paizipai.top', 'www.u9yy.com', '923055.com', 'www.4148.net', 'www.pwcai.com', '0550cq.com', 'panel3.touhou.tel', 'api.wisemind-ai.com', 'www.gzlatin.com', 'cmcc.hza1128.x10.mx', 'm.mw171.com', 'ei01.com', 'cf1.492745.xyz', 'www.huaidan1.com', 'www.megumirawr.cc', 'www.wn01.cc', 'uu93.com', 'www.606977.com', 'www.hanjutv5.com', 'www.hnxinlian.org', 'womyt.com', 'www.uu93.com', 'www.zzgszg.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tinghen.com...
+Performing DNS lookup for www.cfhuagong.com...
+Performing DNS lookup for www.ddkan.tv...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
