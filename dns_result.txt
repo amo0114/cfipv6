@@ -2,26 +2,60 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hnxinlian.org	canonical name = sbcdn.cc.
-Name:	sbcdn.cc
-Address: 141.101.122.122
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find baxtc.66666654.xyz: NXDOMAIN
+Name:	missav.mrst.one
+Address: 104.21.74.156
+Name:	missav.mrst.one
+Address: 172.67.159.217
+Name:	missav.mrst.one
+Address: 2606:4700:3037::6815:4a9c
+Name:	missav.mrst.one
+Address: 2606:4700:3037::ac43:9fd9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+game.baomaojc.top	canonical name = cdn.baomaojss.top.
+Name:	cdn.baomaojss.top
+Address: 172.67.219.208
+Name:	cdn.baomaojss.top
+Address: 104.21.91.133
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3032::ac43:dbd0
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3031::6815:5b85
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.28dushu.com	canonical name = back.jdsharecodes.top.
+Name:	back.jdsharecodes.top
+Address: 104.21.48.1
+Name:	back.jdsharecodes.top
+Address: 104.21.32.1
+Name:	back.jdsharecodes.top
+Address: 104.21.16.1
+Name:	back.jdsharecodes.top
+Address: 104.21.112.1
+Name:	back.jdsharecodes.top
+Address: 104.21.64.1
+Name:	back.jdsharecodes.top
+Address: 104.21.96.1
+Name:	back.jdsharecodes.top
+Address: 104.21.80.1
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:3001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:6001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:1001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:2001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:4001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:5001
+Name:	back.jdsharecodes.top
+Address: 2606:4700:3030::6815:7001
 
