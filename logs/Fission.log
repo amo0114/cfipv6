@@ -36148,3 +36148,24 @@ Performing DNS lookup for game.baomaojc.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 18dd7f3] Update project files
+ 4 files changed, 63 insertions(+), 60 deletions(-)
+To github.com:amo0114/cfipv6.git
+   9c5f331..18dd7f3  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.232.223...
+Fetching domains for 104.16.241.229...
+Fetching domains for 104.18.228.35...
+succeed to fetch domains for 104.18.228.35 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.232.223 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.241.229 from https://dnsdblookup.com/
+域名列表为
+['vv1234.cn', 'teslacentral.com', 'm.niuerzs.com', 'api.wisemind-ai.com', 'www.99wx.cc', 'game.baomaojc.top', 'www.bfb3.com', 'www.kanunu2.com', 'www.57txt.com', 'www.zzztch.com', 'www.99wxw.cc', 'www.longwangchuanshuo.com', 'www.whpaiger.com', 'www.megumirawr.cc', 'gh.con.sh', 'www.cocanwelding.com', 'dsxys.com', 'www.lailai360.com', 'www.kanmanhuala.cc', 'didiyunhu.com', 'www.93xscc.com', 'www.penglecheng.com', 'cfip.xxxxxxxx.tk', 'www.qindi.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.lailai360.com...
+Performing DNS lookup for api.wisemind-ai.com...
+Performing DNS lookup for www.megumirawr.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
