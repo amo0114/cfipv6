@@ -36127,3 +36127,24 @@ Performing DNS lookup for ss8r1e0k.szwhoroulnb5ndhimbqt.top...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9c5f331] Update project files
+ 4 files changed, 106 insertions(+), 12 deletions(-)
+To github.com:amo0114/cfipv6.git
+   d111e76..9c5f331  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.21.118...
+Fetching domains for 104.16.232.223...
+Fetching domains for 188.114.96.125...
+succeed to fetch domains for 104.27.21.118 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.232.223 from https://site.ip138.com/
+succeed to fetch domains for 188.114.96.125 from https://site.ip138.com/
+域名列表为
+['www.penglecheng.com', 'vv1234.cn', 'www.bfb3.com', 'www.zzztch.com', 'cfip.xxxxxxxx.tk', 'game.baomaojc.top', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', '181ge.com', 'www.megumirawr.cc', 'guyu.bygzs.cc', 'www.whpaiger.com', 'gh.con.sh', 'cnamefuckxxs.yuchen.icu', 'teslacentral.com', '1165vip.com', 'cmcc.hza1128.x10.mx', 'api.wisemind-ai.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for api.wisemind-ai.com...
+Performing DNS lookup for game.baomaojc.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
