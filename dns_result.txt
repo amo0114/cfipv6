@@ -2,56 +2,19 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.57txt.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.138.40
-Name:	ips.993888.xyz
-Address: 104.16.23.104
-Name:	ips.993888.xyz
-Address: 104.16.87.138
+Name:	www.tv9090.com
+Address: 208.98.40.80
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.138.40
-Name:	ips.993888.xyz
-Address: 104.16.87.138
-Name:	ips.993888.xyz
-Address: 104.16.23.104
+www.web120.org	canonical name = sbcdn.cc.
+Name:	sbcdn.cc
+Address: 141.101.122.122
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	uu93.com
-Address: 104.21.96.1
-Name:	uu93.com
-Address: 104.21.32.1
-Name:	uu93.com
-Address: 104.21.112.1
-Name:	uu93.com
-Address: 104.21.16.1
-Name:	uu93.com
-Address: 104.21.80.1
-Name:	uu93.com
-Address: 104.21.64.1
-Name:	uu93.com
-Address: 104.21.48.1
-Name:	uu93.com
-Address: 2606:4700:3030::6815:2001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:7001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:6001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:5001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:1001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:3001
+** server can't find ss8r1e0k.szwhoroulnb5ndhimbqt.top: NXDOMAIN
 
