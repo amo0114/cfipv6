@@ -1,30 +1,60 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.sztdsx.com
-Address: 208.98.40.210
+** server can't find www.qumiyun.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hnxinlian.org	canonical name = sbcdn.cc.
-Name:	sbcdn.cc
-Address: 141.101.122.122
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
+api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
 Name:	cfip.xxxxxxxx.tk
 Address: 104.16.241.229
 Name:	cfip.xxxxxxxx.tk
+Address: 188.114.97.144
+Name:	cfip.xxxxxxxx.tk
 Address: 104.16.232.223
 Name:	cfip.xxxxxxxx.tk
+Address: 104.17.127.110
+Name:	cfip.xxxxxxxx.tk
+Address: 104.27.21.118
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.105.1
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.246.67
+Name:	cfip.xxxxxxxx.tk
 Address: 188.114.96.125
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.214.141
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	cfip.xxxxxxxx.tk
+Address: 188.114.96.125
+Name:	cfip.xxxxxxxx.tk
+Address: 104.27.21.118
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.246.67
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.127.110
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 104.25.105.1
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.214.141
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.241.229
+Name:	cfip.xxxxxxxx.tk
+Address: 188.114.97.144
 
