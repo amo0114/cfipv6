@@ -2,24 +2,27 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-downloads.vmicrosoft.com	canonical name = cf.899527.xyz.
-cf.899527.xyz	canonical name = od-proxy.19670960.workers.dev.
-Name:	od-proxy.19670960.workers.dev
-Address: 104.21.47.7
-Name:	od-proxy.19670960.workers.dev
-Address: 172.67.169.171
-Name:	od-proxy.19670960.workers.dev
-Address: 2606:4700:3036::6815:2f07
-Name:	od-proxy.19670960.workers.dev
-Address: 2606:4700:3034::ac43:a9ab
+Name:	sgv7.com
+Address: 23.248.226.74
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find ukcc.digicert.pp.ua: NXDOMAIN
+Non-authoritative answer:
+www.90dushu.com	canonical name = back.52biqv.com.
+Name:	back.52biqv.com
+Address: 172.67.214.157
+Name:	back.52biqv.com
+Address: 104.21.53.154
+Name:	back.52biqv.com
+Address: 2606:4700:3034::ac43:d69d
+Name:	back.52biqv.com
+Address: 2606:4700:3032::6815:359a
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find ss8r1e0k.szwhoroulnb5ndhimbqt.top: NXDOMAIN
+Non-authoritative answer:
+Name:	www.4gdiy.com
+Address: 199.59.243.228
 
