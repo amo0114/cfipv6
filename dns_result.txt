@@ -2,60 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-game.baomaojc.top	canonical name = cdn.baomaojss.top.
-Name:	cdn.baomaojss.top
-Address: 104.21.91.133
-Name:	cdn.baomaojss.top
-Address: 172.67.219.208
-Name:	cdn.baomaojss.top
-Address: 2606:4700:3031::6815:5b85
-Name:	cdn.baomaojss.top
-Address: 2606:4700:3032::ac43:dbd0
+www.679077.com	canonical name = quququddfdf.f7chinavip.com.
+Name:	quququddfdf.f7chinavip.com
+Address: 103.149.152.7
+Name:	quququddfdf.f7chinavip.com
+Address: 103.149.152.6
+Name:	quququddfdf.f7chinavip.com
+Address: 103.149.152.5
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.4148.net	canonical name = www.4148.net.cdn.cloudflare.net.
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 104.21.59.212
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 172.67.184.20
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 2606:4700:3031::ac43:b814
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:3bd4
+7sc.cc	canonical name = sbcdn.cc.
+Name:	sbcdn.cc
+Address: 141.101.122.122
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.uu93.com
-Address: 104.21.80.1
-Name:	www.uu93.com
-Address: 104.21.64.1
-Name:	www.uu93.com
-Address: 104.21.96.1
-Name:	www.uu93.com
-Address: 104.21.48.1
-Name:	www.uu93.com
-Address: 104.21.112.1
-Name:	www.uu93.com
-Address: 104.21.16.1
-Name:	www.uu93.com
-Address: 104.21.32.1
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:6001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:3001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:2001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:5001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:1001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:7001
+www.kanunu2.com	canonical name = bkads.985311.xyz.
+Name:	bkads.985311.xyz
+Address: 162.159.140.18
+Name:	bkads.985311.xyz
+Address: 162.159.136.137
+Name:	bkads.985311.xyz
+Address: 162.159.130.187
 
