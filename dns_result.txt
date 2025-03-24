@@ -2,55 +2,60 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cf1.492745.xyz
-Address: 172.67.176.17
-Name:	cf1.492745.xyz
-Address: 190.93.247.48
-Name:	cf1.492745.xyz
-Address: 172.67.35.156
-Name:	cf1.492745.xyz
-Address: 104.16.102.95
-Name:	cf1.492745.xyz
-Address: 172.67.109.117
-Name:	cf1.492745.xyz
-Address: 172.64.82.105
-Name:	cf1.492745.xyz
-Address: 172.64.90.129
-Name:	cf1.492745.xyz
-Address: 172.67.72.81
-Name:	cf1.492745.xyz
-Address: 172.67.160.170
-Name:	cf1.492745.xyz
-Address: 172.67.40.218
-Name:	cf1.492745.xyz
-Address: 104.19.73.116
-Name:	cf1.492745.xyz
-Address: 172.67.168.112
-Name:	cf1.492745.xyz
-Address: 172.67.6.176
-Name:	cf1.492745.xyz
-Address: 172.67.196.141
-Name:	cf1.492745.xyz
-Address: 172.67.12.91
+game.baomaojc.top	canonical name = cdn.baomaojss.top.
+Name:	cdn.baomaojss.top
+Address: 104.21.91.133
+Name:	cdn.baomaojss.top
+Address: 172.67.219.208
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3031::6815:5b85
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3032::ac43:dbd0
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.38yy.cn	canonical name = 38yy.uzuwan.com.
-Name:	38yy.uzuwan.com
-Address: 172.67.222.213
-Name:	38yy.uzuwan.com
-Address: 104.21.62.103
-Name:	38yy.uzuwan.com
-Address: 2606:4700:3032::6815:3e67
-Name:	38yy.uzuwan.com
-Address: 2606:4700:3035::ac43:ded5
+www.4148.net	canonical name = www.4148.net.cdn.cloudflare.net.
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 104.21.59.212
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 172.67.184.20
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 2606:4700:3031::ac43:b814
+Name:	www.4148.net.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:3bd4
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tuozhan22.com
-Address: 103.224.182.251
+Name:	www.uu93.com
+Address: 104.21.80.1
+Name:	www.uu93.com
+Address: 104.21.64.1
+Name:	www.uu93.com
+Address: 104.21.96.1
+Name:	www.uu93.com
+Address: 104.21.48.1
+Name:	www.uu93.com
+Address: 104.21.112.1
+Name:	www.uu93.com
+Address: 104.21.16.1
+Name:	www.uu93.com
+Address: 104.21.32.1
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:6001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:3001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:2001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:4001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:5001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:1001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:7001
 
