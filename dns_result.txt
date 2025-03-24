@@ -2,45 +2,55 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.16.8.230
-Name:	dcs.jqddos.xyz
-Address: 104.16.36.148
-Name:	dcs.jqddos.xyz
-Address: 104.16.39.181
-Name:	dcs.jqddos.xyz
-Address: 104.16.196.10
-Name:	dcs.jqddos.xyz
-Address: 104.16.224.156
-Name:	dcs.jqddos.xyz
-Address: 104.17.22.198
-Name:	dcs.jqddos.xyz
-Address: 104.17.25.199
-Name:	dcs.jqddos.xyz
-Address: 104.18.109.71
-Name:	dcs.jqddos.xyz
-Address: 104.24.44.136
-Name:	dcs.jqddos.xyz
-Address: 104.25.79.140
+Name:	cf1.492745.xyz
+Address: 172.67.176.17
+Name:	cf1.492745.xyz
+Address: 190.93.247.48
+Name:	cf1.492745.xyz
+Address: 172.67.35.156
+Name:	cf1.492745.xyz
+Address: 104.16.102.95
+Name:	cf1.492745.xyz
+Address: 172.67.109.117
+Name:	cf1.492745.xyz
+Address: 172.64.82.105
+Name:	cf1.492745.xyz
+Address: 172.64.90.129
+Name:	cf1.492745.xyz
+Address: 172.67.72.81
+Name:	cf1.492745.xyz
+Address: 172.67.160.170
+Name:	cf1.492745.xyz
+Address: 172.67.40.218
+Name:	cf1.492745.xyz
+Address: 104.19.73.116
+Name:	cf1.492745.xyz
+Address: 172.67.168.112
+Name:	cf1.492745.xyz
+Address: 172.67.6.176
+Name:	cf1.492745.xyz
+Address: 172.67.196.141
+Name:	cf1.492745.xyz
+Address: 172.67.12.91
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
+www.38yy.cn	canonical name = 38yy.uzuwan.com.
+Name:	38yy.uzuwan.com
+Address: 172.67.222.213
+Name:	38yy.uzuwan.com
+Address: 104.21.62.103
+Name:	38yy.uzuwan.com
+Address: 2606:4700:3032::6815:3e67
+Name:	38yy.uzuwan.com
+Address: 2606:4700:3035::ac43:ded5
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m90s.com
-Address: 162.254.36.135
+Name:	www.tuozhan22.com
+Address: 103.224.182.251
 
