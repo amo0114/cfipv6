@@ -2,27 +2,48 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	sgv7.com
-Address: 23.248.226.74
+www.wubei520.com	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 104.21.80.1
+Name:	cf.host106.america96.com
+Address: 104.21.96.1
+Name:	cf.host106.america96.com
+Address: 104.21.16.1
+Name:	cf.host106.america96.com
+Address: 104.21.112.1
+Name:	cf.host106.america96.com
+Address: 104.21.48.1
+Name:	cf.host106.america96.com
+Address: 104.21.64.1
+Name:	cf.host106.america96.com
+Address: 104.21.32.1
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:2001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:1001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:5001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:3001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:4001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:7001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:6001
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.90dushu.com	canonical name = back.52biqv.com.
-Name:	back.52biqv.com
-Address: 172.67.214.157
-Name:	back.52biqv.com
-Address: 104.21.53.154
-Name:	back.52biqv.com
-Address: 2606:4700:3034::ac43:d69d
-Name:	back.52biqv.com
-Address: 2606:4700:3032::6815:359a
+www.50zw.co	canonical name = cdn.booktxtcdn.com.
+Name:	cdn.booktxtcdn.com
+Address: 128.14.129.98
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.4gdiy.com
-Address: 199.59.243.228
+Name:	bestproxy.030101.xyz
+Address: 168.138.165.174
 
