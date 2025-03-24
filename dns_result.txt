@@ -2,31 +2,45 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.yourkeymall.com
-Address: 45.199.41.156
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.16.8.230
+Name:	dcs.jqddos.xyz
+Address: 104.16.36.148
+Name:	dcs.jqddos.xyz
+Address: 104.16.39.181
+Name:	dcs.jqddos.xyz
+Address: 104.16.196.10
+Name:	dcs.jqddos.xyz
+Address: 104.16.224.156
+Name:	dcs.jqddos.xyz
+Address: 104.17.22.198
+Name:	dcs.jqddos.xyz
+Address: 104.17.25.199
+Name:	dcs.jqddos.xyz
+Address: 104.18.109.71
+Name:	dcs.jqddos.xyz
+Address: 104.24.44.136
+Name:	dcs.jqddos.xyz
+Address: 104.25.79.140
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	6a1070.top
-Address: 172.67.208.50
-Name:	6a1070.top
-Address: 104.21.91.19
-Name:	6a1070.top
-Address: 2606:4700:3035::ac43:d032
-Name:	6a1070.top
-Address: 2606:4700:3034::6815:5b13
+api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.77zw.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.16.11.103
-Name:	ips.993888.xyz
-Address: 104.17.107.223
-Name:	ips.993888.xyz
-Address: 104.19.250.173
+Name:	m90s.com
+Address: 162.254.36.135
 
