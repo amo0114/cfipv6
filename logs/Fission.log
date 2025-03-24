@@ -36213,3 +36213,24 @@ Performing DNS lookup for www.4gdiy.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 4bea744] Update project files
+ 4 files changed, 71 insertions(+), 23 deletions(-)
+To github.com:amo0114/cfipv6.git
+   ca554f8..4bea744  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.255.53...
+Fetching domains for 190.93.244.201...
+Fetching domains for 104.16.241.229...
+succeed to fetch domains for 190.93.244.201 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.241.229 from https://site.ip138.com/
+succeed to fetch domains for 104.20.255.53 from https://ipchaxun.com/
+域名列表为
+['didiyunhu.com', 'panel3.touhou.tel', '923055.com', 'www.cocanwelding.com', 'game.baomaojc.top', 'www.7sc.cc', 'www.bimiacg.net', 'm.niuerzs.com', 'uu93.com', 'm90s.com', 'www.b7yy.cc', 'www.gzlatin.com', 'womyt.com', 'www.99wxw.cc', 'www.295k.com', '0550cq.com', 'bestproxy.030101.xyz', 'cfip.xxxxxxxx.tk', 'www.hnxinlian.org', 'www.tockt.com', 'www.sxyzxh.com', 'www.50zw.co', 'www.tinghen.com', 'fa1.fun', 'cf1.492745.xyz', 'www.zzgszg.com', 'ayuer.com', 'www.uu93.com', 'ei01.com', 'www.999yh.vip', 'www.xkx999.com', '606977.com', 'www.93xscc.com', 'www.99wx.cc', 'www.kanmanhuala.cc', 'qr99.cc', 'www.ddkan.tv', 'cfrp.kryp.us.kg', 'www.4gdiy.com', 'www.wubei520.com', '7y26.com', 'tv9090.com', 'www.606977.com', 'api.wisemind-ai.com', 'www.pk299.com', 'www.339my.xyz', 'www.tv9090.com', 'www.u9yy.com', 'www.hanjutv5.com', 'www.57txt.com', 'dsxys.com', 'www.pwcai.com', '65bao2.com', 'vv1234.cn', 'acjp2.cloudflarest.link', 'www.5522tl.com', 'www.77zw.cc', 'www.megumirawr.cc', 'www.6988tv.com', 'www.web120.org', 'www.zhiqihuo.com', 'cf-lt.sharecentre.online', 'www.huaidan1.com', 'ddkan.tv', 'm.mw171.com', 'www.wn01.cc', 'www.hhyy028.com', 'www.4148.net', 'www.paizipai.top', 'www.11txt.com', 'www.90qr.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wubei520.com...
+Performing DNS lookup for www.50zw.co...
+Performing DNS lookup for bestproxy.030101.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
