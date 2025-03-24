@@ -1,25 +1,54 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.suzakucoin.net: NXDOMAIN
+** server can't find www.tl123123.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	7y26.com
-Address: 172.67.136.219
-Name:	7y26.com
-Address: 104.21.94.143
-Name:	7y26.com
-Address: 2606:4700:3031::ac43:88db
-Name:	7y26.com
-Address: 2606:4700:3032::6815:5e8f
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.606977.com
-Address: 69.16.230.165
+www.wubei520.com	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 104.21.80.1
+Name:	cf.host106.america96.com
+Address: 104.21.96.1
+Name:	cf.host106.america96.com
+Address: 104.21.48.1
+Name:	cf.host106.america96.com
+Address: 104.21.64.1
+Name:	cf.host106.america96.com
+Address: 104.21.16.1
+Name:	cf.host106.america96.com
+Address: 104.21.112.1
+Name:	cf.host106.america96.com
+Address: 104.21.32.1
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:3001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:1001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:4001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:2001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:7001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:5001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:6001
 
