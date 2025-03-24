@@ -2,31 +2,37 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.679077.com	canonical name = quququddfdf.f7chinavip.com.
-Name:	quququddfdf.f7chinavip.com
-Address: 103.149.152.7
-Name:	quququddfdf.f7chinavip.com
-Address: 103.149.152.6
-Name:	quququddfdf.f7chinavip.com
-Address: 103.149.152.5
+www.myvod360.com	canonical name = myvod360.com.
+myvod360.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-7sc.cc	canonical name = sbcdn.cc.
-Name:	sbcdn.cc
-Address: 141.101.122.122
+Name:	www.zgjmw.net
+Address: 127.0.0.1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.kanunu2.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
 

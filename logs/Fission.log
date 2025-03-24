@@ -36322,3 +36322,25 @@ Performing DNS lookup for www.uu93.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5906ec4] Update project files
+ 4 files changed, 66 insertions(+), 77 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   5f6b90b..5906ec4  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.21.118...
+Fetching domains for 188.114.97.144...
+Fetching domains for 190.93.246.67...
+succeed to fetch domains for 188.114.97.144 from https://site.ip138.com/
+succeed to fetch domains for 190.93.246.67 from https://ipchaxun.com/
+succeed to fetch domains for 104.27.21.118 from https://dnsdblookup.com/
+域名列表为
+['www.ayuer.com', 'www.tinghen.com', 'www.99wx.cc', 'www.zongcaixs.cc', 'uu93.com', 'www.tv9090.com', 'gtts.life', 'www.e0101.com', 'e0101.com', 'lao310.com', 'www.huanyaad.com', 'ag.hg2096.com', '606977.com', 'www.0550cq.com', '0702.rr.nu', 'cfip.xxxxxxxx.tk', 'blog.hostmonit.com', 'www.28dushu.com', 'www.4gdiy.com', '8810868.com', 'cmcc.hza1128.x10.mx', 'www.888dyy.cc', 'sgv7.com', 'www.kx10.com', '7sc.cc', 'game.baomaojc.top', 'www.90dushu.com', 'www.megumirawr.cc', '63ws.com', 'www.33mov.com', 'www.suboji.com', 'wei333.com', 'www.77zw.cc', 'boyangjt.com', 'www.fnyy.net', 'www.cbcv.cc', 'www.qp666.com', 'vv1234.cn', 'www.dy1255.com', 'www.uu93.com', 'www.93xscc.com', 'www.hg0389.com', 'qp66.com', 'www.qf527.com', 'api.wisemind-ai.com', 'www.paizipai.top', 'www.991kan.com', 'www.kanju8.com', 'www.xwbhk.com', 'www.96dushu.com', 'www.nitianxieshen.com', 'www.11txt.com', 'lao304.com', 'www.3dck.com', 'm.boyangjt.com', 'www.116.ag', 'www.dypf8.com', 'jp57.cc', 'stock.hostmonit.com', 'www.tuozhan22.com', 'www.jsmx999.com', 'www.zzgszg.com', 'm.6i5.com', 'a397.cc', 'suboji.com', 'www.679077.com', 'www.tushencn.com', 'www.boyangjt.com', 'www.lailai360.com', 'www.kanunu2.com', 'bestproxy.030101.xyz', 'chalaoshi.de', 'www.6i5.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.679077.com...
+Performing DNS lookup for 7sc.cc...
+Performing DNS lookup for www.kanunu2.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
