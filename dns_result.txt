@@ -2,25 +2,47 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.leyuzycdn.com
-Address: 154.204.224.13
+www.50zw.co	canonical name = cdn.booktxtcdn.com.
+Name:	cdn.booktxtcdn.com
+Address: 128.14.129.98
+;; connection timed out; no servers could be reached
+
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find jhpcza.66666654.xyz: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find 88303.xyz: No answer
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	aspecialdayguide.com
-Address: 172.67.208.50
-Name:	aspecialdayguide.com
-Address: 104.21.91.19
-Name:	aspecialdayguide.com
-Address: 2606:4700:3034::6815:5b13
-Name:	aspecialdayguide.com
-Address: 2606:4700:3035::ac43:d032
+Name:	www.uu93.com
+Address: 104.21.32.1
+Name:	www.uu93.com
+Address: 104.21.96.1
+Name:	www.uu93.com
+Address: 104.21.16.1
+Name:	www.uu93.com
+Address: 104.21.80.1
+Name:	www.uu93.com
+Address: 104.21.112.1
+Name:	www.uu93.com
+Address: 104.21.64.1
+Name:	www.uu93.com
+Address: 104.21.48.1
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:6001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:1001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:3001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:5001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:2001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:4001
+Name:	www.uu93.com
+Address: 2606:4700:3030::6815:7001
 
