@@ -36431,3 +36431,24 @@ Performing DNS lookup for m.boyangjt.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 454d2a8] Update project files
+ 4 files changed, 50 insertions(+), 23 deletions(-)
+To github.com:amo0114/cfipv6.git
+   39d13b8..454d2a8  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.232.223...
+Fetching domains for 190.93.244.201...
+Fetching domains for 104.16.241.229...
+succeed to fetch domains for 190.93.244.201 from https://site.ip138.com/
+succeed to fetch domains for 104.16.232.223 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.241.229 from https://dnsdblookup.com/
+域名列表为
+['www.ddkan.tv', 'www.zzgszg.com', '606977.com', 'didiyunhu.com', 'ei01.com', 'www.web120.org', 'www.hnxinlian.org', 'www.bimiacg.net', 'www.606977.com', 'www.zhiqihuo.com', 'www.sxyzxh.com', 'cfip.xxxxxxxx.tk', 'www.tinghen.com', '8810868.com', 'www.4148.net', 'www.6988tv.com', 'www.whpaiger.com', 'www.bfb3.com', '65bao2.com', 'www.paizipai.top', 'www.57txt.com', 'm.mw171.com', 'game.baomaojc.top', 'api.wisemind-ai.com', 'teslacentral.com', 'www.gzlatin.com', 'www.7sc.cc', 'www.tv9090.com', 'acjp2.cloudflarest.link', 'www.99wxw.cc', 'qr99.cc', 'www.93xscc.com', 'www.kanmanhuala.cc', 'www.pwcai.com', 'cf1.492745.xyz', 'gh.con.sh', 'www.huaidan1.com', 'www.penglecheng.com', 'vv1234.cn', 'www.zzztch.com', 'www.uu93.com', '7y26.com', 'cfrp.kryp.us.kg', 'ddkan.tv', 'www.77zw.cc', 'www.11txt.com', 'www.wn01.cc', 'dsxys.com', 'www.u9yy.com', 'www.4gdiy.com', 'cf-lt.sharecentre.online', 'uu93.com', 'm.niuerzs.com', 'ayuer.com', 'womyt.com', 'bestproxy.030101.xyz', 'panel3.touhou.tel', 'www.99wx.cc', 'tv9090.com', 'www.b7yy.cc', 'www.50zw.co', 'www.hanjutv5.com', 'www.cocanwelding.com', '0550cq.com', 'www.megumirawr.cc', '923055.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.99wx.cc...
+Performing DNS lookup for womyt.com...
+Performing DNS lookup for gh.con.sh...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
