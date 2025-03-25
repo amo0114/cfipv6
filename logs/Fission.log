@@ -36388,3 +36388,24 @@ Performing DNS lookup for www.606977.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 64b5a27] Update project files
+ 4 files changed, 77 insertions(+), 20 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7a24338..64b5a27  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.21.118...
+Fetching domains for 104.25.105.1...
+Fetching domains for 104.17.127.110...
+succeed to fetch domains for 104.17.127.110 from https://dnsdblookup.com/
+succeed to fetch domains for 104.27.21.118 from https://dnsdblookup.com/
+succeed to fetch domains for 104.25.105.1 from https://dnsdblookup.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'www.wecaidan.com', 'www.hhyy028.com', 'www.megumirawr.cc', 'www.b7yy.cc', 'api.wisemind-ai.com', 'www.tl123123.com', 'www.wubei520.com', 'vv1234.cn', 'www.longwangchuanshuo.net', 'www.cfhuagong.com', 'game.baomaojc.top', 'cmcc.hza1128.x10.mx']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.tl123123.com...
+Performing DNS lookup for vv1234.cn...
+Performing DNS lookup for www.wubei520.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
