@@ -2,25 +2,46 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.5522tl.com	canonical name = cf.host106.69sf.cn.
-Name:	cf.host106.69sf.cn
-Address: 104.21.10.55
-Name:	cf.host106.69sf.cn
-Address: 172.67.131.63
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3037::6815:a37
-Name:	cf.host106.69sf.cn
-Address: 2606:4700:3031::ac43:833f
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.xkx999.com: SERVFAIL
+www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 104.21.44.202
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 172.67.203.171
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:2cca
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:cbab
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m90s.com
-Address: 162.254.36.135
+Name:	www.suboji.com
+Address: 66.175.216.36
+Name:	www.suboji.com
+Address: 192.155.84.236
+Name:	www.suboji.com
+Address: 23.239.3.104
+Name:	www.suboji.com
+Address: 74.207.241.245
+Name:	www.suboji.com
+Address: 2600:3c01::f03c:95ff:feeb:5ed6
+Name:	www.suboji.com
+Address: 2600:3c01::f03c:95ff:feed:cf2a
+Name:	www.suboji.com
+Address: 2600:3c01::f03c:95ff:fe00:29ca
+Name:	www.suboji.com
+Address: 2600:3c01::f03c:95ff:fe91:5de5
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.16.126.219
+Name:	ips.993888.xyz
+Address: 104.16.122.184
+Name:	ips.993888.xyz
+Address: 104.16.175.84
 
