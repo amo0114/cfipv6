@@ -36670,3 +36670,24 @@ Performing DNS lookup for www.99wxw.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main d7cb380] Update project files
+ 4 files changed, 72 insertions(+), 34 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7b2c03a..d7cb380  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.228.35...
+Fetching domains for 188.114.96.125...
+Fetching domains for 188.114.97.144...
+succeed to fetch domains for 104.18.228.35 from https://site.ip138.com/
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.97.144 from https://ipchaxun.com/
+域名列表为
+['game.baomaojc.top', 'guyu.bygzs.cc', 'www.lailai360.com', '1165vip.com', 'lao304.com', 'www.qindi.net', '181ge.com', 'cnamefuckxxs.yuchen.icu', 'cfip.xxxxxxxx.tk', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'lao310.com', 'vv1234.cn', 'www.longwangchuanshuo.com', 'www.93xscc.com', 'www.kanunu2.com', 'api.wisemind-ai.com', 'bestproxy.030101.xyz', 'www.megumirawr.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.megumirawr.cc...
+Performing DNS lookup for ss8r1e0k.szwhoroulnb5ndhimbqt.top...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
