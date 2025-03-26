@@ -2,32 +2,34 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 104.21.44.202
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 172.67.203.171
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:2cca
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:cbab
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.mfwzhs.com: NXDOMAIN
+api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
+Name:	cfip.xxxxxxxx.tk
+Address: 188.114.96.125
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	blog.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+Name:	606977.com
+Address: 69.16.230.165
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+www.megumirawr.cc	canonical name = www.megumirawr.top.
+Name:	www.megumirawr.top
+Address: 104.21.83.187
+Name:	www.megumirawr.top
+Address: 172.67.180.217
+Name:	www.megumirawr.top
+Address: 2606:4700:3037::6815:53bb
+Name:	www.megumirawr.top
+Address: 2606:4700:3035::ac43:b4d9
 
