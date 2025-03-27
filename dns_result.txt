@@ -1,25 +1,21 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find coinbasechain.org: NXDOMAIN
+Non-authoritative answer:
+Name:	www.lnudz.com
+Address: 208.98.43.13
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tingshuyan.com
-Address: 172.67.208.50
-Name:	www.tingshuyan.com
-Address: 104.21.91.19
-Name:	www.tingshuyan.com
-Address: 2606:4700:3034::6815:5b13
-Name:	www.tingshuyan.com
-Address: 2606:4700:3035::ac43:d032
+Name:	www.xwbhk.com
+Address: 38.207.123.228
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.leyuzycdn.com
-Address: 154.204.224.13
+Name:	www.hengdawatch.com
+Address: 185.87.148.199
 
