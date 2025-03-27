@@ -1,19 +1,15 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.4gdiy.com
-Address: 199.59.243.228
+** server can't find jhpcza.66666654.xyz: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 8810868.com: NXDOMAIN
+** server can't find www.hanjutv5.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.xwbhk.com
-Address: 38.207.123.228
+** server can't find www.haqiandu.com: NXDOMAIN
 
