@@ -36842,3 +36842,24 @@ Performing DNS lookup for www.wei333.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 30a83b0] Update project files
+ 4 files changed, 75 insertions(+), 16 deletions(-)
+To github.com:amo0114/cfipv6.git
+   4eae9d9..30a83b0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.18.228.35...
+Fetching domains for 104.21.91.19...
+succeed to fetch domains for 104.20.255.53 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.91.19 from https://dnsdblookup.com/
+succeed to fetch domains for 104.18.228.35 from https://dnsdblookup.com/
+域名列表为
+['www.kanunu2.com', 'www.tockt.com', 's1.52poke.wiki', 'www.tingshuyan.com', 'www.pk299.com', 'www.qindi.net', 'www.wubei520.com', 'www.mmh3gf.com', 'm90s.com', 'www.tianyunxingmm.com', 'www.5522tl.com', 'glamourescorts69.com', 'mmh3gf.com', 'mangalam.com', 'cs487vkj0q.xyz', 'www.yhdmxzw.com', 'mo.skmbbio.com', 'fa1.fun', 'inkpiu.it', 'www.991kan.com', 'www.339my.xyz', 'yhdmxzw.com', 'tingshuyan.com', 'www.zhankuu.com', '9knm.top', 'www.gzaode.com', 'm.zhankuu.com', 'www.aprysw.com', 'www.93xscc.com', 'nigdeisletme.com', 'game.baomaojc.top', 'www.longwangchuanshuo.com', 'm.mtsijkh.top', 'mtsijkh.top', '6a1070.top', 'www.xkx999.com', 's0.52poke.wiki', 'www.mtsijkh.top', 'devochki18.com', 'www.whpaiger.com', 'jiba09.top', 'www.999yh.vip', 'www.651yy.com', 'www.wenchuanzhaopin.com', 'www.yourkeymall.com', 'coinbasechain.org', 'gx.316786.xyz', 'www.90qr.com', '651yy.com', 'www.lailai360.com', 'www.295k.com', 'cfip.xxxxxxxx.tk', 'wenchuanzhaopin.com', 'www.77yeye.com', 'www.leyuzycdn.com', '52poke.wiki', 'x99av4978.xyz', 'wap.pkpkh32.top', 'aspecialdayguide.com', 'deagledrop.com', 'www.swuxfdc.cn', 'yourkeymall.com', 'www.zhongguotv.com', 'www.bumphillipscharities.com', 'mixie.asia', 'www.hhyy028.com', '69av7216.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.bumphillipscharities.com...
+Performing DNS lookup for www.yourkeymall.com...
+Performing DNS lookup for wap.pkpkh32.top...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
