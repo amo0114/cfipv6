@@ -1,21 +1,26 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.lnudz.com
-Address: 208.98.43.13
+** server can't find api.wisemind-ai.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.xwbhk.com
-Address: 38.207.123.228
+fa1.fun	canonical name = a1113733.us.hygjcdn.xyz.
+Name:	a1113733.us.hygjcdn.xyz
+Address: 15.204.67.21
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.hengdawatch.com
-Address: 185.87.148.199
+panel3.touhou.tel	canonical name = cf.touhou.casa.
+cf.touhou.casa	canonical name = cf.touhou.network.
+Name:	cf.touhou.network
+Address: 172.67.72.82
+Name:	cf.touhou.network
+Address: 104.26.14.124
+Name:	cf.touhou.network
+Address: 104.26.15.124
 
