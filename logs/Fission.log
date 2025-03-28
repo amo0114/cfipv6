@@ -36970,3 +36970,25 @@ Performing DNS lookup for panel3.touhou.tel...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c61b814] Update project files
+ 4 files changed, 66 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (65%)
+To github.com:amo0114/cfipv6.git
+   6d70d5c..c61b814  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.110...
+Fetching domains for 198.41.214.141...
+Fetching domains for 190.93.246.67...
+succeed to fetch domains for 104.17.127.110 from https://site.ip138.com/
+succeed to fetch domains for 190.93.246.67 from https://site.ip138.com/
+succeed to fetch domains for 198.41.214.141 from https://site.ip138.com/
+域名列表为
+['uu93.com', 'www.qf527.com', 'chalaoshi.de', 'www.c333.net', 'boyangjt.com', 'www.fnyy.net', 'www.kanunu2.com', 'www.hg0389.com', 'www.tuozhan22.com', 'www.kx10.com', 'www.7sc.cc', 'www.28dushu.com', 'www.yya.gs', 'longli.online', '8810868.com', 'wei333.com', 'www.qp666.com', 'speed.marisalnc.com', 'www.99wx.cc', 'www.lailai360.com', 'api.wisemind-ai.com', 'www.jsmx999.com', '606977.com', 'www.679077.com', 'www.93xscc.com', '26.namesilo123.top', 'a397.cc', 'www.dypf8.com', 'www.megumirawr.cc', 'gtts.life', 'www.cbcv.cc', 'www.209tv.com', 'www.suboji.com', 'www.tv9090.com', 'www.991kan.com', 'www.zzgszg.com', 'stock.hostmonit.com', 'www.116.ag', 'www.4148.net', 'qiangkouzhao.com', 'www.paizipai.top', 'www.0550cq.com', 'www.tushencn.com', 'www.tinghen.com', 'suboji.com', 'cfip.xxxxxxxx.tk', 'www.90dushu.com', 'qp66.com', 'm.boyangjt.com', 'www.33mov.com', 'www.kanju8.com', '0702.rr.nu', 'www.e0101.com', 'www.6i5.com', 'www.zongcaixs.cc', 'www.96dushu.com', 'www.xwbhk.com', 'www.nitianxieshen.com', 'www.sxyzxh.com', 'www.huanyaad.com', 'www.vodbd.com', 'www.77zw.cc', 'www.longwangchuanshuo.net', 'www.50zw.co', 'sgv7.com', 'www.wn03.cc', 'yx.887141.xyz', 'www.4gdiy.com', 'panel3.touhou.tel', 'jp57.cc', 'game.baomaojc.top', 'www.yjys05.com', 'vv1234.cn', 'www.ayuer.com', 'www.dy1255.com', 'www.boyangjt.com', 'zi0.cc', 'missav.mrst.one', 'www.b7yy.cc', 'blog.hostmonit.com', '63ws.com', 'ag.hg2096.com', 'www.cfhuagong.com', 'm.6i5.com', 'e0101.com', 'www.888dyy.cc', 'www.3dck.com', 'www.uu93.com', 'www.wxxzzs.com', 'm.0550cq.com', '7sc.cc', 'www.11txt.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for m.0550cq.com...
+Performing DNS lookup for www.679077.com...
+Performing DNS lookup for vv1234.cn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
