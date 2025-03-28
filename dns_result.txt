@@ -2,62 +2,32 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
-Name:	cfip.xxxxxxxx.tk
-Address: 104.27.21.118
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.127.110
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.97.144
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.96.125
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.246.67
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.241.229
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.214.141
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
+www.vodbd.com	canonical name = vodbd.com.
+vodbd.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cfip.xxxxxxxx.tk
-Address: 104.27.21.118
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.214.141
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.97.144
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.96.125
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.127.110
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.246.67
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.241.229
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.lailai360.com	canonical name = bkads.985311.xyz.
-Name:	bkads.985311.xyz
-Address: 162.159.140.18
-Name:	bkads.985311.xyz
-Address: 162.159.130.187
-Name:	bkads.985311.xyz
-Address: 162.159.136.137
+*** Can't find qiangkouzhao.com: No answer
 
