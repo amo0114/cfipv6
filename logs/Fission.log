@@ -37057,3 +37057,25 @@ Performing DNS lookup for www.50zw.co...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8a07396] Update project files
+ 4 files changed, 71 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (72%)
+To github.com:amo0114/cfipv6.git
+   d8e9a05..8a07396  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.244.201...
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.16.232.223...
+succeed to fetch domains for 104.16.232.223 from https://ipchaxun.com/
+succeed to fetch domains for 104.20.255.53 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.244.201 from https://site.ip138.com/
+域名列表为
+['www.whpaiger.com', '8810868.com', 'www.606977.com', 'www.penglecheng.com', 'www.b7yy.cc', 'www.huaidan1.com', 'www.web120.org', 'gh.con.sh', 'teslacentral.com', 'www.bfb3.com', 'www.hanjutv5.com', 'www.sxyzxh.com', 'womyt.com', 'vv1234.cn', 'www.tv9090.com', 'www.pk299.com', 'www.pwcai.com', 'www.tockt.com', 'www.wubei520.com', 'www.gzlatin.com', '7y26.com', 'www.50zw.co', 'www.zhiqihuo.com', 'cfip.xxxxxxxx.tk', 'www.wn01.cc', '0550cq.com', 'www.4gdiy.com', 'panel3.touhou.tel', 'ei01.com', 'www.7sc.cc', 'www.295k.com', 'www.megumirawr.cc', 'www.tinghen.com', 'www.uu93.com', 'game.baomaojc.top', 'ddkan.tv', 'www.ddkan.tv', 'm.mw171.com', '923055.com', 'cf1.492745.xyz', 'cf-lt.sharecentre.online', 'fa1.fun', 'www.zzgszg.com', 'cfrp.kryp.us.kg', 'qr99.cc', 'bestproxy.030101.xyz', 'www.paizipai.top', 'www.11txt.com', 'tv9090.com', 'www.bimiacg.net', 'acjp2.cloudflarest.link', 'www.339my.xyz', 'api.wisemind-ai.com', 'm90s.com', 'ayuer.com', 'www.u9yy.com', 'www.5522tl.com', 'www.zzztch.com', 'www.999yh.vip', 'www.90qr.com', 'www.77zw.cc', 'www.xkx999.com', 'uu93.com', '65bao2.com', 'www.hhyy028.com', '606977.com', 'www.hnxinlian.org', 'www.6988tv.com', 'www.4148.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.ddkan.tv...
+Performing DNS lookup for www.6988tv.com...
+Performing DNS lookup for ei01.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
