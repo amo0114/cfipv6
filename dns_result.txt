@@ -1,30 +1,39 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 172.67.203.171
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 104.21.44.202
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:cbab
-Name:	www.11txt.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:2cca
+** server can't find www.ddkan.tv: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hnxinlian.org	canonical name = sbcdn.cc.
-Name:	sbcdn.cc
-Address: 141.101.122.122
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.50zw.co	canonical name = cdn.booktxtcdn.com.
-Name:	cdn.booktxtcdn.com
-Address: 128.14.129.98
+Name:	ei01.com
+Address: 103.224.182.213
 
