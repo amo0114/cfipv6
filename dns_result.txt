@@ -1,33 +1,33 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
+** server can't find nlsdwsz.66666654.xyz: NXDOMAIN
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
 Non-authoritative answer:
-www.vodbd.com	canonical name = vodbd.com.
-vodbd.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
+www.c333.net	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
+Name:	blog.hostmonit.com.cdn.cloudflare.net
 Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	blog.hostmonit.com.cdn.cloudflare.net
 Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
+Name:	blog.hostmonit.com.cdn.cloudflare.net
 Address: 2606:4700:3037::6815:7c1
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	www.wxxzzs.com
-Address: 104.18.109.224
-Name:	www.wxxzzs.com
-Address: 104.19.81.91
-Name:	www.wxxzzs.com
-Address: 104.18.75.142
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-*** Can't find qiangkouzhao.com: No answer
 
