@@ -1,26 +1,35 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	e0101.com
-Address: 199.59.243.228
+** server can't find www.yya.gs: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.96dushu.com	canonical name = back.52biqv.com.
-Name:	back.52biqv.com
-Address: 172.67.214.157
-Name:	back.52biqv.com
-Address: 104.21.53.154
-Name:	back.52biqv.com
-Address: 2606:4700:3034::ac43:d69d
-Name:	back.52biqv.com
-Address: 2606:4700:3032::6815:359a
+api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+Name:	cfip.xxxxxxxx.tk
+Address: 188.114.96.125
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.241.229
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.mfwzhs.com: NXDOMAIN
+Non-authoritative answer:
+www.dy1255.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
