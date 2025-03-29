@@ -2,29 +2,27 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.hanmatv.com
-Address: 208.98.40.76
+Name:	tv9090.com
+Address: 208.98.40.17
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.e0576f7b796298c9.com
-Address: 50.2.202.135
+www.38yy.cn	canonical name = 38yy.uzuwan.com.
+Name:	38yy.uzuwan.com
+Address: 104.21.62.103
+Name:	38yy.uzuwan.com
+Address: 172.67.222.213
+Name:	38yy.uzuwan.com
+Address: 2606:4700:3035::ac43:ded5
+Name:	38yy.uzuwan.com
+Address: 2606:4700:3032::6815:3e67
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-yundunwawablogcdn1yd.wawacm.com	canonical name = cffast.wawacm.com.
-cffast.wawacm.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+Name:	www.penglecheng.com
+Address: 134.122.184.247
 
