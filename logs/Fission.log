@@ -37408,3 +37408,25 @@ Performing DNS lookup for yundunwawablogcdn1dx.wawacm.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main bc06fe9] Update project files
+ 4 files changed, 69 insertions(+), 43 deletions(-)
+ rewrite dns_result.txt (76%)
+To github.com:amo0114/cfipv6.git
+   ae28879..bc06fe9  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 188.114.97.144...
+Fetching domains for 190.93.244.201...
+succeed to fetch domains for 188.114.97.144 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.96.125 from https://site.ip138.com/
+succeed to fetch domains for 190.93.244.201 from https://dnsdblookup.com/
+域名列表为
+['api.wisemind-ai.com', 'www.tinghen.com', 'www.u9yy.com', 'www.paizipai.top', 'cfip.xxxxxxxx.tk', 'www.zzgszg.com', 'womyt.com', 'www.pwcai.com', 'www.50zw.co', '1165vip.com', 'lao310.com', 'www.ddkan.tv', 'www.4148.net', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.b7yy.cc', 'www.web120.org', 'ddkan.tv', 'tv9090.com', 'qr99.cc', 'www.gzlatin.com', 'www.uu93.com', 'www.93xscc.com', 'www.megumirawr.cc', 'acjp2.cloudflarest.link', 'm.mw171.com', 'www.bimiacg.net', 'lao304.com', 'cnamefuckxxs.yuchen.icu', 'www.6988tv.com', '923055.com', 'www.7sc.cc', 'www.77zw.cc', 'cfrp.kryp.us.kg', 'uu93.com', 'www.11txt.com', '65bao2.com', '606977.com', 'www.wn01.cc', 'www.hanjutv5.com', 'www.606977.com', 'ayuer.com', 'panel3.touhou.tel', 'www.hnxinlian.org', '181ge.com', 'www.4gdiy.com', 'game.baomaojc.top', 'cf-lt.sharecentre.online', 'www.sxyzxh.com', 'www.tv9090.com', 'guyu.bygzs.cc', '0550cq.com', 'bestproxy.030101.xyz', 'vv1234.cn', 'cf1.492745.xyz', 'www.huaidan1.com', 'www.zhiqihuo.com', 'ei01.com', '7y26.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for tv9090.com...
+Performing DNS lookup for www.4148.net...
+Performing DNS lookup for www.b7yy.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

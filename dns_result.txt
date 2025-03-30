@@ -2,35 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	tv9090.com
-Address: 208.98.40.76
+www.991kan.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.4148.net	canonical name = www.4148.net.cdn.cloudflare.net.
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 104.21.59.212
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 172.67.184.20
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 2606:4700:3031::ac43:b814
-Name:	www.4148.net.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:3bd4
+Name:	www.zhankuu.com
+Address: 104.21.91.19
+Name:	www.zhankuu.com
+Address: 172.67.208.50
+Name:	www.zhankuu.com
+Address: 2606:4700:3035::ac43:d032
+Name:	www.zhankuu.com
+Address: 2606:4700:3034::6815:5b13
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.b7yy.cc	canonical name = cdn1.5118cl0ud.xyz.
-cdn1.5118cl0ud.xyz	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.186.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.187.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:ba1f
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:bb1f
+** server can't find nigdeisletme.com: NXDOMAIN
 
