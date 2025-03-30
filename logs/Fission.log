@@ -37540,3 +37540,25 @@ Performing DNS lookup for www.tianyunxingmm.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 89f2636] Update project files
+ 4 files changed, 69 insertions(+), 37 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   0b2e250..89f2636  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.17.127.110...
+Fetching domains for 198.41.212.130...
+succeed to fetch domains for 104.20.255.53 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.212.130 from https://dnsdblookup.com/
+succeed to fetch domains for 104.17.127.110 from https://site.ip138.com/
+域名列表为
+['www.haqiandu.com', 'www.wubei520.com', 'cf1.492745.xyz', 'www.295k.com', 'www.qumiyun.com', 'game.baomaojc.top', 'www.dy1255.com', 'www.xinjuc.com', 'www.96dushu.com', 'www.xkx999.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.80yy.org', 'www.megumirawr.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'aktv.top', 'www.11txt.com', 'www.hnxinlian.org', 'blog.hostmonit.com', 'baxtc.66666654.xyz', 'www.cfhuagong.com', 'www.boyangjt.com', 'api.wisemind-ai.com', 'vv1234.cn', 'xs.wxtv.cc', 'stock.hostmonit.com', 'www.tv9090.com', 'www.999yh.vip', 'www.b7yy.cc', 'www.sztimi.com', 'www.6i5.com', 'www.ddwhm.com', 'cfrp.kryp.us.kg', 'speed.marisalnc.com', 'nlsdwsz.66666654.xyz', 'zi0.cc', 'www.888dyy.cc', 'www.33mov.com', 'www.xxpg888.com', 'cf-lt.sharecentre.online', 'www.longwangchuanshuo.net', 'm90s.com', 'www.90qr.com', 'www.0550cq.com', 'www.28dushu.com', 'hx.746556.xyz', 'downloads.vmicrosoft.com', 'ukcc.digicert.pp.ua', 'yundunwawablogcdn1dx.wawacm.com', 'cfip.xxxxxxxx.tk', 'www.pk299.com', 'www.paizipai.top', 'jhpcza.66666654.xyz', 'www.web120.org', 'www.tuozhan22.com', 'www.5522tl.com', 'www.339my.xyz', 'wogg.333232.xyz', 'fa1.fun', 'www.tockt.com', 'proxyip.digitalocean.fxxk.dedyn.io', 'www.lnudz.com', 'tv9090.com', 'www.38yy.cn', 'www.4148.net', 'www.hhyy028.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for tv9090.com...
+Performing DNS lookup for downloads.vmicrosoft.com...
+Performing DNS lookup for www.80yy.org...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
