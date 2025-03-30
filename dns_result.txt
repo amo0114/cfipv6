@@ -1,41 +1,32 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	bestproxy.030101.xyz
-Address: 8.220.135.231
-Name:	bestproxy.030101.xyz
-Address: 47.74.157.194
+** server can't find wz.weishao2023.dk.eu.org: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.24.2.15
-Name:	dcs.jqddos.xyz
-Address: 104.16.85.131
-Name:	dcs.jqddos.xyz
-Address: 104.24.19.69
-Name:	dcs.jqddos.xyz
-Address: 104.17.156.57
-Name:	dcs.jqddos.xyz
-Address: 104.16.90.103
-Name:	dcs.jqddos.xyz
-Address: 104.19.243.199
-Name:	dcs.jqddos.xyz
-Address: 104.16.95.56
-Name:	dcs.jqddos.xyz
-Address: 104.17.122.201
-Name:	dcs.jqddos.xyz
-Address: 104.25.29.236
-Name:	dcs.jqddos.xyz
-Address: 104.24.57.41
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.tl123123.com: NXDOMAIN
+Non-authoritative answer:
+yundunwawablogcdn1dx.wawacm.com	canonical name = cffast.wawacm.com.
+cffast.wawacm.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
