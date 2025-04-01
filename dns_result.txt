@@ -1,26 +1,30 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.smdyy.cc: SERVFAIL
+Non-authoritative answer:
+lao310.com	canonical name = laowang-luo.b-cdn.net.
+Name:	laowang-luo.b-cdn.net
+Address: 143.244.50.82
+Name:	laowang-luo.b-cdn.net
+Address: 2400:52e0:1a01::900:1
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find cmcc.hza1128.x10.mx: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	wei333.com
-Address: 75.2.115.196
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-game.baomaojc.top	canonical name = cdn.baomaojss.top.
-Name:	cdn.baomaojss.top
-Address: 172.67.219.208
-Name:	cdn.baomaojss.top
-Address: 104.21.91.133
-Name:	cdn.baomaojss.top
-Address: 2606:4700:3031::6815:5b85
-Name:	cdn.baomaojss.top
-Address: 2606:4700:3032::ac43:dbd0
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
 
