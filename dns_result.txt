@@ -4,9 +4,9 @@ Address:	46.203.222.47#53
 Non-authoritative answer:
 www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
 Name:	www.11txt.com.cdn.cloudflare.net
-Address: 104.21.44.202
-Name:	www.11txt.com.cdn.cloudflare.net
 Address: 172.67.203.171
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 104.21.44.202
 Name:	www.11txt.com.cdn.cloudflare.net
 Address: 2606:4700:3033::6815:2cca
 Name:	www.11txt.com.cdn.cloudflare.net
@@ -16,21 +16,39 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-vv1234.cn	canonical name = cf2.mdzz.top.
-cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 104.21.2.45
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 172.67.152.132
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:22d
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:9884
+Name:	0550cq.com
+Address: 172.247.166.142
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	ayuer.com
-Address: 103.224.212.211
+Name:	www.paizipai.top
+Address: 104.21.32.1
+Name:	www.paizipai.top
+Address: 104.21.96.1
+Name:	www.paizipai.top
+Address: 104.21.48.1
+Name:	www.paizipai.top
+Address: 104.21.80.1
+Name:	www.paizipai.top
+Address: 104.21.112.1
+Name:	www.paizipai.top
+Address: 104.21.16.1
+Name:	www.paizipai.top
+Address: 104.21.64.1
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:4001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:6001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:2001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:5001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:7001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:3001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:1001
 
