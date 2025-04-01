@@ -2,16 +2,15 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-lao310.com	canonical name = laowang-luo.b-cdn.net.
-Name:	laowang-luo.b-cdn.net
-Address: 143.244.50.82
-Name:	laowang-luo.b-cdn.net
-Address: 2400:52e0:1a01::900:1
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find cmcc.hza1128.x10.mx: SERVFAIL
+www.11txt.com	canonical name = www.11txt.com.cdn.cloudflare.net.
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 104.21.44.202
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 172.67.203.171
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:2cca
+Name:	www.11txt.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:cbab
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
@@ -27,4 +26,11 @@ Name:	cf2.mdzz.top.cdn.cloudflare.net
 Address: 2606:4700:3032::6815:22d
 Name:	cf2.mdzz.top.cdn.cloudflare.net
 Address: 2606:4700:3035::ac43:9884
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	ayuer.com
+Address: 103.224.212.211
 
