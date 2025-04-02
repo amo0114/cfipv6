@@ -1,17 +1,39 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find didiyunhu.com: NXDOMAIN
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.qumiyun.com: SERVFAIL
+Non-authoritative answer:
+www.51jion.com	canonical name = img.dns.ubu-kdi8.com.
+img.dns.ubu-kdi8.com	canonical name = cdndns.128xf.com.
+Name:	cdndns.128xf.com
+Address: 172.67.140.246
+Name:	cdndns.128xf.com
+Address: 104.21.9.19
+Name:	cdndns.128xf.com
+Address: 2606:4700:3031::6815:913
+Name:	cdndns.128xf.com
+Address: 2606:4700:3037::ac43:8cf6
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.295k.com
-Address: 208.98.43.15
+Name:	dsxys.pro
+Address: 172.67.26.152
+Name:	dsxys.pro
+Address: 172.67.127.229
+Name:	dsxys.pro
+Address: 172.67.76.130
+Name:	dsxys.pro
+Address: 172.67.71.163
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
 
