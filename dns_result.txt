@@ -2,55 +2,35 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.28dushu.com	canonical name = back.jdsharecodes.top.
-Name:	back.jdsharecodes.top
-Address: 104.21.96.1
-Name:	back.jdsharecodes.top
-Address: 104.21.80.1
-Name:	back.jdsharecodes.top
-Address: 104.21.16.1
-Name:	back.jdsharecodes.top
-Address: 104.21.32.1
-Name:	back.jdsharecodes.top
-Address: 104.21.112.1
-Name:	back.jdsharecodes.top
-Address: 104.21.64.1
-Name:	back.jdsharecodes.top
-Address: 104.21.48.1
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:2001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:3001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:1001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:5001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:7001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:6001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:4001
+Name:	cfip.xxxxxxxx.tk
+Address: 104.27.21.118
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 188.114.96.125
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.246.67
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.241.229
+Name:	cfip.xxxxxxxx.tk
+Address: 104.17.127.110
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zzgszg.com
-Address: 208.98.40.18
+Name:	0550cq.com
+Address: 172.247.166.142
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-vv1234.cn	canonical name = cf2.mdzz.top.
-cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 172.67.152.132
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 104.21.2.45
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:22d
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:9884
+www.50zw.co	canonical name = cdn.booktxtcdn.com.
+Name:	cdn.booktxtcdn.com
+Address: 128.14.129.98
 
