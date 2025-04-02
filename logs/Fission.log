@@ -38042,3 +38042,25 @@ Performing DNS lookup for wei333.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 9784997] Update project files
+ 4 files changed, 87 insertions(+), 59 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   026fdbe..9784997  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.232.223...
+Fetching domains for 188.114.96.125...
+Fetching domains for 188.114.97.144...
+succeed to fetch domains for 188.114.97.144 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.232.223 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+域名列表为
+['wogg.333232.xyz', 'www.penglecheng.com', 'www.zzztch.com', 'www.bfb3.com', 'lao304.com', 'bestproxy.030101.xyz', 'www.93xscc.com', 'www.megumirawr.cc', 'api.wisemind-ai.com', 'cfip.xxxxxxxx.tk', 'lao310.com', '181ge.com', 'game.baomaojc.top', 'gh.con.sh', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.whpaiger.com', 'teslacentral.com', 'cnamefuckxxs.yuchen.icu', '1165vip.com', 'guyu.bygzs.cc', 'vv1234.cn']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for guyu.bygzs.cc...
+Performing DNS lookup for wogg.333232.xyz...
+Performing DNS lookup for www.penglecheng.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
