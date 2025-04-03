@@ -2,40 +2,40 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.tv9090.com
-Address: 208.98.40.16
+www.b7yy.cc	canonical name = cdn1.5118cl0ud.xyz.
+cdn1.5118cl0ud.xyz	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.186.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 104.18.187.31
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:ba1f
+Name:	cdn.jsdelivr.net.cdn.cloudflare.net
+Address: 2606:4700::6812:bb1f
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zhanglao8.fun
-Address: 129.146.114.227
+wogg.333232.xyz	canonical name = huiyuan.ftyyy.eu.org.
+Name:	huiyuan.ftyyy.eu.org
+Address: 104.21.77.70
+Name:	huiyuan.ftyyy.eu.org
+Address: 172.67.205.92
+Name:	huiyuan.ftyyy.eu.org
+Address: 2606:4700:3030::ac43:cd5c
+Name:	huiyuan.ftyyy.eu.org
+Address: 2606:4700:3036::6815:4d46
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
-yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
-Name:	dcs.jqddos.xyz
-Address: 104.16.91.100
-Name:	dcs.jqddos.xyz
-Address: 104.25.214.179
-Name:	dcs.jqddos.xyz
-Address: 104.24.40.16
-Name:	dcs.jqddos.xyz
-Address: 104.16.120.226
-Name:	dcs.jqddos.xyz
-Address: 104.18.250.57
-Name:	dcs.jqddos.xyz
-Address: 104.16.200.151
-Name:	dcs.jqddos.xyz
-Address: 104.17.16.242
-Name:	dcs.jqddos.xyz
-Address: 104.17.8.160
-Name:	dcs.jqddos.xyz
-Address: 104.17.27.149
-Name:	dcs.jqddos.xyz
-Address: 104.18.96.48
+www.qindi.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.19.22.114
+Name:	ips.993888.xyz
+Address: 104.16.115.147
+Name:	ips.993888.xyz
+Address: 104.19.167.45
 
