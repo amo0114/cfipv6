@@ -2,22 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	aspecialdayguide.com
-Address: 104.21.91.19
-Name:	aspecialdayguide.com
-Address: 172.67.208.50
-Name:	aspecialdayguide.com
-Address: 2606:4700:3034::6815:5b13
-Name:	aspecialdayguide.com
-Address: 2606:4700:3035::ac43:d032
+www.51jion.com	canonical name = img.dns.ubu-kdi8.com.
+img.dns.ubu-kdi8.com	canonical name = cdndns.128xf.com.
+Name:	cdndns.128xf.com
+Address: 104.21.9.19
+Name:	cdndns.128xf.com
+Address: 172.67.140.246
+Name:	cdndns.128xf.com
+Address: 2606:4700:3031::6815:913
+Name:	cdndns.128xf.com
+Address: 2606:4700:3037::ac43:8cf6
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find gx.316786.xyz: NXDOMAIN
+Non-authoritative answer:
+lao310.com	canonical name = laowang-luo.b-cdn.net.
+Name:	laowang-luo.b-cdn.net
+Address: 143.244.49.177
+Name:	laowang-luo.b-cdn.net
+Address: 2400:52e0:1a01::954:1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.axxsjx.com: SERVFAIL
+Non-authoritative answer:
+Name:	www.hanmatv.com
+Address: 208.98.43.15
 
