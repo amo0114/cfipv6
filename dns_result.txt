@@ -2,40 +2,28 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.b7yy.cc	canonical name = cdn1.5118cl0ud.xyz.
-cdn1.5118cl0ud.xyz	canonical name = cdn.jsdelivr.net.cdn.cloudflare.net.
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.186.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 104.18.187.31
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:ba1f
-Name:	cdn.jsdelivr.net.cdn.cloudflare.net
-Address: 2606:4700::6812:bb1f
+m.niuerzs.com	canonical name = www.jdzjq.cn.
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-wogg.333232.xyz	canonical name = huiyuan.ftyyy.eu.org.
-Name:	huiyuan.ftyyy.eu.org
-Address: 104.21.77.70
-Name:	huiyuan.ftyyy.eu.org
-Address: 172.67.205.92
-Name:	huiyuan.ftyyy.eu.org
-Address: 2606:4700:3030::ac43:cd5c
-Name:	huiyuan.ftyyy.eu.org
-Address: 2606:4700:3036::6815:4d46
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.qindi.net	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.19.22.114
-Name:	ips.993888.xyz
-Address: 104.16.115.147
-Name:	ips.993888.xyz
-Address: 104.19.167.45
+www.50zw.co	canonical name = cdn.booktxtcdn.com.
+Name:	cdn.booktxtcdn.com
+Address: 128.14.129.98
 
