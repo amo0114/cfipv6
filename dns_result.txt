@@ -2,35 +2,40 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-gh.con.sh	canonical name = ghcon.pages.dev.
-Name:	ghcon.pages.dev
-Address: 172.66.45.36
-Name:	ghcon.pages.dev
-Address: 172.66.46.220
-Name:	ghcon.pages.dev
-Address: 2606:4700:310c::ac42:2edc
-Name:	ghcon.pages.dev
-Address: 2606:4700:310c::ac42:2d24
+Name:	www.tv9090.com
+Address: 208.98.40.16
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	suboji.com
-Address: 54.193.208.148
+Name:	www.zhanglao8.fun
+Address: 129.146.114.227
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.51jion.com	canonical name = img.dns.ubu-kdi8.com.
-img.dns.ubu-kdi8.com	canonical name = cdndns.128xf.com.
-Name:	cdndns.128xf.com
-Address: 104.21.9.19
-Name:	cdndns.128xf.com
-Address: 172.67.140.246
-Name:	cdndns.128xf.com
-Address: 2606:4700:3037::ac43:8cf6
-Name:	cdndns.128xf.com
-Address: 2606:4700:3031::6815:913
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.16.91.100
+Name:	dcs.jqddos.xyz
+Address: 104.25.214.179
+Name:	dcs.jqddos.xyz
+Address: 104.24.40.16
+Name:	dcs.jqddos.xyz
+Address: 104.16.120.226
+Name:	dcs.jqddos.xyz
+Address: 104.18.250.57
+Name:	dcs.jqddos.xyz
+Address: 104.16.200.151
+Name:	dcs.jqddos.xyz
+Address: 104.17.16.242
+Name:	dcs.jqddos.xyz
+Address: 104.17.8.160
+Name:	dcs.jqddos.xyz
+Address: 104.17.27.149
+Name:	dcs.jqddos.xyz
+Address: 104.18.96.48
 
