@@ -2,28 +2,41 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-m.niuerzs.com	canonical name = www.jdzjq.cn.
+wogg.333232.xyz	canonical name = huiyuan.ftyyy.eu.org.
+Name:	huiyuan.ftyyy.eu.org
+Address: 104.21.77.70
+Name:	huiyuan.ftyyy.eu.org
+Address: 172.67.205.92
+Name:	huiyuan.ftyyy.eu.org
+Address: 2606:4700:3030::ac43:cd5c
+Name:	huiyuan.ftyyy.eu.org
+Address: 2606:4700:3036::6815:4d46
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-vv1234.cn	canonical name = cf2.mdzz.top.
-cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 172.67.152.132
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 104.21.2.45
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:22d
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:9884
+game.baomaojc.top	canonical name = cdn.baomaojss.top.
+Name:	cdn.baomaojss.top
+Address: 172.67.219.208
+Name:	cdn.baomaojss.top
+Address: 104.21.91.133
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3031::6815:5b85
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3032::ac43:dbd0
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.50zw.co	canonical name = cdn.booktxtcdn.com.
-Name:	cdn.booktxtcdn.com
-Address: 128.14.129.98
+www.megumirawr.cc	canonical name = www.megumirawr.top.
+Name:	www.megumirawr.top
+Address: 104.21.83.187
+Name:	www.megumirawr.top
+Address: 172.67.180.217
+Name:	www.megumirawr.top
+Address: 2606:4700:3035::ac43:b4d9
+Name:	www.megumirawr.top
+Address: 2606:4700:3037::6815:53bb
 
