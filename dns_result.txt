@@ -2,21 +2,22 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	boyangjt.com
-Address: 104.16.72.177
-Name:	boyangjt.com
-Address: 104.16.104.218
+Name:	aspecialdayguide.com
+Address: 104.21.91.19
+Name:	aspecialdayguide.com
+Address: 172.67.208.50
+Name:	aspecialdayguide.com
+Address: 2606:4700:3034::6815:5b13
+Name:	aspecialdayguide.com
+Address: 2606:4700:3035::ac43:d032
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-7sc.cc	canonical name = sbcdn.cc.
-Name:	sbcdn.cc
-Address: 141.101.122.122
+** server can't find gx.316786.xyz: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find 8810868.com: NXDOMAIN
+** server can't find www.axxsjx.com: SERVFAIL
 
