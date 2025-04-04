@@ -2,60 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.yhdmxzw.com
-Address: 104.21.91.19
-Name:	www.yhdmxzw.com
-Address: 172.67.208.50
-Name:	www.yhdmxzw.com
-Address: 2606:4700:3034::6815:5b13
-Name:	www.yhdmxzw.com
-Address: 2606:4700:3035::ac43:d032
+game.baomaojc.top	canonical name = cdn.baomaojss.top.
+Name:	cdn.baomaojss.top
+Address: 104.21.91.133
+Name:	cdn.baomaojss.top
+Address: 172.67.219.208
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3031::6815:5b85
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3032::ac43:dbd0
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.dypf8.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+panel3.touhou.tel	canonical name = cf.touhou.casa.
+cf.touhou.casa	canonical name = cf.touhou.network.
+Name:	cf.touhou.network
+Address: 104.26.15.124
+Name:	cf.touhou.network
+Address: 104.26.14.124
+Name:	cf.touhou.network
+Address: 172.67.72.82
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-0702.rr.nu	canonical name = cdn.cng.nl.eu.org.
-Name:	cdn.cng.nl.eu.org
-Address: 104.21.80.1
-Name:	cdn.cng.nl.eu.org
-Address: 104.21.112.1
-Name:	cdn.cng.nl.eu.org
-Address: 104.21.48.1
-Name:	cdn.cng.nl.eu.org
-Address: 104.21.32.1
-Name:	cdn.cng.nl.eu.org
-Address: 104.21.16.1
-Name:	cdn.cng.nl.eu.org
-Address: 104.21.64.1
-Name:	cdn.cng.nl.eu.org
-Address: 104.21.96.1
-Name:	cdn.cng.nl.eu.org
-Address: 2606:4700:3030::6815:3001
-Name:	cdn.cng.nl.eu.org
-Address: 2606:4700:3030::6815:7001
-Name:	cdn.cng.nl.eu.org
-Address: 2606:4700:3030::6815:4001
-Name:	cdn.cng.nl.eu.org
-Address: 2606:4700:3030::6815:1001
-Name:	cdn.cng.nl.eu.org
-Address: 2606:4700:3030::6815:2001
-Name:	cdn.cng.nl.eu.org
-Address: 2606:4700:3030::6815:5001
-Name:	cdn.cng.nl.eu.org
-Address: 2606:4700:3030::6815:6001
+** server can't find www.qf527.com: NXDOMAIN
 
