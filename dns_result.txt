@@ -2,31 +2,20 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.51jion.com	canonical name = img.dns.ubu-kdi8.com.
-img.dns.ubu-kdi8.com	canonical name = cdndns.128xf.com.
-Name:	cdndns.128xf.com
-Address: 104.21.9.19
-Name:	cdndns.128xf.com
-Address: 172.67.140.246
-Name:	cdndns.128xf.com
-Address: 2606:4700:3031::6815:913
-Name:	cdndns.128xf.com
-Address: 2606:4700:3037::ac43:8cf6
+Name:	suboji.com
+Address: 54.193.208.148
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-lao310.com	canonical name = laowang-luo.b-cdn.net.
-Name:	laowang-luo.b-cdn.net
-Address: 143.244.49.177
-Name:	laowang-luo.b-cdn.net
-Address: 2400:52e0:1a01::954:1
+Name:	www.606977.com
+Address: 69.16.230.165
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.hanmatv.com
-Address: 208.98.43.15
+Name:	www.gzlatin.com
+Address: 23.226.60.134
 
