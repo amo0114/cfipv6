@@ -1,32 +1,21 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-game.baomaojc.top	canonical name = cdn.baomaojss.top.
-Name:	cdn.baomaojss.top
-Address: 104.21.91.133
-Name:	cdn.baomaojss.top
-Address: 172.67.219.208
-Name:	cdn.baomaojss.top
-Address: 2606:4700:3031::6815:5b85
-Name:	cdn.baomaojss.top
-Address: 2606:4700:3032::ac43:dbd0
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-panel3.touhou.tel	canonical name = cf.touhou.casa.
-cf.touhou.casa	canonical name = cf.touhou.network.
-Name:	cf.touhou.network
-Address: 104.26.15.124
-Name:	cf.touhou.network
-Address: 104.26.14.124
-Name:	cf.touhou.network
-Address: 172.67.72.82
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
 ** server can't find www.qf527.com: NXDOMAIN
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	qp66.com
+Address: 76.223.54.146
+Name:	qp66.com
+Address: 13.248.169.48
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	63ws.com
+Address: 199.59.243.228
 
