@@ -2,42 +2,60 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.252.176
-Name:	ips.993888.xyz
-Address: 104.16.149.225
-Name:	ips.993888.xyz
-Address: 104.17.19.172
+Name:	www.yhdmxzw.com
+Address: 104.21.91.19
+Name:	www.yhdmxzw.com
+Address: 172.67.208.50
+Name:	www.yhdmxzw.com
+Address: 2606:4700:3034::6815:5b13
+Name:	www.yhdmxzw.com
+Address: 2606:4700:3035::ac43:d032
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.51jion.com	canonical name = img.dns.ubu-kdi8.com.
-img.dns.ubu-kdi8.com	canonical name = cdndns.128xf.com.
-Name:	cdndns.128xf.com
-Address: 104.21.9.19
-Name:	cdndns.128xf.com
-Address: 172.67.140.246
-Name:	cdndns.128xf.com
-Address: 2606:4700:3037::ac43:8cf6
-Name:	cdndns.128xf.com
-Address: 2606:4700:3031::6815:913
+www.dypf8.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.dj5157.com	canonical name = dj5157.com.
-dj5157.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+0702.rr.nu	canonical name = cdn.cng.nl.eu.org.
+Name:	cdn.cng.nl.eu.org
+Address: 104.21.80.1
+Name:	cdn.cng.nl.eu.org
+Address: 104.21.112.1
+Name:	cdn.cng.nl.eu.org
+Address: 104.21.48.1
+Name:	cdn.cng.nl.eu.org
+Address: 104.21.32.1
+Name:	cdn.cng.nl.eu.org
+Address: 104.21.16.1
+Name:	cdn.cng.nl.eu.org
+Address: 104.21.64.1
+Name:	cdn.cng.nl.eu.org
+Address: 104.21.96.1
+Name:	cdn.cng.nl.eu.org
+Address: 2606:4700:3030::6815:3001
+Name:	cdn.cng.nl.eu.org
+Address: 2606:4700:3030::6815:7001
+Name:	cdn.cng.nl.eu.org
+Address: 2606:4700:3030::6815:4001
+Name:	cdn.cng.nl.eu.org
+Address: 2606:4700:3030::6815:1001
+Name:	cdn.cng.nl.eu.org
+Address: 2606:4700:3030::6815:2001
+Name:	cdn.cng.nl.eu.org
+Address: 2606:4700:3030::6815:5001
+Name:	cdn.cng.nl.eu.org
+Address: 2606:4700:3030::6815:6001
 
