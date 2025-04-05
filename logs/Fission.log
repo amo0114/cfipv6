@@ -38655,3 +38655,25 @@ Performing DNS lookup for www.whpaiger.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c5bb8b7] Update project files
+ 4 files changed, 54 insertions(+), 35 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   d072679..c5bb8b7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.244.201...
+Fetching domains for 104.17.127.110...
+Fetching domains for 104.16.241.229...
+succeed to fetch domains for 104.17.127.110 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.241.229 from https://site.ip138.com/
+succeed to fetch domains for 190.93.244.201 from https://dnsdblookup.com/
+域名列表为
+['panel3.touhou.tel', 'www.pwcai.com', 'www.b7yy.cc', 'www.57txt.com', 'cfrp.kryp.us.kg', 'www.tinghen.com', 'www.megumirawr.cc', 'www.tv9090.com', 'qr99.cc', 'www.bimiacg.net', 'www.77zw.cc', 'cf-lt.sharecentre.online', 'www.99wxw.cc', 'm.niuerzs.com', 'www.93xscc.com', '7y26.com', 'bestproxy.030101.xyz', 'game.baomaojc.top', 'www.50zw.co', 'www.gzlatin.com', 'www.cfhuagong.com', 'didiyunhu.com', 'ei01.com', 'www.hanjutv5.com', 'www.longwangchuanshuo.net', 'www.web120.org', 'cfip.xxxxxxxx.tk', 'www.sxyzxh.com', 'www.6988tv.com', 'www.ddkan.tv', 'www.xn--sss604efuw.com', 'ayuer.com', 'www.99wx.cc', 'www.zzgszg.com', 'wogg.333232.xyz', 'dsxys.com', 'vv1234.cn', 'www.cocanwelding.com', 'm.mw171.com', 'uu93.com', 'www.kanmanhuala.cc', 'acjp2.cloudflarest.link', 'www.paizipai.top', 'ddkan.tv', 'www.uu93.com', 'tv9090.com', 'www.4gdiy.com', 'www.7sc.cc', '65bao2.com', 'womyt.com', 'www.u9yy.com', '0550cq.com', 'www.11txt.com', 'www.wn01.cc', 'www.hnxinlian.org', 'www.huaidan1.com', 'wuk.woxxxxxx.nyc.mn', 'www.4148.net', 'www.zhiqihuo.com', 'cf1.492745.xyz', 'api.wisemind-ai.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for wogg.333232.xyz...
+Performing DNS lookup for www.57txt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
