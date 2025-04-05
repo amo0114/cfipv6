@@ -1,17 +1,26 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find tushencn.com: SERVFAIL
+Non-authoritative answer:
+Name:	www.pk299.com
+Address: 160.121.18.101
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find www.ylsbzs.com: No answer
+Name:	www.295k.com
+Address: 208.98.40.72
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-*** Can't find speed.marisalnc.com: No answer
+www.qindi.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.19.33.139
+Name:	ips.993888.xyz
+Address: 104.16.253.140
+Name:	ips.993888.xyz
+Address: 104.19.205.38
 
