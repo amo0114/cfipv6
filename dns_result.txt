@@ -1,27 +1,17 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.209tv.com
-Address: 45.151.133.191
+** server can't find ukcc.digicert.pp.ua: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.tl123123.com: NXDOMAIN
+** server can't find didiyunhu.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-vv1234.cn	canonical name = cf2.mdzz.top.
-cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 172.67.152.132
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 104.21.2.45
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:22d
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:9884
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
