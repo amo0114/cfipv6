@@ -1,39 +1,17 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-gh.con.sh	canonical name = ghcon.pages.dev.
-Name:	ghcon.pages.dev
-Address: 172.66.45.36
-Name:	ghcon.pages.dev
-Address: 172.66.46.220
-Name:	ghcon.pages.dev
-Address: 2606:4700:310c::ac42:2d24
-Name:	ghcon.pages.dev
-Address: 2606:4700:310c::ac42:2edc
+** server can't find tushencn.com: SERVFAIL
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-yundunwawablogcdn1dx.wawacm.com	canonical name = cffast.wawacm.com.
-cffast.wawacm.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+*** Can't find www.ylsbzs.com: No answer
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	teslacentral.com
-Address: 185.113.25.57
-Name:	teslacentral.com
-Address: 185.113.25.58
+*** Can't find speed.marisalnc.com: No answer
 
