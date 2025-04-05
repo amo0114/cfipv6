@@ -2,50 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.longwangchuanshuo.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.19.64.46
-Name:	ips.993888.xyz
-Address: 104.20.122.107
-Name:	ips.993888.xyz
-Address: 104.20.17.116
+Name:	www.209tv.com
+Address: 45.151.133.191
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+** server can't find www.tl123123.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.96.125
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
-Name:	cfip.xxxxxxxx.tk
-Address: 104.17.127.110
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.232.223
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.244.201
-Name:	cfip.xxxxxxxx.tk
-Address: 190.93.246.67
-Name:	cfip.xxxxxxxx.tk
-Address: 104.16.241.229
-Name:	cfip.xxxxxxxx.tk
-Address: 104.27.21.118
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.214.141
-Name:	cfip.xxxxxxxx.tk
-Address: 188.114.97.144
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	x99av4978.xyz
-Address: 104.21.91.19
-Name:	x99av4978.xyz
-Address: 172.67.208.50
-Name:	x99av4978.xyz
-Address: 2606:4700:3034::6815:5b13
-Name:	x99av4978.xyz
-Address: 2606:4700:3035::ac43:d032
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
 
