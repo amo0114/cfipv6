@@ -38851,3 +38851,24 @@ Performing DNS lookup for www.925uu.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 45c2ed7] Update project files
+ 4 files changed, 38 insertions(+), 19 deletions(-)
+To github.com:amo0114/cfipv6.git
+   4bbcc87..45c2ed7  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.241.229...
+Fetching domains for 188.114.97.144...
+Fetching domains for 104.21.91.19...
+succeed to fetch domains for 104.21.91.19 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.97.144 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.241.229 from https://ipchaxun.com/
+域名列表为
+['tingshuyan.com', 'wenchuanzhaopin.com', 'glamourescorts69.com', 'cfip.xxxxxxxx.tk', 'lao310.com', 'm.zhankuu.com', 'm.mtsijkh.top', 'jiba09.top', 'nigdeisletme.com', 'www.megumirawr.cc', 'www.wenchuanzhaopin.com', '9knm.top', 'www.57txt.com', 'www.99wxw.cc', 'www.651yy.com', 'mo.skmbbio.com', 'www.yourkeymall.com', 's0.52poke.wiki', 'x99av4978.xyz', 'www.zhankuu.com', '6a1070.top', 'www.aprysw.com', 'yhdmxzw.com', 'www.swuxfdc.cn', 'aspecialdayguide.com', 'mtsijkh.top', 'www.kanmanhuala.cc', '52poke.wiki', 'wap.pkpkh32.top', 'devochki18.com', 'yourkeymall.com', 'www.991kan.com', 'www.mtsijkh.top', 'inkpiu.it', 'wogg.333232.xyz', 'lao304.com', 'wuk.woxxxxxx.nyc.mn', 'coinbasechain.org', 'www.bumphillipscharities.com', '651yy.com', 'www.tianyunxingmm.com', 'www.77yeye.com', 'deagledrop.com', '69av7216.cc', 'dsxys.com', 'm.niuerzs.com', 'www.leyuzycdn.com', 'www.whpaiger.com', 'gx.316786.xyz', 'www.93xscc.com', 'bestproxy.030101.xyz', 'www.99wx.cc', 'www.cocanwelding.com', 'api.wisemind-ai.com', 's1.52poke.wiki', 'mmh3gf.com', 'mixie.asia', 'didiyunhu.com', 'www.mmh3gf.com', 'mangalam.com', 'game.baomaojc.top', 'www.yhdmxzw.com', 'www.zhongguotv.com', 'www.gzaode.com', 'vv1234.cn', 'cs487vkj0q.xyz', 'www.tingshuyan.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.whpaiger.com...
+Performing DNS lookup for tingshuyan.com...
+Performing DNS lookup for didiyunhu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
