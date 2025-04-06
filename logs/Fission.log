@@ -38742,3 +38742,25 @@ Performing DNS lookup for vv1234.cn...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8a70a2e] Update project files
+ 4 files changed, 46 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   a049fdc..8a70a2e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.241.229...
+Fetching domains for 188.114.96.125...
+Fetching domains for 198.41.212.130...
+succeed to fetch domains for 104.16.241.229 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.212.130 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+域名列表为
+['cfip.xxxxxxxx.tk', 'cfrp.kryp.us.kg', 'didiyunhu.com', 'm.niuerzs.com', 'www.ddwhm.com', 'www.paizipai.top', 'yundunwawablogcdn1dx.wawacm.com', 'game.baomaojc.top', 'www.hnxinlian.org', 'cf1.492745.xyz', 'www.4148.net', '181ge.com', 'cf-lt.sharecentre.online', 'www.93xscc.com', 'www.11txt.com', 'www.99wx.cc', 'aktv.top', 'nlsdwsz.66666654.xyz', 'ukcc.digicert.pp.ua', 'www.xn--sss604efuw.com', 'www.888dyy.cc', 'www.qumiyun.com', 'www.lnudz.com', 'www.6i5.com', 'www.tv9090.com', 'www.99wxw.cc', 'wuk.woxxxxxx.nyc.mn', 'vv1234.cn', 'www.kanmanhuala.cc', 'www.33mov.com', 'dsxys.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'www.28dushu.com', 'www.57txt.com', 'www.96dushu.com', 'www.cocanwelding.com', 'jhpcza.66666654.xyz', 'www.boyangjt.com', 'guyu.bygzs.cc', 'www.80yy.org', 'www.xinjuc.com', 'baxtc.66666654.xyz', 'www.dy1255.com', 'www.0550cq.com', 'www.haqiandu.com', '1165vip.com', 'www.38yy.cn', 'zi0.cc', 'proxyip.digitalocean.fxxk.dedyn.io', 'tv9090.com', 'cnamefuckxxs.yuchen.icu', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'stock.hostmonit.com', 'wogg.333232.xyz', 'hx.746556.xyz', 'speed.marisalnc.com', 'www.web120.org', 'www.xxpg888.com', 'blog.hostmonit.com', 'downloads.vmicrosoft.com', 'xs.wxtv.cc', 'yundunwawablogcdn1yd.wawacm.com', 'www.megumirawr.cc', 'api.wisemind-ai.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ukcc.digicert.pp.ua...
+Performing DNS lookup for didiyunhu.com...
+Performing DNS lookup for www.cocanwelding.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
