@@ -2,23 +2,25 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ddwhm.com	canonical name = csgo.com.
-Name:	csgo.com
-Address: 195.85.59.95
-Name:	csgo.com
-Address: 195.85.59.161
+www.55evd.com	canonical name = planone.seihappy.com.
+Name:	planone.seihappy.com
+Address: 23.224.11.188
+Name:	planone.seihappy.com
+Address: 154.198.240.110
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-zi0.cc	canonical name = d4cbe2d1.miocdn.top.
-d4cbe2d1.miocdn.top	canonical name = gb71f07.cdn.miocdn.top.
-Name:	gb71f07.cdn.miocdn.top
-Address: 47.238.52.88
+www.630book.com	canonical name = ctmxk8r6.cdnf.cc.
+ctmxk8r6.cdnf.cc	canonical name = n86qrjue.n.cdnf.cc.
+Name:	n86qrjue.n.cdnf.cc
+Address: 23.145.232.83
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	www.zhanglao8.fun
+Address: 129.146.114.227
 
