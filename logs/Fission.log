@@ -38807,3 +38807,25 @@ Performing DNS lookup for www.zhanglao8.fun...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f5ea5ec] Update project files
+ 4 files changed, 55 insertions(+), 36 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   9398f86..f5ea5ec  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 190.93.244.201...
+Fetching domains for 104.20.255.53...
+succeed to fetch domains for 190.93.244.201 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.96.125 from https://ipchaxun.com/
+succeed to fetch domains for 104.20.255.53 from https://site.ip138.com/
+域名列表为
+['cf1.492745.xyz', 'qr99.cc', 'bestproxy.030101.xyz', 'www.zhiqihuo.com', 'game.baomaojc.top', 'www.wubei520.com', 'www.90qr.com', 'www.hanjutv5.com', 'www.4148.net', 'www.pwcai.com', 'www.tockt.com', 'www.zzgszg.com', 'womyt.com', 'm.mw171.com', 'www.999yh.vip', 'panel3.touhou.tel', '7y26.com', 'www.11txt.com', 'wuk.woxxxxxx.nyc.mn', 'www.gzlatin.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'guyu.bygzs.cc', 'fa1.fun', 'm90s.com', '65bao2.com', 'www.u9yy.com', 'www.5522tl.com', 'vv1234.cn', 'wogg.333232.xyz', 'www.b7yy.cc', 'www.ddkan.tv', 'www.6988tv.com', 'www.web120.org', 'www.pk299.com', '181ge.com', 'www.xkx999.com', 'tv9090.com', '1165vip.com', 'www.hhyy028.com', 'uu93.com', 'www.tinghen.com', 'api.wisemind-ai.com', 'www.megumirawr.cc', 'www.7sc.cc', 'ei01.com', '0550cq.com', 'cfrp.kryp.us.kg', 'www.4gdiy.com', 'ddkan.tv', 'www.50zw.co', 'www.xn--sss604efuw.com', 'www.bimiacg.net', 'www.77zw.cc', 'www.huaidan1.com', 'cfip.xxxxxxxx.tk', 'www.wn01.cc', 'cf-lt.sharecentre.online', 'www.hnxinlian.org', 'www.tv9090.com', 'cnamefuckxxs.yuchen.icu', 'acjp2.cloudflarest.link', 'www.uu93.com', 'ayuer.com', 'www.339my.xyz', 'www.paizipai.top', 'www.295k.com', 'www.sxyzxh.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for ddkan.tv...
+Performing DNS lookup for cfrp.kryp.us.kg...
+Performing DNS lookup for cf-lt.sharecentre.online...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
