@@ -2,17 +2,41 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
-Name:	cfip.xxxxxxxx.tk
-Address: 198.41.212.130
+www.qindi.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.18.99.92
+Name:	ips.993888.xyz
+Address: 104.16.82.165
+Name:	ips.993888.xyz
+Address: 104.16.127.33
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.tl123123.com: NXDOMAIN
+Non-authoritative answer:
+www.vodbd.com	canonical name = vodbd.com.
+vodbd.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.tockt.com: SERVFAIL
+Non-authoritative answer:
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 

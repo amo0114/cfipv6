@@ -38958,3 +38958,24 @@ Performing DNS lookup for www.suboji.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 1198a7c] Update project files
+ 4 files changed, 34 insertions(+), 23 deletions(-)
+To github.com:amo0114/cfipv6.git
+   1130989..1198a7c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.16.232.223...
+Fetching domains for 104.25.105.1...
+succeed to fetch domains for 104.25.105.1 from https://ipchaxun.com/
+succeed to fetch domains for 104.20.255.53 from https://dnsdblookup.com/
+succeed to fetch domains for 104.16.232.223 from https://site.ip138.com/
+域名列表为
+['www.bfb3.com', 'www.wecaidan.com', 'www.hhyy028.com', 'www.megumirawr.cc', 'vv1234.cn', 'www.pk299.com', 'wuk.woxxxxxx.nyc.mn', 'game.baomaojc.top', 'wogg.333232.xyz', 'www.xkx999.com', 'm90s.com', 'fa1.fun', 'www.tockt.com', 'api.wisemind-ai.com', 'www.999yh.vip', 'gh.con.sh', 'www.tl123123.com', 'www.295k.com', 'teslacentral.com', 'www.5522tl.com', 'www.wubei520.com', 'cfip.xxxxxxxx.tk', 'www.penglecheng.com', 'www.zzztch.com', 'www.90qr.com', 'www.whpaiger.com', 'www.339my.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for api.wisemind-ai.com...
+Performing DNS lookup for www.tl123123.com...
+Performing DNS lookup for www.tockt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
