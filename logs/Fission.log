@@ -38979,3 +38979,24 @@ Performing DNS lookup for www.tockt.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 8ffcf26] Update project files
+ 4 files changed, 61 insertions(+), 12 deletions(-)
+To github.com:amo0114/cfipv6.git
+   1198a7c..8ffcf26  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.214.141...
+Fetching domains for 104.16.232.223...
+Fetching domains for 104.18.228.35...
+succeed to fetch domains for 198.41.214.141 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.228.35 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.232.223 from https://dnsdblookup.com/
+域名列表为
+['www.sxyzxh.com', 'www.93xscc.com', 'www.bfb3.com', 'www.209tv.com', 'www.yya.gs', 'cfip.xxxxxxxx.tk', 'www.wn03.cc', 'yx.887141.xyz', 'www.megumirawr.cc', 'panel3.touhou.tel', 'www.qf527.com', 'stock.hostmonit.com', 'www.qindi.net', 'zi0.cc', 'speed.marisalnc.com', 'www.lailai360.com', '26.namesilo123.top', 'www.vodbd.com', 'api.wisemind-ai.com', 'www.50zw.co', 'wogg.333232.xyz', 'www.7sc.cc', 'vv1234.cn', 'm.0550cq.com', 'wuk.woxxxxxx.nyc.mn', 'game.baomaojc.top', 'www.4148.net', 'www.whpaiger.com', 'www.longwangchuanshuo.com', 'sgv7.com', 'teslacentral.com', 'www.zzztch.com', 'www.kanunu2.com', 'www.cbcv.cc', 'longli.online', 'www.tinghen.com', 'missav.mrst.one', 'gh.con.sh', 'www.wxxzzs.com', 'qiangkouzhao.com', 'www.penglecheng.com', 'www.yjys05.com', 'www.c333.net', 'www.28dushu.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.qindi.net...
+Performing DNS lookup for www.vodbd.com...
+Performing DNS lookup for stock.hostmonit.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
