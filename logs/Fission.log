@@ -39043,3 +39043,25 @@ Performing DNS lookup for gx.316786.xyz...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 29a187f] Update project files
+ 4 files changed, 76 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (69%)
+To github.com:amo0114/cfipv6.git
+   68f21b4..29a187f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.21.118...
+Fetching domains for 104.25.105.1...
+Fetching domains for 190.93.247.169...
+succeed to fetch domains for 104.25.105.1 from https://site.ip138.com/
+succeed to fetch domains for 190.93.247.169 from https://site.ip138.com/
+succeed to fetch domains for 104.27.21.118 from https://site.ip138.com/
+域名列表为
+['archives.vip', 'yundunwawablogcdn1yd.wawacm.com', 'www.iios.club', '0550cq.com', 'www.hanmatv.com', 'sgv7.com', 'www.tinghen.com', 'www.hnxinlian.org', 'www.jhhtech.com', 'www.hhyy028.com', 'www.zgjmw.net', 'api.wisemind-ai.com', 'www.suboji.com', 'www.megumirawr.cc', 'chalaoshi.de', 'www.11txt.com', 'chat.wawacm.com', 'www.4148.net', 'www.tv9090.com', 'wei333.com', 'wogg.333232.xyz', 'www.paizipai.top', 'cfip.xxxxxxxx.tk', 'www.uu93.com', 'www.tl123123.com', 'www.dj5157.com', 'yundunwawablogcdn1dx.wawacm.com', 'www.vcd.la', 'tv9090.com', 'wz.weishao2023.dk.eu.org', 'www.wecaidan.com', 'zi0.cc', 'e0101.com', 'www.zhanglao8.fun', 'dsxys.pro', 'game.baomaojc.top', 'www.92mili.com', 'www.web120.org', 'wuk.woxxxxxx.nyc.mn', 'cmcc.hza1128.x10.mx', 'www.wubei520.com', 'mmiyy.com', 'www.90dushu.com', 'www.smdyy.cc', 'www.wxxzzs.com', 'www.myvod360.com', 'www.51jion.com', 'www.0550cq.com', 'stock.hostmonit.com', 'www.ddwhm.com', 'www.235t.com', 'www.4gdiy.com', 'cf-lt.sharecentre.online', 'www.6i5.com', 'vv1234.cn', 'cipuji.com', 'uu93.com', 'suboji.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for dsxys.pro...
+Performing DNS lookup for www.4148.net...
+Performing DNS lookup for www.51jion.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
