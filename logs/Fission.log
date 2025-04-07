@@ -39065,3 +39065,25 @@ Performing DNS lookup for www.51jion.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5a87173] Update project files
+ 4 files changed, 59 insertions(+), 55 deletions(-)
+ rewrite dns_result.txt (77%)
+To github.com:amo0114/cfipv6.git
+   29a187f..5a87173  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.25.105.1...
+Fetching domains for 104.16.232.223...
+Fetching domains for 190.93.247.169...
+succeed to fetch domains for 104.16.232.223 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.247.169 from https://dnsdblookup.com/
+succeed to fetch domains for 104.25.105.1 from https://ipchaxun.com/
+域名列表为
+['stock.hostmonit.com', 'wei333.com', 'yundunwawablogcdn1dx.wawacm.com', 'sgv7.com', 'teslacentral.com', 'mmiyy.com', 'www.ddwhm.com', 'zi0.cc', 'www.92mili.com', '0550cq.com', 'www.235t.com', 'game.baomaojc.top', 'www.wxxzzs.com', 'www.tinghen.com', 'wz.weishao2023.dk.eu.org', 'api.wisemind-ai.com', 'www.hanmatv.com', 'tv9090.com', 'www.smdyy.cc', 'www.11txt.com', 'dsxys.pro', 'www.penglecheng.com', 'www.90dushu.com', 'e0101.com', 'www.hhyy028.com', 'www.wubei520.com', 'cfip.xxxxxxxx.tk', 'vv1234.cn', 'cf-lt.sharecentre.online', 'www.51jion.com', 'www.wecaidan.com', 'chat.wawacm.com', 'www.tl123123.com', 'www.dj5157.com', 'www.zzztch.com', 'www.web120.org', 'www.vcd.la', 'www.megumirawr.cc', 'www.bfb3.com', 'www.zgjmw.net', 'yundunwawablogcdn1yd.wawacm.com', 'www.0550cq.com', 'www.jhhtech.com', 'www.paizipai.top', 'www.hnxinlian.org', 'www.suboji.com', 'cipuji.com', 'uu93.com', 'wogg.333232.xyz', 'gh.con.sh', 'www.zhanglao8.fun', 'www.6i5.com', 'www.tv9090.com', 'www.uu93.com', 'www.iios.club', 'archives.vip', 'www.whpaiger.com', 'www.myvod360.com', 'suboji.com', 'www.4148.net', 'www.4gdiy.com', 'chalaoshi.de']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for e0101.com...
+Performing DNS lookup for stock.hostmonit.com...
+Performing DNS lookup for www.tv9090.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
