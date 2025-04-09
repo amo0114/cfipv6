@@ -2,61 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 104.21.30.140
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 172.67.172.249
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:1e8c
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:acf9
+Name:	m.0550cq.com
+Address: 172.247.166.142
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.28dushu.com	canonical name = back.jdsharecodes.top.
-Name:	back.jdsharecodes.top
-Address: 104.21.64.1
-Name:	back.jdsharecodes.top
-Address: 104.21.112.1
-Name:	back.jdsharecodes.top
-Address: 104.21.80.1
-Name:	back.jdsharecodes.top
-Address: 104.21.32.1
-Name:	back.jdsharecodes.top
-Address: 104.21.48.1
-Name:	back.jdsharecodes.top
-Address: 104.21.96.1
-Name:	back.jdsharecodes.top
-Address: 104.21.16.1
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:4001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:3001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:2001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:6001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:1001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:7001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:5001
+cf-lt.sharecentre.online	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-wogg.333232.xyz	canonical name = huiyuan.ftyyy.eu.org.
-Name:	huiyuan.ftyyy.eu.org
-Address: 172.67.205.92
-Name:	huiyuan.ftyyy.eu.org
-Address: 104.21.77.70
-Name:	huiyuan.ftyyy.eu.org
-Address: 2606:4700:3036::6815:4d46
-Name:	huiyuan.ftyyy.eu.org
-Address: 2606:4700:3030::ac43:cd5c
+** server can't find www.50zw.co: SERVFAIL
 
