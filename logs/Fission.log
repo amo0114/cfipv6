@@ -39372,3 +39372,24 @@ Performing DNS lookup for www.leyuzycdn.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Error uploading to GitHub: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.
+[main a27ae48] Update project files
+ 4 files changed, 57 insertions(+), 19 deletions(-)
+To github.com:amo0114/cfipv6.git
+   11eb510..a27ae48  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.110...
+Fetching domains for 104.27.21.118...
+Fetching domains for 188.114.96.125...
+succeed to fetch domains for 104.17.127.110 from https://site.ip138.com/
+succeed to fetch domains for 104.27.21.118 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+域名列表为
+['181ge.com', 'www.megumirawr.cc', 'cnamefuckxxs.yuchen.icu', '1165vip.com', 'game.baomaojc.top', 'www.longwangchuanshuo.net', 'wuk.woxxxxxx.nyc.mn', 'guyu.bygzs.cc', 'www.b7yy.cc', 'vv1234.cn', 'cfip.xxxxxxxx.tk', 'www.cfhuagong.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'cmcc.hza1128.x10.mx', 'wogg.333232.xyz', 'api.wisemind-ai.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for game.baomaojc.top...
+Performing DNS lookup for cfip.xxxxxxxx.tk...
+Performing DNS lookup for 1165vip.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
