@@ -2,24 +2,34 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	52poke.wiki
-Address: 104.21.91.19
-Name:	52poke.wiki
-Address: 172.67.208.50
-Name:	52poke.wiki
-Address: 2606:4700:3034::6815:5b13
-Name:	52poke.wiki
-Address: 2606:4700:3035::ac43:d032
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find mo.skmbbio.com: NXDOMAIN
+game.baomaojc.top	canonical name = cdn.baomaojss.top.
+Name:	cdn.baomaojss.top
+Address: 172.67.219.208
+Name:	cdn.baomaojss.top
+Address: 104.21.91.133
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3032::ac43:dbd0
+Name:	cdn.baomaojss.top
+Address: 2606:4700:3031::6815:5b85
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.leyuzycdn.com
-Address: 154.204.224.13
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+1165vip.com	canonical name = vipkanba-luo.b-cdn.net.
+Name:	vipkanba-luo.b-cdn.net
+Address: 143.244.49.178
+Name:	vipkanba-luo.b-cdn.net
+Address: 2400:52e0:1a01::907:1
 

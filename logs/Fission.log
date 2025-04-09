@@ -39348,3 +39348,27 @@ Performing DNS lookup for ukcc.digicert.pp.ua...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 235dcbd] Update project files
+ 4 files changed, 42 insertions(+), 14 deletions(-)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.17.127.110...
+Fetching domains for 104.21.91.19...
+succeed to fetch domains for 104.20.255.53 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.127.110 from https://site.ip138.com/
+succeed to fetch domains for 104.21.91.19 from https://dnsdblookup.com/
+域名列表为
+['s1.52poke.wiki', 'mixie.asia', 'mo.skmbbio.com', 'yourkeymall.com', 'coinbasechain.org', 'www.yhdmxzw.com', 'gx.316786.xyz', '9knm.top', 'cfip.xxxxxxxx.tk', 'tingshuyan.com', 'm90s.com', 'www.295k.com', 's0.52poke.wiki', 'jiba09.top', 'x99av4978.xyz', 'www.cfhuagong.com', 'www.aprysw.com', 'devochki18.com', 'inkpiu.it', 'www.wenchuanzhaopin.com', 'nigdeisletme.com', 'm.mtsijkh.top', 'aspecialdayguide.com', 'www.gzaode.com', 'm.zhankuu.com', 'www.tianyunxingmm.com', 'vv1234.cn', 'www.longwangchuanshuo.net', 'www.5522tl.com', 'www.991kan.com', 'glamourescorts69.com', 'wenchuanzhaopin.com', 'cs487vkj0q.xyz', 'www.mmh3gf.com', 'www.pk299.com', 'www.mtsijkh.top', 'www.90qr.com', 'wuk.woxxxxxx.nyc.mn', 'api.wisemind-ai.com', 'www.megumirawr.cc', 'mtsijkh.top', 'game.baomaojc.top', 'www.hhyy028.com', 'www.b7yy.cc', 'deagledrop.com', '6a1070.top', 'www.whpaiger.com', 'www.wubei520.com', 'www.yourkeymall.com', '69av7216.cc', 'www.999yh.vip', 'www.zhongguotv.com', 'www.77yeye.com', 'www.339my.xyz', 'www.651yy.com', 'mangalam.com', 'wap.pkpkh32.top', 'yhdmxzw.com', '52poke.wiki', 'mmh3gf.com', 'www.tingshuyan.com', 'www.zhankuu.com', 'www.tockt.com', 'www.leyuzycdn.com', '651yy.com', 'www.swuxfdc.cn', 'www.bumphillipscharities.com', 'fa1.fun', 'www.xkx999.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 52poke.wiki...
+Performing DNS lookup for mo.skmbbio.com...
+Performing DNS lookup for www.leyuzycdn.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Error uploading to GitHub: Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 128.
