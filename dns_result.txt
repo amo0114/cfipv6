@@ -2,28 +2,42 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	womyt.com
-Address: 69.16.230.165
+www.33mov.com	canonical name = p.urlwa.com.
+Name:	p.urlwa.com
+Address: 172.67.141.40
+Name:	p.urlwa.com
+Address: 104.21.38.248
+Name:	p.urlwa.com
+Address: 2606:4700:3032::6815:26f8
+Name:	p.urlwa.com
+Address: 2606:4700:3036::ac43:8d28
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zzztch.com
-Address: 208.98.40.17
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.u9yy.com	canonical name = 4sngw5cf.aliadvance.com.
-4sngw5cf.aliadvance.com	canonical name = qe9b5c7y.n.aliadvance.com.
-Name:	qe9b5c7y.n.aliadvance.com
-Address: 194.147.100.99
-Name:	qe9b5c7y.n.aliadvance.com
-Address: 194.147.100.76
-Name:	qe9b5c7y.n.aliadvance.com
-Address: 194.147.100.100
-Name:	qe9b5c7y.n.aliadvance.com
-Address: 194.147.100.101
+blog.hostmonit.com	canonical name = blog.hostmonit.com.cdn.cloudflare.net.
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	blog.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
