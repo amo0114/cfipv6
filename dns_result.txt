@@ -2,56 +2,28 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.28dushu.com	canonical name = back.jdsharecodes.top.
-Name:	back.jdsharecodes.top
-Address: 104.21.64.1
-Name:	back.jdsharecodes.top
-Address: 104.21.16.1
-Name:	back.jdsharecodes.top
-Address: 104.21.112.1
-Name:	back.jdsharecodes.top
-Address: 104.21.32.1
-Name:	back.jdsharecodes.top
-Address: 104.21.80.1
-Name:	back.jdsharecodes.top
-Address: 104.21.48.1
-Name:	back.jdsharecodes.top
-Address: 104.21.96.1
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:3001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:2001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:6001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:4001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:1001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:5001
-Name:	back.jdsharecodes.top
-Address: 2606:4700:3030::6815:7001
+Name:	womyt.com
+Address: 69.16.230.165
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.boyangjt.com
-Address: 104.16.72.177
-Name:	www.boyangjt.com
-Address: 104.16.104.218
+Name:	www.zzztch.com
+Address: 208.98.40.17
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.33mov.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+www.u9yy.com	canonical name = 4sngw5cf.aliadvance.com.
+4sngw5cf.aliadvance.com	canonical name = qe9b5c7y.n.aliadvance.com.
+Name:	qe9b5c7y.n.aliadvance.com
+Address: 194.147.100.99
+Name:	qe9b5c7y.n.aliadvance.com
+Address: 194.147.100.76
+Name:	qe9b5c7y.n.aliadvance.com
+Address: 194.147.100.100
+Name:	qe9b5c7y.n.aliadvance.com
+Address: 194.147.100.101
 
