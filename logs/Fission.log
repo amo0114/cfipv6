@@ -39789,3 +39789,25 @@ Performing DNS lookup for www.cbcv.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ee3eb45] Update project files
+ 4 files changed, 90 insertions(+), 55 deletions(-)
+ rewrite dns_result.txt (80%)
+To github.com:amo0114/cfipv6.git
+   0bca733..ee3eb45  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.17.127.110...
+Fetching domains for 190.93.246.67...
+succeed to fetch domains for 104.17.127.110 from https://site.ip138.com/
+succeed to fetch domains for 104.20.255.53 from https://site.ip138.com/
+succeed to fetch domains for 190.93.246.67 from https://dnsdblookup.com/
+域名列表为
+['www.28dushu.com', 'www.longwangchuanshuo.net', 'www.999yh.vip', 'www.6i5.com', 'www.77zw.cc', 'www.cfhuagong.com', 'www.xkx999.com', 'www.11txt.com', 'www.tinghen.com', 'wuk.woxxxxxx.nyc.mn', 'www.90qr.com', 'www.tushencn.com', 'stock.hostmonit.com', '0702.rr.nu', 'www.991kan.com', 'www.jsmx999.com', 'www.90dushu.com', 'www.kanunu2.com', 'www.zongcaixs.cc', 'a397.cc', 'www.0550cq.com', 'www.hhyy028.com', 'blog.hostmonit.com', 'www.dypf8.com', '7sc.cc', 'www.kanju8.com', 'www.tuozhan22.com', 'www.dy1255.com', 'www.wubei520.com', 'm.6i5.com', 'www.tv9090.com', 'www.295k.com', 'www.zzgszg.com', 'api.wisemind-ai.com', 'www.xwbhk.com', 'fa1.fun', 'cfip.xxxxxxxx.tk', 'www.megumirawr.cc', 'chalaoshi.de', 'game.baomaojc.top', 'm90s.com', 'www.boyangjt.com', 'www.3dck.com', 'www.5522tl.com', 'www.kx10.com', 'www.33mov.com', 'www.paizipai.top', 'www.lailai360.com', 'm.boyangjt.com', 'www.339my.xyz', 'jp57.cc', 'www.huanyaad.com', 'www.nitianxieshen.com', 'www.pk299.com', 'www.99wx.cc', 'gtts.life', 'www.cbcv.cc', 'www.tockt.com', 'www.b7yy.cc', 'boyangjt.com', 'vv1234.cn', 'www.888dyy.cc', 'sgv7.com', 'www.96dushu.com', 'www.93xscc.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.huanyaad.com...
+Performing DNS lookup for www.paizipai.top...
+Performing DNS lookup for www.90dushu.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
