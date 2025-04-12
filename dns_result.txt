@@ -2,49 +2,35 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.kanmanhuala.cc	canonical name = kanmanhuala-org.183e760a65.dns.yanwudan.net.
-Name:	kanmanhuala-org.183e760a65.dns.yanwudan.net
-Address: 172.247.201.166
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m.boyangjt.com
-Address: 104.16.72.177
-Name:	m.boyangjt.com
-Address: 104.16.104.218
+www.iios.club	canonical name = 1357900.xyz.
+1357900.xyz	canonical name = back.246000.xyz.
+Name:	back.246000.xyz
+Address: 104.21.52.166
+Name:	back.246000.xyz
+Address: 172.67.201.86
+Name:	back.246000.xyz
+Address: 2606:4700:3032::6815:34a6
+Name:	back.246000.xyz
+Address: 2606:4700:3036::ac43:c956
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	uu93.com
-Address: 104.21.112.1
-Name:	uu93.com
-Address: 104.21.32.1
-Name:	uu93.com
-Address: 104.21.48.1
-Name:	uu93.com
-Address: 104.21.80.1
-Name:	uu93.com
-Address: 104.21.16.1
-Name:	uu93.com
-Address: 104.21.64.1
-Name:	uu93.com
-Address: 104.21.96.1
-Name:	uu93.com
-Address: 2606:4700:3030::6815:3001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:5001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:2001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:6001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:7001
-Name:	uu93.com
-Address: 2606:4700:3030::6815:1001
+*** Can't find www.235t.com: No answer
 
