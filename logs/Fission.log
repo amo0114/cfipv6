@@ -39943,3 +39943,25 @@ Performing DNS lookup for www.pwcai.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7b69b54] Update project files
+ 4 files changed, 92 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   677cef3..7b69b54  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.91.19...
+Fetching domains for 104.25.105.1...
+Fetching domains for 104.20.255.53...
+succeed to fetch domains for 104.25.105.1 from https://ipchaxun.com/
+succeed to fetch domains for 104.20.255.53 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.91.19 from https://dnsdblookup.com/
+域名列表为
+['www.295k.com', 'coinbasechain.org', 'www.aprysw.com', 'cfip.xxxxxxxx.tk', 'tingshuyan.com', 'wuk.woxxxxxx.nyc.mn', 'glamourescorts69.com', 'wogg.333232.xyz', 'www.5522tl.com', 'm.mtsijkh.top', '651yy.com', 'wenchuanzhaopin.com', 'aspecialdayguide.com', 'cs487vkj0q.xyz', 'm90s.com', 'jiba09.top', 'www.gzaode.com', 'www.zhankuu.com', 'www.whpaiger.com', 'game.baomaojc.top', 'mtsijkh.top', 'www.mtsijkh.top', 'www.77yeye.com', 'www.wecaidan.com', 'mmh3gf.com', 'nigdeisletme.com', 'x99av4978.xyz', '69av7216.cc', 'www.zhongguotv.com', 'www.pk299.com', 's1.52poke.wiki', 'www.651yy.com', 'mangalam.com', 'gx.316786.xyz', 'vv1234.cn', 'www.xkx999.com', 'yourkeymall.com', 'api.wisemind-ai.com', 'www.wenchuanzhaopin.com', 'mixie.asia', 'www.mmh3gf.com', 'www.hhyy028.com', 'www.tockt.com', 'www.tl123123.com', 'www.991kan.com', 'www.999yh.vip', 'www.tingshuyan.com', 'www.yhdmxzw.com', 'www.tianyunxingmm.com', 'www.wubei520.com', 'www.bumphillipscharities.com', 'yhdmxzw.com', '6a1070.top', 'mo.skmbbio.com', 'wap.pkpkh32.top', 'inkpiu.it', 'www.leyuzycdn.com', 'www.yourkeymall.com', 'devochki18.com', 'm.zhankuu.com', 'deagledrop.com', '9knm.top', 'fa1.fun', 'www.339my.xyz', 'www.swuxfdc.cn', 's0.52poke.wiki', '52poke.wiki', 'www.90qr.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for yourkeymall.com...
+Performing DNS lookup for tingshuyan.com...
+Performing DNS lookup for www.90qr.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
