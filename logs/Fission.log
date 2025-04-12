@@ -39965,3 +39965,24 @@ Performing DNS lookup for www.90qr.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c556061] Update project files
+ 4 files changed, 59 insertions(+), 44 deletions(-)
+To github.com:amo0114/cfipv6.git
+   7b69b54..c556061  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.20.255.53...
+Fetching domains for 104.16.241.229...
+Fetching domains for 104.25.105.1...
+succeed to fetch domains for 104.16.241.229 from https://ipchaxun.com/
+succeed to fetch domains for 104.25.105.1 from https://ipchaxun.com/
+succeed to fetch domains for 104.20.255.53 from https://dnsdblookup.com/
+域名列表为
+['dsxys.com', 'fa1.fun', 'www.cocanwelding.com', 'www.tockt.com', 'www.wubei520.com', 'www.tl123123.com', 'm.niuerzs.com', 'vv1234.cn', 'm90s.com', 'www.kanmanhuala.cc', 'www.57txt.com', 'www.93xscc.com', 'game.baomaojc.top', 'www.90qr.com', 'www.pk299.com', 'www.295k.com', 'api.wisemind-ai.com', 'www.999yh.vip', 'www.99wxw.cc', 'www.wecaidan.com', 'www.339my.xyz', 'www.megumirawr.cc', 'cfip.xxxxxxxx.tk', 'www.hhyy028.com', 'www.5522tl.com', 'wogg.333232.xyz', 'wuk.woxxxxxx.nyc.mn', 'didiyunhu.com', 'www.xkx999.com', 'www.99wx.cc']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.wubei520.com...
+Performing DNS lookup for www.cocanwelding.com...
+Performing DNS lookup for www.wecaidan.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
