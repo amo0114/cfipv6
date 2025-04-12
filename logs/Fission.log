@@ -40007,3 +40007,25 @@ Performing DNS lookup for uu93.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 3e7a5bb] Update project files
+ 4 files changed, 67 insertions(+), 66 deletions(-)
+ rewrite dns_result.txt (78%)
+To github.com:amo0114/cfipv6.git
+   4d7bbb5..3e7a5bb  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.18.228.35...
+Fetching domains for 104.17.127.110...
+Fetching domains for 190.93.247.169...
+succeed to fetch domains for 104.17.127.110 from https://ipchaxun.com/
+succeed to fetch domains for 104.18.228.35 from https://site.ip138.com/
+succeed to fetch domains for 190.93.247.169 from https://site.ip138.com/
+域名列表为
+['dsxys.pro', 'www.90dushu.com', 'vv1234.cn', 'yundunwawablogcdn1yd.wawacm.com', 'www.lailai360.com', 'www.0550cq.com', 'game.baomaojc.top', 'www.dj5157.com', 'www.web120.org', 'tv9090.com', 'www.51jion.com', 'www.megumirawr.cc', 'mmiyy.com', 'www.4148.net', 'e0101.com', 'www.hnxinlian.org', 'www.uu93.com', 'www.6i5.com', 'chat.wawacm.com', 'cf-lt.sharecentre.online', 'www.92mili.com', 'www.vcd.la', 'wz.weishao2023.dk.eu.org', 'www.smdyy.cc', 'wei333.com', 'suboji.com', 'uu93.com', 'www.4gdiy.com', 'www.tv9090.com', 'sgv7.com', 'www.cfhuagong.com', 'yundunwawablogcdn1dx.wawacm.com', '0550cq.com', 'www.longwangchuanshuo.net', 'www.suboji.com', 'www.longwangchuanshuo.com', 'www.wxxzzs.com', 'www.kanunu2.com', 'www.jhhtech.com', 'www.tinghen.com', 'cipuji.com', 'www.paizipai.top', 'www.hanmatv.com', 'www.iios.club', 'www.ddwhm.com', 'www.11txt.com', 'www.93xscc.com', 'www.b7yy.cc', 'stock.hostmonit.com', 'www.myvod360.com', 'www.qindi.net', 'api.wisemind-ai.com', 'archives.vip', 'chalaoshi.de', 'zi0.cc', 'www.235t.com', 'www.zhanglao8.fun', 'cfip.xxxxxxxx.tk', 'www.zgjmw.net', 'wogg.333232.xyz']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for vv1234.cn...
+Performing DNS lookup for www.iios.club...
+Performing DNS lookup for www.235t.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
