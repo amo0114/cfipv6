@@ -1,28 +1,50 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-wogg.333232.xyz	canonical name = huiyuan.ftyyy.eu.org.
-Name:	huiyuan.ftyyy.eu.org
-Address: 172.67.205.92
-Name:	huiyuan.ftyyy.eu.org
-Address: 104.21.77.70
-Name:	huiyuan.ftyyy.eu.org
-Address: 2606:4700:3030::ac43:cd5c
-Name:	huiyuan.ftyyy.eu.org
-Address: 2606:4700:3036::6815:4d46
+** server can't find www.haqiandu.com: NXDOMAIN
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m.0550cq.com
-Address: 172.247.166.142
+www.qindi.net	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.19.187.224
+Name:	ips.993888.xyz
+Address: 104.19.213.34
+Name:	ips.993888.xyz
+Address: 104.19.185.193
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.whpaiger.com
-Address: 162.209.149.30
+Name:	www.paizipai.top
+Address: 104.21.32.1
+Name:	www.paizipai.top
+Address: 104.21.96.1
+Name:	www.paizipai.top
+Address: 104.21.64.1
+Name:	www.paizipai.top
+Address: 104.21.80.1
+Name:	www.paizipai.top
+Address: 104.21.16.1
+Name:	www.paizipai.top
+Address: 104.21.112.1
+Name:	www.paizipai.top
+Address: 104.21.48.1
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:4001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:2001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:5001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:6001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:3001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:1001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:7001
 
