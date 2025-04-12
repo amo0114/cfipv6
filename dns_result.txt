@@ -2,32 +2,54 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.93xscc.com	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.19.178.253
-Name:	ips.993888.xyz
-Address: 104.18.138.138
-Name:	ips.993888.xyz
-Address: 104.16.86.167
+Name:	yourkeymall.com
+Address: 45.199.41.156
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ddwhm.com	canonical name = cdn.159601.xyz.
-Name:	cdn.159601.xyz
-Address: 104.21.88.70
-Name:	cdn.159601.xyz
-Address: 172.67.173.165
-Name:	cdn.159601.xyz
-Address: 2606:4700:3035::6815:5846
-Name:	cdn.159601.xyz
-Address: 2606:4700:3034::ac43:ada5
+Name:	tingshuyan.com
+Address: 104.21.91.19
+Name:	tingshuyan.com
+Address: 172.67.208.50
+Name:	tingshuyan.com
+Address: 2606:4700:3034::6815:5b13
+Name:	tingshuyan.com
+Address: 2606:4700:3035::ac43:d032
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.pwcai.com
-Address: 54.193.208.148
+www.90qr.com	canonical name = host1111905a.c2.huyuncdn.xyz.
+host1111905a.c2.huyuncdn.xyz	canonical name = cf.host106.america96.com.
+Name:	cf.host106.america96.com
+Address: 104.21.16.1
+Name:	cf.host106.america96.com
+Address: 104.21.32.1
+Name:	cf.host106.america96.com
+Address: 104.21.48.1
+Name:	cf.host106.america96.com
+Address: 104.21.112.1
+Name:	cf.host106.america96.com
+Address: 104.21.80.1
+Name:	cf.host106.america96.com
+Address: 104.21.96.1
+Name:	cf.host106.america96.com
+Address: 104.21.64.1
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:4001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:6001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:3001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:2001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:1001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:5001
+Name:	cf.host106.america96.com
+Address: 2606:4700:3030::6815:7001
 
