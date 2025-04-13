@@ -40211,3 +40211,24 @@ Performing DNS lookup for speed.marisalnc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 19c5571] Update project files
+ 4 files changed, 44 insertions(+), 9 deletions(-)
+To github.com:amo0114/cfipv6.git
+   3b10827..19c5571  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.97.144...
+Fetching domains for 104.16.232.223...
+Fetching domains for 198.41.212.130...
+succeed to fetch domains for 104.16.232.223 from https://site.ip138.com/
+succeed to fetch domains for 188.114.97.144 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.212.130 from https://dnsdblookup.com/
+域名列表为
+['www.ddwhm.com', 'lao304.com', 'www.11txt.com', 'www.megumirawr.cc', 'blog.hostmonit.com', 'www.qumiyun.com', 'www.4148.net', 'www.penglecheng.com', 'teslacentral.com', 'www.lnudz.com', 'cf1.492745.xyz', 'www.zzztch.com', 'www.tv9090.com', 'proxyip.digitalocean.fxxk.dedyn.io', 'www.888dyy.cc', 'www.96dushu.com', 'downloads.vmicrosoft.com', 'www.paizipai.top', 'www.whpaiger.com', 'nlsdwsz.66666654.xyz', 'baxtc.66666654.xyz', 'www.28dushu.com', 'bestproxy.030101.xyz', 'yundunwawablogcdn1yd.wawacm.com', 'jhpcza.66666654.xyz', 'www.93xscc.com', 'game.baomaojc.top', 'xs.wxtv.cc', 'gh.con.sh', 'www.web120.org', 'www.0550cq.com', 'ukcc.digicert.pp.ua', 'www.bfb3.com', 'aktv.top', 'www.80yy.org', 'www.haqiandu.com', 'www.33mov.com', 'api.wisemind-ai.com', 'lao310.com', 'www.6i5.com', 'www.38yy.cn', 'vv1234.cn', 'hx.746556.xyz', 'www.xxpg888.com', 'wogg.333232.xyz', 'zi0.cc', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'wuk.woxxxxxx.nyc.mn', 'www.boyangjt.com', 'tv9090.com', 'www.dy1255.com', 'cf-lt.sharecentre.online', 'stock.hostmonit.com', 'speed.marisalnc.com', 'cfrp.kryp.us.kg', 'www.hnxinlian.org', 'www.xn--sss604efuw.com', 'www.xinjuc.com', 'cfip.xxxxxxxx.tk', 'yundunwawablogcdn1dx.wawacm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for jhpcza.66666654.xyz...
+Performing DNS lookup for www.web120.org...
+Performing DNS lookup for www.11txt.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
