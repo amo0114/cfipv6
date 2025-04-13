@@ -40297,3 +40297,25 @@ Performing DNS lookup for yundunwawablogcdn1dx.wawacm.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main c33f96f] Update project files
+ 4 files changed, 88 insertions(+), 56 deletions(-)
+ rewrite dns_result.txt (82%)
+To github.com:amo0114/cfipv6.git
+   a78d05e..c33f96f  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 198.41.214.141...
+Fetching domains for 104.20.255.53...
+Fetching domains for 188.114.96.125...
+succeed to fetch domains for 188.114.96.125 from https://site.ip138.com/
+succeed to fetch domains for 104.20.255.53 from https://dnsdblookup.com/
+succeed to fetch domains for 198.41.214.141 from https://dnsdblookup.com/
+域名列表为
+['www.wubei520.com', 'www.295k.com', 'www.hhyy028.com', 'www.tinghen.com', 'game.baomaojc.top', 'cfip.xxxxxxxx.tk', 'www.xkx999.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'm90s.com', 'www.cbcv.cc', 'stock.hostmonit.com', 'www.megumirawr.cc', 'www.tockt.com', 'yx.887141.xyz', '26.namesilo123.top', 'www.7sc.cc', 'qiangkouzhao.com', 'www.vodbd.com', 'speed.marisalnc.com', 'www.5522tl.com', 'www.28dushu.com', 'zi0.cc', 'www.sxyzxh.com', 'www.4148.net', 'www.wxxzzs.com', 'www.yya.gs', 'wuk.woxxxxxx.nyc.mn', 'www.c333.net', 'missav.mrst.one', 'fa1.fun', 'cnamefuckxxs.yuchen.icu', 'wogg.333232.xyz', 'www.qf527.com', 'www.999yh.vip', '1165vip.com', 'sgv7.com', '181ge.com', 'api.wisemind-ai.com', 'www.209tv.com', 'guyu.bygzs.cc', 'www.50zw.co', 'www.90qr.com', 'www.wn03.cc', 'www.yjys05.com', 'm.0550cq.com', 'www.339my.xyz', 'vv1234.cn', 'longli.online', 'www.pk299.com', 'panel3.touhou.tel']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for 1165vip.com...
+Performing DNS lookup for www.wubei520.com...
+Performing DNS lookup for www.sxyzxh.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
