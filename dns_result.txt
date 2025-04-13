@@ -2,21 +2,46 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-fa1.fun	canonical name = a1113733.us.hygjcdn.xyz.
-Name:	a1113733.us.hygjcdn.xyz
-Address: 15.204.67.21
+Name:	www.scxdexx.com
+Address: 208.98.40.18
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.295k.com
-Address: 208.98.40.208
+Name:	suboji.com
+Address: 54.193.208.148
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	m90s.com
-Address: 162.254.36.135
+Name:	www.paizipai.top
+Address: 104.21.64.1
+Name:	www.paizipai.top
+Address: 104.21.32.1
+Name:	www.paizipai.top
+Address: 104.21.16.1
+Name:	www.paizipai.top
+Address: 104.21.80.1
+Name:	www.paizipai.top
+Address: 104.21.96.1
+Name:	www.paizipai.top
+Address: 104.21.48.1
+Name:	www.paizipai.top
+Address: 104.21.112.1
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:1001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:7001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:2001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:3001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:5001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:4001
+Name:	www.paizipai.top
+Address: 2606:4700:3030::6815:6001
 
