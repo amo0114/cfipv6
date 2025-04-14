@@ -2,38 +2,31 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.96dushu.com	canonical name = back.52biqv.com.
-Name:	back.52biqv.com
-Address: 104.21.53.154
-Name:	back.52biqv.com
-Address: 172.67.214.157
-Name:	back.52biqv.com
-Address: 2606:4700:3032::6815:359a
-Name:	back.52biqv.com
-Address: 2606:4700:3034::ac43:d69d
+www.991kan.com	canonical name = ccc.zheshei.com.
+Name:	ccc.zheshei.com
+Address: 104.21.49.157
+Name:	ccc.zheshei.com
+Address: 172.67.191.48
+Name:	ccc.zheshei.com
+Address: 2606:4700:3033::ac43:bf30
+Name:	ccc.zheshei.com
+Address: 2606:4700:3035::6815:319d
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.megumirawr.cc	canonical name = www.megumirawr.top.
-Name:	www.megumirawr.top
-Address: 104.21.83.187
-Name:	www.megumirawr.top
-Address: 172.67.180.217
-Name:	www.megumirawr.top
-Address: 2606:4700:3037::6815:53bb
-Name:	www.megumirawr.top
-Address: 2606:4700:3035::ac43:b4d9
+Name:	mtsijkh.top
+Address: 104.21.91.19
+Name:	mtsijkh.top
+Address: 172.67.208.50
+Name:	mtsijkh.top
+Address: 2606:4700:3035::ac43:d032
+Name:	mtsijkh.top
+Address: 2606:4700:3034::6815:5b13
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-wuk.woxxxxxx.nyc.mn	canonical name = www.visa.com.tw.
-www.visa.com.tw	canonical name = www.visa.com.tw.cdn.cloudflare.net.
-Name:	www.visa.com.tw.cdn.cloudflare.net
-Address: 104.18.4.250
-Name:	www.visa.com.tw.cdn.cloudflare.net
-Address: 104.18.5.250
+** server can't find www.mmh3gf.com: NXDOMAIN
 

@@ -40451,3 +40451,25 @@ Performing DNS lookup for yundunwawablogcdn1yd.wawacm.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 5475228] Update project files
+ 4 files changed, 73 insertions(+), 65 deletions(-)
+ rewrite dns_result.txt (84%)
+To github.com:amo0114/cfipv6.git
+   75d71a2..5475228  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.246.67...
+Fetching domains for 104.16.232.223...
+Fetching domains for 104.27.21.118...
+succeed to fetch domains for 104.16.232.223 from https://site.ip138.com/
+succeed to fetch domains for 104.27.21.118 from https://site.ip138.com/
+succeed to fetch domains for 190.93.246.67 from https://dnsdblookup.com/
+域名列表为
+['www.jsmx999.com', 'www.93xscc.com', 'www.0550cq.com', 'www.zongcaixs.cc', 'www.11txt.com', 'www.dy1255.com', 'a397.cc', '7sc.cc', 'api.wisemind-ai.com', 'www.tv9090.com', 'gh.con.sh', 'boyangjt.com', 'm.boyangjt.com', 'www.28dushu.com', 'www.nitianxieshen.com', 'www.99wx.cc', 'www.tushencn.com', 'chalaoshi.de', 'www.77zw.cc', 'www.3dck.com', 'www.33mov.com', 'jp57.cc', 'www.huanyaad.com', 'teslacentral.com', 'www.96dushu.com', 'cmcc.hza1128.x10.mx', 'vv1234.cn', 'www.cbcv.cc', 'www.zzztch.com', 'm.6i5.com', 'www.megumirawr.cc', 'www.zzgszg.com', 'www.xwbhk.com', 'www.paizipai.top', 'www.dypf8.com', 'www.991kan.com', 'www.penglecheng.com', 'www.90dushu.com', 'www.kanunu2.com', 'www.888dyy.cc', 'www.tinghen.com', '0702.rr.nu', 'blog.hostmonit.com', 'stock.hostmonit.com', 'sgv7.com', 'wuk.woxxxxxx.nyc.mn', 'www.bfb3.com', 'gtts.life', 'www.6i5.com', 'www.lailai360.com', 'www.kanju8.com', 'www.kx10.com', 'www.boyangjt.com', 'wogg.333232.xyz', 'cfip.xxxxxxxx.tk', 'www.tuozhan22.com', 'www.whpaiger.com', 'game.baomaojc.top']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.96dushu.com...
+Performing DNS lookup for www.megumirawr.cc...
+Performing DNS lookup for wuk.woxxxxxx.nyc.mn...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
