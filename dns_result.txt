@@ -2,37 +2,50 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-guyu.bygzs.cc	canonical name = cdn2.wcnmtxnmsl.cn.
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.69
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.73
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.21
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.37
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.119
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.32
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.2
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.1
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 103.116.7.3
-Name:	cdn2.wcnmtxnmsl.cn
-Address: 185.59.218.78
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find www.axxsjx.com: SERVFAIL
+www.6988tv.com	canonical name = 6988tv.com.
+6988tv.com	canonical name = cf.cloudflare.182682.xyz.
+Name:	cf.cloudflare.182682.xyz
+Address: 104.19.48.236
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.221.248
+Name:	cf.cloudflare.182682.xyz
+Address: 198.41.209.70
+Name:	cf.cloudflare.182682.xyz
+Address: 104.16.155.10
+Name:	cf.cloudflare.182682.xyz
+Address: 104.17.213.241
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:e7::3151:47a9
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3035::1a4f:5642
+Name:	cf.cloudflare.182682.xyz
+Address: 2a06:98c1:3120::5692:61a4
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:8ca0::3dc4:21a2
+Name:	cf.cloudflare.182682.xyz
+Address: 2606:4700:3032::818:669e
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.hg0389.com
-Address: 34.94.249.233
+www.web120.org	canonical name = sbcdn.cc.
+Name:	sbcdn.cc
+Address: 141.101.122.122
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+yundunwawablogcdn1yd.wawacm.com	canonical name = cffast.wawacm.com.
+cffast.wawacm.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
