@@ -40341,3 +40341,25 @@ Performing DNS lookup for www.295k.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7d959b5] Update project files
+ 4 files changed, 94 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (68%)
+To github.com:amo0114/cfipv6.git
+   dabd9e0..7d959b5  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 104.27.21.118...
+Fetching domains for 198.41.212.130...
+succeed to fetch domains for 188.114.96.125 from https://ipchaxun.com/
+succeed to fetch domains for 198.41.212.130 from https://ipchaxun.com/
+succeed to fetch domains for 104.27.21.118 from https://dnsdblookup.com/
+域名列表为
+['tv9090.com', 'www.tuozhan22.com', 'www.jhhtech.com', 'xs.wxtv.cc', 'm.tushencn.com', 'aktv.top', 'www.boyangjt.com', 'www.jsmx999.com', 'cmcc.hza1128.x10.mx', 'm.ghqy.com', 'wogg.333232.xyz', 'www.888dyy.cc', 'tushencn.com', 'www.paizipai.top', 'cfip.xxxxxxxx.tk', 'blog.hostmonit.com', 'speed.marisalnc.com', 'xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.xn--vjqt4ya07q.by-ktff-intel.im.114514782.xyz', 'cf1.492745.xyz', 'wei333.com', 'www.apboxi.com', 'downloads.vmicrosoft.com', 'subodi.com', 'www.96dushu.com', 'www.shengwanggongcheng.com', 'proxyip.digitalocean.fxxk.dedyn.io', '606977.com', 'www.web120.org', 'www.dy1255.com', 'cf-lt.sharecentre.online', 'cfrp.kryp.us.kg', 'www.33mov.com', 'www.630book.com', 'www.sztdsx.com', 'www.xxpg888.com', 'www.hnkswh.com', 'stock.hostmonit.com', 'www.chongxinpet.com', 'www.xn--sss604efuw.com', 'ukcc.digicert.pp.ua', 'www.zzgszz.com', 'www.ddaculture.com', 'cnamefuckxxs.yuchen.icu', 'e0101.com', 'vv1234.cn', 'www.0550cq.com', 'api.wisemind-ai.com', '4gdiy.com', 'www.6i5.com', 'www.sxyzxh.com', 'www.haqiandu.com', 'www.syhlm.com', 'www.lnudz.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.ylsbzs.com', 'www.xinjuc.com', 'www.hnxinlian.org', 'www.4gdiy.com', 'guyu.bygzs.cc', 'www.4148.net', 'c.xddcc.xyz', 'www.axxsjx.com', 'www.ddwhm.com', 'nlsdwsz.66666654.xyz', 'm.sxyzxh.com', 'www.scxdexx.com', 'www.weizhijc.com', 'www.megumirawr.cc', 'suboji.com', 'www.hengdawatch.com', 'jhpcza.66666654.xyz', 'www.55evd.com', 'www.qumiyun.com', 'www.hnten.com', 'uu93.com', 'www.sztimi.com', 'baxtc.66666654.xyz', 'zi0.cc', 'www.tv9090.com', 'wuk.woxxxxxx.nyc.mn', 'yundunwawablogcdn1dx.wawacm.com', 'www.wei333.com', 'www.mgwheelaxle.com', 'ganpian.com', '1165vip.com', '181ge.com', 'www.10zhanpai.com', 'game.baomaojc.top', 'hx.746556.xyz', 'www.28dushu.com', 'www.38yy.cn', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.mfwzhs.com', 'www.cskji.com', 'www.80yy.org', 'www.11txt.com', 'www.yjeky.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for baxtc.66666654.xyz...
+Performing DNS lookup for 181ge.com...
+Performing DNS lookup for cf1.492745.xyz...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

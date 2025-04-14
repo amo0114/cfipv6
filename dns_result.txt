@@ -1,50 +1,32 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find baxtc.66666654.xyz: NXDOMAIN
+Non-authoritative answer:
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-181ge.com	canonical name = weige-luo.b-cdn.net.
-Name:	weige-luo.b-cdn.net
-Address: 143.244.49.178
-Name:	weige-luo.b-cdn.net
-Address: 2400:52e0:1a01::954:1
+www.93xscc.com	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.17.84.230
+Name:	ips.993888.xyz
+Address: 104.18.160.143
+Name:	ips.993888.xyz
+Address: 104.17.73.77
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cf1.492745.xyz
-Address: 172.67.168.116
-Name:	cf1.492745.xyz
-Address: 162.159.153.55
-Name:	cf1.492745.xyz
-Address: 172.67.96.61
-Name:	cf1.492745.xyz
-Address: 172.67.247.109
-Name:	cf1.492745.xyz
-Address: 198.41.212.216
-Name:	cf1.492745.xyz
-Address: 172.67.75.151
-Name:	cf1.492745.xyz
-Address: 198.41.212.105
-Name:	cf1.492745.xyz
-Address: 141.101.115.74
-Name:	cf1.492745.xyz
-Address: 172.67.144.190
-Name:	cf1.492745.xyz
-Address: 172.67.114.89
-Name:	cf1.492745.xyz
-Address: 172.67.42.132
-Name:	cf1.492745.xyz
-Address: 172.67.150.244
-Name:	cf1.492745.xyz
-Address: 172.67.145.142
-Name:	cf1.492745.xyz
-Address: 172.67.253.47
-Name:	cf1.492745.xyz
-Address: 104.18.248.9
+wuk.woxxxxxx.nyc.mn	canonical name = www.visa.com.tw.
+www.visa.com.tw	canonical name = www.visa.com.tw.cdn.cloudflare.net.
+Name:	www.visa.com.tw.cdn.cloudflare.net
+Address: 104.18.4.250
+Name:	www.visa.com.tw.cdn.cloudflare.net
+Address: 104.18.5.250
 
