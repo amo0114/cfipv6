@@ -2,55 +2,34 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.uu93.com
-Address: 104.21.48.1
-Name:	www.uu93.com
-Address: 104.21.16.1
-Name:	www.uu93.com
-Address: 104.21.64.1
-Name:	www.uu93.com
-Address: 104.21.80.1
-Name:	www.uu93.com
-Address: 104.21.112.1
-Name:	www.uu93.com
-Address: 104.21.32.1
-Name:	www.uu93.com
-Address: 104.21.96.1
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:2001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:3001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:5001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:7001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:6001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:4001
-Name:	www.uu93.com
-Address: 2606:4700:3030::6815:1001
+api.wisemind-ai.com	canonical name = cfip.xxxxxxxx.tk.
+Name:	cfip.xxxxxxxx.tk
+Address: 190.93.244.201
+Name:	cfip.xxxxxxxx.tk
+Address: 198.41.212.130
+Name:	cfip.xxxxxxxx.tk
+Address: 104.16.232.223
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.dj5157.com	canonical name = dj5157.com.
-dj5157.com	canonical name = stock.hostmonit.com.
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
+lao304.com	canonical name = laowang-luo.b-cdn.net.
+Name:	laowang-luo.b-cdn.net
+Address: 143.244.49.177
+Name:	laowang-luo.b-cdn.net
+Address: 2400:52e0:1a01::954:1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cf-lt.sharecentre.online
-Address: 91.195.240.12
+Name:	mangalam.com
+Address: 172.67.208.50
+Name:	mangalam.com
+Address: 104.21.91.19
+Name:	mangalam.com
+Address: 2606:4700:3034::6815:5b13
+Name:	mangalam.com
+Address: 2606:4700:3035::ac43:d032
 
