@@ -2,45 +2,50 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.mfwzhs.com
-Address: 91.195.240.12
+Name:	www.wxxzzs.com
+Address: 104.19.81.91
+Name:	www.wxxzzs.com
+Address: 104.18.75.142
+Name:	www.wxxzzs.com
+Address: 104.18.109.224
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.xn--sss604efuw.com	canonical name = fty.xxooo.eu.org.
-Name:	fty.xxooo.eu.org
-Address: 104.21.16.1
-Name:	fty.xxooo.eu.org
-Address: 104.21.112.1
-Name:	fty.xxooo.eu.org
-Address: 104.21.64.1
-Name:	fty.xxooo.eu.org
-Address: 104.21.96.1
-Name:	fty.xxooo.eu.org
-Address: 104.21.48.1
-Name:	fty.xxooo.eu.org
-Address: 104.21.80.1
-Name:	fty.xxooo.eu.org
-Address: 104.21.32.1
-Name:	fty.xxooo.eu.org
-Address: 2606:4700:3030::6815:5001
-Name:	fty.xxooo.eu.org
-Address: 2606:4700:3030::6815:4001
-Name:	fty.xxooo.eu.org
-Address: 2606:4700:3030::6815:1001
-Name:	fty.xxooo.eu.org
-Address: 2606:4700:3030::6815:7001
-Name:	fty.xxooo.eu.org
-Address: 2606:4700:3030::6815:2001
-Name:	fty.xxooo.eu.org
-Address: 2606:4700:3030::6815:6001
-Name:	fty.xxooo.eu.org
-Address: 2606:4700:3030::6815:3001
+Name:	m.zhankuu.com
+Address: 104.21.91.19
+Name:	m.zhankuu.com
+Address: 172.67.208.50
+Name:	m.zhankuu.com
+Address: 2606:4700:3035::ac43:d032
+Name:	m.zhankuu.com
+Address: 2606:4700:3034::6815:5b13
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find www.mgwheelaxle.com: NXDOMAIN
+Non-authoritative answer:
+www.hhyy028.com	canonical name = yt5007.c2.hycdn.xyz.
+yt5007.c2.hycdn.xyz	canonical name = dcs.jqddos.xyz.
+Name:	dcs.jqddos.xyz
+Address: 104.17.146.212
+Name:	dcs.jqddos.xyz
+Address: 104.17.34.114
+Name:	dcs.jqddos.xyz
+Address: 104.19.220.250
+Name:	dcs.jqddos.xyz
+Address: 104.25.44.129
+Name:	dcs.jqddos.xyz
+Address: 104.25.41.112
+Name:	dcs.jqddos.xyz
+Address: 104.25.82.59
+Name:	dcs.jqddos.xyz
+Address: 104.16.83.215
+Name:	dcs.jqddos.xyz
+Address: 104.19.160.74
+Name:	dcs.jqddos.xyz
+Address: 104.16.90.99
+Name:	dcs.jqddos.xyz
+Address: 104.18.253.200
 
