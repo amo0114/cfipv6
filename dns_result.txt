@@ -2,41 +2,27 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.33mov.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
+proxyip.digitalocean.fxxk.dedyn.io	canonical name = proxyip.digitalocean.cmliussss.net.cdn.cloudflare.net.
+proxyip.digitalocean.cmliussss.net.cdn.cloudflare.net	canonical name = proxyip.digitalocean.hw.090227.xyz.
+proxyip.digitalocean.hw.090227.xyz	canonical name = 14061.cmliu.cloudns.org.cdn.cloudflare.net.
+Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 146.190.236.144
+Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 146.190.224.135
+Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 157.230.50.16
+Name:	14061.cmliu.cloudns.org.cdn.cloudflare.net
+Address: 142.93.229.101
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 172.67.172.249
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 104.21.30.140
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3033::6815:1e8c
-Name:	www.tinghen.com.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:acf9
+Name:	www.cocanwelding.com
+Address: 23.225.50.92
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-www.ddwhm.com	canonical name = cdn.159601.xyz.
-Name:	cdn.159601.xyz
-Address: 104.21.88.70
-Name:	cdn.159601.xyz
-Address: 172.67.173.165
-Name:	cdn.159601.xyz
-Address: 2606:4700:3034::ac43:ada5
-Name:	cdn.159601.xyz
-Address: 2606:4700:3035::6815:5846
+** server can't find jhpcza.66666654.xyz: NXDOMAIN
 
