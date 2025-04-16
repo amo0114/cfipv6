@@ -2,32 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.kx10.com	canonical name = ccc.zheshei.com.
-Name:	ccc.zheshei.com
-Address: 172.67.191.48
-Name:	ccc.zheshei.com
-Address: 104.21.49.157
-Name:	ccc.zheshei.com
-Address: 2606:4700:3035::6815:319d
-Name:	ccc.zheshei.com
-Address: 2606:4700:3033::ac43:bf30
+vv1234.cn	canonical name = cf2.mdzz.top.
+cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 104.21.2.45
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 172.67.152.132
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3032::6815:22d
+Name:	cf2.mdzz.top.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:9884
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.99wx.cc	canonical name = ips.993888.xyz.
-Name:	ips.993888.xyz
-Address: 104.17.197.140
-Name:	ips.993888.xyz
-Address: 104.16.122.71
-Name:	ips.993888.xyz
-Address: 104.16.123.156
+Name:	luwangyangrong.com
+Address: 69.16.230.165
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	e0101.com
-Address: 199.59.243.228
+** server can't find nigdeisletme.com: NXDOMAIN
 
