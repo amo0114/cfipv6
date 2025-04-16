@@ -2,24 +2,53 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	mixie.asia
-Address: 185.27.134.166
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-** server can't find cmcc.hza1128.x10.mx: SERVFAIL
+Name:	m90s.com
+Address: 162.254.36.135
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.zhankuu.com
-Address: 172.67.208.50
-Name:	www.zhankuu.com
-Address: 104.21.91.19
-Name:	www.zhankuu.com
-Address: 2606:4700:3035::ac43:d032
-Name:	www.zhankuu.com
-Address: 2606:4700:3034::6815:5b13
+Name:	26.namesilo123.top
+Address: 104.21.48.1
+Name:	26.namesilo123.top
+Address: 104.21.112.1
+Name:	26.namesilo123.top
+Address: 104.21.96.1
+Name:	26.namesilo123.top
+Address: 104.21.32.1
+Name:	26.namesilo123.top
+Address: 104.21.64.1
+Name:	26.namesilo123.top
+Address: 104.21.16.1
+Name:	26.namesilo123.top
+Address: 104.21.80.1
+Name:	26.namesilo123.top
+Address: 2606:4700:3030::6815:1001
+Name:	26.namesilo123.top
+Address: 2606:4700:3030::6815:2001
+Name:	26.namesilo123.top
+Address: 2606:4700:3030::6815:7001
+Name:	26.namesilo123.top
+Address: 2606:4700:3030::6815:5001
+Name:	26.namesilo123.top
+Address: 2606:4700:3030::6815:3001
+Name:	26.namesilo123.top
+Address: 2606:4700:3030::6815:4001
+Name:	26.namesilo123.top
+Address: 2606:4700:3030::6815:6001
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+wogg.333232.xyz	canonical name = huiyuan.ftyyy.eu.org.
+Name:	huiyuan.ftyyy.eu.org
+Address: 172.67.205.92
+Name:	huiyuan.ftyyy.eu.org
+Address: 104.21.77.70
+Name:	huiyuan.ftyyy.eu.org
+Address: 2606:4700:3036::6815:4d46
+Name:	huiyuan.ftyyy.eu.org
+Address: 2606:4700:3030::ac43:cd5c
 
