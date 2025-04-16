@@ -40737,3 +40737,27 @@ Performing DNS lookup for e0101.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 087e6d0] Update project files
+ 4 files changed, 59 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (70%)
+To github.com:amo0114/cfipv6.git
+   d1c7f71..087e6d0  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 104.25.105.1...
+Fetching domains for 104.21.91.19...
+succeed to fetch domains for 104.25.105.1 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.96.125 from https://dnsdblookup.com/
+Error fetching domains for 104.21.91.19 from https://dnsdblookup.com/: HTTPSConnectionPool(host='dnsdblookup.com', port=443): Max retries exceeded with url: /104.21.91.19/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='dnsdblookup.com', port=443): Read timed out. (read timeout=10)"))
+Fetching domains for 104.21.91.19...
+succeed to fetch domains for 104.21.91.19 from https://ipchaxun.com/
+域名列表为
+['www.wenchuanzhaopin.com', 'bumphillipscharities.com', 's1.52poke.wiki', 'devochki18.com', '925uu.com', 'mixie.asia', 'www.wecaidan.com', 'm.zhongguotv.com', 'www.megumirawr.cc', 'suzakucoin.net', 'www.651yy.com', 'wuk.woxxxxxx.nyc.mn', 'www.swuxfdc.cn', 'www.yase775.com', 'coinbasechain.org', 'guyu.bygzs.cc', 'www.tingshuyan.com', 'wenchuanzhaopin.com', 'www.hhyy028.com', '181ge.com', 'wap.pkpkh32.top', 'cfip.xxxxxxxx.tk', 'www.aprysw.com', 'www.bumphillipscharities.com', 'jiba09.top', 'glamourescorts69.com', 'api.wisemind-ai.com', 'www.zhongguotv.com', 'www.gzaode.com', 'www.mtsijkh.top', 'wogg.333232.xyz', 'mtsijkh.top', 'game.baomaojc.top', '69av7216.cc', 'www.991kan.com', 'www.senge.xyz', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'mangalam.com', 'www.pianba.tv', 'www.e0576f7b796298c9.com', 'zhongguotv.com', 'www.eevv99.com', 'www.whpaiger.com', 'nigdeisletme.com', 'www.tpyyc.com', 'gl9cf9.tw', 'cnamefuckxxs.yuchen.icu', 'appdh.app', 'tingshuyan.com', 'www.leyuzycdn.com', 'www.lingyi44.com', 's0.52poke.wiki', '651yy.com', 'vv1234.cn', 'mo.skmbbio.com', 'www.925uu.com', 'm.mtsijkh.top', 'deagledrop.com', 'teencategories.com', 'www.tianyunxingmm.com', 'cs487vkj0q.xyz', 'www.zhankuu.com', 'm.zhankuu.com', '1165vip.com', 'pianba.tv', 'luwangyangrong.com', 'x99av4978.xyz', 'www.yourkeymall.com', 'yourkeymall.com', 'www.mmh3gf.com', '52poke.wiki', '9knm.top', 'mmh3gf.com', '6a1070.top', '88303.xyz', 'www.tl123123.com', 'www.wubei520.com', 'inkpiu.it', 'www.yhdmxzw.com', 'gx.316786.xyz', 'www.77yeye.com', 'yhdmxzw.com', 'aspecialdayguide.com', 'www.suzakucoin.net']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for vv1234.cn...
+Performing DNS lookup for luwangyangrong.com...
+Performing DNS lookup for nigdeisletme.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

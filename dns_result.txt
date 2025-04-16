@@ -2,26 +2,26 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-vv1234.cn	canonical name = cf2.mdzz.top.
-cf2.mdzz.top	canonical name = cf2.mdzz.top.cdn.cloudflare.net.
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 104.21.2.45
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 172.67.152.132
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3032::6815:22d
-Name:	cf2.mdzz.top.cdn.cloudflare.net
-Address: 2606:4700:3035::ac43:9884
+*** Can't find speed.marisalnc.com: No answer
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	luwangyangrong.com
-Address: 69.16.230.165
+Name:	www.sxyzxh.com
+Address: 208.98.40.202
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find nigdeisletme.com: NXDOMAIN
+Non-authoritative answer:
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
