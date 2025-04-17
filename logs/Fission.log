@@ -41065,3 +41065,25 @@ Performing DNS lookup for www.93xscc.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ce4ac75] Update project files
+ 4 files changed, 57 insertions(+), 34 deletions(-)
+ rewrite dns_result.txt (75%)
+To github.com:amo0114/cfipv6.git
+   b879efe..ce4ac75  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.110...
+Fetching domains for 190.93.246.67...
+Fetching domains for 104.16.232.223...
+succeed to fetch domains for 104.17.127.110 from https://ipchaxun.com/
+succeed to fetch domains for 104.16.232.223 from https://site.ip138.com/
+succeed to fetch domains for 190.93.246.67 from https://dnsdblookup.com/
+域名列表为
+['www.6i5.com', 'www.kanju8.com', 'www.kx10.com', 'www.33mov.com', 'a397.cc', 'www.zzztch.com', 'www.90dushu.com', 'cfip.xxxxxxxx.tk', 'blog.hostmonit.com', 'www.paizipai.top', 'www.zzgszg.com', 'www.96dushu.com', 'api.wisemind-ai.com', 'www.77zw.cc', 'www.99wx.cc', 'jp57.cc', 'www.11txt.com', 'www.kanunu2.com', 'www.3dck.com', 'boyangjt.com', '7sc.cc', 'www.0550cq.com', 'wuk.woxxxxxx.nyc.mn', 'www.888dyy.cc', 'game.baomaojc.top', 'www.b7yy.cc', 'www.nitianxieshen.com', 'www.991kan.com', '0702.rr.nu', 'www.cbcv.cc', 'www.bfb3.com', 'www.lailai360.com', 'www.dy1255.com', 'www.huanyaad.com', 'www.93xscc.com', 'www.cfhuagong.com', 'www.xwbhk.com', 'm.boyangjt.com', 'www.megumirawr.cc', 'vv1234.cn', 'www.penglecheng.com', 'm.6i5.com', 'gh.con.sh', 'chalaoshi.de', 'www.tinghen.com', 'www.longwangchuanshuo.net', 'teslacentral.com', 'www.boyangjt.com', 'www.dypf8.com', 'sgv7.com', 'wogg.333232.xyz', 'www.tv9090.com', 'www.zongcaixs.cc', 'www.whpaiger.com', 'stock.hostmonit.com', 'gtts.life', 'www.jsmx999.com', 'www.28dushu.com', 'www.tuozhan22.com', 'www.tushencn.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for teslacentral.com...
+Performing DNS lookup for www.zzgszg.com...
+Performing DNS lookup for jp57.cc...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
