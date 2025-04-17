@@ -2,22 +2,24 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.ddwhm.com	canonical name = cdn.159601.xyz.
-Name:	cdn.159601.xyz
-Address: 172.67.173.165
-Name:	cdn.159601.xyz
-Address: 104.21.88.70
-Name:	cdn.159601.xyz
-Address: 2606:4700:3034::ac43:ada5
-Name:	cdn.159601.xyz
-Address: 2606:4700:3035::6815:5846
+Name:	e0101.com
+Address: 199.59.243.228
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	e0101.com
-Address: 199.59.243.228
+chat.wawacm.com	canonical name = cffast.wawacm.com.
+cffast.wawacm.com	canonical name = stock.hostmonit.com.
+stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 104.21.7.193
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 172.67.187.251
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3033::ac43:bbfb
+Name:	stock.hostmonit.com.cdn.cloudflare.net
+Address: 2606:4700:3037::6815:7c1
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
