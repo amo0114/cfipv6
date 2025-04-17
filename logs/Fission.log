@@ -40936,3 +40936,25 @@ Performing DNS lookup for gh.con.sh...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 76049b6] Update project files
+ 4 files changed, 67 insertions(+), 45 deletions(-)
+ rewrite dns_result.txt (71%)
+To github.com:amo0114/cfipv6.git
+   d712abc..76049b6  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.96.125...
+Fetching domains for 190.93.246.67...
+Fetching domains for 104.25.105.1...
+succeed to fetch domains for 104.25.105.1 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.96.125 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.246.67 from https://dnsdblookup.com/
+域名列表为
+['www.99wx.cc', 'www.kanunu2.com', 'www.kx10.com', 'gtts.life', 'guyu.bygzs.cc', 'cnamefuckxxs.yuchen.icu', 'a397.cc', 'www.77zw.cc', 'www.0550cq.com', 'www.jsmx999.com', 'boyangjt.com', 'www.6i5.com', 'cfip.xxxxxxxx.tk', 'm.6i5.com', 'www.dypf8.com', 'www.paizipai.top', 'www.dy1255.com', 'www.wubei520.com', '181ge.com', 'stock.hostmonit.com', 'www.33mov.com', 'www.tuozhan22.com', 'www.tv9090.com', 'www.boyangjt.com', 'www.888dyy.cc', 'www.kanju8.com', 'vv1234.cn', 'www.zongcaixs.cc', 'www.93xscc.com', '7sc.cc', 'www.wecaidan.com', 'game.baomaojc.top', 'www.96dushu.com', 'www.nitianxieshen.com', 'www.3dck.com', 'm.boyangjt.com', 'www.tinghen.com', 'www.tl123123.com', 'jp57.cc', 'www.28dushu.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.xwbhk.com', 'www.huanyaad.com', 'www.90dushu.com', 'www.tushencn.com', '0702.rr.nu', 'api.wisemind-ai.com', 'blog.hostmonit.com', 'www.991kan.com', 'chalaoshi.de', 'www.11txt.com', '1165vip.com', 'www.megumirawr.cc', 'wogg.333232.xyz', 'wuk.woxxxxxx.nyc.mn', 'www.hhyy028.com', 'sgv7.com', 'www.cbcv.cc', 'www.lailai360.com', 'www.zzgszg.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.33mov.com...
+Performing DNS lookup for sgv7.com...
+Performing DNS lookup for www.991kan.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
