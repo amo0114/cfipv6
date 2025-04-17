@@ -41087,3 +41087,24 @@ Performing DNS lookup for jp57.cc...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main ad7990c] Update project files
+ 4 files changed, 46 insertions(+), 21 deletions(-)
+To github.com:amo0114/cfipv6.git
+   ce4ac75..ad7990c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.27.21.118...
+Fetching domains for 190.93.247.169...
+Fetching domains for 188.114.97.144...
+succeed to fetch domains for 104.27.21.118 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.97.144 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.247.169 from https://dnsdblookup.com/
+域名列表为
+['lao310.com', 'mmiyy.com', 'www.megumirawr.cc', '0550cq.com', 'www.vcd.la', 'vv1234.cn', 'www.51jion.com', 'www.dj5157.com', 'suboji.com', 'wei333.com', 'www.4148.net', 'www.6i5.com', 'www.smdyy.cc', 'bestproxy.030101.xyz', 'www.suboji.com', 'www.235t.com', 'www.iios.club', 'zi0.cc', 'www.hanmatv.com', 'wogg.333232.xyz', 'www.4gdiy.com', 'www.ddwhm.com', 'www.92mili.com', 'www.tv9090.com', 'stock.hostmonit.com', 'cfip.xxxxxxxx.tk', 'www.hnxinlian.org', 'www.zhanglao8.fun', 'www.tinghen.com', 'wz.weishao2023.dk.eu.org', 'tv9090.com', 'www.paizipai.top', 'dsxys.pro', 'cf-lt.sharecentre.online', 'www.0550cq.com', 'lao304.com', 'cipuji.com', 'sgv7.com', 'www.93xscc.com', 'www.web120.org', 'archives.vip', 'e0101.com', 'yundunwawablogcdn1dx.wawacm.com', 'uu93.com', 'www.zgjmw.net', 'www.uu93.com', 'www.myvod360.com', 'game.baomaojc.top', 'chat.wawacm.com', 'www.jhhtech.com', 'chalaoshi.de', 'api.wisemind-ai.com', 'www.11txt.com', 'cmcc.hza1128.x10.mx', 'www.90dushu.com', 'yundunwawablogcdn1yd.wawacm.com', 'wuk.woxxxxxx.nyc.mn', 'www.wxxzzs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.235t.com...
+Performing DNS lookup for www.web120.org...
+Performing DNS lookup for www.ddwhm.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
