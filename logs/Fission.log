@@ -41002,3 +41002,24 @@ Performing DNS lookup for www.tv9090.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 7fe2b6c] Update project files
+ 4 files changed, 42 insertions(+), 18 deletions(-)
+To github.com:amo0114/cfipv6.git
+   e4eeb46..7fe2b6c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 188.114.97.144...
+Fetching domains for 190.93.247.169...
+Fetching domains for 104.27.21.118...
+succeed to fetch domains for 104.27.21.118 from https://ipchaxun.com/
+succeed to fetch domains for 188.114.97.144 from https://dnsdblookup.com/
+succeed to fetch domains for 190.93.247.169 from https://dnsdblookup.com/
+域名列表为
+['www.myvod360.com', 'cfip.xxxxxxxx.tk', 'zi0.cc', 'wogg.333232.xyz', 'suboji.com', 'lao310.com', 'www.zgjmw.net', '0550cq.com', 'www.6i5.com', 'e0101.com', 'cf-lt.sharecentre.online', 'www.4gdiy.com', 'dsxys.pro', 'lao304.com', 'www.235t.com', 'api.wisemind-ai.com', 'www.megumirawr.cc', 'www.4148.net', 'chat.wawacm.com', 'www.93xscc.com', 'www.tinghen.com', 'wei333.com', 'mmiyy.com', 'wz.weishao2023.dk.eu.org', 'bestproxy.030101.xyz', 'www.iios.club', 'sgv7.com', 'yundunwawablogcdn1yd.wawacm.com', 'www.uu93.com', 'wuk.woxxxxxx.nyc.mn', 'www.tv9090.com', 'www.hnxinlian.org', 'www.hanmatv.com', 'www.0550cq.com', 'www.paizipai.top', 'www.11txt.com', 'cmcc.hza1128.x10.mx', 'www.ddwhm.com', 'www.90dushu.com', 'www.web120.org', 'www.smdyy.cc', 'www.suboji.com', 'chalaoshi.de', 'www.92mili.com', 'archives.vip', 'www.wxxzzs.com', 'www.jhhtech.com', 'www.dj5157.com', 'cipuji.com', 'www.zhanglao8.fun', 'www.51jion.com', 'www.vcd.la', 'game.baomaojc.top', 'yundunwawablogcdn1dx.wawacm.com', 'vv1234.cn', 'stock.hostmonit.com', 'tv9090.com', 'uu93.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for e0101.com...
+Performing DNS lookup for chat.wawacm.com...
+Performing DNS lookup for www.tv9090.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.

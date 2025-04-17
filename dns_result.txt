@@ -2,15 +2,13 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	e0101.com
-Address: 199.59.243.228
+Name:	www.whpaiger.com
+Address: 162.209.149.30
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-chat.wawacm.com	canonical name = cffast.wawacm.com.
-cffast.wawacm.com	canonical name = stock.hostmonit.com.
 stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
 Name:	stock.hostmonit.com.cdn.cloudflare.net
 Address: 104.21.7.193
@@ -24,7 +22,5 @@ Address: 2606:4700:3037::6815:7c1
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-Non-authoritative answer:
-Name:	www.tv9090.com
-Address: 208.98.40.209
+** server can't find www.50zw.co: SERVFAIL
 
