@@ -2,33 +2,29 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	cf-lt.sharecentre.online
-Address: 91.195.240.12
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-stock.hostmonit.com	canonical name = stock.hostmonit.com.cdn.cloudflare.net.
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 104.21.7.193
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 172.67.187.251
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3033::ac43:bbfb
-Name:	stock.hostmonit.com.cdn.cloudflare.net
-Address: 2606:4700:3037::6815:7c1
-
-Server:		46.203.222.47
-Address:	46.203.222.47#53
-
-Non-authoritative answer:
-Name:	www.yhdmxzw.com
-Address: 104.21.91.19
-Name:	www.yhdmxzw.com
+Name:	aspecialdayguide.com
 Address: 172.67.208.50
-Name:	www.yhdmxzw.com
-Address: 2606:4700:3035::ac43:d032
-Name:	www.yhdmxzw.com
+Name:	aspecialdayguide.com
+Address: 104.21.91.19
+Name:	aspecialdayguide.com
 Address: 2606:4700:3034::6815:5b13
+Name:	aspecialdayguide.com
+Address: 2606:4700:3035::ac43:d032
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+lao304.com	canonical name = laowang-luo.b-cdn.net.
+Name:	laowang-luo.b-cdn.net
+Address: 143.244.49.179
+Name:	laowang-luo.b-cdn.net
+Address: 2400:52e0:1a01::912:1
+
+Server:		46.203.222.47
+Address:	46.203.222.47#53
+
+Non-authoritative answer:
+Name:	pianba.tv
+Address: 103.224.182.251
 
