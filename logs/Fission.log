@@ -41174,3 +41174,24 @@ Performing DNS lookup for www.yhdmxzw.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f1dd28c] Update project files
+ 4 files changed, 45 insertions(+), 28 deletions(-)
+To github.com:amo0114/cfipv6.git
+   6d0c313..f1dd28c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.16.232.223...
+Fetching domains for 104.21.91.19...
+Fetching domains for 188.114.97.144...
+succeed to fetch domains for 188.114.97.144 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.91.19 from https://site.ip138.com/
+succeed to fetch domains for 104.16.232.223 from https://site.ip138.com/
+域名列表为
+['luwangyangrong.com', 'www.yhdmxzw.com', 'www.whpaiger.com', 'www.megumirawr.cc', 'www.zhongguotv.com', 'www.yase775.com', 'www.leyuzycdn.com', 'www.senge.xyz', 'cfip.xxxxxxxx.tk', 'wogg.333232.xyz', 'www.zhankuu.com', 's0.52poke.wiki', '651yy.com', 'glamourescorts69.com', 'wenchuanzhaopin.com', 'gh.con.sh', 'www.yourkeymall.com', 'm.zhankuu.com', 'www.bfb3.com', 'www.suzakucoin.net', 'x99av4978.xyz', '925uu.com', 'www.93xscc.com', 'mmh3gf.com', 'm.zhongguotv.com', 'cs487vkj0q.xyz', 'tingshuyan.com', 'www.tingshuyan.com', 'www.eevv99.com', '6a1070.top', 'yhdmxzw.com', '9knm.top', 'vv1234.cn', 'www.lingyi44.com', 'm.mtsijkh.top', 'bestproxy.030101.xyz', 'api.wisemind-ai.com', 'mixie.asia', 'wap.pkpkh32.top', 'devochki18.com', 'www.pianba.tv', '69av7216.cc', 'zhongguotv.com', 'www.991kan.com', 'www.penglecheng.com', 'www.aprysw.com', 'gx.316786.xyz', 's1.52poke.wiki', 'www.mtsijkh.top', 'nigdeisletme.com', 'mtsijkh.top', 'www.mmh3gf.com', 'www.925uu.com', 'www.77yeye.com', 'www.tianyunxingmm.com', 'yourkeymall.com', 'lao310.com', 'deagledrop.com', 'appdh.app', 'www.gzaode.com', 'coinbasechain.org', 'www.bumphillipscharities.com', 'bumphillipscharities.com', 'www.wenchuanzhaopin.com', '88303.xyz', 'suzakucoin.net', 'www.swuxfdc.cn', 'gl9cf9.tw', 'lao304.com', '52poke.wiki', 'aspecialdayguide.com', 'inkpiu.it', 'www.e0576f7b796298c9.com', 'www.tpyyc.com', 'teslacentral.com', 'jiba09.top', 'www.651yy.com', 'www.zzztch.com', 'mangalam.com', 'mo.skmbbio.com', 'pianba.tv', 'game.baomaojc.top', 'teencategories.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for aspecialdayguide.com...
+Performing DNS lookup for lao304.com...
+Performing DNS lookup for pianba.tv...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
