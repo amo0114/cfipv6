@@ -41195,3 +41195,25 @@ Performing DNS lookup for pianba.tv...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main f7a7b8e] Update project files
+ 4 files changed, 74 insertions(+), 39 deletions(-)
+ rewrite dns_result.txt (64%)
+To github.com:amo0114/cfipv6.git
+   f1dd28c..f7a7b8e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 190.93.246.67...
+Fetching domains for 190.93.244.201...
+Fetching domains for 198.41.214.141...
+succeed to fetch domains for 198.41.214.141 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.246.67 from https://site.ip138.com/
+succeed to fetch domains for 190.93.244.201 from https://dnsdblookup.com/
+域名列表为
+['suboji.com', 'www.0550cq.com', 'e0101.com', '7y26.com', 'www.kanju8.com', 'www.xn--sss604efuw.com', 'acjp2.cloudflarest.link', 'www.50zw.co', 'zi0.cc', 'www.zzgszg.com', '8810868.com', 'm.0550cq.com', 'www.c333.net', 'www.4gdiy.com', 'www.wn01.cc', 'www.28dushu.com', 'wuk.woxxxxxx.nyc.mn', 'www.wxxzzs.com', 'jp57.cc', 'www.boyangjt.com', 'www.yjys05.com', 'www.vodbd.com', 'www.suboji.com', 'sgv7.com', 'www.4148.net', 'tv9090.com', 'www.xwbhk.com', 'speed.marisalnc.com', 'www.b7yy.cc', 'www.33mov.com', 'www.hg0389.com', 'cf1.492745.xyz', 'www.lailai360.com', 'ag.hg2096.com', 'www.991kan.com', '0550cq.com', 'bestproxy.030101.xyz', 'uu93.com', 'www.dy1255.com', 'www.gzlatin.com', 'wei333.com', 'www.7sc.cc', 'www.uu93.com', 'ddkan.tv', 'www.e0101.com', '7sc.cc', 'www.hnxinlian.org', 'yx.887141.xyz', 'www.qf527.com', 'www.3dck.com', 'panel3.touhou.tel', 'www.888dyy.cc', 'www.tushencn.com', 'www.116.ag', 'www.6988tv.com', 'chalaoshi.de', 'ei01.com', 'www.megumirawr.cc', 'www.fnyy.net', 'vv1234.cn', 'longli.online', 'www.paizipai.top', 'cfrp.kryp.us.kg', '65bao2.com', 'gtts.life', 'www.kx10.com', 'www.ddkan.tv', 'www.679077.com', 'www.zongcaixs.cc', 'api.wisemind-ai.com', 'wogg.333232.xyz', 'blog.hostmonit.com', 'a397.cc', 'm.boyangjt.com', 'www.qp666.com', 'www.hanjutv5.com', 'qiangkouzhao.com', 'www.tv9090.com', 'www.209tv.com', 'stock.hostmonit.com', 'www.77zw.cc', '606977.com', 'www.90dushu.com', 'm.6i5.com', 'www.6i5.com', 'cfip.xxxxxxxx.tk', 'www.zhiqihuo.com', 'www.huaidan1.com', 'kklive.top', 'www.sxyzxh.com', 'www.pwcai.com', 'm.mw171.com', '26.namesilo123.top', 'ayuer.com', '0702.rr.nu', 'www.yya.gs', 'www.tuozhan22.com', 'cf-lt.sharecentre.online', 'www.nitianxieshen.com', 'www.11txt.com', 'game.baomaojc.top', 'www.cbcv.cc', 'www.web120.org', 'www.bimiacg.net', 'www.wn03.cc', '63ws.com', 'www.dypf8.com', 'www.ayuer.com', 'qr99.cc', 'www.u9yy.com', 'www.kanunu2.com', 'missav.mrst.one', 'www.99wx.cc', 'www.96dushu.com', 'www.jsmx999.com', 'www.93xscc.com', 'www.huanyaad.com', 'qp66.com', 'boyangjt.com', 'www.tinghen.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for blog.hostmonit.com...
+Performing DNS lookup for www.tinghen.com...
+Performing DNS lookup for missav.mrst.one...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
