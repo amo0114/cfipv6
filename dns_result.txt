@@ -1,19 +1,34 @@
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
-** server can't find c.xddcc.xyz: NXDOMAIN
+Non-authoritative answer:
+www.77zw.cc	canonical name = ips.993888.xyz.
+Name:	ips.993888.xyz
+Address: 104.19.165.158
+Name:	ips.993888.xyz
+Address: 104.17.218.133
+Name:	ips.993888.xyz
+Address: 104.19.161.109
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.syhlm.com
-Address: 104.218.234.50
+Name:	65bao2.com
+Address: 38.14.237.150
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.hnten.com
-Address: 38.12.117.50
+www.u9yy.com	canonical name = 4sngw5cf.aliadvance.com.
+4sngw5cf.aliadvance.com	canonical name = qe9b5c7y.n.aliadvance.com.
+Name:	qe9b5c7y.n.aliadvance.com
+Address: 194.147.100.100
+Name:	qe9b5c7y.n.aliadvance.com
+Address: 194.147.100.76
+Name:	qe9b5c7y.n.aliadvance.com
+Address: 194.147.100.99
+Name:	qe9b5c7y.n.aliadvance.com
+Address: 194.147.100.101
 
