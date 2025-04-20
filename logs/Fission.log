@@ -41631,3 +41631,25 @@ Performing DNS lookup for www.scxdexx.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 0b3563a] Update project files
+ 4 files changed, 60 insertions(+), 64 deletions(-)
+ rewrite dns_result.txt (81%)
+To github.com:amo0114/cfipv6.git
+   b9c7867..0b3563a  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.110...
+Fetching domains for 190.93.247.169...
+Fetching domains for 188.114.97.144...
+succeed to fetch domains for 104.17.127.110 from https://site.ip138.com/
+succeed to fetch domains for 190.93.247.169 from https://dnsdblookup.com/
+succeed to fetch domains for 188.114.97.144 from https://site.ip138.com/
+域名列表为
+['archives.vip', 'yundunwawablogcdn1yd.wawacm.com', 'www.suboji.com', 'www.wxxzzs.com', 'www.0550cq.com', 'lao310.com', 'suboji.com', 'www.93xscc.com', 'www.11txt.com', 'www.jhhtech.com', 'www.uu93.com', 'www.6i5.com', 'www.paizipai.top', 'tv9090.com', 'stock.hostmonit.com', 'mmiyy.com', 'www.90dushu.com', 'www.vcd.la', '0550cq.com', 'www.web120.org', 'www.zgjmw.net', 'uu93.com', 'wz.weishao2023.dk.eu.org', 'chalaoshi.de', 'www.dj5157.com', 'api.wisemind-ai.com', 'www.longwangchuanshuo.net', 'sgv7.com', 'wogg.333232.xyz', 'cipuji.com', 'www.iios.club', 'vv1234.cn', 'cf-lt.sharecentre.online', 'www.zhanglao8.fun', 'www.ddwhm.com', 'zi0.cc', 'chat.wawacm.com', 'www.235t.com', 'bestproxy.030101.xyz', 'www.myvod360.com', 'www.tinghen.com', 'www.megumirawr.cc', 'game.baomaojc.top', 'www.b7yy.cc', 'www.hnxinlian.org', 'kklive.top', 'www.4gdiy.com', 'www.4148.net', 'www.51jion.com', 'wei333.com', 'cfip.xxxxxxxx.tk', 'www.cfhuagong.com', 'dsxys.pro', 'www.hanmatv.com', 'www.smdyy.cc', 'lao304.com', 'www.92mili.com', 'www.tv9090.com', 'yundunwawablogcdn1dx.wawacm.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for cipuji.com...
+Performing DNS lookup for www.web120.org...
+Performing DNS lookup for www.4148.net...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
