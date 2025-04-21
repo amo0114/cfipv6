@@ -41871,3 +41871,25 @@ Performing DNS lookup for www.tinghen.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main 2e6d84c] Update project files
+ 4 files changed, 59 insertions(+), 44 deletions(-)
+ rewrite dns_result.txt (73%)
+To github.com:amo0114/cfipv6.git
+   c5f3209..2e6d84c  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.21.91.19...
+Fetching domains for 190.93.244.201...
+Fetching domains for 104.17.127.110...
+succeed to fetch domains for 104.17.127.110 from https://ipchaxun.com/
+succeed to fetch domains for 104.21.91.19 from https://ipchaxun.com/
+succeed to fetch domains for 190.93.244.201 from https://site.ip138.com/
+域名列表为
+['pianba.tv', 'www.yourkeymall.com', 'www.mmh3gf.com', '606977.com', 'bestproxy.030101.xyz', 'game.baomaojc.top', 'inkpiu.it', 'wuk.woxxxxxx.nyc.mn', 'www.huaidan1.com', 'www.50zw.co', 'uu93.com', '52poke.wiki', 'www.web120.org', 'mmh3gf.com', 'cfip.xxxxxxxx.tk', 'x99av4978.xyz', 'bumphillipscharities.com', 'www.leyuzycdn.com', 'coinbasechain.org', 'deagledrop.com', 'www.cfhuagong.com', 'www.megumirawr.cc', 'api.wisemind-ai.com', 'www.wenchuanzhaopin.com', 'jiba09.top', 'www.zhankuu.com', 'm.zhankuu.com', 'suzakucoin.net', 'www.77yeye.com', 'tingshuyan.com', 'www.aprysw.com', 'luwangyangrong.com', 'www.gzlatin.com', 'www.suzakucoin.net', 'm.zhongguotv.com', 'www.4148.net', 'www.yase775.com', 'wenchuanzhaopin.com', 'yhdmxzw.com', 'www.pwcai.com', 'www.4gdiy.com', 'www.eevv99.com', 'www.paizipai.top', 'www.zhiqihuo.com', 'yourkeymall.com', 'www.sxyzxh.com', 'cf1.492745.xyz', 'www.ddkan.tv', 'kklive.top', 'www.xn--sss604efuw.com', 'ei01.com', 'cf-lt.sharecentre.online', 'www.bimiacg.net', 's0.52poke.wiki', 'www.senge.xyz', 'www.pianba.tv', 'www.651yy.com', 'www.606977.com', 'www.longwangchuanshuo.net', 'www.b7yy.cc', 'ayuer.com', 'teencategories.com', 'glamourescorts69.com', 'acjp2.cloudflarest.link', 'www.mtsijkh.top', 'www.tingshuyan.com', 'tv9090.com', '7y26.com', 'www.e0576f7b796298c9.com', 'www.925uu.com', 'www.bumphillipscharities.com', 'mtsijkh.top', 'gl9cf9.tw', 'qr99.cc', 'www.wn01.cc', 'www.11txt.com', 'mangalam.com', 'www.tinghen.com', 'www.6988tv.com', '651yy.com', 'www.yhdmxzw.com', 'www.991kan.com', 'm.mw171.com', 'wogg.333232.xyz', 'cs487vkj0q.xyz', 'www.lingyi44.com', 'cfrp.kryp.us.kg', 's1.52poke.wiki', 'devochki18.com', '923055.com', 'mo.skmbbio.com', 'www.7sc.cc', 'www.zzgszg.com', '925uu.com', '6a1070.top', 'www.zhongguotv.com', 'womyt.com', 'www.tpyyc.com', 'www.whpaiger.com', '69av7216.cc', 'gx.316786.xyz', 'aspecialdayguide.com', 'wap.pkpkh32.top', 'www.tianyunxingmm.com', '9knm.top', 'm.mtsijkh.top', 'zhongguotv.com', 'panel3.touhou.tel', 'www.uu93.com', 'mixie.asia', 'appdh.app', 'www.77zw.cc', 'www.u9yy.com', '0550cq.com', 'www.hanjutv5.com', 'www.hnxinlian.org', '88303.xyz', 'www.swuxfdc.cn', 'vv1234.cn', 'nigdeisletme.com', '8810868.com', '65bao2.com', 'ddkan.tv', 'www.gzaode.com', 'www.tv9090.com', 'www.efffs.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.aprysw.com...
+Performing DNS lookup for teencategories.com...
+Performing DNS lookup for www.whpaiger.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
