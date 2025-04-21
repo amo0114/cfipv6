@@ -41805,3 +41805,25 @@ Performing DNS lookup for m.niuerzs.com...
 域名 -> IP 已完成
 Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
 Project files uploaded to GitHub successfully.
+[main cf2f49e] Update project files
+ 4 files changed, 121 insertions(+), 38 deletions(-)
+ rewrite dns_result.txt (67%)
+To github.com:amo0114/cfipv6.git
+   25669b7..cf2f49e  main -> main
+Downloaded 15 IPs from https://raw.githubusercontent.com/ymyuuu/IPDB/refs/heads/main/bestcf.txt, selected 3 IPs.
+Fetching domains for 104.17.127.110...
+Fetching domains for 104.20.255.53...
+Fetching domains for 188.114.96.125...
+succeed to fetch domains for 188.114.96.125 from https://ipchaxun.com/
+succeed to fetch domains for 104.20.255.53 from https://ipchaxun.com/
+succeed to fetch domains for 104.17.127.110 from https://site.ip138.com/
+域名列表为
+['www.xkx999.com', 'api.wisemind-ai.com', 'vv1234.cn', 'guyu.bygzs.cc', 'www.339my.xyz', 'www.b7yy.cc', 'www.longwangchuanshuo.net', 'wogg.333232.xyz', 'www.megumirawr.cc', 'wuk.woxxxxxx.nyc.mn', 'fa1.fun', 'cfip.xxxxxxxx.tk', 'www.90qr.com', '181ge.com', 'm90s.com', 'www.hhyy028.com', 'cnamefuckxxs.yuchen.icu', 'game.baomaojc.top', 'www.5522tl.com', 'ss8r1e0k.szwhoroulnb5ndhimbqt.top', 'www.999yh.vip', 'www.tockt.com', '1165vip.com', 'www.wubei520.com', 'www.cfhuagong.com', 'kklive.top', 'www.295k.com', 'www.pk299.com']
+随机选择的域名已保存到 selected_domains.txt
+IP -> 域名 已完成
+Performing DNS lookup for www.5522tl.com...
+Performing DNS lookup for wogg.333232.xyz...
+Performing DNS lookup for www.hhyy028.com...
+域名 -> IP 已完成
+Fission_ip.txt content backed up to Fission_ip_backup.txt successfully.
+Project files uploaded to GitHub successfully.
