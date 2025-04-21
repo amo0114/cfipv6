@@ -2,39 +2,28 @@ Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-www.77yeye.com	canonical name = p.urlwa.com.
-Name:	p.urlwa.com
-Address: 172.67.141.40
-Name:	p.urlwa.com
-Address: 104.21.38.248
-Name:	p.urlwa.com
-Address: 2606:4700:3032::6815:26f8
-Name:	p.urlwa.com
-Address: 2606:4700:3036::ac43:8d28
+Name:	sgv7.com
+Address: 23.248.226.74
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	6a1070.top
-Address: 104.21.91.19
-Name:	6a1070.top
-Address: 172.67.208.50
-Name:	6a1070.top
-Address: 2606:4700:3034::6815:5b13
-Name:	6a1070.top
-Address: 2606:4700:3035::ac43:d032
+www.tinghen.com	canonical name = www.tinghen.com.cdn.cloudflare.net.
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 104.21.30.140
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 172.67.172.249
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3033::6815:1e8c
+Name:	www.tinghen.com.cdn.cloudflare.net
+Address: 2606:4700:3035::ac43:acf9
 
 Server:		46.203.222.47
 Address:	46.203.222.47#53
 
 Non-authoritative answer:
-Name:	www.bumphillipscharities.com
-Address: 172.67.208.50
-Name:	www.bumphillipscharities.com
-Address: 104.21.91.19
-Name:	www.bumphillipscharities.com
-Address: 2606:4700:3035::ac43:d032
-Name:	www.bumphillipscharities.com
-Address: 2606:4700:3034::6815:5b13
+m.niuerzs.com	canonical name = www.jdzjq.cn.
+Name:	www.jdzjq.cn
+Address: 150.129.82.225
 
